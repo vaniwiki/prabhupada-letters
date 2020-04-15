@@ -1,0 +1,38 @@
+~~Title: Letter to: Manager, Central Bank of India — September 6, 1976~~
+~~bc: Manager, Central Bank of India — September 6, 1976~~
+
+====== Letter to: Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Central Bank of India
+ListDate_hidden  : 1976-09-06
+showdate_hidden  : 2020-09-06
+To_letters       : Manager, Central Bank of India
+Date_letter      : September 6
+Year_letter      : 1976
+Place_letter     : 
+----
+
+The Manager\\
+Central Bank of India\\
+10 Camac St.\\
+Calcutta 700-017
+
+Sri Krishna Balaram Mandir\\
+Chattikara Rd. Raman Reti\\
+Vrndavana Math. Dist. U.P.
+
+Re: FDR in name of Bhaktivedanta Book Trust effected 4-3-76
+
+Dear Sir: 
+
+With further reference to my letter dated July 10, 1976 I beg to request you to transfer the interest to Vrnda Book Company account until further notice.
+
+Thanking you.
+
+Yours sincerely, \\
+A.C. Bhaktivedanta Swami
+
+Cc: Vrnda Book Company
+
+ACBS/hs

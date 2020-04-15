@@ -1,0 +1,29 @@
+~~Title: Letter to: Mr. Mohan Majundar — November 18, 1975~~
+~~bc: Mr. Mohan Majundar — November 18, 1975~~
+
+====== Letter to: Mr. Mohan Majundar ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Mohan Majundar
+ListDate_hidden  : 1975-11-18
+showdate_hidden  : 2020-11-18
+To_letters       : Mr. Mohan Majundar
+Date_letter      : November 18
+Year_letter      : 1975
+Place_letter     : Bombay
+----
+
+Mr. Mohan Majundar\\
+402/1/A Netaji Subhas Candra Bose Road\\
+Calcutta 47
+
+Dear Mohan Majumdar,
+
+I am in due receipt of your letter dated 12/11/75 and have noted the contents. I can be seen during the Lord Caitanya birthday celebration in Sridhama Mayapur. That will be in March of 1976.
+
+We cannot invest any money in any film industry. I am very glad to learn that you will soon be freed from all family responsibility and join our movement.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/BS/mdd

@@ -1,0 +1,29 @@
+~~Title: Letter to: First National City Bank — August 3, 1966~~
+~~bc: First National City Bank — August 3, 1966~~
+
+====== Letter to: First National City Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : First National City Bank
+ListDate_hidden  : 1966-08-03
+showdate_hidden  : 2020-08-03
+To_letters       : First National City Bank
+Date_letter      : August 3
+Year_letter      : 1966
+Place_letter     : New York
+----
+
+Manager\\
+First National City Bank\\
+Grand Street Branch\\
+Grand St. and Bowery\\
+New York 13 N.Y.
+
+Dear Sir,
+
+I beg to inform you that I have to transfer 1500/- Indian rupees to my Account (Savings) No. 1452 with the Bank of Baroda Limited Chandni Chawk Branch Delhi-6, India from my savings bank a/c with you.
+
+Please let me know how many dollars I have to withdraw for the exchange and your charges for transfer by air mail.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami

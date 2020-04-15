@@ -1,0 +1,38 @@
+~~Title: Letter to: Manager of Bank of Baroda — April 18, 1970~~
+~~bc: Manager of Bank of Baroda — April 18, 1970~~
+
+====== Letter to: Manager of Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of Baroda
+ListDate_hidden  : 1970-04-18
+showdate_hidden  : 2020-04-18
+To_letters       : Manager of Bank of Baroda
+Date_letter      : April 18
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Bank of Baroda\\
+India Exchange Branch\\
+P.O. No. 313\\
+India Exchange Place\\
+Calcutta-1, India
+
+Dear Sir:
+
+Re: My savings account No. 29/12802
+
+Kindly refer to your letter No. SB/34/1759, dated 14th March, 1970, which I have replied duly dated on the 25th March, 1970.
+
+I hope by this time you have received sanction for transferring Rs. 5,000 from my above account to the United Bank of India Ltd., 157/B Dharmatalla Street, Calcutta 13, for credit of savings account of Sri M. M. De.
+
+Please therefore transfer the account on receipt of this letter.
+
+Thanking you in anticipation.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

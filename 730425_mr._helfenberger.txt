@@ -1,0 +1,32 @@
+~~Title: Letter to: Mr. Helfenberger — April 25, 1973~~
+~~bc: Mr. Helfenberger — April 25, 1973~~
+
+====== Letter to: Mr. Helfenberger ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Helfenberger
+ListDate_hidden  : 1973-04-25
+showdate_hidden  : 2020-04-25
+To_letters       : Mr. Helfenberger
+Date_letter      : April 25
+Year_letter      : 1973
+Place_letter     : Los Angeles
+----
+
+Swiss Credit Bank\\
+P.O. Box 60900\\
+Los Angeles, Cal. 90060\\
+Att: Mr. Leo C. Helfenberger
+
+Dear Mr. Helfenberger:
+
+I beg to acknowledge receipt of your letter dated April 23, 1973 and have noted the contents. In your Zurich head office the manager told me there would no charges for depositing checks. So there is no difficulty to send you Cashier's Check, but there cannot be any charges. Also, my account is in U.S. $ and not Swiss Francs.
+
+If you can confirm to me that there will be no charge for depositing, then I can send you checks. So please tell me what to do.
+
+Faithfully yours,
+
+A.C. Bhaktivedanta Swami
+
+cc: Swiss Credit Bank, Zurich\\
+ACBS/bs

@@ -1,0 +1,36 @@
+~~Title: Letter to: Punjab National Bank — June 28, 1975~~
+~~bc: Punjab National Bank — June 28, 1975~~
+
+====== Letter to: Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Punjab National Bank
+ListDate_hidden  : 1975-06-28
+showdate_hidden  : 2020-06-28
+To_letters       : Punjab National Bank
+Date_letter      : June 28
+Year_letter      : 1975
+Place_letter     : Denver
+----
+
+Punjab National Bank\\
+Vrindaban Branch\\
+Vrindaban, Dist. Mathura\\
+U.P. INDIA\\
+Att: The Manager
+
+Dear Sir:
+
+Re: A/c No. 668 Vrindaban Construction Fund Fixed Deposit for Rs. 3,14,557.36 Date of Maturity 21/6/75
+
+Regarding the above mentioned C.D. which matured on June 21, 1975, out of this 1 lakh of Rupees may be kept with you, and the balance should be renewed for Fixed Deposit for 3 (three) months.
+
+The 1 lakh of Rupees may be kept in your custody, and you issue a letter of credit in favor of Sri Chanshyam das Agarawal of Murzaffar Nagar stating that on completion of the negotiation of selling his land to Mayapur-Vrindaban Trust he will get up to 1 lakh of Rupees when the conveyance deed is registered before the Registrar.
+
+Thanking you.
+
+Faithfully yours,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

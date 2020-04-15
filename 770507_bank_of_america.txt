@@ -1,0 +1,32 @@
+~~Title: Letter to: Bank of America — May 7, 1977~~
+~~bc: Bank of America — May 7, 1977~~
+
+====== Letter to: Bank of America ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of America
+ListDate_hidden  : 1977-05-07
+showdate_hidden  : 2020-05-07
+To_letters       : Bank of America
+Date_letter      : May 7
+Year_letter      : 1977
+Place_letter     : India
+----
+
+Bank of America\\
+Culver City Branch\\
+Los Angeles, California
+
+Dear Sirs,
+
+Kindly transfer the amount of $40,000.00 (Forty Thousand Dollars and no cents) from our account number 6004-07143, "International Society for Krishna Consciousness Mayapur-Vrndavana Fund" held with your bank to the favor of "Bhaktivedanta Book Trust" account at the Union Bank, Los Angeles. Please advise me when the transaction has been completed at my above Bombay address.
+
+Thanking you.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+c.c. Ramesvara Swami (Robert Grant)\\
+Bhaktivedanta Book Trust\\
+3764 Watseka Ave.\\
+Los Angeles, Calif. 90034

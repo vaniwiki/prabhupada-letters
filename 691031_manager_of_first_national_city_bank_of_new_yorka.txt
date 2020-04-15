@@ -1,0 +1,32 @@
+~~Title: Letter to: Manager of First National City Bank of New York — October 31, 1969~~
+~~bc: Manager of First National City Bank of New York — October 31, 1969~~
+
+====== Letter to: Manager of First National City Bank of New York ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of First National City Bank of New York
+ListDate_hidden  : 1969-10-31
+showdate_hidden  : 2020-10-31
+To_letters       : Manager of First National City Bank of New York
+Date_letter      : October 31
+Year_letter      : 1969
+Place_letter     : Tittenhurst
+----
+
+Manager\\
+FIRST NATIONAL CITY BANK OF NEW YORK\\
+(Bowery and Grand Street Branch)\\
+New York, NY 10003\\
+USA
+
+Dear Sir;
+
+REGARDING MY ACCOUNT, #0420160131
+
+I beg to request you to transfer my above account to your branch at 686 Broadway, near Great Jones Street, New York, NY 10012. This will facilitate my dealings with the INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS, who has their account in this branch. After doing this kindly inform me and also send me a new passbook to the above address.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/pdb

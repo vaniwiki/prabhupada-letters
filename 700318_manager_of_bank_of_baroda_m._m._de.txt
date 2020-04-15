@@ -1,0 +1,47 @@
+~~Title: Letter to: Manager of Bank of Baroda, M. M. De — March 18, 1970~~
+~~bc: Manager of Bank of Baroda, M. M. De — March 18, 1970~~
+
+====== Letter to: Manager of Bank of Baroda, M. M. De ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of Baroda, M. M. De
+ListDate_hidden  : 1970-03-18
+showdate_hidden  : 2020-03-18
+To_letters       : Manager of Bank of Baroda, M. M. De
+Date_letter      : March 18
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Bank of Baroda (Calcutta Branch)\\
+P.O. Box No. 313\\
+India Exchange\\
+Calcutta-1, India
+
+Dear Sir:
+
+Re: My S/B Account No. 29/12802 with you Through M. M. De
+
+Kindly refer to my letter dated 3 March, 1970.
+
+It is understood that the transfer of Rs. 5000 to the savings account No. 8/16578 with the United Bank of India Ltd., 157/B Dharmatalla Street, Calcutta-13, in favor of M. M. De, is under process of being sanctioned by the Reserve Bank.
+
+Please transfer at least Rs. 1000 to the above account without delay, pending the Reserve Bank's sanction. And after being sanctioned, you can transfer the balance of Rs. 4000.
+
+Thanking you in anticipation, and oblige.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+Sriman M.M. De\\
+Calcutta, India
+
+My dear Buro,
+
+Please accept my blessings. I am in due receipt of your letter dated 14 March, 1970, and noted the contents. I have not received any of your letter dated 13 March, 1970. When I receive that letter also, then I shall reply in detail. In the meantime, you can take this letter to the banks, and do the needful.
+
+Yours affectionately,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

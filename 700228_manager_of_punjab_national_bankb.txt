@@ -1,0 +1,34 @@
+~~Title: Letter to: Manager of Punjab National Bank — February 28, 1970~~
+~~bc: Manager of Punjab National Bank — February 28, 1970~~
+
+====== Letter to: Manager of Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Punjab National Bank
+ListDate_hidden  : 1970-02-28
+showdate_hidden  : 2020-02-28
+To_letters       : Manager of Punjab National Bank
+Date_letter      : February 28
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Punjab National Bank\\
+Brabourne Road Branch\\
+Calcutta-1, India
+
+Dear Sir:
+
+Re: My savings fund account No. 2595
+
+I beg to inform you that on 13 January, 1970, I advised your Vrindaban Branch to transfer Rs. 5,500 from my account there to my account with you as above mentioned.
+
+Kindly let me know if you have received the money and credited it to my above account. Also please let me know what is the present balance.
+
+Thanking you in anticipation of an early reply.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

@@ -1,0 +1,33 @@
+~~Title: Letter to: Manager of Lloyds Bank — September 18, 1976~~
+~~bc: Manager of Lloyds Bank — September 18, 1976~~
+
+====== Letter to: Manager of Lloyds Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Lloyds Bank
+ListDate_hidden  : 1976-09-18
+showdate_hidden  : 2020-09-18
+To_letters       : Manager of Lloyds Bank
+Date_letter      : September 18
+Year_letter      : 1976
+Place_letter     : Vrindaban
+----
+
+The Manager\\
+Lloyds Bank\\
+Southampton Row\\
+London, England\\
+Re: account number 8006334\\
+in the name of A.C. Bhaktivedanta Swami
+
+Dear Sir,
+
+Please withdraw the sum of forty five hundred English Pounds Sterling (4,500 Pounds) from the above mentioned account and transfer it to the account of the International Society for Krishna Consciousness (Hare Krishna Society) in your branch, and advise me that you have done so.
+
+Thanking you,
+
+yours sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/hs

@@ -1,0 +1,42 @@
+~~Title: Letter to: Central Bank of India — June 24, 1974~~
+~~bc: Central Bank of India — June 24, 1974~~
+
+====== Letter to: Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Central Bank of India
+ListDate_hidden  : 1974-06-24
+showdate_hidden  : 2020-06-24
+To_letters       : Central Bank of India
+Date_letter      : June 24
+Year_letter      : 1974
+Place_letter     : Melbourne
+----
+
+Central Bank of India
+
+Gowalia Tank Road Branch,\\
+Bombay, India
+
+Re: Account Number 16066 in the title\\
+of The Bhaktivedanta Book Trust
+
+Dear Sirs:
+
+Please be informed that it has hereby been resolved by myself, A.C. Bhaktivedanta Swami, the Settlor, and the Trustees of the Bhaktivedanta Book Trust, that the following persons shall henceforth be empowered to act as signatories and executors of the above mentioned account at your bank:
+
+1) A.C. Bhaktivedanta Swami
+
+2) Giriraja das Brahmacari
+
+3) Karandhara das Adhikari
+
+I, A.C. Bhaktivedanta Swami, the Settlor of the Bhaktivedanta Book Trust, shall have full power and authority to act alone on all matters pertaining to the above mentioned account; whereas Giriraja das Brahmacari and Karandhara das Adhikari, Trustees of the Bhaktivedanta Book Trust, shall have the same powers by acting conjointly on all account matters.
+
+Thank you for the attention to this matter.
+
+Very truly yours,
+
+A.C. Bhaktivedanta Swami
+
+Settlor

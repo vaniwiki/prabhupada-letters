@@ -1,0 +1,40 @@
+~~Title: Letter to: Manager of First National City Bank — November 25, 1969~~
+~~bc: Manager of First National City Bank — November 25, 1969~~
+
+====== Letter to: Manager of First National City Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of First National City Bank
+ListDate_hidden  : 1969-11-25
+showdate_hidden  : 2020-11-25
+To_letters       : Manager of First National City Bank
+Date_letter      : November 25
+Year_letter      : 1969
+Place_letter     : London
+----
+
+Manager\\
+First National City Bank\\
+686 Broadway (near Great Jones Street)\\
+New York, NY 10012
+
+Dear Sir,
+
+Replying your letter of November 6, 1969 I beg to send you herewith as follows:
+
+1) My Passbook a/c No. 042016131 with your Grand Street branch.
+
+2) Six pieces of paper duly signed by me on the cross spots as marked by you.
+
+3) Two checks:
+
+No. 59-102/1213 for $30.00
+
+No. 137 for 15.00 for credit of my a/c.
+
+Please return the Passbook duly made up registered mail, and send me a few pieces of deposit slips for savings bank a/c.
+
+Yours truly,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:pdb

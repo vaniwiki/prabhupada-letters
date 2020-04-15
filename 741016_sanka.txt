@@ -1,0 +1,27 @@
+~~Title: Letter to: Sanka — October 16, 1974~~
+~~bc: Sanka — October 16, 1974~~
+
+====== Letter to: Sanka ======
+
+---- dataentry letters ----
+Recipient_hidden : Sanka
+ListDate_hidden  : 1974-10-16
+showdate_hidden  : 2020-10-16
+To_letters       : Sanka
+Date_letter      : October 16
+Year_letter      : 1974
+Place_letter     : Mayapur
+----
+
+Bombay
+
+My dear Sanka das:
+
+Please accept my blessings. I am in due receipt of your letter undated. I understand from Bhavananda Maharaja that you are invited here to plant a garden. So when you come your questions can be discussed.
+
+I hope this meets you in good health.
+
+Your ever well wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

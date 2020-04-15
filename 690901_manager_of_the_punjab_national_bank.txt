@@ -1,0 +1,27 @@
+~~Title: Letter to: Manager of The Punjab National Bank — September 1, 1969~~
+~~bc: Manager of The Punjab National Bank — September 1, 1969~~
+
+====== Letter to: Manager of The Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of The Punjab National Bank
+ListDate_hidden  : 1969-09-01
+showdate_hidden  : 2020-09-01
+To_letters       : Manager of The Punjab National Bank
+Date_letter      : September 1
+Year_letter      : 1969
+Place_letter     : Hamburg
+----
+
+Manager\\
+The Punjab National Bank\\
+P.O. Vrindaban, Dst. Mathura\\
+INDIA
+
+Dear Sir:
+
+In further reference to our past correspondence, I am wondering if you have as yet advanced 100 Rs. to Sri Ram Natha Murtiwala. I have not heard from Sri Ram Natha for some time so I would like to be informed as to what has transpired in this connection. Thanking you in anticipation of your early reply.
+
+Sincerely yours,
+
+A.C. Bhaktivedanta Swami

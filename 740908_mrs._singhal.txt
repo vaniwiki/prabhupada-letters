@@ -1,0 +1,29 @@
+~~Title: Letter to: Mrs. Singhal — September 8, 1974~~
+~~bc: Mrs. Singhal — September 8, 1974~~
+
+====== Letter to: Mrs. Singhal ======
+
+---- dataentry letters ----
+Recipient_hidden : Mrs. Singhal
+ListDate_hidden  : 1974-09-08
+showdate_hidden  : 2020-09-08
+To_letters       : Mrs. Singhal
+Date_letter      : September 8
+Year_letter      : 1974
+Place_letter     : 
+----
+
+113 D.J. Rd.\\
+Ville Parle, W.\\
+Bombay 56
+
+My dear Mrs. Singhal;
+
+I thank you very much for your letter dated August 31st. Please accept my blessings. By the grace of Lord Nrsimhadeva my health is improving. I have informed Giriraja das that when he completes my quarters I will surely come to Bombay, and look forward to seeing you then.
+
+I hope this meets you in good health.
+
+Your ever well wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs/hdb

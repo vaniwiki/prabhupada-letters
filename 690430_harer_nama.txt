@@ -1,0 +1,23 @@
+~~Title: Letter to: Harer Nama — April 30, 1969~~
+~~bc: Harer Nama — April 30, 1969~~
+
+====== Letter to: Harer Nama ======
+
+---- dataentry letters ----
+Recipient_hidden : Harer Nama
+ListDate_hidden  : 1969-04-30
+showdate_hidden  : 2020-04-30
+To_letters       : Harer Nama
+Date_letter      : April 30
+Year_letter      : 1969
+Place_letter     : Boston
+----
+
+My dear Harer Nama,
+
+Please accept my blessings. I beg to acknowledge receipt of your letter dated April 21, 1969, and I have gone over the contents very carefully. I am pleased to learn that your mother is willing to pay for your schooling expenses, and I think that you may take this opportunity of completing your education. I have enclosed one letter to Prabhavati, and you should see this letter also. Regarding your request to sing prayers in English, this is nice suggestion, and you may do it. So far as the songs that you have written, you may send me a copy of them and I shall see them. In Montreal also they are writing songs in the popular Western style of music and it is coming very nicely.
+
+I hope this will meet you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami

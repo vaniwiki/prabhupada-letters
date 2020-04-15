@@ -1,0 +1,32 @@
+~~Title: Letter to: The Manager Punjab National Bank — May 3, 1971~~
+~~bc: The Manager Punjab National Bank — May 3, 1971~~
+
+====== Letter to: The Manager Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : The Manager Punjab National Bank
+ListDate_hidden  : 1971-05-03
+showdate_hidden  : 2020-05-03
+To_letters       : The Manager Punjab National Bank
+Date_letter      : May 3
+Year_letter      : 1971
+Place_letter     : 
+----
+
+The Manager,\\
+Punjab National Bank,\\
+Brabourne Road, Calcutta.
+
+From: A.C. Bhaktivedanta Swami,\\
+3, Albert Road, Calcutta-1G.
+
+Dear Sir,
+
+This day I have taken a fixed deposit a/c No. 1146/228/ [indistinct] for a sum of Rs. 1,30,000/- from your office for a period of 61 months. I request you that the interest accrued on the fixed deposit be credited to my savings fund A/c No. 2595 after the close of every 1/2 year. For this purpose, I am leaving the above-said fixed deposit with you.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+Dated 5/3/1971
+
+(official bank stamp and "Received F.D.R.")

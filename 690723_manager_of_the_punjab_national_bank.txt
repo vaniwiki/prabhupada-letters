@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of The Punjab National Bank — July 23, 1969~~
+~~bc: Manager of The Punjab National Bank — July 23, 1969~~
+
+====== Letter to: Manager of The Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of The Punjab National Bank
+ListDate_hidden  : 1969-07-23
+showdate_hidden  : 2020-07-23
+To_letters       : Manager of The Punjab National Bank
+Date_letter      : July 23
+Year_letter      : 1969
+Place_letter     : Los Angeles
+----
+
+Manager\\
+The Punjab National Bank Ltd.\\
+Brabourne Road Branch\\
+Calcutta, INDIA\\
+RE: SAVINGS FUND ACCOUNT #2595\\
+Dear Sir:
+
+I beg to inform you that I wish to send you at least 1,000 American dollars for the purpose of purchasing Indian goods; such as Musical instruments, books, utensils, incense, etc. The idea is that my supplier will present the shipping documents, and you shall pay him the required money under my instruction, with the certificate that this money is received from America. In this way there will be no difficulty for Indian exchange regulations, and you shall send me directly the shipping documents here for clearance.
+
+Kindly send me your necessary information in this connection by return of post so I can immediately transfer 1,000 American dollars to my above account. Also please let me know what is the balance in my credit at the present moment.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami

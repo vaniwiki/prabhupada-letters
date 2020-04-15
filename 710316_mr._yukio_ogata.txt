@@ -1,0 +1,29 @@
+~~Title: Letter to: Mr. Yukio Ogata — March 16, 1971~~
+~~bc: Mr. Yukio Ogata — March 16, 1971~~
+
+====== Letter to: Mr. Yukio Ogata ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Yukio Ogata
+ListDate_hidden  : 1971-03-16
+showdate_hidden  : 2020-03-16
+To_letters       : Mr. Yukio Ogata
+Date_letter      : March 16
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Mr. Yukio Ogata\\
+c/o Ushigome Post Office\\
+Tokyo, Japan
+
+My dear Mr. Ogata:
+
+Please accept my greetings. It is understood that the __Back To Godhead__ department is in debt by $52,000.00. I am very sorry that this has increased so much. Therefore I am sending check no 16-320 for $20,000.00. So please continue to print __Back To Godhead__ magazine without hesitation. Your money is always safe.
+
+Hoping this will meet you in good health.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/adb

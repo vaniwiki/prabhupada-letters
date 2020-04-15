@@ -1,0 +1,34 @@
+~~Title: Letter to: Manager, Central Bank of India — June 12, 1976~~
+~~bc: Manager, Central Bank of India — June 12, 1976~~
+
+====== Letter to: Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Central Bank of India
+ListDate_hidden  : 1976-06-12
+showdate_hidden  : 2020-06-12
+To_letters       : Manager, Central Bank of India
+Date_letter      : June 12
+Year_letter      : 1976
+Place_letter     : 
+----
+
+The Manager,\\
+Central Bank of India\\
+10 Camac St.,\\
+Calcutta-17, India
+
+340 W. 55th. St.,\\
+New York, New York 10019\\
+U.S.
+
+Dear Sir:
+
+On April 21, 1976, I advised you the following: "The monthly interest accrued from the Fixed Deposit Receipt in the name of the Bhaktivedanta Book Trust may be transferred to Vrinda Book Co. account with your branch for the 3 months of May, Jun, and Jyly of 1976, unless otherwise directed." I sent one copy to the Vrinda Book Co., and the original was sent to you. To this day, I have been recently informed that this order has not been executed. I want that this be executed immediately and also that you inform me accordingly at my New York return address promptly as the delay in executing this order.
+
+Thanking you,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks

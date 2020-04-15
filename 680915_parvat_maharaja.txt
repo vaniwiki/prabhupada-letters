@@ -1,0 +1,23 @@
+~~Title: Letter to: Parvat Maharaja — September 15, 1968~~
+~~bc: Parvat Maharaja — September 15, 1968~~
+
+====== Letter to: Parvat Maharaja ======
+
+---- dataentry letters ----
+Recipient_hidden : Parvat Maharaja
+ListDate_hidden  : 1968-09-15
+showdate_hidden  : 2020-09-15
+To_letters       : Parvat Maharaja
+Date_letter      : September 15
+Year_letter      : 1968
+Place_letter     : San Francisco
+----
+
+My dear Parvat Maharaja,
+
+Please accept my respectful obeisances. Sometime back, I wrote you one letter but I did not receive any reply. I am very much obliged to you that you have proposed to help Jaya Govinda about his visa trouble. But I don't know why you make such condition that he has to remain with you so long he is in India. He has to work for the society freely and sometimes he might have to go to Bombay or other cities, so how he can be confined to a place? If you can help him without any condition, it will be a great favor to me.
+
+I hope this finds you in good health,
+
+Yours affectionately,\\
+A.C. Bhaktivedanta Swami

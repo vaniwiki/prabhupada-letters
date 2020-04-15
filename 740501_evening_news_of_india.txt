@@ -1,0 +1,28 @@
+~~Title: Letter to: Evening News of India — May 1, 1974~~
+~~bc: Evening News of India — May 1, 1974~~
+
+====== Letter to: Evening News of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Evening News of India
+ListDate_hidden  : 1974-05-01
+showdate_hidden  : 2020-05-01
+To_letters       : Evening News of India
+Date_letter      : May 1
+Year_letter      : 1974
+Place_letter     : Bombay
+----
+
+Advertiser\\
+Box 25854\\
+Evening News of India\\
+Bombay 1
+
+Dear Sir,
+
+With reference to your advertisement, "Wanted Land", we can offer you a plot of vacant land, area about 6,000 square yards very good location near Juhu Beach, on lease terms only. Please offer your best.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/sdg

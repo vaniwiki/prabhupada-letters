@@ -1,0 +1,36 @@
+~~Title: Letter to: Manager of Bank of Baroda — May 21, 1970~~
+~~bc: Manager of Bank of Baroda — May 21, 1970~~
+
+====== Letter to: Manager of Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of Baroda
+ListDate_hidden  : 1970-05-21
+showdate_hidden  : 2020-05-21
+To_letters       : Manager of Bank of Baroda
+Date_letter      : May 21
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Bank of Baroda\\
+India Exchange Branch\\
+Post Box No. 313\\
+Calcutta-1, India
+
+Dear Sir:
+
+Re: My Savings Bank Account No. 29/12802
+
+With reference to your letter No. Sb/34/2978, dated 5th May, 1970, I beg to inform you that Mr. M. M. De is my second son. When I left home, as a dutiful father I left some money for my family as future provision, So practically the money belongs to my sons and daughters, and I never thought that in future it would be difficult to transfer the money, otherwise I would have distributed the money while leaving home.
+
+So the purpose of the remittance you have asked to send is to transfer their money to them. I hope this particular will be sufficient.
+
+I advised you to transfer Rs. 5,000 to the savings bank account of Mr. M. M. De with the United Bank of India, Dharmatalla Street Branch. I understand that you have already transferred Rs. 1,000, and the balance of Rs. 4,000 may now be transferred on the strength of the above statement.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db\\
+c.c. Mr. M.M. De

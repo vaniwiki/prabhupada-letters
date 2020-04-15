@@ -1,0 +1,42 @@
+~~Title: Letter to: Manager, Central Bank of India — May 24, 1976~~
+~~bc: Manager, Central Bank of India — May 24, 1976~~
+
+====== Letter to: Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Central Bank of India
+ListDate_hidden  : 1976-05-24
+showdate_hidden  : 2020-05-24
+To_letters       : Manager, Central Bank of India
+Date_letter      : May 24
+Year_letter      : 1976
+Place_letter     : 
+----
+
+The Manager,\\
+Central Bank of India,\\
+Camac Street Branch,\\
+10 Camac Street,\\
+Calcutta 17,\\
+India
+
+51 Coelho Way,\\
+Honolulu, Hawaii 96817,\\
+U.S.A.
+
+per registered post
+
+Attn: Mr. Dutta
+
+Dear Sir:
+
+Herewith please find a copy of advice to the Liberty Bank in Honolulu, Hawaii, to transfer U.S. $6300.00 (U.S. dollars six thousand and three-hundred) in favor of the Bhaktivedanta Book Trust. The Calcutta agent for the Liberty Bank is the Bank of America, Calcutta. Please receive this money, and put is it on fixed deposit for one year at 8% in favor of "Bhaktivedanta Book Trust." You can hold this fixed deposit receipt (F.D.R.) for me in safe keeping until I return to Calcutta at which time I will collect it from you. Kindly acknowledge receipt of these funds being transferred, and inform me of the particulars in detail of the fixed deposit receipt.
+
+Thanking you.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+enc.: one (1)
+
+ACBS/PKS

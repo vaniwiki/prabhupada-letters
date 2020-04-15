@@ -1,0 +1,39 @@
+~~Title: Letter to: Bank of Baroda — February 28, 1970~~
+~~bc: Bank of Baroda — February 28, 1970~~
+
+====== Letter to: Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of Baroda
+ListDate_hidden  : 1970-02-28
+showdate_hidden  : 2020-02-28
+To_letters       : Bank of Baroda
+Date_letter      : February 28
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Bank of Baroda\\
+India Exchange Branch\\
+Box 313\\
+Calcutta-1, India
+
+Dear Sir:
+
+Re: My savings bank account No. 29/12802
+
+I beg to thank you for your letter number SB/34/1109, dated 18 February, 1970. Please let me know how the certificates should be duly discharged by me.
+
+If there is any discharge form, please send it to me, which I shall fill up and return.
+
+Regarding transfer of Rs. 6,000 from your Delhi Branch, I have got already a debit note from your Chandni Chowk Branch, Delhi, dated 22 January, 1970, and I am surprised that you write to say, even after a month, that the amount has not been received by you.
+
+I do not know how things are being managed in this way. Kindly let me know, therefore, immediately what is the fate of this Rs. 6,000 transferred from your Delhi Chandni Chowk Branch.
+
+Awaiting your early reply, and thanking you in anticipation.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

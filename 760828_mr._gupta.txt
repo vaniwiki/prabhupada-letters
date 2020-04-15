@@ -1,0 +1,29 @@
+~~Title: Letter to: Mr. Gupta — August 28, 1976~~
+~~bc: Mr. Gupta — August 28, 1976~~
+
+====== Letter to: Mr. Gupta ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Gupta
+ListDate_hidden  : 1976-08-28
+showdate_hidden  : 2020-08-28
+To_letters       : Mr. Gupta
+Date_letter      : August 28
+Year_letter      : 1976
+Place_letter     : New Delhi
+----
+
+Chandigarh
+
+Dear Mr. Gupta,
+
+Please accept my greetings. I am in due receipt of your letter dated 24 August 1976 and have noted the contents.
+
+You may come and see me after September 3rd in Vrndavana where we can discuss all these affairs. There is also a nice guest house there.
+
+I hope this meets you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/hs

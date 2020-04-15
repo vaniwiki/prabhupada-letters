@@ -1,0 +1,28 @@
+~~Title: Letter to: To Whom It May Concern — January 26, 1977~~
+~~bc: To Whom It May Concern — January 26, 1977~~
+
+====== Letter to: To Whom It May Concern ======
+
+---- dataentry letters ----
+Recipient_hidden : To Whom It May Concern
+ListDate_hidden  : 1977-01-26
+showdate_hidden  : 2020-01-26
+To_letters       : To Whom It May Concern
+Date_letter      : January 26
+Year_letter      : 1977
+Place_letter     : 
+----
+
+Nayapalli,\\
+Bhubaneswara, 12,\\
+Orissa, Dist. Puri,\\
+India
+
+To Whom It May Concern;\\
+By this letter of certification I fully authorize my representative, Robert Corens (initiated name, Rupanuga das Adhikary), to negotiate and complete the sale of property owned by the International Society for Krishna Consciousness located, 4544 Laclede Avenue, St. Louis, Missouri, 63108.
+
+Respectfully,\\
+A.C. Bhaktivedanta Swami\\
+Founder-Acarya, ISKCON
+
+ACBS/sdg

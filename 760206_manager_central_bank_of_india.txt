@@ -1,0 +1,33 @@
+~~Title: Letter to: Manager, Central Bank of India — February 6, 1976~~
+~~bc: Manager, Central Bank of India — February 6, 1976~~
+
+====== Letter to: Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Central Bank of India
+ListDate_hidden  : 1976-02-06
+showdate_hidden  : 2020-02-06
+To_letters       : Manager, Central Bank of India
+Date_letter      : February 6
+Year_letter      : 1976
+Place_letter     : 
+----
+
+Manager\\
+Central Bank of India\\
+Camac Street Branch\\
+10, Camac Street\\
+Calcutta
+
+Mayapur Candrodaya Mandir\\
+P.O. Sridham Mayapur\\
+Dist. Nadia, West Bengal
+
+Dear sir,
+
+Please add Sriman Sridhar Swami as the co-signer in ISKCON's current account in your branch. The other co-signers are Purnaprajna das Adhikary and Syamlal das Brahmachary.
+
+Your faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/dda

@@ -1,0 +1,32 @@
+~~Title: Letter to: Resolution — April 1, 1974~~
+~~bc: Resolution — April 1, 1974~~
+
+====== Letter to: Resolution ======
+
+---- dataentry letters ----
+Recipient_hidden : Resolution
+ListDate_hidden  : 1974-04-01
+showdate_hidden  : 2020-04-01
+To_letters       : Resolution
+Date_letter      : April 1
+Year_letter      : 1974
+Place_letter     : Bombay
+----
+
+RESOLUTION
+
+At the meeting of the members of the Bureau of the International Society for Krishna Consciousness, held at the Hare Krishna Land, Gandhi Gram Road, Juhu, Bombay 400 054, on First April, 1974, the following was resolved:
+
+1. That the Society will construct one additional floor on each of the six existing buildings on the Hare Krishna Land, (purchased in October, 1973.)
+
+2. That the President, Secretary, and Treasurer are hereby authorized to appoint any architect, labor contractor, other contractors, engineers, to purchase, etc. for the purpose of construction.
+
+3. That the construction may begin immediately upon approval given by the Bombay Municipal Corporation.
+
+Signed for INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS:
+
+A.C. Bhaktivedanta Swami
+
+Gurudasa Adhikari\\
+Dated this First Day of April, 1974\\
+-/bs

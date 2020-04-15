@@ -1,0 +1,30 @@
+~~Title: Letter to: Manager of Lloyds Bank — December 20, 1969~~
+~~bc: Manager of Lloyds Bank — December 20, 1969~~
+
+====== Letter to: Manager of Lloyds Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Lloyds Bank
+ListDate_hidden  : 1969-12-20
+showdate_hidden  : 2020-12-20
+To_letters       : Manager of Lloyds Bank
+Date_letter      : December 20
+Year_letter      : 1969
+Place_letter     : London
+----
+
+Manager\\
+LLOYDS BANK LTD\\
+(Long Acre Branch)\\
+83084 Long Acre\\
+London, WC 2
+
+Dear Sir,
+
+With further reference to your letter JC/RB, dated November 24, 1969, and my reply dated November 27, 1969, I beg to inform you that I am leaving London tomorrow. Therefore I authorize Mr. Michael Grant to take delivery of the parcels due to arrive here, and the passbook is left here with him. You can debit the charges to my account.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/pdb

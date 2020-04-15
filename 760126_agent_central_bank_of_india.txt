@@ -1,0 +1,34 @@
+~~Title: Letter to: Agent, Central Bank of India — January 26, 1976~~
+~~bc: Agent, Central Bank of India — January 26, 1976~~
+
+====== Letter to: Agent, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Agent, Central Bank of India
+ListDate_hidden  : 1976-01-26
+showdate_hidden  : 2020-01-26
+To_letters       : Agent, Central Bank of India
+Date_letter      : January 26
+Year_letter      : 1976
+Place_letter     : 
+----
+
+The Agent,\\
+Central Bank of India,\\
+Camac Street Branch,\\
+10, Camac Street\\
+Calcutta 700017
+
+P.O. Sreedham Mayapur\\
+Dist. Nadia, West Bengal
+
+Dear Mr. Dutta,
+
+Please accept my greetings. When I first met you you suggested that there are some newly built houses in Akhra. If there is a 4-Bedroom house or at least a 3-Bedroom house, please kindly send me the details and papers.
+
+Hoping this meets you well.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/tkg

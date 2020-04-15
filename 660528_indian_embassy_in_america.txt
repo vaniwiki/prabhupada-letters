@@ -1,0 +1,29 @@
+~~Title: Letter to: Indian Embassy in America — May 28, 1966~~
+~~bc: Indian Embassy in America — May 28, 1966~~
+
+====== Letter to: Indian Embassy in America ======
+
+---- dataentry letters ----
+Recipient_hidden : Indian Embassy in America
+ListDate_hidden  : 1966-05-28
+showdate_hidden  : 2020-05-28
+To_letters       : Indian Embassy in America
+Date_letter      : May 28
+Year_letter      : 1966
+Place_letter     : New York
+----
+
+Secretary\\
+Indian Embassy in America\\
+Washington D.C.
+
+Dear Sir,
+
+I beg to inform you that I have been instructed by the Controller of Exchange Reserve Bank of India Delhi to forward my letter to the Ministry of Finance, Department of Economic Affairs Government of India New Delhi for release of Indian Exchange.
+
+As advised by him I beg to hand you herewith the above mentioned letter to Ministry of Finance Government of India which please forward to India and oblige.
+
+Please acknowledge receipt hereof and thanking you in anticipation,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami.

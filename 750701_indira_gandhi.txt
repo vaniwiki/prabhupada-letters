@@ -1,0 +1,34 @@
+~~Title: Letter to: Indira Gandhi — July 1, 1975~~
+~~bc: Indira Gandhi — July 1, 1975~~
+
+====== Letter to: Indira Gandhi ======
+
+---- dataentry letters ----
+Recipient_hidden : Indira Gandhi
+ListDate_hidden  : 1975-07-01
+showdate_hidden  : 2020-07-01
+To_letters       : Indira Gandhi
+Date_letter      : July 1
+Year_letter      : 1975
+Place_letter     : 
+----
+
+Srimati Indira Gandhi\\
+Prime Minister of India\\
+Parliament House\\
+New Delhi, India
+
+VIA REGISTERED POST
+
+1014 Emerson St., Evanston, \\
+Illinois 60201
+
+Your Excellency Srimati Indira Gandhi:\\
+May it please Your Excellency, enclosed please find one copy of my letter addressed to Sri Jai Prakash Narayanji. I wish that both of you may sit together and agree to join together to work on the basis of the instructions given in the Bhagavad Gita. It is practical and good for India as well as for the whole world situation. The whole world is expectant to receive something from Indian culture. Why not push this movement and solve the complete problems of India?
+
+I hope you will take this suggestion seriously and do the needful without delay. Thanking you in anticipation, I beg to remain,
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

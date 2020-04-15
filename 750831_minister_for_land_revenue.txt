@@ -1,0 +1,31 @@
+~~Title: Letter to: Minister for Land & Revenue — August 31, 1975~~
+~~bc: Minister for Land & Revenue — August 31, 1975~~
+
+====== Letter to: Minister for Land & Revenue ======
+
+---- dataentry letters ----
+Recipient_hidden : Minister for Land & Revenue
+ListDate_hidden  : 1975-08-31
+showdate_hidden  : 2020-08-31
+To_letters       : Minister for Land & Revenue
+Date_letter      : August 31
+Year_letter      : 1975
+Place_letter     : Vrindaban
+----
+
+Minister for Land & Revenue\\
+Government of Uttar Pradesh\\
+Civil Secretariat\\
+LUCKNOW\\
+Re: Land for Community Development
+
+Dear Sir:
+
+I have been told by Sri Ram Pandey who is the Editor of INPF Samachar Samiti, Allahabad, and the District Youth Counsellor for the District Planning Office, Allahabad; that there are enough barren lands that are not suitable for agricultural use that are lying unused in Allahabad District. If you could kindly give over these lands to use we could develop it into a self sufficient community producing foodstuffs, grains and vegetables, milk products, and cloth involving the local peoples for their greater benefit, as we are already doing at our Mayapur Candradaya Community Development Project in West Bengal, Dist. Nadia, and which we are now planning near Hyderabad, Andra Pradesh.
+
+I hope you may enquire into the availability of lands for such a complete development scheme which will benefit the people at large.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

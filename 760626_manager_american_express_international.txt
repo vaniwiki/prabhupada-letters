@@ -1,0 +1,34 @@
+~~Title: Letter to: Manager, American Express International — June 26, 1976~~
+~~bc: Manager, American Express International — June 26, 1976~~
+
+====== Letter to: Manager, American Express International ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, American Express International
+ListDate_hidden  : 1976-06-26
+showdate_hidden  : 2020-06-26
+To_letters       : Manager, American Express International
+Date_letter      : June 26
+Year_letter      : 1976
+Place_letter     : 
+----
+
+The Manager,\\
+American Express International\\
+Banking Corporation,\\
+21, Old Court House Street,\\
+Calcutta 700-001, India
+
+Hare Krishna Land,\\
+Juhu Road, Juhu\\
+Bombay 400-054,\\
+India
+
+Dear sir:
+
+Please send me a detailed statement of deposits up to the end of June, 1976, for account number 5416, in the name of "A.C. Bhaktivedanta Swami." Thank you.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks

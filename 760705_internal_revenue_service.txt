@@ -1,0 +1,29 @@
+~~Title: Letter to: Internal Revenue Service — July 5, 1976~~
+~~bc: Internal Revenue Service — July 5, 1976~~
+
+====== Letter to: Internal Revenue Service ======
+
+---- dataentry letters ----
+Recipient_hidden : Internal Revenue Service
+ListDate_hidden  : 1976-07-05
+showdate_hidden  : 2020-07-05
+To_letters       : Internal Revenue Service
+Date_letter      : July 5
+Year_letter      : 1976
+Place_letter     : Washington D.C.
+----
+
+Internal Revenue Service\\
+United States of America
+
+Dear Sir:
+
+This is to certify that Miss Elizabeth Luise Reuther contributed the amount of U.S. $50,000 (fifty-thousand) to the Bhaktivedanta Book Trust which is a registered charity whose head office is in Bombay. This contribution was made in March, 1975, and these funds are being used for religious-charitable work.
+
+Thanking you,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami,
+
+Chairman of the Board of Trustees\\
+ACBS/pks

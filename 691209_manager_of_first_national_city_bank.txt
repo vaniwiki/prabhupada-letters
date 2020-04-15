@@ -1,0 +1,30 @@
+~~Title: Letter to: Manager of First National City Bank — December 9, 1969~~
+~~bc: Manager of First National City Bank — December 9, 1969~~
+
+====== Letter to: Manager of First National City Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of First National City Bank
+ListDate_hidden  : 1969-12-09
+showdate_hidden  : 2020-12-09
+To_letters       : Manager of First National City Bank
+Date_letter      : December 9
+Year_letter      : 1969
+Place_letter     : London
+----
+
+Manager\\
+FIRST NATIONAL CITY BANK\\
+686 Broadway Branch\\
+New York, NY 10012\\
+USA
+
+Dear Sir,
+
+RE: MY ACCOUNT #460688633
+
+Kindly transfer $1,400 to the INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS, account #04489579 and debit my above account. Kindly send me the debit note and oblige.
+
+Truly yours,
+
+A.C. Bhaktivedanta Swami

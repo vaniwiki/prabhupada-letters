@@ -1,0 +1,28 @@
+~~Title: Letter to: Indupati — April 9, 1975~~
+~~bc: Indupati — April 9, 1975~~
+
+====== Letter to: Indupati ======
+
+---- dataentry letters ----
+Recipient_hidden : Indupati
+ListDate_hidden  : 1975-04-09
+showdate_hidden  : 2020-04-09
+To_letters       : Indupati
+Date_letter      : April 9
+Year_letter      : 1975
+Place_letter     : Mayapur
+----
+
+Indupati Brahmacari\\
+Sri Caitanya Gaudiya Math\\
+Mathura Rd.\\
+Vrndavana---281 121
+
+My dear Sripada Brahmacariji,
+
+Please accept my humble obeisances. I am in due receipt of your letter (in Bengali) dated 29-3-75. I am advising my men in Vrndavana to begin the function from the 16th of April as desired by you. Thanking you for your suggestion.
+
+Yours respectfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ps

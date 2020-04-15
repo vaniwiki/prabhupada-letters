@@ -1,0 +1,41 @@
+~~Title: Letter to: Bank of Baroda — January 13, 1970~~
+~~bc: Bank of Baroda — January 13, 1970~~
+
+====== Letter to: Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of Baroda
+ListDate_hidden  : 1970-01-13
+showdate_hidden  : 2020-01-13
+To_letters       : Bank of Baroda
+Date_letter      : January 13
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Bank of Baroda\\
+P.O. Box No. 313\\
+India Exchange\\
+Calcutta 1, India\\
+Manager
+
+Dear Sir:
+
+Re: My savings bank account No. 29/12802 with you.
+
+Kindly refer to your letter No. FEX 33/6400 dated 29 July, 1969.
+
+I am negotiating with one Mr. Javarali for purchasing a piece of land priced near about 13,000 Rs. Now, if I send you the equivalent in American dollars, whether it will be possible for you to pay him the above approximate price on delivery of the registered conveyance deed?
+
+Further, I beg to inform you that under your receipt No. 31/132 dated Calcutta 25-11-67 there are, in your safe custody, National savings certificates worth 24,000 Rs. These savings certificates can be cashed now having two years passed. Please let me know if you will collect this money and if you do so let me know what I shall have to do in this connection.
+
+In the meantime, I have advised to your Delhi, Chandi Chowk branch to transfer 6,000 Rs. for credit of my above savings bank account with you. The copy of the letter addressed to your Delhi, Chandi Chowk branch is herein enclosed, please find.
+
+So by return mail if you kindly reply in detail all the above points it will be very much appreciated.
+
+Thanking you in anticipation.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

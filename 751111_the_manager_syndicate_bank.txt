@@ -1,0 +1,36 @@
+~~Title: Letter to: The Manager Syndicate Bank — November 11, 1975~~
+~~bc: The Manager Syndicate Bank — November 11, 1975~~
+
+====== Letter to: The Manager Syndicate Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : The Manager Syndicate Bank
+ListDate_hidden  : 1975-11-11
+showdate_hidden  : 2020-11-11
+To_letters       : The Manager Syndicate Bank
+Date_letter      : November 11
+Year_letter      : 1975
+Place_letter     : 
+----
+
+Syndicate Bank\\
+Vrindaban Branch\\
+Dist. Mathura, U.P.\\
+Att: The Manager
+
+Juhu Road, Juhu, BOMBAY 400 054
+
+Dear Sir:
+
+I refer to Fixed Deposit No. 024337/1475 dated 11/7/75 in my personal name A.C. Bhaktivedanta Swami for Rs. 1,41,186/01 date due is 10/10/75.
+
+This Fixed Deposit Receipt is in Vrindaban, and you may note down that this Fixed Deposit should be extended for three months from the due date. On my return I shall present the Fixed Deposit Receipt to you for necessary action.
+
+Also, regarding Fixed Deposit No. 024364/1689 for Rs. 86,275/98 due date 3/11/75, this Fixed Deposit should be extended for three months from the due date.
+
+You may reply to me at the above address in this matter.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

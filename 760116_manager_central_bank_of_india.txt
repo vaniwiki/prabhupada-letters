@@ -1,0 +1,20 @@
+~~Title: Letter to: Manager, Central Bank of India — January 16, 1976~~
+~~bc: Manager, Central Bank of India — January 16, 1976~~
+
+====== Letter to: Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Central Bank of India
+ListDate_hidden  : 1976-01-16
+showdate_hidden  : 2020-01-16
+To_letters       : Manager, Central Bank of India
+Date_letter      : January 16
+Year_letter      : 1976
+Place_letter     : 
+----
+
+[Hand written]
+
+Please to Sulaxmana Dey Rupees Two thousand only and debit my S.B. a/c 831 Rs 2000/-
+
+A.C. Bhaktivedanta Swami

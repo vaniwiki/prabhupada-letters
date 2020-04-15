@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of The Punjab National Bank — July 1, 1969~~
+~~bc: Manager of The Punjab National Bank — July 1, 1969~~
+
+====== Letter to: Manager of The Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of The Punjab National Bank
+ListDate_hidden  : 1969-07-01
+showdate_hidden  : 2020-07-01
+To_letters       : Manager of The Punjab National Bank
+Date_letter      : July 1
+Year_letter      : 1969
+Place_letter     : Los Angeles
+----
+
+Manager\\
+The Punjab National Bank\\
+P.O. Vrindaban U.P.\\
+INDIA
+
+Dear Sir:
+
+I beg to inform you that on August 5th, 1967 you received American Exchange for Rupees 33,705.86 for credit of my account. Out of this amount, books amounting to Rupees 13,000.00 were dispatched from Calcutta on November 20th, 1967, and again another consignment of books as per invoice enclosed is being dispatched from Calcutta through m/s United Shipping Corporation (14/2 Old China Bazar Street, Room No. 18; Calcutta-1, INDIA). Please address one letter to the United Shipping Corporation about this extra change, receipt on such and such date.
+
+On June 18th, 1969, we sent you one check for $112.65, but I have not yet heard your acknowledgement of receipt of this and what action you have taken. I am awaiting your early reply.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami

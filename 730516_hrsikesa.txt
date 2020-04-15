@@ -1,0 +1,28 @@
+~~Title: Letter to: Hrsikesa — May 16, 1973~~
+~~bc: Hrsikesa — May 16, 1973~~
+
+====== Letter to: Hrsikesa ======
+
+---- dataentry letters ----
+Recipient_hidden : Hrsikesa
+ListDate_hidden  : 1973-05-16
+showdate_hidden  : 2020-05-16
+To_letters       : Hrsikesa
+Date_letter      : May 16
+Year_letter      : 1973
+Place_letter     : Los Angeles
+----
+
+Vrindaban
+
+My dear Hrsikesa,
+
+Please accept my blessings. I am in due receipt of your letter dated May 8 1973. You are welcome to join us at any moment provided you do so in your original status. You have to immediately leave India for working outside.
+
+Hoping this meets you in good health.
+
+Your ever well wisher,\\
+A.C. Bhaktivedanta Swami
+
+cc: Gurudasa\\
+ACBS/jda

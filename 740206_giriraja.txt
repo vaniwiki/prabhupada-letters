@@ -1,0 +1,20 @@
+~~Title: Letter to: Giriraja — February 6, 1974~~
+~~bc: Giriraja — February 6, 1974~~
+
+====== Letter to: Giriraja ======
+
+---- dataentry letters ----
+Recipient_hidden : Giriraja
+ListDate_hidden  : 1974-02-06
+showdate_hidden  : 2020-02-06
+To_letters       : Giriraja
+Date_letter      : February 6
+Year_letter      : 1974
+Place_letter     : Vrindaban
+----
+
+Bombay\\
+[To Giriraja]
+
+DISPATCH BIRLAS FIFTY THOUSAND IMMEDIATELY TO PUNJAB BANK MOTI BAGH BRANCH NEW DELHI IN FAVOR OF VRINDABAN CONSTRUCTION ACCOUNT.\\
+BHAKTIVEDANTA SWAMI

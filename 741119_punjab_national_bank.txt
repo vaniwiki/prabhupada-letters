@@ -1,0 +1,30 @@
+~~Title: Letter to: Punjab National Bank — Bombay, 19/11/1974~~
+~~bc: Punjab National Bank — Bombay, 19/11/1974~~
+
+====== Letter to: Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Punjab National Bank
+ListDate_hidden  : 1974-11-19
+showdate_hidden  : 2020-11-19
+To_letters       : Punjab National Bank
+Date_letter      : November 19
+Year_letter      : 1974
+Place_letter     : Bombay
+----
+
+Resolution
+
+At the meeting of the members of the Bureau of the International Society for Krishna Consciousness held at their Head Office at the Hare Krishna Land, Juhu, Bombay on the 19th November, 1974, the following resolved:
+
+1. That the Savings Account No. 1123 be enclosed and that the current balance be deposited in the Current Account to be opened.
+
+Signed:
+
+A.C. Bhaktivedanta Swami
+
+Brahmananda Swami
+
+Datted this 19th Day of November, 1974
+
+-/bs

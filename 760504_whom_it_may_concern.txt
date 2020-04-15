@@ -1,0 +1,25 @@
+~~Title: Letter to: Whom it may concern — May 4, 1976~~
+~~bc: Whom it may concern — May 4, 1976~~
+
+====== Letter to: Whom it may concern ======
+
+---- dataentry letters ----
+Recipient_hidden : Whom it may concern
+ListDate_hidden  : 1976-05-04
+showdate_hidden  : 2020-05-04
+To_letters       : Whom it may concern
+Date_letter      : May 4
+Year_letter      : 1976
+Place_letter     : Honolulu
+----
+
+Bombay
+
+To whom it may concern,
+
+I have been informed by Upendra das in Fiji Island that he wrote one letter similar to the enclosed letter herein and that one month has passed without any reply. What kind of management is this? So these things should be rectified immediately. There is good scope for distributing Gujarati and Hindi books in Fiji, but if there is mismanagement then what can be done. Please reply this letter to Upendra das and other such inquiries at once upon receipt.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks

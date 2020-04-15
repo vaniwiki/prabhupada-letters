@@ -1,0 +1,30 @@
+~~Title: Letter to: Manager of Security Pacific Bank — May 28, 1970~~
+~~bc: Manager of Security Pacific Bank — May 28, 1970~~
+
+====== Letter to: Manager of Security Pacific Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Security Pacific Bank
+ListDate_hidden  : 1970-05-28
+showdate_hidden  : 2020-05-28
+To_letters       : Manager of Security Pacific Bank
+Date_letter      : May 28
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Security Pacific Bank\\
+Culver City Branch No. 94\\
+Los Angeles, California
+
+Dear Sir:
+
+Re: My account No. 836-237 with you
+
+Please transfer $2465.72 (Two thousand, four hundred, and sixty-five dollars, and seventy-two cents) to the First National Bank of Boston, Brighton Avenue Branch, in favor of account No. 516-5642, ISKCON Press, and charge the same to my account as above mentioned.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

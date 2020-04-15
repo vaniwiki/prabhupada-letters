@@ -1,0 +1,45 @@
+~~Title: Letter to: Manager of Bank of America — May 20, 1976~~
+~~bc: Manager of Bank of America — May 20, 1976~~
+
+====== Letter to: Manager of Bank of America ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of America
+ListDate_hidden  : 1976-05-20
+showdate_hidden  : 2020-05-20
+To_letters       : Manager of Bank of America
+Date_letter      : May 20
+Year_letter      : 1976
+Place_letter     : Honolulu
+----
+
+The Manager, Bank of America,\\
+Bombay Branch, Express Towers,\\
+Nariman Point, P.O. Box 10080,\\
+Bombay-1, India
+
+Re: a/c International Society for Krishna Consciousness,\\
+(Mayapur-Vrindaban Fund) savings account no. 16026.
+
+Dear Sir:
+
+Please prepare an account payee only bank draft to the credit of Engineering Construction Corporation Limited, for a sum of Rs. 2,48,848/95 (Rupees two lakhs, forty eight thousand, eight hundred and forty eight and ninety five paisa), and debit our account no. 16026,
+
+Please send this account payee only bank draft to the following address: __by registered post.__
+
+The Manager,\\
+Engineering Construction Corporation Limited,\\
+(Registered Office),\\
+L &T House, Narottama Morarji Marg,\\
+Ballard Estate,\\
+P.O. Box 278,\\
+Bombay 400-001,\\
+India
+
+Thank you very much.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks\\
+copy: Giriraja

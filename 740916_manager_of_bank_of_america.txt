@@ -1,0 +1,34 @@
+~~Title: Letter to: Manager of Bank of America — September 16, 1974~~
+~~bc: Manager of Bank of America — September 16, 1974~~
+
+====== Letter to: Manager of Bank of America ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of America
+ListDate_hidden  : 1974-09-16
+showdate_hidden  : 2020-09-16
+To_letters       : Manager of Bank of America
+Date_letter      : September 16
+Year_letter      : 1974
+Place_letter     : Vrindaban
+----
+
+The Manager\\
+Bank of America\\
+Branch #600, Main Office\\
+Los Angeles, Cal. U.S.A.
+
+Dear Sir:
+
+I have advised Liberty Bank, Main Office, Honolulu, Hawaii to transfer $35,000.00 to you in favor of our account #6004-7143, International Society for Krishna Consciousness Inc. Mayapur-Vrindaban Fund.
+
+On receipt of this amount please transfer to your New Delhi, India correspondent Punjab National Bank with special instructions to transfer the amount to their Vrindaban Branch, Punjab National Bank, account #668 ISKCON Mayapur-Vrindaban Trust.
+
+Faithfully yours,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/bs\\
+N.B. It is understood from the State Bank of India that they are also your correspondent. I would like to know whether it is possible for you to transfer our money directly to the State Bank of India, Mathura Branch. Kindly inform me if you are having correspondence with their Mathura Branch.
+
+A.C. B.S.

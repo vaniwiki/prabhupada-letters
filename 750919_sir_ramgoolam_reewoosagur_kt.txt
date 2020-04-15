@@ -1,0 +1,29 @@
+~~Title: Letter to: Sir Ramgoolam Reewoosagur Kt — September 19, 1975~~
+~~bc: Sir Ramgoolam Reewoosagur Kt — September 19, 1975~~
+
+====== Letter to: Sir Ramgoolam Reewoosagur Kt ======
+
+---- dataentry letters ----
+Recipient_hidden : Sir Ramgoolam Reewoosagur Kt
+ListDate_hidden  : 1975-09-19
+showdate_hidden  : 2020-09-19
+To_letters       : Sir Ramgoolam Reewoosagur Kt
+Date_letter      : September 19
+Year_letter      : 1975
+Place_letter     : Vrindaban
+----
+
+Dr. The Rt. Hon.\\
+Sir Ramgoolam Reewoosagur Kt., M L.A. Prime Minister of Mauritius\\
+Government House,\\
+Port Louis,\\
+__MAURITIUS__
+
+Your Excellency:
+
+Please accept my best wishes. I am in due receipt of your kind letter dated September 11, 1975 and I thank you very much for your kind invitation to visit Mauritius. I am pleased to inform you that I am arriving at Port Louis from Bombay on the afternoon of September 30th instant. I look forward to meeting with Your Excellency.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

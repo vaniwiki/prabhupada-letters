@@ -1,0 +1,28 @@
+~~Title: Letter to: Manager of Central Bank of India — July 14, 1973~~
+~~bc: Manager of Central Bank of India — July 14, 1973~~
+
+====== Letter to: Manager of Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Central Bank of India
+ListDate_hidden  : 1973-07-14
+showdate_hidden  : 2020-07-14
+To_letters       : Manager of Central Bank of India
+Date_letter      : July 14
+Year_letter      : 1973
+Place_letter     : Bhaktivedanta Manor
+----
+
+Manager,\\
+Central Bank of India\\
+Gowalia Tank Branch\\
+Bombay, India
+
+Dear Sir:
+
+Regarding account #16066 as well as #767 in the same of Bhaktivedanta Book Trust, kindly let me know the present balance of the above two accounts, or if possible, kindly send me a statement of accounts. I am obliged.
+
+Yours truly,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/sdg

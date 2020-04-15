@@ -1,0 +1,32 @@
+~~Title: Letter to: Manager of Trade Bank & Trust Co — January 29, 1968~~
+~~bc: Manager of Trade Bank & Trust Co — January 29, 1968~~
+
+====== Letter to: Manager of Trade Bank & Trust Co ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Trade Bank & Trust Co
+ListDate_hidden  : 1968-01-29
+showdate_hidden  : 2020-01-29
+To_letters       : Manager of Trade Bank & Trust Co
+Date_letter      : January 29
+Year_letter      : 1968
+Place_letter     : Los Angeles
+----
+
+Manager, Trade Bank & Trust Co.\\
+2nd Avenue at 4th Street\\
+New York, N.Y. 10003
+
+Dear Sir,
+
+Please transfer by __air mail__ three hundred and eighty dollars and no cents ($380.00), to the Bank of Baroda LTD., Chandni Chowk, Delhi, India, for credit of my savings account No. 1432 And debit my savings account No. B 19282 with you.
+
+My passbook is enclosed herewith, which please make up and return to me along with your mail transfer receipt, and oblige.
+
+Thanking you in anticipation.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+By registered post with A.D.\\
+Enclosure-Passbook

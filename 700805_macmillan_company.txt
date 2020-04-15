@@ -1,0 +1,30 @@
+~~Title: Letter to: MacMillan Company — August 5, 1970~~
+~~bc: MacMillan Company — August 5, 1970~~
+
+====== Letter to: MacMillan Company ======
+
+---- dataentry letters ----
+Recipient_hidden : MacMillan Company
+ListDate_hidden  : 1970-08-05
+showdate_hidden  : 2020-08-05
+To_letters       : MacMillan Company
+Date_letter      : August 5
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+The MacMillan Company\\
+New York
+
+Gentlemen:
+
+Regarding my book, THE BHAGAVAD GITA AS IT IS, I have written you on the 18th July, 1970, regarding whether Macmillan wants to publish an expanded version of the GITA. However, I have not yet received any reply.
+
+I should very much appreciate knowing what your intentions are regarding this matter. If MacMillan does not desire to publish this expanded version, then I will have it published elsewhere immediately.
+
+I hope to hear from you at the earliest date possible.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:tkd

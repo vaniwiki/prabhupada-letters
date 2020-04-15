@@ -1,0 +1,31 @@
+~~Title: Letter to: Hindu Newspaper — October 25, 1975~~
+~~bc: Hindu Newspaper — October 25, 1975~~
+
+====== Letter to: Hindu Newspaper ======
+
+---- dataentry letters ----
+Recipient_hidden : Hindu Newspaper
+ListDate_hidden  : 1975-10-25
+showdate_hidden  : 2020-10-25
+To_letters       : Hindu Newspaper
+Date_letter      : October 25
+Year_letter      : 1975
+Place_letter     : Mauritius
+----
+
+"Hindu" Newspaper\\
+Madras, India\\
+Attn: Advertising Dept.
+
+Dear Sir:
+
+Please accept my greetings. We are interested in advertising in the important daily Indian newspapers. If you can kindly send me the respective contract rates of advertising, at the same time our society being a charitable religious concern to propagate God-consciousness all over the world, if there is any special concession for us.
+
+On hearing from you we may begin full-page advertising in your daily newspaper.
+
+Thanking you.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks

@@ -1,0 +1,35 @@
+~~Title: Letter to: Postmaster — July 4, 1977~~
+~~bc: Postmaster — July 4, 1977~~
+
+====== Letter to: Postmaster ======
+
+---- dataentry letters ----
+Recipient_hidden : Postmaster
+ListDate_hidden  : 1977-07-04
+showdate_hidden  : 2020-07-04
+To_letters       : Postmaster
+Date_letter      : July 4
+Year_letter      : 1977
+Place_letter     : 
+----
+
+Krsna Balarama Mandir,\\
+Bhaktivedanta Swami Marg,\\
+Ramanareti, Vrndavana, U.P.
+
+The Postmaster,\\
+P.O. Vrndavana,\\
+District Mathura, U.P.
+
+Dear Sir,
+
+I authorize the Postmaster of Vrndavana to deliver registered insured articles, parcels and money orders addressed to me to my messenger, Sri Tamal Krsna Gosvami, whose signature appears below, and on the Postmaster's delivery of such articles and paying such money orders to Sri Tamal Krsna Gosvami and obtaining the letter's receipt, I free the Post Office from all responsibility in respect of such articles and money orders.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+Tamal Krsna Gosvami
+
+c.c. Tamal Krsna Gosvami
+
+ACBS/tkg

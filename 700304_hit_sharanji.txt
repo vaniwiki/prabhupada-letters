@@ -1,0 +1,32 @@
+~~Title: Letter to: Hit Sharanji — March 4, 1970~~
+~~bc: Hit Sharanji — March 4, 1970~~
+
+====== Letter to: Hit Sharanji ======
+
+---- dataentry letters ----
+Recipient_hidden : Hit Sharanji
+ListDate_hidden  : 1970-03-04
+showdate_hidden  : 2020-03-04
+To_letters       : Hit Sharanji
+Date_letter      : March 4
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Scindia House\\
+New Delhi, India
+
+My dear Hit Sharanji,
+
+Please accept my blessings. I hope you have received my letter dated 28 February, 1970.
+
+In the meantime, I have received a reply from Srimati Sumati Morarji in which I understand that she has already replied to your letter regarding the dispatch of the Murtis.
+
+Now, through the forwarding agents, Messrs. Cox and Kings, you can arrange to ship all the Murtis through Scindia Steam Navigation Co. to different places as already directed.
+
+I shall be glad to hear from you at your earliest convenience. Thanking you in anticipation.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

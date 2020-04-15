@@ -1,0 +1,31 @@
+~~Title: Letter to: Mr. S.T. Asnani — January 1, 1975~~
+~~bc: Mr. S.T. Asnani — January 1, 1975~~
+
+====== Letter to: Mr. S.T. Asnani ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. S.T. Asnani
+ListDate_hidden  : 1975-01-01
+showdate_hidden  : 2020-01-01
+To_letters       : Mr. S.T. Asnani
+Date_letter      : January 1
+Year_letter      : 1975
+Place_letter     : Bombay
+----
+
+S.T. Asnani, MA\\
+Advocate High Court\\
+"Meher House"\\
+15, Cawasji Patel St.\\
+Fort, Bombay-1
+
+My dear Mr. Asnani,
+
+Please accept my greetings. I thank you very much for your kind New Year's card. The picture of Krishna on the front was very nice.
+
+Thanking you once again.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ps

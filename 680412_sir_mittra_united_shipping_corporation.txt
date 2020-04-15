@@ -1,0 +1,25 @@
+~~Title: Letter to: Sir Mittra, United Shipping Corporation — April 12, 1968~~
+~~bc: Sir Mittra, United Shipping Corporation — April 12, 1968~~
+
+====== Letter to: Sir Mittra, United Shipping Corporation ======
+
+---- dataentry letters ----
+Recipient_hidden : Sir Mittra, United Shipping Corporation
+ListDate_hidden  : 1968-04-12
+showdate_hidden  : 2020-04-12
+To_letters       : Sir Mittra, United Shipping Corporation
+Date_letter      : April 12
+Year_letter      : 1968
+Place_letter     : San Francisco
+----
+
+United Shipping Corporation\\
+14/2, Old China Bazar Street\\
+Room No. 18, Calcutta 1.
+
+Dear Sir Mittra,
+
+I have sent you one letter dated March 23, 1968, the copy of which is enjoined herewith. I do not know why you did not reply this letter of March 23, and I am very much sorry that in the absence of the statement of account on our $500, and the balance remaining with you, I am getting reminders from the New York office. I am proceeding to New York on the 17th of April, 1968, and by that time I hope to receive the reply of my letter of March 23, and __the statement of account showing the balance of money lying with you.__ Please treat this as urgent and oblige.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami

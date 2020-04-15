@@ -1,0 +1,36 @@
+~~Title: Letter to: Punjab National Bank — September 8, 1970~~
+~~bc: Punjab National Bank — September 8, 1970~~
+
+====== Letter to: Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Punjab National Bank
+ListDate_hidden  : 1970-09-08
+showdate_hidden  : 2020-09-08
+To_letters       : Punjab National Bank
+Date_letter      : September 8
+Year_letter      : 1970
+Place_letter     : Calcutta
+----
+
+Punjab National Bank\\
+Calcutta
+
+Dear Sir:
+
+Re: My Savings Fund Account No. 2925 with you
+
+Kindly receive the following draft of the State Bank of India in your favor and credit the same to my account above mentioned.
+
+Draft Number 1 377160 dated 4/9/70 for Rs. 5,000
+
+Draft Number 1 377161 dated 4/9/70 for Rs. 3,500
+
+Total: Rs. 8,500
+
+Please acknowledge receipt in enclosed duplicate form and oblige.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

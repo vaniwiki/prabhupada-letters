@@ -1,0 +1,32 @@
+~~Title: Letter to: Messrs Atmaram and Sons — July 29, 1967~~
+~~bc: Messrs Atmaram and Sons — July 29, 1967~~
+
+====== Letter to: Messrs Atmaram and Sons ======
+
+---- dataentry letters ----
+Recipient_hidden : Messrs Atmaram and Sons
+ListDate_hidden  : 1967-07-29
+showdate_hidden  : 2020-07-29
+To_letters       : Messrs Atmaram and Sons
+Date_letter      : July 29
+Year_letter      : 1967
+Place_letter     : Vrindaban
+----
+
+Messrs Atmaram and Sons\\
+English Department\\
+Kashmiri Gate\\
+Delhi 6.\\
+Att: Sri Ishkumar
+
+Dear Sir:
+
+I beg to inform you that I have come back from the U.S.A. in an unwell condition; therefore I cannot come to see you personally at the present time. But I request you to send me a statement of account at my Vrindaban address listed above.
+
+Furthermore, I request you not to pay anything more to Candra Shekhar. Please send the check crossed account payee.
+
+Thanking you.
+
+Sincerely yours,
+
+A.C. Bhaktivedanta Swami

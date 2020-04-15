@@ -1,0 +1,34 @@
+~~Title: Letter to: Manager of Central Bank of India — January 25, 1971~~
+~~bc: Manager of Central Bank of India — January 25, 1971~~
+
+====== Letter to: Manager of Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Central Bank of India
+ListDate_hidden  : 1971-01-25
+showdate_hidden  : 2020-01-25
+To_letters       : Manager of Central Bank of India
+Date_letter      : January 25
+Year_letter      : 1971
+Place_letter     : Allahabad
+----
+
+Manager\\
+Central Bank of India\\
+Gwalia Tank Road Branch\\
+Bombay
+
+Dear Sir:
+
+Re: __My Home Savings Account No. 14538 with you.__
+
+Please find enclosed herewith two checks, one check No. T458303 from Central Bank of India, Bombay, for Rs 2250.00 and another check No. C676070 from the Bank of India, Ltd. for Rs. 100 only.
+
+Please credit my above account with the total of Rs. 2350 only and return the counterfoil receipts to me.
+
+Thanking you in anticipation, I am.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

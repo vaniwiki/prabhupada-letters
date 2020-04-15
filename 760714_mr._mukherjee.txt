@@ -1,0 +1,29 @@
+~~Title: Letter to: Mr. Mukherjee — July 14, 1976~~
+~~bc: Mr. Mukherjee — July 14, 1976~~
+
+====== Letter to: Mr. Mukherjee ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Mukherjee
+ListDate_hidden  : 1976-07-14
+showdate_hidden  : 2020-07-14
+To_letters       : Mr. Mukherjee
+Date_letter      : July 14
+Year_letter      : 1976
+Place_letter     : New York
+----
+
+Bombay
+
+Dear Mr. Mukherjee,
+
+Please accept my greetings. I beg to acknowledge receipt of your letter dated 6th July, 1976, and I have noted the contents with care.
+
+I am returning to Bombay by August 14th, 1976, when I shall be glad to see you in our Juhu Temple and talk in detail about this scheme.
+
+I hope that this meets you in good health.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks

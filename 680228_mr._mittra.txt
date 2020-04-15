@@ -1,0 +1,26 @@
+~~Title: Letter to: Mr. Mittra — February 28, 1968~~
+~~bc: Mr. Mittra — February 28, 1968~~
+
+====== Letter to: Mr. Mittra ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Mittra
+ListDate_hidden  : 1968-02-28
+showdate_hidden  : 2020-02-28
+To_letters       : Mr. Mittra
+Date_letter      : February 28
+Year_letter      : 1968
+Place_letter     : Los Angeles
+----
+
+Messrs United Shipping Corp.\\
+1402 Old China Bazar Street\\
+Room 18\\
+Calcutta 1
+
+Dear Mr. Mittra,
+
+Please refer to my last letter. It is understood that from my New York office five hundred dollars has already been remitted to you through the First National City Bank of New York on the 3rd January, 1968. You were to ship the cases of books and musical instruments on the 11th of January, 1968, but I have heard nothing from you until now. Kindly enlighten me on this matter immediately as I am anxious to know this matter. Please take this as urgent and reply by return post to the above address.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami

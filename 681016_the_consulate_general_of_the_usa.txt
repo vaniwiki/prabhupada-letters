@@ -1,0 +1,33 @@
+~~Title: Letter to: The Consulate General of The USA — October 16, 1968~~
+~~bc: The Consulate General of The USA — October 16, 1968~~
+
+====== Letter to: The Consulate General of The USA ======
+
+---- dataentry letters ----
+Recipient_hidden : The Consulate General of The USA
+ListDate_hidden  : 1968-10-16
+showdate_hidden  : 2020-10-16
+To_letters       : The Consulate General of The USA
+Date_letter      : October 16
+Year_letter      : 1968
+Place_letter     : Seattle
+----
+
+Visa Section Rooms 100-101\\
+800 Place Victoria\\
+Montreal 3, Quebec Canada
+
+BY AIR MAIL SPECIAL DELIVERY
+
+ISKCON RADHA KRISHNA TEMPLE\\
+5516 Roosevelt Way N.E.\\
+Seattle, Wash. 98105
+
+RE: MY APPOINTMENT ON OCT. 25, 1968, AT 9.30am
+
+Dear Sir,
+
+With further reference to your letter No. MTL-V-14 (CAN)10’C dated October 4, 1968, I beg to inform you that my request to transfer my file to your Vancouver office, as I did on October 10th and 11th, may be ignored as I am coming to see you at Montreal in order to keep my appointment as above mentioned, fixed by you.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami

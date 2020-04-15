@@ -1,0 +1,32 @@
+~~Title: Letter to: Whom it may concern — July 18, 1974~~
+~~bc: Whom it may concern — July 18, 1974~~
+
+====== Letter to: Whom it may concern ======
+
+---- dataentry letters ----
+Recipient_hidden : Whom it may concern
+ListDate_hidden  : 1974-07-18
+showdate_hidden  : 2020-07-18
+To_letters       : Whom it may concern
+Date_letter      : July 18
+Year_letter      : 1974
+Place_letter     : Dallas
+----
+
+To Whom It May Concern:
+
+This is to certify that I as the Founder-Acarya of ISKCON, appoint the following persons as the authorized officers of our Nairobi branch, and only they can represent the Society and conduct the affairs in their respective capacities.
+
+1. Brahmananda Swami---GBC Zonal Secretary
+
+2. Bhagavata Das Brahmacari---President
+
+3. Paramesvari Das Brahmacari---Vice President
+
+4. Prabhanu das Brahmacari---Treasurer
+
+For INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS,
+
+A.C. Bhaktivedanta Swami, Founder-Acarya
+
+Brahmananda Swami, GBC Zonal Secretary, Africa

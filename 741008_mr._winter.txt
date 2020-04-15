@@ -1,0 +1,27 @@
+~~Title: Letter to: Mr. Winter — October 8, 1974~~
+~~bc: Mr. Winter — October 8, 1974~~
+
+====== Letter to: Mr. Winter ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Winter
+ListDate_hidden  : 1974-10-08
+showdate_hidden  : 2020-10-08
+To_letters       : Mr. Winter
+Date_letter      : October 8
+Year_letter      : 1974
+Place_letter     : Mayapur
+----
+
+Amsterdam
+
+My dear Mr. Winter:
+
+Please accept my best wishes. I am in due receipt of your letter dated 16/9/74 and have noted the contents. Regarding what you want to do, I suggest that you discuss the matter with my secretary, Hansadutta das Adhikari. He is my secretary and you can discuss the matter fully with him. He can be reached at Schloss Rettershof, Konigstein, Taunua, West Germany.
+
+I hope this meets you in good health.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

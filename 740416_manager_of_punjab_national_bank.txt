@@ -1,0 +1,30 @@
+~~Title: Letter to: Manager of Punjab National Bank — April 16, 1974~~
+~~bc: Manager of Punjab National Bank — April 16, 1974~~
+
+====== Letter to: Manager of Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Punjab National Bank
+ListDate_hidden  : 1974-04-16
+showdate_hidden  : 2020-04-16
+To_letters       : Manager of Punjab National Bank
+Date_letter      : April 16
+Year_letter      : 1974
+Place_letter     : Bombay
+----
+
+Manager\\
+Punjab National Bank\\
+Moti Bagh Branch
+
+Dear Sir;
+
+Enclosed herewith find one copy of the letter dated 8 April, 1974 addressed to your Vrindaban branch. They have sent one telegram reading as follows: "Refer Letter Dated 8/4. Ask Motibagh Office To Send Fixed Deposit Receipt No 270090 To Us---Punjab National Bank"
+
+Kindly send the receipt which is lying in your custody immediately to your Vrindaban branch by Registered post, and oblige. I am forwarding this letter to my secretary, Sriman Tejyas das Adhikari in New Delhi. Kindly do the needful.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/sdg\\
+c c. Tejyas das Adhikari

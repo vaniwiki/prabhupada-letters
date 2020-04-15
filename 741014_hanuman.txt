@@ -1,0 +1,27 @@
+~~Title: Letter to: Hanuman — October 14, 1974~~
+~~bc: Hanuman — October 14, 1974~~
+
+====== Letter to: Hanuman ======
+
+---- dataentry letters ----
+Recipient_hidden : Hanuman
+ListDate_hidden  : 1974-10-14
+showdate_hidden  : 2020-10-14
+To_letters       : Hanuman
+Date_letter      : October 14
+Year_letter      : 1974
+Place_letter     : Mayapur
+----
+
+Montreal
+
+My dear Hanuman das:
+
+Please accept my blessings. I am in due receipt of your letter undated. I had heard that you have since gone to Buenos Aires, so please let me know what is your program.
+
+I hope this meets you in good health.
+
+Your ever well wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

@@ -1,0 +1,31 @@
+~~Title: Letter to: Manager of The Bank of Baroda — August 8, 1969~~
+~~bc: Manager of The Bank of Baroda — August 8, 1969~~
+
+====== Letter to: Manager of The Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of The Bank of Baroda
+ListDate_hidden  : 1969-08-08
+showdate_hidden  : 2020-08-08
+To_letters       : Manager of The Bank of Baroda
+Date_letter      : August 8
+Year_letter      : 1969
+Place_letter     : Los Angeles
+----
+
+Manager\\
+The Bank of Baroda Ltd.\\
+Post Box No. 1801\\
+Mafatlal House\\
+Backbay Reclamation\\
+Bombay-1
+
+Dear Sir:
+
+RE: ACCOUNT #4996 LEAGUE OF DEVOTEES
+
+Kindly close this account, and whatever amount is there in credit balance please transfer to my personal account #4966. Thank you.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami

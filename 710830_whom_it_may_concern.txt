@@ -1,0 +1,23 @@
+~~Title: Letter to: Whom it may concern — August 30, 1971~~
+~~bc: Whom it may concern — August 30, 1971~~
+
+====== Letter to: Whom it may concern ======
+
+---- dataentry letters ----
+Recipient_hidden : Whom it may concern
+ListDate_hidden  : 1971-08-30
+showdate_hidden  : 2020-08-30
+To_letters       : Whom it may concern
+Date_letter      : August 30
+Year_letter      : 1971
+Place_letter     : London
+----
+
+To Whom It May Concern:
+
+This is to certify that Sriman Bhagavan das Adhikari is an ordained minister in the International Society for Krishna Consciousness, of the title Bhakti-sastri, and fully qualified to instruct on Krishna Consciousness and Vedic literature in general. He has been studying under me for many years and is one of my foremost disciples.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/adb

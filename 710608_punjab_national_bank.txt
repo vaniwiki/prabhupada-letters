@@ -1,0 +1,31 @@
+~~Title: Letter to: Punjab National Bank — June 8, 1971~~
+~~bc: Punjab National Bank — June 8, 1971~~
+
+====== Letter to: Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Punjab National Bank
+ListDate_hidden  : 1971-06-08
+showdate_hidden  : 2020-06-08
+To_letters       : Punjab National Bank
+Date_letter      : June 8
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+The Punjab National Bank\\
+Calcutta
+
+Dear Sir:
+
+Re: my savings fund account number 2595 and standing order for paying Srimati Radharani De
+
+With reference to the above, I beg to advise you that from the month of July, 1971, Srimati Radharani De may be paid Rs 500/- per month and you can debit my above account. Please acknowledge receipt of this letter at the above given address.
+
+Thanking you in anticipation.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/adb

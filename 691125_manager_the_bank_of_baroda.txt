@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager The Bank of Baroda — November 25, 1969~~
+~~bc: Manager The Bank of Baroda — November 25, 1969~~
+
+====== Letter to: Manager The Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager The Bank of Baroda
+ListDate_hidden  : 1969-11-25
+showdate_hidden  : 2020-11-25
+To_letters       : Manager The Bank of Baroda
+Date_letter      : November 25
+Year_letter      : 1969
+Place_letter     : London
+----
+
+Manager\\
+The Bank of Baroda\\
+Chandni Chowk\\
+Delhi-6\\
+INDIA
+
+Dear Sir,
+
+Regarding your letter No. FEX.21/-3203, dated November 11, 1969, I beg to inform you that there were two instructions of payments. One instruction was on the 7th September, 1969 for payment to BINA MUSICAL STORES, and another instruction was on the 30th September, 1969 for payment to INDO CRAFTER. I have noted your instruction about the payment to BINA MUSICAL STORES out of the $400 sent to you; but so far as the Murtis to be supplied by INDO CRAFTER are concerned, this has been changed. They are going to send it by post parcel. Therefore, you can cancel the previous instruction in connection with the INDO CRAFTER payment for Rupees 2,600. In this connection I beg to remind you that when I was in the States last year I sent you $400 and odds through the Trade Bank and Trust Company, and the purpose also was declared there for printing of books. Since then, the arrangement for printing books has not materialized, so I want to utilize this money for commercial purchases from India. Please let me know if there is any difficulty in this connection due to exchange control. If so, please let me know what to do in this matter. Thanking you in anticipation of your early reply.
+
+Yours truly,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:pdb

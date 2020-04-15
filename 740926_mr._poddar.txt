@@ -1,0 +1,28 @@
+~~Title: Letter to: Mr. Poddar — September 26, 1974~~
+~~bc: Mr. Poddar — September 26, 1974~~
+
+====== Letter to: Mr. Poddar ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Poddar
+ListDate_hidden  : 1974-09-26
+showdate_hidden  : 2020-09-26
+To_letters       : Mr. Poddar
+Date_letter      : September 26
+Year_letter      : 1974
+Place_letter     : Calcutta
+----
+
+Calcutta
+
+Dear Mr. Poddar:
+
+Please accept my best wishes. Enclosed is a copy of the letter to my disciples in Vrindaban regarding the land. The letter that you write to your father, kindly send me the copy.
+
+I hope this meets you well.
+
+Faithfully yours,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

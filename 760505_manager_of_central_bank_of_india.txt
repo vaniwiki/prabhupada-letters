@@ -1,0 +1,31 @@
+~~Title: Letter to: Manager of Central Bank of India — May 5, 1976~~
+~~bc: Manager of Central Bank of India — May 5, 1976~~
+
+====== Letter to: Manager of Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Central Bank of India
+ListDate_hidden  : 1976-05-05
+showdate_hidden  : 2020-05-05
+To_letters       : Manager of Central Bank of India
+Date_letter      : May 5
+Year_letter      : 1976
+Place_letter     : Honolulu
+----
+
+The Manager,\\
+Central Bank of India,\\
+Gowalia Tank Branch,\\
+Bombay, India
+
+Dear Sir:
+
+Herewith please find enclosed one bank draft for U.S. $2,871.45 (U.S. dollars two thousand eight hundred and seventy one and forty five cents). The check is a Bank of Hawaii check (Honolulu Main Office), draft number FH 099223 dated May 5, 1976. Please credit this amount to the Bhaktivedanta Book Trust savings fund account number 16066 with your branch. This is meant for printing books. Kindly inform me of this transaction upon completion.
+
+Thank you.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks\\
+cc: Giriraja, Bombay

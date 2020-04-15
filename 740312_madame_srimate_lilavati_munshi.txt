@@ -1,0 +1,25 @@
+~~Title: Letter to: Madame Srimate Lilavati Munshi — March 12, 1974~~
+~~bc: Madame Srimate Lilavati Munshi — March 12, 1974~~
+
+====== Letter to: Madame Srimate Lilavati Munshi ======
+
+---- dataentry letters ----
+Recipient_hidden : Madame Srimate Lilavati Munshi
+ListDate_hidden  : 1974-03-12
+showdate_hidden  : 2020-03-12
+To_letters       : Madame Srimate Lilavati Munshi
+Date_letter      : March 12
+Year_letter      : 1974
+Place_letter     : New Delhi
+----
+
+Dear Madame Srimate Lilavati Munshi;
+
+Kindly accept my greetings. When I was in Mayapur I received your invitation letter dated February 26; I received your letter on March 3rd, and was not able to attend, but I thank you very much.
+
+I am returning to Bombay by the end of March. If at that time you are there I shall be very glad to meet you.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/sdg

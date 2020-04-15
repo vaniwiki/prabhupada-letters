@@ -1,0 +1,34 @@
+~~Title: Letter to: Central Bank of India — February 15, 1971~~
+~~bc: Central Bank of India — February 15, 1971~~
+
+====== Letter to: Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Central Bank of India
+ListDate_hidden  : 1971-02-15
+showdate_hidden  : 2020-02-15
+To_letters       : Central Bank of India
+Date_letter      : February 15
+Year_letter      : 1971
+Place_letter     : Gorakhpur
+----
+
+Central Bank of India\\
+Bombay-26
+
+Dear Sir:
+
+Re: __My H.S.B. Account No. 14538 with You.__
+
+I beg to inform you that I am travelling all over the country and whenever there is some collection I transfer the money by mail transfer. I had no difficulty anywhere, but here in Gorakhpur it is the first time that a branch has charged for the transfer. Previous to this they did not charge. Neither in Surat, Amritsar, Allahabad, Indore, etc. did they charge for my mail transfer.
+
+So kindly issue a letter in my favor that your branches should not charge for my mail transfer.
+
+Also, kindly let me know what is the balance in my favor in the above account. I have just transferred Rs. 1611.
+
+Thanking you in anticipation.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

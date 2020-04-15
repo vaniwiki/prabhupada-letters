@@ -1,0 +1,37 @@
+~~Title: Letter to: Manager, Central Bank of India — September 24, 1976~~
+~~bc: Manager, Central Bank of India — September 24, 1976~~
+
+====== Letter to: Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Central Bank of India
+ListDate_hidden  : 1976-09-24
+showdate_hidden  : 2020-09-24
+To_letters       : Manager, Central Bank of India
+Date_letter      : September 24
+Year_letter      : 1976
+Place_letter     : 
+----
+
+The Manager,\\
+Central Bank of India,\\
+10 Camac Street,\\
+CALCUTTA 700-017
+
+Shri Krishna Balaram Mandir,\\
+Chattikara Rd., Raman Reti,\\
+Vrindaban, MATHURA, U.P.
+
+Dear Sir,
+
+Ref: Your letter No. FDR:ASB:9-15/76 dated 16th Sept. '76 FDR in the name Bhaktivedanta Book Trust No. 8/27
+
+You may pay interest on the 4th of every month to the credit of M/s Vrinda Book Company.
+
+Thanking you.
+
+Yours, sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/as\\
+(c.c. to M/s Vrinda Book Company)

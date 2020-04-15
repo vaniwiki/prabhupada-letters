@@ -1,0 +1,31 @@
+~~Title: Letter to: United Shipping Corporation — March 23, 1968~~
+~~bc: United Shipping Corporation — March 23, 1968~~
+
+====== Letter to: United Shipping Corporation ======
+
+---- dataentry letters ----
+Recipient_hidden : United Shipping Corporation
+ListDate_hidden  : 1968-03-23
+showdate_hidden  : 2020-03-23
+To_letters       : United Shipping Corporation
+Date_letter      : March 23
+Year_letter      : 1968
+Place_letter     : San Francisco
+----
+
+United Shipping Corporation\\
+14/2, Old China Bazar Street\\
+Room No. 18, Calcutta 1.
+
+Dear Sirs,
+
+In reference to your letter No. F-38/I-138, dated March 18, 1968, addressed to my New York office, I beg to send you herewith four copies of invoices, as requested by you, with certificate of statement that previously I did not import any books against Rs 33,705/86.
+
+Please let me know exactly what is the procedure for exporting books from India, because I have to do it periodically. And unfortunately, due to ignorance of the procedure, both on your part and on our part, so much botheration is undergone. For want of knowing the procedure, we had to pay the freight charges here also, in spite of sending you in advance $500, (Ref: Your letter F/38/I-14, of January 11, 1968.) Kindly therefore let me know the exact procedure to be followed in future, because books are being printed in Delhi and shortly, we shall have to get them here in New York. Kindly therefore send the exact procedure, and on hearing from you, we shall ask our Delhi agent to book further goods.
+
+Also, please send me a statement of account of $500 sent by us, and the balance which is still with you. Please also let me know, besides the books sent by the Institute of Oriental Philosophy for shipping, whether some loose Bhagavatams are still lying there. When I was in Calcutta, I sent some loose Bhagavatams. I do not know whether you have sent them or not. Please enlighten me.
+
+Kindly send the statement of account as soon as possible. Thanking you in anticipation.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami

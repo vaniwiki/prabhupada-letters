@@ -1,0 +1,27 @@
+~~Title: Letter to: Manager of Central Bank of India — April 16, 1971~~
+~~bc: Manager of Central Bank of India — April 16, 1971~~
+
+====== Letter to: Manager of Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Central Bank of India
+ListDate_hidden  : 1971-04-16
+showdate_hidden  : 2020-04-16
+To_letters       : Manager of Central Bank of India
+Date_letter      : April 16
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Manager, Central Bank of India\\
+Bombay-26
+
+Dear Sir:
+
+Regarding my book fund account no. __14538,__ kindly transfer the amount of Rs. 34,628/17 to my account no. __14876.__ Thank you.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/adb

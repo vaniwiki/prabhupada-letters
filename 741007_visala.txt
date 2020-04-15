@@ -1,0 +1,29 @@
+~~Title: Letter to: Visala — October 7, 1974~~
+~~bc: Visala — October 7, 1974~~
+
+====== Letter to: Visala ======
+
+---- dataentry letters ----
+Recipient_hidden : Visala
+ListDate_hidden  : 1974-10-07
+showdate_hidden  : 2020-10-07
+To_letters       : Visala
+Date_letter      : October 7
+Year_letter      : 1974
+Place_letter     : Mayapur
+----
+
+New Delhi
+
+My dear Visala das:
+
+Please accept my blessings. I am in due receipt of your letter dated September 15, 1974 with enclosed donation of Rs. 211/- and I thank you very much for it.
+
+I think you can let me know how you are doing there in Delhi for collecting for our Vrindaban temple.
+
+I hope this meets you in good health.
+
+Your ever well wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

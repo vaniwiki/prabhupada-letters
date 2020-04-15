@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of Punjab National Bank — March 1, 1968~~
+~~bc: Manager of Punjab National Bank — March 1, 1968~~
+
+====== Letter to: Manager of Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Punjab National Bank
+ListDate_hidden  : 1968-03-01
+showdate_hidden  : 2020-03-01
+To_letters       : Manager of Punjab National Bank
+Date_letter      : March 1
+Year_letter      : 1968
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Punjab National Bank, Ltd.\\
+Vrindaban, India
+
+Dear Sir:
+
+Kindly refer to your letter number 153, dated at Vrindaban, Feb. 19th, 1968, addressed to United Shipping Corp, 14/2 Old China Bazar Street, Room No. 18, Calcutta, regarding shipment of 15 cases of books to New York per S.S. "Flying Enterprise" a/c A.C. Bhaktivedanta Swami. With reference to the above, I beg to inform you that the remittance of more than Rs 13,000 as was received by you for credit of my account on 5/8/67 includes the price of the books shipment, by S. S. "Flying Enterprise." This was already declared by me to the shipping agent as it was needed by the exchange authorities. As such you can forward the documents immediately to me as it is needed that the documents should come through you. I hope you will kindly do the needful without delay.
+
+In the meantime, I have advised you to transfer Rs 3,500 to your Brabourne Road branch for credit of my account there, and I hope you have already done this. A line in reply to this letter will be very much appreciated.
+
+Thanking you in anticipation.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami

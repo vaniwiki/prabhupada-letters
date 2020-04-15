@@ -1,0 +1,31 @@
+~~Title: Letter to: Bank of America — July 23, 1975~~
+~~bc: Bank of America — July 23, 1975~~
+
+====== Letter to: Bank of America ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of America
+ListDate_hidden  : 1975-07-23
+showdate_hidden  : 2020-07-23
+To_letters       : Bank of America
+Date_letter      : July 23
+Year_letter      : 1975
+Place_letter     : Los Angeles
+----
+
+Bank of America\\
+Express Towers, Nariman Point\\
+Bombay, INDIA\\
+Att: The Manager
+
+Dear Sir:
+
+Enclosed please find a copy of the cable transfer advice No. 177654 from Bank of America Branch No. 553, San Francisco to your bank in favor of INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS A/c. No. 16026 for the amount of Dollars 24,846.39 (twenty four thousand eight hundred forty six and thirty nine cents).
+
+Please place the entire amount on a Fixed Deposit for six months in the name of Bhaktivedanta Book Trust. The Fixed Deposit receipt may be kept with you, and when I return to Bombay I shall collect it from you.
+
+Faithfully yours,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

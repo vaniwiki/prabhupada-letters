@@ -1,0 +1,41 @@
+~~Title: Letter to: Agent, Central Bank of India — December 3, 1974~~
+~~bc: Agent, Central Bank of India — December 3, 1974~~
+
+====== Letter to: Agent, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Agent, Central Bank of India
+ListDate_hidden  : 1974-12-03
+showdate_hidden  : 2020-12-03
+To_letters       : Agent, Central Bank of India
+Date_letter      : December 3
+Year_letter      : 1974
+Place_letter     : 
+----
+
+The Agent\\
+Central Bank of India\\
+Camac Street Branch\\
+10, Camac Street\\
+Calcutta-17
+
+VIA REGISTERED A.D.\\
+Hare Krishna Land, Gandhi Gram Road\\
+Juhu, Bombay 400 054
+
+Re: Credit of interest on L.T.D. 5/17 for Rs. 73,000/- to my H/S A/c 831 with you.
+
+Dear Sir:
+
+I am in due receipt of your letter dated November 21, 1974 and have noted the contents. As requested by you I am herewith enclosing herewith the Deposit Receipt as referred to above duly endorsed by me for crediting the interest monthly to my S/A/c 821. As I am now out of Calcutta, the Deposit Receipt certificate may be kept in your custody until I collect it upon my return.\\
+I am also enclosing herewith one check for Dollar 1000.00 No. %%_____%% which please credit to my S A/c 831 and oblige.
+
+Please acknowledge receipt.
+
+Thanking you.
+
+Faithfully yours,\\
+A.C. Bhaktivedanta Swami
+
+Enc: 1 Deposit Receipt & 1 check.\\
+ACBS/bs

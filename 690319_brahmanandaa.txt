@@ -1,0 +1,41 @@
+~~Title: Letter to: Brahmananda — The Macmillan Company~~
+~~bc: Brahmananda — The Macmillan Company~~
+
+====== Letter to: Brahmananda ======
+
+---- dataentry letters ----
+Recipient_hidden : Brahmananda
+ListDate_hidden  : 1969-03-19
+showdate_hidden  : 2020-03-19
+To_letters       : Brahmananda
+Date_letter      : March 19
+Year_letter      : 1969
+Place_letter     : New York
+----
+
+The Macmillan Company\\
+A SUBSIDIARY OF CROWELL COLLIER AND MACMILLAN, INC.\\
+866 Third Avenue, New York, N.Y. 10022
+
+Mr. Bruce Scharf\\
+International Society For Krishna Consciousness Inc.\\
+61 Second Avenue\\
+New York, N.Y.
+
+Dear Bruce:
+
+Shortly before his tragic and recent death Father Merton asked us to assign copyright for his “appreciation” to him in order to clear the way for a possible and future edition of his uniform collected works and essays. We promised to do so.
+
+I would appreciate it very much if you would have Swami sign both assignment copies, with you as witness, and return them to us. This does not detract in any substantial way from the Swami’s copyright and is, I think, a generous gesture made to the memory of Thomas Merton.
+
+Cordially,
+
+James O. Wade\\
+Editor\\
+JOW/pw
+
+Enc.
+
+Cc: Mrs. Carlton, Contracts.
+
+(Forwarded to Brahmananda for necessary action. ACB)

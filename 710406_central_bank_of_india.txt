@@ -1,0 +1,27 @@
+~~Title: Letter to: Central Bank of India — April 6, 1971~~
+~~bc: Central Bank of India — April 6, 1971~~
+
+====== Letter to: Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Central Bank of India
+ListDate_hidden  : 1971-04-06
+showdate_hidden  : 2020-04-06
+To_letters       : Central Bank of India
+Date_letter      : April 6
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Central Bank of India\\
+Bombay
+
+Dear Sirs:
+
+Please transfer from Central Bank of India, Gowalia Tank Branch Account of A.C. Bhaktivedanta Swami Book Fund Account, (HSS Account #14538) the sum of Rs. 2756/76 to Central Bank of India, Head Office, in favor of International Society for Krishna Consciousness Building Fund (Current Account #9/381.)
+
+Thanking you,
+
+A.C. Bhaktivedanta Swami
+
+ACB/rdb

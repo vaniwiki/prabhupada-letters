@@ -1,0 +1,32 @@
+~~Title: Letter to: Bank Manager — August 8, 1969~~
+~~bc: Bank Manager — August 8, 1969~~
+
+====== Letter to: Bank Manager ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank Manager
+ListDate_hidden  : 1969-08-08
+showdate_hidden  : 2020-08-08
+To_letters       : Bank Manager
+Date_letter      : August 8
+Year_letter      : 1969
+Place_letter     : Los Angeles
+----
+
+From: FOUNDER-SECRETARY: LEAGUE OF DEVOTEES\\
+1975 So. La Cienega Blvd.\\
+Los Angeles, Cal. 90034 USA
+
+Manager\\
+THE BANK OF BARODA\\
+856, Chandni Chowk\\
+Delhi-6, INDIA
+
+Dear Sir:
+
+RE: ACCOUNT #2408
+
+Kindly close this account, and whatever amount is there in credit balance please transfer to my personal account # 1452. Thank you.
+
+Sincerely,\\
+A.C. Bhaktivedanta Swami

@@ -1,0 +1,33 @@
+~~Title: Letter to: Aska Distillery — October 21, 1947~~
+~~bc: Aska Distillery — October 21, 1947~~
+
+====== Letter to: Aska Distillery ======
+
+---- dataentry letters ----
+Recipient_hidden : Aska Distillery
+ListDate_hidden  : 1947-10-21
+showdate_hidden  : 2020-10-21
+To_letters       : Aska Distillery
+Date_letter      : October 21
+Year_letter      : 1947
+Place_letter     : Calcutta
+----
+
+The Proprietor,\\
+Aska Distillery,\\
+Aska.
+
+Dear Sir,
+
+We have decided to open a branch manufactory of our above laboratory in a suitable locality of Berhampur. We are arranging to approach the local excise authorities to grant us permit for possessing and using rectified spirit for medicinal purposes. But before we do anything finally as would like to enquire from your good self whether it is possible to get sufficient quantity of rectified spirit from your distillery.
+
+The bearer of this letter is a messenger on our behalf and we shall be thankful if you will kindly let us know the following points per bearer.
+
+1. Whether rectified spirit is obtainable from you at the rate of 100 gallons per month.\\
+2. Whether you distill rectified spirit throughout the whole year.\\
+3. Your usual strength of rectified spirit.
+
+Yours faithfully,\\
+For Vimaltone Laboratories Ltd.\\
+Abhay Charan De\\
+Director in chief.

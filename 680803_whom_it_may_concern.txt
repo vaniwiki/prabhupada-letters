@@ -1,0 +1,27 @@
+~~bc:Whom it may concern — Montreal, 3 August, 1968~~
+~~Title:Letter to: Whom it may concern~~
+
+====== Letter to: Whom it may concern ======
+
+---- dataentry letters ----
+Recipient_hidden : Whom it may concern
+ListDate_hidden  : 1968-08-03
+showdate_hidden  : 2020-08-03
+To_letters       : Whom it may concern
+Date_letter      : 3 August
+Year_letter      : 1968
+Place_letter     : Montreal
+----
+
+
+To whom it may concern:
+
+This is to state that Sriman Shivanandadas Brahmachary (Samuel Groom Greer) is an initiated disciple of His Divine Grace A.C. Bhaktivedanta Swami and member of the International Society for Krishna Consciousness, Inc. which has branches throughout the world and Headquarters in New York, U. S. A.
+
+Sriman Shivanandadas is authorized to help establish a missionary center in the city of London for preaching the Transcendental Philosophy of Krishna (God) Consciousness. It is requested that all who read this letter help him in this great mission.
+
+A.C. Bhaktivedanta Swami\\
+Acharya
+
+Janardan das Adhikary (Janis Dambergs)\\
+President

@@ -1,0 +1,30 @@
+~~Title: Letter to: Manager of Equitable Savings Bank — October 4, 1969~~
+~~bc: Manager of Equitable Savings Bank — October 4, 1969~~
+
+====== Letter to: Manager of Equitable Savings Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Equitable Savings Bank
+ListDate_hidden  : 1969-10-04
+showdate_hidden  : 2020-10-04
+To_letters       : Manager of Equitable Savings Bank
+Date_letter      : October 4
+Year_letter      : 1969
+Place_letter     : Tittenhurst
+----
+
+Manager\\
+EQUITABLE SAVINGS BANK\\
+Fairfax and Beverly Boulevard\\
+Los Angeles, California\\
+USA
+
+Dear Sir,
+
+I beg to inform you that yesterday Mr. M.A. Grant of 7 Bury Place, London, WC 1, ENGLAND has transferred dollars in exchange of 150.5 pounds to be deposited in my account #12410. But I see the account number has been wrongly mentioned as 90034. So please rectify this mistake and credit the amount in my savings account duly. In reply to this letter please let me know what is the correct balance at present in my credit. Also please send me some envelopes for sending checks. Please treat this matter as urgent and write to me at the above address. Thanking you in anticipation.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/pdb

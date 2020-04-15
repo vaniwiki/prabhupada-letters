@@ -1,0 +1,27 @@
+~~Title: Letter to: Mr. Kapoor — November 22, 1974~~
+~~bc: Mr. Kapoor — November 22, 1974~~
+
+====== Letter to: Mr. Kapoor ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Kapoor
+ListDate_hidden  : 1974-11-22
+showdate_hidden  : 2020-11-22
+To_letters       : Mr. Kapoor
+Date_letter      : November 22
+Year_letter      : 1974
+Place_letter     : Bombay
+----
+
+Vrindaban
+
+Dear Mr. Kapoor,
+
+I am in due reciept of your letter dated October 19th, 1974. I have recently heard from Bhagavan Das the GBC secretary for India, and also from Tejas that the accounting records are in a shambles and there has been some mismanagement on your part, So upon rectifying these discrepancies we shall see further regarding your position of your working within this Society As well as your proportionate raise in salary.
+
+I hope this meets you in good health,
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/BS/vdd

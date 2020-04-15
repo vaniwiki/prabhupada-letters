@@ -1,0 +1,31 @@
+~~Title: Letter to: Kenneth H. Petchenik — March 11, 1975~~
+~~bc: Kenneth H. Petchenik — March 11, 1975~~
+
+====== Letter to: Kenneth H. Petchenik ======
+
+---- dataentry letters ----
+Recipient_hidden : Kenneth H. Petchenik
+ListDate_hidden  : 1975-03-11
+showdate_hidden  : 2020-03-11
+To_letters       : Kenneth H. Petchenik
+Date_letter      : March 11
+Year_letter      : 1975
+Place_letter     : Bhaktivedanta Manor
+----
+
+Kenneth H. Petchenik\\
+President, Who's Who in America\\
+200 East Ohio Street\\
+Chicago, Illinois 60611 U.S.A.
+
+Dear Sir:
+
+I am in due receipt of your letter dated Feb. 28th, 1975 along with the enclosed information of Who's Who in America and data form. Enclosed please find the form duly completed which I hope will meet your requirements.
+
+I thank you for your having selected me for being listed in this noteworthy publication. I look forward to receiving the completed biography before publication.
+
+I hope this meets you in good health.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Svami\\
+ACBS/ps

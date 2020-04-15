@@ -1,0 +1,30 @@
+~~Title: Letter to: MacMillan Company — July 18, 1970~~
+~~bc: MacMillan Company — July 18, 1970~~
+
+====== Letter to: MacMillan Company ======
+
+---- dataentry letters ----
+Recipient_hidden : MacMillan Company
+ListDate_hidden  : 1970-07-18
+showdate_hidden  : 2020-07-18
+To_letters       : MacMillan Company
+Date_letter      : July 18
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+The MacMillan Company\\
+New York
+
+Gentlemen:
+
+Regarding my book, THE BHAGAVAD GITA AS IT IS, I beg to inform you that when I had originally submitted the manuscript to Mr. James Wade he informed me that it had to be considerably shortened due to production requirements.
+
+Since the publication of the book in 1968, which I understand is now in its third printing, I desire to publish the GITA according to the original manuscript. In this expanded version, each verse is authoritatively presented with the Devanagari script, roman transliteration, English synonyms, translation and elaborate purport, and would be a 800-900 page book.
+
+Many verses in the present shortened volume, especially in the final chapters, lack any purport, and so I am not quite satisfied with the book. I have received many requests from interested readers asking for an expanded and more complete version, and so I am confident that the original manuscript will make a more successful book.
+
+Please inform me whether MacMillan wants to publish this expanded version of the GITA. I look forward to receiving your early reply.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami

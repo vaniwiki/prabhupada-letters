@@ -1,0 +1,33 @@
+~~Title: Letter to: Central Bank of India — February 10, 1971~~
+~~bc: Central Bank of India — February 10, 1971~~
+
+====== Letter to: Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Central Bank of India
+ListDate_hidden  : 1971-02-10
+showdate_hidden  : 2020-02-10
+To_letters       : Central Bank of India
+Date_letter      : February 10
+Year_letter      : 1971
+Place_letter     : Gorakhpur
+----
+
+Central Bank of India\\
+Bombay
+
+Dear Sir:
+
+Re: __My Home Savings Account No. 14538 with you.__
+
+Please find enclosed check No. A-T458304 for Rs. 3305.50 (Rupees three thousand three hundred and five and fifty paise only).
+
+Please credit my above account with Rs. 3305.50 and return the counterfoil receipt to me.
+
+Thanking you in anticipation, I am,
+
+yours sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

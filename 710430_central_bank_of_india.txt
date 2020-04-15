@@ -1,0 +1,28 @@
+~~Title: Letter to: Central Bank of India — April 30, 1971~~
+~~bc: Central Bank of India — April 30, 1971~~
+
+====== Letter to: Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Central Bank of India
+ListDate_hidden  : 1971-04-30
+showdate_hidden  : 2020-04-30
+To_letters       : Central Bank of India
+Date_letter      : April 30
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Central Bank of India\\
+Bombay
+
+Dear Sir:
+
+From the passbook from your Ballyganj Branch, Calcutta, it appears that they have credited Rs. 14,249.04 to my account, but in my passbook for my account 14538 with you you have credited the amount transferred as Rs. 14,239.31 only. There is a difference of Rs. 9.73. Please credit this amount to my account and explain why the amount credited was less. I am not prepared to pay for your interbranch transfers. That is not the system as it is already agreed by you in your letter dated 2nd March, 1971, No. 20/84.
+
+Thanking you to please do the needful and oblige, I am,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

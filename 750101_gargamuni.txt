@@ -1,0 +1,27 @@
+~~Title: Letter to: Gargamuni — January 1, 1975~~
+~~bc: Gargamuni — January 1, 1975~~
+
+====== Letter to: Gargamuni ======
+
+---- dataentry letters ----
+Recipient_hidden : Gargamuni
+ListDate_hidden  : 1975-01-01
+showdate_hidden  : 2020-01-01
+To_letters       : Gargamuni
+Date_letter      : January 1
+Year_letter      : 1975
+Place_letter     : Bombay
+----
+
+Calcutta
+
+My dear Gargamuni Svami
+
+Please accept my blessings. I am writing you regarding 8,000 dollars that was sent from Ramesvara for the Mayapur Temple Kitchen. I received notice that the money was sent before December 15th, 1974. Have you not received it yet? When you had not received any money for the construction, you sent a threatening letter. Now money is there and you are silent. Why don't you inform us?
+
+I hope this meets you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ps

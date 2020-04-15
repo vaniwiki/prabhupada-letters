@@ -1,0 +1,23 @@
+~~Title: Letter to: Mr. Sarkar — February 9, 1977~~
+~~bc: Mr. Sarkar — February 9, 1977~~
+
+====== Letter to: Mr. Sarkar ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Sarkar
+ListDate_hidden  : 1977-02-09
+showdate_hidden  : 2020-02-09
+To_letters       : Mr. Sarkar
+Date_letter      : February 9
+Year_letter      : 1977
+Place_letter     : West Bengal 
+----
+
+Dear Mr. Sarkar,
+
+Regarding your proposed Hare Nama Sankirtana, please accept my well wishes for your sincere endeavor.
+
+Hoping this meets you in good health.
+
+Yours Sincerely,\\
+A.C. Bhaktivedanta Swami

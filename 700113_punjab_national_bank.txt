@@ -1,0 +1,34 @@
+~~Title: Letter to: Punjab National Bank — January 13, 1970~~
+~~bc: Punjab National Bank — January 13, 1970~~
+
+====== Letter to: Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Punjab National Bank
+ListDate_hidden  : 1970-01-13
+showdate_hidden  : 2020-01-13
+To_letters       : Punjab National Bank
+Date_letter      : January 13
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Punjab National Bank\\
+P.O. Vrindaban (Mathura)\\
+U.P., India\\
+Manager
+
+Dear Sir:
+
+Re: My savings fund account No. 2913 with you.
+
+Please transfer Rs. 5,500 by mail order to your Calcutta branch at Brabourne Rd. for credit of my savings fund account No. 2595.
+
+Please send me your debit note as well as let me know what is the credit balance at present.
+
+Thanking you in anticipation.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

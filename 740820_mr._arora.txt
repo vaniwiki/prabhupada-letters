@@ -1,0 +1,29 @@
+~~Title: Letter to: Mr. Arora — August 20, 1974~~
+~~bc: Mr. Arora — August 20, 1974~~
+
+====== Letter to: Mr. Arora ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Arora
+ListDate_hidden  : 1974-08-20
+showdate_hidden  : 2020-08-20
+To_letters       : Mr. Arora
+Date_letter      : August 20
+Year_letter      : 1974
+Place_letter     : Vrindaban
+----
+
+Toronto
+
+My dear Mr. Arora,
+
+Please accept my best wishes. I beg to acknowledge receipt of your letter undated. I thank you for your very nice sentiments. I appreciate the affection that you have for our movement. Please continue to go to the temple and upon recommendation from the president, we shall see about initiation.
+
+I shall be glad to see you either here in India or when I return to the West and we can talk further.
+
+I hope this meets you in good health.
+
+Your ever well wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs/ps

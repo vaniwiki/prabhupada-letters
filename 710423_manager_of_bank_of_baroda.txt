@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of Bank of Baroda — April 23, 1971~~
+~~bc: Manager of Bank of Baroda — April 23, 1971~~
+
+====== Letter to: Manager of Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of Baroda
+ListDate_hidden  : 1971-04-23
+showdate_hidden  : 2020-04-23
+To_letters       : Manager of Bank of Baroda
+Date_letter      : April 23
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Manager, Bank of Baroda\\
+Bombay-20 BR
+
+Dear Sir:
+
+Re: My a/c no. 4966. Ref: Your letter dated 19th April, 1971, no. SB: 16/22.
+
+I beg to enclose herewith the form sent by you, duly filled out and signed by me.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/adb

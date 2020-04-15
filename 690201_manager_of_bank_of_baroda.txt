@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of Bank of Baroda — February 1, 1969~~
+~~bc: Manager of Bank of Baroda — February 1, 1969~~
+
+====== Letter to: Manager of Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of Baroda
+ListDate_hidden  : 1969-02-01
+showdate_hidden  : 2020-02-01
+To_letters       : Manager of Bank of Baroda
+Date_letter      : February 1
+Year_letter      : 1969
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Bank of Baroda Ltd.\\
+Indian Exchange\\
+Calcutta-1
+
+Dear Sir:
+
+Re: My Savings Bank Account # 29/12802
+
+Please transfer Rs 500 to the State Bank of India, Strand Road, Calcutta-1, INDIA, account #SB-C/4208, to Ram Krishna Dey, and debit from my above account. In case of need, the following address may be referred to: Mr. Ram Krishna Dey, 14/4B Sri Gopala Mallick Lane, Calcutta-12, INDIA.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami

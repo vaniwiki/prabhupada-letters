@@ -1,0 +1,30 @@
+~~Title: Letter to: Embassy of the USA — August 2, 1977~~
+~~bc: Embassy of the USA — August 2, 1977~~
+
+====== Letter to: Embassy of the USA ======
+
+---- dataentry letters ----
+Recipient_hidden : Embassy of the USA
+ListDate_hidden  : 1977-08-02
+showdate_hidden  : 2020-08-02
+To_letters       : Embassy of the USA
+Date_letter      : August 2
+Year_letter      : 1977
+Place_letter     : Vrindaban
+----
+
+The Embassy of the United States of America,\\
+Dept. of Immigration and Visa,\\
+New Delhi\\
+Re: Extension of the validity of my Alien Registration Receipt, Card No. A-17978480.
+
+Dear Sir,
+
+I left the United States of America in July of 1976. As I am planning to go to the United States shortly, and as over one year has passed since I was last there, I am requesting your good office to extend the validity of my Registration Card for another year.
+
+Thanking you.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/tkg

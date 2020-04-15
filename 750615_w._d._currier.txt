@@ -1,0 +1,35 @@
+~~Title: Letter to: W. D. Currier — June 16, 1975~~
+~~bc: W. D. Currier — June 16, 1975~~
+
+====== Letter to: W. D. Currier ======
+
+---- dataentry letters ----
+Recipient_hidden : W. D. Currier
+ListDate_hidden  : 1975-06-15
+showdate_hidden  : 2020-06-15
+To_letters       : W. D. Currier
+Date_letter      : June 16
+Year_letter      : 1975
+Place_letter     : Unknown Place
+----
+
+W. D. Currier, M.D.,\\
+Pasadena, CA
+
+<nowiki>YES          NO\\
+(1)    Milk products.        ___X___    _______\\
+(2)    Eggs.        %%_______%%    ___X___\\
+(3)    Cereals, grains, nuts, seeds.        ___X___    _______\\
+(4)    Vegetables and fruits.        ___X___    _______\\
+(5)    Seafoods.        %%_______%%    ___X___\\
+(6)    Beef.        %%_______%%    ___X___\\
+(7)    Lamb.        %%_______%%    ___X___\\
+(8)    Pork.        %%_______%%    ___X___\\
+(9)    Fowl - chicken, duck, turkey        %%_______%%    ___X___\\
+(10)    Fruit juices.        ___X___    _______\\
+(11)    Vegetable juices.        ___X___    _______\\
+(12)    Vitamin and mineral supplements.    ___X___    _______</nowiki>
+
+SIGNED:
+
+A.C. Bhaktivedanta Swami             X sign here

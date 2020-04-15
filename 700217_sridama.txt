@@ -1,0 +1,29 @@
+~~Title: Letter to: Sridama — February 17, 1970~~
+~~bc: Sridama — February 17, 1970~~
+
+====== Letter to: Sridama ======
+
+---- dataentry letters ----
+Recipient_hidden : Sridama
+ListDate_hidden  : 1970-02-17
+showdate_hidden  : 2020-02-17
+To_letters       : Sridama
+Date_letter      : February 17
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Boston
+
+My dear Sridama,
+
+Please accept my blessings. I beg to acknowledge receipt of your letter dated 12 February, 1970, and I am very glad to know that you are doing well in Boston Temple.
+
+I did not know where you were staying and I was very much anxious about your health, so I wrote to Subala and he has conveyed my message to you. Now I am relieved to learn that your are engaged in cooking and your injury is healing nicely. I am also feeling very well here in Los Angeles. Gargamuni has rented a nice house with a sunny compound for me, and I am being attended by two good boys, Nanda Kumar and Devananda.
+
+Hope this letter will meet you again in good health, and thank you for your sincere service.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

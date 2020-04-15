@@ -1,0 +1,35 @@
+~~Title: Letter to: Branch Manager, Central Bank of India — March 16, 1976~~
+~~bc: Branch Manager, Central Bank of India — March 16, 1976~~
+
+====== Letter to: Branch Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Branch Manager, Central Bank of India
+ListDate_hidden  : 1976-03-16
+showdate_hidden  : 2020-03-16
+To_letters       : Branch Manager, Central Bank of India
+Date_letter      : March 16
+Year_letter      : 1976
+Place_letter     : 
+----
+
+10 Camac Street,\\
+Calcutta-700017
+
+Sri Mayapur Chandrodaya Mandir,\\
+P.O. Sridham Mayapur,\\
+Sridham Mayapur, District Nadia,\\
+W. Bengal
+
+ATTENTION: Mr. Dutta
+
+Dear Sir:
+
+Replying your kind letter dated 9th March, 1976, I am sending herewith the specimen of signature for the Bhaktivedanta Book Trust account for your records. I will be sending the document of the Bhaktivedanta Book Trust through Sridhar Swami of which you can make a copy and keep the copy with you. This is the original document, the copy may be attested by you as “seen the original document.” That will serve the purpose.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+Enc: 1 specimen of signature.
+
+ACBS/pks

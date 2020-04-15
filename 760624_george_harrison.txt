@@ -1,0 +1,28 @@
+~~Title: Letter to: George Harrison — June 24, 1976~~
+~~bc: George Harrison — June 24, 1976~~
+
+====== Letter to: George Harrison ======
+
+---- dataentry letters ----
+Recipient_hidden : George Harrison
+ListDate_hidden  : 1976-06-24
+showdate_hidden  : 2020-06-24
+To_letters       : George Harrison
+Date_letter      : June 24
+Year_letter      : 1976
+Place_letter     : New Vrindaban
+----
+
+George Harrison\\
+c/o Bhaktivedanta Manor,
+
+My dear Sriman George,
+
+Please accept my blessings. I would be very much pleased if you can meet me the next time that I am in London. I am scheduled to be there from July 20th to July 26th, 1976, and for further details you can contact Mukunda das. I am looking forward to seeing you again.
+
+Hoping that this meets you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks

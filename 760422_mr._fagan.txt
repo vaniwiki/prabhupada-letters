@@ -1,0 +1,30 @@
+~~Title: Letter to: Mr. Fagan — April 22, 1976~~
+~~bc: Mr. Fagan — April 22, 1976~~
+
+====== Letter to: Mr. Fagan ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Fagan
+ListDate_hidden  : 1976-04-22
+showdate_hidden  : 2020-04-22
+To_letters       : Mr. Fagan
+Date_letter      : April 22
+Year_letter      : 1976
+Place_letter     : Melbourne
+----
+
+The United States Consulate, Visa Section\\
+24 Albert Road,\\
+Melbourne, Australia,\\
+Attn: Mr. Fagan
+
+Dear Sir:
+
+This is to inform you that I am leaving Melbourne for the United States to visit my disciples in our centres in the U.S.A. We are departing from Australia the 26th April, 1976, and first of all we will be visiting our centre in Hawaii. For the past several months, one of my disciples, Mr. Denis Harrison, holding British passport number P606464, has been my personal secretary and for this reason I require that he accompany me to the U.S.A. I know that he is a good boy as I have had ample time to study is character, and I can assure you as the Founder of the International Society for Krishna Consciousness that our society will take care of all his expenses, including maintenance and upkeep, as well as his air tickets to the next place after America; at this time we are scheduled to go to England after our program on the Eastern coast in New York city. I trust that you will do the needful to help me keep my schedule as I am expected to be in certain places on certain dates, and I require the accompaniment of Mr. Harrison, so kindly if you will issue him the required U.S.A. visa for the 3-4 months that he may be there in time before our departure on Monday April 26, 1976.
+
+Thanking you,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks

@@ -1,0 +1,27 @@
+~~Title: Letter to: Visala — September 8, 1974~~
+~~bc: Visala — September 8, 1974~~
+
+====== Letter to: Visala ======
+
+---- dataentry letters ----
+Recipient_hidden : Visala
+ListDate_hidden  : 1974-09-08
+showdate_hidden  : 2020-09-08
+To_letters       : Visala
+Date_letter      : September 8
+Year_letter      : 1974
+Place_letter     : Vrindaban
+----
+
+Vrindaban
+
+My dear Visala das:
+
+Please accept my blessings. I am in due receipt of your letter dated Sept. 1st, as well as enclosed daksina of 111/- rupees. I thank you very much for this. My blessings are there for all of my sincere students.
+
+I hope this meets you in good health.
+
+Your ever well wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs/hdb

@@ -1,0 +1,32 @@
+~~Title: Letter to: Punjab National Bank — September 1, 1970~~
+~~bc: Punjab National Bank — September 1, 1970~~
+
+====== Letter to: Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Punjab National Bank
+ListDate_hidden  : 1970-09-01
+showdate_hidden  : 2020-09-01
+To_letters       : Punjab National Bank
+Date_letter      : September 1
+Year_letter      : 1970
+Place_letter     : Calcutta
+----
+
+Punjab National Bank\\
+Calcutta
+
+Dear Sir:
+
+Re: My Savings Fund Account No. 2595 with you.
+
+I am sending herewith my Pass Book per bearer, Sri Tamala Krsna Adhikari.
+
+Please make it up to date and return.
+
+Kindly note my change of address as above.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

@@ -1,0 +1,31 @@
+~~Title: Letter to: Reserve Bank of India — February 22, 1971~~
+~~bc: Reserve Bank of India — February 22, 1971~~
+
+====== Letter to: Reserve Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Reserve Bank of India
+ListDate_hidden  : 1971-02-22
+showdate_hidden  : 2020-02-22
+To_letters       : Reserve Bank of India
+Date_letter      : February 22
+Year_letter      : 1971
+Place_letter     : Gorakhpur
+----
+
+Chief Controller of Foreign Exchange\\
+Reserve Bank of India\\
+New Delhi
+
+Dear Sir:
+
+I beg to inform you that on account of the Krishna Consciousness Movement started by me in the Western countries I have got many thousands of disciples. These disciples want to pay me something as a matter of etiquette and I want to utilize this money for printing different kinds of books on this Krishna Consciousness Movement.
+
+So instead of taking money from them, I want to convert the money into books on this Krishna Consciousness Movement and get them into India without any payment. Kindly give me necessary permission for this noble activity.
+
+Thanking you in anticipation for an early reply.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

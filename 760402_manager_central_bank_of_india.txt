@@ -1,0 +1,34 @@
+~~Title: Letter to: Manager, Central Bank of India — April 2, 1976~~
+~~bc: Manager, Central Bank of India — April 2, 1976~~
+
+====== Letter to: Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Central Bank of India
+ListDate_hidden  : 1976-04-02
+showdate_hidden  : 2020-04-02
+To_letters       : Manager, Central Bank of India
+Date_letter      : April 2
+Year_letter      : 1976
+Place_letter     : 
+----
+
+Branch Manager,\\
+Central Bank of India,\\
+10, Camac Street,\\
+Calcutta- 700017
+
+Krishna Balaram Mandir,\\
+Chattikara Road,\\
+Raman Reti,\\
+Vrindaban, Dist. Mathura,\\
+U.P.
+
+Dear Sir:
+
+I beg to acknowledge receipt of your letter dated 29th. March, 1976, with my passbook a/c number 831 enclosed. I thank you very much.
+
+Your faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks

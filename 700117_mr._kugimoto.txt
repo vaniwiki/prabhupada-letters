@@ -1,0 +1,39 @@
+~~Title: Letter to: Mr. Kugimoto — January 17, 1970~~
+~~bc: Mr. Kugimoto — January 17, 1970~~
+
+====== Letter to: Mr. Kugimoto ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Kugimoto
+ListDate_hidden  : 1970-01-17
+showdate_hidden  : 2020-01-17
+To_letters       : Mr. Kugimoto
+Date_letter      : January 17
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Mr. Maru Kugimoto\\
+Overseas Division\\
+Messrs. Dai Nippon Printing Co., Ltd.\\
+c/o Ushigome Post Office\\
+Tokyo, Japan
+
+Dear Mr. Kugimoto:
+
+Please refer to your letter No. ODB-K5-Q/69-1037, dated 19 November, 1969 Re: Estimate / Krishna Picture Book. I duly received it through my disciple Mr. William Berke.
+
+You have said that the price is just at your rockbottom. I have accepted the estimate, and very soon I shall send you the manuscript. The manuscript is also ready but I am simply waiting for finishing the 52 pictures.
+
+So within a month, utmost, everything will be ready. Suppose we submit everything by 15 February, will that be alright as you have said that winter season is quite convenient for you. And if it is so, then how much time will you take for finishing the whole printing work?
+
+In the meantime, I have received two complimentary dummies. So I understand that the book will be printed in two parts, namely 226 pages in each part including the pictures. It is alright, but the covering appears to be thinner than #32 Strawboard.
+
+Awaiting your early reply.
+
+Yours Sincerely,\\
+A. C. Bhaktivedanta Swami
+
+ACBS:db
+
+cc---Mr. William Berke

@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of The Bank of Baroda — November 5, 1969~~
+~~bc: Manager of The Bank of Baroda — November 5, 1969~~
+
+====== Letter to: Manager of The Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of The Bank of Baroda
+ListDate_hidden  : 1969-11-05
+showdate_hidden  : 2020-11-05
+To_letters       : Manager of The Bank of Baroda
+Date_letter      : November 5
+Year_letter      : 1969
+Place_letter     : London
+----
+
+Manager\\
+The Bank of Baroda\\
+Chandni Chowk\\
+Delhi-6, INDIA
+
+Dear Sir;
+
+Kindly refer to my letters dated September 7, 1969 and September 30, 1969. I am surprised that I have not as yet received the shipping documents of two consignments to be dispatched by BINA MUSICAL STORES and INDO CRAFTER. Please let me know immediately at my above address what is the actual position now. Kindly treat this as very urgent and oblige.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/pdb

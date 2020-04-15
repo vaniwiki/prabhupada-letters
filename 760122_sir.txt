@@ -1,0 +1,25 @@
+~~Title: Letter to: Sir — January 22, 1976~~
+~~bc: Sir — January 22, 1976~~
+
+====== Letter to: Sir ======
+
+---- dataentry letters ----
+Recipient_hidden : Sir
+ListDate_hidden  : 1976-01-22
+showdate_hidden  : 2020-01-22
+To_letters       : Sir
+Date_letter      : January 22
+Year_letter      : 1976
+Place_letter     : Mayapur
+----
+
+West Bengal
+
+Dear Sir,
+
+Please accept my greetings. It is understood from His Holiness Babaji Advaitanandan das Bhaktibhusan that some respectable gentlemen, headed by your Honor, have selected me as the President of Sri Krishna Caitanya Sangeet College, Bhaktivedyalaya Bisramtala, at Serampur. I wish to speak in detail about this institution. For this purpose I should like to invite you on Sunday, 1st February, 1976, or if this is not convenient, then on such day as is convenient to you. I am here in Mayapur and it will be a great pleasure for me to see you along with your associates. I invite you also to respect noon-day Prasadam with me. Please confirm through Babaji and we shall arrange to receive you.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/tkg

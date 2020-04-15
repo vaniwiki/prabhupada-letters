@@ -1,0 +1,30 @@
+~~Title: Letter to: Unknown — Unknown Date~~
+~~bc: Unknown — Unknown Date~~
+
+====== Letter to: Unknown ======
+
+---- dataentry letters ----
+Recipient_hidden : Unknown
+ListDate_hidden  : 19
+To_letters       : Unknown
+Date_letter      : Unknown
+Year_letter      : 
+Place_letter     : Unknown
+----
+
+Bio data\\
+Previous name:    Sankara Pyne\\
+Mira Pyne\\
+Present name:    Sankarsana Das\\
+(initiating name)    Jalatala Devi Dasi\\
+Permanent residence:    63, P. Tollygunge Road\\
+Calcutta, 700 033\\
+Spiritual Father's\\
+name:    A.C. Bhaktivedanta Swami Prabhupada\\
+Year of initiation:    1974, Sri Dham Mayapur\\
+full disciple of Srila Prabhupada\\
+(1st and 2nd initiation)\\
+Relationship with\\
+Srila Prabhupada:    Grand Nephew and Grand Niece\\
+Date of joining Krsna\\
+Consciousness movement:    September 1970 in Calcutta

@@ -1,0 +1,49 @@
+~~Title: Letter to: Manager of Bank of Baroda — March 25, 1970~~
+~~bc: Manager of Bank of Baroda — March 25, 1970~~
+
+====== Letter to: Manager of Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of Baroda
+ListDate_hidden  : 1970-03-25
+showdate_hidden  : 2020-03-25
+To_letters       : Manager of Bank of Baroda
+Date_letter      : March 25
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Bank of Baroda\\
+India Exchange Branch\\
+P.O. Box No. 313\\
+India Exchange Place\\
+Calcutta-1, India\\
+(URGENT)
+
+Dear Sir:
+
+Re: My Savings Bank A/c No. 29/12802
+
+Replying your letter No. SB/34/, dated 14th March, 1970, I beg to reply as follows with reference to the last paragraph of your letter under reply:
+
+1) Duration of my stay in U.S.A. is as present from 29th December, 1969. Before that, I was touring in Europe. (The duration of my stay outside India in my Passport is up to 9th June, 1971.)
+
+2) My last departure from India was on 13rd December, 1967.
+
+3) The "P" Form No. and Reserve Bank of India Permit No. is as follows: EC. CA Pass 4599/2-67, dated 18th November, 1967, approved.
+
+4) My Passport No. I-276896
+
+5) Purpose of visit is missionary preaching of Bhakti cult.
+
+You have received my letter dated 3rd March, 1970, but you have not mentioned anything about my letter dated 28th February, 1970.
+
+In the meantime, I have also sent another letter dated 18th March, 1970.
+
+Kindly reply these letters at your earliest convenience and oblige.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

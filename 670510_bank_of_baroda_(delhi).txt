@@ -1,0 +1,33 @@
+~~Title: Letter to: Bank of Baroda (Delhi) — May 10, 1967~~
+~~bc: Bank of Baroda (Delhi) — May 10, 1967~~
+
+====== Letter to: Bank of Baroda (Delhi) ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of Baroda (Delhi)
+ListDate_hidden  : 1967-05-10
+showdate_hidden  : 2020-05-10
+To_letters       : Bank of Baroda (Delhi)
+Date_letter      : May 10
+Year_letter      : 1967
+Place_letter     : New York
+----
+
+Agent\\
+The Bank of Baroda Limited\\
+Foreign Department\\
+Mohan Mansion\\
+Chandni Chowk\\
+Post Box No. 1409\\
+Delhi, India.
+
+Dear Sir,
+
+I beg to thank you very much for your letter No. FEX.19/994 of the 27th April 1967 addressed to me San Francisco. Since then I have come to my New York H.Q. and the letter redirected here today.
+
+I very much appreciate your suggestion mentioned in the second paragraph of the letter under reply and I may inform you that I have to pay Rs 25000/- and odds to Asia Press Delhi for printing books. Please let me know if you will issue letter of credit in their favor and if you do so please send me your advice how many dollars I have to transfer from New York to your office.
+
+Awaiting your early reply and thanking you in anticipation.
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami

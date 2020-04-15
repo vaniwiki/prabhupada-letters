@@ -1,0 +1,36 @@
+~~Title: Letter to: Manager, Central Bank of India — July 10, 1976~~
+~~bc: Manager, Central Bank of India — July 10, 1976~~
+
+====== Letter to: Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Central Bank of India
+ListDate_hidden  : 1976-07-10
+showdate_hidden  : 2020-07-10
+To_letters       : Manager, Central Bank of India
+Date_letter      : July 10
+Year_letter      : 1976
+Place_letter     : 
+----
+
+The Manager,\\
+Central Bank of India,\\
+10 Camac Street,\\
+Calcutta 700-017,\\
+India
+
+340 W. 55th. Street,\\
+New York, N.Y. 10019\\
+U.S.A.
+
+Re: F.D.R. in name of Bhaktivedanta Book Trust, effected 4-3-76.
+
+Dear Sir:
+
+With reference to my letter to you dated June 12, 1976, I have received your replies dated May 3, 1976, and June 22, 1976, and I have noted the contents with care. Rather than pay interest from the fixed deposit receipt to the Vrinda Book Co., for the months of May, June, and July, 1976, you can rather pay the Vrinda Book Co. the interest for the months of March to June, 1976. Thanking you,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+Cc: Vrinda Book Co.\\
+ACBS/pks

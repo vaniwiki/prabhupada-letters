@@ -1,0 +1,40 @@
+~~Title: Letter to: Central Bank of India — May 26, 1971~~
+~~bc: Central Bank of India — May 26, 1971~~
+
+====== Letter to: Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Central Bank of India
+ListDate_hidden  : 1971-05-26
+showdate_hidden  : 2020-05-26
+To_letters       : Central Bank of India
+Date_letter      : May 26
+Year_letter      : 1971
+Place_letter     : Calcutta
+----
+
+Central Bank of India,\\
+Calcutta
+
+__RESOLVED__
+
+At a meeting of the executive officers of the International Society for Krishna Consciousness, held yesterday the 25th May, 1971 at their office at 3A, Albert Road, Calcutta-17, the following was agreed:
+
+An account would be opened under the name INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS BUILDING FUND and that it would be operated jointly by the Founder-Acarya A.C. Bhaktivedanta Swami and the Zonal Secretary for India Tamala Krishna Das Adhikari. Checks will be signed by both jointly. The account would be a current account, with the Central Bank of India, Camac Street Branch. Those present at the meeting were:
+
+A.C. Bhaktivedanta Swami---Founder Acarya
+
+Tamala Krishna Das Adhikari---Zonal Secretary for India
+
+Jayapataka Swami
+
+Hansadutta das Adhikari
+
+Bali Mardan das Adhikari
+
+Gurudasa Adhikari
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami,
+
+Founder-Acarya

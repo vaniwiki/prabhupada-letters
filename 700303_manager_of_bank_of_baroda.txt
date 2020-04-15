@@ -1,0 +1,35 @@
+~~Title: Letter to: Manager of Bank of Baroda — March 3, 1970~~
+~~bc: Manager of Bank of Baroda — March 3, 1970~~
+
+====== Letter to: Manager of Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of Baroda
+ListDate_hidden  : 1970-03-03
+showdate_hidden  : 2020-03-03
+To_letters       : Manager of Bank of Baroda
+Date_letter      : March 3
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Bank of Baroda (Calcutta Branch)\\
+P.O. Box No. 313\\
+India Exchange\\
+Calcutta-1, India
+
+Dear Sir:
+
+Re: My S/B account No. 29/12802 with you
+
+In continuation of my letter dated 28 February, 1970. I beg to enclose herewith the true copy of letter No. FEX.22/-277 of your Chandni Chowk, Delhi Branch. I am sure you have received Rs. 6000 (Rs. Six thousand only) transfer as stated by your Delhi Branch.
+
+Please transfer immediately Rs. 5000 (Rs. Five thousand only) to savings account No. 8/16578 United Bank of India Ltd., 157/B Dharmatalla Street, Calcutta-13 in favor of M. M. De (Mathura Mohan De) and send me the debit note here.
+
+Thanking you in anticipation.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of Punjab National Bank — April 24, 1974~~
+~~bc: Manager of Punjab National Bank — April 24, 1974~~
+
+====== Letter to: Manager of Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Punjab National Bank
+ListDate_hidden  : 1974-04-24
+showdate_hidden  : 2020-04-24
+To_letters       : Manager of Punjab National Bank
+Date_letter      : April 24
+Year_letter      : 1974
+Place_letter     : Hyderabad
+----
+
+Manager\\
+Punjab National Bank\\
+Vrindaban, Dist. Mathura, U.P.\\
+Attention: Mr. N. Gupta
+
+Dear Sir;
+
+With further reference to my letter dated April 8th, and your reply of April 15, I beg to request you to transfer 3 lacs (Rs 300,000.00) to your Punjab National Bank, Moti Bagh, New Delhi account Iskcon Vrindaban Temple Construction Fund account number 3867 in place of the one lac (Rs 100,000.00) previously said. Therefore the fixed deposit amount will be 3 lacs (Rs 300,000.00) instead of five lacs (500,000.00). Thanking you for your reliable service.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/sdg\\
+c.c. Tejyas das Adhikari, New Delhi

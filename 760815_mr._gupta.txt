@@ -1,0 +1,27 @@
+~~Title: Letter to: Mr. Gupta — August 15, 1976~~
+~~bc: Mr. Gupta — August 15, 1976~~
+
+====== Letter to: Mr. Gupta ======
+
+---- dataentry letters ----
+Recipient_hidden : Letter to: Mr. Gupta
+ListDate_hidden  : 1976-08-15
+showdate_hidden  : 2020-08-15
+To_letters       : Letter to: Mr. Gupta
+Date_letter      : August 15
+Year_letter      : 1976
+Place_letter     : 
+----
+
+Chandigarh
+
+Dear Mr. Das Gupta;
+
+Please accept my blessings. I have received your letter dated 7th August 1976 and have noted the contents. I am going to New Delhi by the end of the month. You can come there and take information.
+
+I hope this meets you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/hs

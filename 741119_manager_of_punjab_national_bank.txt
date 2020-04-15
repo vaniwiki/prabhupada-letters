@@ -1,0 +1,31 @@
+~~Title: Letter to: Manager of Punjab National Bank — November 19, 1974~~
+~~bc: Manager of Punjab National Bank — November 19, 1974~~
+
+====== Letter to: Manager of Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Punjab National Bank
+ListDate_hidden  : 1974-11-19
+showdate_hidden  : 2020-11-19
+To_letters       : Manager of Punjab National Bank
+Date_letter      : November 19
+Year_letter      : 1974
+Place_letter     : Bombay
+----
+
+The Manager\\
+Punjab National Bank\\
+Vrindaban Branch\\
+Dist. Mathura, U.P.
+
+Dear Sir:
+
+I have received from my Los Angeles Headquarters by mail Remitter's Advice from Bank of America dated November 7, 1974 No. 588183 that the amount of Dollars 9,843.18 was transferred to you via cable. To date I have not received any acknowledgement from you. If you have not received the money at this date, then immediately enquire from your Head Office as to what is the delay. If you have received the money, which should be by this late date, then you must inform me. How can I arrange things if you do not acknowledge receipt of the transfers?
+
+I have also not yet received any reply from you to my letters dated 29/10/74 from Mayapur, West Bengal, and my letter dated 6/11/74 from Bombay. Please acknowledge these letters.
+
+Faithfully yours,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs\\
+cc: ISKCON, New Delhi & Vrindaban

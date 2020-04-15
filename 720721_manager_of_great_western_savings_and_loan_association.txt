@@ -1,0 +1,34 @@
+~~Title: Letter to: Manager of Great Western Savings and Loan Association — July 21, 1972~~
+~~bc: Manager of Great Western Savings and Loan Association — July 21, 1972~~
+
+====== Letter to: Manager of Great Western Savings and Loan Association ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Great Western Savings and Loan Association
+ListDate_hidden  : 1972-07-21
+showdate_hidden  : 2020-07-21
+To_letters       : Manager of Great Western Savings and Loan Association
+Date_letter      : July 21
+Year_letter      : 1972
+Place_letter     : Paris
+----
+
+To the Manager\\
+Great Western Savings and Loan Association\\
+Fairfax Branch\\
+Fairfax Avenue\\
+Los Angeles, California\\
+U.S.A.
+
+Dear Sir,
+
+__r.e. My Fixed Deposit Account #6004600__
+
+I beg to inform you that I am purchasing one house at Venice Boulevard and I have to pay $63,500 on or before the 25th August, 1972. Kindly therefore transfer $20,000 to my checking account in the Bank of America branch #308 in favor of my account #3081-61625. The fixed deposit receipt is laying in the safe deposit box #361 in your bank. If it is necessary to present this document then I shall instruct my representative in Los Angeles to go to you with the key and he will deliver the receipt.
+
+Thanking you,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/sda

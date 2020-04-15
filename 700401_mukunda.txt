@@ -1,0 +1,29 @@
+~~Title: Letter to: Mukunda — April 1, 1970~~
+~~bc: Mukunda — April 1, 1970~~
+
+====== Letter to: Mukunda ======
+
+---- dataentry letters ----
+Recipient_hidden : Mukunda
+ListDate_hidden  : 1970-04-01
+showdate_hidden  : 2020-04-01
+To_letters       : Mukunda
+Date_letter      : April 1
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+My dear Mukunda,
+
+Please accept my blessings. I am in due receipt of your letter dated 21st March, 1970. The karatalas have not yet reached here.
+
+Yes, I am going to the newly purchased church Temple and when I go there by Sunday next, I shall try to teach the local boys in the way of performing Sankirtana in a circle. I shall send to you the sound production with photographs if possible, and instructions also.
+
+I am awaiting the arrival of the karatalas.
+
+Hope this will meet you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

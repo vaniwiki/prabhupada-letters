@@ -1,0 +1,29 @@
+~~Title: Letter to: Mr. George Twohie — May 3, 1976~~
+~~bc: Mr. George Twohie — May 3, 1976~~
+
+====== Letter to: Mr. George Twohie ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. George Twohie
+ListDate_hidden  : 1976-05-03
+showdate_hidden  : 2020-05-03
+To_letters       : Mr. George Twohie
+Date_letter      : May 3
+Year_letter      : 1976
+Place_letter     : Honolulu
+----
+
+Mr. George Twohie,\\
+State Department,\\
+Washington, D.C.
+
+Dear Sir,
+
+I have been informed through one of my disciples that one application for negotiating a house owned by the U.S. Embassy in New Delhi has not yet reached your Washington office. In order to expedite matters, I am enclosing one "true" copy of the original application dated March 27, 1976, and addressed to the Ambassador of the United States in New Delhi. I am hopeful that we may be able to meet in this concern when I visit Washington between July 2 and July 9, 1976.
+
+Thanking you,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/pks

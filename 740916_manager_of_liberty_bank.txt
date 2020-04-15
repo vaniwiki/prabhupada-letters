@@ -1,0 +1,32 @@
+~~Title: Letter to: Manager of Liberty Bank — September 16, 1974~~
+~~bc: Manager of Liberty Bank — September 16, 1974~~
+
+====== Letter to: Manager of Liberty Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Liberty Bank
+ListDate_hidden  : 1974-09-16
+showdate_hidden  : 2020-09-16
+To_letters       : Manager of Liberty Bank
+Date_letter      : September 16
+Year_letter      : 1974
+Place_letter     : Vrindaban
+----
+
+The Manager\\
+Liberty Bank\\
+Main Office\\
+Honolulu Hawaii, U.S.A.
+
+Dear Sir:
+
+Enclosed herewith please find the passbook for savings account #35785 and a savings withdrawal form in favor of Bank of America Branch #600, Main Office, Los Angeles for transferring immediately $35,000.00 in favor of account #6004-7143 International Society for Krishna Consciousness Inc. Mayapur-Vrndaban Fund.
+
+Please acknowledge receipt. Thanking you.
+
+Faithfully yours,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/bs\\
+N.B. The passbook may be kept with you until I collect it from your office.

@@ -1,0 +1,36 @@
+~~Title: Letter to: Bank of America — August 15, 1972~~
+~~bc: Bank of America — August 15, 1972~~
+
+====== Letter to: Bank of America ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of America
+ListDate_hidden  : 1972-08-15
+showdate_hidden  : 2020-08-15
+To_letters       : Bank of America
+Date_letter      : August 15
+Year_letter      : 1972
+Place_letter     : Los Angeles
+----
+
+Manager,
+
+Bank of America,
+
+Pico-La Cienega Branch,
+
+Los Angeles.
+
+Dear sir,
+
+Re:My checking Account No. 3081-61625
+
+Kindly transfer the above account with all balance to your Branch No. 366, 3849 Main Street, Culver City, which is nearer to my residence at the above address.
+
+Thanking you once more.
+
+Yours sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/sda

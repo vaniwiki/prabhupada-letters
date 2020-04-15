@@ -1,0 +1,36 @@
+~~Title: Letter to: Bank of Baroda — August 3, 1966~~
+~~bc: Bank of Baroda — August 3, 1966~~
+
+====== Letter to: Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of Baroda
+ListDate_hidden  : 1966-08-03
+showdate_hidden  : 2020-08-03
+To_letters       : Bank of Baroda
+Date_letter      : August 3
+Year_letter      : 1966
+Place_letter     : New York
+----
+
+Agent\\
+The Bank of Baroda, Limited\\
+Branch Chandni Chawk\\
+Delhi 6, India
+
+Dear Sir,
+
+__Re My savings Bank account 1452__
+
+With reference to the above I beg to inform you that since a year I am out of India, and I may be required to live here a few days more. I am therefore anxious to know my above account position and shall be glad to have a statement of account since June 1st 1965 on which date I see my credit balance Rs. 2206.05.
+
+I may further inform you that my American friends will purchase some books of mine from India and I wish to send the money for deposit in a separate account namely __A.C. BHAKTIVEDANTA BOOK A/C.__ I therefore request you to open the above account immediately and transfer Rs 100/- from my present account to this new account. And on hearing from you I shall send all the deposits money to this account.
+
+Please let me know the number of this new account A.C. BHAKTIVEDANTA BOOK ACCOUNT. Also please send me a cheque book containing ten cheques to my above American address. Also please let me know the present or current exchange rate for American dollars in Indian rupees.
+
+I hope you will please note the above points carefully and reply this letter at your earliest opportunity and oblige.
+
+Thanking you in anticipation,
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami

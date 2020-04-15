@@ -1,0 +1,27 @@
+~~Title: Letter to: Indira — October 20, 1973~~
+~~bc: Indira — October 20, 1973~~
+
+====== Letter to: Indira ======
+
+---- dataentry letters ----
+Recipient_hidden : Indira
+ListDate_hidden  : 1973-10-20
+showdate_hidden  : 2020-10-20
+To_letters       : Indira
+Date_letter      : October 20
+Year_letter      : 1973
+Place_letter     : Bombay
+----
+
+Florissant, Missouri
+
+My dear Indira Dasi:
+
+Please accept my blessings. I beg to acknowledge receipt of your letter dated 24/9/73. Regarding your opening another school, if you can do it, I have no objection. But, it is a great responsibility. To open for a few days, and then close it is not good.
+
+I hope this meets you in good health.
+
+Your ever well wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

@@ -1,0 +1,23 @@
+~~Title: Letter to: Unknown — April 15, 1972~~
+~~bc: Unknown — April 15, 1972~~
+
+====== Letter to: Unknown ======
+
+---- dataentry letters ----
+Recipient_hidden : Unknown
+ListDate_hidden  : 1972-04-15
+showdate_hidden  : 2020-04-15
+To_letters       : Unknown
+Date_letter      : April 15
+Year_letter      : 1972
+Place_letter     : Unknown Place
+----
+
+[PARTIAL LETTER:]
+
+Regarding GBC for this Australia zone, that I shall decide in due course, after I have thoroughly seen how things are going.
+
+Hoping this will meet you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami

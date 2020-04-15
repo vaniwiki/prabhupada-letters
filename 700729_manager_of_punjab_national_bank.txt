@@ -1,0 +1,33 @@
+~~Title: Letter to: Manager of Punjab National Bank — July 29, 1970~~
+~~bc: Manager of Punjab National Bank — July 29, 1970~~
+
+====== Letter to: Manager of Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Punjab National Bank
+ListDate_hidden  : 1970-07-29
+showdate_hidden  : 2020-07-29
+To_letters       : Manager of Punjab National Bank
+Date_letter      : July 29
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Punjab National Bank\\
+Calcutta
+
+Dear Sir:
+
+Re: My Savings Fund Account No. 2595 with you
+
+I beg to inform you that this day, 29th July, 1970, I have remitted 16039.18 U.S. Dollars through Security Pacific National Bank, Culver City Branch, under receipt No. 729949 for credit of my account SS/F No. 2595 with you.
+
+This amount is for the purpose of constructing a Radha Krsna Temple at Mayapur, as it is contributed by my American disciples.
+
+Please acknowledge receipt, and on hearing from you I shall begin construction work.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:dm

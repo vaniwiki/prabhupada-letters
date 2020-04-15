@@ -1,0 +1,35 @@
+~~Title: Letter to: Manager of Central Bank of India — August 5, 1973~~
+~~bc: Manager of Central Bank of India — August 5, 1973~~
+
+====== Letter to: Manager of Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Central Bank of India
+ListDate_hidden  : 1973-08-05
+showdate_hidden  : 2020-08-05
+To_letters       : Manager of Central Bank of India
+Date_letter      : August 5
+Year_letter      : 1973
+Place_letter     : Bhaktivedanta Manor
+----
+
+The Manager,\\
+Central Bank of India,\\
+Head Office Bombay, Fort\\
+INDIA
+
+Dear Sir,
+
+Regarding account number 9-381, International Society for Krishna Consciousness, Building Fund.
+
+I wish to send some money on account of building fund, as soon as you receive it you have to transfer it for fixed deposit account for 6 months. Please send me the necessary papers for our joint signatures.
+
+The purpose of dispatching this money is for construction of temples in India.
+
+Prior to this letter we requested you to send us a statement of accounts, but we have not received any such statement till now. Kindly send the statement also.
+
+Yours sincerely\\
+A.C. Bhaktivedanta Swami
+
+Syamasundara Das Adhikari\\
+ACBS:hda

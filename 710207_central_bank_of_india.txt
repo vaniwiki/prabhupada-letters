@@ -1,0 +1,43 @@
+~~Title: Letter to: Central Bank of India — February 7, 1971~~
+~~bc: Central Bank of India — February 7, 1971~~
+
+====== Letter to: Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Central Bank of India
+ListDate_hidden  : 1971-02-07
+showdate_hidden  : 2020-02-07
+To_letters       : Central Bank of India
+Date_letter      : February 7
+Year_letter      : 1971
+Place_letter     : Calcutta
+----
+
+Central Bank of India,\\
+Calcutta
+
+Dear Sir;
+
+Re: __My SB A/c. No. 11407 with you.__
+
+Kindly transfer all the balance of my above account to your Camac Street Branch as I have changed my address to---
+
+3 Albert Road
+
+Calcutta-16
+
+I am returning my passbook and checkbook to you herewith.
+
+Thanking you in anticipation, I am,
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds\\
+c.c. forwarded to
+
+Central Bank of India
+
+Camac Street Branch
+
+Calcutta-16

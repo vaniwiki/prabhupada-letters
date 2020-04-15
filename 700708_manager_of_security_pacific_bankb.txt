@@ -1,0 +1,30 @@
+~~Title: Letter to: Manager of Security Pacific Bank — July 8, 1970~~
+~~bc: Manager of Security Pacific Bank — July 8, 1970~~
+
+====== Letter to: Manager of Security Pacific Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Security Pacific Bank
+ListDate_hidden  : 1970-07-08
+showdate_hidden  : 2020-07-08
+To_letters       : Manager of Security Pacific Bank
+Date_letter      : July 8
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Security Pacific Bank\\
+Culver City Branch No. 94\\
+Los Angeles
+
+Dear Sir:
+
+Re: My account No. 836-237 with you
+
+Please issue a cashier's check for $1,400.00 (One thousand and four hundred dollars and no cents) in favor of Dai Nippon Printing Company Limited, and charge the same to my account as above mentioned.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

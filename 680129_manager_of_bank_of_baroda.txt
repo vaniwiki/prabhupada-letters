@@ -1,0 +1,32 @@
+~~Title: Letter to: Manager of Bank of Baroda — January 29, 1968~~
+~~bc: Manager of Bank of Baroda — January 29, 1968~~
+
+====== Letter to: Manager of Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of Baroda
+ListDate_hidden  : 1968-01-29
+showdate_hidden  : 2020-01-29
+To_letters       : Manager of Bank of Baroda
+Date_letter      : January 29
+Year_letter      : 1968
+Place_letter     : Los Angeles
+----
+
+Manager, Bank of Baroda LTD.\\
+Chandni Chowk,\\
+Delhi\\
+India
+
+Dear Sir,
+
+I beg to inform you that today I have advised the Trade Bank & Trust Co. of New York to transfer by air mail three hundred and eighty dollars and no cents ($380.00) for credit of my S.B. account No. 1432, with you.
+
+The purpose for transferring this amount is to pay press bill in India, for printing cost. The copy of letter from Radha Press, Delhi, is enclosed herewith for your reference.
+
+Please acknowledge receipt hereof and oblige. Thanking you in anticipation.
+
+Yours truly,\\
+A.C. Bhaktivedanta Swami
+
+Enc. 1 copy of letter

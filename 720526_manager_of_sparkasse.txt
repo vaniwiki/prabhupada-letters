@@ -1,0 +1,32 @@
+~~Title: Letter to: Manager of Sparkasse — May 26, 1972~~
+~~bc: Manager of Sparkasse — May 26, 1972~~
+
+====== Letter to: Manager of Sparkasse ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Sparkasse
+ListDate_hidden  : 1972-05-26
+showdate_hidden  : 2020-05-26
+To_letters       : Manager of Sparkasse
+Date_letter      : May 26
+Year_letter      : 1972
+Place_letter     : Los Angeles
+----
+
+To the Manager\\
+Sparkasse\\
+2 Hamburg 19, Eimsbuttleler Ch. 57\\
+West Germany
+
+Dear Sir:
+
+I have got my account in your Hamburg Branch, and the number is 114/332 647. As of 10-9-69 there were 5 DM. only.
+
+I am herewith authorizing one of my students, Mr. Stefan Delhaes to deposit any amount in the above account. He will be coming to your bank shortly for making a deposit and you may compare his signature with that which I am enclosing herewith.
+
+Kindly do the needful and oblige.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACB/sda

@@ -1,0 +1,28 @@
+~~Title: Letter to: Karandhara — July 23, 1973~~
+~~bc: Karandhara — July 23, 1973~~
+
+====== Letter to: Karandhara ======
+
+---- dataentry letters ----
+Recipient_hidden : Karandhara
+ListDate_hidden  : 1973-07-23
+showdate_hidden  : 2020-07-23
+To_letters       : Karandhara
+Date_letter      : July 23
+Year_letter      : 1973
+Place_letter     : Bhaktivedanta Manor
+----
+
+Los Angeles
+
+Dear Karandhara,
+
+Please accept my blessings.
+
+Enclosed please find three checks. Please deposit them in my Bank of America Account no 366/8-80613, and send me duplicate receipt.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+Enclosure: 3 Checks ($300.00)\\
+ACBS/sdg

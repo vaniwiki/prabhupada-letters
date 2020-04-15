@@ -1,0 +1,27 @@
+~~Title: Letter to: Jayatirtha, Ramesvara — February 26, 1975~~
+~~bc: Jayatirtha, Ramesvara — February 26, 1975~~
+
+====== Letter to: Jayatirtha, Ramesvara ======
+
+---- dataentry letters ----
+Recipient_hidden : Jayatirtha, Ramesvara
+ListDate_hidden  : 1975-02-26
+showdate_hidden  : 2020-02-26
+To_letters       : Jayatirtha, Ramesvara
+Date_letter      : February 26
+Year_letter      : 1975
+Place_letter     : Miami
+----
+
+My dear Jayatirtha and Ramesvara,
+
+Please accept my blessings. I have today advised the Bank of America, Los Angeles branch to transfer the whole amount of the two fixed deposits to their Bombay branch, account number 16026, in favor of the International Society for Krishna Consciousness (Mayapur Vrndavana Fund).
+
+Kindly see that it is done.
+
+I hope this finds you both in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+enc: Letter to Bank of America, L.A.

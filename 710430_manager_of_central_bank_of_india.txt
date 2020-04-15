@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of Central Bank of India — April 30, 1971~~
+~~bc: Manager of Central Bank of India — April 30, 1971~~
+
+====== Letter to: Manager of Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Central Bank of India
+ListDate_hidden  : 1971-04-30
+showdate_hidden  : 2020-04-30
+To_letters       : Manager of Central Bank of India
+Date_letter      : April 30
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Manager, Central Bank of India\\
+Bombay-26
+
+Re: My newly formed HSS a/c no. 14876, opened 20-3-71.\\
+Dear Sir:
+
+In reference to your letter no. 20/149 dated 21st April, 1971, I beg to inform you that generally I visit my branches in Bombay, Calcutta, Gorakhpur and Delhi and sometimes I go outside also. If you will kindly give me a general letter of introduction so that wherever I go I can show the local manager that letter and he will transfer my money without any charges. That will be convenient for both you and me.
+
+I thank you very much for your giving this facility so that there will be no inconvenience for transferring my money by mail,
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/adb

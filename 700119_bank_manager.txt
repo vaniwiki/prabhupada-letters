@@ -1,0 +1,37 @@
+~~Title: Letter to: Bank Manager — January 19, 1970~~
+~~bc: Bank Manager — January 19, 1970~~
+
+====== Letter to: Bank Manager ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank Manager
+ListDate_hidden  : 1970-01-19
+showdate_hidden  : 2020-01-19
+To_letters       : Bank Manager
+Date_letter      : January 19
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+Canadian Imperial Bank of Commerce\\
+Sherbrooke and Aylmer\\
+Montreal, Quebec\\
+Canada
+
+Dear Sir:
+
+Re: My Account No. 51-05463 with you
+
+I thank you very much for sending me the pass book.
+
+But I am surprised to see one item: withdrawal of $10.08 (ten dollars and eight cents) on the 16th December, 1969. I have not withdrawn anything, so how it so happens?
+
+Please therefore correct the pass book sent herewith, and send it back.
+
+Yours Sincerely,\\
+A. C. Bhaktivedanta Swami
+
+ACBS:db
+
+Incl. – Pass Book

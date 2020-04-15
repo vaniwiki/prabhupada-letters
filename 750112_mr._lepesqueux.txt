@@ -1,0 +1,27 @@
+~~Title: Letter to: Mr. Lepesqueux — January 12, 1975~~
+~~bc: Mr. Lepesqueux — January 12, 1975~~
+
+====== Letter to: Mr. Lepesqueux ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Lepesqueux
+ListDate_hidden  : 1975-01-12
+showdate_hidden  : 2020-01-12
+To_letters       : Mr. Lepesqueux
+Date_letter      : January 12
+Year_letter      : 1975
+Place_letter     : Bombay
+----
+
+France
+
+My dear Mr. Lepesqueux,
+
+Please accept my greetings. I am in due receipt of your letter dated Aug. 28, 1974 and have noted the contents. I am sorry for such a late reply, but I have just received your letter last night due to the poor postal system in India. I hope that you have had the opportunity to visit our temple in Paris. If not, please go there and you will be pleased to see our programs there. The address is: ISKCON, 4 rue le Sueur, 75016 Paris, France.
+
+I hope this meets you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ps

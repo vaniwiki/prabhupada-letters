@@ -1,0 +1,31 @@
+~~Title: Letter to: Punjab National Bank — December 27, 1975~~
+~~bc: Punjab National Bank — December 27, 1975~~
+
+====== Letter to: Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Punjab National Bank
+ListDate_hidden  : 1975-12-27
+showdate_hidden  : 2020-12-27
+To_letters       : Punjab National Bank
+Date_letter      : December 27
+Year_letter      : 1975
+Place_letter     : Ahmedabad
+----
+
+Punjab National Bank,\\
+Vrindaban Branch,\\
+Vrindaban Dist. Mathura,\\
+Attention: Manager
+
+Dear Sir,
+
+With reference to our conversation regarding opening a branch in our temple. The amount of 5 laks of Rs. to be deposited is already secured. As soon as you open the branch your Bombay head office will immediately transfer the money. The other bank was very much eager to open a branch in our temple, but because our negotiations with you were already completed we did not accept. I hope by this time you have your sanction from the head office and do the needful as soon as possible.
+
+Respectfully yours,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/hda\\
+cc. Sri Vishwambar Dayala,\\
+General supervisor.

@@ -1,0 +1,23 @@
+~~Title: Letter to: Mr. Sarkar — March 19, 1977~~
+~~bc: Mr. Sarkar — March 19, 1977~~
+
+====== Letter to: Mr. Sarkar ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Sarkar
+ListDate_hidden  : 1977-03-19
+showdate_hidden  : 2020-03-19
+To_letters       : Mr. Sarkar
+Date_letter      : March 19
+Year_letter      : 1977
+Place_letter     : West Bengal
+----
+
+My dear Mr. Sarkar,
+
+Please accept my blessing. I beg to thank you for your letter dated 10th March, 1977. My health is improving by the grace of Krishna, and I am leaving for Bombay by the 22nd instant. Thank you very much for your concern.
+
+Hoping this finds you well.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami

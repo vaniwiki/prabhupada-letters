@@ -1,0 +1,32 @@
+~~Title: Letter to: Manager of First National City Bank — March 7, 1970~~
+~~bc: Manager of First National City Bank — March 7, 1970~~
+
+====== Letter to: Manager of First National City Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of First National City Bank
+ListDate_hidden  : 1970-03-07
+showdate_hidden  : 2020-03-07
+To_letters       : Manager of First National City Bank
+Date_letter      : March 7
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Manager\\
+First National City Bank\\
+686 Broadway near Great Jones Street\\
+New York, N.Y. 10012
+
+Dear Sir:
+
+Re: My account No. 0400688633 with you
+
+Kindly transfer my all balance in the above account to the Bank of America, Pico-La Cienega Branch (308) at 8501 West Pico Blvd., Los Angeles, California 90035, for credit of my checking account No. 3081-61625.
+
+The pass-book is sent herewith. Please expedite the matter and oblige.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

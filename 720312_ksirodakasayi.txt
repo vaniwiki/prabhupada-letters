@@ -1,0 +1,20 @@
+~~Title: Letter to: Ksirodakasayi — March, 1972~~
+~~bc: Ksirodakasayi — March, 1972~~
+
+====== Letter to: Ksirodakasayi ======
+
+---- dataentry letters ----
+Recipient_hidden : Ksirodakasayi
+ListDate_hidden  : 1972-03-12
+showdate_hidden  : 2020-03-12
+To_letters       : Ksirodakasayi
+Date_letter      : March
+Year_letter      : 1972
+Place_letter     : Calcutta
+----
+
+To Ksirodakasayi:
+
+Proceed Vrindaban immediately. Await instructions.
+
+Bhaktivedanta Swami.

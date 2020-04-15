@@ -1,0 +1,32 @@
+~~Title: Letter to: Manager of Punjab National Bank — April 26, 1971~~
+~~bc: Manager of Punjab National Bank — April 26, 1971~~
+
+====== Letter to: Manager of Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Punjab National Bank
+ListDate_hidden  : 1971-04-26
+showdate_hidden  : 2020-04-26
+To_letters       : Manager of Punjab National Bank
+Date_letter      : April 26
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Manager\\
+Punjab National Bank\\
+P.O. Vrndavana\\
+Dt. Mathura
+
+Dear Sir:
+
+Re: __My Savings Fund Account No. 2913 with you.__
+
+I am enclosing herewith my passbook for the above account and the relative unused checks (two only), which please receive and transfer all the balance including interest to your Calcutta Branch at Brabourne Road for credit of my Savings Fund Account No. __2595__ with them.
+
+Thanking you in anticipation, I am,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

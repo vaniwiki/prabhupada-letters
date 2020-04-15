@@ -1,0 +1,31 @@
+~~Title: Letter to: Manager of Punjab National Bank — March 12, 1972~~
+~~bc: Manager of Punjab National Bank — March 12, 1972~~
+
+====== Letter to: Manager of Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Punjab National Bank
+ListDate_hidden  : 1972-03-12
+showdate_hidden  : 2020-03-12
+To_letters       : Manager of Punjab National Bank
+Date_letter      : March 12
+Year_letter      : 1972
+Place_letter     : Vrindaban
+----
+
+The Manager\\
+Punjab National Bank\\
+Brabourne Road\\
+__Calcutta-1__
+
+Dear sir,
+
+__re. My Account no. %%__%% S.F.__
+
+Kindly advise your Vrindaban Branch to pay Rs. 200/- (Rupees Two-hundred only) every month until further notice, to Sri Madan Mohan Goswami, Sevait, Sri Sri Radha Damodara Temple, Sevakunj, Vrindaban, District Mathura, U.P., and charge the same to my above account.
+
+Thanking you,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/sda

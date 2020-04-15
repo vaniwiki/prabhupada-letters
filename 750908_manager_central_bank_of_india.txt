@@ -1,0 +1,41 @@
+~~Title: Letter to: Manager, Central Bank of India — September 8, 1975~~
+~~bc: Manager, Central Bank of India — September 8, 1975~~
+
+====== Letter to: Manager, Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Central Bank of India
+ListDate_hidden  : 1975-09-08
+showdate_hidden  : 2020-09-08
+To_letters       : Manager, Central Bank of India
+Date_letter      : September 8
+Year_letter      : 1975
+Place_letter     : 
+----
+
+State Bank of India\\
+Vrindaban Branch\\
+Att: The Manager
+
+Krishna Balaram Mandir, Raman Reti\\
+Vrindaban, U.P.
+
+Dear Sir:
+
+I am enclosing herewith the forms duly signed and shall be thankful if you open my personal account with your bank. Enclosed herewith are the following foreign checks and currency not which will be the initial deposit in my account.
+
+1.    Currency Note- Australian Dollars 50.00 No. YAJ 977268\\
+2.    Bank check on Bank of New South Wales, Wales Corner Branch, Melbourne, No. L 5114481 1-12/210 dated August 29, 1975 for the amount of U.S. Dollars 159.61.\\
+3.     International Money Order on Bank of America, San Francisco, No. 036618137 11-35/1210 dated August 25, 1975 for the amount of U.S. dollars 19.94.
+
+Please credit the above in my account and deliver me my passbook. \\
+Thanking you.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+Encs:\\
+1 Currency Note YAJ 977268\\
+1 Bank Check L 5114481\\
+1 International Money Order 036618137\\
+RECEIVED ON BEHALF OF STATE BANK OF INDIA, VRINDABAN BRANCH; September 8, 1975

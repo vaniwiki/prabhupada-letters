@@ -1,0 +1,30 @@
+~~Title: Letter to: Mr. Allen Klein — January 6, 1970~~
+~~bc: Mr. Allen Klein — January 6, 1970~~
+
+====== Letter to: Mr. Allen Klein ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Allen Klein
+ListDate_hidden  : 1970-01-06
+showdate_hidden  : 2020-01-06
+To_letters       : Mr. Allen Klein
+Date_letter      : January 6
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Mr. Allen Klein\\
+Legal Advisor of Mr. George Harrison\\
+1700 Broadway\\
+N.Y., N.Y. 10019
+
+Dear Mr. Klein:
+
+I am informed by Sriman Syamasundara das Adhikari that in connection with the contribution of Sriman George Harrison for publishing my book, __Krishna,__ you were advised to contact me in my Boston Temple. But I have left Boston Temple on the 29th of December and now my present address is ISKCON Temple, 1975 La Cienega Blvd., Los Angeles, California 90034. So you can contact me here in this connection. In the meantime, I am advising my representative Sriman Brahmananda Brahmacari, president of my New York Temple, and he is authorized to deal on my behalf in this connection. I am advising him (Brahmananda) also to see you in this connection.
+
+Thanking you in anticipation.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ddb

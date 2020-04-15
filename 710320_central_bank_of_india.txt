@@ -1,0 +1,30 @@
+~~Title: Letter to: Central Bank of India — March 20, 1971~~
+~~bc: Central Bank of India — March 20, 1971~~
+
+====== Letter to: Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Central Bank of India
+ListDate_hidden  : 1971-03-20
+showdate_hidden  : 2020-03-20
+To_letters       : Central Bank of India
+Date_letter      : March 20
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Central Bank of India\\
+Bombay
+
+Dear Sir:
+
+With reference to your letter number 20/84, dated 2nd March, 1971, addressed to Gorakhpur, I beg to inform you that I have come back to Bombay and I am travelling all over the country. I shall therefore require to transfer money from anywhere, especially Calcutta, Bombay, Delhi, Gorakhpur, etc.
+
+Please also open an H.S.S. Account "A.C. Bhaktivedanta Swami" and credit Rs. 229.00.
+
+Thanking you for your usual cooperation. I am,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

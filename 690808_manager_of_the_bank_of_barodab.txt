@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of The Bank of Baroda — August 8, 1969~~
+~~bc: Manager of The Bank of Baroda — August 8, 1969~~
+
+====== Letter to: Manager of The Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of The Bank of Baroda
+ListDate_hidden  : 1969-08-08
+showdate_hidden  : 2020-08-08
+To_letters       : Manager of The Bank of Baroda
+Date_letter      : August 8
+Year_letter      : 1969
+Place_letter     : Los Angeles
+----
+
+Manager\\
+THE BANK OF BARODA LTD\\
+856, Chandni Chowk\\
+Delhi-6, INDIA
+
+Dear Sir,
+
+I thank you very much for your letter #FEX.21/-2295, dated July 28th, 1969, and I have noted the contents. I am enclosing herewith another formal advice on behalf of The League of Devotees for transferring the balance to my account #1452. Please do the needful.
+
+Regarding Indian exporters, I beg to request you to send me some addresses of musical instrument dealers in Delhi. Most probably some of them might be your clients, and if you kindly advise them to send their catalogs or price lists, it will be very appreciated.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami

@@ -1,0 +1,30 @@
+~~Title: Letter to: Manager of First National City Bank of New York — February 7, 1969~~
+~~bc: Manager of First National City Bank of New York — February 7, 1969~~
+
+====== Letter to: Manager of First National City Bank of New York ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of First National City Bank of New York
+ListDate_hidden  : 1969-02-07
+showdate_hidden  : 2020-02-07
+To_letters       : Manager of First National City Bank of New York
+Date_letter      : February 7
+Year_letter      : 1969
+Place_letter     : Los Angeles
+----
+
+Manager\\
+First National City Bank of New York\\
+Grand Street and Bowery\\
+New York, New York
+
+Re: ACCOUNT # SAVINGS 0420-1620-131
+
+Dear Sir:
+
+With reference to the above account, I beg to point out that on January 6, 1969, after depositing $1,306.86, the balance in my favor was $8,363.88. So after depositing another $199 on February 3, 1969, you have shown a balance of $7,156.27. I do not know why there is this difference. Kindly let me know by return of mail. Also, please note down my above change of address. Thanking you anticipation of your early reply.
+
+Yours truly,\\
+A.C. Bhaktivedanta Swami
+
+Copy forwarded to Brahmananda for necessary action. ACB

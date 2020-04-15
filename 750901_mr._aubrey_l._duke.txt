@@ -1,0 +1,29 @@
+~~Title: Letter to: Mr. Aubrey L. Duke — September 1, 1975~~
+~~bc: Mr. Aubrey L. Duke — September 1, 1975~~
+
+====== Letter to: Mr. Aubrey L. Duke ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Aubrey L. Duke
+ListDate_hidden  : 1975-09-01
+showdate_hidden  : 2020-09-01
+To_letters       : Mr. Aubrey L. Duke
+Date_letter      : September 1
+Year_letter      : 1975
+Place_letter     : Vrindaban
+----
+
+Mr. Aubrey L. Duke\\
+Chief of Police\\
+City of Cypress\\
+5275 Orange Avenue\\
+Cypress, Ca. 90630
+
+Dear Mr. Duke:
+
+I am in due receipt of your letter dated July 31, 1975 redirected to me here in India. How can I assist you when I am here in India? If you take away the girl, I have no objection. They come and go, but if the parents take her away, I have no objection. We have no business to keep young girls from their parents. We do not force anyone to go or to stay. It is all voluntary.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/bs

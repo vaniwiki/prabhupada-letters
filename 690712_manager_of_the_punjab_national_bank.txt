@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of The Punjab National Bank — July 12, 1969~~
+~~bc: Manager of The Punjab National Bank — July 12, 1969~~
+
+====== Letter to: Manager of The Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of The Punjab National Bank
+ListDate_hidden  : 1969-07-12
+showdate_hidden  : 2020-07-12
+To_letters       : Manager of The Punjab National Bank
+Date_letter      : July 12
+Year_letter      : 1969
+Place_letter     : Los Angeles
+----
+
+Manager\\
+The Punjab National Bank\\
+P.O. Vrindaban U.P.\\
+INDIA
+
+Dear Sir:
+
+On June 18, 1969 I have sent you a draft for $112.65, and on June 17, 1969 I have sent you a letter. I have received no acknowledgement for either of these. Please let me know what is the actual situation in this matter. For air mail charges you may debit my account, but please do not hesitate to answer my letters promptly. Also, please let me know what is the balance in my account at the present time.
+
+Thanking you for your immediate reply.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami

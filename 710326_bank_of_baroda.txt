@@ -1,0 +1,37 @@
+~~Title: Letter to: Bank of Baroda — March 26, 1971~~
+~~bc: Bank of Baroda — March 26, 1971~~
+
+====== Letter to: Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of Baroda
+ListDate_hidden  : 1971-03-26
+showdate_hidden  : 2020-03-26
+To_letters       : Bank of Baroda
+Date_letter      : March 26
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Bank of Baroda\\
+Bombay
+
+Dear Sir:
+
+Re: __My Savings Bank A/c no. 4966 with you,__
+
+With reference to your letter No. FGN:16/451, dated 23rd March, 1971, I beg to inform you that whichever letter I have received from you I have immediately replied. The last letter replied to you was dated 2nd January, 1971, in reply to your letter No. FGN:15/1581, dated 15th December, 1970. Since then I have received no letter from you.
+
+So far my returning back in India, it is a fact and I am staying at the above address, so you can note down the change in address. Immediately I have no program for going out of India. In case I go out of India in future, I shall let you know of my departure as advised by you.
+
+Now please get my Savings Bank Account No. 1452, in your Delhi Branch, transferred here for credit of my account with you. I am enclosing herewith the passbook.
+
+Also I am enclosing my local passbook to be made up to date. Please do it and return it back per Devananda Swami.
+
+Thank you in anticipation, I am,
+
+Your faithfully,
+
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

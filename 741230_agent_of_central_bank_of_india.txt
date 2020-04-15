@@ -1,0 +1,29 @@
+~~Title: Letter to: Agent of Central Bank of India — December 30, 1974~~
+~~bc: Agent of Central Bank of India — December 30, 1974~~
+
+====== Letter to: Agent of Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Agent of Central Bank of India
+ListDate_hidden  : 1974-12-30
+showdate_hidden  : 2020-12-30
+To_letters       : Agent of Central Bank of India
+Date_letter      : December 30
+Year_letter      : 1974
+Place_letter     : Bombay
+----
+
+The Agent of Central Bank of India\\
+Camac Street Branch\\
+Calcutta
+
+Dear Sir:
+
+Please refer to the enclosed True Copy of a letter sent by myself on December 3, 1974 by registered mail. Up to this date I have not received any acknowledgement of receipt from you and I am very concerned in this matter. Please inquire as to why it has taken so long and immediately notify me as to whether you have received the document and the check which I enclosed in my letter of December 3rd or not.
+
+Thanking you.
+
+Faithfully yours,
+
+A.C. Bhaktivedanta Svami\\
+ACBS/ps

@@ -1,0 +1,28 @@
+~~Title: Letter to: Brijratanji — May 11, 1975~~
+~~bc: Brijratanji — May 11, 1975~~
+
+====== Letter to: Brijratanji ======
+
+---- dataentry letters ----
+Recipient_hidden : Brijratanji
+ListDate_hidden  : 1975-05-11
+showdate_hidden  : 2020-05-11
+To_letters       : Brijratanji
+Date_letter      : May 11
+Year_letter      : 1975
+Place_letter     : Perth
+----
+
+Mustafa Building\\
+Bombay
+
+My dear Brijratanji,
+
+Please accept my greetings. I am in due receipt of your letter dated April 17th, 1975 and have noted the contents carefully. I welcome your suggestion. I have advised my assistants to publish one chapter in each issue from the Bhagavat Maha-Purana. This will contain the devanagari script as well as the roman script. I thank you very much for your suggestion.
+
+I hope this letter meets you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ps

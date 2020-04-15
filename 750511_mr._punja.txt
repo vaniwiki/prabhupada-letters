@@ -1,0 +1,27 @@
+~~Title: Letter to: Mr. Punja — May 11, 1975~~
+~~bc: Mr. Punja — May 11, 1975~~
+
+====== Letter to: Mr. Punja ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Punja
+ListDate_hidden  : 1975-05-11
+showdate_hidden  : 2020-05-11
+To_letters       : Mr. Punja
+Date_letter      : May 11
+Year_letter      : 1975
+Place_letter     : Perth
+----
+
+Lautoka, Fiji
+
+My dear Mr. Punja,
+
+Please accept my blessings. I am in due receipt of your letter dated April 1st, 1975 and have noted the contents carefully. I have also received from Madhudvisa Swami one copy of the Constitution that you have drawn up there. On my way from Melbourne to Honolulu, I will stop in Fiji for two days around the 22nd of May. Madhudvisa Swami will give you the exact dates of my arrival as soon as it is fixed up. When I come there, we shall discuss everything in detail regarding the Fiji program. I am looking forward to seeing you in Fiji.
+
+I hope this meets you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ps

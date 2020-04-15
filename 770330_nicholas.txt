@@ -1,0 +1,36 @@
+~~Title: Letter to: Nicholas — March 30, 1977~~
+~~bc: Nicholas — March 30, 1977~~
+
+====== Letter to: Nicholas ======
+
+---- dataentry letters ----
+Recipient_hidden : Nicholas
+ListDate_hidden  : 1977-03-30
+showdate_hidden  : 2020-03-30
+To_letters       : Nicholas
+Date_letter      : March 30
+Year_letter      : 1977
+Place_letter     : Bombay
+----
+
+Wiesbaden, Germany
+
+My dear Nicholas,
+
+Please accept my blessings. I beg to thank you for your letter dated 11 March, 1977.
+
+Your proposal for arranging a Gita on tapes in different languages for distributing all over the world is very good. You may contact my representative, His Holiness Harikesa Swami, at:
+
+6241 Schloss Rettershof
+
+uber Konigstein
+
+Taunus, West Germany\\
+and arrange everything with him.
+
+I hope this finds you well.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/tkg

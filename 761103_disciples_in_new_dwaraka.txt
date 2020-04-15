@@ -1,0 +1,35 @@
+~~Title: Letter to: Disciples in New Dwaraka — November 3, 1976~~
+~~bc: Disciples in New Dwaraka — November 3, 1976~~
+
+====== Letter to: Disciples in New Dwaraka ======
+
+---- dataentry letters ----
+Recipient_hidden : Disciples in New Dwaraka
+ListDate_hidden  : 1976-11-03
+showdate_hidden  : 2020-11-03
+To_letters       : Disciples in New Dwaraka
+Date_letter      : November 3
+Year_letter      : 1976
+Place_letter     : 
+----
+
+3764 Watseka Ave.\\
+Los Angeles, California\\
+90034 USA
+
+Tridandi Goswami\\
+A.C.Bhaktivendanta Swami\\
+Krishna Balarama Mandir
+
+My dear disciples in New Dwaraka,
+
+Please accept my blessings. I am in receipt of your telegram regarding the avocado tree.
+
+As far as possible killing the tree should be avoided. If possible the tree should at least be transplanted.
+
+Hoping this finds you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/jda

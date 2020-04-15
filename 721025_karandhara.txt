@@ -1,0 +1,19 @@
+~~Title: Letter to: Karandhara — October 25, 1972~~
+~~bc: Karandhara — October 25, 1972~~
+
+====== Letter to: Karandhara ======
+
+---- dataentry letters ----
+Recipient_hidden : Karandhara
+ListDate_hidden  : 1972-10-25
+showdate_hidden  : 2020-10-25
+To_letters       : Karandhara
+Date_letter      : October 25
+Year_letter      : 1972
+Place_letter     : Vrindaban
+----
+
+Bombay\\
+[To Karandhara]
+
+---IF TITLE CLEAR SETTLEMENT ACCEPTED LETTER FOLLOWS---BHAKTIVEDANTA SWAMI

@@ -1,0 +1,28 @@
+~~Title: Letter to: The Punjab National Bank — September 22, 1969~~
+~~bc: The Punjab National Bank — September 22, 1969~~
+
+====== Letter to: The Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : The Punjab National Bank
+ListDate_hidden  : 1969-09-22
+showdate_hidden  : 2020-09-22
+To_letters       : The Punjab National Bank
+Date_letter      : September 22
+Year_letter      : 1969
+Place_letter     : London
+----
+
+The Punjab National Bank Ltd.\\
+Vrindaban, Mathura U.P.\\
+INDIA\\
+ATT: Manager
+
+Dear Sir,
+
+Replying your letter dated the 6th September, 1969, I beg to advise you not to advance Ram Natha Murtiwala anything. I have not yet settled up with any other supplier. Therefore, the money which I have sent may be credited in my account. We are negotiating with some Bombay firm for supplies of musical instruments. Is it possible to open an account in your Bombay branch by transferring part of my credit balance there? I do not know what is the procedure, but I find it necessary to keep some money in your Bombay branch. I shall be glad if you will enlighten me in this connection.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami\\
+ACBS/pdb

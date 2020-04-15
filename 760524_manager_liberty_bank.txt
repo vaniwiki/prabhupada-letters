@@ -1,0 +1,49 @@
+~~Title: Letter to: Manager, Liberty Bank — May 24, 1976~~
+~~bc: Manager, Liberty Bank — May 24, 1976~~
+
+====== Letter to: Manager, Liberty Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager, Liberty Bank
+ListDate_hidden  : 1976-05-24
+showdate_hidden  : 2020-05-24
+To_letters       : Manager, Liberty Bank
+Date_letter      : May 24
+Year_letter      : 1976
+Place_letter     : 
+----
+
+The Manager,\\
+Liberty Bank,\\
+Main Branch,\\
+99 N. King,\\
+Honolulu, Hawaii,\\
+U.S.A. 
+
+51 Coelho Way,\\
+Honolulu, Hawaii 96817,\\
+U.S.A.
+
+True Copy
+
+Re: Bhaktivedanta Book Trust,\\
+Savings account no. 1100035786.
+
+Dear Sir:
+
+Please herewith find our passbook for the Bhaktivedanta Book Trust as well as $297 for deposit in the same account. Kindly transfer $6300.00 (U.S. dollars six-thousand three hundred) to your Calcutta agent, the Bank of America in Calcutta, with special instructions to transfer the same money to the Central Bank of India, Camac Street Branch, 10 Camac Street, Calcutta 17, India, in favor of the Bhaktivedanta Book Trust under fixed deposit receipt no. 8/27, printed no. 044895. You can deduct this amount, $6300, plus bank handling fees, from our account with you in Honolulu, a/c no. 1100035786. Please acknowledge receipt of this letter and kindly issue a confirmation in writing when the transaction has taken place with details. You can transfer these funds to Calcutta by mail transfer.
+
+Thank you,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami,
+
+For the Bhaktivedanta Book Trust
+
+Enc.: Passbook, $297 cash.
+
+cc: Mr. Dutta.
+
+ACB/PKS
+
+triplicate

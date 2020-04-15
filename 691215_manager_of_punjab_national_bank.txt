@@ -1,0 +1,33 @@
+~~Title: Letter to: Manager of Punjab National Bank — December 15, 1969~~
+~~bc: Manager of Punjab National Bank — December 15, 1969~~
+
+====== Letter to: Manager of Punjab National Bank ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Punjab National Bank
+ListDate_hidden  : 1969-12-15
+showdate_hidden  : 2020-12-15
+To_letters       : Manager of Punjab National Bank
+Date_letter      : December 15
+Year_letter      : 1969
+Place_letter     : London
+----
+
+Manager\\
+Punjab National Bank\\
+P.O. Vrindaban, Dist; Mathura\\
+INDIA
+
+Dear Sir:
+
+RE: SHIPMENT OF 8 CASES OF __SRIMAD BHAGAVATAM__ TO NEW YORK PER S.S. JALAKALA, AND YOUR LETTER DATED DECEMBER 5TH (3732)
+
+With reference to the above I beg to inform you that I do not exactly know what you mean by some documentary evidence to connect the payment. The whole idea is that the amount of Rs. 33,705.86 was transferred from the USA and credited to my account for dispatching books. The first consignment was dispatched, Rs. 13,000 and odds, and this consignment was also dispatched in the same way. The books are mine, they were dispatched on my account to the USA. The USA has paid for it, and I am signing everything. Is that not sufficient documentary evidence? Otherwise, what do you want me to do?
+
+I am experiencing so much inconvenience in this matter of exporting from India, although the price is already transferred from the States. So if you kindly give me your direction what to do in this connection, then I shall do it. I am always in tour, and I took it simply that the goods were dispatched against the money transferred already. That is sufficient documentary evidence in my opinion. I hope to hear from you soon.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS:pdb

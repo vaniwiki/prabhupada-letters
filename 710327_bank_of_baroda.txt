@@ -1,0 +1,29 @@
+~~Title: Letter to: Bank of Baroda — March 27, 1971~~
+~~bc: Bank of Baroda — March 27, 1971~~
+
+====== Letter to: Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of Baroda
+ListDate_hidden  : 1971-03-27
+showdate_hidden  : 2020-03-27
+To_letters       : Bank of Baroda
+Date_letter      : March 27
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Bank of Baroda\\
+Delhi
+
+Dear Sir:
+
+Re: __My S.B. Account No. 1452 with you.__
+
+I shall thank you to close my above Savings Bank Account with you and transfer the entire balance with interest to your Reclamation Branch for the credit of my Savings Bank Account No. 4966 with them. The relative passbook is enclosed herewith.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

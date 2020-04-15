@@ -1,0 +1,32 @@
+~~Title: Letter to: Manager of Central Bank of India — January 20, 1971~~
+~~bc: Manager of Central Bank of India — January 20, 1971~~
+
+====== Letter to: Manager of Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Central Bank of India
+ListDate_hidden  : 1971-01-20
+showdate_hidden  : 2020-01-20
+To_letters       : Manager of Central Bank of India
+Date_letter      : January 20
+Year_letter      : 1971
+Place_letter     : Allahabad
+----
+
+Manager\\
+Central Bank of India\\
+Ballygunge Branch\\
+Calcutta
+
+Dear Sir:
+
+Re: __My Savings Account No. 11407 with you.__
+
+I am sending one check enclosed herewith, please find. Please credit my above savings account with the amount of Rs. 3948.90 and send me the voucher care of the above Bombay address.
+
+Thanking you, I am,
+
+Yours faithfully,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:ds

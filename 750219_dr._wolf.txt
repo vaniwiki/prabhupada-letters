@@ -1,0 +1,27 @@
+~~Title: Letter to: Dr. Wolf — February 19, 1975~~
+~~bc: Dr. Wolf — February 19, 1975~~
+
+====== Letter to: Dr. Wolf ======
+
+---- dataentry letters ----
+Recipient_hidden : Dr. Wolf
+ListDate_hidden  : 1975-02-19
+showdate_hidden  : 2020-02-19
+To_letters       : Dr. Wolf
+Date_letter      : February 19
+Year_letter      : 1975
+Place_letter     : Caracas, Venezuela
+----
+
+Los Angeles
+
+My dear Dr. Wolf,
+
+Please accept my blessings. I beg to acknowledge receipt of your letter dated Feb. 12th, 1975 and have noted the contents carefully. I am very soon going to London and I shall meet with Hansadutta and other secretaries there. I shall seriously see that all such undesirable things may not happen in the future.
+
+I hope this meets you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ps

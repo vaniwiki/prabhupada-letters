@@ -1,0 +1,39 @@
+~~Title: Letter to: Central Bank of India — November 11, 1970~~
+~~bc: Central Bank of India — November 11, 1970~~
+
+====== Letter to: Central Bank of India ======
+
+---- dataentry letters ----
+Recipient_hidden : Central Bank of India
+ListDate_hidden  : 1970-11-11
+showdate_hidden  : 2020-11-11
+To_letters       : Central Bank of India
+Date_letter      : November 11
+Year_letter      : 1970
+Place_letter     : Bombay
+----
+
+Central Bank of India\\
+Amritsar
+
+Dear Sir;
+
+On October 28th, 1970 I had to advise you to transfer by mail Rs. 1,728 to your Gwalia Tank Branch in Bombay and the copy of the advice is sent herewith.
+
+The money was immediately deposited with your cashier and I possess the receipt slip, but here in Bombay your Gwalia Tank Branch says that they have not received the money.
+
+Kindly immediately inform me what is the fate of the money.
+
+An early reply will much oblige me.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+c.c. forwarded to Manager
+
+Gwalia Tank Branch
+
+Central Bank of India
+
+Bombay-26\\
+ACBS:ds

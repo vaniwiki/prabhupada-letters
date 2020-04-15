@@ -1,0 +1,38 @@
+~~Title: Letter to: Bank of Baroda — January 13, 1970~~
+~~bc: Bank of Baroda — January 13, 1970~~
+
+====== Letter to: Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Bank of Baroda
+ListDate_hidden  : 1970-01-13
+showdate_hidden  : 2020-01-13
+To_letters       : Bank of Baroda
+Date_letter      : January 13
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Bank of Baroda\\
+Mohan Mansion\\
+Chandi Chowk\\
+P.O. Box 1409\\
+Delhi 6, India\\
+Agent
+
+Dear Sir:
+
+Re: My savings bank account No. 1452 with you.
+
+Kindly refer to your letter No. FEX 21/2295 dated 20 July, 1969.
+
+Please transfer Rs. 6,000 by mail order to your Calcutta branch, P.O. Box No. 313, Indian Exchange, for credit of my account No. 29/12802, and send me the debit note.
+
+Also please let me know what is the balance at present.
+
+Thanking you in anticipation.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db

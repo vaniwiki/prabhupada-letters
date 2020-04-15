@@ -1,0 +1,27 @@
+~~Title: Letter to: Department of Visa and Foreign Registration (Immigration) — March 25, 1971~~
+~~bc: Department of Visa and Foreign Registration (Immigration) — March 25, 1971~~
+
+====== Letter to: Department of Visa and Foreign Registration (Immigration) ======
+
+---- dataentry letters ----
+Recipient_hidden : Department of Visa and Foreign Registration (Immigration)
+ListDate_hidden  : 1971-03-25
+showdate_hidden  : 2020-03-25
+To_letters       : Department of Visa and Foreign Registration (Immigration)
+Date_letter      : March 25
+Year_letter      : 1971
+Place_letter     : Bombay
+----
+
+Officer\\
+Department of Visa and Foreign Registration (Immigration)\\
+Suva, Fiji
+
+Dear Sir:
+
+I hereby certify that my initiated disciple, Sriman Upendra Das Adhikari (Wayne Phillip Gunderson), having successfully completed his course of divinity studies in the International Society for Krishna Consciousness has been awarded the degree of Bhakti-sastri (Minister).
+
+Sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ds

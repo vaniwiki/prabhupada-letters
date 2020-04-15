@@ -1,0 +1,27 @@
+~~Title: Letter to: Dr. Bhatt — February 3, 1976~~
+~~bc: Dr. Bhatt — February 3, 1976~~
+
+====== Letter to: Dr. Bhatt ======
+
+---- dataentry letters ----
+Recipient_hidden : Dr. Bhatt
+ListDate_hidden  : 1976-02-03
+showdate_hidden  : 2020-02-03
+To_letters       : Dr. Bhatt
+Date_letter      : February 3
+Year_letter      : 1976
+Place_letter     : Mayapur
+----
+
+Boston University
+
+Dear Dr. Bhatt,
+
+Please accept my greetings and thanks for your appreciative review of Srimad-Bhagavatam. I am trying my best to publish the entire Srimad-Bhagavatam, which will be about 60 volumes. Thank you very much for your encouragement.
+
+I hope this meets you well.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/tkg

@@ -1,0 +1,26 @@
+~~Title: Letter to: Mr. Bruce Scharf, Brahmananda — November 22, 1967~~
+~~bc: Mr. Bruce Scharf, Brahmananda — November 22, 1967~~
+
+====== Letter to: Mr. Bruce Scharf, Brahmananda ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Bruce Scharf, Brahmananda
+ListDate_hidden  : 1967-11-22
+showdate_hidden  : 2020-11-22
+To_letters       : Mr. Bruce Scharf, Brahmananda
+Date_letter      : November 22
+Year_letter      : 1967
+Place_letter     : Calcutta
+----
+
+Mr. Bruce Scharf\\
+c/o Iskcon Inc.\\
+26 Second avenue\\
+New York 10003 NY
+
+Dear Mr. Scharf,
+
+I hereby authorize you to sign the contract with Messrs. MacMillan and Co. in the matter of publishing my Gitopanisad. You are also authorized to receive payment on my behalf.
+
+Yours sincerely,\\
+A.C. Bhaktivedanta Swami

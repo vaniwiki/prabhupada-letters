@@ -1,0 +1,29 @@
+~~Title: Letter to: Manager of Bank of Baroda — December 14, 1969~~
+~~bc: Manager of Bank of Baroda — December 14, 1969~~
+
+====== Letter to: Manager of Bank of Baroda ======
+
+---- dataentry letters ----
+Recipient_hidden : Manager of Bank of Baroda
+ListDate_hidden  : 1969-12-14
+showdate_hidden  : 2020-12-14
+To_letters       : Manager of Bank of Baroda
+Date_letter      : December 14
+Year_letter      : 1969
+Place_letter     : London
+----
+
+Manager\\
+Bank of Baroda\\
+Chandni Chowk\\
+Delhi-6, INDIA
+
+Dear Sir:
+
+Kindly refer to my letter dated September 7, 1969 in which I had to instruct you to pay BINA MUSICAL STORES Rs. 2,200 on presentation of the shipping documents by the middle of October. They informed later on by their letter dated November 12, 1969 that they had already shipped the goods sometime on October 23rd, and the original documents were submitted for being dispatched to my Los Angeles center at 1975 So. La Cienega Boulevard, Los Angeles, California 90034, USA. But we hear from Los Angeles that they have not received the documents or any information of the consignment being dispatched by any ship. This means they have not yet submitted the shipping documents; in other words, the goods have not been shipped. Under the circumstances, please cancel our order of payment, as they have not booked the goods according to the contract.
+
+Sincerely,
+
+A.C. Bhaktivedanta Swami
+
+ACBS:pdb

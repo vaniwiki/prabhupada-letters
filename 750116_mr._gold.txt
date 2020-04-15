@@ -1,0 +1,27 @@
+~~Title: Letter to: Mr. Gold — January 16, 1975~~
+~~bc: Mr. Gold — January 16, 1975~~
+
+====== Letter to: Mr. Gold ======
+
+---- dataentry letters ----
+Recipient_hidden : Mr. Gold
+ListDate_hidden  : 1975-01-16
+showdate_hidden  : 2020-01-16
+To_letters       : Mr. Gold
+Date_letter      : January 16
+Year_letter      : 1975
+Place_letter     : Bombay
+----
+
+Brooklyn
+
+My dear Mr. Gold,
+
+Please accept my greetings. I am in due receipt of your letter dated 12-30-74 and have noted the contents. I am so glad to see that you are so much absorbed in our philosophy and comparing it to other philosophies. I have written many books already which are full of the different aspects of this deep philosophy of Krishna Consciousness. I request you to study them carefully and you will find a treasure house of scientific information in relation to the ultimate goal of life and conquering the major problems of life, birth, death, old age, and disease. Visit our temple there in Brooklyn as much as you can. By associating with the devotees there, your spiritual life will become fully developed.
+
+I hope this meets you in good health.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS/ps

@@ -1,0 +1,24 @@
+~~Title: Letter to: Whom it may concern — October 25, 1976~~
+~~bc: Whom it may concern — October 25, 1976~~
+
+====== Letter to: Whom it may concern ======
+
+---- dataentry letters ----
+Recipient_hidden : Whom it may concern
+ListDate_hidden  : 1976-10-25
+showdate_hidden  : 2020-10-25
+To_letters       : Whom it may concern
+Date_letter      : October 25
+Year_letter      : 1976
+Place_letter     : Vrindaban
+----
+
+To whom it may concern:
+
+It is a great pleasure for me that Dr. S.R. Chakravarti has sung some important verses from Srimad-Bhagavatam, now made into a record album. I have heard these songs and am confident that anyone who will listen to these nice songs will be inclined to read my complete translation of the Srimad-Bhagavatam, now available in English (60 volumes), which has been published by the Bhaktivedanta Book Trust in Los Angeles, U.S.A.
+
+Faithfully,
+
+A.C. Bhaktivedanta Swami
+
+ACBS/jda

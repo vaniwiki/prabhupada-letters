@@ -1,0 +1,30 @@
+~~Title: Letter to: Hit Sharanji — May 11, 1970~~
+~~bc: Hit Sharanji — May 11, 1970~~
+
+====== Letter to: Hit Sharanji ======
+
+---- dataentry letters ----
+Recipient_hidden : Hit Sharanji
+ListDate_hidden  : 1970-05-11
+showdate_hidden  : 2020-05-11
+To_letters       : Hit Sharanji
+Date_letter      : May 11
+Year_letter      : 1970
+Place_letter     : Los Angeles
+----
+
+Scindia House\\
+New Delhi
+
+My dear Hit Sharanji,
+
+Please accept my blessings. I have not heard from you in some time. I hope you are doing well. I am anxious to know what happened to the other two pairs of Deities. These two pairs of Deities are immediately required for Paris and Berlin.
+
+So I will be very much pleased if you dispatch them immediately to Scindia Steam Navigation Co. as you did last time.
+
+Kindly treat this as urgent, and let me know what is the situation.
+
+Your ever well-wisher,\\
+A.C. Bhaktivedanta Swami
+
+ACBS:db
