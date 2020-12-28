@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Smaranananda (Von Paul Read), Samsara-mocana (Barbara Read), Bhubhrta (Bob Quirk), Pavana (Jeffrey Spicher), Devadeva (Royal Frank Affrisco), Daivata (Anthony Burt Alves), Parayana (Laurel Alves)
 ListDate_hidden  : 1972-01-10
-showdate_hidden  : 2020-01-10
+showdate_hidden  : 2021-01-10
 To_letters       : Smaranananda (Von Paul Read), Samsara-mocana (Barbara Read), Bhubhrta (Bob Quirk), Pavana (Jeffrey Spicher), Devadeva (Royal Frank Affrisco), Daivata (Anthony Burt Alves), Parayana (Laurel Alves)
 Date_letter      : January 10
 Year_letter      : 1972

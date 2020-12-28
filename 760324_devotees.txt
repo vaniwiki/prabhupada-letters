@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder
 ListDate_hidden  : 1976-03-24
-showdate_hidden  : 2020-03-24
+showdate_hidden  : 2021-03-24
 To_letters       : Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder
 Date_letter      : March 24
 Year_letter      : 1976

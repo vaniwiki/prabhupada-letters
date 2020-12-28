@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Temple President and GBC for Hawaii
 ListDate_hidden  : 1976-05-09
-showdate_hidden  : 2020-05-09
+showdate_hidden  : 2021-05-09
 To_letters       : Temple President and GBC for Hawaii
 Date_letter      : May 9
 Year_letter      : 1976

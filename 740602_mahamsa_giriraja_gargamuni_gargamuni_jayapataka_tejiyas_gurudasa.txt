@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa
 ListDate_hidden  : 1974-06-02
-showdate_hidden  : 2020-06-02
+showdate_hidden  : 2021-06-02
 To_letters       : Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa
 Date_letter      : June 2
 Year_letter      : 1974

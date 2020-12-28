@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Gargamuni, Mahamsa, Naranaraya, Giriraja
 ListDate_hidden  : 1972-06-19
-showdate_hidden  : 2020-06-19
+showdate_hidden  : 2021-06-19
 To_letters       : Gargamuni, Mahamsa, Naranaraya, Giriraja
 Date_letter      : June 19
 Year_letter      : 1972

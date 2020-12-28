@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others
 ListDate_hidden  : 1971-08-15
-showdate_hidden  : 2020-08-15
+showdate_hidden  : 2021-08-15
 To_letters       : ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others
 Date_letter      : August 15
 Year_letter      : 1971
