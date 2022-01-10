@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : ISKCON Boulder, Kurusrestha, Dennis, Bruce, Nancy, Elicia, Pournamasi, Mark, Michael, Vincent, Tulsidasa, others
 ListDate_hidden  : 1971-08-15
-showdate_hidden  : 2021-08-15
+showdate_hidden  : 2022-08-15
 To_letters       : ISKCON Boulder, Kurusrestha, Dennis, Bruce, Nancy, Elicia, Pournamasi, Mark, Michael, Vincent, Tulsidasa, others
 Date_letter      : August 15
 Year_letter      : 1971
