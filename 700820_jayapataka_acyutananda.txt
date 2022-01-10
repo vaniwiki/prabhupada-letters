@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Jayapataka, Acyutananda
 ListDate_hidden  : 1970-08-20
-showdate_hidden  : 2021-08-20
+showdate_hidden  : 2022-08-20
 To_letters       : Jayapataka, Acyutananda
 Date_letter      : August 20
 Year_letter      : 1970

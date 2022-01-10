@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Professor G. G. Kotovsky
 ListDate_hidden  : 1971-04-23
-showdate_hidden  : 2021-04-23
+showdate_hidden  : 2022-04-23
 To_letters       : Professor G. G. Kotovsky
 Date_letter      : April 23
 Year_letter      : 1971

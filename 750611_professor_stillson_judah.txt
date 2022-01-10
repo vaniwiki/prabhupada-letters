@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Professor Stillson Judah
 ListDate_hidden  : 1975-06-11
-showdate_hidden  : 2021-06-11
+showdate_hidden  : 2022-06-11
 To_letters       : Professor Stillson Judah
 Date_letter      : June 11
 Year_letter      : 1975
