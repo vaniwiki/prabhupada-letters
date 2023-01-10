@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Swami Sahajananda
 ListDate_hidden  : 1975-10-12
-showdate_hidden  : 2022-10-12
+showdate_hidden  : 2023-10-12
 To_letters       : Swami Sahajananda
 Date_letter      : October 12
 Year_letter      : 1975

@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Registrar of Joint Stock Companies
 ListDate_hidden  : 1955-02-04
-showdate_hidden  : 2022-02-04
+showdate_hidden  : 2023-02-04
 To_letters       : Registrar of Joint Stock Companies
 Date_letter      : February 4
 Year_letter      : 1955

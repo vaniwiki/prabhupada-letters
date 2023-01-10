@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Satsvarupa
 ListDate_hidden  : 1972-07-01
-showdate_hidden  : 2022-07-01
+showdate_hidden  : 2023-07-01
 To_letters       : Satsvarupa
 Date_letter      : July 1
 Year_letter      : 1972

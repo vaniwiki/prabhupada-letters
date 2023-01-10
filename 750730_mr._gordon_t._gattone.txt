@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Mr. Gordon T. Gattone
 ListDate_hidden  : 1975-07-30
-showdate_hidden  : 2022-07-30
+showdate_hidden  : 2023-07-30
 To_letters       : Mr. Gordon T. Gattone
 Date_letter      : July 30
 Year_letter      : 1975

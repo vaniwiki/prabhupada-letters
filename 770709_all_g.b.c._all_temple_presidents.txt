@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : All G.B.C., All Temple Presidents
 ListDate_hidden  : 1977-07-09
-showdate_hidden  : 2022-07-09
+showdate_hidden  : 2023-07-09
 To_letters       : All G.B.C., All Temple Presidents
 Date_letter      : July 9
 Year_letter      : 1977

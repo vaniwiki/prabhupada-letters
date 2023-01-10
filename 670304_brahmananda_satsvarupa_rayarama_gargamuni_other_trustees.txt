@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees
 ListDate_hidden  : 1967-03-04
-showdate_hidden  : 2022-03-04
+showdate_hidden  : 2023-03-04
 To_letters       : Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees
 Date_letter      : March 4
 Year_letter      : 1967

@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : All Iskcon Temple Presidents
 ListDate_hidden  : 1977-01-18
-showdate_hidden  : 2022-01-18
+showdate_hidden  : 2023-01-18
 To_letters       : All Iskcon Temple Presidents
 Date_letter      : January 18
 Year_letter      : 1977

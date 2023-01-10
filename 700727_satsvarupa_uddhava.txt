@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Satsvarupa, Uddhava
 ListDate_hidden  : 1970-07-27
-showdate_hidden  : 2022-07-27
+showdate_hidden  : 2023-07-27
 To_letters       : Satsvarupa, Uddhava
 Date_letter      : July 27
 Year_letter      : 1970

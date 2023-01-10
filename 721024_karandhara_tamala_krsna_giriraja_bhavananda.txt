@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Karandhara, Tamala Krsna, Giriraja, Bhavananda
 ListDate_hidden  : 1972-10-24
-showdate_hidden  : 2022-10-24
+showdate_hidden  : 2023-10-24
 To_letters       : Karandhara, Tamala Krsna, Giriraja, Bhavananda
 Date_letter      : October 24
 Year_letter      : 1972

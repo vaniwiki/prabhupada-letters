@@ -6,7 +6,7 @@
 ---- dataentry letters ----
 Recipient_hidden : Manager of Equitable Savings and Loan Association
 ListDate_hidden  : 1969-03-26
-showdate_hidden  : 2022-03-26
+showdate_hidden  : 2023-03-26
 To_letters       : Manager of Equitable Savings and Loan Association
 Date_letter      : March 26
 Year_letter      : 1969
