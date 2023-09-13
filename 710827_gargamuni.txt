@@ -1,5 +1,11 @@
-~~Title: Letter to: Gargamuni — August 27, 1971~~
-~~bc: Gargamuni — August 27, 1971~~
+---json
+{
+    "name":"Letter to: Gargamuni — August 27, 1971",
+    "h1":"Gargamuni — August 27, 1971",
+    "title":"Letter to: Gargamuni — August 27, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Gargamuni ======
 

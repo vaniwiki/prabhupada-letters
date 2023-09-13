@@ -1,5 +1,11 @@
-~~Title: Letter to: Dayala Nitai — December 29, 1968~~
-~~bc: Dayala Nitai — December 29, 1968~~
+---json
+{
+    "name":"Letter to: Dayala Nitai — December 29, 1968",
+    "h1":"Dayala Nitai — December 29, 1968",
+    "title":"Letter to: Dayala Nitai — December 29, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Dayala Nitai ======
 

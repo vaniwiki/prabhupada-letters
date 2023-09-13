@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Puri — June 1, 1962~~
-~~bc: Sri Puri — June 1, 1962~~
+---json
+{
+    "name":"Letter to: Sri Puri — June 1, 1962",
+    "h1":"Sri Puri — June 1, 1962",
+    "title":"Letter to: Sri Puri — June 1, 1962",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Puri ======
 

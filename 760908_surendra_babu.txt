@@ -1,5 +1,11 @@
-~~Title: Letter to: Surendra Babu — September 8, 1976~~
-~~bc: Surendra Babu — September 8, 1976~~
+---json
+{
+    "name":"Letter to: Surendra Babu — September 8, 1976",
+    "h1":"Surendra Babu — September 8, 1976",
+    "title":"Letter to: Surendra Babu — September 8, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Surendra Babu ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Caruhasa — July 20, 1974~~
-~~bc: Caruhasa — July 20, 1974~~
+---json
+{
+    "name":"Letter to: Caruhasa — July 20, 1974",
+    "h1":"Caruhasa — July 20, 1974",
+    "title":"Letter to: Caruhasa — July 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Caruhasa ======
 

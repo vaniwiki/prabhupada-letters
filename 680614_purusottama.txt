@@ -1,5 +1,11 @@
-~~Title: Letter to: Purusottama — June 14, 1968~~
-~~bc: Purusottama — June 14, 1968~~
+---json
+{
+    "name":"Letter to: Purusottama — June 14, 1968",
+    "h1":"Purusottama — June 14, 1968",
+    "title":"Letter to: Purusottama — June 14, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Purusottama ======
 

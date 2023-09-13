@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Setti — October 17, 1974~~
-~~bc: Mr. Setti — October 17, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Setti — October 17, 1974",
+    "h1":"Mr. Setti — October 17, 1974",
+    "title":"Letter to: Mr. Setti — October 17, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Setti ======
 

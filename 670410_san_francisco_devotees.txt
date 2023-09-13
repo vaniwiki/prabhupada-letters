@@ -1,5 +1,11 @@
-~~Title: Letter to: San Francisco devotees — April 10, 1967~~
-~~bc: San Francisco devotees — April 10, 1967~~
+---json
+{
+    "name":"Letter to: San Francisco devotees — April 10, 1967",
+    "h1":"San Francisco devotees — April 10, 1967",
+    "title":"Letter to: San Francisco devotees — April 10, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: San Francisco devotees ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Balabhadra — May 9, 1976~~
-~~bc: Balabhadra — May 9, 1976~~
+---json
+{
+    "name":"Letter to: Balabhadra — May 9, 1976",
+    "h1":"Balabhadra — May 9, 1976",
+    "title":"Letter to: Balabhadra — May 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Balabhadra ======
 

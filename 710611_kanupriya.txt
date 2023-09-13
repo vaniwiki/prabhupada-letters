@@ -1,5 +1,11 @@
-~~Title: Letter to: Kanupriya — June 11, 1971~~
-~~bc: Kanupriya — June 11, 1971~~
+---json
+{
+    "name":"Letter to: Kanupriya — June 11, 1971",
+    "h1":"Kanupriya — June 11, 1971",
+    "title":"Letter to: Kanupriya — June 11, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Kanupriya ======
 

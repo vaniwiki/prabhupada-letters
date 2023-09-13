@@ -1,5 +1,11 @@
-~~Title: Letter to: Mark Phillips — January 15, 1976~~
-~~bc: Mark Phillips — January 15, 1976~~
+---json
+{
+    "name":"Letter to: Mark Phillips — January 15, 1976",
+    "h1":"Mark Phillips — January 15, 1976",
+    "title":"Letter to: Mark Phillips — January 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mark Phillips ======
 

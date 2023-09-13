@@ -1,5 +1,11 @@
-~~Title: Letter to: Manindra — July 4, 1975~~
-~~bc: Manindra — July 4, 1975~~
+---json
+{
+    "name":"Letter to: Manindra — July 4, 1975",
+    "h1":"Manindra — July 4, 1975",
+    "title":"Letter to: Manindra — July 4, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Manindra ======
 

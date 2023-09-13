@@ -1,5 +1,11 @@
-~~Title: Letter to: Sanat Kumara, Daniel, Yudhisthira — June 24, 1975~~
-~~bc: Sanat Kumara, Daniel, Yudhisthira — June 24, 1975~~
+---json
+{
+    "name":"Letter to: Sanat Kumara, Daniel, Yudhisthira — June 24, 1975",
+    "h1":"Sanat Kumara, Daniel, Yudhisthira — June 24, 1975",
+    "title":"Letter to: Sanat Kumara, Daniel, Yudhisthira — June 24, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sanat Kumara, Daniel, Yudhisthira ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Aranya Maharaja — February 27, 1970~~
-~~bc: Aranya Maharaja — February 27, 1970~~
+---json
+{
+    "name":"Letter to: Aranya Maharaja — February 27, 1970",
+    "h1":"Aranya Maharaja — February 27, 1970",
+    "title":"Letter to: Aranya Maharaja — February 27, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Aranya Maharaja ======
 

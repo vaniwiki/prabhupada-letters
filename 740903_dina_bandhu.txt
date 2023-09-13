@@ -1,5 +1,11 @@
-~~Title: Letter to: Dina Bandhu — September 3, 1974~~
-~~bc: Dina Bandhu — September 3, 1974~~
+---json
+{
+    "name":"Letter to: Dina Bandhu — September 3, 1974",
+    "h1":"Dina Bandhu — September 3, 1974",
+    "title":"Letter to: Dina Bandhu — September 3, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Dina Bandhu ======
 

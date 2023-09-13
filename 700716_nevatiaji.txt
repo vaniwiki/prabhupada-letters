@@ -1,5 +1,11 @@
-~~Title: Letter to: Nevatiaji — July 16, 1970~~
-~~bc: Nevatiaji — July 16, 1970~~
+---json
+{
+    "name":"Letter to: Nevatiaji — July 16, 1970",
+    "h1":"Nevatiaji — July 16, 1970",
+    "title":"Letter to: Nevatiaji — July 16, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Nevatiaji ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Bali-mardana, Sudama — October 3, 1969~~
-~~bc: Bali-mardana, Sudama — October 3, 1969~~
+---json
+{
+    "name":"Letter to: Bali-mardana, Sudama — October 3, 1969",
+    "h1":"Bali-mardana, Sudama — October 3, 1969",
+    "title":"Letter to: Bali-mardana, Sudama — October 3, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Bali-mardana, Sudama ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: The Consulate General of The USA — October 16, 1968~~
-~~bc: The Consulate General of The USA — October 16, 1968~~
+---json
+{
+    "name":"Letter to: The Consulate General of The USA — October 16, 1968",
+    "h1":"The Consulate General of The USA — October 16, 1968",
+    "title":"Letter to: The Consulate General of The USA — October 16, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: The Consulate General of The USA ======
 

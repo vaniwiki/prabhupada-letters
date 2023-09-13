@@ -1,5 +1,11 @@
-~~Title: Letter to: R. N. Aggarwal M.A — December 13, 1955~~
-~~bc: R. N. Aggarwal M.A — December 13, 1955~~
+---json
+{
+    "name":"Letter to: R. N. Aggarwal M.A — December 13, 1955",
+    "h1":"R. N. Aggarwal M.A — December 13, 1955",
+    "title":"Letter to: R. N. Aggarwal M.A — December 13, 1955",
+    "description":""
+}
+---
 
 ====== Letter to: R. N. Aggarwal M.A ======
 

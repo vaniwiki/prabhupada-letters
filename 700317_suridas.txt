@@ -1,5 +1,11 @@
-~~Title: Letter to: Suridas — March 17, 1970~~
-~~bc: Suridas — March 17, 1970~~
+---json
+{
+    "name":"Letter to: Suridas — March 17, 1970",
+    "h1":"Suridas — March 17, 1970",
+    "title":"Letter to: Suridas — March 17, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Suridas ======
 

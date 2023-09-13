@@ -1,5 +1,11 @@
-~~Title: Letter to: Tulsidas — August 28, 1970~~
-~~bc: Tulsidas — August 28, 1970~~
+---json
+{
+    "name":"Letter to: Tulsidas — August 28, 1970",
+    "h1":"Tulsidas — August 28, 1970",
+    "title":"Letter to: Tulsidas — August 28, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Tulsidas ======
 

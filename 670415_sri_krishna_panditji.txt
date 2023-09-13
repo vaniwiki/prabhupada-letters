@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Krishna Panditji — April 15, 1967~~
-~~bc: Sri Krishna Panditji — April 15, 1967~~
+---json
+{
+    "name":"Letter to: Sri Krishna Panditji — April 15, 1967",
+    "h1":"Sri Krishna Panditji — April 15, 1967",
+    "title":"Letter to: Sri Krishna Panditji — April 15, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Krishna Panditji ======
 

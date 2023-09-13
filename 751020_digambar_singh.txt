@@ -1,5 +1,11 @@
-~~Title: Letter to: Digambar Singh — October 20, 1975~~
-~~bc: Digambar Singh — October 20, 1975~~
+---json
+{
+    "name":"Letter to: Digambar Singh — October 20, 1975",
+    "h1":"Digambar Singh — October 20, 1975",
+    "title":"Letter to: Digambar Singh — October 20, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Digambar Singh ======
 

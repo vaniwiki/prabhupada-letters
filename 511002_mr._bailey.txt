@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Bailey — October 2, 1951~~
-~~bc: Mr. Bailey — October 2, 1951~~
+---json
+{
+    "name":"Letter to: Mr. Bailey — October 2, 1951",
+    "h1":"Mr. Bailey — October 2, 1951",
+    "title":"Letter to: Mr. Bailey — October 2, 1951",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Bailey ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Trivediji — August 17, 1970~~
-~~bc: Sri Trivediji — August 17, 1970~~
+---json
+{
+    "name":"Letter to: Sri Trivediji — August 17, 1970",
+    "h1":"Sri Trivediji — August 17, 1970",
+    "title":"Letter to: Sri Trivediji — August 17, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Trivediji ======
 

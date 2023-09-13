@@ -1,5 +1,11 @@
-~~Title: Letter to: Nirmala — December 15, 1972~~
-~~bc: Nirmala — December 15, 1972~~
+---json
+{
+    "name":"Letter to: Nirmala — December 15, 1972",
+    "h1":"Nirmala — December 15, 1972",
+    "title":"Letter to: Nirmala — December 15, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Nirmala ======
 

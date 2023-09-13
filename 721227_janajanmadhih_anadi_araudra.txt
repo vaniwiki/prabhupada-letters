@@ -1,5 +1,11 @@
-~~Title: Letter to: Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen) — December 27, 1972~~
-~~bc: Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen) — December 27, 1972~~
+---json
+{
+    "name":"Letter to: Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen) — December 27, 1972",
+    "h1":"Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen) — December 27, 1972",
+    "title":"Letter to: Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen) — December 27, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen) ======
 

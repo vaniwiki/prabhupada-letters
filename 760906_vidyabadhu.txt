@@ -1,5 +1,11 @@
-~~Title: Letter to: Vidyabadhu — September 6, 1976~~
-~~bc: Vidyabadhu — September 6, 1976~~
+---json
+{
+    "name":"Letter to: Vidyabadhu — September 6, 1976",
+    "h1":"Vidyabadhu — September 6, 1976",
+    "title":"Letter to: Vidyabadhu — September 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Vidyabadhu ======
 

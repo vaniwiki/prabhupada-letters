@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Lourenco — March 14, 1975~~
-~~bc: Mr. Lourenco — March 14, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Lourenco — March 14, 1975",
+    "h1":"Mr. Lourenco — March 14, 1975",
+    "title":"Letter to: Mr. Lourenco — March 14, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Lourenco ======
 

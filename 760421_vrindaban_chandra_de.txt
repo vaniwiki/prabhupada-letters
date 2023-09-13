@@ -1,5 +1,11 @@
-~~Title: Letter to: Vrindaban Chandra De — April 21, 1976~~
-~~bc: Vrindaban Chandra De — April 21, 1976~~
+---json
+{
+    "name":"Letter to: Vrindaban Chandra De — April 21, 1976",
+    "h1":"Vrindaban Chandra De — April 21, 1976",
+    "title":"Letter to: Vrindaban Chandra De — April 21, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Vrindaban Chandra De ======
 

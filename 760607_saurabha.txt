@@ -1,5 +1,11 @@
-~~Title: Letter to: Saurabha — June 7, 1976~~
-~~bc: Saurabha — June 7, 1976~~
+---json
+{
+    "name":"Letter to: Saurabha — June 7, 1976",
+    "h1":"Saurabha — June 7, 1976",
+    "title":"Letter to: Saurabha — June 7, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Saurabha ======
 

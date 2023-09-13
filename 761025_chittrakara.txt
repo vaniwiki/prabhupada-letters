@@ -1,5 +1,11 @@
-~~Title: Letter to: Chittrakara — October 25, 1976~~
-~~bc: Chittrakara — October 25, 1976~~
+---json
+{
+    "name":"Letter to: Chittrakara — October 25, 1976",
+    "h1":"Chittrakara — October 25, 1976",
+    "title":"Letter to: Chittrakara — October 25, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Chittrakara ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: A. K. Shivdasani — November 22, 1974~~
-~~bc: A. K. Shivdasani — November 22, 1974~~
+---json
+{
+    "name":"Letter to: A. K. Shivdasani — November 22, 1974",
+    "h1":"A. K. Shivdasani — November 22, 1974",
+    "title":"Letter to: A. K. Shivdasani — November 22, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: A. K. Shivdasani ======
 

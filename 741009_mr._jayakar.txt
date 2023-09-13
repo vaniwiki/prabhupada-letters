@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Jayakar — October 9, 1974~~
-~~bc: Mr. Jayakar — October 9, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Jayakar — October 9, 1974",
+    "h1":"Mr. Jayakar — October 9, 1974",
+    "title":"Letter to: Mr. Jayakar — October 9, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Jayakar ======
 

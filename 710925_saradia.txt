@@ -1,5 +1,11 @@
-~~Title: Letter to: Saradia — September 25, 1971~~
-~~bc: Saradia — September 25, 1971~~
+---json
+{
+    "name":"Letter to: Saradia — September 25, 1971",
+    "h1":"Saradia — September 25, 1971",
+    "title":"Letter to: Saradia — September 25, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Saradia ======
 

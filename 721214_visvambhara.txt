@@ -1,5 +1,11 @@
-~~Title: Letter to: Visvambhara — December 14, 1972~~
-~~bc: Visvambhara — December 14, 1972~~
+---json
+{
+    "name":"Letter to: Visvambhara — December 14, 1972",
+    "h1":"Visvambhara — December 14, 1972",
+    "title":"Letter to: Visvambhara — December 14, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Visvambhara ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri P. D. Shastri — November 14, 1975~~
-~~bc: Sri P. D. Shastri — November 14, 1975~~
+---json
+{
+    "name":"Letter to: Sri P. D. Shastri — November 14, 1975",
+    "h1":"Sri P. D. Shastri — November 14, 1975",
+    "title":"Letter to: Sri P. D. Shastri — November 14, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sri P. D. Shastri ======
 

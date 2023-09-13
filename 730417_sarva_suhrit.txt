@@ -1,5 +1,11 @@
-~~Title: Letter to: Sarva Suhrit — April 17, 1973~~
-~~bc: Sarva Suhrit — April 17, 1973~~
+---json
+{
+    "name":"Letter to: Sarva Suhrit — April 17, 1973",
+    "h1":"Sarva Suhrit — April 17, 1973",
+    "title":"Letter to: Sarva Suhrit — April 17, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Sarva Suhrit ======
 

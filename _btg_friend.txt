@@ -1,5 +1,11 @@
-~~Title: Letter to: BTG Friend — Dated as Postmark~~
-~~bc: BTG Friend — Dated as Postmark~~
+---json
+{
+    "name":"Letter to: BTG Friend — Dated as Postmark",
+    "h1":"BTG Friend — Dated as Postmark",
+    "title":"Letter to: BTG Friend — Dated as Postmark",
+    "description":""
+}
+---
 
 ====== Letter to: BTG Friend ======
 

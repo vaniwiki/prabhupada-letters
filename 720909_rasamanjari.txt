@@ -1,5 +1,11 @@
-~~Title: Letter to: Rasamanjari — September 9, 1972~~
-~~bc: Rasamanjari — September 9, 1972~~
+---json
+{
+    "name":"Letter to: Rasamanjari — September 9, 1972",
+    "h1":"Rasamanjari — September 9, 1972",
+    "title":"Letter to: Rasamanjari — September 9, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Rasamanjari ======
 

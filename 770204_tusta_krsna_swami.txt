@@ -1,5 +1,11 @@
-~~Title: Letter to: Tusta Krsna Swami — February 4, 1977~~
-~~bc: Tusta Krsna Swami — February 4, 1977~~
+---json
+{
+    "name":"Letter to: Tusta Krsna Swami — February 4, 1977",
+    "h1":"Tusta Krsna Swami — February 4, 1977",
+    "title":"Letter to: Tusta Krsna Swami — February 4, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Tusta Krsna Swami ======
 

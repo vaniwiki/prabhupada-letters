@@ -1,5 +1,11 @@
-~~Title: Letter to: Sarvamangala — November 6, 1974~~
-~~bc: Sarvamangala — November 6, 1974~~
+---json
+{
+    "name":"Letter to: Sarvamangala — November 6, 1974",
+    "h1":"Sarvamangala — November 6, 1974",
+    "title":"Letter to: Sarvamangala — November 6, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sarvamangala ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Mottissey — July 16, 1969~~
-~~bc: Mr. Mottissey — July 16, 1969~~
+---json
+{
+    "name":"Letter to: Mr. Mottissey — July 16, 1969",
+    "h1":"Mr. Mottissey — July 16, 1969",
+    "title":"Letter to: Mr. Mottissey — July 16, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Mottissey ======
 

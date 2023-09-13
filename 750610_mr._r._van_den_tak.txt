@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. R. Van den Tak — June 10, 1975~~
-~~bc: Mr. R. Van den Tak — June 10, 1975~~
+---json
+{
+    "name":"Letter to: Mr. R. Van den Tak — June 10, 1975",
+    "h1":"Mr. R. Van den Tak — June 10, 1975",
+    "title":"Letter to: Mr. R. Van den Tak — June 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. R. Van den Tak ======
 

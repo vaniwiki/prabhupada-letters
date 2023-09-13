@@ -1,5 +1,11 @@
-~~Title: Letter to: Rasada (Rick Joaquim), Dvijavara (David), Annada (Anita) — December 13, 1972~~
-~~bc: Rasada (Rick Joaquim), Dvijavara (David), Annada (Anita) — December 13, 1972~~
+---json
+{
+    "name":"Letter to: Rasada (Rick Joaquim), Dvijavara (David), Annada (Anita) — December 13, 1972",
+    "h1":"Rasada (Rick Joaquim), Dvijavara (David), Annada (Anita) — December 13, 1972",
+    "title":"Letter to: Rasada (Rick Joaquim), Dvijavara (David), Annada (Anita) — December 13, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Rasada (Rick Joaquim), Dvijavara (David), Annada (Anita) ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Candanacarya — March 23, 1971~~
-~~bc: Candanacarya — March 23, 1971~~
+---json
+{
+    "name":"Letter to: Candanacarya — March 23, 1971",
+    "h1":"Candanacarya — March 23, 1971",
+    "title":"Letter to: Candanacarya — March 23, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Candanacarya ======
 

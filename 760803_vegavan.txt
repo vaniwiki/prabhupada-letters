@@ -1,5 +1,11 @@
-~~Title: Letter to: Vegavan — August 3, 1976~~
-~~bc: Vegavan — August 3, 1976~~
+---json
+{
+    "name":"Letter to: Vegavan — August 3, 1976",
+    "h1":"Vegavan — August 3, 1976",
+    "title":"Letter to: Vegavan — August 3, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Vegavan ======
 

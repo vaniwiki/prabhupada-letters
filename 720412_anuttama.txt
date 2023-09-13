@@ -1,5 +1,11 @@
-~~Title: Letter to: Anuttama — April 12, 1972~~
-~~bc: Anuttama — April 12, 1972~~
+---json
+{
+    "name":"Letter to: Anuttama — April 12, 1972",
+    "h1":"Anuttama — April 12, 1972",
+    "title":"Letter to: Anuttama — April 12, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Anuttama ======
 

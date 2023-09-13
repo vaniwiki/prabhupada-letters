@@ -1,5 +1,11 @@
-~~Title: Letter to: Glendon Tremaine — October 5, 1972~~
-~~bc: Glendon Tremaine — October 5, 1972~~
+---json
+{
+    "name":"Letter to: Glendon Tremaine — October 5, 1972",
+    "h1":"Glendon Tremaine — October 5, 1972",
+    "title":"Letter to: Glendon Tremaine — October 5, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Glendon Tremaine ======
 

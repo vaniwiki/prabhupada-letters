@@ -1,5 +1,11 @@
-~~Title: Letter to: Jaya Gopala — August 25, 1970~~
-~~bc: Jaya Gopala — August 25, 1970~~
+---json
+{
+    "name":"Letter to: Jaya Gopala — August 25, 1970",
+    "h1":"Jaya Gopala — August 25, 1970",
+    "title":"Letter to: Jaya Gopala — August 25, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Jaya Gopala ======
 

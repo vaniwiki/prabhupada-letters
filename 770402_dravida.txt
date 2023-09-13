@@ -1,5 +1,11 @@
-~~Title: Letter to: Dravida — April 2, 1977~~
-~~bc: Dravida — April 2, 1977~~
+---json
+{
+    "name":"Letter to: Dravida — April 2, 1977",
+    "h1":"Dravida — April 2, 1977",
+    "title":"Letter to: Dravida — April 2, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Dravida ======
 

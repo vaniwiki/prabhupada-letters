@@ -1,5 +1,11 @@
-~~Title: Letter to: Trivikrama — November 13, 1976~~
-~~bc: Trivikrama — November 13, 1976~~
+---json
+{
+    "name":"Letter to: Trivikrama — November 13, 1976",
+    "h1":"Trivikrama — November 13, 1976",
+    "title":"Letter to: Trivikrama — November 13, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Trivikrama ======
 

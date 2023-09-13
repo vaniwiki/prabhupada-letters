@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Fitzgerald — April 8, 1975~~
-~~bc: Mr. Fitzgerald — April 8, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Fitzgerald — April 8, 1975",
+    "h1":"Mr. Fitzgerald — April 8, 1975",
+    "title":"Letter to: Mr. Fitzgerald — April 8, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Fitzgerald ======
 

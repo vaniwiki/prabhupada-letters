@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON St. Louis, Vamanadeva, Sharon, Badarinarayana, Judy, Pamela, John, Nancy, Cathy, Stuart, Eugene, Michael, Jayne, Richard, Mahamaya, Barry, Baladeva, Indira, Jagannatha, others — August 15, 1971~~
-~~bc: ISKCON St. Louis, Vamanadeva, Sharon, Badarinarayana, Judy, Pamela, John, Nancy, Cathy, Stuart, Eugene, Michael, Jayne, Richard, Mahamaya, Barry, Baladeva, Indira, Jagannatha, others — August 15, 1971~~
+---json
+{
+    "name":"Letter to: ISKCON St. Louis, Vamanadeva, Sharon, Badarinarayana, Judy, Pamela, John, Nancy, Cathy, Stuart, Eugene, Michael, Jayne, Richard, Mahamaya, Barry, Baladeva, Indira, Jagannatha, others — August 15, 1971",
+    "h1":"ISKCON St. Louis, Vamanadeva, Sharon, Badarinarayana, Judy, Pamela, John, Nancy, Cathy, Stuart, Eugene, Michael, Jayne, Richard, Mahamaya, Barry, Baladeva, Indira, Jagannatha, others — August 15, 1971",
+    "title":"Letter to: ISKCON St. Louis, Vamanadeva, Sharon, Badarinarayana, Judy, Pamela, John, Nancy, Cathy, Stuart, Eugene, Michael, Jayne, Richard, Mahamaya, Barry, Baladeva, Indira, Jagannatha, others — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON St. Louis, Vamanadeva, Sharon, Badarinarayana, Judy, Pamela, John, Nancy, Cathy, Stuart, Eugene, Michael, Jayne, Richard, Mahamaya, Barry, Baladeva, Indira, Jagannatha, others ======
 

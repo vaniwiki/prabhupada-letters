@@ -1,5 +1,11 @@
-~~Title: Letter to: Sucharu deva — January 19, 1975~~
-~~bc: Sucharu deva — January 19, 1975~~
+---json
+{
+    "name":"Letter to: Sucharu deva — January 19, 1975",
+    "h1":"Sucharu deva — January 19, 1975",
+    "title":"Letter to: Sucharu deva — January 19, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sucharu deva ======
 

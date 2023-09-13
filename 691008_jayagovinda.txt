@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayagovinda — October 8, 1969~~
-~~bc: Jayagovinda — October 8, 1969~~
+---json
+{
+    "name":"Letter to: Jayagovinda — October 8, 1969",
+    "h1":"Jayagovinda — October 8, 1969",
+    "title":"Letter to: Jayagovinda — October 8, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Jayagovinda ======
 

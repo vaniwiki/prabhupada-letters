@@ -1,5 +1,11 @@
-~~Title: Letter to: Tulsi — February 24, 1971~~
-~~bc: Tulsi — February 24, 1971~~
+---json
+{
+    "name":"Letter to: Tulsi — February 24, 1971",
+    "h1":"Tulsi — February 24, 1971",
+    "title":"Letter to: Tulsi — February 24, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Tulsi ======
 

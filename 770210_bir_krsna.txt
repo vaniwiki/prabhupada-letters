@@ -1,5 +1,11 @@
-~~Title: Letter to: Bir Krsna — February 10, 1977~~
-~~bc: Bir Krsna — February 10, 1977~~
+---json
+{
+    "name":"Letter to: Bir Krsna — February 10, 1977",
+    "h1":"Bir Krsna — February 10, 1977",
+    "title":"Letter to: Bir Krsna — February 10, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Bir Krsna ======
 

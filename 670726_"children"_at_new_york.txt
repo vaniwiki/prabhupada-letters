@@ -1,5 +1,11 @@
-~~Title: Letter to: “Children” at New York — July 26, 1967~~
-~~bc: “Children” at New York — July 26, 1967~~
+---json
+{
+    "name":"Letter to: “Children” at New York — July 26, 1967",
+    "h1":"“Children” at New York — July 26, 1967",
+    "title":"Letter to: “Children” at New York — July 26, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: “Children” at New York ======
 

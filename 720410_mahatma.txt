@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahatma — April 10, 1972~~
-~~bc: Mahatma — April 10, 1972~~
+---json
+{
+    "name":"Letter to: Mahatma — April 10, 1972",
+    "h1":"Mahatma — April 10, 1972",
+    "title":"Letter to: Mahatma — April 10, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Mahatma ======
 

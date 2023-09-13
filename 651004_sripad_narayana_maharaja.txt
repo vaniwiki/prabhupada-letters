@@ -1,5 +1,11 @@
-~~Title: Letter to: Sripad Narayana Maharaja — October 4, 1965~~
-~~bc: Sripad Narayana Maharaja — October 4, 1965~~
+---json
+{
+    "name":"Letter to: Sripad Narayana Maharaja — October 4, 1965",
+    "h1":"Sripad Narayana Maharaja — October 4, 1965",
+    "title":"Letter to: Sripad Narayana Maharaja — October 4, 1965",
+    "description":""
+}
+---
 
 ====== Letter to: Sripad Narayana Maharaja ======
 

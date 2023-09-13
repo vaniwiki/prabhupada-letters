@@ -1,5 +1,11 @@
-~~Title: Letter to: Tusta Krsna — August 24, 1972~~
-~~bc: Tusta Krsna — August 24, 1972~~
+---json
+{
+    "name":"Letter to: Tusta Krsna — August 24, 1972",
+    "h1":"Tusta Krsna — August 24, 1972",
+    "title":"Letter to: Tusta Krsna — August 24, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Tusta Krsna ======
 

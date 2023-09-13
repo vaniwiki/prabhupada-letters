@@ -1,5 +1,11 @@
-~~Title: Letter to: Loan Agreement — March 20, 1977~~
-~~bc: Loan Agreement — March 20, 1977~~
+---json
+{
+    "name":"Letter to: Loan Agreement — March 20, 1977",
+    "h1":"Loan Agreement — March 20, 1977",
+    "title":"Letter to: Loan Agreement — March 20, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Loan Agreement ======
 

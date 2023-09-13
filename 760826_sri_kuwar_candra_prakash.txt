@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Kuwar Candra Prakash — August 26, 1976~~
-~~bc: Sri Kuwar Candra Prakash — August 26, 1976~~
+---json
+{
+    "name":"Letter to: Sri Kuwar Candra Prakash — August 26, 1976",
+    "h1":"Sri Kuwar Candra Prakash — August 26, 1976",
+    "title":"Letter to: Sri Kuwar Candra Prakash — August 26, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Kuwar Candra Prakash ======
 

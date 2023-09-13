@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Aubrey L. Duke — September 1, 1975~~
-~~bc: Mr. Aubrey L. Duke — September 1, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Aubrey L. Duke — September 1, 1975",
+    "h1":"Mr. Aubrey L. Duke — September 1, 1975",
+    "title":"Letter to: Mr. Aubrey L. Duke — September 1, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Aubrey L. Duke ======
 

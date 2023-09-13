@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Dambergs (senior) — April 12, 1967~~
-~~bc: Mr. Dambergs (senior) — April 12, 1967~~
+---json
+{
+    "name":"Letter to: Mr. Dambergs (senior) — April 12, 1967",
+    "h1":"Mr. Dambergs (senior) — April 12, 1967",
+    "title":"Letter to: Mr. Dambergs (senior) — April 12, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Dambergs (senior) ======
 

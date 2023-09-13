@@ -1,5 +1,11 @@
-~~Title: Letter to: Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda — March 21, 1969~~
-~~bc: Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda — March 21, 1969~~
+---json
+{
+    "name":"Letter to: Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda — March 21, 1969",
+    "h1":"Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda — March 21, 1969",
+    "title":"Letter to: Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda — March 21, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda ======
 

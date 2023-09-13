@@ -1,5 +1,11 @@
-~~Title: Letter to: Phatikcandra — January 1, 1975~~
-~~bc: Phatikcandra — January 1, 1975~~
+---json
+{
+    "name":"Letter to: Phatikcandra — January 1, 1975",
+    "h1":"Phatikcandra — January 1, 1975",
+    "title":"Letter to: Phatikcandra — January 1, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Phatikcandra ======
 

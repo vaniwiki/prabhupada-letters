@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON International Gurukula — January 16, 1977~~
-~~bc: ISKCON International Gurukula — January 16, 1977~~
+---json
+{
+    "name":"Letter to: ISKCON International Gurukula — January 16, 1977",
+    "h1":"ISKCON International Gurukula — January 16, 1977",
+    "title":"Letter to: ISKCON International Gurukula — January 16, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON International Gurukula ======
 

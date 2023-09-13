@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. A. B. Hartman — January 14, 1966~~
-~~bc: Mr. A. B. Hartman — January 14, 1966~~
+---json
+{
+    "name":"Letter to: Mr. A. B. Hartman — January 14, 1966",
+    "h1":"Mr. A. B. Hartman — January 14, 1966",
+    "title":"Letter to: Mr. A. B. Hartman — January 14, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. A. B. Hartman ======
 

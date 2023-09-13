@@ -1,5 +1,11 @@
-~~Title: Letter to: Jnana, Lilavati — December 25, 1976~~
-~~bc: Jnana, Lilavati — December 25, 1976~~
+---json
+{
+    "name":"Letter to: Jnana, Lilavati — December 25, 1976",
+    "h1":"Jnana, Lilavati — December 25, 1976",
+    "title":"Letter to: Jnana, Lilavati — December 25, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Jnana, Lilavati ======
 

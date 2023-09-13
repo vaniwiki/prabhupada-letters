@@ -1,5 +1,11 @@
-~~Title: Letter to: Branch Manager, Central Bank of India — March 16, 1976~~
-~~bc: Branch Manager, Central Bank of India — March 16, 1976~~
+---json
+{
+    "name":"Letter to: Branch Manager, Central Bank of India — March 16, 1976",
+    "h1":"Branch Manager, Central Bank of India — March 16, 1976",
+    "title":"Letter to: Branch Manager, Central Bank of India — March 16, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Branch Manager, Central Bank of India ======
 

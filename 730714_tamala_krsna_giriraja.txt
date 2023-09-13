@@ -1,5 +1,11 @@
-~~Title: Letter to: Tamala Krsna , Giriraja — July 14, 1973~~
-~~bc: Tamala Krsna , Giriraja — July 14, 1973~~
+---json
+{
+    "name":"Letter to: Tamala Krsna , Giriraja — July 14, 1973",
+    "h1":"Tamala Krsna , Giriraja — July 14, 1973",
+    "title":"Letter to: Tamala Krsna , Giriraja — July 14, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Tamala Krsna , Giriraja ======
 

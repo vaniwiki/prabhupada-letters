@@ -1,5 +1,11 @@
-~~Title: Letter to: Acyutananda, Yasodanandana — February 8, 1976~~
-~~bc: Acyutananda, Yasodanandana — February 8, 1976~~
+---json
+{
+    "name":"Letter to: Acyutananda, Yasodanandana — February 8, 1976",
+    "h1":"Acyutananda, Yasodanandana — February 8, 1976",
+    "title":"Letter to: Acyutananda, Yasodanandana — February 8, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Acyutananda, Yasodanandana ======
 

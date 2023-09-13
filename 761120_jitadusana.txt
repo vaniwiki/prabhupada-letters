@@ -1,5 +1,11 @@
-~~Title: Letter to: Jitadusana — November 20, 1976~~
-~~bc: Jitadusana — November 20, 1976~~
+---json
+{
+    "name":"Letter to: Jitadusana — November 20, 1976",
+    "h1":"Jitadusana — November 20, 1976",
+    "title":"Letter to: Jitadusana — November 20, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Jitadusana ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Radha-sarana — April 17, 1977~~
-~~bc: Radha-sarana — April 17, 1977~~
+---json
+{
+    "name":"Letter to: Radha-sarana — April 17, 1977",
+    "h1":"Radha-sarana — April 17, 1977",
+    "title":"Letter to: Radha-sarana — April 17, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Radha-sarana ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Turya Shramy Maharaja — April 8, 1970~~
-~~bc: Turya Shramy Maharaja — April 8, 1970~~
+---json
+{
+    "name":"Letter to: Turya Shramy Maharaja — April 8, 1970",
+    "h1":"Turya Shramy Maharaja — April 8, 1970",
+    "title":"Letter to: Turya Shramy Maharaja — April 8, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Turya Shramy Maharaja ======
 

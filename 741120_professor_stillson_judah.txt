@@ -1,5 +1,11 @@
-~~Title: Letter to: Professor Stillson Judah — November 20, 1974~~
-~~bc: Professor Stillson Judah — November 20, 1974~~
+---json
+{
+    "name":"Letter to: Professor Stillson Judah — November 20, 1974",
+    "h1":"Professor Stillson Judah — November 20, 1974",
+    "title":"Letter to: Professor Stillson Judah — November 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Professor Stillson Judah ======
 

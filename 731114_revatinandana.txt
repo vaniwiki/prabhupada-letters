@@ -1,5 +1,11 @@
-~~Title: Letter to: Revatinandana — November 14, 1973~~
-~~bc: Revatinandana — November 14, 1973~~
+---json
+{
+    "name":"Letter to: Revatinandana — November 14, 1973",
+    "h1":"Revatinandana — November 14, 1973",
+    "title":"Letter to: Revatinandana — November 14, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Revatinandana ======
 

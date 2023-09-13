@@ -1,5 +1,11 @@
-~~Title: Letter to: Kancanbala — April 20, 1970~~
-~~bc: Kancanbala — April 20, 1970~~
+---json
+{
+    "name":"Letter to: Kancanbala — April 20, 1970",
+    "h1":"Kancanbala — April 20, 1970",
+    "title":"Letter to: Kancanbala — April 20, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Kancanbala ======
 

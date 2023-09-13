@@ -1,5 +1,11 @@
-~~Title: Letter to: Vidarbha Kanya — August 19, 1974~~
-~~bc: Vidarbha Kanya — August 19, 1974~~
+---json
+{
+    "name":"Letter to: Vidarbha Kanya — August 19, 1974",
+    "h1":"Vidarbha Kanya — August 19, 1974",
+    "title":"Letter to: Vidarbha Kanya — August 19, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Vidarbha Kanya ======
 

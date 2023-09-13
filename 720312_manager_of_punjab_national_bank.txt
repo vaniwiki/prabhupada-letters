@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager of Punjab National Bank — March 12, 1972~~
-~~bc: Manager of Punjab National Bank — March 12, 1972~~
+---json
+{
+    "name":"Letter to: Manager of Punjab National Bank — March 12, 1972",
+    "h1":"Manager of Punjab National Bank — March 12, 1972",
+    "title":"Letter to: Manager of Punjab National Bank — March 12, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Manager of Punjab National Bank ======
 

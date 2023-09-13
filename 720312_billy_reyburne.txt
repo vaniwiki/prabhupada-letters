@@ -1,5 +1,11 @@
-~~Title: Letter to: Billy Reyburne — March 12, 1972~~
-~~bc: Billy Reyburne — March 12, 1972~~
+---json
+{
+    "name":"Letter to: Billy Reyburne — March 12, 1972",
+    "h1":"Billy Reyburne — March 12, 1972",
+    "title":"Letter to: Billy Reyburne — March 12, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Billy Reyburne ======
 

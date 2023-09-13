@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhavananda, Jayapataka — August 19, 1973~~
-~~bc: Bhavananda, Jayapataka — August 19, 1973~~
+---json
+{
+    "name":"Letter to: Bhavananda, Jayapataka — August 19, 1973",
+    "h1":"Bhavananda, Jayapataka — August 19, 1973",
+    "title":"Letter to: Bhavananda, Jayapataka — August 19, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Bhavananda, Jayapataka ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Ratanshi Morarji Khatau — August 5, 1958~~
-~~bc: Ratanshi Morarji Khatau — August 5, 1958~~
+---json
+{
+    "name":"Letter to: Ratanshi Morarji Khatau — August 5, 1958",
+    "h1":"Ratanshi Morarji Khatau — August 5, 1958",
+    "title":"Letter to: Ratanshi Morarji Khatau — August 5, 1958",
+    "description":""
+}
+---
 
 ====== Letter to: Ratanshi Morarji Khatau ======
 

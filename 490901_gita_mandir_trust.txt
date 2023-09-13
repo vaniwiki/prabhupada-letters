@@ -1,5 +1,11 @@
-~~Title: Letter to: Gita Mandir Trust — September 1, 1949~~
-~~bc: Gita Mandir Trust — September 1, 1949~~
+---json
+{
+    "name":"Letter to: Gita Mandir Trust — September 1, 1949",
+    "h1":"Gita Mandir Trust — September 1, 1949",
+    "title":"Letter to: Gita Mandir Trust — September 1, 1949",
+    "description":""
+}
+---
 
 ====== Letter to: Gita Mandir Trust ======
 

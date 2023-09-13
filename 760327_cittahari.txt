@@ -1,5 +1,11 @@
-~~Title: Letter to: Cittahari — March 27, 1976~~
-~~bc: Cittahari — March 27, 1976~~
+---json
+{
+    "name":"Letter to: Cittahari — March 27, 1976",
+    "h1":"Cittahari — March 27, 1976",
+    "title":"Letter to: Cittahari — March 27, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Cittahari ======
 

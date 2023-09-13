@@ -1,5 +1,11 @@
-~~Title: Letter to: Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks) — November 25, 1972~~
-~~bc: Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks) — November 25, 1972~~
+---json
+{
+    "name":"Letter to: Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks) — November 25, 1972",
+    "h1":"Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks) — November 25, 1972",
+    "title":"Letter to: Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks) — November 25, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks) ======
 

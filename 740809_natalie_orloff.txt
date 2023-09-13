@@ -1,5 +1,11 @@
-~~Title: Letter to: Natalie Orloff — August 9, 1974~~
-~~bc: Natalie Orloff — August 9, 1974~~
+---json
+{
+    "name":"Letter to: Natalie Orloff — August 9, 1974",
+    "h1":"Natalie Orloff — August 9, 1974",
+    "title":"Letter to: Natalie Orloff — August 9, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Natalie Orloff ======
 

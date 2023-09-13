@@ -1,5 +1,11 @@
-~~Title: Letter to: Haripuja — June 25, 1972~~
-~~bc: Haripuja — June 25, 1972~~
+---json
+{
+    "name":"Letter to: Haripuja — June 25, 1972",
+    "h1":"Haripuja — June 25, 1972",
+    "title":"Letter to: Haripuja — June 25, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Haripuja ======
 

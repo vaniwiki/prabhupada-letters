@@ -1,5 +1,11 @@
-~~Title: Letter to: Janaki — January 18, 1969~~
-~~bc: Janaki — January 18, 1969~~
+---json
+{
+    "name":"Letter to: Janaki — January 18, 1969",
+    "h1":"Janaki — January 18, 1969",
+    "title":"Letter to: Janaki — January 18, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Janaki ======
 

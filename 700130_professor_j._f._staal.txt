@@ -1,5 +1,11 @@
-~~Title: Letter to: Professor J. F. Staal — January 30, 1970~~
-~~bc: Professor J. F. Staal — January 30, 1970~~
+---json
+{
+    "name":"Letter to: Professor J. F. Staal — January 30, 1970",
+    "h1":"Professor J. F. Staal — January 30, 1970",
+    "title":"Letter to: Professor J. F. Staal — January 30, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Professor J. F. Staal ======
 

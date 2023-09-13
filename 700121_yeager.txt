@@ -1,5 +1,11 @@
-~~Title: Letter to: Yeager — January 21, 1970~~
-~~bc: Yeager — January 21, 1970~~
+---json
+{
+    "name":"Letter to: Yeager — January 21, 1970",
+    "h1":"Yeager — January 21, 1970",
+    "title":"Letter to: Yeager — January 21, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Yeager ======
 

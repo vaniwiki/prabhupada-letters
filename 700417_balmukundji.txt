@@ -1,5 +1,11 @@
-~~Title: Letter to: Balmukundji — April 17, 1970~~
-~~bc: Balmukundji — April 17, 1970~~
+---json
+{
+    "name":"Letter to: Balmukundji — April 17, 1970",
+    "h1":"Balmukundji — April 17, 1970",
+    "title":"Letter to: Balmukundji — April 17, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Balmukundji ======
 

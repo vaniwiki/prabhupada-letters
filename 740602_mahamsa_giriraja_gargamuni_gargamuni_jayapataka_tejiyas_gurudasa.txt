@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa — June 2, 1974~~
-~~bc: Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa — June 2, 1974~~
+---json
+{
+    "name":"Letter to: Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa — June 2, 1974",
+    "h1":"Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa — June 2, 1974",
+    "title":"Letter to: Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa — June 2, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa ======
 

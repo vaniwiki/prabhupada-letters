@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Bhatt — February 3, 1976~~
-~~bc: Dr. Bhatt — February 3, 1976~~
+---json
+{
+    "name":"Letter to: Dr. Bhatt — February 3, 1976",
+    "h1":"Dr. Bhatt — February 3, 1976",
+    "title":"Letter to: Dr. Bhatt — February 3, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Bhatt ======
 

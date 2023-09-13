@@ -1,5 +1,11 @@
-~~Title: Letter to: Gopala Krsna — November 27, 1968~~
-~~bc: Gopala Krsna — November 27, 1968~~
+---json
+{
+    "name":"Letter to: Gopala Krsna — November 27, 1968",
+    "h1":"Gopala Krsna — November 27, 1968",
+    "title":"Letter to: Gopala Krsna — November 27, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Gopala Krsna ======
 

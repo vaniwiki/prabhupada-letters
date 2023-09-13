@@ -1,5 +1,11 @@
-~~Title: Letter to: Puranjana — April 7, 1974~~
-~~bc: Puranjana — April 7, 1974~~
+---json
+{
+    "name":"Letter to: Puranjana — April 7, 1974",
+    "h1":"Puranjana — April 7, 1974",
+    "title":"Letter to: Puranjana — April 7, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Puranjana ======
 

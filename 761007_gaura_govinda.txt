@@ -1,5 +1,11 @@
-~~Title: Letter to: Gaura Govinda — October 7, 1976~~
-~~bc: Gaura Govinda — October 7, 1976~~
+---json
+{
+    "name":"Letter to: Gaura Govinda — October 7, 1976",
+    "h1":"Gaura Govinda — October 7, 1976",
+    "title":"Letter to: Gaura Govinda — October 7, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Gaura Govinda ======
 

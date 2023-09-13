@@ -1,5 +1,11 @@
-~~Title: Letter to: Deputy Commissioner of Police — April 19, 1971~~
-~~bc: Deputy Commissioner of Police — April 19, 1971~~
+---json
+{
+    "name":"Letter to: Deputy Commissioner of Police — April 19, 1971",
+    "h1":"Deputy Commissioner of Police — April 19, 1971",
+    "title":"Letter to: Deputy Commissioner of Police — April 19, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Deputy Commissioner of Police ======
 

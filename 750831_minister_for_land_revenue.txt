@@ -1,5 +1,11 @@
-~~Title: Letter to: Minister for Land & Revenue — August 31, 1975~~
-~~bc: Minister for Land & Revenue — August 31, 1975~~
+---json
+{
+    "name":"Letter to: Minister for Land & Revenue — August 31, 1975",
+    "h1":"Minister for Land & Revenue — August 31, 1975",
+    "title":"Letter to: Minister for Land & Revenue — August 31, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Minister for Land & Revenue ======
 

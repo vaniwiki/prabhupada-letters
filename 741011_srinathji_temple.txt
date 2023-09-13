@@ -1,5 +1,11 @@
-~~Title: Letter to: Srinathji Temple — October 11, 1974~~
-~~bc: Srinathji Temple — October 11, 1974~~
+---json
+{
+    "name":"Letter to: Srinathji Temple — October 11, 1974",
+    "h1":"Srinathji Temple — October 11, 1974",
+    "title":"Letter to: Srinathji Temple — October 11, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Srinathji Temple ======
 

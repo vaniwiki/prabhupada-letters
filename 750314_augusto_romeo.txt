@@ -1,5 +1,11 @@
-~~Title: Letter to: Augusto, Romeo — March 14, 1975~~
-~~bc: Augusto, Romeo — March 14, 1975~~
+---json
+{
+    "name":"Letter to: Augusto, Romeo — March 14, 1975",
+    "h1":"Augusto, Romeo — March 14, 1975",
+    "title":"Letter to: Augusto, Romeo — March 14, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Augusto, Romeo ======
 

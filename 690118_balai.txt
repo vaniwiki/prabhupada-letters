@@ -1,5 +1,11 @@
-~~Title: Letter to: Balai — January 18, 1969~~
-~~bc: Balai — January 18, 1969~~
+---json
+{
+    "name":"Letter to: Balai — January 18, 1969",
+    "h1":"Balai — January 18, 1969",
+    "title":"Letter to: Balai — January 18, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Balai ======
 

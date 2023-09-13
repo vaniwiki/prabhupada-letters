@@ -1,5 +1,11 @@
-~~Title: Letter to: Patty Dorgan — November 17, 1971~~
-~~bc: Patty Dorgan — November 17, 1971~~
+---json
+{
+    "name":"Letter to: Patty Dorgan — November 17, 1971",
+    "h1":"Patty Dorgan — November 17, 1971",
+    "title":"Letter to: Patty Dorgan — November 17, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Patty Dorgan ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhavananda — February 1, 1974~~
-~~bc: Madhavananda — February 1, 1974~~
+---json
+{
+    "name":"Letter to: Madhavananda — February 1, 1974",
+    "h1":"Madhavananda — February 1, 1974",
+    "title":"Letter to: Madhavananda — February 1, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Madhavananda ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Susheel Asnani — May 9, 1976~~
-~~bc: Susheel Asnani — May 9, 1976~~
+---json
+{
+    "name":"Letter to: Susheel Asnani — May 9, 1976",
+    "h1":"Susheel Asnani — May 9, 1976",
+    "title":"Letter to: Susheel Asnani — May 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Susheel Asnani ======
 

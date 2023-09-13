@@ -1,5 +1,11 @@
-~~Title: Letter to: Tamala Krsna — July 16, 1968~~
-~~bc: Tamala Krsna — July 16, 1968~~
+---json
+{
+    "name":"Letter to: Tamala Krsna — July 16, 1968",
+    "h1":"Tamala Krsna — July 16, 1968",
+    "title":"Letter to: Tamala Krsna — July 16, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Tamala Krsna ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Gerald J. Gross — February 20, 1972~~
-~~bc: Mr. Gerald J. Gross — February 20, 1972~~
+---json
+{
+    "name":"Letter to: Mr. Gerald J. Gross — February 20, 1972",
+    "h1":"Mr. Gerald J. Gross — February 20, 1972",
+    "title":"Letter to: Mr. Gerald J. Gross — February 20, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Gerald J. Gross ======
 

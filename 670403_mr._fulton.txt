@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Fulton — April 3, 1967~~
-~~bc: Mr. Fulton — April 3, 1967~~
+---json
+{
+    "name":"Letter to: Mr. Fulton — April 3, 1967",
+    "h1":"Mr. Fulton — April 3, 1967",
+    "title":"Letter to: Mr. Fulton — April 3, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Fulton ======
 

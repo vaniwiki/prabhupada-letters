@@ -1,5 +1,11 @@
-~~Title: Letter to: Tosana Krsna — June 23, 1970~~
-~~bc: Tosana Krsna — June 23, 1970~~
+---json
+{
+    "name":"Letter to: Tosana Krsna — June 23, 1970",
+    "h1":"Tosana Krsna — June 23, 1970",
+    "title":"Letter to: Tosana Krsna — June 23, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Tosana Krsna ======
 

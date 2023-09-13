@@ -1,5 +1,11 @@
-~~Title: Letter to: Yamuna, Dinatarini — May 15, 1976~~
-~~bc: Yamuna, Dinatarini — May 15, 1976~~
+---json
+{
+    "name":"Letter to: Yamuna, Dinatarini — May 15, 1976",
+    "h1":"Yamuna, Dinatarini — May 15, 1976",
+    "title":"Letter to: Yamuna, Dinatarini — May 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Yamuna, Dinatarini ======
 

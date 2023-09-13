@@ -1,5 +1,11 @@
-~~Title: Letter to: Caru — August 13, 1974~~
-~~bc: Caru — August 13, 1974~~
+---json
+{
+    "name":"Letter to: Caru — August 13, 1974",
+    "h1":"Caru — August 13, 1974",
+    "title":"Letter to: Caru — August 13, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Caru ======
 

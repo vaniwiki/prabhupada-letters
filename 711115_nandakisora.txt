@@ -1,5 +1,11 @@
-~~Title: Letter to: Nandakisora — November 15, 1971~~
-~~bc: Nandakisora — November 15, 1971~~
+---json
+{
+    "name":"Letter to: Nandakisora — November 15, 1971",
+    "h1":"Nandakisora — November 15, 1971",
+    "title":"Letter to: Nandakisora — November 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Nandakisora ======
 

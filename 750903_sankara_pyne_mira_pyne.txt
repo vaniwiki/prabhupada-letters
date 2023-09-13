@@ -1,5 +1,11 @@
-~~Title: Letter to: Sankara Pyne, Mira Pyne — September 3, 1975~~
-~~bc: Sankara Pyne, Mira Pyne — September 3, 1975~~
+---json
+{
+    "name":"Letter to: Sankara Pyne, Mira Pyne — September 3, 1975",
+    "h1":"Sankara Pyne, Mira Pyne — September 3, 1975",
+    "title":"Letter to: Sankara Pyne, Mira Pyne — September 3, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sankara Pyne, Mira Pyne ======
 

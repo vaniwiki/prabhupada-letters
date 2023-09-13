@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Tikandas J. Batra — January 26, 1976~~
-~~bc: Sri Tikandas J. Batra — January 26, 1976~~
+---json
+{
+    "name":"Letter to: Sri Tikandas J. Batra — January 26, 1976",
+    "h1":"Sri Tikandas J. Batra — January 26, 1976",
+    "title":"Letter to: Sri Tikandas J. Batra — January 26, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Tikandas J. Batra ======
 

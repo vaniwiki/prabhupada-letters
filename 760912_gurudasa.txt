@@ -1,5 +1,11 @@
-~~Title: Letter to: Gurudasa — September 12, 1976~~
-~~bc: Gurudasa — September 12, 1976~~
+---json
+{
+    "name":"Letter to: Gurudasa — September 12, 1976",
+    "h1":"Gurudasa — September 12, 1976",
+    "title":"Letter to: Gurudasa — September 12, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Gurudasa ======
 

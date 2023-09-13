@@ -1,5 +1,11 @@
-~~Title: Letter to: Andrew Parco — October 7, 1972~~
-~~bc: Andrew Parco — October 7, 1972~~
+---json
+{
+    "name":"Letter to: Andrew Parco — October 7, 1972",
+    "h1":"Andrew Parco — October 7, 1972",
+    "title":"Letter to: Andrew Parco — October 7, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Andrew Parco ======
 

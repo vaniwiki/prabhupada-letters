@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Chaudhuri — February 6, 1969~~
-~~bc: Dr. Chaudhuri — February 6, 1969~~
+---json
+{
+    "name":"Letter to: Dr. Chaudhuri — February 6, 1969",
+    "h1":"Dr. Chaudhuri — February 6, 1969",
+    "title":"Letter to: Dr. Chaudhuri — February 6, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Chaudhuri ======
 

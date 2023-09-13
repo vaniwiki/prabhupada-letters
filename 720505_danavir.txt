@@ -1,5 +1,11 @@
-~~Title: Letter to: Danavir — May 5, 1972~~
-~~bc: Danavir — May 5, 1972~~
+---json
+{
+    "name":"Letter to: Danavir — May 5, 1972",
+    "h1":"Danavir — May 5, 1972",
+    "title":"Letter to: Danavir — May 5, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Danavir ======
 

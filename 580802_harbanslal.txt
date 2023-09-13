@@ -1,5 +1,11 @@
-~~Title: Letter to: Harbanslal — August 2, 1958~~
-~~bc: Harbanslal — August 2, 1958~~
+---json
+{
+    "name":"Letter to: Harbanslal — August 2, 1958",
+    "h1":"Harbanslal — August 2, 1958",
+    "title":"Letter to: Harbanslal — August 2, 1958",
+    "description":""
+}
+---
 
 ====== Letter to: Harbanslal ======
 

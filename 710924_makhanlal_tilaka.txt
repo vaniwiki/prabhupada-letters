@@ -1,5 +1,11 @@
-~~Title: Letter to: Makhanlal, Tilaka — September 24, 1971~~
-~~bc: Makhanlal, Tilaka — September 24, 1971~~
+---json
+{
+    "name":"Letter to: Makhanlal, Tilaka — September 24, 1971",
+    "h1":"Makhanlal, Tilaka — September 24, 1971",
+    "title":"Letter to: Makhanlal, Tilaka — September 24, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Makhanlal, Tilaka ======
 

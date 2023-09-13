@@ -1,5 +1,11 @@
-~~Title: Letter to: Hrdayananda — May 10, 1973~~
-~~bc: Hrdayananda — May 10, 1973~~
+---json
+{
+    "name":"Letter to: Hrdayananda — May 10, 1973",
+    "h1":"Hrdayananda — May 10, 1973",
+    "title":"Letter to: Hrdayananda — May 10, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Hrdayananda ======
 

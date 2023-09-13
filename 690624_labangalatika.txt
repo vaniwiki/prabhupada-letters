@@ -1,5 +1,11 @@
-~~Title: Letter to: Labangalatika — June 24, 1969~~
-~~bc: Labangalatika — June 24, 1969~~
+---json
+{
+    "name":"Letter to: Labangalatika — June 24, 1969",
+    "h1":"Labangalatika — June 24, 1969",
+    "title":"Letter to: Labangalatika — June 24, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Labangalatika ======
 

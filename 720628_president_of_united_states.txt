@@ -1,5 +1,11 @@
-~~Title: Letter to: President of United States — June 28, 1972~~
-~~bc: President of United States — June 28, 1972~~
+---json
+{
+    "name":"Letter to: President of United States — June 28, 1972",
+    "h1":"President of United States — June 28, 1972",
+    "title":"Letter to: President of United States — June 28, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: President of United States ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhutatma, Kesava — November 2, 1972~~
-~~bc: Bhutatma, Kesava — November 2, 1972~~
+---json
+{
+    "name":"Letter to: Bhutatma, Kesava — November 2, 1972",
+    "h1":"Bhutatma, Kesava — November 2, 1972",
+    "title":"Letter to: Bhutatma, Kesava — November 2, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Bhutatma, Kesava ======
 

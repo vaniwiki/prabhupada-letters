@@ -1,5 +1,11 @@
-~~Title: Letter to: Kadamba Kanana — December 8, 1975~~
-~~bc: Kadamba Kanana — December 8, 1975~~
+---json
+{
+    "name":"Letter to: Kadamba Kanana — December 8, 1975",
+    "h1":"Kadamba Kanana — December 8, 1975",
+    "title":"Letter to: Kadamba Kanana — December 8, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Kadamba Kanana ======
 

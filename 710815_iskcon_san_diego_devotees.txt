@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON San Diego, Bhakta dasa, Surya, Rajiblocan, Aniruddha, Paratrikananda, Norah, Annapurna, Marney, Nrsimha Caitanya, Marybelle, others — August 15, 1971~~
-~~bc: ISKCON San Diego, Bhakta dasa, Surya, Rajiblocan, Aniruddha, Paratrikananda, Norah, Annapurna, Marney, Nrsimha Caitanya, Marybelle, others — August 15, 1971~~
+---json
+{
+    "name":"Letter to: ISKCON San Diego, Bhakta dasa, Surya, Rajiblocan, Aniruddha, Paratrikananda, Norah, Annapurna, Marney, Nrsimha Caitanya, Marybelle, others — August 15, 1971",
+    "h1":"ISKCON San Diego, Bhakta dasa, Surya, Rajiblocan, Aniruddha, Paratrikananda, Norah, Annapurna, Marney, Nrsimha Caitanya, Marybelle, others — August 15, 1971",
+    "title":"Letter to: ISKCON San Diego, Bhakta dasa, Surya, Rajiblocan, Aniruddha, Paratrikananda, Norah, Annapurna, Marney, Nrsimha Caitanya, Marybelle, others — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON San Diego, Bhakta dasa, Surya, Rajiblocan, Aniruddha, Paratrikananda, Norah, Annapurna, Marney, Nrsimha Caitanya, Marybelle, others ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Gopala Krsna — May 16, 1976~~
-~~bc: Gopala Krsna — May 16, 1976~~
+---json
+{
+    "name":"Letter to: Gopala Krsna — May 16, 1976",
+    "h1":"Gopala Krsna — May 16, 1976",
+    "title":"Letter to: Gopala Krsna — May 16, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Gopala Krsna ======
 

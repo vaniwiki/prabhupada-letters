@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Mohan Singh — October 16, 1976~~
-~~bc: Dr. Mohan Singh — October 16, 1976~~
+---json
+{
+    "name":"Letter to: Dr. Mohan Singh — October 16, 1976",
+    "h1":"Dr. Mohan Singh — October 16, 1976",
+    "title":"Letter to: Dr. Mohan Singh — October 16, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Mohan Singh ======
 

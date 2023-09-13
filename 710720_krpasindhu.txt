@@ -1,5 +1,11 @@
-~~Title: Letter to: Krpasindhu (Rick Holtzman) — July 20, 1971~~
-~~bc: Krpasindhu (Rick Holtzman) — July 20, 1971~~
+---json
+{
+    "name":"Letter to: Krpasindhu (Rick Holtzman) — July 20, 1971",
+    "h1":"Krpasindhu (Rick Holtzman) — July 20, 1971",
+    "title":"Letter to: Krpasindhu (Rick Holtzman) — July 20, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Krpasindhu (Rick Holtzman) ======
 

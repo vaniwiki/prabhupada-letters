@@ -1,5 +1,11 @@
-~~Title: Letter to: Tirthapada — July 15, 1970~~
-~~bc: Tirthapada — July 15, 1970~~
+---json
+{
+    "name":"Letter to: Tirthapada — July 15, 1970",
+    "h1":"Tirthapada — July 15, 1970",
+    "title":"Letter to: Tirthapada — July 15, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Tirthapada ======
 

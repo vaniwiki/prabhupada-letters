@@ -1,5 +1,11 @@
-~~Title: Letter to: M. M. Malhotra — March 31, 1961~~
-~~bc: M. M. Malhotra — March 31, 1961~~
+---json
+{
+    "name":"Letter to: M. M. Malhotra — March 31, 1961",
+    "h1":"M. M. Malhotra — March 31, 1961",
+    "title":"Letter to: M. M. Malhotra — March 31, 1961",
+    "description":""
+}
+---
 
 ====== Letter to: M. M. Malhotra ======
 

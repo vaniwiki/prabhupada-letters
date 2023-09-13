@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Shastri — August 20, 1974~~
-~~bc: Mr. Shastri — August 20, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Shastri — August 20, 1974",
+    "h1":"Mr. Shastri — August 20, 1974",
+    "title":"Letter to: Mr. Shastri — August 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Shastri ======
 

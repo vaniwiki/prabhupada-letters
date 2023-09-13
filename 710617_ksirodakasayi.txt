@@ -1,5 +1,11 @@
-~~Title: Letter to: Ksirodakasayi — June 17, 1971~~
-~~bc: Ksirodakasayi — June 17, 1971~~
+---json
+{
+    "name":"Letter to: Ksirodakasayi — June 17, 1971",
+    "h1":"Ksirodakasayi — June 17, 1971",
+    "title":"Letter to: Ksirodakasayi — June 17, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Ksirodakasayi ======
 

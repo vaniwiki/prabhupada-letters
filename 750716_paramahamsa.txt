@@ -1,5 +1,11 @@
-~~Title: Letter to: Paramahamsa — July 16, 1975~~
-~~bc: Paramahamsa — July 16, 1975~~
+---json
+{
+    "name":"Letter to: Paramahamsa — July 16, 1975",
+    "h1":"Paramahamsa — July 16, 1975",
+    "title":"Letter to: Paramahamsa — July 16, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Paramahamsa ======
 

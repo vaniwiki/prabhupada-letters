@@ -1,5 +1,11 @@
-~~Title: Letter to: Candravali — November 26, 1968~~
-~~bc: Candravali — November 26, 1968~~
+---json
+{
+    "name":"Letter to: Candravali — November 26, 1968",
+    "h1":"Candravali — November 26, 1968",
+    "title":"Letter to: Candravali — November 26, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Candravali ======
 

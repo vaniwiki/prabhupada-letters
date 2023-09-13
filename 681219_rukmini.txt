@@ -1,5 +1,11 @@
-~~Title: Letter to: Rukmini — December 19, 1968~~
-~~bc: Rukmini — December 19, 1968~~
+---json
+{
+    "name":"Letter to: Rukmini — December 19, 1968",
+    "h1":"Rukmini — December 19, 1968",
+    "title":"Letter to: Rukmini — December 19, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Rukmini ======
 

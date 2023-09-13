@@ -1,5 +1,11 @@
-~~Title: Letter to: Pramatha Natha Roy — November 5, 1961~~
-~~bc: Pramatha Natha Roy — November 5, 1961~~
+---json
+{
+    "name":"Letter to: Pramatha Natha Roy — November 5, 1961",
+    "h1":"Pramatha Natha Roy — November 5, 1961",
+    "title":"Letter to: Pramatha Natha Roy — November 5, 1961",
+    "description":""
+}
+---
 
 ====== Letter to: Pramatha Natha Roy ======
 

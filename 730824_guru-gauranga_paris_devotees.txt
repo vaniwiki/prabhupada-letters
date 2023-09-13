@@ -1,5 +1,11 @@
-~~Title: Letter to: Guru-gauranga, Paris Devotees — August 24, 1973~~
-~~bc: Guru-gauranga, Paris Devotees — August 24, 1973~~
+---json
+{
+    "name":"Letter to: Guru-gauranga, Paris Devotees — August 24, 1973",
+    "h1":"Guru-gauranga, Paris Devotees — August 24, 1973",
+    "title":"Letter to: Guru-gauranga, Paris Devotees — August 24, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Guru-gauranga, Paris Devotees ======
 

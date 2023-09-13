@@ -1,5 +1,11 @@
-~~Title: Letter to: Minister in charge of Immigration — November 24, 1973~~
-~~bc: Minister in charge of Immigration — November 24, 1973~~
+---json
+{
+    "name":"Letter to: Minister in charge of Immigration — November 24, 1973",
+    "h1":"Minister in charge of Immigration — November 24, 1973",
+    "title":"Letter to: Minister in charge of Immigration — November 24, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Minister in charge of Immigration ======
 

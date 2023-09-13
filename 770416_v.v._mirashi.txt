@@ -1,5 +1,11 @@
-~~Title: Letter to: V.V. Mirashi — April 16, 1977~~
-~~bc: V.V. Mirashi — April 16, 1977~~
+---json
+{
+    "name":"Letter to: V.V. Mirashi — April 16, 1977",
+    "h1":"V.V. Mirashi — April 16, 1977",
+    "title":"Letter to: V.V. Mirashi — April 16, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: V.V. Mirashi ======
 

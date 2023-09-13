@@ -1,5 +1,11 @@
-~~Title: Letter to: Sankarsana — September 7, 1971~~
-~~bc: Sankarsana — September 7, 1971~~
+---json
+{
+    "name":"Letter to: Sankarsana — September 7, 1971",
+    "h1":"Sankarsana — September 7, 1971",
+    "title":"Letter to: Sankarsana — September 7, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Sankarsana ======
 

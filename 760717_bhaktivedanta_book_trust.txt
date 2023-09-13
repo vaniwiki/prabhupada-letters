@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhaktivedanta Book Trust — July 17, 1976~~
-~~bc: Bhaktivedanta Book Trust — July 17, 1976~~
+---json
+{
+    "name":"Letter to: Bhaktivedanta Book Trust — July 17, 1976",
+    "h1":"Bhaktivedanta Book Trust — July 17, 1976",
+    "title":"Letter to: Bhaktivedanta Book Trust — July 17, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Bhaktivedanta Book Trust ======
 

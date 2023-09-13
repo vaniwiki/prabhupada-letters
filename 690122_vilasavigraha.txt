@@ -1,5 +1,11 @@
-~~Title: Letter to: Vilasavigraha — January 22, 1969~~
-~~bc: Vilasavigraha — January 22, 1969~~
+---json
+{
+    "name":"Letter to: Vilasavigraha — January 22, 1969",
+    "h1":"Vilasavigraha — January 22, 1969",
+    "title":"Letter to: Vilasavigraha — January 22, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Vilasavigraha ======
 

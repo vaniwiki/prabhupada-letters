@@ -1,5 +1,11 @@
-~~Title: Letter to: Dipak Kanti Chowdhury — February 3, 1976~~
-~~bc: Dipak Kanti Chowdhury — February 3, 1976~~
+---json
+{
+    "name":"Letter to: Dipak Kanti Chowdhury — February 3, 1976",
+    "h1":"Dipak Kanti Chowdhury — February 3, 1976",
+    "title":"Letter to: Dipak Kanti Chowdhury — February 3, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dipak Kanti Chowdhury ======
 

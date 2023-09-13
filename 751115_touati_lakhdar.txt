@@ -1,5 +1,11 @@
-~~Title: Letter to: Touati Lakhdar — November 15, 1975~~
-~~bc: Touati Lakhdar — November 15, 1975~~
+---json
+{
+    "name":"Letter to: Touati Lakhdar — November 15, 1975",
+    "h1":"Touati Lakhdar — November 15, 1975",
+    "title":"Letter to: Touati Lakhdar — November 15, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Touati Lakhdar ======
 

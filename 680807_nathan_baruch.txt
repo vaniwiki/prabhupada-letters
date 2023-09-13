@@ -1,5 +1,11 @@
-~~Title: Letter to: Nathan Baruch — August 7, 1968~~
-~~bc: Nathan Baruch — August 7, 1968~~
+---json
+{
+    "name":"Letter to: Nathan Baruch — August 7, 1968",
+    "h1":"Nathan Baruch — August 7, 1968",
+    "title":"Letter to: Nathan Baruch — August 7, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Nathan Baruch ======
 

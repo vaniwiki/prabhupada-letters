@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayananda, Kartikeya, Syama, Dorothy, Visnujana, Dan, Tom, Russell, Michael, Krsna Devi, others — August 26, 1968~~
-~~bc: Jayananda, Kartikeya, Syama, Dorothy, Visnujana, Dan, Tom, Russell, Michael, Krsna Devi, others — August 26, 1968~~
+---json
+{
+    "name":"Letter to: Jayananda, Kartikeya, Syama, Dorothy, Visnujana, Dan, Tom, Russell, Michael, Krsna Devi, others — August 26, 1968",
+    "h1":"Jayananda, Kartikeya, Syama, Dorothy, Visnujana, Dan, Tom, Russell, Michael, Krsna Devi, others — August 26, 1968",
+    "title":"Letter to: Jayananda, Kartikeya, Syama, Dorothy, Visnujana, Dan, Tom, Russell, Michael, Krsna Devi, others — August 26, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Jayananda, Kartikeya, Syama, Dorothy, Visnujana, Dan, Tom, Russell, Michael, Krsna Devi, others ======
 

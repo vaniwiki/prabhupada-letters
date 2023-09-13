@@ -1,5 +1,11 @@
-~~Title: Letter to: Tamala Krsna, Giriraja, Manusvi — November 7, 1972~~
-~~bc: Tamala Krsna, Giriraja, Manusvi — November 7, 1972~~
+---json
+{
+    "name":"Letter to: Tamala Krsna, Giriraja, Manusvi — November 7, 1972",
+    "h1":"Tamala Krsna, Giriraja, Manusvi — November 7, 1972",
+    "title":"Letter to: Tamala Krsna, Giriraja, Manusvi — November 7, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Tamala Krsna, Giriraja, Manusvi ======
 

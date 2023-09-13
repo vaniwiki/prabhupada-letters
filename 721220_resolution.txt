@@ -1,5 +1,11 @@
-~~Title: Resolution — December 20, 1972~~
-~~bc: Resolution — December 20, 1972~~
+---json
+{
+    "name":"Resolution — December 20, 1972",
+    "h1":"Resolution — December 20, 1972",
+    "title":"Resolution — December 20, 1972",
+    "description":""
+}
+---
 
 ====== Resolution ======
 

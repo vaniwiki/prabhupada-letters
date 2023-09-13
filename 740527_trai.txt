@@ -1,5 +1,11 @@
-~~Title: Letter to: Trai — May 27, 1974~~
-~~bc: Trai — May 27, 1974~~
+---json
+{
+    "name":"Letter to: Trai — May 27, 1974",
+    "h1":"Trai — May 27, 1974",
+    "title":"Letter to: Trai — May 27, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Trai ======
 

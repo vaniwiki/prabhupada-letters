@@ -1,5 +1,11 @@
-~~Title: Letter to: Ballabhi — May 5, 1967~~
-~~bc: Ballabhi — May 5, 1967~~
+---json
+{
+    "name":"Letter to: Ballabhi — May 5, 1967",
+    "h1":"Ballabhi — May 5, 1967",
+    "title":"Letter to: Ballabhi — May 5, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Ballabhi ======
 

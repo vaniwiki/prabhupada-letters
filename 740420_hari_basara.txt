@@ -1,5 +1,11 @@
-~~Title: Letter to: Hari basara — April 20, 1974~~
-~~bc: Hari basara — April 20, 1974~~
+---json
+{
+    "name":"Letter to: Hari basara — April 20, 1974",
+    "h1":"Hari basara — April 20, 1974",
+    "title":"Letter to: Hari basara — April 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Hari basara ======
 

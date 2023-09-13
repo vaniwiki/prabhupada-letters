@@ -1,5 +1,11 @@
-~~Title: Letter to: S.P. Malhotra — February 5, 1977~~
-~~bc: S.P. Malhotra — February 5, 1977~~
+---json
+{
+    "name":"Letter to: S.P. Malhotra — February 5, 1977",
+    "h1":"S.P. Malhotra — February 5, 1977",
+    "title":"Letter to: S.P. Malhotra — February 5, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: S.P. Malhotra ======
 

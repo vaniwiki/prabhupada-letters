@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Rameshchandra Lalidji — August 20, 1974~~
-~~bc: Mr. Rameshchandra Lalidji — August 20, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Rameshchandra Lalidji — August 20, 1974",
+    "h1":"Mr. Rameshchandra Lalidji — August 20, 1974",
+    "title":"Letter to: Mr. Rameshchandra Lalidji — August 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Rameshchandra Lalidji ======
 

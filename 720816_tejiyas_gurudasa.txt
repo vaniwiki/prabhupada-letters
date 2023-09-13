@@ -1,5 +1,11 @@
-~~Title: Letter to: Tejiyas, Gurudasa — August 16, 1972~~
-~~bc: Tejiyas, Gurudasa — August 16, 1972~~
+---json
+{
+    "name":"Letter to: Tejiyas, Gurudasa — August 16, 1972",
+    "h1":"Tejiyas, Gurudasa — August 16, 1972",
+    "title":"Letter to: Tejiyas, Gurudasa — August 16, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Tejiyas, Gurudasa ======
 

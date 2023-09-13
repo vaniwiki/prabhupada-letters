@@ -1,5 +1,11 @@
-~~Title: Letter to: Sriman Radha Mohan das Brahmacary — March 8, 1968~~
-~~bc: Sriman Radha Mohan das Brahmacary — March 8, 1968~~
+---json
+{
+    "name":"Letter to: Sriman Radha Mohan das Brahmacary — March 8, 1968",
+    "h1":"Sriman Radha Mohan das Brahmacary — March 8, 1968",
+    "title":"Letter to: Sriman Radha Mohan das Brahmacary — March 8, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Sriman Radha Mohan das Brahmacary ======
 

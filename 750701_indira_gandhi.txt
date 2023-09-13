@@ -1,5 +1,11 @@
-~~Title: Letter to: Indira Gandhi — July 1, 1975~~
-~~bc: Indira Gandhi — July 1, 1975~~
+---json
+{
+    "name":"Letter to: Indira Gandhi — July 1, 1975",
+    "h1":"Indira Gandhi — July 1, 1975",
+    "title":"Letter to: Indira Gandhi — July 1, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Indira Gandhi ======
 

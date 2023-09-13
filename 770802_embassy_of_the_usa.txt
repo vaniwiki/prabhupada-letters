@@ -1,5 +1,11 @@
-~~Title: Letter to: Embassy of the USA — August 2, 1977~~
-~~bc: Embassy of the USA — August 2, 1977~~
+---json
+{
+    "name":"Letter to: Embassy of the USA — August 2, 1977",
+    "h1":"Embassy of the USA — August 2, 1977",
+    "title":"Letter to: Embassy of the USA — August 2, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Embassy of the USA ======
 

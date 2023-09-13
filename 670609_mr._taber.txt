@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Taber — June 9, 1967~~
-~~bc: Mr. Taber — June 9, 1967~~
+---json
+{
+    "name":"Letter to: Mr. Taber — June 9, 1967",
+    "h1":"Mr. Taber — June 9, 1967",
+    "title":"Letter to: Mr. Taber — June 9, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Taber ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sukadeva 6 — December 5, 1973~~
-~~bc: Sukadeva 6 — December 5, 1973~~
+---json
+{
+    "name":"Letter to: Sukadeva 6 — December 5, 1973",
+    "h1":"Sukadeva 6 — December 5, 1973",
+    "title":"Letter to: Sukadeva 6 — December 5, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Sukadeva 6 ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Mrs. Blasko — April 21, 1976~~
-~~bc: Mrs. Blasko — April 21, 1976~~
+---json
+{
+    "name":"Letter to: Mrs. Blasko — April 21, 1976",
+    "h1":"Mrs. Blasko — April 21, 1976",
+    "title":"Letter to: Mrs. Blasko — April 21, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mrs. Blasko ======
 

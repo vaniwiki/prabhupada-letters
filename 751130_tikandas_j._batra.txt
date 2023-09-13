@@ -1,5 +1,11 @@
-~~Title: Letter to: Tikandas J. Batra — November 30, 1975~~
-~~bc: Tikandas J. Batra — November 30, 1975~~
+---json
+{
+    "name":"Letter to: Tikandas J. Batra — November 30, 1975",
+    "h1":"Tikandas J. Batra — November 30, 1975",
+    "title":"Letter to: Tikandas J. Batra — November 30, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Tikandas J. Batra ======
 

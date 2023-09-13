@@ -1,5 +1,11 @@
-~~Title: Letter to: John H. Morgan — January 16, 1971~~
-~~bc: John H. Morgan — January 16, 1971~~
+---json
+{
+    "name":"Letter to: John H. Morgan — January 16, 1971",
+    "h1":"John H. Morgan — January 16, 1971",
+    "title":"Letter to: John H. Morgan — January 16, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: John H. Morgan ======
 

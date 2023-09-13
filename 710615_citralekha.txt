@@ -1,5 +1,11 @@
-~~Title: Letter to: Citralekha — June 15, 1971~~
-~~bc: Citralekha — June 15, 1971~~
+---json
+{
+    "name":"Letter to: Citralekha — June 15, 1971",
+    "h1":"Citralekha — June 15, 1971",
+    "title":"Letter to: Citralekha — June 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Citralekha ======
 

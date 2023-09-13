@@ -1,5 +1,11 @@
-~~Title: Letter to: Dhananjaya, Aksayananda — June 18, 1975~~
-~~bc: Dhananjaya, Aksayananda — June 18, 1975~~
+---json
+{
+    "name":"Letter to: Dhananjaya, Aksayananda — June 18, 1975",
+    "h1":"Dhananjaya, Aksayananda — June 18, 1975",
+    "title":"Letter to: Dhananjaya, Aksayananda — June 18, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dhananjaya, Aksayananda ======
 

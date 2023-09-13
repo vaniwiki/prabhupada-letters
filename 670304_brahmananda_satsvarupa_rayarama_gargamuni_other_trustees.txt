@@ -1,5 +1,11 @@
-~~Title: Letter to: Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees — March 4, 1967~~
-~~bc: Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees — March 4, 1967~~
+---json
+{
+    "name":"Letter to: Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees — March 4, 1967",
+    "h1":"Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees — March 4, 1967",
+    "title":"Letter to: Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees — March 4, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees ======
 

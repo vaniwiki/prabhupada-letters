@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Karsan — December 2, 1976~~
-~~bc: Mr. Karsan — December 2, 1976~~
+---json
+{
+    "name":"Letter to: Mr. Karsan — December 2, 1976",
+    "h1":"Mr. Karsan — December 2, 1976",
+    "title":"Letter to: Mr. Karsan — December 2, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Karsan ======
 

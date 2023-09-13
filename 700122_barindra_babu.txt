@@ -1,5 +1,11 @@
-~~Title: Letter to: Barindra Babu — January 22, 1970~~
-~~bc: Barindra Babu — January 22, 1970~~
+---json
+{
+    "name":"Letter to: Barindra Babu — January 22, 1970",
+    "h1":"Barindra Babu — January 22, 1970",
+    "title":"Letter to: Barindra Babu — January 22, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Barindra Babu ======
 

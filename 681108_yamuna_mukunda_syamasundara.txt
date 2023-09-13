@@ -1,5 +1,11 @@
-~~Title: Letter to: Yamuna, Mukunda, Syamasundara — November 8, 1968~~
-~~bc: Yamuna, Mukunda, Syamasundara — November 8, 1968~~
+---json
+{
+    "name":"Letter to: Yamuna, Mukunda, Syamasundara — November 8, 1968",
+    "h1":"Yamuna, Mukunda, Syamasundara — November 8, 1968",
+    "title":"Letter to: Yamuna, Mukunda, Syamasundara — November 8, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Yamuna, Mukunda, Syamasundara ======
 

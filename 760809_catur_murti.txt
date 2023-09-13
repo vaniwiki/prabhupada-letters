@@ -1,5 +1,11 @@
-~~Title: Letter to: Catur Murti — August 9, 1976~~
-~~bc: Catur Murti — August 9, 1976~~
+---json
+{
+    "name":"Letter to: Catur Murti — August 9, 1976",
+    "h1":"Catur Murti — August 9, 1976",
+    "title":"Letter to: Catur Murti — August 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Catur Murti ======
 

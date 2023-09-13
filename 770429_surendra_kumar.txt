@@ -1,5 +1,11 @@
-~~Title: Letter to: Surendra Kumar — April 29, 1977~~
-~~bc: Surendra Kumar — April 29, 1977~~
+---json
+{
+    "name":"Letter to: Surendra Kumar — April 29, 1977",
+    "h1":"Surendra Kumar — April 29, 1977",
+    "title":"Letter to: Surendra Kumar — April 29, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Surendra Kumar ======
 

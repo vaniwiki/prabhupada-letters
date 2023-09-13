@@ -1,5 +1,11 @@
-~~Title: Letter to: Ādi-kesava, Dhrstadyumna — November 23, 1976~~
-~~bc: Ādi-kesava, Dhrstadyumna — November 23, 1976~~
+---json
+{
+    "name":"Letter to: Ādi-kesava, Dhrstadyumna — November 23, 1976",
+    "h1":"Ādi-kesava, Dhrstadyumna — November 23, 1976",
+    "title":"Letter to: Ādi-kesava, Dhrstadyumna — November 23, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Ādi-kesava, Dhrstadyumna ======
 

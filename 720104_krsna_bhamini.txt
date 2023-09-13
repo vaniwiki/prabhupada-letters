@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsna Bhamini — January 4, 1972~~
-~~bc: Krsna Bhamini — January 4, 1972~~
+---json
+{
+    "name":"Letter to: Krsna Bhamini — January 4, 1972",
+    "h1":"Krsna Bhamini — January 4, 1972",
+    "title":"Letter to: Krsna Bhamini — January 4, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Krsna Bhamini ======
 

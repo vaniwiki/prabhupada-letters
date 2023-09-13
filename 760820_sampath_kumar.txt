@@ -1,5 +1,11 @@
-~~Title: Letter to: Sampath Kumar — August 20, 1976~~
-~~bc: Sampath Kumar — August 20, 1976~~
+---json
+{
+    "name":"Letter to: Sampath Kumar — August 20, 1976",
+    "h1":"Sampath Kumar — August 20, 1976",
+    "title":"Letter to: Sampath Kumar — August 20, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sampath Kumar ======
 

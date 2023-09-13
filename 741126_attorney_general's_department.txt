@@ -1,5 +1,11 @@
-~~Title: Letter to: Attorney General’s Department — November 26, 1974~~
-~~bc: Attorney General's Department — November 26, 1974~~
+---json
+{
+    "name":"Letter to: Attorney General’s Department — November 26, 1974",
+    "h1":"Attorney General's Department — November 26, 1974",
+    "title":"Letter to: Attorney General’s Department — November 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Attorney General’s Department ======
 

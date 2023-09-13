@@ -1,5 +1,11 @@
-~~Title: Letter to: Brahmananda, Hayagriva, Kirtanananda, Satsvarupa, Gargamuni, Acyutananda, Jadurani — January 19, 1967~~
-~~bc: Brahmananda, Hayagriva, Kirtanananda, Satsvarupa, Gargamuni, Acyutananda, Jadurani — January 19, 1967~~
+---json
+{
+    "name":"Letter to: Brahmananda, Hayagriva, Kirtanananda, Satsvarupa, Gargamuni, Acyutananda, Jadurani — January 19, 1967",
+    "h1":"Brahmananda, Hayagriva, Kirtanananda, Satsvarupa, Gargamuni, Acyutananda, Jadurani — January 19, 1967",
+    "title":"Letter to: Brahmananda, Hayagriva, Kirtanananda, Satsvarupa, Gargamuni, Acyutananda, Jadurani — January 19, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Brahmananda, Hayagriva, Kirtanananda, Satsvarupa, Gargamuni, Acyutananda, Jadurani ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Tulasi — June 15, 1970~~
-~~bc: Tulasi — June 15, 1970~~
+---json
+{
+    "name":"Letter to: Tulasi — June 15, 1970",
+    "h1":"Tulasi — June 15, 1970",
+    "title":"Letter to: Tulasi — June 15, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Tulasi ======
 

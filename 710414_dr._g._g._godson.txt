@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. G. G. Godson — April 14, 1971~~
-~~bc: Dr. G. G. Godson — April 14, 1971~~
+---json
+{
+    "name":"Letter to: Dr. G. G. Godson — April 14, 1971",
+    "h1":"Dr. G. G. Godson — April 14, 1971",
+    "title":"Letter to: Dr. G. G. Godson — April 14, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. G. G. Godson ======
 

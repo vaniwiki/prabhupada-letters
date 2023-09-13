@@ -1,5 +1,11 @@
-~~Title: Letter to: Aditya Sarkar — July 30, 1971~~
-~~bc: Aditya Sarkar — July 30, 1971~~
+---json
+{
+    "name":"Letter to: Aditya Sarkar — July 30, 1971",
+    "h1":"Aditya Sarkar — July 30, 1971",
+    "title":"Letter to: Aditya Sarkar — July 30, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Aditya Sarkar ======
 

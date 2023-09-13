@@ -1,5 +1,11 @@
-~~Title: Letter to: S. N. Mukurji — October 16, 1975~~
-~~bc: S. N. Mukurji — October 16, 1975~~
+---json
+{
+    "name":"Letter to: S. N. Mukurji — October 16, 1975",
+    "h1":"S. N. Mukurji — October 16, 1975",
+    "title":"Letter to: S. N. Mukurji — October 16, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: S. N. Mukurji ======
 

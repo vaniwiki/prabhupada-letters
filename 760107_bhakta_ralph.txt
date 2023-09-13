@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhakta Ralph — January 7, 1976~~
-~~bc: Bhakta Ralph — January 7, 1976~~
+---json
+{
+    "name":"Letter to: Bhakta Ralph — January 7, 1976",
+    "h1":"Bhakta Ralph — January 7, 1976",
+    "title":"Letter to: Bhakta Ralph — January 7, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Bhakta Ralph ======
 

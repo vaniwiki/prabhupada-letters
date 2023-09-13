@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahamsa Swami — February, 1977~~
-~~bc: Mahamsa Swami — February, 1977~~
+---json
+{
+    "name":"Letter to: Mahamsa Swami — February, 1977",
+    "h1":"Mahamsa Swami — February, 1977",
+    "title":"Letter to: Mahamsa Swami — February, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Mahamsa Swami ======
 

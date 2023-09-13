@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Krishan Pandit — June 27, 1967~~
-~~bc: Sri Krishan Pandit — June 27, 1967~~
+---json
+{
+    "name":"Letter to: Sri Krishan Pandit — June 27, 1967",
+    "h1":"Sri Krishan Pandit — June 27, 1967",
+    "title":"Letter to: Sri Krishan Pandit — June 27, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Krishan Pandit ======
 

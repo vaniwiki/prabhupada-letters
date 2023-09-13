@@ -1,5 +1,11 @@
-~~Title: Letter to: Kirtida Kanyaka — May 20, 1973~~
-~~bc: Kirtida Kanyaka — May 20, 1973~~
+---json
+{
+    "name":"Letter to: Kirtida Kanyaka — May 20, 1973",
+    "h1":"Kirtida Kanyaka — May 20, 1973",
+    "title":"Letter to: Kirtida Kanyaka — May 20, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Kirtida Kanyaka ======
 

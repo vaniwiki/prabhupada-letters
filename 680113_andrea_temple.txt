@@ -1,5 +1,11 @@
-~~Title: Letter to: Andrea Temple — January 13, 1968~~
-~~bc: Andrea Temple — January 13, 1968~~
+---json
+{
+    "name":"Letter to: Andrea Temple — January 13, 1968",
+    "h1":"Andrea Temple — January 13, 1968",
+    "title":"Letter to: Andrea Temple — January 13, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Andrea Temple ======
 

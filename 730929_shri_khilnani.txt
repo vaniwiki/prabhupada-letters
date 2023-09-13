@@ -1,5 +1,11 @@
-~~Title: Letter to: Shri Khilnani — September 29, 1973~~
-~~bc: Shri Khilnani — September 29, 1973~~
+---json
+{
+    "name":"Letter to: Shri Khilnani — September 29, 1973",
+    "h1":"Shri Khilnani — September 29, 1973",
+    "title":"Letter to: Shri Khilnani — September 29, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Shri Khilnani ======
 

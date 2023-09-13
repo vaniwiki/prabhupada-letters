@@ -1,5 +1,11 @@
-~~Title: Letter to: Narinder Natha Bagai — April 17, 1975~~
-~~bc: Narinder Natha Bagai — April 17, 1975~~
+---json
+{
+    "name":"Letter to: Narinder Natha Bagai — April 17, 1975",
+    "h1":"Narinder Natha Bagai — April 17, 1975",
+    "title":"Letter to: Narinder Natha Bagai — April 17, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Narinder Natha Bagai ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: W.J. Carpenter — November 30, 1975~~
-~~bc: W.J. Carpenter — November 30, 1975~~
+---json
+{
+    "name":"Letter to: W.J. Carpenter — November 30, 1975",
+    "h1":"W.J. Carpenter — November 30, 1975",
+    "title":"Letter to: W.J. Carpenter — November 30, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: W.J. Carpenter ======
 

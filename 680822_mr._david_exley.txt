@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. David Exley — August 22, 1968~~
-~~bc: Mr. David Exley — August 22, 1968~~
+---json
+{
+    "name":"Letter to: Mr. David Exley — August 22, 1968",
+    "h1":"Mr. David Exley — August 22, 1968",
+    "title":"Letter to: Mr. David Exley — August 22, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. David Exley ======
 

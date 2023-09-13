@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsna Devi — March 14, 1975~~
-~~bc: Krsna Devi — March 14, 1975~~
+---json
+{
+    "name":"Letter to: Krsna Devi — March 14, 1975",
+    "h1":"Krsna Devi — March 14, 1975",
+    "title":"Letter to: Krsna Devi — March 14, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Krsna Devi ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: David R. Schomaker — August 9, 1971~~
-~~bc: David R. Schomaker — August 9, 1971~~
+---json
+{
+    "name":"Letter to: David R. Schomaker — August 9, 1971",
+    "h1":"David R. Schomaker — August 9, 1971",
+    "title":"Letter to: David R. Schomaker — August 9, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: David R. Schomaker ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Postmaster — July 4, 1977~~
-~~bc: Postmaster — July 4, 1977~~
+---json
+{
+    "name":"Letter to: Postmaster — July 4, 1977",
+    "h1":"Postmaster — July 4, 1977",
+    "title":"Letter to: Postmaster — July 4, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Postmaster ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Tarkikchuramoni — April 8, 1972~~
-~~bc: Tarkikchuramoni — April 8, 1972~~
+---json
+{
+    "name":"Letter to: Tarkikchuramoni — April 8, 1972",
+    "h1":"Tarkikchuramoni — April 8, 1972",
+    "title":"Letter to: Tarkikchuramoni — April 8, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Tarkikchuramoni ======
 

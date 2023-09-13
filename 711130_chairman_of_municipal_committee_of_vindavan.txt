@@ -1,5 +1,11 @@
-~~Title: Letter to: Chairman of Municipal Committee of Vindavan — November 30, 1971~~
-~~bc: Chairman of Municipal Committee of Vindavan — November 30, 1971~~
+---json
+{
+    "name":"Letter to: Chairman of Municipal Committee of Vindavan — November 30, 1971",
+    "h1":"Chairman of Municipal Committee of Vindavan — November 30, 1971",
+    "title":"Letter to: Chairman of Municipal Committee of Vindavan — November 30, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Chairman of Municipal Committee of Vindavan ======
 

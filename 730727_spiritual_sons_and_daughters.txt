@@ -1,5 +1,11 @@
-~~Title: Letter to: Spiritual Sons and Daughters — July 27, 1973~~
-~~bc: Spiritual Sons and Daughters — July 27, 1973~~
+---json
+{
+    "name":"Letter to: Spiritual Sons and Daughters — July 27, 1973",
+    "h1":"Spiritual Sons and Daughters — July 27, 1973",
+    "title":"Letter to: Spiritual Sons and Daughters — July 27, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Spiritual Sons and Daughters ======
 

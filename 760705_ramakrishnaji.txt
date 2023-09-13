@@ -1,5 +1,11 @@
-~~Title: Letter to: Ramakrishnaji — July 5, 1976~~
-~~bc: Ramakrishnaji — July 5, 1976~~
+---json
+{
+    "name":"Letter to: Ramakrishnaji — July 5, 1976",
+    "h1":"Ramakrishnaji — July 5, 1976",
+    "title":"Letter to: Ramakrishnaji — July 5, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Ramakrishnaji ======
 

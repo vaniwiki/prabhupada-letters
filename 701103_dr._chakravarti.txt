@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Chakravarti — November 3, 1970~~
-~~bc: Dr. Chakravarti — November 3, 1970~~
+---json
+{
+    "name":"Letter to: Dr. Chakravarti — November 3, 1970",
+    "h1":"Dr. Chakravarti — November 3, 1970",
+    "title":"Letter to: Dr. Chakravarti — November 3, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Chakravarti ======
 

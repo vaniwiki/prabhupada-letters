@@ -1,5 +1,11 @@
-~~Title: Letter to: Vaikunthanatha, Patita Pavana — February 4, 1972~~
-~~bc: Vaikunthanatha, Patita Pavana — February 4, 1972~~
+---json
+{
+    "name":"Letter to: Vaikunthanatha, Patita Pavana — February 4, 1972",
+    "h1":"Vaikunthanatha, Patita Pavana — February 4, 1972",
+    "title":"Letter to: Vaikunthanatha, Patita Pavana — February 4, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Vaikunthanatha, Patita Pavana ======
 

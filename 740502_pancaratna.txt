@@ -1,5 +1,11 @@
-~~Title: Letter to: Pancaratna — May 2, 1974~~
-~~bc: Pancaratna — May 2, 1974~~
+---json
+{
+    "name":"Letter to: Pancaratna — May 2, 1974",
+    "h1":"Pancaratna — May 2, 1974",
+    "title":"Letter to: Pancaratna — May 2, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Pancaratna ======
 

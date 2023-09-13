@@ -1,5 +1,11 @@
-~~Title: Letter to: Gandhi Memorial Fund — July 5, 1949~~
-~~bc: Gandhi Memorial Fund — July 5, 1949~~
+---json
+{
+    "name":"Letter to: Gandhi Memorial Fund — July 5, 1949",
+    "h1":"Gandhi Memorial Fund — July 5, 1949",
+    "title":"Letter to: Gandhi Memorial Fund — July 5, 1949",
+    "description":""
+}
+---
 
 ====== Letter to: Gandhi Memorial Fund ======
 

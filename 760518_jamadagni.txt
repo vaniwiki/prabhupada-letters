@@ -1,5 +1,11 @@
-~~Title: Letter to: Jamadagni — May 18, 1976~~
-~~bc: Jamadagni — May 18, 1976~~
+---json
+{
+    "name":"Letter to: Jamadagni — May 18, 1976",
+    "h1":"Jamadagni — May 18, 1976",
+    "title":"Letter to: Jamadagni — May 18, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Jamadagni ======
 

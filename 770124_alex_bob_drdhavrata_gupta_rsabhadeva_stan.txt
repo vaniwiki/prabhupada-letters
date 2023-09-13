@@ -1,5 +1,11 @@
-~~Title: Letter to: Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan — January 24, 1977~~
-~~bc: Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan — January 24, 1977~~
+---json
+{
+    "name":"Letter to: Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan — January 24, 1977",
+    "h1":"Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan — January 24, 1977",
+    "title":"Letter to: Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan — January 24, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. S.T. Asnani — January 1, 1975~~
-~~bc: Mr. S.T. Asnani — January 1, 1975~~
+---json
+{
+    "name":"Letter to: Mr. S.T. Asnani — January 1, 1975",
+    "h1":"Mr. S.T. Asnani — January 1, 1975",
+    "title":"Letter to: Mr. S.T. Asnani — January 1, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. S.T. Asnani ======
 

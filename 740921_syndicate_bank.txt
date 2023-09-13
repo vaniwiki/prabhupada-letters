@@ -1,5 +1,11 @@
-~~Title: Letter to: Syndicate Bank — September 21, 1974~~
-~~bc: Syndicate Bank — September 21, 1974~~
+---json
+{
+    "name":"Letter to: Syndicate Bank — September 21, 1974",
+    "h1":"Syndicate Bank — September 21, 1974",
+    "title":"Letter to: Syndicate Bank — September 21, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Syndicate Bank ======
 

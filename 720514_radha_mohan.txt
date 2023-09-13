@@ -1,5 +1,11 @@
-~~Title: Letter to: Radha Mohan — May 14, 1972~~
-~~bc: Radha Mohan — May 14, 1972~~
+---json
+{
+    "name":"Letter to: Radha Mohan — May 14, 1972",
+    "h1":"Radha Mohan — May 14, 1972",
+    "title":"Letter to: Radha Mohan — May 14, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Radha Mohan ======
 

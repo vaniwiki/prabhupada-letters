@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Munshiji — February 18, 1957~~
-~~bc: Sri Munshiji — February 18, 1957~~
+---json
+{
+    "name":"Letter to: Sri Munshiji — February 18, 1957",
+    "h1":"Sri Munshiji — February 18, 1957",
+    "title":"Letter to: Sri Munshiji — February 18, 1957",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Munshiji ======
 

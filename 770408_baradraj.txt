@@ -1,5 +1,11 @@
-~~Title: Letter to: Baradraj — April 8, 1977~~
-~~bc: Baradraj — April 8, 1977~~
+---json
+{
+    "name":"Letter to: Baradraj — April 8, 1977",
+    "h1":"Baradraj — April 8, 1977",
+    "title":"Letter to: Baradraj — April 8, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Baradraj ======
 

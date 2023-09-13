@@ -1,5 +1,11 @@
-~~Title: Letter to: Nalinikanta, Ratnesvari — August 18, 1974~~
-~~bc: Nalinikanta, Ratnesvari — August 18, 1974~~
+---json
+{
+    "name":"Letter to: Nalinikanta, Ratnesvari — August 18, 1974",
+    "h1":"Nalinikanta, Ratnesvari — August 18, 1974",
+    "title":"Letter to: Nalinikanta, Ratnesvari — August 18, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Nalinikanta, Ratnesvari ======
 

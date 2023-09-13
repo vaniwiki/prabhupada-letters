@@ -1,5 +1,11 @@
-~~Title: Letter to: Karandhara, Tamala Krsna, Giriraja, Bhavananda — October 24, 1972~~
-~~bc: Karandhara, Tamala Krsna, Giriraja, Bhavananda — October 24, 1972~~
+---json
+{
+    "name":"Letter to: Karandhara, Tamala Krsna, Giriraja, Bhavananda — October 24, 1972",
+    "h1":"Karandhara, Tamala Krsna, Giriraja, Bhavananda — October 24, 1972",
+    "title":"Letter to: Karandhara, Tamala Krsna, Giriraja, Bhavananda — October 24, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Karandhara, Tamala Krsna, Giriraja, Bhavananda ======
 

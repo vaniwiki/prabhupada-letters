@@ -1,5 +1,11 @@
-~~Title: Letter to: Sar Maharaja — March 11, 1967~~
-~~bc: Sar Maharaja — March 11, 1967~~
+---json
+{
+    "name":"Letter to: Sar Maharaja — March 11, 1967",
+    "h1":"Sar Maharaja — March 11, 1967",
+    "title":"Letter to: Sar Maharaja — March 11, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Sar Maharaja ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Audulamidasa — October 16, 1975~~
-~~bc: Audulamidasa — October 16, 1975~~
+---json
+{
+    "name":"Letter to: Audulamidasa — October 16, 1975",
+    "h1":"Audulamidasa — October 16, 1975",
+    "title":"Letter to: Audulamidasa — October 16, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Audulamidasa ======
 

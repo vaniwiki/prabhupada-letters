@@ -1,5 +1,11 @@
-~~Title: Letter to: Hiranyagarbha — November 22, 1971~~
-~~bc: Hiranyagarbha — November 22, 1971~~
+---json
+{
+    "name":"Letter to: Hiranyagarbha — November 22, 1971",
+    "h1":"Hiranyagarbha — November 22, 1971",
+    "title":"Letter to: Hiranyagarbha — November 22, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Hiranyagarbha ======
 

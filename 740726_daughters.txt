@@ -1,5 +1,11 @@
-~~Title: Letter to: Daughters — July 26, 1974~~
-~~bc: Daughters — July 26, 1974~~
+---json
+{
+    "name":"Letter to: Daughters — July 26, 1974",
+    "h1":"Daughters — July 26, 1974",
+    "title":"Letter to: Daughters — July 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Daughters ======
 

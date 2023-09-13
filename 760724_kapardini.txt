@@ -1,5 +1,11 @@
-~~Title: Letter to: Kapardini — July 24, 1976~~
-~~bc: Kapardini — July 24, 1976~~
+---json
+{
+    "name":"Letter to: Kapardini — July 24, 1976",
+    "h1":"Kapardini — July 24, 1976",
+    "title":"Letter to: Kapardini — July 24, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Kapardini ======
 

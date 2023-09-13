@@ -1,5 +1,11 @@
-~~Title: Letter to: Punjab National Bank — Bombay, 19/11/1974~~
-~~bc: Punjab National Bank — Bombay, 19/11/1974~~
+---json
+{
+    "name":"Letter to: Punjab National Bank — Bombay, 19/11/1974",
+    "h1":"Punjab National Bank — Bombay, 19/11/1974",
+    "title":"Letter to: Punjab National Bank — Bombay, 19/11/1974",
+    "description":""
+}
+---
 
 ====== Letter to: Punjab National Bank ======
 

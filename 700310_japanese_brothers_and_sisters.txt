@@ -1,5 +1,11 @@
-~~Title: Letter to: Japanese brothers and sisters — March 10, 1970~~
-~~bc: Japanese brothers and sisters — March 10, 1970~~
+---json
+{
+    "name":"Letter to: Japanese brothers and sisters — March 10, 1970",
+    "h1":"Japanese brothers and sisters — March 10, 1970",
+    "title":"Letter to: Japanese brothers and sisters — March 10, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Japanese brothers and sisters ======
 

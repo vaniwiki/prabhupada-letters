@@ -1,5 +1,11 @@
-~~Title: Letter to: Cidananda — July 12, 1968~~
-~~bc: Cidananda — July 12, 1968~~
+---json
+{
+    "name":"Letter to: Cidananda — July 12, 1968",
+    "h1":"Cidananda — July 12, 1968",
+    "title":"Letter to: Cidananda — July 12, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Cidananda ======
 

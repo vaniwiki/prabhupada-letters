@@ -1,5 +1,11 @@
-~~Title: Letter to: Ideal Advertising Agency — October 22, 1975~~
-~~bc: Ideal Advertising Agency — October 22, 1975~~
+---json
+{
+    "name":"Letter to: Ideal Advertising Agency — October 22, 1975",
+    "h1":"Ideal Advertising Agency — October 22, 1975",
+    "title":"Letter to: Ideal Advertising Agency — October 22, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Ideal Advertising Agency ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhava Maharaja — March 8, 1975~~
-~~bc: Madhava Maharaja — March 8, 1975~~
+---json
+{
+    "name":"Letter to: Madhava Maharaja — March 8, 1975",
+    "h1":"Madhava Maharaja — March 8, 1975",
+    "title":"Letter to: Madhava Maharaja — March 8, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Madhava Maharaja ======
 

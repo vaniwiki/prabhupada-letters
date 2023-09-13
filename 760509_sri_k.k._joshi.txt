@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri K. K. Joshi — May 9, 1976~~
-~~bc: Sri K. K. Joshi — May 9, 1976~~
+---json
+{
+    "name":"Letter to: Sri K. K. Joshi — May 9, 1976",
+    "h1":"Sri K. K. Joshi — May 9, 1976",
+    "title":"Letter to: Sri K. K. Joshi — May 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri K. K. Joshi ======
 

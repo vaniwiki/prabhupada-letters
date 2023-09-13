@@ -1,5 +1,11 @@
-~~Title: Letter to: Mandakini — February 8, 1970~~
-~~bc: Mandakini — February 8, 1970~~
+---json
+{
+    "name":"Letter to: Mandakini — February 8, 1970",
+    "h1":"Mandakini — February 8, 1970",
+    "title":"Letter to: Mandakini — February 8, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Mandakini ======
 

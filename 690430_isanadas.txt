@@ -1,5 +1,11 @@
-~~Title: Letter to: Isanadas — April 30, 1969~~
-~~bc: Isanadas — April 30, 1969~~
+---json
+{
+    "name":"Letter to: Isanadas — April 30, 1969",
+    "h1":"Isanadas — April 30, 1969",
+    "title":"Letter to: Isanadas — April 30, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Isanadas ======
 

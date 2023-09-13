@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Tripathi — August 26, 1976~~
-~~bc: Sri Tripathi — August 26, 1976~~
+---json
+{
+    "name":"Letter to: Sri Tripathi — August 26, 1976",
+    "h1":"Sri Tripathi — August 26, 1976",
+    "title":"Letter to: Sri Tripathi — August 26, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Tripathi ======
 

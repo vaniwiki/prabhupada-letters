@@ -1,5 +1,11 @@
-~~Title: Letter to: Gaura Gopala (Govinda?) — September 6, 1976~~
-~~bc: Gaura Gopala (Govinda?) — September 6, 1976~~
+---json
+{
+    "name":"Letter to: Gaura Gopala (Govinda?) — September 6, 1976",
+    "h1":"Gaura Gopala (Govinda?) — September 6, 1976",
+    "title":"Letter to: Gaura Gopala (Govinda?) — September 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Gaura Gopala (Govinda?) ======
 

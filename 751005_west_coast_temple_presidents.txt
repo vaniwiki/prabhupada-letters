@@ -1,5 +1,11 @@
-~~Title: Letter to: West Coast Temple Presidents — October 5, 1975~~
-~~bc: West Coast Temple Presidents — October 5, 1975~~
+---json
+{
+    "name":"Letter to: West Coast Temple Presidents — October 5, 1975",
+    "h1":"West Coast Temple Presidents — October 5, 1975",
+    "title":"Letter to: West Coast Temple Presidents — October 5, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: West Coast Temple Presidents ======
 

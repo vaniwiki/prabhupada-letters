@@ -1,5 +1,11 @@
-~~Title: Letter to: Mrs. Tania Perera — October 15, 1976~~
-~~bc: Mrs. Tania Perera — October 15, 1976~~
+---json
+{
+    "name":"Letter to: Mrs. Tania Perera — October 15, 1976",
+    "h1":"Mrs. Tania Perera — October 15, 1976",
+    "title":"Letter to: Mrs. Tania Perera — October 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mrs. Tania Perera ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sacimata — November 12, 1975~~
-~~bc: Sacimata — November 12, 1975~~
+---json
+{
+    "name":"Letter to: Sacimata — November 12, 1975",
+    "h1":"Sacimata — November 12, 1975",
+    "title":"Letter to: Sacimata — November 12, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sacimata ======
 

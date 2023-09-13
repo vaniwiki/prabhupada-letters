@@ -1,5 +1,11 @@
-~~Title: Letter to: Tirthaji — March 10, 1971~~
-~~bc: Tirthaji — March 10, 1971~~
+---json
+{
+    "name":"Letter to: Tirthaji — March 10, 1971",
+    "h1":"Tirthaji — March 10, 1971",
+    "title":"Letter to: Tirthaji — March 10, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Tirthaji ======
 

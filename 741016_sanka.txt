@@ -1,5 +1,11 @@
-~~Title: Letter to: Sanka — October 16, 1974~~
-~~bc: Sanka — October 16, 1974~~
+---json
+{
+    "name":"Letter to: Sanka — October 16, 1974",
+    "h1":"Sanka — October 16, 1974",
+    "title":"Letter to: Sanka — October 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sanka ======
 

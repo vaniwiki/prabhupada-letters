@@ -1,5 +1,11 @@
-~~Title: Letter to: Akbar Ali Khan — February 24, 1975~~
-~~bc: Akbar Ali Khan — February 24, 1975~~
+---json
+{
+    "name":"Letter to: Akbar Ali Khan — February 24, 1975",
+    "h1":"Akbar Ali Khan — February 24, 1975",
+    "title":"Letter to: Akbar Ali Khan — February 24, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Akbar Ali Khan ======
 

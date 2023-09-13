@@ -1,5 +1,11 @@
-~~Title: Letter to: Ujjal — April 15, 1972~~
-~~bc: Ujjal — April 15, 1972~~
+---json
+{
+    "name":"Letter to: Ujjal — April 15, 1972",
+    "h1":"Ujjal — April 15, 1972",
+    "title":"Letter to: Ujjal — April 15, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Ujjal ======
 

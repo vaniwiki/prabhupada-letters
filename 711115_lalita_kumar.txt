@@ -1,5 +1,11 @@
-~~Title: Letter to: Lalita Kumar — November 15, 1971~~
-~~bc: Lalita Kumar — November 15, 1971~~
+---json
+{
+    "name":"Letter to: Lalita Kumar — November 15, 1971",
+    "h1":"Lalita Kumar — November 15, 1971",
+    "title":"Letter to: Lalita Kumar — November 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Lalita Kumar ======
 

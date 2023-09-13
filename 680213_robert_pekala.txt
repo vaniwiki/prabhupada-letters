@@ -1,5 +1,11 @@
-~~Title: Letter to: Robert Pekala — February 13, 1968~~
-~~bc: Robert Pekala — February 13, 1968~~
+---json
+{
+    "name":"Letter to: Robert Pekala — February 13, 1968",
+    "h1":"Robert Pekala — February 13, 1968",
+    "title":"Letter to: Robert Pekala — February 13, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Robert Pekala ======
 

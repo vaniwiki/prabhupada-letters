@@ -1,5 +1,11 @@
-~~Title: Letter to: Presidents of all centers in Europe and America — April 21, 1974~~
-~~bc: Presidents of all centers in Europe and America — April 21, 1974~~
+---json
+{
+    "name":"Letter to: Presidents of all centers in Europe and America — April 21, 1974",
+    "h1":"Presidents of all centers in Europe and America — April 21, 1974",
+    "title":"Letter to: Presidents of all centers in Europe and America — April 21, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Presidents of all centers in Europe and America ======
 

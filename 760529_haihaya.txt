@@ -1,5 +1,11 @@
-~~Title: Letter to: Haihaya — May 29, 1976~~
-~~bc: Haihaya — May 29, 1976~~
+---json
+{
+    "name":"Letter to: Haihaya — May 29, 1976",
+    "h1":"Haihaya — May 29, 1976",
+    "title":"Letter to: Haihaya — May 29, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Haihaya ======
 

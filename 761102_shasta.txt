@@ -1,5 +1,11 @@
-~~Title: Letter to: Shasta — November 2, 1976~~
-~~bc: Shasta — November 2, 1976~~
+---json
+{
+    "name":"Letter to: Shasta — November 2, 1976",
+    "h1":"Shasta — November 2, 1976",
+    "title":"Letter to: Shasta — November 2, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Shasta ======
 

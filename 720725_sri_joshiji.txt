@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Joshiji — July 25, 1972~~
-~~bc: Sri Joshiji — July 25, 1972~~
+---json
+{
+    "name":"Letter to: Sri Joshiji — July 25, 1972",
+    "h1":"Sri Joshiji — July 25, 1972",
+    "title":"Letter to: Sri Joshiji — July 25, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Joshiji ======
 

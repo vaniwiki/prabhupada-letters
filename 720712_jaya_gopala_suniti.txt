@@ -1,5 +1,11 @@
-~~Title: Letter to: Jaya Gopala, Suniti — July 12, 1972~~
-~~bc: Jaya Gopala, Suniti — July 12, 1972~~
+---json
+{
+    "name":"Letter to: Jaya Gopala, Suniti — July 12, 1972",
+    "h1":"Jaya Gopala, Suniti — July 12, 1972",
+    "title":"Letter to: Jaya Gopala, Suniti — July 12, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Jaya Gopala, Suniti ======
 

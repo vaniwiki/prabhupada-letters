@@ -1,5 +1,11 @@
-~~Title: Letter to: Sripada Nripen Babu — April 27, 1967~~
-~~bc: Sripada Nripen Babu — April 27, 1967~~
+---json
+{
+    "name":"Letter to: Sripada Nripen Babu — April 27, 1967",
+    "h1":"Sripada Nripen Babu — April 27, 1967",
+    "title":"Letter to: Sripada Nripen Babu — April 27, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Sripada Nripen Babu ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Citsukhananda — July 29, 1972~~
-~~bc: Citsukhananda — July 29, 1972~~
+---json
+{
+    "name":"Letter to: Citsukhananda — July 29, 1972",
+    "h1":"Citsukhananda — July 29, 1972",
+    "title":"Letter to: Citsukhananda — July 29, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Citsukhananda ======
 

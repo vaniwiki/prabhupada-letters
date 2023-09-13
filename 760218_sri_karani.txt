@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Karani — February 18, 1976~~
-~~bc: Sri Karani — February 18, 1976~~
+---json
+{
+    "name":"Letter to: Sri Karani — February 18, 1976",
+    "h1":"Sri Karani — February 18, 1976",
+    "title":"Letter to: Sri Karani — February 18, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Karani ======
 

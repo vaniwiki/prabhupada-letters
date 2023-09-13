@@ -1,5 +1,11 @@
-~~Title: Letter to: Justice A.C. Sen — February 26, 1976~~
-~~bc: Justice A.C. Sen — February 26, 1976~~
+---json
+{
+    "name":"Letter to: Justice A.C. Sen — February 26, 1976",
+    "h1":"Justice A.C. Sen — February 26, 1976",
+    "title":"Letter to: Justice A.C. Sen — February 26, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Justice A.C. Sen ======
 

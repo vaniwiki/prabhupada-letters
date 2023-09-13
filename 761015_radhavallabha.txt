@@ -1,5 +1,11 @@
-~~Title: Letter to: Radhavallabha — October 15, 1976~~
-~~bc: Radhavallabha — October 15, 1976~~
+---json
+{
+    "name":"Letter to: Radhavallabha — October 15, 1976",
+    "h1":"Radhavallabha — October 15, 1976",
+    "title":"Letter to: Radhavallabha — October 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Radhavallabha ======
 

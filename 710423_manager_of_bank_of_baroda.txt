@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager of Bank of Baroda — April 23, 1971~~
-~~bc: Manager of Bank of Baroda — April 23, 1971~~
+---json
+{
+    "name":"Letter to: Manager of Bank of Baroda — April 23, 1971",
+    "h1":"Manager of Bank of Baroda — April 23, 1971",
+    "title":"Letter to: Manager of Bank of Baroda — April 23, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Manager of Bank of Baroda ======
 

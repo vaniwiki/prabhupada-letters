@@ -1,5 +1,11 @@
-~~Title: Letter to: Satsvarupa, Brahmananda — September 4, 1969~~
-~~bc: Satsvarupa, Brahmananda — September 4, 1969~~
+---json
+{
+    "name":"Letter to: Satsvarupa, Brahmananda — September 4, 1969",
+    "h1":"Satsvarupa, Brahmananda — September 4, 1969",
+    "title":"Letter to: Satsvarupa, Brahmananda — September 4, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Satsvarupa, Brahmananda ======
 

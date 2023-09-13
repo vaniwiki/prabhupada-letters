@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhakta Steve — December 16, 1974~~
-~~bc: Bhakta Steve — December 16, 1974~~
+---json
+{
+    "name":"Letter to: Bhakta Steve — December 16, 1974",
+    "h1":"Bhakta Steve — December 16, 1974",
+    "title":"Letter to: Bhakta Steve — December 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Bhakta Steve ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Anandini (Karen Anderson) — March 30, 1971~~
-~~bc: Anandini (Karen Anderson) — March 30, 1971~~
+---json
+{
+    "name":"Letter to: Anandini (Karen Anderson) — March 30, 1971",
+    "h1":"Anandini (Karen Anderson) — March 30, 1971",
+    "title":"Letter to: Anandini (Karen Anderson) — March 30, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Anandini (Karen Anderson) ======
 

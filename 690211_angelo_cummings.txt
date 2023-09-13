@@ -1,5 +1,11 @@
-~~Title: Letter to: Angelo Cummings — February 11, 1969~~
-~~bc: Angelo Cummings — February 11, 1969~~
+---json
+{
+    "name":"Letter to: Angelo Cummings — February 11, 1969",
+    "h1":"Angelo Cummings — February 11, 1969",
+    "title":"Letter to: Angelo Cummings — February 11, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Angelo Cummings ======
 

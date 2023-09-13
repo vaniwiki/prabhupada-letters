@@ -1,5 +1,11 @@
-~~Title: Letter to: Whom it may concern — March 14, 1971~~
-~~bc: Whom it may concern — March 14, 1971~~
+---json
+{
+    "name":"Letter to: Whom it may concern — March 14, 1971",
+    "h1":"Whom it may concern — March 14, 1971",
+    "title":"Letter to: Whom it may concern — March 14, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Whom it may concern ======
 

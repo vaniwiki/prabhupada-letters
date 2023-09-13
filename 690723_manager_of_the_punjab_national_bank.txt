@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager of The Punjab National Bank — July 23, 1969~~
-~~bc: Manager of The Punjab National Bank — July 23, 1969~~
+---json
+{
+    "name":"Letter to: Manager of The Punjab National Bank — July 23, 1969",
+    "h1":"Manager of The Punjab National Bank — July 23, 1969",
+    "title":"Letter to: Manager of The Punjab National Bank — July 23, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Manager of The Punjab National Bank ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Maitreya (Mike Stitch), Mahasakti (Mark Jahre), Arijit (Allen Bigil), Mitravinda (Marsha Arslansky), Nandita Gokula (Nancy Bailey) — May 28, 1972~~
-~~bc: Maitreya (Mike Stitch), Mahasakti (Mark Jahre), Arijit (Allen Bigil), Mitravinda (Marsha Arslansky), Nandita Gokula (Nancy Bailey) — May 28, 1972~~
+---json
+{
+    "name":"Letter to: Maitreya (Mike Stitch), Mahasakti (Mark Jahre), Arijit (Allen Bigil), Mitravinda (Marsha Arslansky), Nandita Gokula (Nancy Bailey) — May 28, 1972",
+    "h1":"Maitreya (Mike Stitch), Mahasakti (Mark Jahre), Arijit (Allen Bigil), Mitravinda (Marsha Arslansky), Nandita Gokula (Nancy Bailey) — May 28, 1972",
+    "title":"Letter to: Maitreya (Mike Stitch), Mahasakti (Mark Jahre), Arijit (Allen Bigil), Mitravinda (Marsha Arslansky), Nandita Gokula (Nancy Bailey) — May 28, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Maitreya (Mike Stitch), Mahasakti (Mark Jahre), Arijit (Allen Bigil), Mitravinda (Marsha Arslansky), Nandita Gokula (Nancy Bailey) ======
 

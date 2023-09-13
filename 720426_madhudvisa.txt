@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhudvisa — April 26, 1972~~
-~~bc: Madhudvisa — April 26, 1972~~
+---json
+{
+    "name":"Letter to: Madhudvisa — April 26, 1972",
+    "h1":"Madhudvisa — April 26, 1972",
+    "title":"Letter to: Madhudvisa — April 26, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Madhudvisa ======
 

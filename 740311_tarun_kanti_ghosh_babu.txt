@@ -1,5 +1,11 @@
-~~Title: Letter to: Tarun Kanti Ghosh Babu — March 11, 1974~~
-~~bc: Tarun Kanti Ghosh Babu — March 11, 1974~~
+---json
+{
+    "name":"Letter to: Tarun Kanti Ghosh Babu — March 11, 1974",
+    "h1":"Tarun Kanti Ghosh Babu — March 11, 1974",
+    "title":"Letter to: Tarun Kanti Ghosh Babu — March 11, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Tarun Kanti Ghosh Babu ======
 

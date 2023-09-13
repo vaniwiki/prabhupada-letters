@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhusudana Bhakti Vilas, Ms Chaterjee — March 20, 1971~~
-~~bc: Madhusudana Bhakti Vilas, Ms Chaterjee — March 20, 1971~~
+---json
+{
+    "name":"Letter to: Madhusudana Bhakti Vilas, Ms Chaterjee — March 20, 1971",
+    "h1":"Madhusudana Bhakti Vilas, Ms Chaterjee — March 20, 1971",
+    "title":"Letter to: Madhusudana Bhakti Vilas, Ms Chaterjee — March 20, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Madhusudana Bhakti Vilas, Ms Chaterjee ======
 

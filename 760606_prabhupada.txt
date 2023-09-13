@@ -1,5 +1,11 @@
-~~Title: Letter to: Prabhupada — June 6, 1976~~
-~~bc: Prabhupada — June 6, 1976~~
+---json
+{
+    "name":"Letter to: Prabhupada — June 6, 1976",
+    "h1":"Prabhupada — June 6, 1976",
+    "title":"Letter to: Prabhupada — June 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Prabhupada ======
 

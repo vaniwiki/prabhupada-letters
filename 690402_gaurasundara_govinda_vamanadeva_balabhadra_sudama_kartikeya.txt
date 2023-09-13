@@ -1,5 +1,11 @@
-~~Title: Letter to: Gaurasundara, Govinda, Vamanadeva, Balabhadra, Sudama, Kartikeya — April 2, 1969~~
-~~bc: Gaurasundara, Govinda, Vamanadeva, Balabhadra, Sudama, Kartikeya — April 2, 1969~~
+---json
+{
+    "name":"Letter to: Gaurasundara, Govinda, Vamanadeva, Balabhadra, Sudama, Kartikeya — April 2, 1969",
+    "h1":"Gaurasundara, Govinda, Vamanadeva, Balabhadra, Sudama, Kartikeya — April 2, 1969",
+    "title":"Letter to: Gaurasundara, Govinda, Vamanadeva, Balabhadra, Sudama, Kartikeya — April 2, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Gaurasundara, Govinda, Vamanadeva, Balabhadra, Sudama, Kartikeya ======
 

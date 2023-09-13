@@ -1,5 +1,11 @@
-~~Title: Letter to: Bunke Behari — July 20, 1975~~
-~~bc: Bunke Behari — July 20, 1975~~
+---json
+{
+    "name":"Letter to: Bunke Behari — July 20, 1975",
+    "h1":"Bunke Behari — July 20, 1975",
+    "title":"Letter to: Bunke Behari — July 20, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Bunke Behari ======
 

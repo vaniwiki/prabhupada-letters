@@ -1,5 +1,11 @@
-~~Title: Letter to: Randas Agrawal — January 2, 1971~~
-~~bc: Randas Agrawal — January 2, 1971~~
+---json
+{
+    "name":"Letter to: Randas Agrawal — January 2, 1971",
+    "h1":"Randas Agrawal — January 2, 1971",
+    "title":"Letter to: Randas Agrawal — January 2, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Randas Agrawal ======
 

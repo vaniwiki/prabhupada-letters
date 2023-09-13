@@ -1,5 +1,11 @@
-~~Title: Letter to: Mukunda — January 8, 1974~~
-~~bc: Mukunda — January 8, 1974~~
+---json
+{
+    "name":"Letter to: Mukunda — January 8, 1974",
+    "h1":"Mukunda — January 8, 1974",
+    "title":"Letter to: Mukunda — January 8, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mukunda ======
 

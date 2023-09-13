@@ -1,5 +1,11 @@
-~~Title: Letter to: Mangalamaya, Madhupuri — February 20, 1972~~
-~~bc: Mangalamaya, Madhupuri — February 20, 1972~~
+---json
+{
+    "name":"Letter to: Mangalamaya, Madhupuri — February 20, 1972",
+    "h1":"Mangalamaya, Madhupuri — February 20, 1972",
+    "title":"Letter to: Mangalamaya, Madhupuri — February 20, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Mangalamaya, Madhupuri ======
 

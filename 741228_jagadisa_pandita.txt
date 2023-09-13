@@ -1,5 +1,11 @@
-~~Title: Letter to: Jagadisa Pandita — December 28, 1974~~
-~~bc: Jagadisa Pandita — December 28, 1974~~
+---json
+{
+    "name":"Letter to: Jagadisa Pandita — December 28, 1974",
+    "h1":"Jagadisa Pandita — December 28, 1974",
+    "title":"Letter to: Jagadisa Pandita — December 28, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Jagadisa Pandita ======
 

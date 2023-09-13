@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsnadasa — November 7, 1972~~
-~~bc: Krsnadasa — November 7, 1972~~
+---json
+{
+    "name":"Letter to: Krsnadasa — November 7, 1972",
+    "h1":"Krsnadasa — November 7, 1972",
+    "title":"Letter to: Krsnadasa — November 7, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Krsnadasa ======
 

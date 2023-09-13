@@ -1,5 +1,11 @@
-~~Title: Letter to: Brian Fleming — March 6, 1974~~
-~~bc: Brian Fleming — March 6, 1974~~
+---json
+{
+    "name":"Letter to: Brian Fleming — March 6, 1974",
+    "h1":"Brian Fleming — March 6, 1974",
+    "title":"Letter to: Brian Fleming — March 6, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Brian Fleming ======
 

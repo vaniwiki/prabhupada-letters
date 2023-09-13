@@ -1,5 +1,11 @@
-~~Title: Letter to: Joanne, Connie — June 4, 1970~~
-~~bc: Joanne, Connie — June 4, 1970~~
+---json
+{
+    "name":"Letter to: Joanne, Connie — June 4, 1970",
+    "h1":"Joanne, Connie — June 4, 1970",
+    "title":"Letter to: Joanne, Connie — June 4, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Joanne, Connie ======
 

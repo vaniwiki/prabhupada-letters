@@ -1,5 +1,11 @@
-~~Title: Letter to: Hansadutta — October 13, 1967~~
-~~bc: Hansadutta — October 13, 1967~~
+---json
+{
+    "name":"Letter to: Hansadutta — October 13, 1967",
+    "h1":"Hansadutta — October 13, 1967",
+    "title":"Letter to: Hansadutta — October 13, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Hansadutta ======
 

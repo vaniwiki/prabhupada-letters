@@ -1,5 +1,11 @@
-~~Title: Letter to: Tusta Krsna — October 14, 1974~~
-~~bc: Tusta Krsna — October 14, 1974~~
+---json
+{
+    "name":"Letter to: Tusta Krsna — October 14, 1974",
+    "h1":"Tusta Krsna — October 14, 1974",
+    "title":"Letter to: Tusta Krsna — October 14, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Tusta Krsna ======
 

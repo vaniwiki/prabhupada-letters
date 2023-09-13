@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. S.B. Chatterjee — April 3, 1977~~
-~~bc: Dr. S.B. Chatterjee — April 3, 1977~~
+---json
+{
+    "name":"Letter to: Dr. S.B. Chatterjee — April 3, 1977",
+    "h1":"Dr. S.B. Chatterjee — April 3, 1977",
+    "title":"Letter to: Dr. S.B. Chatterjee — April 3, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. S.B. Chatterjee ======
 

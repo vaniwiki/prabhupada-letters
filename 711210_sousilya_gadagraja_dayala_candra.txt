@@ -1,5 +1,11 @@
-~~Title: Letter to: Sousilya (Stuart Rose), Gadagraja (Eugene Baum), Dayala Candra (David Peterson) — December 10, 1971~~
-~~bc: Sousilya (Stuart Rose), Gadagraja (Eugene Baum), Dayala Candra (David Peterson) — December 10, 1971~~
+---json
+{
+    "name":"Letter to: Sousilya (Stuart Rose), Gadagraja (Eugene Baum), Dayala Candra (David Peterson) — December 10, 1971",
+    "h1":"Sousilya (Stuart Rose), Gadagraja (Eugene Baum), Dayala Candra (David Peterson) — December 10, 1971",
+    "title":"Letter to: Sousilya (Stuart Rose), Gadagraja (Eugene Baum), Dayala Candra (David Peterson) — December 10, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Sousilya (Stuart Rose), Gadagraja (Eugene Baum), Dayala Candra (David Peterson) ======
 

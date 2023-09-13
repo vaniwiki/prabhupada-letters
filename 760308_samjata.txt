@@ -1,5 +1,11 @@
-~~Title: Letter to: Samjata — March 8, 1976~~
-~~bc: Samjata — March 8, 1976~~
+---json
+{
+    "name":"Letter to: Samjata — March 8, 1976",
+    "h1":"Samjata — March 8, 1976",
+    "title":"Letter to: Samjata — March 8, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Samjata ======
 

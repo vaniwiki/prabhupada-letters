@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. B. J. Murdock — July 29, 1976~~
-~~bc: Mr. B. J. Murdock — July 29, 1976~~
+---json
+{
+    "name":"Letter to: Mr. B. J. Murdock — July 29, 1976",
+    "h1":"Mr. B. J. Murdock — July 29, 1976",
+    "title":"Letter to: Mr. B. J. Murdock — July 29, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. B. J. Murdock ======
 

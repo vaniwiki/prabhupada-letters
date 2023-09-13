@@ -1,5 +1,11 @@
-~~Title: Letter to: Subala — March 15, 1970~~
-~~bc: Subala — March 15, 1970~~
+---json
+{
+    "name":"Letter to: Subala — March 15, 1970",
+    "h1":"Subala — March 15, 1970",
+    "title":"Letter to: Subala — March 15, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Subala ======
 

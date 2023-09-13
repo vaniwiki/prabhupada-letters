@@ -1,5 +1,11 @@
-~~Title: Letter to: Mrs. Perera — April 27, 1976~~
-~~bc: Mrs. Perera — April 27, 1976~~
+---json
+{
+    "name":"Letter to: Mrs. Perera — April 27, 1976",
+    "h1":"Mrs. Perera — April 27, 1976",
+    "title":"Letter to: Mrs. Perera — April 27, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mrs. Perera ======
 

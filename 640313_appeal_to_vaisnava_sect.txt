@@ -1,5 +1,11 @@
-~~Title: Letter to: Appeal to Vaisnava Sect — March 13, 1964~~
-~~bc: Appeal to Vaisnava Sect — March 13, 1964~~
+---json
+{
+    "name":"Letter to: Appeal to Vaisnava Sect — March 13, 1964",
+    "h1":"Appeal to Vaisnava Sect — March 13, 1964",
+    "title":"Letter to: Appeal to Vaisnava Sect — March 13, 1964",
+    "description":""
+}
+---
 
 ====== Letter to: Appeal to Vaisnava Sect ======
 

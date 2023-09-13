@@ -1,5 +1,11 @@
-~~Title: Letter to: Caitanya — June 11, 1971~~
-~~bc: Caitanya — June 11, 1971~~
+---json
+{
+    "name":"Letter to: Caitanya — June 11, 1971",
+    "h1":"Caitanya — June 11, 1971",
+    "title":"Letter to: Caitanya — June 11, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Caitanya ======
 

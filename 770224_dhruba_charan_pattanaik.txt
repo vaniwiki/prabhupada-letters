@@ -1,5 +1,11 @@
-~~Title: Letter to: Dhruba Charan Pattanaik — February 24, 1977~~
-~~bc: Dhruba Charan Pattanaik — February 24, 1977~~
+---json
+{
+    "name":"Letter to: Dhruba Charan Pattanaik — February 24, 1977",
+    "h1":"Dhruba Charan Pattanaik — February 24, 1977",
+    "title":"Letter to: Dhruba Charan Pattanaik — February 24, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Dhruba Charan Pattanaik ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Yasomatinandan — July 20, 1973~~
-~~bc: Yasomatinandan — July 20, 1973~~
+---json
+{
+    "name":"Letter to: Yasomatinandan — July 20, 1973",
+    "h1":"Yasomatinandan — July 20, 1973",
+    "title":"Letter to: Yasomatinandan — July 20, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Yasomatinandan ======
 

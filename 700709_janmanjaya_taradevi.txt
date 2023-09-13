@@ -1,5 +1,11 @@
-~~Title: Letter to: Janmanjaya, Taradevi — July 9, 1970~~
-~~bc: Janmanjaya, Taradevi — July 9, 1970~~
+---json
+{
+    "name":"Letter to: Janmanjaya, Taradevi — July 9, 1970",
+    "h1":"Janmanjaya, Taradevi — July 9, 1970",
+    "title":"Letter to: Janmanjaya, Taradevi — July 9, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Janmanjaya, Taradevi ======
 

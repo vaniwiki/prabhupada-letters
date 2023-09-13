@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Pillai — January 15, 1976~~
-~~bc: Sri Pillai — January 15, 1976~~
+---json
+{
+    "name":"Letter to: Sri Pillai — January 15, 1976",
+    "h1":"Sri Pillai — January 15, 1976",
+    "title":"Letter to: Sri Pillai — January 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Pillai ======
 

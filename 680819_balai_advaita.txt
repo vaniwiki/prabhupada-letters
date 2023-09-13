@@ -1,5 +1,11 @@
-~~Title: Letter to: Balai, Advaita — August 19, 1968~~
-~~bc: Balai, Advaita — August 19, 1968~~
+---json
+{
+    "name":"Letter to: Balai, Advaita — August 19, 1968",
+    "h1":"Balai, Advaita — August 19, 1968",
+    "title":"Letter to: Balai, Advaita — August 19, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Balai, Advaita ======
 

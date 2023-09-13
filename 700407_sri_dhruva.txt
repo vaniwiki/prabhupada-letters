@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Dhruva — April 7, 1970~~
-~~bc: Sri Dhruva — April 7, 1970~~
+---json
+{
+    "name":"Letter to: Sri Dhruva — April 7, 1970",
+    "h1":"Sri Dhruva — April 7, 1970",
+    "title":"Letter to: Sri Dhruva — April 7, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Dhruva ======
 

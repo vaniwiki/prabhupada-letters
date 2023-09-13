@@ -1,5 +1,11 @@
-~~Title: Letter to: Capt. Singhal — December 15, 1972~~
-~~bc: Capt. Singhal — December 15, 1972~~
+---json
+{
+    "name":"Letter to: Capt. Singhal — December 15, 1972",
+    "h1":"Capt. Singhal — December 15, 1972",
+    "title":"Letter to: Capt. Singhal — December 15, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Capt. Singhal ======
 

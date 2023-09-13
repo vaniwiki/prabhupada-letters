@@ -1,5 +1,11 @@
-~~Title: Letter to: Brojendra Nandan Goswami — April 6, 1977~~
-~~bc: Brojendra Nandan Goswami — April 6, 1977~~
+---json
+{
+    "name":"Letter to: Brojendra Nandan Goswami — April 6, 1977",
+    "h1":"Brojendra Nandan Goswami — April 6, 1977",
+    "title":"Letter to: Brojendra Nandan Goswami — April 6, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Brojendra Nandan Goswami ======
 

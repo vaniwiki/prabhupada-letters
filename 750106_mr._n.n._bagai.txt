@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. N. N. Bagai — January 6, 1975~~
-~~bc: Mr. N. N. Bagai — January 6, 1975~~
+---json
+{
+    "name":"Letter to: Mr. N. N. Bagai — January 6, 1975",
+    "h1":"Mr. N. N. Bagai — January 6, 1975",
+    "title":"Letter to: Mr. N. N. Bagai — January 6, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. N. N. Bagai ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Govardhan 2 — May 8, 1973~~
-~~bc: Govardhan 2 — May 8, 1973~~
+---json
+{
+    "name":"Letter to: Govardhan 2 — May 8, 1973",
+    "h1":"Govardhan 2 — May 8, 1973",
+    "title":"Letter to: Govardhan 2 — May 8, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Govardhan 2 ======
 

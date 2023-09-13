@@ -1,5 +1,11 @@
-~~Title: Letter to: Mrs. Perlmutter — January 23, 1977~~
-~~bc: Mrs. Perlmutter — January 23, 1977~~
+---json
+{
+    "name":"Letter to: Mrs. Perlmutter — January 23, 1977",
+    "h1":"Mrs. Perlmutter — January 23, 1977",
+    "title":"Letter to: Mrs. Perlmutter — January 23, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Mrs. Perlmutter ======
 

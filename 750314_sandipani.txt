@@ -1,5 +1,11 @@
-~~Title: Letter to: Sandipani — March 14, 1975~~
-~~bc: Sandipani — March 14, 1975~~
+---json
+{
+    "name":"Letter to: Sandipani — March 14, 1975",
+    "h1":"Sandipani — March 14, 1975",
+    "title":"Letter to: Sandipani — March 14, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sandipani ======
 

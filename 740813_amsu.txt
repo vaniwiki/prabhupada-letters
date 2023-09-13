@@ -1,5 +1,11 @@
-~~Title: Letter to: Amsu — August 13, 1974~~
-~~bc: Amsu — August 13, 1974~~
+---json
+{
+    "name":"Letter to: Amsu — August 13, 1974",
+    "h1":"Amsu — August 13, 1974",
+    "title":"Letter to: Amsu — August 13, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Amsu ======
 

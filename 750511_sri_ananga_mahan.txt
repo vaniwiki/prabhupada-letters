@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Ananga Mahan — May 11, 1975~~
-~~bc: Sri Ananga Mahan — May 11, 1975~~
+---json
+{
+    "name":"Letter to: Sri Ananga Mahan — May 11, 1975",
+    "h1":"Sri Ananga Mahan — May 11, 1975",
+    "title":"Letter to: Sri Ananga Mahan — May 11, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Ananga Mahan ======
 

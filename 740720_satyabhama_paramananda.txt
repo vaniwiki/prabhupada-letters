@@ -1,5 +1,11 @@
-~~Title: Letter to: Satyabhama, Paramananda — July 20, 1974~~
-~~bc: Satyabhama, Paramananda — July 20, 1974~~
+---json
+{
+    "name":"Letter to: Satyabhama, Paramananda — July 20, 1974",
+    "h1":"Satyabhama, Paramananda — July 20, 1974",
+    "title":"Letter to: Satyabhama, Paramananda — July 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Satyabhama, Paramananda ======
 

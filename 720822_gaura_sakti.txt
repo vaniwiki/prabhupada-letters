@@ -1,5 +1,11 @@
-~~Title: Letter to: Gaura Sakti — August 22, 1972~~
-~~bc: Gaura Sakti — August 22, 1972~~
+---json
+{
+    "name":"Letter to: Gaura Sakti — August 22, 1972",
+    "h1":"Gaura Sakti — August 22, 1972",
+    "title":"Letter to: Gaura Sakti — August 22, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Gaura Sakti ======
 

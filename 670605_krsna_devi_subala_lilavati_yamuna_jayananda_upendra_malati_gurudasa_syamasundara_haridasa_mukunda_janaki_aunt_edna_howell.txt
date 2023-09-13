@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsna Devi, Subala, Lilavati, Yamuna, Jayananda, Upendra, Malati, Gurudasa, Syamasundara, Haridasa, Mukunda, Janaki, Aunt Edna Howell — June 5, 1967~~
-~~bc: Krsna Devi, Subala, Lilavati, Yamuna, Jayananda, Upendra, Malati, Gurudasa, Syamasundara, Haridasa, Mukunda, Janaki, Aunt Edna Howell — June 5, 1967~~
+---json
+{
+    "name":"Letter to: Krsna Devi, Subala, Lilavati, Yamuna, Jayananda, Upendra, Malati, Gurudasa, Syamasundara, Haridasa, Mukunda, Janaki, Aunt Edna Howell — June 5, 1967",
+    "h1":"Krsna Devi, Subala, Lilavati, Yamuna, Jayananda, Upendra, Malati, Gurudasa, Syamasundara, Haridasa, Mukunda, Janaki, Aunt Edna Howell — June 5, 1967",
+    "title":"Letter to: Krsna Devi, Subala, Lilavati, Yamuna, Jayananda, Upendra, Malati, Gurudasa, Syamasundara, Haridasa, Mukunda, Janaki, Aunt Edna Howell — June 5, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Krsna Devi, Subala, Lilavati, Yamuna, Jayananda, Upendra, Malati, Gurudasa, Syamasundara, Haridasa, Mukunda, Janaki, Aunt Edna Howell ======
 

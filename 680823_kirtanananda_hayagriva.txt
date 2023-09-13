@@ -1,5 +1,11 @@
-~~Title: Letter to: Kirtanananda, Hayagriva — August 23, 1968~~
-~~bc: Kirtanananda, Hayagriva — August 23, 1968~~
+---json
+{
+    "name":"Letter to: Kirtanananda, Hayagriva — August 23, 1968",
+    "h1":"Kirtanananda, Hayagriva — August 23, 1968",
+    "title":"Letter to: Kirtanananda, Hayagriva — August 23, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Kirtanananda, Hayagriva ======
 

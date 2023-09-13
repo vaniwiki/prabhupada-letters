@@ -1,5 +1,11 @@
-~~Title: Letter to: Jaya Govinda — September 15, 1968~~
-~~bc: Jaya Govinda — September 15, 1968~~
+---json
+{
+    "name":"Letter to: Jaya Govinda — September 15, 1968",
+    "h1":"Jaya Govinda — September 15, 1968",
+    "title":"Letter to: Jaya Govinda — September 15, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Jaya Govinda ======
 

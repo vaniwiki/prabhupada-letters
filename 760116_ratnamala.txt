@@ -1,5 +1,11 @@
-~~Title: Letter to: Ratnamala — January 16, 1976~~
-~~bc: Ratnamala — January 16, 1976~~
+---json
+{
+    "name":"Letter to: Ratnamala — January 16, 1976",
+    "h1":"Ratnamala — January 16, 1976",
+    "title":"Letter to: Ratnamala — January 16, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Ratnamala ======
 

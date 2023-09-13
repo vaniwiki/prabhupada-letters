@@ -1,5 +1,11 @@
-~~Title: Letter to: All Iskcon Temple Presidents — January 18, 1977~~
-~~bc: All Iskcon Temple Presidents — January 18, 1977~~
+---json
+{
+    "name":"Letter to: All Iskcon Temple Presidents — January 18, 1977",
+    "h1":"All Iskcon Temple Presidents — January 18, 1977",
+    "title":"Letter to: All Iskcon Temple Presidents — January 18, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: All Iskcon Temple Presidents ======
 

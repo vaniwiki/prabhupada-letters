@@ -1,5 +1,11 @@
-~~Title: Letter to: Daivisakti, Nayanabhirama — October 4, 1970~~
-~~bc: Daivisakti, Nayanabhirama — October 4, 1970~~
+---json
+{
+    "name":"Letter to: Daivisakti, Nayanabhirama — October 4, 1970",
+    "h1":"Daivisakti, Nayanabhirama — October 4, 1970",
+    "title":"Letter to: Daivisakti, Nayanabhirama — October 4, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Daivisakti, Nayanabhirama ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike — July 4, 1971~~
-~~bc: Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike — July 4, 1971~~
+---json
+{
+    "name":"Letter to: Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike — July 4, 1971",
+    "h1":"Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike — July 4, 1971",
+    "title":"Letter to: Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike — July 4, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike ======
 

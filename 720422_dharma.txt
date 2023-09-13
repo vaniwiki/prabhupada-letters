@@ -1,5 +1,11 @@
-~~Title: Letter to: Dharma — April 22, 1972~~
-~~bc: Dharma — April 22, 1972~~
+---json
+{
+    "name":"Letter to: Dharma — April 22, 1972",
+    "h1":"Dharma — April 22, 1972",
+    "title":"Letter to: Dharma — April 22, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Dharma ======
 

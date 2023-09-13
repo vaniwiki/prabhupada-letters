@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager of First National City Bank — March 7, 1970~~
-~~bc: Manager of First National City Bank — March 7, 1970~~
+---json
+{
+    "name":"Letter to: Manager of First National City Bank — March 7, 1970",
+    "h1":"Manager of First National City Bank — March 7, 1970",
+    "title":"Letter to: Manager of First National City Bank — March 7, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Manager of First National City Bank ======
 

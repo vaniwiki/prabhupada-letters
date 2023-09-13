@@ -1,5 +1,11 @@
-~~Title: Letter to: Harivilas — September 21, 1970~~
-~~bc: Harivilas — September 21, 1970~~
+---json
+{
+    "name":"Letter to: Harivilas — September 21, 1970",
+    "h1":"Harivilas — September 21, 1970",
+    "title":"Letter to: Harivilas — September 21, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Harivilas ======
 

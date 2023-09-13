@@ -1,5 +1,11 @@
-~~Title: Letter to: Tracy and Rita — February 15, 1977~~
-~~bc: Tracy and Rita — February 15, 1977~~
+---json
+{
+    "name":"Letter to: Tracy and Rita — February 15, 1977",
+    "h1":"Tracy and Rita — February 15, 1977",
+    "title":"Letter to: Tracy and Rita — February 15, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Tracy and Rita ======
 

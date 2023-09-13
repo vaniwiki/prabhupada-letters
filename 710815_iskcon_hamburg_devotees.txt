@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON Hamburg, Mandali Bhadra, Gunnar, Rolf, Andre, Harrison, Phillip, Haripriya, Antonio, Maria, Philip, Herbert, Lilasakti, Jyotirmayi, others — August 15, 1971~~
-~~bc: ISKCON Hamburg, Mandali Bhadra, Gunnar, Rolf, Andre, Harrison, Phillip, Haripriya, Antonio, Maria, Philip, Herbert, Lilasakti, Jyotirmayi, others — August 15, 1971~~
+---json
+{
+    "name":"Letter to: ISKCON Hamburg, Mandali Bhadra, Gunnar, Rolf, Andre, Harrison, Phillip, Haripriya, Antonio, Maria, Philip, Herbert, Lilasakti, Jyotirmayi, others — August 15, 1971",
+    "h1":"ISKCON Hamburg, Mandali Bhadra, Gunnar, Rolf, Andre, Harrison, Phillip, Haripriya, Antonio, Maria, Philip, Herbert, Lilasakti, Jyotirmayi, others — August 15, 1971",
+    "title":"Letter to: ISKCON Hamburg, Mandali Bhadra, Gunnar, Rolf, Andre, Harrison, Phillip, Haripriya, Antonio, Maria, Philip, Herbert, Lilasakti, Jyotirmayi, others — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON Hamburg, Mandali Bhadra, Gunnar, Rolf, Andre, Harrison, Phillip, Haripriya, Antonio, Maria, Philip, Herbert, Lilasakti, Jyotirmayi, others ======
 

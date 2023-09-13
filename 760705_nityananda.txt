@@ -1,5 +1,11 @@
-~~Title: Letter to: Nityananda — July 5, 1976~~
-~~bc: Nityananda — July 5, 1976~~
+---json
+{
+    "name":"Letter to: Nityananda — July 5, 1976",
+    "h1":"Nityananda — July 5, 1976",
+    "title":"Letter to: Nityananda — July 5, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Nityananda ======
 

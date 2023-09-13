@@ -1,5 +1,11 @@
-~~Title: Letter to: Sriman Ram Prashad Dasa — June 14, 1972~~
-~~bc: Sriman Ram Prashad Dasa — June 14, 1972~~
+---json
+{
+    "name":"Letter to: Sriman Ram Prashad Dasa — June 14, 1972",
+    "h1":"Sriman Ram Prashad Dasa — June 14, 1972",
+    "title":"Letter to: Sriman Ram Prashad Dasa — June 14, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Sriman Ram Prashad Dasa ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: M. V. Sita Ramalai — January 16, 1975~~
-~~bc: M. V. Sita Ramalai — January 16, 1975~~
+---json
+{
+    "name":"Letter to: M. V. Sita Ramalai — January 16, 1975",
+    "h1":"M. V. Sita Ramalai — January 16, 1975",
+    "title":"Letter to: M. V. Sita Ramalai — January 16, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: M. V. Sita Ramalai ======
 

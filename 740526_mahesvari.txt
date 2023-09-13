@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahesvari — May 26, 1974~~
-~~bc: Mahesvari — May 26, 1974~~
+---json
+{
+    "name":"Letter to: Mahesvari — May 26, 1974",
+    "h1":"Mahesvari — May 26, 1974",
+    "title":"Letter to: Mahesvari — May 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mahesvari ======
 

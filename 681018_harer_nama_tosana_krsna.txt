@@ -1,5 +1,11 @@
-~~Title: Letter to: Harer Nama, Tosana Krsna — October 18, 1968~~
-~~bc: Harer Nama, Tosana Krsna — October 18, 1968~~
+---json
+{
+    "name":"Letter to: Harer Nama, Tosana Krsna — October 18, 1968",
+    "h1":"Harer Nama, Tosana Krsna — October 18, 1968",
+    "title":"Letter to: Harer Nama, Tosana Krsna — October 18, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Harer Nama, Tosana Krsna ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Gangamayi — May 9, 1974~~
-~~bc: Gangamayi — May 9, 1974~~
+---json
+{
+    "name":"Letter to: Gangamayi — May 9, 1974",
+    "h1":"Gangamayi — May 9, 1974",
+    "title":"Letter to: Gangamayi — May 9, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Gangamayi ======
 

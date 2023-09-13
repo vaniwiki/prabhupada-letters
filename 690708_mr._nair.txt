@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Nair — July 8, 1969~~
-~~bc: Mr. Nair — July 8, 1969~~
+---json
+{
+    "name":"Letter to: Mr. Nair — July 8, 1969",
+    "h1":"Mr. Nair — July 8, 1969",
+    "title":"Letter to: Mr. Nair — July 8, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Nair ======
 

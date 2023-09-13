@@ -1,5 +1,11 @@
-~~Title: Letter to: Aniruddha — April 29, 1968~~
-~~bc: Aniruddha — April 29, 1968~~
+---json
+{
+    "name":"Letter to: Aniruddha — April 29, 1968",
+    "h1":"Aniruddha — April 29, 1968",
+    "title":"Letter to: Aniruddha — April 29, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Aniruddha ======
 

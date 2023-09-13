@@ -1,5 +1,11 @@
-~~Title: Letter to: Subhash Cander Batra — March 6, 1976~~
-~~bc: Subhash Cander Batra — March 6, 1976~~
+---json
+{
+    "name":"Letter to: Subhash Cander Batra — March 6, 1976",
+    "h1":"Subhash Cander Batra — March 6, 1976",
+    "title":"Letter to: Subhash Cander Batra — March 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Subhash Cander Batra ======
 

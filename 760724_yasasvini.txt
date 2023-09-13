@@ -1,5 +1,11 @@
-~~Title: Letter to: Yasasvini — July 24, 1976~~
-~~bc: Yasasvini — July 24, 1976~~
+---json
+{
+    "name":"Letter to: Yasasvini — July 24, 1976",
+    "h1":"Yasasvini — July 24, 1976",
+    "title":"Letter to: Yasasvini — July 24, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Yasasvini ======
 

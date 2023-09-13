@@ -1,5 +1,11 @@
-~~Title: Letter to: Aksayananda — October 27, 1972~~
-~~bc: Aksayananda — October 27, 1972~~
+---json
+{
+    "name":"Letter to: Aksayananda — October 27, 1972",
+    "h1":"Aksayananda — October 27, 1972",
+    "title":"Letter to: Aksayananda — October 27, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Aksayananda ======
 

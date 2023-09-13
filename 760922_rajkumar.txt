@@ -1,5 +1,11 @@
-~~Title: Letter to: Rajkumar — September 22, 1976~~
-~~bc: Rajkumar — September 22, 1976~~
+---json
+{
+    "name":"Letter to: Rajkumar — September 22, 1976",
+    "h1":"Rajkumar — September 22, 1976",
+    "title":"Letter to: Rajkumar — September 22, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Rajkumar ======
 

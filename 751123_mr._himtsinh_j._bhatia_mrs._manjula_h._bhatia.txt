@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia — November 23, 1975~~
-~~bc: Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia — November 23, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia — November 23, 1975",
+    "h1":"Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia — November 23, 1975",
+    "title":"Letter to: Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia — November 23, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia ======
 

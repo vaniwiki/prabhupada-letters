@@ -1,5 +1,11 @@
-~~Title: Letter to: G. L. Kapoor — August 23, 1976~~
-~~bc: G. L. Kapoor — August 23, 1976~~
+---json
+{
+    "name":"Letter to: G. L. Kapoor — August 23, 1976",
+    "h1":"G. L. Kapoor — August 23, 1976",
+    "title":"Letter to: G. L. Kapoor — August 23, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: G. L. Kapoor ======
 

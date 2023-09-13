@@ -1,5 +1,11 @@
-~~Title: Letter to: People of Bangkok — December 14, 1974~~
-~~bc: People of Bangkok — December 14, 1974~~
+---json
+{
+    "name":"Letter to: People of Bangkok — December 14, 1974",
+    "h1":"People of Bangkok — December 14, 1974",
+    "title":"Letter to: People of Bangkok — December 14, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: People of Bangkok ======
 

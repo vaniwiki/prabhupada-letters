@@ -1,5 +1,11 @@
-~~Title: Letter to: Minakshi — March 16, 1977~~
-~~bc: Minakshi — March 16, 1977~~
+---json
+{
+    "name":"Letter to: Minakshi — March 16, 1977",
+    "h1":"Minakshi — March 16, 1977",
+    "title":"Letter to: Minakshi — March 16, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Minakshi ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Dinadayadri — May 26, 1974~~
-~~bc: Dinadayadri — May 26, 1974~~
+---json
+{
+    "name":"Letter to: Dinadayadri — May 26, 1974",
+    "h1":"Dinadayadri — May 26, 1974",
+    "title":"Letter to: Dinadayadri — May 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Dinadayadri ======
 

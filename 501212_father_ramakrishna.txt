@@ -1,5 +1,11 @@
-~~Title: Letter to: Father Ramakrishna — December 12, 1950~~
-~~bc: Father Ramakrishna — December 12, 1950~~
+---json
+{
+    "name":"Letter to: Father Ramakrishna — December 12, 1950",
+    "h1":"Father Ramakrishna — December 12, 1950",
+    "title":"Letter to: Father Ramakrishna — December 12, 1950",
+    "description":""
+}
+---
 
 ====== Letter to: Father Ramakrishna ======
 

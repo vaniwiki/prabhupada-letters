@@ -1,5 +1,11 @@
-~~Title: Letter to: Mathuresh (Andrew Day), Raghavendu (Martin Lewis), Vijay Laksmi (Jill Lewis) — November 21, 1971~~
-~~bc: Mathuresh (Andrew Day), Raghavendu (Martin Lewis), Vijay Laksmi (Jill Lewis) — November 21, 1971~~
+---json
+{
+    "name":"Letter to: Mathuresh (Andrew Day), Raghavendu (Martin Lewis), Vijay Laksmi (Jill Lewis) — November 21, 1971",
+    "h1":"Mathuresh (Andrew Day), Raghavendu (Martin Lewis), Vijay Laksmi (Jill Lewis) — November 21, 1971",
+    "title":"Letter to: Mathuresh (Andrew Day), Raghavendu (Martin Lewis), Vijay Laksmi (Jill Lewis) — November 21, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Mathuresh (Andrew Day), Raghavendu (Martin Lewis), Vijay Laksmi (Jill Lewis) ======
 

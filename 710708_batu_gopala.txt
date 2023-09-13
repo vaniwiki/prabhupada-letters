@@ -1,5 +1,11 @@
-~~Title: Letter to: Batu Gopala (Ed Englehart) — July 8, 1971~~
-~~bc: Batu Gopala (Ed Englehart) — July 8, 1971~~
+---json
+{
+    "name":"Letter to: Batu Gopala (Ed Englehart) — July 8, 1971",
+    "h1":"Batu Gopala (Ed Englehart) — July 8, 1971",
+    "title":"Letter to: Batu Gopala (Ed Englehart) — July 8, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Batu Gopala (Ed Englehart) ======
 

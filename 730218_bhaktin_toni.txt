@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhaktin Toni — February 18, 1973~~
-~~bc: Bhaktin Toni — February 18, 1973~~
+---json
+{
+    "name":"Letter to: Bhaktin Toni — February 18, 1973",
+    "h1":"Bhaktin Toni — February 18, 1973",
+    "title":"Letter to: Bhaktin Toni — February 18, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Bhaktin Toni ======
 

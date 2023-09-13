@@ -1,5 +1,11 @@
-~~Title: Letter to: Swami Bhaktivedanta — March 14, 1969~~
-~~bc: Swami Bhaktivedanta — March 14, 1969~~
+---json
+{
+    "name":"Letter to: Swami Bhaktivedanta — March 14, 1969",
+    "h1":"Swami Bhaktivedanta — March 14, 1969",
+    "title":"Letter to: Swami Bhaktivedanta — March 14, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Swami Bhaktivedanta ======
 

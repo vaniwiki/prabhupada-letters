@@ -1,5 +1,11 @@
-~~Title: Letter to: Prosanta Mukherjee — September 1, 1969~~
-~~bc: Prosanta Mukherjee — September 1, 1969~~
+---json
+{
+    "name":"Letter to: Prosanta Mukherjee — September 1, 1969",
+    "h1":"Prosanta Mukherjee — September 1, 1969",
+    "title":"Letter to: Prosanta Mukherjee — September 1, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Prosanta Mukherjee ======
 

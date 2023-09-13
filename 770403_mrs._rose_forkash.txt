@@ -1,5 +1,11 @@
-~~Title: Letter to: Mrs. Rose Forkash — April 3, 1977~~
-~~bc: Mrs. Rose Forkash — April 3, 1977~~
+---json
+{
+    "name":"Letter to: Mrs. Rose Forkash — April 3, 1977",
+    "h1":"Mrs. Rose Forkash — April 3, 1977",
+    "title":"Letter to: Mrs. Rose Forkash — April 3, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Mrs. Rose Forkash ======
 

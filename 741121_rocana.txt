@@ -1,5 +1,11 @@
-~~Title: Letter to: Rocana — November 21, 1974~~
-~~bc: Rocana — November 21, 1974~~
+---json
+{
+    "name":"Letter to: Rocana — November 21, 1974",
+    "h1":"Rocana — November 21, 1974",
+    "title":"Letter to: Rocana — November 21, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Rocana ======
 

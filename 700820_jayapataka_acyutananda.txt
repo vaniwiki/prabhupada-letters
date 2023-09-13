@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayapataka, Acyutananda — August 20, 1970~~
-~~bc: Jayapataka, Acyutananda — August 20, 1970~~
+---json
+{
+    "name":"Letter to: Jayapataka, Acyutananda — August 20, 1970",
+    "h1":"Jayapataka, Acyutananda — August 20, 1970",
+    "title":"Letter to: Jayapataka, Acyutananda — August 20, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Jayapataka, Acyutananda ======
 

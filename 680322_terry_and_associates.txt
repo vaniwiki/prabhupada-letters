@@ -1,5 +1,11 @@
-~~Title: Letter to: Terry and associates — March 22, 1968~~
-~~bc: Terry and associates — March 22, 1968~~
+---json
+{
+    "name":"Letter to: Terry and associates — March 22, 1968",
+    "h1":"Terry and associates — March 22, 1968",
+    "title":"Letter to: Terry and associates — March 22, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Terry and associates ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Madan Mohan Goswami — May 11, 1973~~
-~~bc: Madan Mohan Goswami — May 11, 1973~~
+---json
+{
+    "name":"Letter to: Madan Mohan Goswami — May 11, 1973",
+    "h1":"Madan Mohan Goswami — May 11, 1973",
+    "title":"Letter to: Madan Mohan Goswami — May 11, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Madan Mohan Goswami ======
 

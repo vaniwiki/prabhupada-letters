@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others — August 15, 1971~~
-~~bc: ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others — August 15, 1971~~
+---json
+{
+    "name":"Letter to: ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others — August 15, 1971",
+    "h1":"ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others — August 15, 1971",
+    "title":"Letter to: ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others ======
 

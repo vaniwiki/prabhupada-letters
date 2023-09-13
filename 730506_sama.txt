@@ -1,5 +1,11 @@
-~~Title: Letter to: Sama — May 6, 1973~~
-~~bc: Sama — May 6, 1973~~
+---json
+{
+    "name":"Letter to: Sama — May 6, 1973",
+    "h1":"Sama — May 6, 1973",
+    "title":"Letter to: Sama — May 6, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Sama ======
 

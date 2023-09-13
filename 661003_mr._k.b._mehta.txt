@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. K. B. Mehta — October 3, 1966~~
-~~bc: Mr. K. B. Mehta — October 3, 1966~~
+---json
+{
+    "name":"Letter to: Mr. K. B. Mehta — October 3, 1966",
+    "h1":"Mr. K. B. Mehta — October 3, 1966",
+    "title":"Letter to: Mr. K. B. Mehta — October 3, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. K. B. Mehta ======
 

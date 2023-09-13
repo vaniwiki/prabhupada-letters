@@ -1,5 +1,11 @@
-~~Title: Letter to: Executive Senior Editor of Los Angeles Times — January 14, 1970~~
-~~bc: Executive Senior Editor of Los Angeles Times — January 14, 1970~~
+---json
+{
+    "name":"Letter to: Executive Senior Editor of Los Angeles Times — January 14, 1970",
+    "h1":"Executive Senior Editor of Los Angeles Times — January 14, 1970",
+    "title":"Letter to: Executive Senior Editor of Los Angeles Times — January 14, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Executive Senior Editor of Los Angeles Times ======
 

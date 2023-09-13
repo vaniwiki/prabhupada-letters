@@ -1,5 +1,11 @@
-~~Title: Letter to: Bijay Kumar Kannungo — November 3, 1974~~
-~~bc: Bijay Kumar Kannungo — November 3, 1974~~
+---json
+{
+    "name":"Letter to: Bijay Kumar Kannungo — November 3, 1974",
+    "h1":"Bijay Kumar Kannungo — November 3, 1974",
+    "title":"Letter to: Bijay Kumar Kannungo — November 3, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Bijay Kumar Kannungo ======
 

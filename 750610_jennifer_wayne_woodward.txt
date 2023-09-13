@@ -1,5 +1,11 @@
-~~Title: Letter to: Jennifer Wayne Woodward — June 10, 1975~~
-~~bc: Jennifer Wayne Woodward — June 10, 1975~~
+---json
+{
+    "name":"Letter to: Jennifer Wayne Woodward — June 10, 1975",
+    "h1":"Jennifer Wayne Woodward — June 10, 1975",
+    "title":"Letter to: Jennifer Wayne Woodward — June 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Jennifer Wayne Woodward ======
 

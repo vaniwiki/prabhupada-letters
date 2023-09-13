@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahananda (Michael) — March 29, 1970~~
-~~bc: Mahananda (Michael) — March 29, 1970~~
+---json
+{
+    "name":"Letter to: Mahananda (Michael) — March 29, 1970",
+    "h1":"Mahananda (Michael) — March 29, 1970",
+    "title":"Letter to: Mahananda (Michael) — March 29, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Mahananda (Michael) ======
 

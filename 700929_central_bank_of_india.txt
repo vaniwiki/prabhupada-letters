@@ -1,5 +1,11 @@
-~~Title: Letter to: Central Bank of India — September 29, 1970~~
-~~bc: Central Bank of India — September 29, 1970~~
+---json
+{
+    "name":"Letter to: Central Bank of India — September 29, 1970",
+    "h1":"Central Bank of India — September 29, 1970",
+    "title":"Letter to: Central Bank of India — September 29, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Central Bank of India ======
 

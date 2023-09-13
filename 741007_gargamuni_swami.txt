@@ -1,5 +1,11 @@
-~~Title: Letter to: Gargamuni Swami — October 7, 1974~~
-~~bc: Gargamuni Swami — October 7, 1974~~
+---json
+{
+    "name":"Letter to: Gargamuni Swami — October 7, 1974",
+    "h1":"Gargamuni Swami — October 7, 1974",
+    "title":"Letter to: Gargamuni Swami — October 7, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Gargamuni Swami ======
 

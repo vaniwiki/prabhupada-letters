@@ -1,5 +1,11 @@
-~~Title: Letter to: Balavanta — June 17, 1972~~
-~~bc: Balavanta — June 17, 1972~~
+---json
+{
+    "name":"Letter to: Balavanta — June 17, 1972",
+    "h1":"Balavanta — June 17, 1972",
+    "title":"Letter to: Balavanta — June 17, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Balavanta ======
 

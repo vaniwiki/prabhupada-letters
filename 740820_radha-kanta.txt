@@ -1,5 +1,11 @@
-~~Title: Letter to: Radha-Kanta — August 20, 1974~~
-~~bc: Radha-Kanta — August 20, 1974~~
+---json
+{
+    "name":"Letter to: Radha-Kanta — August 20, 1974",
+    "h1":"Radha-Kanta — August 20, 1974",
+    "title":"Letter to: Radha-Kanta — August 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Radha-Kanta ======
 

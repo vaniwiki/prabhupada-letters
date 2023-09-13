@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. W.H. Wolf-Rottkay — June 18, 1975~~
-~~bc: Dr. W.H. Wolf-Rottkay — June 18, 1975~~
+---json
+{
+    "name":"Letter to: Dr. W.H. Wolf-Rottkay — June 18, 1975",
+    "h1":"Dr. W.H. Wolf-Rottkay — June 18, 1975",
+    "title":"Letter to: Dr. W.H. Wolf-Rottkay — June 18, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. W.H. Wolf-Rottkay ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Yasomatisuta — May 15, 1976~~
-~~bc: Yasomatisuta — May 15, 1976~~
+---json
+{
+    "name":"Letter to: Yasomatisuta — May 15, 1976",
+    "h1":"Yasomatisuta — May 15, 1976",
+    "title":"Letter to: Yasomatisuta — May 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Yasomatisuta ======
 

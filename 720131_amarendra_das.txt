@@ -1,5 +1,11 @@
-~~Title: Letter to: Amarendra das — January 31, 1972~~
-~~bc: Amarendra das — January 31, 1972~~
+---json
+{
+    "name":"Letter to: Amarendra das — January 31, 1972",
+    "h1":"Amarendra das — January 31, 1972",
+    "title":"Letter to: Amarendra das — January 31, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Amarendra das ======
 

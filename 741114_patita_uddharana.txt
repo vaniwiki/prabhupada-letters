@@ -1,5 +1,11 @@
-~~Title: Letter to: Patita Uddharana — November 14, 1974~~
-~~bc: Patita Uddharana — November 14, 1974~~
+---json
+{
+    "name":"Letter to: Patita Uddharana — November 14, 1974",
+    "h1":"Patita Uddharana — November 14, 1974",
+    "title":"Letter to: Patita Uddharana — November 14, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Patita Uddharana ======
 

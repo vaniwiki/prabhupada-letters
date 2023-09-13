@@ -1,5 +1,11 @@
-~~Title: Letter to: Vrindaban — September 26, 1974~~
-~~bc: Vrindaban — September 26, 1974~~
+---json
+{
+    "name":"Letter to: Vrindaban — September 26, 1974",
+    "h1":"Vrindaban — September 26, 1974",
+    "title":"Letter to: Vrindaban — September 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Vrindaban ======
 

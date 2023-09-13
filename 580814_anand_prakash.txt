@@ -1,5 +1,11 @@
-~~Title: Letter to: Anand Prakash — August 14, 1958~~
-~~bc: Anand Prakash — August 14, 1958~~
+---json
+{
+    "name":"Letter to: Anand Prakash — August 14, 1958",
+    "h1":"Anand Prakash — August 14, 1958",
+    "title":"Letter to: Anand Prakash — August 14, 1958",
+    "description":""
+}
+---
 
 ====== Letter to: Anand Prakash ======
 

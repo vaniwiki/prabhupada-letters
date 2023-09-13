@@ -1,5 +1,11 @@
-~~Title: Letter to: Cintamani — July 17, 1973~~
-~~bc: Cintamani — July 17, 1973~~
+---json
+{
+    "name":"Letter to: Cintamani — July 17, 1973",
+    "h1":"Cintamani — July 17, 1973",
+    "title":"Letter to: Cintamani — July 17, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Cintamani ======
 

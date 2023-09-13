@@ -1,5 +1,11 @@
-~~Title: Letter to: Govinda — January 6, 1972~~
-~~bc: Govinda — January 6, 1972~~
+---json
+{
+    "name":"Letter to: Govinda — January 6, 1972",
+    "h1":"Govinda — January 6, 1972",
+    "title":"Letter to: Govinda — January 6, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Govinda ======
 

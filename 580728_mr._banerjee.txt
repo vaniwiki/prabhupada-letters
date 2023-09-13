@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Banerjee — July 28, 1958~~
-~~bc: Mr. Banerjee — July 28, 1958~~
+---json
+{
+    "name":"Letter to: Mr. Banerjee — July 28, 1958",
+    "h1":"Mr. Banerjee — July 28, 1958",
+    "title":"Letter to: Mr. Banerjee — July 28, 1958",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Banerjee ======
 

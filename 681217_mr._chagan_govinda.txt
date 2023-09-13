@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Chagan Govinda — December 17, 1968~~
-~~bc: Mr. Chagan Govinda — December 17, 1968~~
+---json
+{
+    "name":"Letter to: Mr. Chagan Govinda — December 17, 1968",
+    "h1":"Mr. Chagan Govinda — December 17, 1968",
+    "title":"Letter to: Mr. Chagan Govinda — December 17, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Chagan Govinda ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Wendy Weiser — August 10, 1968~~
-~~bc: Wendy Weiser — August 10, 1968~~
+---json
+{
+    "name":"Letter to: Wendy Weiser — August 10, 1968",
+    "h1":"Wendy Weiser — August 10, 1968",
+    "title":"Letter to: Wendy Weiser — August 10, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Wendy Weiser ======
 

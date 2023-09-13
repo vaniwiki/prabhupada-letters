@@ -1,5 +1,11 @@
-~~Title: Letter to: Sir Mittra, United Shipping Corporation — April 12, 1968~~
-~~bc: Sir Mittra, United Shipping Corporation — April 12, 1968~~
+---json
+{
+    "name":"Letter to: Sir Mittra, United Shipping Corporation — April 12, 1968",
+    "h1":"Sir Mittra, United Shipping Corporation — April 12, 1968",
+    "title":"Letter to: Sir Mittra, United Shipping Corporation — April 12, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Sir Mittra, United Shipping Corporation ======
 

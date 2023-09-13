@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Ramanbhai M. Patel — April 19, 1975~~
-~~bc: Mr. Ramanbhai M. Patel — April 19, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Ramanbhai M. Patel — April 19, 1975",
+    "h1":"Mr. Ramanbhai M. Patel — April 19, 1975",
+    "title":"Letter to: Mr. Ramanbhai M. Patel — April 19, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Ramanbhai M. Patel ======
 

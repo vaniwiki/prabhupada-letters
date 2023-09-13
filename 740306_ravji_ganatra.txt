@@ -1,5 +1,11 @@
-~~Title: Letter to: Ravji Ganatra — March 6, 1974~~
-~~bc: Ravji Ganatra — March 6, 1974~~
+---json
+{
+    "name":"Letter to: Ravji Ganatra — March 6, 1974",
+    "h1":"Ravji Ganatra — March 6, 1974",
+    "title":"Letter to: Ravji Ganatra — March 6, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Ravji Ganatra ======
 

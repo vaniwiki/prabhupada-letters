@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. George Twohie — May 3, 1976~~
-~~bc: Mr. George Twohie — May 3, 1976~~
+---json
+{
+    "name":"Letter to: Mr. George Twohie — May 3, 1976",
+    "h1":"Mr. George Twohie — May 3, 1976",
+    "title":"Letter to: Mr. George Twohie — May 3, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. George Twohie ======
 

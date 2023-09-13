@@ -1,5 +1,11 @@
-~~Title: Letter to: Sriman Bajaji — October 14, 1976~~
-~~bc: Sriman Bajaji — October 14, 1976~~
+---json
+{
+    "name":"Letter to: Sriman Bajaji — October 14, 1976",
+    "h1":"Sriman Bajaji — October 14, 1976",
+    "title":"Letter to: Sriman Bajaji — October 14, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sriman Bajaji ======
 

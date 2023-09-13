@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsnanandini — April 8, 1975~~
-~~bc: Krsnanandini — April 8, 1975~~
+---json
+{
+    "name":"Letter to: Krsnanandini — April 8, 1975",
+    "h1":"Krsnanandini — April 8, 1975",
+    "title":"Letter to: Krsnanandini — April 8, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Krsnanandini ======
 

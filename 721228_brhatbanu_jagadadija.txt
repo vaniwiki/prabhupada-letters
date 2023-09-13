@@ -1,5 +1,11 @@
-~~Title: Letter to: Brhatbanu (Brian Peverill), Jagadadija (Jean Luc Norroy) — December 28, 1972~~
-~~bc: Brhatbanu (Brian Peverill), Jagadadija (Jean Luc Norroy) — December 28, 1972~~
+---json
+{
+    "name":"Letter to: Brhatbanu (Brian Peverill), Jagadadija (Jean Luc Norroy) — December 28, 1972",
+    "h1":"Brhatbanu (Brian Peverill), Jagadadija (Jean Luc Norroy) — December 28, 1972",
+    "title":"Letter to: Brhatbanu (Brian Peverill), Jagadadija (Jean Luc Norroy) — December 28, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Brhatbanu (Brian Peverill), Jagadadija (Jean Luc Norroy) ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Miss Wanda Bonner — August 24, 1975~~
-~~bc: Miss Wanda Bonner — August 24, 1975~~
+---json
+{
+    "name":"Letter to: Miss Wanda Bonner — August 24, 1975",
+    "h1":"Miss Wanda Bonner — August 24, 1975",
+    "title":"Letter to: Miss Wanda Bonner — August 24, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Miss Wanda Bonner ======
 

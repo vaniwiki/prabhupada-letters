@@ -1,5 +1,11 @@
-~~Title: Letter to: Srivatsa Goswami — June 24, 1976~~
-~~bc: Srivatsa Goswami — June 24, 1976~~
+---json
+{
+    "name":"Letter to: Srivatsa Goswami — June 24, 1976",
+    "h1":"Srivatsa Goswami — June 24, 1976",
+    "title":"Letter to: Srivatsa Goswami — June 24, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Srivatsa Goswami ======
 

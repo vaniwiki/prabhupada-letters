@@ -1,5 +1,11 @@
-~~Title: Letter to: Candanacarya, Bharadraja — May 9, 1970~~
-~~bc: Candanacarya, Bharadraja — May 9, 1970~~
+---json
+{
+    "name":"Letter to: Candanacarya, Bharadraja — May 9, 1970",
+    "h1":"Candanacarya, Bharadraja — May 9, 1970",
+    "title":"Letter to: Candanacarya, Bharadraja — May 9, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Candanacarya, Bharadraja ======
 

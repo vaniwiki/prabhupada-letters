@@ -1,5 +1,11 @@
-~~Title: Letter to: Durgesh — December 16, 1974~~
-~~bc: Durgesh — December 16, 1974~~
+---json
+{
+    "name":"Letter to: Durgesh — December 16, 1974",
+    "h1":"Durgesh — December 16, 1974",
+    "title":"Letter to: Durgesh — December 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Durgesh ======
 

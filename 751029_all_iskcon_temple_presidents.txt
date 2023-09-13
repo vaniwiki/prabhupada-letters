@@ -1,5 +1,11 @@
-~~Title: Letter to: All ISKCON Temple Presidents — October 29, 1975~~
-~~bc: All ISKCON Temple Presidents — October 29, 1975~~
+---json
+{
+    "name":"Letter to: All ISKCON Temple Presidents — October 29, 1975",
+    "h1":"All ISKCON Temple Presidents — October 29, 1975",
+    "title":"Letter to: All ISKCON Temple Presidents — October 29, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: All ISKCON Temple Presidents ======
 

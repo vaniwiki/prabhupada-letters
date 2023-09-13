@@ -1,5 +1,11 @@
-~~Title: Letter to: Uttama Sloka[?] — December 31, 1968~~
-~~bc: Uttama Sloka[?] — December 31, 1968~~
+---json
+{
+    "name":"Letter to: Uttama Sloka[?] — December 31, 1968",
+    "h1":"Uttama Sloka[?] — December 31, 1968",
+    "title":"Letter to: Uttama Sloka[?] — December 31, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Uttama Sloka[?] ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhavi Lata — June 20, 1968~~
-~~bc: Madhavi Lata — June 20, 1968~~
+---json
+{
+    "name":"Letter to: Madhavi Lata — June 20, 1968",
+    "h1":"Madhavi Lata — June 20, 1968",
+    "title":"Letter to: Madhavi Lata — June 20, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Madhavi Lata ======
 

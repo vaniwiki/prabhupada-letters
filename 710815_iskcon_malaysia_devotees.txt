@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON Malaysia, Hanuman, Noo, others — August 15, 1971~~
-~~bc: ISKCON Malaysia, Hanuman, Noo, others — August 15, 1971~~
+---json
+{
+    "name":"Letter to: ISKCON Malaysia, Hanuman, Noo, others — August 15, 1971",
+    "h1":"ISKCON Malaysia, Hanuman, Noo, others — August 15, 1971",
+    "title":"Letter to: ISKCON Malaysia, Hanuman, Noo, others — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON Malaysia, Hanuman, Noo, others ======
 

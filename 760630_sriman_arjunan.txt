@@ -1,5 +1,11 @@
-~~Title: Letter to: Sriman Arjunan — June 30, 1976~~
-~~bc: Sriman Arjunan — June 30, 1976~~
+---json
+{
+    "name":"Letter to: Sriman Arjunan — June 30, 1976",
+    "h1":"Sriman Arjunan — June 30, 1976",
+    "title":"Letter to: Sriman Arjunan — June 30, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sriman Arjunan ======
 

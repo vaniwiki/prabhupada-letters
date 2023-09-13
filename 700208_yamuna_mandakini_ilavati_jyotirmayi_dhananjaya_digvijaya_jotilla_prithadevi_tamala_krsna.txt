@@ -1,5 +1,11 @@
-~~Title: Letter to: Yamuna, Mandakini, Ilavati, Jyotirmayi, Dhananjaya, Digvijaya, Jotilla, Prithadevi, Tamala Krsna — February 8, 1970~~
-~~bc: Yamuna, Mandakini, Ilavati, Jyotirmayi, Dhananjaya, Digvijaya, Jotilla, Prithadevi, Tamala Krsna — February 8, 1970~~
+---json
+{
+    "name":"Letter to: Yamuna, Mandakini, Ilavati, Jyotirmayi, Dhananjaya, Digvijaya, Jotilla, Prithadevi, Tamala Krsna — February 8, 1970",
+    "h1":"Yamuna, Mandakini, Ilavati, Jyotirmayi, Dhananjaya, Digvijaya, Jotilla, Prithadevi, Tamala Krsna — February 8, 1970",
+    "title":"Letter to: Yamuna, Mandakini, Ilavati, Jyotirmayi, Dhananjaya, Digvijaya, Jotilla, Prithadevi, Tamala Krsna — February 8, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Yamuna, Mandakini, Ilavati, Jyotirmayi, Dhananjaya, Digvijaya, Jotilla, Prithadevi, Tamala Krsna ======
 

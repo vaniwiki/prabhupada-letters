@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. K. M. Diwanji — February 24, 1972~~
-~~bc: Mr. K. M. Diwanji — February 24, 1972~~
+---json
+{
+    "name":"Letter to: Mr. K. M. Diwanji — February 24, 1972",
+    "h1":"Mr. K. M. Diwanji — February 24, 1972",
+    "title":"Letter to: Mr. K. M. Diwanji — February 24, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. K. M. Diwanji ======
 

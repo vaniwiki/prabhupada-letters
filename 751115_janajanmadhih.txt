@@ -1,5 +1,11 @@
-~~Title: Letter to: Janajanmadhih — November 15, 1975~~
-~~bc: Janajanmadhih — November 15, 1975~~
+---json
+{
+    "name":"Letter to: Janajanmadhih — November 15, 1975",
+    "h1":"Janajanmadhih — November 15, 1975",
+    "title":"Letter to: Janajanmadhih — November 15, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Janajanmadhih ======
 

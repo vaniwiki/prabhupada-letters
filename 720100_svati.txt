@@ -1,5 +1,11 @@
-~~Title: Letter to: Svati — January, 1972~~
-~~bc: Svati — January, 1972~~
+---json
+{
+    "name":"Letter to: Svati — January, 1972",
+    "h1":"Svati — January, 1972",
+    "title":"Letter to: Svati — January, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Svati ======
 

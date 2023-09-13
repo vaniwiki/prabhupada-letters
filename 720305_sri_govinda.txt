@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Govinda — March 5, 1972~~
-~~bc: Sri Govinda — March 5, 1972~~
+---json
+{
+    "name":"Letter to: Sri Govinda — March 5, 1972",
+    "h1":"Sri Govinda — March 5, 1972",
+    "title":"Letter to: Sri Govinda — March 5, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Govinda ======
 

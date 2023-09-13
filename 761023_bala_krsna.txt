@@ -1,5 +1,11 @@
-~~Title: Letter to: Bala Krsna — October 23, 1976~~
-~~bc: Bala Krsna — October 23, 1976~~
+---json
+{
+    "name":"Letter to: Bala Krsna — October 23, 1976",
+    "h1":"Bala Krsna — October 23, 1976",
+    "title":"Letter to: Bala Krsna — October 23, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Bala Krsna ======
 

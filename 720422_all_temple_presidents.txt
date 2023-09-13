@@ -1,5 +1,11 @@
-~~Title: Letter to: All Temple Presidents — April 22, 1972~~
-~~bc: All Temple Presidents — April 22, 1972~~
+---json
+{
+    "name":"Letter to: All Temple Presidents — April 22, 1972",
+    "h1":"All Temple Presidents — April 22, 1972",
+    "title":"Letter to: All Temple Presidents — April 22, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: All Temple Presidents ======
 

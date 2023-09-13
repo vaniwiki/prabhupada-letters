@@ -1,5 +1,11 @@
-~~Title: Letter to: Devotees — August 26, 1972~~
-~~bc: Devotees — August 26, 1972~~
+---json
+{
+    "name":"Letter to: Devotees — August 26, 1972",
+    "h1":"Devotees — August 26, 1972",
+    "title":"Letter to: Devotees — August 26, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Devotees ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Akshayananda Swami — January 15, 1977~~
-~~bc: Akshayananda Swami — January 15, 1977~~
+---json
+{
+    "name":"Letter to: Akshayananda Swami — January 15, 1977",
+    "h1":"Akshayananda Swami — January 15, 1977",
+    "title":"Letter to: Akshayananda Swami — January 15, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Akshayananda Swami ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Gopiparanadhana — September 28, 1976~~
-~~bc: Gopiparanadhana — September 28, 1976~~
+---json
+{
+    "name":"Letter to: Gopiparanadhana — September 28, 1976",
+    "h1":"Gopiparanadhana — September 28, 1976",
+    "title":"Letter to: Gopiparanadhana — September 28, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Gopiparanadhana ======
 

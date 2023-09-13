@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Viswesha Tirtha Swami — April 10, 1976~~
-~~bc: Sri Viswesha Tirtha Swami — April 10, 1976~~
+---json
+{
+    "name":"Letter to: Sri Viswesha Tirtha Swami — April 10, 1976",
+    "h1":"Sri Viswesha Tirtha Swami — April 10, 1976",
+    "title":"Letter to: Sri Viswesha Tirtha Swami — April 10, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Viswesha Tirtha Swami ======
 

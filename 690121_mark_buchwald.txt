@@ -1,5 +1,11 @@
-~~Title: Letter to: Mark Buchwald — January 21, 1969~~
-~~bc: Mark Buchwald — January 21, 1969~~
+---json
+{
+    "name":"Letter to: Mark Buchwald — January 21, 1969",
+    "h1":"Mark Buchwald — January 21, 1969",
+    "title":"Letter to: Mark Buchwald — January 21, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Mark Buchwald ======
 

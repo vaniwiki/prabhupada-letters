@@ -1,5 +1,11 @@
-~~Title: Letter to: G.L. Nanda — July 20, 1975~~
-~~bc: G.L. Nanda — July 20, 1975~~
+---json
+{
+    "name":"Letter to: G.L. Nanda — July 20, 1975",
+    "h1":"G.L. Nanda — July 20, 1975",
+    "title":"Letter to: G.L. Nanda — July 20, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: G.L. Nanda ======
 

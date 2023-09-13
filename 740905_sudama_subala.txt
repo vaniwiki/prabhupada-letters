@@ -1,5 +1,11 @@
-~~Title: Letter to: Sudama, Subala — September 5, 1974~~
-~~bc: Sudama, Subala — September 5, 1974~~
+---json
+{
+    "name":"Letter to: Sudama, Subala — September 5, 1974",
+    "h1":"Sudama, Subala — September 5, 1974",
+    "title":"Letter to: Sudama, Subala — September 5, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sudama, Subala ======
 

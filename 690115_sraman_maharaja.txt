@@ -1,5 +1,11 @@
-~~Title: Letter to: Sraman Maharaja — January 15, 1969~~
-~~bc: Sraman Maharaja — January 15, 1969~~
+---json
+{
+    "name":"Letter to: Sraman Maharaja — January 15, 1969",
+    "h1":"Sraman Maharaja — January 15, 1969",
+    "title":"Letter to: Sraman Maharaja — January 15, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Sraman Maharaja ======
 

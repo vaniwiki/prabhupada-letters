@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Ghosh — September 25, 1976~~
-~~bc: Sri Ghosh — September 25, 1976~~
+---json
+{
+    "name":"Letter to: Sri Ghosh — September 25, 1976",
+    "h1":"Sri Ghosh — September 25, 1976",
+    "title":"Letter to: Sri Ghosh — September 25, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Ghosh ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Rupa Vilasa (Robert McNaughton), Candrika (Carol McNaughton), Bhavatarini (Debbie Watt), Bhanutanya (Debra Wolin) — June 20, 1972~~
-~~bc: Rupa Vilasa (Robert McNaughton), Candrika (Carol McNaughton), Bhavatarini (Debbie Watt), Bhanutanya (Debra Wolin) — June 20, 1972~~
+---json
+{
+    "name":"Letter to: Rupa Vilasa (Robert McNaughton), Candrika (Carol McNaughton), Bhavatarini (Debbie Watt), Bhanutanya (Debra Wolin) — June 20, 1972",
+    "h1":"Rupa Vilasa (Robert McNaughton), Candrika (Carol McNaughton), Bhavatarini (Debbie Watt), Bhanutanya (Debra Wolin) — June 20, 1972",
+    "title":"Letter to: Rupa Vilasa (Robert McNaughton), Candrika (Carol McNaughton), Bhavatarini (Debbie Watt), Bhanutanya (Debra Wolin) — June 20, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Rupa Vilasa (Robert McNaughton), Candrika (Carol McNaughton), Bhavatarini (Debbie Watt), Bhanutanya (Debra Wolin) ======
 

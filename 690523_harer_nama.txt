@@ -1,5 +1,11 @@
-~~Title: Letter to: Harer Nama — May 23, 1969~~
-~~bc: Harer Nama — May 23, 1969~~
+---json
+{
+    "name":"Letter to: Harer Nama — May 23, 1969",
+    "h1":"Harer Nama — May 23, 1969",
+    "title":"Letter to: Harer Nama — May 23, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Harer Nama ======
 

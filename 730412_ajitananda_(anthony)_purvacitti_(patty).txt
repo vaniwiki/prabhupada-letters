@@ -1,5 +1,11 @@
-~~Title: Letter to: Ajitananda (Anthony), Purvacitti (Patty) — April 12, 1973~~
-~~bc: Ajitananda (Anthony), Purvacitti (Patty) — April 12, 1973~~
+---json
+{
+    "name":"Letter to: Ajitananda (Anthony), Purvacitti (Patty) — April 12, 1973",
+    "h1":"Ajitananda (Anthony), Purvacitti (Patty) — April 12, 1973",
+    "title":"Letter to: Ajitananda (Anthony), Purvacitti (Patty) — April 12, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Ajitananda (Anthony), Purvacitti (Patty) ======
 

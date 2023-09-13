@@ -1,5 +1,11 @@
-~~Title: Letter to: S. B. Bartarya — October 15, 1976~~
-~~bc: S. B. Bartarya — October 15, 1976~~
+---json
+{
+    "name":"Letter to: S. B. Bartarya — October 15, 1976",
+    "h1":"S. B. Bartarya — October 15, 1976",
+    "title":"Letter to: S. B. Bartarya — October 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: S. B. Bartarya ======
 

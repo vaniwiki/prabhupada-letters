@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsna Vilasini — June 3, 1975~~
-~~bc: Krsna Vilasini — June 3, 1975~~
+---json
+{
+    "name":"Letter to: Krsna Vilasini — June 3, 1975",
+    "h1":"Krsna Vilasini — June 3, 1975",
+    "title":"Letter to: Krsna Vilasini — June 3, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Krsna Vilasini ======
 

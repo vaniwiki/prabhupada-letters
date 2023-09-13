@@ -1,5 +1,11 @@
-~~Title: Letter to: Pope Paul VI — August 3, 1968~~
-~~bc: Pope Paul VI — August 3, 1968~~
+---json
+{
+    "name":"Letter to: Pope Paul VI — August 3, 1968",
+    "h1":"Pope Paul VI — August 3, 1968",
+    "title":"Letter to: Pope Paul VI — August 3, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Pope Paul VI ======
 

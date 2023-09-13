@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Robert Bedoian — May 26, 1975~~
-~~bc: Mr. Robert Bedoian — May 26, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Robert Bedoian — May 26, 1975",
+    "h1":"Mr. Robert Bedoian — May 26, 1975",
+    "title":"Letter to: Mr. Robert Bedoian — May 26, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Robert Bedoian ======
 

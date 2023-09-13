@@ -1,5 +1,11 @@
-~~Title: Letter to: Locana, Nalinikanta — February 18, 1972~~
-~~bc: Locana, Nalinikanta — February 18, 1972~~
+---json
+{
+    "name":"Letter to: Locana, Nalinikanta — February 18, 1972",
+    "h1":"Locana, Nalinikanta — February 18, 1972",
+    "title":"Letter to: Locana, Nalinikanta — February 18, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Locana, Nalinikanta ======
 

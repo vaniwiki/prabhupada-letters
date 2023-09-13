@@ -1,5 +1,11 @@
-~~Title: Letter to: Visitors’ Book — September 18, 1960~~
-~~bc: Visitors' Book — September 18, 1960~~
+---json
+{
+    "name":"Letter to: Visitors’ Book — September 18, 1960",
+    "h1":"Visitors' Book — September 18, 1960",
+    "title":"Letter to: Visitors’ Book — September 18, 1960",
+    "description":""
+}
+---
 
 ====== Letter to: Visitors’ Book ======
 

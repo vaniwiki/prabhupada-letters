@@ -1,5 +1,11 @@
-~~Title: Letter to: Swami Sachchidanand Bharati — May 11, 1975~~
-~~bc: Swami Sachchidanand Bharati — May 11, 1975~~
+---json
+{
+    "name":"Letter to: Swami Sachchidanand Bharati — May 11, 1975",
+    "h1":"Swami Sachchidanand Bharati — May 11, 1975",
+    "title":"Letter to: Swami Sachchidanand Bharati — May 11, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Swami Sachchidanand Bharati ======
 

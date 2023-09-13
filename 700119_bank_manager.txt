@@ -1,5 +1,11 @@
-~~Title: Letter to: Bank Manager — January 19, 1970~~
-~~bc: Bank Manager — January 19, 1970~~
+---json
+{
+    "name":"Letter to: Bank Manager — January 19, 1970",
+    "h1":"Bank Manager — January 19, 1970",
+    "title":"Letter to: Bank Manager — January 19, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Bank Manager ======
 

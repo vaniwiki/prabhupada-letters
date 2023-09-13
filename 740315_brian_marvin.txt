@@ -1,5 +1,11 @@
-~~Title: Letter to: Brian Marvin — March 15, 1974~~
-~~bc: Brian Marvin — March 15, 1974~~
+---json
+{
+    "name":"Letter to: Brian Marvin — March 15, 1974",
+    "h1":"Brian Marvin — March 15, 1974",
+    "title":"Letter to: Brian Marvin — March 15, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Brian Marvin ======
 

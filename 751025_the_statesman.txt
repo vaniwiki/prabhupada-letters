@@ -1,5 +1,11 @@
-~~Title: Letter to: The Statesman — October 25, 1975~~
-~~bc: The Statesman — October 25, 1975~~
+---json
+{
+    "name":"Letter to: The Statesman — October 25, 1975",
+    "h1":"The Statesman — October 25, 1975",
+    "title":"Letter to: The Statesman — October 25, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: The Statesman ======
 

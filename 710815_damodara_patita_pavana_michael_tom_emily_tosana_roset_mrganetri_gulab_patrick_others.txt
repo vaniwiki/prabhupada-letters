@@ -1,5 +1,11 @@
-~~Title: Letter to: Damodara, Patita Pavana, Michael, Tom, Emily, Tosana, Roset, Mrganetri, Gulab, Patrick, others — August 15, 1971~~
-~~bc: Damodara, Patita Pavana, Michael, Tom, Emily, Tosana, Roset, Mrganetri, Gulab, Patrick, others — August 15, 1971~~
+---json
+{
+    "name":"Letter to: Damodara, Patita Pavana, Michael, Tom, Emily, Tosana, Roset, Mrganetri, Gulab, Patrick, others — August 15, 1971",
+    "h1":"Damodara, Patita Pavana, Michael, Tom, Emily, Tosana, Roset, Mrganetri, Gulab, Patrick, others — August 15, 1971",
+    "title":"Letter to: Damodara, Patita Pavana, Michael, Tom, Emily, Tosana, Roset, Mrganetri, Gulab, Patrick, others — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Damodara, Patita Pavana, Michael, Tom, Emily, Tosana, Roset, Mrganetri, Gulab, Patrick, others ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Marri Chenna Reddy — November 18, 1974~~
-~~bc: Dr. Marri Chenna Reddy — November 18, 1974~~
+---json
+{
+    "name":"Letter to: Dr. Marri Chenna Reddy — November 18, 1974",
+    "h1":"Dr. Marri Chenna Reddy — November 18, 1974",
+    "title":"Letter to: Dr. Marri Chenna Reddy — November 18, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Marri Chenna Reddy ======
 

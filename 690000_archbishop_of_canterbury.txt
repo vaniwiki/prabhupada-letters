@@ -1,5 +1,11 @@
-~~Title: Letter to: Archbishop of Canterbury — Los Angeles, , 1969~~
-~~bc: Archbishop of Canterbury — Los Angeles, , 1969~~
+---json
+{
+    "name":"Letter to: Archbishop of Canterbury — Los Angeles, , 1969",
+    "h1":"Archbishop of Canterbury — Los Angeles, , 1969",
+    "title":"Letter to: Archbishop of Canterbury — Los Angeles, , 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Archbishop of Canterbury ======
 

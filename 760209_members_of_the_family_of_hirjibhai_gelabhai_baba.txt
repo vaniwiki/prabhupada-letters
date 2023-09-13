@@ -1,5 +1,11 @@
-~~Title: Letter to: Members of the family of Hirjibhai Gelabhai Baba — February 9, 1976~~
-~~bc: Members of the family of Hirjibhai Gelabhai Baba — February 9, 1976~~
+---json
+{
+    "name":"Letter to: Members of the family of Hirjibhai Gelabhai Baba — February 9, 1976",
+    "h1":"Members of the family of Hirjibhai Gelabhai Baba — February 9, 1976",
+    "title":"Letter to: Members of the family of Hirjibhai Gelabhai Baba — February 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Members of the family of Hirjibhai Gelabhai Baba ======
 

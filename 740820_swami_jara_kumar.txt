@@ -1,5 +1,11 @@
-~~Title: Letter to: Swami Jara Kumar — August 20, 1974~~
-~~bc: Swami Jara Kumar — August 20, 1974~~
+---json
+{
+    "name":"Letter to: Swami Jara Kumar — August 20, 1974",
+    "h1":"Swami Jara Kumar — August 20, 1974",
+    "title":"Letter to: Swami Jara Kumar — August 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Swami Jara Kumar ======
 

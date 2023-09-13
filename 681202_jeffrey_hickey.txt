@@ -1,5 +1,11 @@
-~~Title: Letter to: Jeffrey Hickey — December 2, 1968~~
-~~bc: Jeffrey Hickey — December 2, 1968~~
+---json
+{
+    "name":"Letter to: Jeffrey Hickey — December 2, 1968",
+    "h1":"Jeffrey Hickey — December 2, 1968",
+    "title":"Letter to: Jeffrey Hickey — December 2, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Jeffrey Hickey ======
 

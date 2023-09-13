@@ -1,5 +1,11 @@
-~~Title: Letter to: Siddhesvara, Krsnakanti — February 16, 1972~~
-~~bc: Siddhesvara, Krsnakanti — February 16, 1972~~
+---json
+{
+    "name":"Letter to: Siddhesvara, Krsnakanti — February 16, 1972",
+    "h1":"Siddhesvara, Krsnakanti — February 16, 1972",
+    "title":"Letter to: Siddhesvara, Krsnakanti — February 16, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Siddhesvara, Krsnakanti ======
 

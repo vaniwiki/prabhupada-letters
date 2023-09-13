@@ -1,5 +1,11 @@
-~~Title: Letter to: Areya — November 22, 1974~~
-~~bc: Areya — November 22, 1974~~
+---json
+{
+    "name":"Letter to: Areya — November 22, 1974",
+    "h1":"Areya — November 22, 1974",
+    "title":"Letter to: Areya — November 22, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Areya ======
 

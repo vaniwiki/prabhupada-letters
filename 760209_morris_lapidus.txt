@@ -1,5 +1,11 @@
-~~Title: Letter to: Morris Lapidus — February 9, 1976~~
-~~bc: Morris Lapidus — February 9, 1976~~
+---json
+{
+    "name":"Letter to: Morris Lapidus — February 9, 1976",
+    "h1":"Morris Lapidus — February 9, 1976",
+    "title":"Letter to: Morris Lapidus — February 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Morris Lapidus ======
 

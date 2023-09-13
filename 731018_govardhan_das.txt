@@ -1,5 +1,11 @@
-~~Title: Letter to: Govardhan Das — October 18, 1973~~
-~~bc: Govardhan Das — October 18, 1973~~
+---json
+{
+    "name":"Letter to: Govardhan Das — October 18, 1973",
+    "h1":"Govardhan Das — October 18, 1973",
+    "title":"Letter to: Govardhan Das — October 18, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Govardhan Das ======
 

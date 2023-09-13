@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Jayadayal Dalmia — January 10, 1976~~
-~~bc: Sri Jayadayal Dalmia — January 10, 1976~~
+---json
+{
+    "name":"Letter to: Sri Jayadayal Dalmia — January 10, 1976",
+    "h1":"Sri Jayadayal Dalmia — January 10, 1976",
+    "title":"Letter to: Sri Jayadayal Dalmia — January 10, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Jayadayal Dalmia ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Christy Hendryx — December 16, 1974~~
-~~bc: Christy Hendryx — December 16, 1974~~
+---json
+{
+    "name":"Letter to: Christy Hendryx — December 16, 1974",
+    "h1":"Christy Hendryx — December 16, 1974",
+    "title":"Letter to: Christy Hendryx — December 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Christy Hendryx ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri K. C. Kapur — January 31, 1976~~
-~~bc: Sri K. C. Kapur — January 31, 1976~~
+---json
+{
+    "name":"Letter to: Sri K. C. Kapur — January 31, 1976",
+    "h1":"Sri K. C. Kapur — January 31, 1976",
+    "title":"Letter to: Sri K. C. Kapur — January 31, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri K. C. Kapur ======
 

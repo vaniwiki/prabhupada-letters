@@ -1,5 +1,11 @@
-~~Title: Letter to: Vaikunthanatha — February 21, 1972~~
-~~bc: Vaikunthanatha — February 21, 1972~~
+---json
+{
+    "name":"Letter to: Vaikunthanatha — February 21, 1972",
+    "h1":"Vaikunthanatha — February 21, 1972",
+    "title":"Letter to: Vaikunthanatha — February 21, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Vaikunthanatha ======
 

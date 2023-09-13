@@ -1,5 +1,11 @@
-~~Title: Letter to: Dvija Hari — January 5, 1973~~
-~~bc: Dvija Hari — January 5, 1973~~
+---json
+{
+    "name":"Letter to: Dvija Hari — January 5, 1973",
+    "h1":"Dvija Hari — January 5, 1973",
+    "title":"Letter to: Dvija Hari — January 5, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Dvija Hari ======
 

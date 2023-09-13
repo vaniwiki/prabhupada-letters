@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Wolf — March 21, 1976~~
-~~bc: Dr. Wolf — March 21, 1976~~
+---json
+{
+    "name":"Letter to: Dr. Wolf — March 21, 1976",
+    "h1":"Dr. Wolf — March 21, 1976",
+    "title":"Letter to: Dr. Wolf — March 21, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Wolf ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri B. Kanungo — March 26, 1975~~
-~~bc: Sri B. Kanungo — March 26, 1975~~
+---json
+{
+    "name":"Letter to: Sri B. Kanungo — March 26, 1975",
+    "h1":"Sri B. Kanungo — March 26, 1975",
+    "title":"Letter to: Sri B. Kanungo — March 26, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sri B. Kanungo ======
 

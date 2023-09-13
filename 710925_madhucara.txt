@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhucara — September 25, 1971~~
-~~bc: Madhucara — September 25, 1971~~
+---json
+{
+    "name":"Letter to: Madhucara — September 25, 1971",
+    "h1":"Madhucara — September 25, 1971",
+    "title":"Letter to: Madhucara — September 25, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Madhucara ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: All Devotees — September 7, 1968~~
-~~bc: All Devotees — September 7, 1968~~
+---json
+{
+    "name":"Letter to: All Devotees — September 7, 1968",
+    "h1":"All Devotees — September 7, 1968",
+    "title":"Letter to: All Devotees — September 7, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: All Devotees ======
 

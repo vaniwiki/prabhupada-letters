@@ -1,5 +1,11 @@
-~~Title: Letter to: Annada — November 25, 1974~~
-~~bc: Annada — November 25, 1974~~
+---json
+{
+    "name":"Letter to: Annada — November 25, 1974",
+    "h1":"Annada — November 25, 1974",
+    "title":"Letter to: Annada — November 25, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Annada ======
 

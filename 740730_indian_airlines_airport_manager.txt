@@ -1,5 +1,11 @@
-~~Title: Letter to: Indian Airlines Airport Manager — July 30, 1974~~
-~~bc: Indian Airlines Airport Manager — July 30, 1974~~
+---json
+{
+    "name":"Letter to: Indian Airlines Airport Manager — July 30, 1974",
+    "h1":"Indian Airlines Airport Manager — July 30, 1974",
+    "title":"Letter to: Indian Airlines Airport Manager — July 30, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Indian Airlines Airport Manager ======
 

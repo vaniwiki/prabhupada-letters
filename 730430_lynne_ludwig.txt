@@ -1,5 +1,11 @@
-~~Title: Letter to: Lynne Ludwig — April 30, 1973~~
-~~bc: Lynne Ludwig — April 30, 1973~~
+---json
+{
+    "name":"Letter to: Lynne Ludwig — April 30, 1973",
+    "h1":"Lynne Ludwig — April 30, 1973",
+    "title":"Letter to: Lynne Ludwig — April 30, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Lynne Ludwig ======
 

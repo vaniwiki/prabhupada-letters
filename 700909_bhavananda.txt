@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhavananda — September 9, 1970~~
-~~bc: Bhavananda — September 9, 1970~~
+---json
+{
+    "name":"Letter to: Bhavananda — September 9, 1970",
+    "h1":"Bhavananda — September 9, 1970",
+    "title":"Letter to: Bhavananda — September 9, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Bhavananda ======
 

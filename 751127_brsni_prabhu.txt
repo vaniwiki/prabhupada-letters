@@ -1,5 +1,11 @@
-~~Title: Letter to: Brsni Prabhu — November 27, 1975~~
-~~bc: Brsni Prabhu — November 27, 1975~~
+---json
+{
+    "name":"Letter to: Brsni Prabhu — November 27, 1975",
+    "h1":"Brsni Prabhu — November 27, 1975",
+    "title":"Letter to: Brsni Prabhu — November 27, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Brsni Prabhu ======
 

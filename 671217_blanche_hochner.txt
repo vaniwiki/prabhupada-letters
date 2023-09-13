@@ -1,5 +1,11 @@
-~~Title: Letter to: Blanche Hochner — December 17, 1967~~
-~~bc: Blanche Hochner — December 17, 1967~~
+---json
+{
+    "name":"Letter to: Blanche Hochner — December 17, 1967",
+    "h1":"Blanche Hochner — December 17, 1967",
+    "title":"Letter to: Blanche Hochner — December 17, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Blanche Hochner ======
 

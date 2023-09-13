@@ -1,5 +1,11 @@
-~~Title: Letter to: Barbara Eady — October 25, 1976~~
-~~bc: Barbara Eady — October 25, 1976~~
+---json
+{
+    "name":"Letter to: Barbara Eady — October 25, 1976",
+    "h1":"Barbara Eady — October 25, 1976",
+    "title":"Letter to: Barbara Eady — October 25, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Barbara Eady ======
 

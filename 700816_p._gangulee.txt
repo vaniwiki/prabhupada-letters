@@ -1,5 +1,11 @@
-~~Title: Letter to: P. Gangulee — August 16, 1970~~
-~~bc: P. Gangulee — August 16, 1970~~
+---json
+{
+    "name":"Letter to: P. Gangulee — August 16, 1970",
+    "h1":"P. Gangulee — August 16, 1970",
+    "title":"Letter to: P. Gangulee — August 16, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: P. Gangulee ======
 

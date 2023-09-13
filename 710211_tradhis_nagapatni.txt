@@ -1,5 +1,11 @@
-~~Title: Letter to: Tradhis, Nagapatni — February 11, 1971~~
-~~bc: Tradhis, Nagapatni — February 11, 1971~~
+---json
+{
+    "name":"Letter to: Tradhis, Nagapatni — February 11, 1971",
+    "h1":"Tradhis, Nagapatni — February 11, 1971",
+    "title":"Letter to: Tradhis, Nagapatni — February 11, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Tradhis, Nagapatni ======
 

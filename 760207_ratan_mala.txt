@@ -1,5 +1,11 @@
-~~Title: Letter to: Ratan Mala — February 7, 1976~~
-~~bc: Ratan Mala — February 7, 1976~~
+---json
+{
+    "name":"Letter to: Ratan Mala — February 7, 1976",
+    "h1":"Ratan Mala — February 7, 1976",
+    "title":"Letter to: Ratan Mala — February 7, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Ratan Mala ======
 

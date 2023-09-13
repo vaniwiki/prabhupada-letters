@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayapataka , Bhavananda , Brahmananda — March 22, 1974~~
-~~bc: Jayapataka , Bhavananda , Brahmananda — March 22, 1974~~
+---json
+{
+    "name":"Letter to: Jayapataka , Bhavananda , Brahmananda — March 22, 1974",
+    "h1":"Jayapataka , Bhavananda , Brahmananda — March 22, 1974",
+    "title":"Letter to: Jayapataka , Bhavananda , Brahmananda — March 22, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Jayapataka , Bhavananda , Brahmananda ======
 

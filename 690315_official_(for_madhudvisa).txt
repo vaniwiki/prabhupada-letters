@@ -1,5 +1,11 @@
-~~Title: Letter to: Official (for Madhudvisa) — March 15, 1969~~
-~~bc: Official (for Madhudvisa) — March 15, 1969~~
+---json
+{
+    "name":"Letter to: Official (for Madhudvisa) — March 15, 1969",
+    "h1":"Official (for Madhudvisa) — March 15, 1969",
+    "title":"Letter to: Official (for Madhudvisa) — March 15, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Official (for Madhudvisa) ======
 

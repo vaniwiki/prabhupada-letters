@@ -1,5 +1,11 @@
-~~Title: Letter to: V. G. K. Dipple — April 2, 1976~~
-~~bc: V. G. K. Dipple — April 2, 1976~~
+---json
+{
+    "name":"Letter to: V. G. K. Dipple — April 2, 1976",
+    "h1":"V. G. K. Dipple — April 2, 1976",
+    "title":"Letter to: V. G. K. Dipple — April 2, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: V. G. K. Dipple ======
 

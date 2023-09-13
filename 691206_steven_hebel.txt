@@ -1,5 +1,11 @@
-~~Title: Letter to: Steven Hebel — December 6, 1969~~
-~~bc: Steven Hebel — December 6, 1969~~
+---json
+{
+    "name":"Letter to: Steven Hebel — December 6, 1969",
+    "h1":"Steven Hebel — December 6, 1969",
+    "title":"Letter to: Steven Hebel — December 6, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Steven Hebel ======
 

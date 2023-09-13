@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsna Devi — September 29, 1967~~
-~~bc: Krsna Devi — September 29, 1967~~
+---json
+{
+    "name":"Letter to: Krsna Devi — September 29, 1967",
+    "h1":"Krsna Devi — September 29, 1967",
+    "title":"Letter to: Krsna Devi — September 29, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Krsna Devi ======
 

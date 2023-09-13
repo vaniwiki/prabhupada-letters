@@ -1,5 +1,11 @@
-~~Title: Letter to: Maeve Davies — February 21, 1976~~
-~~bc: Maeve Davies — February 21, 1976~~
+---json
+{
+    "name":"Letter to: Maeve Davies — February 21, 1976",
+    "h1":"Maeve Davies — February 21, 1976",
+    "title":"Letter to: Maeve Davies — February 21, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Maeve Davies ======
 

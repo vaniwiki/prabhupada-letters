@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Chatterjee — September 27, 1976~~
-~~bc: Dr. Chatterjee — September 27, 1976~~
+---json
+{
+    "name":"Letter to: Dr. Chatterjee — September 27, 1976",
+    "h1":"Dr. Chatterjee — September 27, 1976",
+    "title":"Letter to: Dr. Chatterjee — September 27, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Chatterjee ======
 

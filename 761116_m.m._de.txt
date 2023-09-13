@@ -1,5 +1,11 @@
-~~Title: Letter to: M. M. De — November 16, 1976~~
-~~bc: M. M. De — November 16, 1976~~
+---json
+{
+    "name":"Letter to: M. M. De — November 16, 1976",
+    "h1":"M. M. De — November 16, 1976",
+    "title":"Letter to: M. M. De — November 16, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: M. M. De ======
 

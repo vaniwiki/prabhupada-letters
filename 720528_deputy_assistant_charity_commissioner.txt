@@ -1,5 +1,11 @@
-~~Title: Letter to: Deputy/Assistant Charity Commissioner — May 28, 1972~~
-~~bc: Deputy/Assistant Charity Commissioner — May 28, 1972~~
+---json
+{
+    "name":"Letter to: Deputy/Assistant Charity Commissioner — May 28, 1972",
+    "h1":"Deputy/Assistant Charity Commissioner — May 28, 1972",
+    "title":"Letter to: Deputy/Assistant Charity Commissioner — May 28, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Deputy/Assistant Charity Commissioner ======
 

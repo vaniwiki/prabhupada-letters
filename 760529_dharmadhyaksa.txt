@@ -1,5 +1,11 @@
-~~Title: Letter to: Dharmadhyaksa — May 29, 1976~~
-~~bc: Dharmadhyaksa — May 29, 1976~~
+---json
+{
+    "name":"Letter to: Dharmadhyaksa — May 29, 1976",
+    "h1":"Dharmadhyaksa — May 29, 1976",
+    "title":"Letter to: Dharmadhyaksa — May 29, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dharmadhyaksa ======
 

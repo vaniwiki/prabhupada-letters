@@ -1,5 +1,11 @@
-~~Title: Letter to: Carl Lange — November 14, 1969~~
-~~bc: Carl Lange — November 14, 1969~~
+---json
+{
+    "name":"Letter to: Carl Lange — November 14, 1969",
+    "h1":"Carl Lange — November 14, 1969",
+    "title":"Letter to: Carl Lange — November 14, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Carl Lange ======
 

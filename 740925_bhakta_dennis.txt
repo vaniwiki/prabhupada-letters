@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhakta Dennis — September 25, 1974~~
-~~bc: Bhakta Dennis — September 25, 1974~~
+---json
+{
+    "name":"Letter to: Bhakta Dennis — September 25, 1974",
+    "h1":"Bhakta Dennis — September 25, 1974",
+    "title":"Letter to: Bhakta Dennis — September 25, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Bhakta Dennis ======
 

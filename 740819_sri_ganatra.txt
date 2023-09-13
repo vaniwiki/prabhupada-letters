@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Ganatra — August 19, 1974~~
-~~bc: Sri Ganatra — August 19, 1974~~
+---json
+{
+    "name":"Letter to: Sri Ganatra — August 19, 1974",
+    "h1":"Sri Ganatra — August 19, 1974",
+    "title":"Letter to: Sri Ganatra — August 19, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Ganatra ======
 

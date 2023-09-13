@@ -1,5 +1,11 @@
-~~Title: Letter to: Ādi-kesava — September 24, 1974~~
-~~bc: Ādi-kesava — September 24, 1974~~
+---json
+{
+    "name":"Letter to: Ādi-kesava — September 24, 1974",
+    "h1":"Ādi-kesava — September 24, 1974",
+    "title":"Letter to: Ādi-kesava — September 24, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Ādi-kesava ======
 

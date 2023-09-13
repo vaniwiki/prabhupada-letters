@@ -1,5 +1,11 @@
-~~Title: Letter to: Jennifer Lynne Davis — June 9, 1976~~
-~~bc: Jennifer Lynne Davis — June 9, 1976~~
+---json
+{
+    "name":"Letter to: Jennifer Lynne Davis — June 9, 1976",
+    "h1":"Jennifer Lynne Davis — June 9, 1976",
+    "title":"Letter to: Jennifer Lynne Davis — June 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Jennifer Lynne Davis ======
 

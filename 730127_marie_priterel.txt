@@ -1,5 +1,11 @@
-~~Title: Letter to: Marie Priterel — January 27, 1973~~
-~~bc: Marie Priterel — January 27, 1973~~
+---json
+{
+    "name":"Letter to: Marie Priterel — January 27, 1973",
+    "h1":"Marie Priterel — January 27, 1973",
+    "title":"Letter to: Marie Priterel — January 27, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Marie Priterel ======
 

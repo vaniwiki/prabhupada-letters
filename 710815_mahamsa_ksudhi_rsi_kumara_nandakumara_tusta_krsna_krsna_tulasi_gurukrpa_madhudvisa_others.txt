@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahamsa, Ksudhi, Rsi Kumara, Nandakumara, Tusta Krsna, Krsna Tulasi, Gurukrpa, Madhudvisa, others — August 15, 1971~~
-~~bc: Mahamsa, Ksudhi, Rsi Kumara, Nandakumara, Tusta Krsna, Krsna Tulasi, Gurukrpa, Madhudvisa, others — August 15, 1971~~
+---json
+{
+    "name":"Letter to: Mahamsa, Ksudhi, Rsi Kumara, Nandakumara, Tusta Krsna, Krsna Tulasi, Gurukrpa, Madhudvisa, others — August 15, 1971",
+    "h1":"Mahamsa, Ksudhi, Rsi Kumara, Nandakumara, Tusta Krsna, Krsna Tulasi, Gurukrpa, Madhudvisa, others — August 15, 1971",
+    "title":"Letter to: Mahamsa, Ksudhi, Rsi Kumara, Nandakumara, Tusta Krsna, Krsna Tulasi, Gurukrpa, Madhudvisa, others — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Mahamsa, Ksudhi, Rsi Kumara, Nandakumara, Tusta Krsna, Krsna Tulasi, Gurukrpa, Madhudvisa, others ======
 

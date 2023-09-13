@@ -1,5 +1,11 @@
-~~Title: Letter to: Brahmananda — June 19, 1970~~
-~~bc: Brahmananda — June 19, 1970~~
+---json
+{
+    "name":"Letter to: Brahmananda — June 19, 1970",
+    "h1":"Brahmananda — June 19, 1970",
+    "title":"Letter to: Brahmananda — June 19, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Brahmananda ======
 

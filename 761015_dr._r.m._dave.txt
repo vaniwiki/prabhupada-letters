@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. R.M. Dave — October 15, 1976~~
-~~bc: Dr. R.M. Dave — October 15, 1976~~
+---json
+{
+    "name":"Letter to: Dr. R.M. Dave — October 15, 1976",
+    "h1":"Dr. R.M. Dave — October 15, 1976",
+    "title":"Letter to: Dr. R.M. Dave — October 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. R.M. Dave ======
 

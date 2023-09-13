@@ -1,5 +1,11 @@
-~~Title: Letter to: Brahmananda , Gargamuni — July 31, 1970~~
-~~bc: Brahmananda , Gargamuni — July 31, 1970~~
+---json
+{
+    "name":"Letter to: Brahmananda , Gargamuni — July 31, 1970",
+    "h1":"Brahmananda , Gargamuni — July 31, 1970",
+    "title":"Letter to: Brahmananda , Gargamuni — July 31, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Brahmananda , Gargamuni ======
 

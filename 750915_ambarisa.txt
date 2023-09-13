@@ -1,5 +1,11 @@
-~~Title: Letter to: Ambarisa — September 15, 1975~~
-~~bc: Ambarisa — September 15, 1975~~
+---json
+{
+    "name":"Letter to: Ambarisa — September 15, 1975",
+    "h1":"Ambarisa — September 15, 1975",
+    "title":"Letter to: Ambarisa — September 15, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Ambarisa ======
 

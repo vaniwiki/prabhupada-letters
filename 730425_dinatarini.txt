@@ -1,5 +1,11 @@
-~~Title: Letter to: Dinatarini — April 25, 1973~~
-~~bc: Dinatarini — April 25, 1973~~
+---json
+{
+    "name":"Letter to: Dinatarini — April 25, 1973",
+    "h1":"Dinatarini — April 25, 1973",
+    "title":"Letter to: Dinatarini — April 25, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Dinatarini ======
 

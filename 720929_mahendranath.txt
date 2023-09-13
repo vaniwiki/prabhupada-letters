@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahendranath — September 29, 1972~~
-~~bc: Mahendranath — September 29, 1972~~
+---json
+{
+    "name":"Letter to: Mahendranath — September 29, 1972",
+    "h1":"Mahendranath — September 29, 1972",
+    "title":"Letter to: Mahendranath — September 29, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Mahendranath ======
 

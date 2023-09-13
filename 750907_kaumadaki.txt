@@ -1,5 +1,11 @@
-~~Title: Letter to: Kaumadaki — September 7, 1975~~
-~~bc: Kaumadaki — September 7, 1975~~
+---json
+{
+    "name":"Letter to: Kaumadaki — September 7, 1975",
+    "h1":"Kaumadaki — September 7, 1975",
+    "title":"Letter to: Kaumadaki — September 7, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Kaumadaki ======
 

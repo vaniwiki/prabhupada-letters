@@ -1,5 +1,11 @@
-~~Title: Letter to: Gaurachand Goswami — February 16, 1977~~
-~~bc: Gaurachand Goswami — February 16, 1977~~
+---json
+{
+    "name":"Letter to: Gaurachand Goswami — February 16, 1977",
+    "h1":"Gaurachand Goswami — February 16, 1977",
+    "title":"Letter to: Gaurachand Goswami — February 16, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Gaurachand Goswami ======
 

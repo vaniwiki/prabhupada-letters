@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhagavatji, Gunarnava — January 8, 1977~~
-~~bc: Bhagavatji, Gunarnava — January 8, 1977~~
+---json
+{
+    "name":"Letter to: Bhagavatji, Gunarnava — January 8, 1977",
+    "h1":"Bhagavatji, Gunarnava — January 8, 1977",
+    "title":"Letter to: Bhagavatji, Gunarnava — January 8, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Bhagavatji, Gunarnava ======
 

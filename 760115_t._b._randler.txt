@@ -1,5 +1,11 @@
-~~Title: Letter to: T. B. Randler — January 15, 1976~~
-~~bc: T. B. Randler — January 15, 1976~~
+---json
+{
+    "name":"Letter to: T. B. Randler — January 15, 1976",
+    "h1":"T. B. Randler — January 15, 1976",
+    "title":"Letter to: T. B. Randler — January 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: T. B. Randler ======
 

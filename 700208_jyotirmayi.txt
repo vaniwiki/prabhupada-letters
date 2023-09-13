@@ -1,5 +1,11 @@
-~~Title: Letter to: Jyotirmayi — February 8, 1970~~
-~~bc: Jyotirmayi — February 8, 1970~~
+---json
+{
+    "name":"Letter to: Jyotirmayi — February 8, 1970",
+    "h1":"Jyotirmayi — February 8, 1970",
+    "title":"Letter to: Jyotirmayi — February 8, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Jyotirmayi ======
 

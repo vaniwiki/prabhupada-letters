@@ -1,5 +1,11 @@
-~~Title: Letter to: David B. Richeter Hughes — September 8, 1976~~
-~~bc: David B. Richeter Hughes — September 8, 1976~~
+---json
+{
+    "name":"Letter to: David B. Richeter Hughes — September 8, 1976",
+    "h1":"David B. Richeter Hughes — September 8, 1976",
+    "title":"Letter to: David B. Richeter Hughes — September 8, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: David B. Richeter Hughes ======
 

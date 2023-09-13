@@ -1,5 +1,11 @@
-~~Title: Letter to: Satsvarupa — December 17, 1971~~
-~~bc: Satsvarupa — December 17, 1971~~
+---json
+{
+    "name":"Letter to: Satsvarupa — December 17, 1971",
+    "h1":"Satsvarupa — December 17, 1971",
+    "title":"Letter to: Satsvarupa — December 17, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Satsvarupa ======
 

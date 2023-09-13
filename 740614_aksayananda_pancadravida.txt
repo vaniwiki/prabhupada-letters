@@ -1,5 +1,11 @@
-~~Title: Letter to: Aksayananda, Pancadravida — June 14, 1974~~
-~~bc: Aksayananda, Pancadravida — June 14, 1974~~
+---json
+{
+    "name":"Letter to: Aksayananda, Pancadravida — June 14, 1974",
+    "h1":"Aksayananda, Pancadravida — June 14, 1974",
+    "title":"Letter to: Aksayananda, Pancadravida — June 14, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Aksayananda, Pancadravida ======
 

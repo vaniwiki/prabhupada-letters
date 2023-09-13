@@ -1,5 +1,11 @@
-~~Title: Letter to: Gerald Sawas — September 9, 1972~~
-~~bc: Gerald Sawas — September 9, 1972~~
+---json
+{
+    "name":"Letter to: Gerald Sawas — September 9, 1972",
+    "h1":"Gerald Sawas — September 9, 1972",
+    "title":"Letter to: Gerald Sawas — September 9, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Gerald Sawas ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Jagat guru — October 16, 1976~~
-~~bc: Jagat guru — October 16, 1976~~
+---json
+{
+    "name":"Letter to: Jagat guru — October 16, 1976",
+    "h1":"Jagat guru — October 16, 1976",
+    "title":"Letter to: Jagat guru — October 16, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Jagat guru ======
 

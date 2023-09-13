@@ -1,5 +1,11 @@
-~~Title: Letter to: All Temple Presidents, G.B.C. and Sannyasis — , 17 October, 1975~~
-~~bc: All Temple Presidents, G.B.C. and Sannyasis — , 17 October, 1975~~
+---json
+{
+    "name":"Letter to: All Temple Presidents, G.B.C. and Sannyasis — , 17 October, 1975",
+    "h1":"All Temple Presidents, G.B.C. and Sannyasis — , 17 October, 1975",
+    "title":"Letter to: All Temple Presidents, G.B.C. and Sannyasis — , 17 October, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: All Temple Presidents, G.B.C. and Sannyasis ======
 

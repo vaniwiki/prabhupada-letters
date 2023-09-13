@@ -1,5 +1,11 @@
-~~Title: Letter to: Bank of America — May 7, 1977~~
-~~bc: Bank of America — May 7, 1977~~
+---json
+{
+    "name":"Letter to: Bank of America — May 7, 1977",
+    "h1":"Bank of America — May 7, 1977",
+    "title":"Letter to: Bank of America — May 7, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Bank of America ======
 

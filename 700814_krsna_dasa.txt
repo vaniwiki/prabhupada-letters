@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsna dasa — August 14, 1970~~
-~~bc: Krsna dasa — August 14, 1970~~
+---json
+{
+    "name":"Letter to: Krsna dasa — August 14, 1970",
+    "h1":"Krsna dasa — August 14, 1970",
+    "title":"Letter to: Krsna dasa — August 14, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Krsna dasa ======
 

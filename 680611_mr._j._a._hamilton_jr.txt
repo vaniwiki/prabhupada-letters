@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. J. A. Hamilton Jr — June 11, 1968~~
-~~bc: Mr. J. A. Hamilton Jr — June 11, 1968~~
+---json
+{
+    "name":"Letter to: Mr. J. A. Hamilton Jr — June 11, 1968",
+    "h1":"Mr. J. A. Hamilton Jr — June 11, 1968",
+    "title":"Letter to: Mr. J. A. Hamilton Jr — June 11, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. J. A. Hamilton Jr ======
 

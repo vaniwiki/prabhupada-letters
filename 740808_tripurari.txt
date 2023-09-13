@@ -1,5 +1,11 @@
-~~Title: Letter to: Tripurari — August 8, 1974~~
-~~bc: Tripurari — August 8, 1974~~
+---json
+{
+    "name":"Letter to: Tripurari — August 8, 1974",
+    "h1":"Tripurari — August 8, 1974",
+    "title":"Letter to: Tripurari — August 8, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Tripurari ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Gwalior Tank Branch — December 14, 1972~~
-~~bc: Gwalior Tank Branch — December 14, 1972~~
+---json
+{
+    "name":"Letter to: Gwalior Tank Branch — December 14, 1972",
+    "h1":"Gwalior Tank Branch — December 14, 1972",
+    "title":"Letter to: Gwalior Tank Branch — December 14, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Gwalior Tank Branch ======
 

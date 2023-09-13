@@ -1,5 +1,11 @@
-~~Title: Letter to: Niranjana — August 20, 1976~~
-~~bc: Niranjana — August 20, 1976~~
+---json
+{
+    "name":"Letter to: Niranjana — August 20, 1976",
+    "h1":"Niranjana — August 20, 1976",
+    "title":"Letter to: Niranjana — August 20, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Niranjana ======
 

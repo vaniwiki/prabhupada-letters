@@ -1,5 +1,11 @@
-~~Title: Letter to: Radha Krishna Dhawan — June 10, 1975~~
-~~bc: Radha Krishna Dhawan — June 10, 1975~~
+---json
+{
+    "name":"Letter to: Radha Krishna Dhawan — June 10, 1975",
+    "h1":"Radha Krishna Dhawan — June 10, 1975",
+    "title":"Letter to: Radha Krishna Dhawan — June 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Radha Krishna Dhawan ======
 

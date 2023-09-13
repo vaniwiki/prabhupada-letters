@@ -1,5 +1,11 @@
-~~Title: Letter to: Batu Gopala — June 17, 1975~~
-~~bc: Batu Gopala — June 17, 1975~~
+---json
+{
+    "name":"Letter to: Batu Gopala — June 17, 1975",
+    "h1":"Batu Gopala — June 17, 1975",
+    "title":"Letter to: Batu Gopala — June 17, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Batu Gopala ======
 

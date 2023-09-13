@@ -1,5 +1,11 @@
-~~Title: Letter to: Misses Sarna daughters — June 19, 1972~~
-~~bc: Misses Sarna daughters — June 19, 1972~~
+---json
+{
+    "name":"Letter to: Misses Sarna daughters — June 19, 1972",
+    "h1":"Misses Sarna daughters — June 19, 1972",
+    "title":"Letter to: Misses Sarna daughters — June 19, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Misses Sarna daughters ======
 

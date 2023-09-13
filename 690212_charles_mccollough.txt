@@ -1,5 +1,11 @@
-~~Title: Letter to: Charles McCollough — February 12, 1969~~
-~~bc: Charles McCollough — February 12, 1969~~
+---json
+{
+    "name":"Letter to: Charles McCollough — February 12, 1969",
+    "h1":"Charles McCollough — February 12, 1969",
+    "title":"Letter to: Charles McCollough — February 12, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Charles McCollough ======
 

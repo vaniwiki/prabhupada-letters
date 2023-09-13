@@ -1,5 +1,11 @@
-~~Title: Letter to: Tusta Krsna , Beharilal — October 15, 1973~~
-~~bc: Tusta Krsna , Beharilal — October 15, 1973~~
+---json
+{
+    "name":"Letter to: Tusta Krsna , Beharilal — October 15, 1973",
+    "h1":"Tusta Krsna , Beharilal — October 15, 1973",
+    "title":"Letter to: Tusta Krsna , Beharilal — October 15, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Tusta Krsna , Beharilal ======
 

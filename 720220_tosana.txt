@@ -1,5 +1,11 @@
-~~Title: Letter to: Tosana — February 20, 1972~~
-~~bc: Tosana — February 20, 1972~~
+---json
+{
+    "name":"Letter to: Tosana — February 20, 1972",
+    "h1":"Tosana — February 20, 1972",
+    "title":"Letter to: Tosana — February 20, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Tosana ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Ambarish — June 11, 1977~~
-~~bc: Ambarish — June 11, 1977~~
+---json
+{
+    "name":"Letter to: Ambarish — June 11, 1977",
+    "h1":"Ambarish — June 11, 1977",
+    "title":"Letter to: Ambarish — June 11, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Ambarish ======
 

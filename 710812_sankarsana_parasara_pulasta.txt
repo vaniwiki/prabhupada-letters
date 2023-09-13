@@ -1,5 +1,11 @@
-~~Title: Letter to: Sankarsana (Stephen Bridge), Parasara (Ron), Pulasta (Chris Pinkard) — August 12, 1971~~
-~~bc: Sankarsana (Stephen Bridge), Parasara (Ron), Pulasta (Chris Pinkard) — August 12, 1971~~
+---json
+{
+    "name":"Letter to: Sankarsana (Stephen Bridge), Parasara (Ron), Pulasta (Chris Pinkard) — August 12, 1971",
+    "h1":"Sankarsana (Stephen Bridge), Parasara (Ron), Pulasta (Chris Pinkard) — August 12, 1971",
+    "title":"Letter to: Sankarsana (Stephen Bridge), Parasara (Ron), Pulasta (Chris Pinkard) — August 12, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Sankarsana (Stephen Bridge), Parasara (Ron), Pulasta (Chris Pinkard) ======
 

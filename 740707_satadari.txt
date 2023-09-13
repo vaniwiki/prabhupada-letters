@@ -1,5 +1,11 @@
-~~Title: Letter to: Satadari — July 7, 1974~~
-~~bc: Satadari — July 7, 1974~~
+---json
+{
+    "name":"Letter to: Satadari — July 7, 1974",
+    "h1":"Satadari — July 7, 1974",
+    "title":"Letter to: Satadari — July 7, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Satadari ======
 

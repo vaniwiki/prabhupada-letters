@@ -1,5 +1,11 @@
-~~Title: Letter to: Gopala Krsna — September 27, 1976~~
-~~bc: Gopala Krsna — September 27, 1976~~
+---json
+{
+    "name":"Letter to: Gopala Krsna — September 27, 1976",
+    "h1":"Gopala Krsna — September 27, 1976",
+    "title":"Letter to: Gopala Krsna — September 27, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Gopala Krsna ======
 

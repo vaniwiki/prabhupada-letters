@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayananda — August 17, 1968~~
-~~bc: Jayananda — August 17, 1968~~
+---json
+{
+    "name":"Letter to: Jayananda — August 17, 1968",
+    "h1":"Jayananda — August 17, 1968",
+    "title":"Letter to: Jayananda — August 17, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Jayananda ======
 

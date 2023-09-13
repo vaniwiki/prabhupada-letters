@@ -1,5 +1,11 @@
-~~Title: Letter to: Syamasundara, Tamala Krsna — December 7, 1972~~
-~~bc: Syamasundara, Tamala Krsna — December 7, 1972~~
+---json
+{
+    "name":"Letter to: Syamasundara, Tamala Krsna — December 7, 1972",
+    "h1":"Syamasundara, Tamala Krsna — December 7, 1972",
+    "title":"Letter to: Syamasundara, Tamala Krsna — December 7, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Syamasundara, Tamala Krsna ======
 

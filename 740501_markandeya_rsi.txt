@@ -1,5 +1,11 @@
-~~Title: Letter to: Markandeya Rsi — May 1, 1974~~
-~~bc: Markandeya Rsi — May 1, 1974~~
+---json
+{
+    "name":"Letter to: Markandeya Rsi — May 1, 1974",
+    "h1":"Markandeya Rsi — May 1, 1974",
+    "title":"Letter to: Markandeya Rsi — May 1, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Markandeya Rsi ======
 

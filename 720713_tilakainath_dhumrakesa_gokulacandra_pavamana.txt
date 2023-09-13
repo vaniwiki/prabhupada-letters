@@ -1,5 +1,11 @@
-~~Title: Letter to: Tilakainath (Tom), Dhumrakesa (Doug), Gokulacandra (George), Pavamana (Paul) — July 13, 1972~~
-~~bc: Tilakainath (Tom), Dhumrakesa (Doug), Gokulacandra (George), Pavamana (Paul) — July 13, 1972~~
+---json
+{
+    "name":"Letter to: Tilakainath (Tom), Dhumrakesa (Doug), Gokulacandra (George), Pavamana (Paul) — July 13, 1972",
+    "h1":"Tilakainath (Tom), Dhumrakesa (Doug), Gokulacandra (George), Pavamana (Paul) — July 13, 1972",
+    "title":"Letter to: Tilakainath (Tom), Dhumrakesa (Doug), Gokulacandra (George), Pavamana (Paul) — July 13, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Tilakainath (Tom), Dhumrakesa (Doug), Gokulacandra (George), Pavamana (Paul) ======
 

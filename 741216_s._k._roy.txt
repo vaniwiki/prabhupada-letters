@@ -1,5 +1,11 @@
-~~Title: Letter to: S. K. Roy — December 16, 1974~~
-~~bc: S. K. Roy — December 16, 1974~~
+---json
+{
+    "name":"Letter to: S. K. Roy — December 16, 1974",
+    "h1":"S. K. Roy — December 16, 1974",
+    "title":"Letter to: S. K. Roy — December 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: S. K. Roy ======
 

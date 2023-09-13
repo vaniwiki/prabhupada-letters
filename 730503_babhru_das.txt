@@ -1,5 +1,11 @@
-~~Title: Letter to: Babhru Das — May 3, 1973~~
-~~bc: Babhru Das — May 3, 1973~~
+---json
+{
+    "name":"Letter to: Babhru Das — May 3, 1973",
+    "h1":"Babhru Das — May 3, 1973",
+    "title":"Letter to: Babhru Das — May 3, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Babhru Das ======
 

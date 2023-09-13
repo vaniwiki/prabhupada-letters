@@ -1,5 +1,11 @@
-~~Title: Letter to: Madana Mohana Mohini — August 19, 1973~~
-~~bc: Madana Mohana Mohini — August 19, 1973~~
+---json
+{
+    "name":"Letter to: Madana Mohana Mohini — August 19, 1973",
+    "h1":"Madana Mohana Mohini — August 19, 1973",
+    "title":"Letter to: Madana Mohana Mohini — August 19, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Madana Mohana Mohini ======
 

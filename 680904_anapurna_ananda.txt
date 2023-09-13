@@ -1,5 +1,11 @@
-~~Title: Letter to: Anapurna, Ananda — September 4, 1968~~
-~~bc: Anapurna, Ananda — September 4, 1968~~
+---json
+{
+    "name":"Letter to: Anapurna, Ananda — September 4, 1968",
+    "h1":"Anapurna, Ananda — September 4, 1968",
+    "title":"Letter to: Anapurna, Ananda — September 4, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Anapurna, Ananda ======
 

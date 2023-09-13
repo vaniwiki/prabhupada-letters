@@ -1,5 +1,11 @@
-~~Title: Letter to: Nico Kuyt — November 4, 1969~~
-~~bc: Nico Kuyt — November 4, 1969~~
+---json
+{
+    "name":"Letter to: Nico Kuyt — November 4, 1969",
+    "h1":"Nico Kuyt — November 4, 1969",
+    "title":"Letter to: Nico Kuyt — November 4, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Nico Kuyt ======
 

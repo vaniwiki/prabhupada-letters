@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager of Lloyds Bank — September 18, 1976~~
-~~bc: Manager of Lloyds Bank — September 18, 1976~~
+---json
+{
+    "name":"Letter to: Manager of Lloyds Bank — September 18, 1976",
+    "h1":"Manager of Lloyds Bank — September 18, 1976",
+    "title":"Letter to: Manager of Lloyds Bank — September 18, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Manager of Lloyds Bank ======
 

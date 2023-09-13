@@ -1,5 +1,11 @@
-~~Title: Letter to: Upendra, Citralekha — August 16, 1972~~
-~~bc: Upendra, Citralekha — August 16, 1972~~
+---json
+{
+    "name":"Letter to: Upendra, Citralekha — August 16, 1972",
+    "h1":"Upendra, Citralekha — August 16, 1972",
+    "title":"Letter to: Upendra, Citralekha — August 16, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Upendra, Citralekha ======
 

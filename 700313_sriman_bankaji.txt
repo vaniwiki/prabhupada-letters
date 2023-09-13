@@ -1,5 +1,11 @@
-~~Title: Letter to: Sriman Bankaji — March 13, 1970~~
-~~bc: Sriman Bankaji — March 13, 1970~~
+---json
+{
+    "name":"Letter to: Sriman Bankaji — March 13, 1970",
+    "h1":"Sriman Bankaji — March 13, 1970",
+    "title":"Letter to: Sriman Bankaji — March 13, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Sriman Bankaji ======
 

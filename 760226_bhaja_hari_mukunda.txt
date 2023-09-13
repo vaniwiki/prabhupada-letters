@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhaja Hari, Mukunda — February 26, 1976~~
-~~bc: Bhaja Hari, Mukunda — February 26, 1976~~
+---json
+{
+    "name":"Letter to: Bhaja Hari, Mukunda — February 26, 1976",
+    "h1":"Bhaja Hari, Mukunda — February 26, 1976",
+    "title":"Letter to: Bhaja Hari, Mukunda — February 26, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Bhaja Hari, Mukunda ======
 

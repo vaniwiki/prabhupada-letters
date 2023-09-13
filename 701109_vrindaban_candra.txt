@@ -1,5 +1,11 @@
-~~Title: Letter to: Vrindaban Candra — November 9, 1970~~
-~~bc: Vrindaban Candra — November 9, 1970~~
+---json
+{
+    "name":"Letter to: Vrindaban Candra — November 9, 1970",
+    "h1":"Vrindaban Candra — November 9, 1970",
+    "title":"Letter to: Vrindaban Candra — November 9, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Vrindaban Candra ======
 

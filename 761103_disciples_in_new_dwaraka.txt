@@ -1,5 +1,11 @@
-~~Title: Letter to: Disciples in New Dwaraka — November 3, 1976~~
-~~bc: Disciples in New Dwaraka — November 3, 1976~~
+---json
+{
+    "name":"Letter to: Disciples in New Dwaraka — November 3, 1976",
+    "h1":"Disciples in New Dwaraka — November 3, 1976",
+    "title":"Letter to: Disciples in New Dwaraka — November 3, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Disciples in New Dwaraka ======
 

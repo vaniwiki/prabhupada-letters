@@ -1,5 +1,11 @@
-~~Title: Letter to: Pradyumna — March 23, 1968~~
-~~bc: Pradyumna — March 23, 1968~~
+---json
+{
+    "name":"Letter to: Pradyumna — March 23, 1968",
+    "h1":"Pradyumna — March 23, 1968",
+    "title":"Letter to: Pradyumna — March 23, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Pradyumna ======
 

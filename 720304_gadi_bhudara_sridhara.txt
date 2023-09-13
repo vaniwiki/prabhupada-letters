@@ -1,5 +1,11 @@
-~~Title: Letter to: Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst) — March 4, 1972~~
-~~bc: Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst) — March 4, 1972~~
+---json
+{
+    "name":"Letter to: Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst) — March 4, 1972",
+    "h1":"Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst) — March 4, 1972",
+    "title":"Letter to: Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst) — March 4, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst) ======
 

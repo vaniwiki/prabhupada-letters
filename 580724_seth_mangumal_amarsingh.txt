@@ -1,5 +1,11 @@
-~~Title: Letter to: Seth Mangumal Amarsingh — July 24, 1958~~
-~~bc: Seth Mangumal Amarsingh — July 24, 1958~~
+---json
+{
+    "name":"Letter to: Seth Mangumal Amarsingh — July 24, 1958",
+    "h1":"Seth Mangumal Amarsingh — July 24, 1958",
+    "title":"Letter to: Seth Mangumal Amarsingh — July 24, 1958",
+    "description":""
+}
+---
 
 ====== Letter to: Seth Mangumal Amarsingh ======
 

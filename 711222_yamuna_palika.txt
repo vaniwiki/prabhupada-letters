@@ -1,5 +1,11 @@
-~~Title: Letter to: Yamuna, Palika — December 22, 1971~~
-~~bc: Yamuna, Palika — December 22, 1971~~
+---json
+{
+    "name":"Letter to: Yamuna, Palika — December 22, 1971",
+    "h1":"Yamuna, Palika — December 22, 1971",
+    "title":"Letter to: Yamuna, Palika — December 22, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Yamuna, Palika ======
 

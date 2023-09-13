@@ -1,5 +1,11 @@
-~~Title: Letter to: Lance Nally — May 1, 1971~~
-~~bc: Lance Nally — May 1, 1971~~
+---json
+{
+    "name":"Letter to: Lance Nally — May 1, 1971",
+    "h1":"Lance Nally — May 1, 1971",
+    "title":"Letter to: Lance Nally — May 1, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Lance Nally ======
 

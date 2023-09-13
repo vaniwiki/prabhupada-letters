@@ -1,5 +1,11 @@
-~~Title: Letter to: Kacoriaji — October 4, 1976~~
-~~bc: Kacoriaji — October 4, 1976~~
+---json
+{
+    "name":"Letter to: Kacoriaji — October 4, 1976",
+    "h1":"Kacoriaji — October 4, 1976",
+    "title":"Letter to: Kacoriaji — October 4, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Kacoriaji ======
 

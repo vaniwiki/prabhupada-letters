@@ -1,5 +1,11 @@
-~~Title: Letter to: Ksirodakasayi, Kirti ma, Caturbhuja, Karanadakasayi, Sandipani — September 9, 1972~~
-~~bc: Ksirodakasayi, Kirti ma, Caturbhuja, Karanadakasayi, Sandipani — September 9, 1972~~
+---json
+{
+    "name":"Letter to: Ksirodakasayi, Kirti ma, Caturbhuja, Karanadakasayi, Sandipani — September 9, 1972",
+    "h1":"Ksirodakasayi, Kirti ma, Caturbhuja, Karanadakasayi, Sandipani — September 9, 1972",
+    "title":"Letter to: Ksirodakasayi, Kirti ma, Caturbhuja, Karanadakasayi, Sandipani — September 9, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Ksirodakasayi, Kirti ma, Caturbhuja, Karanadakasayi, Sandipani ======
 

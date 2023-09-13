@@ -1,5 +1,11 @@
-~~Title: Letter to: Mooljibhai Patel — June 8, 1975~~
-~~bc: Mooljibhai Patel — June 8, 1975~~
+---json
+{
+    "name":"Letter to: Mooljibhai Patel — June 8, 1975",
+    "h1":"Mooljibhai Patel — June 8, 1975",
+    "title":"Letter to: Mooljibhai Patel — June 8, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mooljibhai Patel ======
 

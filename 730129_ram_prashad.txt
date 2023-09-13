@@ -1,5 +1,11 @@
-~~Title: Letter to: Ram Prashad — January 29, 1973~~
-~~bc: Ram Prashad — January 29, 1973~~
+---json
+{
+    "name":"Letter to: Ram Prashad — January 29, 1973",
+    "h1":"Ram Prashad — January 29, 1973",
+    "title":"Letter to: Ram Prashad — January 29, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Ram Prashad ======
 

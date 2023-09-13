@@ -1,5 +1,11 @@
-~~Title: Letter to: Siddha Svarupananda — July 16, 1974~~
-~~bc: Siddha Svarupananda — July 16, 1974~~
+---json
+{
+    "name":"Letter to: Siddha Svarupananda — July 16, 1974",
+    "h1":"Siddha Svarupananda — July 16, 1974",
+    "title":"Letter to: Siddha Svarupananda — July 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Siddha Svarupananda ======
 

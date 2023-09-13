@@ -1,5 +1,11 @@
-~~Title: Letter to: Carlos Bismark — July 12, 1975~~
-~~bc: Carlos Bismark — July 12, 1975~~
+---json
+{
+    "name":"Letter to: Carlos Bismark — July 12, 1975",
+    "h1":"Carlos Bismark — July 12, 1975",
+    "title":"Letter to: Carlos Bismark — July 12, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Carlos Bismark ======
 

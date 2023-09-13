@@ -1,5 +1,11 @@
-~~Title: Letter to: Ameyatma — December 8, 1974~~
-~~bc: Ameyatma — December 8, 1974~~
+---json
+{
+    "name":"Letter to: Ameyatma — December 8, 1974",
+    "h1":"Ameyatma — December 8, 1974",
+    "title":"Letter to: Ameyatma — December 8, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Ameyatma ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Immigration Service — April 5, 1971~~
-~~bc: Immigration Service — April 5, 1971~~
+---json
+{
+    "name":"Letter to: Immigration Service — April 5, 1971",
+    "h1":"Immigration Service — April 5, 1971",
+    "title":"Letter to: Immigration Service — April 5, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Immigration Service ======
 

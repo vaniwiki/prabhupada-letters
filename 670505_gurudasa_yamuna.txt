@@ -1,5 +1,11 @@
-~~Title: Letter to: Gurudasa, Yamuna — May 5, 1967~~
-~~bc: Gurudasa, Yamuna — May 5, 1967~~
+---json
+{
+    "name":"Letter to: Gurudasa, Yamuna — May 5, 1967",
+    "h1":"Gurudasa, Yamuna — May 5, 1967",
+    "title":"Letter to: Gurudasa, Yamuna — May 5, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Gurudasa, Yamuna ======
 

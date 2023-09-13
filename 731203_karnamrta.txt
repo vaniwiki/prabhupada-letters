@@ -1,5 +1,11 @@
-~~Title: Letter to: Karnamrta — December 3, 1973~~
-~~bc: Karnamrta — December 3, 1973~~
+---json
+{
+    "name":"Letter to: Karnamrta — December 3, 1973",
+    "h1":"Karnamrta — December 3, 1973",
+    "title":"Letter to: Karnamrta — December 3, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Karnamrta ======
 

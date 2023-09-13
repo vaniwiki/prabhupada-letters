@@ -1,5 +1,11 @@
-~~Title: Letter to: Karandhara, Bali-mardana — December 14, 1972~~
-~~bc: Karandhara, Bali-mardana — December 14, 1972~~
+---json
+{
+    "name":"Letter to: Karandhara, Bali-mardana — December 14, 1972",
+    "h1":"Karandhara, Bali-mardana — December 14, 1972",
+    "title":"Letter to: Karandhara, Bali-mardana — December 14, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Karandhara, Bali-mardana ======
 

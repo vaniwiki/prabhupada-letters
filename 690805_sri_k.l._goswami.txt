@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri K. L. Goswami — August 5, 1969~~
-~~bc: Sri K. L. Goswami — August 5, 1969~~
+---json
+{
+    "name":"Letter to: Sri K. L. Goswami — August 5, 1969",
+    "h1":"Sri K. L. Goswami — August 5, 1969",
+    "title":"Letter to: Sri K. L. Goswami — August 5, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Sri K. L. Goswami ======
 

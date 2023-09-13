@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Govinda (Bob Lindberg) — May 23, 1970~~
-~~bc: Sri Govinda (Bob Lindberg) — May 23, 1970~~
+---json
+{
+    "name":"Letter to: Sri Govinda (Bob Lindberg) — May 23, 1970",
+    "h1":"Sri Govinda (Bob Lindberg) — May 23, 1970",
+    "title":"Letter to: Sri Govinda (Bob Lindberg) — May 23, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Govinda (Bob Lindberg) ======
 

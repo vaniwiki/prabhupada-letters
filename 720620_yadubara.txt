@@ -1,5 +1,11 @@
-~~Title: Letter to: Yadubara — June 20, 1972~~
-~~bc: Yadubara — June 20, 1972~~
+---json
+{
+    "name":"Letter to: Yadubara — June 20, 1972",
+    "h1":"Yadubara — June 20, 1972",
+    "title":"Letter to: Yadubara — June 20, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Yadubara ======
 

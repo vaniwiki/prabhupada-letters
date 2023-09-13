@@ -1,5 +1,11 @@
-~~Title: Letter to: The Manager Syndicate Bank — November 11, 1975~~
-~~bc: The Manager Syndicate Bank — November 11, 1975~~
+---json
+{
+    "name":"Letter to: The Manager Syndicate Bank — November 11, 1975",
+    "h1":"The Manager Syndicate Bank — November 11, 1975",
+    "title":"Letter to: The Manager Syndicate Bank — November 11, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: The Manager Syndicate Bank ======
 

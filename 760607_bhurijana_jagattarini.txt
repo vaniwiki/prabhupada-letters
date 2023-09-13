@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhurijana, Jagattarini — June 7, 1976~~
-~~bc: Bhurijana, Jagattarini — June 7, 1976~~
+---json
+{
+    "name":"Letter to: Bhurijana, Jagattarini — June 7, 1976",
+    "h1":"Bhurijana, Jagattarini — June 7, 1976",
+    "title":"Letter to: Bhurijana, Jagattarini — June 7, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Bhurijana, Jagattarini ======
 

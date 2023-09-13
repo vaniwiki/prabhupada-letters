@@ -1,5 +1,11 @@
-~~Title: Letter to: Srila Prabhupada — March 13, 1977~~
-~~bc: Srila Prabhupada — March 13, 1977~~
+---json
+{
+    "name":"Letter to: Srila Prabhupada — March 13, 1977",
+    "h1":"Srila Prabhupada — March 13, 1977",
+    "title":"Letter to: Srila Prabhupada — March 13, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Srila Prabhupada ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Murti (Bill Walsh), Mahati (Sue Walsh), Adhideva (Hayden Larsen) — December 17, 1971~~
-~~bc: Murti (Bill Walsh), Mahati (Sue Walsh), Adhideva (Hayden Larsen) — December 17, 1971~~
+---json
+{
+    "name":"Letter to: Murti (Bill Walsh), Mahati (Sue Walsh), Adhideva (Hayden Larsen) — December 17, 1971",
+    "h1":"Murti (Bill Walsh), Mahati (Sue Walsh), Adhideva (Hayden Larsen) — December 17, 1971",
+    "title":"Letter to: Murti (Bill Walsh), Mahati (Sue Walsh), Adhideva (Hayden Larsen) — December 17, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Murti (Bill Walsh), Mahati (Sue Walsh), Adhideva (Hayden Larsen) ======
 

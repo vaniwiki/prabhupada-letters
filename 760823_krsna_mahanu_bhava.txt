@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsna Mahanu Bhava — August 23, 1976~~
-~~bc: Krsna Mahanu Bhava — August 23, 1976~~
+---json
+{
+    "name":"Letter to: Krsna Mahanu Bhava — August 23, 1976",
+    "h1":"Krsna Mahanu Bhava — August 23, 1976",
+    "title":"Letter to: Krsna Mahanu Bhava — August 23, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Krsna Mahanu Bhava ======
 

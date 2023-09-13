@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. T. S. Orr — February 27, 1975~~
-~~bc: Mr. T. S. Orr — February 27, 1975~~
+---json
+{
+    "name":"Letter to: Mr. T. S. Orr — February 27, 1975",
+    "h1":"Mr. T. S. Orr — February 27, 1975",
+    "title":"Letter to: Mr. T. S. Orr — February 27, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. T. S. Orr ======
 

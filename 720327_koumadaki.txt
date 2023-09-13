@@ -1,5 +1,11 @@
-~~Title: Letter to: Koumadaki — March 27, 1972~~
-~~bc: Koumadaki — March 27, 1972~~
+---json
+{
+    "name":"Letter to: Koumadaki — March 27, 1972",
+    "h1":"Koumadaki — March 27, 1972",
+    "title":"Letter to: Koumadaki — March 27, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Koumadaki ======
 

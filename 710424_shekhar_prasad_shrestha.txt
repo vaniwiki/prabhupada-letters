@@ -1,5 +1,11 @@
-~~Title: Letter to: Shekhar Prasad Shrestha — April 24, 1971~~
-~~bc: Shekhar Prasad Shrestha — April 24, 1971~~
+---json
+{
+    "name":"Letter to: Shekhar Prasad Shrestha — April 24, 1971",
+    "h1":"Shekhar Prasad Shrestha — April 24, 1971",
+    "title":"Letter to: Shekhar Prasad Shrestha — April 24, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Shekhar Prasad Shrestha ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Vishvambhar Dayala — December 15, 1975~~
-~~bc: Vishvambhar Dayala — December 15, 1975~~
+---json
+{
+    "name":"Letter to: Vishvambhar Dayala — December 15, 1975",
+    "h1":"Vishvambhar Dayala — December 15, 1975",
+    "title":"Letter to: Vishvambhar Dayala — December 15, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Vishvambhar Dayala ======
 

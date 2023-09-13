@@ -1,5 +1,11 @@
-~~Title: Letter to: Deoji Punja — November 13, 1974~~
-~~bc: Deoji Punja — November 13, 1974~~
+---json
+{
+    "name":"Letter to: Deoji Punja — November 13, 1974",
+    "h1":"Deoji Punja — November 13, 1974",
+    "title":"Letter to: Deoji Punja — November 13, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Deoji Punja ======
 

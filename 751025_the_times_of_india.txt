@@ -1,5 +1,11 @@
-~~Title: Letter to: The Times of India — October 25, 1975~~
-~~bc: The Times of India — October 25, 1975~~
+---json
+{
+    "name":"Letter to: The Times of India — October 25, 1975",
+    "h1":"The Times of India — October 25, 1975",
+    "title":"Letter to: The Times of India — October 25, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: The Times of India ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Naresh Chandera Gupta — November 10, 1975~~
-~~bc: Naresh Chandera Gupta — November 10, 1975~~
+---json
+{
+    "name":"Letter to: Naresh Chandera Gupta — November 10, 1975",
+    "h1":"Naresh Chandera Gupta — November 10, 1975",
+    "title":"Letter to: Naresh Chandera Gupta — November 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Naresh Chandera Gupta ======
 

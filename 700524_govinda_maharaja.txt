@@ -1,5 +1,11 @@
-~~Title: Letter to: Govinda Maharaja — May 24, 1970~~
-~~bc: Govinda Maharaja — May 24, 1970~~
+---json
+{
+    "name":"Letter to: Govinda Maharaja — May 24, 1970",
+    "h1":"Govinda Maharaja — May 24, 1970",
+    "title":"Letter to: Govinda Maharaja — May 24, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Govinda Maharaja ======
 

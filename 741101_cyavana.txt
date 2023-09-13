@@ -1,5 +1,11 @@
-~~Title: Letter to: Cyavana — November 1, 1974~~
-~~bc: Cyavana — November 1, 1974~~
+---json
+{
+    "name":"Letter to: Cyavana — November 1, 1974",
+    "h1":"Cyavana — November 1, 1974",
+    "title":"Letter to: Cyavana — November 1, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Cyavana ======
 

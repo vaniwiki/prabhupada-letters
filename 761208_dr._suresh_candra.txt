@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Suresh Candra — December 8, 1976~~
-~~bc: Dr. Suresh Candra — December 8, 1976~~
+---json
+{
+    "name":"Letter to: Dr. Suresh Candra — December 8, 1976",
+    "h1":"Dr. Suresh Candra — December 8, 1976",
+    "title":"Letter to: Dr. Suresh Candra — December 8, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Suresh Candra ======
 

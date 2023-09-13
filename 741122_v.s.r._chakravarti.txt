@@ -1,5 +1,11 @@
-~~Title: Letter to: V. S. R. Chakravarti — November 22, 1974~~
-~~bc: V. S. R. Chakravarti — November 22, 1974~~
+---json
+{
+    "name":"Letter to: V. S. R. Chakravarti — November 22, 1974",
+    "h1":"V. S. R. Chakravarti — November 22, 1974",
+    "title":"Letter to: V. S. R. Chakravarti — November 22, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: V. S. R. Chakravarti ======
 

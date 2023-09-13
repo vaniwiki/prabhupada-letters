@@ -1,5 +1,11 @@
-~~Title: Letter to: Dayananda, Nandarani, Uddhava — September 20, 1967~~
-~~bc: Dayananda, Nandarani, Uddhava — September 20, 1967~~
+---json
+{
+    "name":"Letter to: Dayananda, Nandarani, Uddhava — September 20, 1967",
+    "h1":"Dayananda, Nandarani, Uddhava — September 20, 1967",
+    "title":"Letter to: Dayananda, Nandarani, Uddhava — September 20, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Dayananda, Nandarani, Uddhava ======
 

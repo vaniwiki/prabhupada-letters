@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Kugimoto — January 17, 1970~~
-~~bc: Mr. Kugimoto — January 17, 1970~~
+---json
+{
+    "name":"Letter to: Mr. Kugimoto — January 17, 1970",
+    "h1":"Mr. Kugimoto — January 17, 1970",
+    "title":"Letter to: Mr. Kugimoto — January 17, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Kugimoto ======
 

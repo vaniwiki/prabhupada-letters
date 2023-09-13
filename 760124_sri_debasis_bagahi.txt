@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Debasis Bagahi — January 24, 1976~~
-~~bc: Sri Debasis Bagahi — January 24, 1976~~
+---json
+{
+    "name":"Letter to: Sri Debasis Bagahi — January 24, 1976",
+    "h1":"Sri Debasis Bagahi — January 24, 1976",
+    "title":"Letter to: Sri Debasis Bagahi — January 24, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Debasis Bagahi ======
 

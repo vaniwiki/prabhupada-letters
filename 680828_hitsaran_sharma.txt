@@ -1,5 +1,11 @@
-~~Title: Letter to: Hitsaran Sharma — August 28, 1968~~
-~~bc: Hitsaran Sharma — August 28, 1968~~
+---json
+{
+    "name":"Letter to: Hitsaran Sharma — August 28, 1968",
+    "h1":"Hitsaran Sharma — August 28, 1968",
+    "title":"Letter to: Hitsaran Sharma — August 28, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Hitsaran Sharma ======
 

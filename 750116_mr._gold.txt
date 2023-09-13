@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Gold — January 16, 1975~~
-~~bc: Mr. Gold — January 16, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Gold — January 16, 1975",
+    "h1":"Mr. Gold — January 16, 1975",
+    "title":"Letter to: Mr. Gold — January 16, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Gold ======
 

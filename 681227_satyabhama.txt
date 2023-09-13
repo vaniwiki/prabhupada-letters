@@ -1,5 +1,11 @@
-~~Title: Letter to: Satyabhama — December 27, 1968~~
-~~bc: Satyabhama — December 27, 1968~~
+---json
+{
+    "name":"Letter to: Satyabhama — December 27, 1968",
+    "h1":"Satyabhama — December 27, 1968",
+    "title":"Letter to: Satyabhama — December 27, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Satyabhama ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Kartikeya Mahadevia — May 2, 1975~~
-~~bc: Kartikeya Mahadevia — May 2, 1975~~
+---json
+{
+    "name":"Letter to: Kartikeya Mahadevia — May 2, 1975",
+    "h1":"Kartikeya Mahadevia — May 2, 1975",
+    "title":"Letter to: Kartikeya Mahadevia — May 2, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Kartikeya Mahadevia ======
 

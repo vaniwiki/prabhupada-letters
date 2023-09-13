@@ -1,5 +1,11 @@
-~~Title: Letter to: Rupa Vilasa — November 18, 1972~~
-~~bc: Rupa Vilasa — November 18, 1972~~
+---json
+{
+    "name":"Letter to: Rupa Vilasa — November 18, 1972",
+    "h1":"Rupa Vilasa — November 18, 1972",
+    "title":"Letter to: Rupa Vilasa — November 18, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Rupa Vilasa ======
 

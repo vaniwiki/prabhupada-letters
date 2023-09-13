@@ -1,5 +1,11 @@
-~~Title: Letter to: Lalita Prasad Thakura — March 4, 1972~~
-~~bc: Lalita Prasad Thakura — March 4, 1972~~
+---json
+{
+    "name":"Letter to: Lalita Prasad Thakura — March 4, 1972",
+    "h1":"Lalita Prasad Thakura — March 4, 1972",
+    "title":"Letter to: Lalita Prasad Thakura — March 4, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Lalita Prasad Thakura ======
 

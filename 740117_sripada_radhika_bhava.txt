@@ -1,5 +1,11 @@
-~~Title: Letter to: Sripada Radhika Bhava — January 17, 1974~~
-~~bc: Sripada Radhika Bhava — January 17, 1974~~
+---json
+{
+    "name":"Letter to: Sripada Radhika Bhava — January 17, 1974",
+    "h1":"Sripada Radhika Bhava — January 17, 1974",
+    "title":"Letter to: Sripada Radhika Bhava — January 17, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sripada Radhika Bhava ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Birendra Kisora Roy — January 27, 1976~~
-~~bc: Sri Birendra Kisora Roy — January 27, 1976~~
+---json
+{
+    "name":"Letter to: Sri Birendra Kisora Roy — January 27, 1976",
+    "h1":"Sri Birendra Kisora Roy — January 27, 1976",
+    "title":"Letter to: Sri Birendra Kisora Roy — January 27, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Birendra Kisora Roy ======
 

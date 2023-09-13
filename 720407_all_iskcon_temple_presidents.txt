@@ -1,5 +1,11 @@
-~~Title: Letter to: All ISKCON Temple Presidents — April 7, 1972~~
-~~bc: All ISKCON Temple Presidents — April 7, 1972~~
+---json
+{
+    "name":"Letter to: All ISKCON Temple Presidents — April 7, 1972",
+    "h1":"All ISKCON Temple Presidents — April 7, 1972",
+    "title":"Letter to: All ISKCON Temple Presidents — April 7, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: All ISKCON Temple Presidents ======
 

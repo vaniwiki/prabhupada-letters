@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Bishnu Prasad Mukherjee — June 4, 1976~~
-~~bc: Dr. Bishnu Prasad Mukherjee — June 4, 1976~~
+---json
+{
+    "name":"Letter to: Dr. Bishnu Prasad Mukherjee — June 4, 1976",
+    "h1":"Dr. Bishnu Prasad Mukherjee — June 4, 1976",
+    "title":"Letter to: Dr. Bishnu Prasad Mukherjee — June 4, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Bishnu Prasad Mukherjee ======
 

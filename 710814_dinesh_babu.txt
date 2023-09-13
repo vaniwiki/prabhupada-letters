@@ -1,5 +1,11 @@
-~~Title: Letter to: Dinesh Babu — August 14, 1971~~
-~~bc: Dinesh Babu — August 14, 1971~~
+---json
+{
+    "name":"Letter to: Dinesh Babu — August 14, 1971",
+    "h1":"Dinesh Babu — August 14, 1971",
+    "title":"Letter to: Dinesh Babu — August 14, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Dinesh Babu ======
 

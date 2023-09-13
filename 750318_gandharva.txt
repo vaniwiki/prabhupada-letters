@@ -1,5 +1,11 @@
-~~Title: Letter to: Gandharva — March 18, 1975~~
-~~bc: Gandharva — March 18, 1975~~
+---json
+{
+    "name":"Letter to: Gandharva — March 18, 1975",
+    "h1":"Gandharva — March 18, 1975",
+    "title":"Letter to: Gandharva — March 18, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Gandharva ======
 

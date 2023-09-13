@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahajan 2 — April 25, 1973~~
-~~bc: Mahajan 2 — April 25, 1973~~
+---json
+{
+    "name":"Letter to: Mahajan 2 — April 25, 1973",
+    "h1":"Mahajan 2 — April 25, 1973",
+    "title":"Letter to: Mahajan 2 — April 25, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Mahajan 2 ======
 

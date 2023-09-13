@@ -1,5 +1,11 @@
-~~Title: Letter to: Ekendra, Shawn, Christina, Dvarakadhisa, Kimi, Tonya, Joe, John, Candramukhi, Carol, Peggy, Lisa, Stephanie — May 21, 1973~~
-~~bc: Ekendra, Shawn, Christina, Dvarakadhisa, Kimi, Tonya, Joe, John, Candramukhi, Carol, Peggy, Lisa, Stephanie — May 21, 1973~~
+---json
+{
+    "name":"Letter to: Ekendra, Shawn, Christina, Dvarakadhisa, Kimi, Tonya, Joe, John, Candramukhi, Carol, Peggy, Lisa, Stephanie — May 21, 1973",
+    "h1":"Ekendra, Shawn, Christina, Dvarakadhisa, Kimi, Tonya, Joe, John, Candramukhi, Carol, Peggy, Lisa, Stephanie — May 21, 1973",
+    "title":"Letter to: Ekendra, Shawn, Christina, Dvarakadhisa, Kimi, Tonya, Joe, John, Candramukhi, Carol, Peggy, Lisa, Stephanie — May 21, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Ekendra, Shawn, Christina, Dvarakadhisa, Kimi, Tonya, Joe, John, Candramukhi, Carol, Peggy, Lisa, Stephanie ======
 

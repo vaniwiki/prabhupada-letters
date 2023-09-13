@@ -1,5 +1,11 @@
-~~Title: Letter to: Girish — August 21, 1969~~
-~~bc: Girish — August 21, 1969~~
+---json
+{
+    "name":"Letter to: Girish — August 21, 1969",
+    "h1":"Girish — August 21, 1969",
+    "title":"Letter to: Girish — August 21, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Girish ======
 

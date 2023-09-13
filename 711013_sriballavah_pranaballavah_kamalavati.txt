@@ -1,5 +1,11 @@
-~~Title: Letter to: Sriballavah (Vin Fiocco), Pranaballavah (Bruce Webster), Kamalavati (Elicia Heller) — October 13, 1971~~
-~~bc: Sriballavah (Vin Fiocco), Pranaballavah (Bruce Webster), Kamalavati (Elicia Heller) — October 13, 1971~~
+---json
+{
+    "name":"Letter to: Sriballavah (Vin Fiocco), Pranaballavah (Bruce Webster), Kamalavati (Elicia Heller) — October 13, 1971",
+    "h1":"Sriballavah (Vin Fiocco), Pranaballavah (Bruce Webster), Kamalavati (Elicia Heller) — October 13, 1971",
+    "title":"Letter to: Sriballavah (Vin Fiocco), Pranaballavah (Bruce Webster), Kamalavati (Elicia Heller) — October 13, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Sriballavah (Vin Fiocco), Pranaballavah (Bruce Webster), Kamalavati (Elicia Heller) ======
 

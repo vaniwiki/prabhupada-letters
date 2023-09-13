@@ -1,5 +1,11 @@
-~~Title: Letter to: Nataka-Candrika, Jusania, Rama Tulasi, Tripti — July 2, 1975~~
-~~bc: Nataka-Candrika, Jusania, Rama Tulasi, Tripti — July 2, 1975~~
+---json
+{
+    "name":"Letter to: Nataka-Candrika, Jusania, Rama Tulasi, Tripti — July 2, 1975",
+    "h1":"Nataka-Candrika, Jusania, Rama Tulasi, Tripti — July 2, 1975",
+    "title":"Letter to: Nataka-Candrika, Jusania, Rama Tulasi, Tripti — July 2, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Nataka-Candrika, Jusania, Rama Tulasi, Tripti ======
 

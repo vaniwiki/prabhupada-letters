@@ -1,5 +1,11 @@
-~~Title: Letter to: Nadia — January 11, 1974~~
-~~bc: Nadia — January 11, 1974~~
+---json
+{
+    "name":"Letter to: Nadia — January 11, 1974",
+    "h1":"Nadia — January 11, 1974",
+    "title":"Letter to: Nadia — January 11, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Nadia ======
 

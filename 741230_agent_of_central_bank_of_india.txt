@@ -1,5 +1,11 @@
-~~Title: Letter to: Agent of Central Bank of India — December 30, 1974~~
-~~bc: Agent of Central Bank of India — December 30, 1974~~
+---json
+{
+    "name":"Letter to: Agent of Central Bank of India — December 30, 1974",
+    "h1":"Agent of Central Bank of India — December 30, 1974",
+    "title":"Letter to: Agent of Central Bank of India — December 30, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Agent of Central Bank of India ======
 

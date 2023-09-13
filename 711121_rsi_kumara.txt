@@ -1,5 +1,11 @@
-~~Title: Letter to: Rsi Kumara — November 21, 1971~~
-~~bc: Rsi Kumara — November 21, 1971~~
+---json
+{
+    "name":"Letter to: Rsi Kumara — November 21, 1971",
+    "h1":"Rsi Kumara — November 21, 1971",
+    "title":"Letter to: Rsi Kumara — November 21, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Rsi Kumara ======
 

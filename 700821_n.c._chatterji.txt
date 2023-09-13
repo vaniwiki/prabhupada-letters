@@ -1,5 +1,11 @@
-~~Title: Letter to: N.C. Chatterji — August 21, 1970~~
-~~bc: N.C. Chatterji — August 21, 1970~~
+---json
+{
+    "name":"Letter to: N.C. Chatterji — August 21, 1970",
+    "h1":"N.C. Chatterji — August 21, 1970",
+    "title":"Letter to: N.C. Chatterji — August 21, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: N.C. Chatterji ======
 

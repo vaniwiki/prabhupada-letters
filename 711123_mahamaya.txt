@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahamaya — November 23, 1971~~
-~~bc: Mahamaya — November 23, 1971~~
+---json
+{
+    "name":"Letter to: Mahamaya — November 23, 1971",
+    "h1":"Mahamaya — November 23, 1971",
+    "title":"Letter to: Mahamaya — November 23, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Mahamaya ======
 

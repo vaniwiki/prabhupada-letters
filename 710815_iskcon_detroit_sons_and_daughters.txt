@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON Detroit, Sons and Daughters — August 15, 1971~~
-~~bc: ISKCON Detroit, Sons and Daughters — August 15, 1971~~
+---json
+{
+    "name":"Letter to: ISKCON Detroit, Sons and Daughters — August 15, 1971",
+    "h1":"ISKCON Detroit, Sons and Daughters — August 15, 1971",
+    "title":"Letter to: ISKCON Detroit, Sons and Daughters — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON Detroit, Sons and Daughters ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Joy Fulcher — December 12, 1968~~
-~~bc: Joy Fulcher — December 12, 1968~~
+---json
+{
+    "name":"Letter to: Joy Fulcher — December 12, 1968",
+    "h1":"Joy Fulcher — December 12, 1968",
+    "title":"Letter to: Joy Fulcher — December 12, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Joy Fulcher ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Kamalapati Tripathi — May 7, 1975~~
-~~bc: Sri Kamalapati Tripathi — May 7, 1975~~
+---json
+{
+    "name":"Letter to: Sri Kamalapati Tripathi — May 7, 1975",
+    "h1":"Sri Kamalapati Tripathi — May 7, 1975",
+    "title":"Letter to: Sri Kamalapati Tripathi — May 7, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Kamalapati Tripathi ======
 

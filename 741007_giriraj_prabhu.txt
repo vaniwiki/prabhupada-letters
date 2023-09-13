@@ -1,5 +1,11 @@
-~~Title: Letter to: Giriraj Prabhu — October 7, 1974~~
-~~bc: Giriraj Prabhu — October 7, 1974~~
+---json
+{
+    "name":"Letter to: Giriraj Prabhu — October 7, 1974",
+    "h1":"Giriraj Prabhu — October 7, 1974",
+    "title":"Letter to: Giriraj Prabhu — October 7, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Giriraj Prabhu ======
 

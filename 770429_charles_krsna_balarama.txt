@@ -1,5 +1,11 @@
-~~Title: Letter to: Charles (Krsna Balarama) — April 29, 1977~~
-~~bc: Charles (Krsna Balarama) — April 29, 1977~~
+---json
+{
+    "name":"Letter to: Charles (Krsna Balarama) — April 29, 1977",
+    "h1":"Charles (Krsna Balarama) — April 29, 1977",
+    "title":"Letter to: Charles (Krsna Balarama) — April 29, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Charles (Krsna Balarama) ======
 

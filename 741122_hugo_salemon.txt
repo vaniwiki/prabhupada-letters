@@ -1,5 +1,11 @@
-~~Title: Letter to: Hugo Salemon — November 22, 1974~~
-~~bc: Hugo Salemon — November 22, 1974~~
+---json
+{
+    "name":"Letter to: Hugo Salemon — November 22, 1974",
+    "h1":"Hugo Salemon — November 22, 1974",
+    "title":"Letter to: Hugo Salemon — November 22, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Hugo Salemon ======
 

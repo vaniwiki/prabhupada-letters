@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Saral Kumar Gupta — January 4, 1975~~
-~~bc: Mr. Saral Kumar Gupta — January 4, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Saral Kumar Gupta — January 4, 1975",
+    "h1":"Mr. Saral Kumar Gupta — January 4, 1975",
+    "title":"Letter to: Mr. Saral Kumar Gupta — January 4, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Saral Kumar Gupta ======
 

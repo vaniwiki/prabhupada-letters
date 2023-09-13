@@ -1,5 +1,11 @@
-~~Title: Letter to: Krishna Mahesavari — July 11, 1976~~
-~~bc: Krishna Mahesavari — July 11, 1976~~
+---json
+{
+    "name":"Letter to: Krishna Mahesavari — July 11, 1976",
+    "h1":"Krishna Mahesavari — July 11, 1976",
+    "title":"Letter to: Krishna Mahesavari — July 11, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Krishna Mahesavari ======
 

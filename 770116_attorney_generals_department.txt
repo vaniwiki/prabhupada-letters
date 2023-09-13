@@ -1,5 +1,11 @@
-~~Title: Letter to: Attorney General’s Department — January 16, 1977~~
-~~bc: Attorney General's Department — January 16, 1977~~
+---json
+{
+    "name":"Letter to: Attorney General’s Department — January 16, 1977",
+    "h1":"Attorney General's Department — January 16, 1977",
+    "title":"Letter to: Attorney General’s Department — January 16, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Attorney General’s Department ======
 

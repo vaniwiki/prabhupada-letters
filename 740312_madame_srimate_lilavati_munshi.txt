@@ -1,5 +1,11 @@
-~~Title: Letter to: Madame Srimate Lilavati Munshi — March 12, 1974~~
-~~bc: Madame Srimate Lilavati Munshi — March 12, 1974~~
+---json
+{
+    "name":"Letter to: Madame Srimate Lilavati Munshi — March 12, 1974",
+    "h1":"Madame Srimate Lilavati Munshi — March 12, 1974",
+    "title":"Letter to: Madame Srimate Lilavati Munshi — March 12, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Madame Srimate Lilavati Munshi ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Navayogendra — August 31, 1976~~
-~~bc: Navayogendra — August 31, 1976~~
+---json
+{
+    "name":"Letter to: Navayogendra — August 31, 1976",
+    "h1":"Navayogendra — August 31, 1976",
+    "title":"Letter to: Navayogendra — August 31, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Navayogendra ======
 

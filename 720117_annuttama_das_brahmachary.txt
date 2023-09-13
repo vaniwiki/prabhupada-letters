@@ -1,5 +1,11 @@
-~~Title: Letter to: Annuttama das Brahmachary — January 17, 1972~~
-~~bc: Annuttama das Brahmachary — January 17, 1972~~
+---json
+{
+    "name":"Letter to: Annuttama das Brahmachary — January 17, 1972",
+    "h1":"Annuttama das Brahmachary — January 17, 1972",
+    "title":"Letter to: Annuttama das Brahmachary — January 17, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Annuttama das Brahmachary ======
 

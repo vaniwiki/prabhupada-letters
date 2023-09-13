@@ -1,5 +1,11 @@
-~~Title: Letter to: Palika — Unknown Date, 1976~~
-~~bc: Palika — Unknown Date, 1976~~
+---json
+{
+    "name":"Letter to: Palika — Unknown Date, 1976",
+    "h1":"Palika — Unknown Date, 1976",
+    "title":"Letter to: Palika — Unknown Date, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Palika ======
 

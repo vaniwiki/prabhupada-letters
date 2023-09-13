@@ -1,5 +1,11 @@
-~~Title: Letter to: Yadhavacarya — February 15, 1975~~
-~~bc: Yadhavacarya — February 15, 1975~~
+---json
+{
+    "name":"Letter to: Yadhavacarya — February 15, 1975",
+    "h1":"Yadhavacarya — February 15, 1975",
+    "title":"Letter to: Yadhavacarya — February 15, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Yadhavacarya ======
 

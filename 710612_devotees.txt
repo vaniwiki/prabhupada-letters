@@ -1,5 +1,11 @@
-~~Title: Letter to: London devotees — June 12, 1971~~
-~~bc: London devotees — June 12, 1971~~
+---json
+{
+    "name":"Letter to: London devotees — June 12, 1971",
+    "h1":"London devotees — June 12, 1971",
+    "title":"Letter to: London devotees — June 12, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: London devotees ======
 

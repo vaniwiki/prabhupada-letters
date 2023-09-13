@@ -1,5 +1,11 @@
-~~Title: Letter to: GBC Members — August 7, 1973~~
-~~bc: GBC Members — August 7, 1973~~
+---json
+{
+    "name":"Letter to: GBC Members — August 7, 1973",
+    "h1":"GBC Members — August 7, 1973",
+    "title":"Letter to: GBC Members — August 7, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: GBC Members ======
 

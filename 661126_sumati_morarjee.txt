@@ -1,5 +1,11 @@
-~~Title: Letter to: Sumati Morarjee — November 26, 1966~~
-~~bc: Sumati Morarjee — November 26, 1966~~
+---json
+{
+    "name":"Letter to: Sumati Morarjee — November 26, 1966",
+    "h1":"Sumati Morarjee — November 26, 1966",
+    "title":"Letter to: Sumati Morarjee — November 26, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Sumati Morarjee ======
 

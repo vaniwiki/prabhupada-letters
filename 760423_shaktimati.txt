@@ -1,5 +1,11 @@
-~~Title: Letter to: Shaktimati — April 23, 1976~~
-~~bc: Shaktimati — April 23, 1976~~
+---json
+{
+    "name":"Letter to: Shaktimati — April 23, 1976",
+    "h1":"Shaktimati — April 23, 1976",
+    "title":"Letter to: Shaktimati — April 23, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Shaktimati ======
 

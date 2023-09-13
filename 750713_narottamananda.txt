@@ -1,5 +1,11 @@
-~~Title: Letter to: Narottamananda — July 13, 1975~~
-~~bc: Narottamananda — July 13, 1975~~
+---json
+{
+    "name":"Letter to: Narottamananda — July 13, 1975",
+    "h1":"Narottamananda — July 13, 1975",
+    "title":"Letter to: Narottamananda — July 13, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Narottamananda ======
 

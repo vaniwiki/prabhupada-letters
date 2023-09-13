@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager, Liberty Bank — May 24, 1976~~
-~~bc: Manager, Liberty Bank — May 24, 1976~~
+---json
+{
+    "name":"Letter to: Manager, Liberty Bank — May 24, 1976",
+    "h1":"Manager, Liberty Bank — May 24, 1976",
+    "title":"Letter to: Manager, Liberty Bank — May 24, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Manager, Liberty Bank ======
 

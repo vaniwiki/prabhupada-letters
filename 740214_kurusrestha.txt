@@ -1,5 +1,11 @@
-~~Title: Letter to: Kurusrestha — February 14, 1974~~
-~~bc: Kurusrestha — February 14, 1974~~
+---json
+{
+    "name":"Letter to: Kurusrestha — February 14, 1974",
+    "h1":"Kurusrestha — February 14, 1974",
+    "title":"Letter to: Kurusrestha — February 14, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Kurusrestha ======
 

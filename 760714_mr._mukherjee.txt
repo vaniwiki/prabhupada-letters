@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Mukherjee — July 14, 1976~~
-~~bc: Mr. Mukherjee — July 14, 1976~~
+---json
+{
+    "name":"Letter to: Mr. Mukherjee — July 14, 1976",
+    "h1":"Mr. Mukherjee — July 14, 1976",
+    "title":"Letter to: Mr. Mukherjee — July 14, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Mukherjee ======
 

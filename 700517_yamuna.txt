@@ -1,5 +1,11 @@
-~~Title: Letter to: Yamuna — May 17, 1970~~
-~~bc: Yamuna — May 17, 1970~~
+---json
+{
+    "name":"Letter to: Yamuna — May 17, 1970",
+    "h1":"Yamuna — May 17, 1970",
+    "title":"Letter to: Yamuna — May 17, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Yamuna ======
 

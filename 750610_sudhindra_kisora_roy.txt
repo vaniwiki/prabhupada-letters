@@ -1,5 +1,11 @@
-~~Title: Letter to: Sudhindra Kisora Roy — June 10, 1975~~
-~~bc: Sudhindra Kisora Roy — June 10, 1975~~
+---json
+{
+    "name":"Letter to: Sudhindra Kisora Roy — June 10, 1975",
+    "h1":"Sudhindra Kisora Roy — June 10, 1975",
+    "title":"Letter to: Sudhindra Kisora Roy — June 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sudhindra Kisora Roy ======
 

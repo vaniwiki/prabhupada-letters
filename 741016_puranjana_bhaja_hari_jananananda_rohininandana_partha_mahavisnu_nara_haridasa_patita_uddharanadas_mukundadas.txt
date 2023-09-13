@@ -1,5 +1,11 @@
-~~Title: Letter to: Puranjana, Bhaja Hari, Jananananda, Rohininandana, Partha, Mahavisnu, Nara Haridasa, Patita Uddharanadas, Mukundadas — October 16, 1974~~
-~~bc: Puranjana, Bhaja Hari, Jananananda, Rohininandana, Partha, Mahavisnu, Nara Haridasa, Patita Uddharanadas, Mukundadas — October 16, 1974~~
+---json
+{
+    "name":"Letter to: Puranjana, Bhaja Hari, Jananananda, Rohininandana, Partha, Mahavisnu, Nara Haridasa, Patita Uddharanadas, Mukundadas — October 16, 1974",
+    "h1":"Puranjana, Bhaja Hari, Jananananda, Rohininandana, Partha, Mahavisnu, Nara Haridasa, Patita Uddharanadas, Mukundadas — October 16, 1974",
+    "title":"Letter to: Puranjana, Bhaja Hari, Jananananda, Rohininandana, Partha, Mahavisnu, Nara Haridasa, Patita Uddharanadas, Mukundadas — October 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Puranjana, Bhaja Hari, Jananananda, Rohininandana, Partha, Mahavisnu, Nara Haridasa, Patita Uddharanadas, Mukundadas ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Gargamuni, Subala — February 8, 1972~~
-~~bc: Gargamuni, Subala — February 8, 1972~~
+---json
+{
+    "name":"Letter to: Gargamuni, Subala — February 8, 1972",
+    "h1":"Gargamuni, Subala — February 8, 1972",
+    "title":"Letter to: Gargamuni, Subala — February 8, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Gargamuni, Subala ======
 

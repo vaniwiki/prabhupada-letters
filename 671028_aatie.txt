@@ -1,5 +1,11 @@
-~~Title: Letter to: Aatie — October 28, 1967~~
-~~bc: Aatie — October 28, 1967~~
+---json
+{
+    "name":"Letter to: Aatie — October 28, 1967",
+    "h1":"Aatie — October 28, 1967",
+    "title":"Letter to: Aatie — October 28, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Aatie ======
 

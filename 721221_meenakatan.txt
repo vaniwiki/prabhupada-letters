@@ -1,5 +1,11 @@
-~~Title: Letter to: Meenakatan — December 21, 1972~~
-~~bc: Meenakatan — December 21, 1972~~
+---json
+{
+    "name":"Letter to: Meenakatan — December 21, 1972",
+    "h1":"Meenakatan — December 21, 1972",
+    "title":"Letter to: Meenakatan — December 21, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Meenakatan ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others — August 15, 1971~~
-~~bc: ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others — August 15, 1971~~
+---json
+{
+    "name":"Letter to: ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others — August 15, 1971",
+    "h1":"ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others — August 15, 1971",
+    "title":"Letter to: ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others ======
 

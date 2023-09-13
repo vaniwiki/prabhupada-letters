@@ -1,5 +1,11 @@
-~~Title: Letter to: Chittaranjan Mohanty — February 8, 1977~~
-~~bc: Chittaranjan Mohanty — February 8, 1977~~
+---json
+{
+    "name":"Letter to: Chittaranjan Mohanty — February 8, 1977",
+    "h1":"Chittaranjan Mohanty — February 8, 1977",
+    "title":"Letter to: Chittaranjan Mohanty — February 8, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Chittaranjan Mohanty ======
 

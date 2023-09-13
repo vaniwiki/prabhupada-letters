@@ -1,5 +1,11 @@
-~~Title: Letter to: Drstaketu — August 14, 1976~~
-~~bc: Drstaketu — August 14, 1976~~
+---json
+{
+    "name":"Letter to: Drstaketu — August 14, 1976",
+    "h1":"Drstaketu — August 14, 1976",
+    "title":"Letter to: Drstaketu — August 14, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Drstaketu ======
 

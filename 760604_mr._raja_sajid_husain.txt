@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Raja Sajid Husain — June 4, 1976~~
-~~bc: Mr. Raja Sajid Husain — June 4, 1976~~
+---json
+{
+    "name":"Letter to: Mr. Raja Sajid Husain — June 4, 1976",
+    "h1":"Mr. Raja Sajid Husain — June 4, 1976",
+    "title":"Letter to: Mr. Raja Sajid Husain — June 4, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Raja Sajid Husain ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Ramakrishna — September 26, 1952~~
-~~bc: Ramakrishna — September 26, 1952~~
+---json
+{
+    "name":"Letter to: Ramakrishna — September 26, 1952",
+    "h1":"Ramakrishna — September 26, 1952",
+    "title":"Letter to: Ramakrishna — September 26, 1952",
+    "description":""
+}
+---
 
 ====== Letter to: Ramakrishna ======
 

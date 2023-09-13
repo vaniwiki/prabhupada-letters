@@ -1,5 +1,11 @@
-~~Title: Letter to: First National City Bank — August 3, 1966~~
-~~bc: First National City Bank — August 3, 1966~~
+---json
+{
+    "name":"Letter to: First National City Bank — August 3, 1966",
+    "h1":"First National City Bank — August 3, 1966",
+    "title":"Letter to: First National City Bank — August 3, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: First National City Bank ======
 

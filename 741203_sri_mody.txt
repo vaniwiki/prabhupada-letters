@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Mody — December 3, 1974~~
-~~bc: Sri Mody — December 3, 1974~~
+---json
+{
+    "name":"Letter to: Sri Mody — December 3, 1974",
+    "h1":"Sri Mody — December 3, 1974",
+    "title":"Letter to: Sri Mody — December 3, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Mody ======
 

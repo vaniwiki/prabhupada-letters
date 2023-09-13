@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON Artists — May 2, 1974~~
-~~bc: ISKCON Artists — May 2, 1974~~
+---json
+{
+    "name":"Letter to: ISKCON Artists — May 2, 1974",
+    "h1":"ISKCON Artists — May 2, 1974",
+    "title":"Letter to: ISKCON Artists — May 2, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON Artists ======
 

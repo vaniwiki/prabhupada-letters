@@ -1,5 +1,11 @@
-~~Title: Letter to: Indupati — April 9, 1975~~
-~~bc: Indupati — April 9, 1975~~
+---json
+{
+    "name":"Letter to: Indupati — April 9, 1975",
+    "h1":"Indupati — April 9, 1975",
+    "title":"Letter to: Indupati — April 9, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Indupati ======
 

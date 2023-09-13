@@ -1,5 +1,11 @@
-~~Title: Letter to: Candramukhi — February 2, 1975~~
-~~bc: Candramukhi — February 2, 1975~~
+---json
+{
+    "name":"Letter to: Candramukhi — February 2, 1975",
+    "h1":"Candramukhi — February 2, 1975",
+    "title":"Letter to: Candramukhi — February 2, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Candramukhi ======
 

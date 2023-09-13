@@ -1,5 +1,11 @@
-~~Title: Letter to: John Milner — March 24, 1971~~
-~~bc: John Milner — March 24, 1971~~
+---json
+{
+    "name":"Letter to: John Milner — March 24, 1971",
+    "h1":"John Milner — March 24, 1971",
+    "title":"Letter to: John Milner — March 24, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: John Milner ======
 

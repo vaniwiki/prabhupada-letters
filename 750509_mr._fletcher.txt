@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Fletcher — May 9, 1975~~
-~~bc: Mr. Fletcher — May 9, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Fletcher — May 9, 1975",
+    "h1":"Mr. Fletcher — May 9, 1975",
+    "title":"Letter to: Mr. Fletcher — May 9, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Fletcher ======
 

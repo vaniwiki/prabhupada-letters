@@ -1,5 +1,11 @@
-~~Title: Letter to: Muralidhara — March 7, 1974~~
-~~bc: Muralidhara — March 7, 1974~~
+---json
+{
+    "name":"Letter to: Muralidhara — March 7, 1974",
+    "h1":"Muralidhara — March 7, 1974",
+    "title":"Letter to: Muralidhara — March 7, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Muralidhara ======
 

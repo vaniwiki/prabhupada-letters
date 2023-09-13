@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahabuddhi, Library Party — May 11, 1976~~
-~~bc: Mahabuddhi, Library Party — May 11, 1976~~
+---json
+{
+    "name":"Letter to: Mahabuddhi, Library Party — May 11, 1976",
+    "h1":"Mahabuddhi, Library Party — May 11, 1976",
+    "title":"Letter to: Mahabuddhi, Library Party — May 11, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mahabuddhi, Library Party ======
 

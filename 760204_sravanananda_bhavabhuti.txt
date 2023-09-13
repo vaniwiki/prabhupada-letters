@@ -1,5 +1,11 @@
-~~Title: Letter to: Sravanananda, Bhavabhuti — February 4, 1976~~
-~~bc: Sravanananda, Bhavabhuti — February 4, 1976~~
+---json
+{
+    "name":"Letter to: Sravanananda, Bhavabhuti — February 4, 1976",
+    "h1":"Sravanananda, Bhavabhuti — February 4, 1976",
+    "title":"Letter to: Sravanananda, Bhavabhuti — February 4, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sravanananda, Bhavabhuti ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Lokanatha — December 23, 1976~~
-~~bc: Lokanatha — December 23, 1976~~
+---json
+{
+    "name":"Letter to: Lokanatha — December 23, 1976",
+    "h1":"Lokanatha — December 23, 1976",
+    "title":"Letter to: Lokanatha — December 23, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Lokanatha ======
 

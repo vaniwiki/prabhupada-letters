@@ -1,5 +1,11 @@
-~~Title: Letter to: Ayodhyapati — September 22, 1976~~
-~~bc: Ayodhyapati — September 22, 1976~~
+---json
+{
+    "name":"Letter to: Ayodhyapati — September 22, 1976",
+    "h1":"Ayodhyapati — September 22, 1976",
+    "title":"Letter to: Ayodhyapati — September 22, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Ayodhyapati ======
 

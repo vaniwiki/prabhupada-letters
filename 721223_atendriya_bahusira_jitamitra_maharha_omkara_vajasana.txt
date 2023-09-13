@@ -1,5 +1,11 @@
-~~Title: Letter to: Atendriya (Andy Wiernsz), Bahusira (Bill Oliverson), Jitamitra (Judy Jones), Maharha (Mary St. John), Omkara (Oksana Olenczuk), Vajasana (Vicky Burt) — December 23, 1972~~
-~~bc: Atendriya (Andy Wiernsz), Bahusira (Bill Oliverson), Jitamitra (Judy Jones), Maharha (Mary St. John), Omkara (Oksana Olenczuk), Vajasana (Vicky Burt) — December 23, 1972~~
+---json
+{
+    "name":"Letter to: Atendriya (Andy Wiernsz), Bahusira (Bill Oliverson), Jitamitra (Judy Jones), Maharha (Mary St. John), Omkara (Oksana Olenczuk), Vajasana (Vicky Burt) — December 23, 1972",
+    "h1":"Atendriya (Andy Wiernsz), Bahusira (Bill Oliverson), Jitamitra (Judy Jones), Maharha (Mary St. John), Omkara (Oksana Olenczuk), Vajasana (Vicky Burt) — December 23, 1972",
+    "title":"Letter to: Atendriya (Andy Wiernsz), Bahusira (Bill Oliverson), Jitamitra (Judy Jones), Maharha (Mary St. John), Omkara (Oksana Olenczuk), Vajasana (Vicky Burt) — December 23, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Atendriya (Andy Wiernsz), Bahusira (Bill Oliverson), Jitamitra (Judy Jones), Maharha (Mary St. John), Omkara (Oksana Olenczuk), Vajasana (Vicky Burt) ======
 

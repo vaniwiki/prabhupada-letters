@@ -1,5 +1,11 @@
-~~Title: Letter to: Hari-sauri — May 18, 1977~~
-~~bc: Hari-sauri — May 18, 1977~~
+---json
+{
+    "name":"Letter to: Hari-sauri — May 18, 1977",
+    "h1":"Hari-sauri — May 18, 1977",
+    "title":"Letter to: Hari-sauri — May 18, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Hari-sauri ======
 

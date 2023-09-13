@@ -1,5 +1,11 @@
-~~Title: Letter to: Sacisuta — May 30, 1968~~
-~~bc: Sacisuta — May 30, 1968~~
+---json
+{
+    "name":"Letter to: Sacisuta — May 30, 1968",
+    "h1":"Sacisuta — May 30, 1968",
+    "title":"Letter to: Sacisuta — May 30, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Sacisuta ======
 

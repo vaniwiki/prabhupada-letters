@@ -1,5 +1,11 @@
-~~Title: Letter to: Rup Ram Sharma — November 29, 1975~~
-~~bc: Rup Ram Sharma — November 29, 1975~~
+---json
+{
+    "name":"Letter to: Rup Ram Sharma — November 29, 1975",
+    "h1":"Rup Ram Sharma — November 29, 1975",
+    "title":"Letter to: Rup Ram Sharma — November 29, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Rup Ram Sharma ======
 

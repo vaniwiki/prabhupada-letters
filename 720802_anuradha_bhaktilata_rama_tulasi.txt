@@ -1,5 +1,11 @@
-~~Title: Letter to: Anuradha (Jan), Bhaktilata (Becky), Rama Tulasi (Tina) — August 2, 1972~~
-~~bc: Anuradha (Jan), Bhaktilata (Becky), Rama Tulasi (Tina) — August 2, 1972~~
+---json
+{
+    "name":"Letter to: Anuradha (Jan), Bhaktilata (Becky), Rama Tulasi (Tina) — August 2, 1972",
+    "h1":"Anuradha (Jan), Bhaktilata (Becky), Rama Tulasi (Tina) — August 2, 1972",
+    "title":"Letter to: Anuradha (Jan), Bhaktilata (Becky), Rama Tulasi (Tina) — August 2, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Anuradha (Jan), Bhaktilata (Becky), Rama Tulasi (Tina) ======
 

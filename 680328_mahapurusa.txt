@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahapurusa — March 28, 1968~~
-~~bc: Mahapurusa — March 28, 1968~~
+---json
+{
+    "name":"Letter to: Mahapurusa — March 28, 1968",
+    "h1":"Mahapurusa — March 28, 1968",
+    "title":"Letter to: Mahapurusa — March 28, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Mahapurusa ======
 

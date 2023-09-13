@@ -1,5 +1,11 @@
-~~Title: Letter to: Nari — January 12, 1975~~
-~~bc: Nari — January 12, 1975~~
+---json
+{
+    "name":"Letter to: Nari — January 12, 1975",
+    "h1":"Nari — January 12, 1975",
+    "title":"Letter to: Nari — January 12, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Nari ======
 

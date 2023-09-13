@@ -1,5 +1,11 @@
-~~Title: Letter to: Candanacarya — August 31, 1974~~
-~~bc: Candanacarya — August 31, 1974~~
+---json
+{
+    "name":"Letter to: Candanacarya — August 31, 1974",
+    "h1":"Candanacarya — August 31, 1974",
+    "title":"Letter to: Candanacarya — August 31, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Candanacarya ======
 

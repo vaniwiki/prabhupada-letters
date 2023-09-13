@@ -1,5 +1,11 @@
-~~Title: Letter to: Baja Panalalji — February 5, 1974~~
-~~bc: Baja Panalalji — February 5, 1974~~
+---json
+{
+    "name":"Letter to: Baja Panalalji — February 5, 1974",
+    "h1":"Baja Panalalji — February 5, 1974",
+    "title":"Letter to: Baja Panalalji — February 5, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Baja Panalalji ======
 

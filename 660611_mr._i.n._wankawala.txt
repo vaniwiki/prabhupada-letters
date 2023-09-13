@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. I. N. Wankawala — June 11, 1966~~
-~~bc: Mr. I. N. Wankawala — June 11, 1966~~
+---json
+{
+    "name":"Letter to: Mr. I. N. Wankawala — June 11, 1966",
+    "h1":"Mr. I. N. Wankawala — June 11, 1966",
+    "title":"Letter to: Mr. I. N. Wankawala — June 11, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. I. N. Wankawala ======
 

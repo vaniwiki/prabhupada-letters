@@ -1,5 +1,11 @@
-~~Title: Letter to: Srimad Vamana Maharaja, Trivikrama Maharaja — August 17, 1970~~
-~~bc: Srimad Vamana Maharaja, Trivikrama Maharaja — August 17, 1970~~
+---json
+{
+    "name":"Letter to: Srimad Vamana Maharaja, Trivikrama Maharaja — August 17, 1970",
+    "h1":"Srimad Vamana Maharaja, Trivikrama Maharaja — August 17, 1970",
+    "title":"Letter to: Srimad Vamana Maharaja, Trivikrama Maharaja — August 17, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Srimad Vamana Maharaja, Trivikrama Maharaja ======
 

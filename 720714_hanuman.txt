@@ -1,5 +1,11 @@
-~~Title: Letter to: Hanuman — July 14, 1972~~
-~~bc: Hanuman — July 14, 1972~~
+---json
+{
+    "name":"Letter to: Hanuman — July 14, 1972",
+    "h1":"Hanuman — July 14, 1972",
+    "title":"Letter to: Hanuman — July 14, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Hanuman ======
 

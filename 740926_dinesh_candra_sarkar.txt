@@ -1,5 +1,11 @@
-~~Title: Letter to: Dinesh Candra Sarkar — September 26, 1974~~
-~~bc: Dinesh Candra Sarkar — September 26, 1974~~
+---json
+{
+    "name":"Letter to: Dinesh Candra Sarkar — September 26, 1974",
+    "h1":"Dinesh Candra Sarkar — September 26, 1974",
+    "title":"Letter to: Dinesh Candra Sarkar — September 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Dinesh Candra Sarkar ======
 

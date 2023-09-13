@@ -1,5 +1,11 @@
-~~Title: Letter to: Raja Laksmi — February 17, 1976~~
-~~bc: Raja Laksmi — February 17, 1976~~
+---json
+{
+    "name":"Letter to: Raja Laksmi — February 17, 1976",
+    "h1":"Raja Laksmi — February 17, 1976",
+    "title":"Letter to: Raja Laksmi — February 17, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Raja Laksmi ======
 

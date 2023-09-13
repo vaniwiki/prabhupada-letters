@@ -1,5 +1,11 @@
-~~Title: Letter to: Kunj Bihari Shastri — May 11, 1975~~
-~~bc: Kunj Bihari Shastri — May 11, 1975~~
+---json
+{
+    "name":"Letter to: Kunj Bihari Shastri — May 11, 1975",
+    "h1":"Kunj Bihari Shastri — May 11, 1975",
+    "title":"Letter to: Kunj Bihari Shastri — May 11, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Kunj Bihari Shastri ======
 

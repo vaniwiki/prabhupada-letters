@@ -1,5 +1,11 @@
-~~Title: Letter to: Gurukrpa (Gregg Gottfried) — March 30, 1971~~
-~~bc: Gurukrpa (Gregg Gottfried) — March 30, 1971~~
+---json
+{
+    "name":"Letter to: Gurukrpa (Gregg Gottfried) — March 30, 1971",
+    "h1":"Gurukrpa (Gregg Gottfried) — March 30, 1971",
+    "title":"Letter to: Gurukrpa (Gregg Gottfried) — March 30, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Gurukrpa (Gregg Gottfried) ======
 

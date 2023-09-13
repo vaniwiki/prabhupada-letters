@@ -1,5 +1,11 @@
-~~Title: Letter to: Georges Imbert, Kritanga, Gilles Minot, Kriti — January 16, 1972~~
-~~bc: Georges Imbert, Kritanga, Gilles Minot, Kriti — January 16, 1972~~
+---json
+{
+    "name":"Letter to: Georges Imbert, Kritanga, Gilles Minot, Kriti — January 16, 1972",
+    "h1":"Georges Imbert, Kritanga, Gilles Minot, Kriti — January 16, 1972",
+    "title":"Letter to: Georges Imbert, Kritanga, Gilles Minot, Kriti — January 16, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Georges Imbert, Kritanga, Gilles Minot, Kriti ======
 

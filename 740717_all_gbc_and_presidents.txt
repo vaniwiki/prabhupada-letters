@@ -1,5 +1,11 @@
-~~Title: Letter to: All GBC and Presidents — July 17, 1974~~
-~~bc: All GBC and Presidents — July 17, 1974~~
+---json
+{
+    "name":"Letter to: All GBC and Presidents — July 17, 1974",
+    "h1":"All GBC and Presidents — July 17, 1974",
+    "title":"Letter to: All GBC and Presidents — July 17, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: All GBC and Presidents ======
 

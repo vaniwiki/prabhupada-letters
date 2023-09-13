@@ -1,5 +1,11 @@
-~~Title: Letter to: Internal Revenue Service — July 5, 1976~~
-~~bc: Internal Revenue Service — July 5, 1976~~
+---json
+{
+    "name":"Letter to: Internal Revenue Service — July 5, 1976",
+    "h1":"Internal Revenue Service — July 5, 1976",
+    "title":"Letter to: Internal Revenue Service — July 5, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Internal Revenue Service ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Tarun Kanti Ghosh — June 9, 1976~~
-~~bc: Tarun Kanti Ghosh — June 9, 1976~~
+---json
+{
+    "name":"Letter to: Tarun Kanti Ghosh — June 9, 1976",
+    "h1":"Tarun Kanti Ghosh — June 9, 1976",
+    "title":"Letter to: Tarun Kanti Ghosh — June 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Tarun Kanti Ghosh ======
 

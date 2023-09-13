@@ -1,5 +1,11 @@
-~~Title: Letter to: Doug Russell — April 18, 1973~~
-~~bc: Doug Russell — April 18, 1973~~
+---json
+{
+    "name":"Letter to: Doug Russell — April 18, 1973",
+    "h1":"Doug Russell — April 18, 1973",
+    "title":"Letter to: Doug Russell — April 18, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Doug Russell ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Anil Grover — February 5, 1970~~
-~~bc: Anil Grover — February 5, 1970~~
+---json
+{
+    "name":"Letter to: Anil Grover — February 5, 1970",
+    "h1":"Anil Grover — February 5, 1970",
+    "title":"Letter to: Anil Grover — February 5, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Anil Grover ======
 

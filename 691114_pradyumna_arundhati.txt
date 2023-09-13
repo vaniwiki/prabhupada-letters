@@ -1,5 +1,11 @@
-~~Title: Letter to: Pradyumna, Arundhati — November 14, 1969~~
-~~bc: Pradyumna, Arundhati — November 14, 1969~~
+---json
+{
+    "name":"Letter to: Pradyumna, Arundhati — November 14, 1969",
+    "h1":"Pradyumna, Arundhati — November 14, 1969",
+    "title":"Letter to: Pradyumna, Arundhati — November 14, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Pradyumna, Arundhati ======
 

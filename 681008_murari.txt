@@ -1,5 +1,11 @@
-~~Title: Letter to: Murari — October 8, 1968~~
-~~bc: Murari — October 8, 1968~~
+---json
+{
+    "name":"Letter to: Murari — October 8, 1968",
+    "h1":"Murari — October 8, 1968",
+    "title":"Letter to: Murari — October 8, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Murari ======
 

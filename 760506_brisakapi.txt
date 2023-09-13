@@ -1,5 +1,11 @@
-~~Title: Letter to: Brisakapi — May 6, 1976~~
-~~bc: Brisakapi — May 6, 1976~~
+---json
+{
+    "name":"Letter to: Brisakapi — May 6, 1976",
+    "h1":"Brisakapi — May 6, 1976",
+    "title":"Letter to: Brisakapi — May 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Brisakapi ======
 

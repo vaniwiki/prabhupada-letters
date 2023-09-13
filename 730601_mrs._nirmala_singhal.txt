@@ -1,5 +1,11 @@
-~~Title: Letter to: Mrs. Nirmala Singhal — June 1, 1973~~
-~~bc: Mrs. Nirmala Singhal — June 1, 1973~~
+---json
+{
+    "name":"Letter to: Mrs. Nirmala Singhal — June 1, 1973",
+    "h1":"Mrs. Nirmala Singhal — June 1, 1973",
+    "title":"Letter to: Mrs. Nirmala Singhal — June 1, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Mrs. Nirmala Singhal ======
 

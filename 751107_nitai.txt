@@ -1,5 +1,11 @@
-~~Title: Letter to: Nitai — November 7, 1975~~
-~~bc: Nitai — November 7, 1975~~
+---json
+{
+    "name":"Letter to: Nitai — November 7, 1975",
+    "h1":"Nitai — November 7, 1975",
+    "title":"Letter to: Nitai — November 7, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Nitai ======
 

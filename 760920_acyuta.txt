@@ -1,5 +1,11 @@
-~~Title: Letter to: Acyuta — September 20, 1976~~
-~~bc: Acyuta — September 20, 1976~~
+---json
+{
+    "name":"Letter to: Acyuta — September 20, 1976",
+    "h1":"Acyuta — September 20, 1976",
+    "title":"Letter to: Acyuta — September 20, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Acyuta ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sukhasagari (Candice Kellepoury) — July 8, 1971~~
-~~bc: Sukhasagari (Candice Kellepoury) — July 8, 1971~~
+---json
+{
+    "name":"Letter to: Sukhasagari (Candice Kellepoury) — July 8, 1971",
+    "h1":"Sukhasagari (Candice Kellepoury) — July 8, 1971",
+    "title":"Letter to: Sukhasagari (Candice Kellepoury) — July 8, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Sukhasagari (Candice Kellepoury) ======
 

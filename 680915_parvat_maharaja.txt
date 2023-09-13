@@ -1,5 +1,11 @@
-~~Title: Letter to: Parvat Maharaja — September 15, 1968~~
-~~bc: Parvat Maharaja — September 15, 1968~~
+---json
+{
+    "name":"Letter to: Parvat Maharaja — September 15, 1968",
+    "h1":"Parvat Maharaja — September 15, 1968",
+    "title":"Letter to: Parvat Maharaja — September 15, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Parvat Maharaja ======
 

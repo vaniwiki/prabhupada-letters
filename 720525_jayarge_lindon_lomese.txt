@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayarge, Lindon Lomese — May 25, 1972~~
-~~bc: Jayarge, Lindon Lomese — May 25, 1972~~
+---json
+{
+    "name":"Letter to: Jayarge, Lindon Lomese — May 25, 1972",
+    "h1":"Jayarge, Lindon Lomese — May 25, 1972",
+    "title":"Letter to: Jayarge, Lindon Lomese — May 25, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Jayarge, Lindon Lomese ======
 

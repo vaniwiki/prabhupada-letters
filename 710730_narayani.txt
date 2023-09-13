@@ -1,5 +1,11 @@
-~~Title: Letter to: Narayani — July 30, 1971~~
-~~bc: Narayani — July 30, 1971~~
+---json
+{
+    "name":"Letter to: Narayani — July 30, 1971",
+    "h1":"Narayani — July 30, 1971",
+    "title":"Letter to: Narayani — July 30, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Narayani ======
 

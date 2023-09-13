@@ -1,5 +1,11 @@
-~~Title: Letter to: Parasuram R. Jalan — September 7, 1975~~
-~~bc: Parasuram R. Jalan — September 7, 1975~~
+---json
+{
+    "name":"Letter to: Parasuram R. Jalan — September 7, 1975",
+    "h1":"Parasuram R. Jalan — September 7, 1975",
+    "title":"Letter to: Parasuram R. Jalan — September 7, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Parasuram R. Jalan ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Indian Embassy in America — May 28, 1966~~
-~~bc: Indian Embassy in America — May 28, 1966~~
+---json
+{
+    "name":"Letter to: Indian Embassy in America — May 28, 1966",
+    "h1":"Indian Embassy in America — May 28, 1966",
+    "title":"Letter to: Indian Embassy in America — May 28, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Indian Embassy in America ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: United Shipping Corporation — March 23, 1968~~
-~~bc: United Shipping Corporation — March 23, 1968~~
+---json
+{
+    "name":"Letter to: United Shipping Corporation — March 23, 1968",
+    "h1":"United Shipping Corporation — March 23, 1968",
+    "title":"Letter to: United Shipping Corporation — March 23, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: United Shipping Corporation ======
 

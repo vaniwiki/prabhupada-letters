@@ -1,5 +1,11 @@
-~~Title: Letter to: K. K. Birla — March 10, 1971~~
-~~bc: K. K. Birla — March 10, 1971~~
+---json
+{
+    "name":"Letter to: K. K. Birla — March 10, 1971",
+    "h1":"K. K. Birla — March 10, 1971",
+    "title":"Letter to: K. K. Birla — March 10, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: K. K. Birla ======
 

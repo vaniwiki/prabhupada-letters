@@ -1,5 +1,11 @@
-~~Title: Letter to: The Manager — February 28, 1977~~
-~~bc: The Manager — February 28, 1977~~
+---json
+{
+    "name":"Letter to: The Manager — February 28, 1977",
+    "h1":"The Manager — February 28, 1977",
+    "title":"Letter to: The Manager — February 28, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: The Manager ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Asita — January 10, 1975~~
-~~bc: Asita — January 10, 1975~~
+---json
+{
+    "name":"Letter to: Asita — January 10, 1975",
+    "h1":"Asita — January 10, 1975",
+    "title":"Letter to: Asita — January 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Asita ======
 

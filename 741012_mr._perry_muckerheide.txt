@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Perry Muckerheide — October 12, 1974~~
-~~bc: Mr. Perry Muckerheide — October 12, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Perry Muckerheide — October 12, 1974",
+    "h1":"Mr. Perry Muckerheide — October 12, 1974",
+    "title":"Letter to: Mr. Perry Muckerheide — October 12, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Perry Muckerheide ======
 

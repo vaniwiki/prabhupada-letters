@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Krishnaji — March 25, 1967~~
-~~bc: Sri Krishnaji — March 25, 1967~~
+---json
+{
+    "name":"Letter to: Sri Krishnaji — March 25, 1967",
+    "h1":"Sri Krishnaji — March 25, 1967",
+    "title":"Letter to: Sri Krishnaji — March 25, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Krishnaji ======
 

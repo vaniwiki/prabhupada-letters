@@ -1,5 +1,11 @@
-~~Title: Letter to: Trista Hubbarth — May 3, 1975~~
-~~bc: Trista Hubbarth — May 3, 1975~~
+---json
+{
+    "name":"Letter to: Trista Hubbarth — May 3, 1975",
+    "h1":"Trista Hubbarth — May 3, 1975",
+    "title":"Letter to: Trista Hubbarth — May 3, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Trista Hubbarth ======
 

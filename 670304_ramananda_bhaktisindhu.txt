@@ -1,5 +1,11 @@
-~~Title: Letter to: Ramananda Bhaktisindhu — March 11, 1967~~
-~~bc: Ramananda Bhaktisindhu — March 11, 1967~~
+---json
+{
+    "name":"Letter to: Ramananda Bhaktisindhu — March 11, 1967",
+    "h1":"Ramananda Bhaktisindhu — March 11, 1967",
+    "title":"Letter to: Ramananda Bhaktisindhu — March 11, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Ramananda Bhaktisindhu ======
 

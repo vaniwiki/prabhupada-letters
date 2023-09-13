@@ -1,5 +1,11 @@
-~~Title: Letter to: Vrikodara — December 24, 1976~~
-~~bc: Vrikodara — December 24, 1976~~
+---json
+{
+    "name":"Letter to: Vrikodara — December 24, 1976",
+    "h1":"Vrikodara — December 24, 1976",
+    "title":"Letter to: Vrikodara — December 24, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Vrikodara ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Puri Maharaj — November 19, 1970~~
-~~bc: Puri Maharaj — November 19, 1970~~
+---json
+{
+    "name":"Letter to: Puri Maharaj — November 19, 1970",
+    "h1":"Puri Maharaj — November 19, 1970",
+    "title":"Letter to: Puri Maharaj — November 19, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Puri Maharaj ======
 

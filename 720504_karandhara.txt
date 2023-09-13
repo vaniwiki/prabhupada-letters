@@ -1,5 +1,11 @@
-~~Title: Letter to: Karandhara — May 4, 1972~~
-~~bc: Karandhara — May 4, 1972~~
+---json
+{
+    "name":"Letter to: Karandhara — May 4, 1972",
+    "h1":"Karandhara — May 4, 1972",
+    "title":"Letter to: Karandhara — May 4, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Karandhara ======
 

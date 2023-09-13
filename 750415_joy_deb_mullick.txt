@@ -1,5 +1,11 @@
-~~Title: Letter to: Joy Deb Mullick — April 15, 1975~~
-~~bc: Joy Deb Mullick — April 15, 1975~~
+---json
+{
+    "name":"Letter to: Joy Deb Mullick — April 15, 1975",
+    "h1":"Joy Deb Mullick — April 15, 1975",
+    "title":"Letter to: Joy Deb Mullick — April 15, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Joy Deb Mullick ======
 

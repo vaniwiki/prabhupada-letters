@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhakta dasa — January 26, 1974~~
-~~bc: Bhakta dasa — January 26, 1974~~
+---json
+{
+    "name":"Letter to: Bhakta dasa — January 26, 1974",
+    "h1":"Bhakta dasa — January 26, 1974",
+    "title":"Letter to: Bhakta dasa — January 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Bhakta dasa ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Parmanand Patel — July 31, 1976~~
-~~bc: Parmanand Patel — July 31, 1976~~
+---json
+{
+    "name":"Letter to: Parmanand Patel — July 31, 1976",
+    "h1":"Parmanand Patel — July 31, 1976",
+    "title":"Letter to: Parmanand Patel — July 31, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Parmanand Patel ======
 

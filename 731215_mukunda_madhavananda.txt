@@ -1,5 +1,11 @@
-~~Title: Letter to: Mukunda, Madhavananda — December 15, 1973~~
-~~bc: Mukunda, Madhavananda — December 15, 1973~~
+---json
+{
+    "name":"Letter to: Mukunda, Madhavananda — December 15, 1973",
+    "h1":"Mukunda, Madhavananda — December 15, 1973",
+    "title":"Letter to: Mukunda, Madhavananda — December 15, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Mukunda, Madhavananda ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Panalalji — August 20, 1974~~
-~~bc: Panalalji — August 20, 1974~~
+---json
+{
+    "name":"Letter to: Panalalji — August 20, 1974",
+    "h1":"Panalalji — August 20, 1974",
+    "title":"Letter to: Panalalji — August 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Panalalji ======
 

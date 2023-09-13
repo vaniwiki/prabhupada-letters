@@ -1,5 +1,11 @@
-~~Title: Letter to: Harivilasa — June 10, 1968~~
-~~bc: Harivilasa — June 10, 1968~~
+---json
+{
+    "name":"Letter to: Harivilasa — June 10, 1968",
+    "h1":"Harivilasa — June 10, 1968",
+    "title":"Letter to: Harivilasa — June 10, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Harivilasa ======
 

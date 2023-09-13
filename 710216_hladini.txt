@@ -1,5 +1,11 @@
-~~Title: Letter to: Hladini — February 16, 1971~~
-~~bc: Hladini — February 16, 1971~~
+---json
+{
+    "name":"Letter to: Hladini — February 16, 1971",
+    "h1":"Hladini — February 16, 1971",
+    "title":"Letter to: Hladini — February 16, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Hladini ======
 

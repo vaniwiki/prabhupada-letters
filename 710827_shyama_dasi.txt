@@ -1,5 +1,11 @@
-~~Title: Letter to: Shyama Dasi — August 27, 1971~~
-~~bc: Shyama Dasi — August 27, 1971~~
+---json
+{
+    "name":"Letter to: Shyama Dasi — August 27, 1971",
+    "h1":"Shyama Dasi — August 27, 1971",
+    "title":"Letter to: Shyama Dasi — August 27, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Shyama Dasi ======
 

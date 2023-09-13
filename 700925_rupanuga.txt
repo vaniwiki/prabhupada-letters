@@ -1,5 +1,11 @@
-~~Title: Letter to: Rupanuga — September 25, 1970~~
-~~bc: Rupanuga — September 25, 1970~~
+---json
+{
+    "name":"Letter to: Rupanuga — September 25, 1970",
+    "h1":"Rupanuga — September 25, 1970",
+    "title":"Letter to: Rupanuga — September 25, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Rupanuga ======
 

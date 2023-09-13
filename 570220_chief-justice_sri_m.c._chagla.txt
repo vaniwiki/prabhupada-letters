@@ -1,5 +1,11 @@
-~~Title: Letter to: Chief-Justice Sri M.C. Chagla — February 20, 1957~~
-~~bc: Chief-Justice Sri M.C. Chagla — February 20, 1957~~
+---json
+{
+    "name":"Letter to: Chief-Justice Sri M.C. Chagla — February 20, 1957",
+    "h1":"Chief-Justice Sri M.C. Chagla — February 20, 1957",
+    "title":"Letter to: Chief-Justice Sri M.C. Chagla — February 20, 1957",
+    "description":""
+}
+---
 
 ====== Letter to: Chief-Justice Sri M.C. Chagla ======
 

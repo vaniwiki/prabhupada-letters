@@ -1,5 +1,11 @@
-~~Title: Letter to: Jacquetta Buell — July 30, 1975~~
-~~bc: Jacquetta Buell — July 30, 1975~~
+---json
+{
+    "name":"Letter to: Jacquetta Buell — July 30, 1975",
+    "h1":"Jacquetta Buell — July 30, 1975",
+    "title":"Letter to: Jacquetta Buell — July 30, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Jacquetta Buell ======
 

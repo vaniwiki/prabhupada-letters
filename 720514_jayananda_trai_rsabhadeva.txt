@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayananda, Trai, Rsabhadeva — May 14, 1972~~
-~~bc: Jayananda, Trai, Rsabhadeva — May 14, 1972~~
+---json
+{
+    "name":"Letter to: Jayananda, Trai, Rsabhadeva — May 14, 1972",
+    "h1":"Jayananda, Trai, Rsabhadeva — May 14, 1972",
+    "title":"Letter to: Jayananda, Trai, Rsabhadeva — May 14, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Jayananda, Trai, Rsabhadeva ======
 

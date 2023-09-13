@@ -1,5 +1,11 @@
-~~Title: Letter to: Tribhangananda — October 25, 1976~~
-~~bc: Tribhangananda — October 25, 1976~~
+---json
+{
+    "name":"Letter to: Tribhangananda — October 25, 1976",
+    "h1":"Tribhangananda — October 25, 1976",
+    "title":"Letter to: Tribhangananda — October 25, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Tribhangananda ======
 

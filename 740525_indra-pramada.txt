@@ -1,5 +1,11 @@
-~~Title: Letter to: Indra-pramada — May 25, 1974~~
-~~bc: Indra-pramada — May 25, 1974~~
+---json
+{
+    "name":"Letter to: Indra-pramada — May 25, 1974",
+    "h1":"Indra-pramada — May 25, 1974",
+    "title":"Letter to: Indra-pramada — May 25, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Indra-pramada ======
 

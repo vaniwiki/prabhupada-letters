@@ -1,5 +1,11 @@
-~~Title: Letter to: Visala, Visalini — May 9, 1974~~
-~~bc: Visala, Visalini — May 9, 1974~~
+---json
+{
+    "name":"Letter to: Visala, Visalini — May 9, 1974",
+    "h1":"Visala, Visalini — May 9, 1974",
+    "title":"Letter to: Visala, Visalini — May 9, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Visala, Visalini ======
 

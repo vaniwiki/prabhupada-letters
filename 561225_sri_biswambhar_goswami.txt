@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Biswambhar Goswami — December 25, 1956~~
-~~bc: Sri Biswambhar Goswami — December 25, 1956~~
+---json
+{
+    "name":"Letter to: Sri Biswambhar Goswami — December 25, 1956",
+    "h1":"Sri Biswambhar Goswami — December 25, 1956",
+    "title":"Letter to: Sri Biswambhar Goswami — December 25, 1956",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Biswambhar Goswami ======
 

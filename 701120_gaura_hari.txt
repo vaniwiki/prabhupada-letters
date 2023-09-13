@@ -1,5 +1,11 @@
-~~Title: Letter to: Gaura Hari — November 20, 1970~~
-~~bc: Gaura Hari — November 20, 1970~~
+---json
+{
+    "name":"Letter to: Gaura Hari — November 20, 1970",
+    "h1":"Gaura Hari — November 20, 1970",
+    "title":"Letter to: Gaura Hari — November 20, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Gaura Hari ======
 

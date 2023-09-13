@@ -1,5 +1,11 @@
-~~Title: Letter to: Bertl — April 18, 1970~~
-~~bc: Bertl — April 18, 1970~~
+---json
+{
+    "name":"Letter to: Bertl — April 18, 1970",
+    "h1":"Bertl — April 18, 1970",
+    "title":"Letter to: Bertl — April 18, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Bertl ======
 

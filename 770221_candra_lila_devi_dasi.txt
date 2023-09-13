@@ -1,5 +1,11 @@
-~~Title: Letter to: Candra lila devi dasi — February 21, 1977~~
-~~bc: Candra lila devi dasi — February 21, 1977~~
+---json
+{
+    "name":"Letter to: Candra lila devi dasi — February 21, 1977",
+    "h1":"Candra lila devi dasi — February 21, 1977",
+    "title":"Letter to: Candra lila devi dasi — February 21, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Candra lila devi dasi ======
 

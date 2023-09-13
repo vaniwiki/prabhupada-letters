@@ -1,5 +1,11 @@
-~~Title: Letter to: Kasturika — April 25, 1970~~
-~~bc: Kasturika — April 25, 1970~~
+---json
+{
+    "name":"Letter to: Kasturika — April 25, 1970",
+    "h1":"Kasturika — April 25, 1970",
+    "title":"Letter to: Kasturika — April 25, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Kasturika ======
 

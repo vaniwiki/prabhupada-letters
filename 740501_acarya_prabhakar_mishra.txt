@@ -1,5 +1,11 @@
-~~Title: Letter to: Acarya Prabhakar Mishra — May 1, 1974~~
-~~bc: Acarya Prabhakar Mishra — May 1, 1974~~
+---json
+{
+    "name":"Letter to: Acarya Prabhakar Mishra — May 1, 1974",
+    "h1":"Acarya Prabhakar Mishra — May 1, 1974",
+    "title":"Letter to: Acarya Prabhakar Mishra — May 1, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Acarya Prabhakar Mishra ======
 

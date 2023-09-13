@@ -1,5 +1,11 @@
-~~Title: Letter to: Ken Kaffke — October 2, 1974~~
-~~bc: Ken Kaffke — October 2, 1974~~
+---json
+{
+    "name":"Letter to: Ken Kaffke — October 2, 1974",
+    "h1":"Ken Kaffke — October 2, 1974",
+    "title":"Letter to: Ken Kaffke — October 2, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Ken Kaffke ======
 

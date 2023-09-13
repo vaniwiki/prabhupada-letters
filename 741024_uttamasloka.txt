@@ -1,5 +1,11 @@
-~~Title: Letter to: Uttamasloka — October 24, 1974~~
-~~bc: Uttamasloka — October 24, 1974~~
+---json
+{
+    "name":"Letter to: Uttamasloka — October 24, 1974",
+    "h1":"Uttamasloka — October 24, 1974",
+    "title":"Letter to: Uttamasloka — October 24, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Uttamasloka ======
 

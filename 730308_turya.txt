@@ -1,5 +1,11 @@
-~~Title: Letter to: Turya — March 8, 1973~~
-~~bc: Turya — March 8, 1973~~
+---json
+{
+    "name":"Letter to: Turya — March 8, 1973",
+    "h1":"Turya — March 8, 1973",
+    "title":"Letter to: Turya — March 8, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Turya ======
 

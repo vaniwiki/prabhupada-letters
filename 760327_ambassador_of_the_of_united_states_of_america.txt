@@ -1,5 +1,11 @@
-~~Title: Letter to: Ambassador of the of United States of America — March 27, 1976~~
-~~bc: Ambassador of the of United States of America — March 27, 1976~~
+---json
+{
+    "name":"Letter to: Ambassador of the of United States of America — March 27, 1976",
+    "h1":"Ambassador of the of United States of America — March 27, 1976",
+    "title":"Letter to: Ambassador of the of United States of America — March 27, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Ambassador of the of United States of America ======
 

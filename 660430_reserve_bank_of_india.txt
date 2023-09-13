@@ -1,5 +1,11 @@
-~~Title: Letter to: Reserve Bank of India — April 30, 1966~~
-~~bc: Reserve Bank of India — April 30, 1966~~
+---json
+{
+    "name":"Letter to: Reserve Bank of India — April 30, 1966",
+    "h1":"Reserve Bank of India — April 30, 1966",
+    "title":"Letter to: Reserve Bank of India — April 30, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Reserve Bank of India ======
 

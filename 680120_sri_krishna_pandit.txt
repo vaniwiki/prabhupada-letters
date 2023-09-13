@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Krishna Pandit — January 20, 1968~~
-~~bc: Sri Krishna Pandit — January 20, 1968~~
+---json
+{
+    "name":"Letter to: Sri Krishna Pandit — January 20, 1968",
+    "h1":"Sri Krishna Pandit — January 20, 1968",
+    "title":"Letter to: Sri Krishna Pandit — January 20, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Krishna Pandit ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Jawaharlal Nehru — January 20, 1952~~
-~~bc: Jawaharlal Nehru — January 20, 1952~~
+---json
+{
+    "name":"Letter to: Jawaharlal Nehru — January 20, 1952",
+    "h1":"Jawaharlal Nehru — January 20, 1952",
+    "title":"Letter to: Jawaharlal Nehru — January 20, 1952",
+    "description":""
+}
+---
 
 ====== Letter to: Jawaharlal Nehru ======
 

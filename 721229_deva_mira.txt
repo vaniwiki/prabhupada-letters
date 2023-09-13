@@ -1,5 +1,11 @@
-~~Title: Letter to: Deva Mira — December 29, 1972~~
-~~bc: Deva Mira — December 29, 1972~~
+---json
+{
+    "name":"Letter to: Deva Mira — December 29, 1972",
+    "h1":"Deva Mira — December 29, 1972",
+    "title":"Letter to: Deva Mira — December 29, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Deva Mira ======
 

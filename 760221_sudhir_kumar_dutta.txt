@@ -1,5 +1,11 @@
-~~Title: Letter to: Sudhir Kumar Dutta — February 21, 1976~~
-~~bc: Sudhir Kumar Dutta — February 21, 1976~~
+---json
+{
+    "name":"Letter to: Sudhir Kumar Dutta — February 21, 1976",
+    "h1":"Sudhir Kumar Dutta — February 21, 1976",
+    "title":"Letter to: Sudhir Kumar Dutta — February 21, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sudhir Kumar Dutta ======
 

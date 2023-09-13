@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Chaudhuri — January 23, 1976~~
-~~bc: Sri Chaudhuri — January 23, 1976~~
+---json
+{
+    "name":"Letter to: Sri Chaudhuri — January 23, 1976",
+    "h1":"Sri Chaudhuri — January 23, 1976",
+    "title":"Letter to: Sri Chaudhuri — January 23, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Chaudhuri ======
 

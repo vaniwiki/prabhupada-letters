@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Yukio Ogata — March 16, 1971~~
-~~bc: Mr. Yukio Ogata — March 16, 1971~~
+---json
+{
+    "name":"Letter to: Mr. Yukio Ogata — March 16, 1971",
+    "h1":"Mr. Yukio Ogata — March 16, 1971",
+    "title":"Letter to: Mr. Yukio Ogata — March 16, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Yukio Ogata ======
 

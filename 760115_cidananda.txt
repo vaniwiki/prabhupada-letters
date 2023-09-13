@@ -1,5 +1,11 @@
-~~Title: Letter to: Cidananda — January 15, 1976~~
-~~bc: Cidananda — January 15, 1976~~
+---json
+{
+    "name":"Letter to: Cidananda — January 15, 1976",
+    "h1":"Cidananda — January 15, 1976",
+    "title":"Letter to: Cidananda — January 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Cidananda ======
 

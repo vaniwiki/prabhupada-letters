@@ -1,5 +1,11 @@
-~~Title: Letter to: Sripad Narayana Maharaja — December 15, 1966~~
-~~bc: Sripad Narayana Maharaja — December 15, 1966~~
+---json
+{
+    "name":"Letter to: Sripad Narayana Maharaja — December 15, 1966",
+    "h1":"Sripad Narayana Maharaja — December 15, 1966",
+    "title":"Letter to: Sripad Narayana Maharaja — December 15, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Sripad Narayana Maharaja ======
 

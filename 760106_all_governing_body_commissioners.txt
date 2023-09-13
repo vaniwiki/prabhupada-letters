@@ -1,5 +1,11 @@
-~~Title: Letter to: All Governing Body Commissioners — January 6, 1976~~
-~~bc: All Governing Body Commissioners — January 6, 1976~~
+---json
+{
+    "name":"Letter to: All Governing Body Commissioners — January 6, 1976",
+    "h1":"All Governing Body Commissioners — January 6, 1976",
+    "title":"Letter to: All Governing Body Commissioners — January 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: All Governing Body Commissioners ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Radha-Damodara TSKP — May 5, 1976~~
-~~bc: Radha-Damodara TSKP — May 5, 1976~~
+---json
+{
+    "name":"Letter to: Radha-Damodara TSKP — May 5, 1976",
+    "h1":"Radha-Damodara TSKP — May 5, 1976",
+    "title":"Letter to: Radha-Damodara TSKP — May 5, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Radha-Damodara TSKP ======
 

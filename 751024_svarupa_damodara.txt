@@ -1,5 +1,11 @@
-~~Title: Letter to: Svarupa Damodara — October 24, 1975~~
-~~bc: Svarupa Damodara — October 24, 1975~~
+---json
+{
+    "name":"Letter to: Svarupa Damodara — October 24, 1975",
+    "h1":"Svarupa Damodara — October 24, 1975",
+    "title":"Letter to: Svarupa Damodara — October 24, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Svarupa Damodara ======
 

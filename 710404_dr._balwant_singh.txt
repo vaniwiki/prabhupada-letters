@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Balwant Singh — April 4, 1971~~
-~~bc: Dr. Balwant Singh — April 4, 1971~~
+---json
+{
+    "name":"Letter to: Dr. Balwant Singh — April 4, 1971",
+    "h1":"Dr. Balwant Singh — April 4, 1971",
+    "title":"Letter to: Dr. Balwant Singh — April 4, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Balwant Singh ======
 

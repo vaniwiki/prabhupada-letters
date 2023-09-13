@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Allen Klein — January 6, 1970~~
-~~bc: Mr. Allen Klein — January 6, 1970~~
+---json
+{
+    "name":"Letter to: Mr. Allen Klein — January 6, 1970",
+    "h1":"Mr. Allen Klein — January 6, 1970",
+    "title":"Letter to: Mr. Allen Klein — January 6, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Allen Klein ======
 

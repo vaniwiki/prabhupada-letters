@@ -1,5 +1,11 @@
-~~Title: Letter to: Nrsimha Caitanya — November 21, 1974~~
-~~bc: Nrsimha Caitanya — November 21, 1974~~
+---json
+{
+    "name":"Letter to: Nrsimha Caitanya — November 21, 1974",
+    "h1":"Nrsimha Caitanya — November 21, 1974",
+    "title":"Letter to: Nrsimha Caitanya — November 21, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Nrsimha Caitanya ======
 

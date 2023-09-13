@@ -1,5 +1,11 @@
-~~Title: Letter to: Damodara — November 26, 1974~~
-~~bc: Damodara — November 26, 1974~~
+---json
+{
+    "name":"Letter to: Damodara — November 26, 1974",
+    "h1":"Damodara — November 26, 1974",
+    "title":"Letter to: Damodara — November 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Damodara ======
 

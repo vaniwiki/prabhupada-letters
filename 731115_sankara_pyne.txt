@@ -1,5 +1,11 @@
-~~Title: Letter to: Sankara Pyne — November 15, 1973~~
-~~bc: Sankara Pyne — November 15, 1973~~
+---json
+{
+    "name":"Letter to: Sankara Pyne — November 15, 1973",
+    "h1":"Sankara Pyne — November 15, 1973",
+    "title":"Letter to: Sankara Pyne — November 15, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Sankara Pyne ======
 

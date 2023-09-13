@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Subrahmanyan — January 3, 1976~~
-~~bc: Sri Subrahmanyan — January 3, 1976~~
+---json
+{
+    "name":"Letter to: Sri Subrahmanyan — January 3, 1976",
+    "h1":"Sri Subrahmanyan — January 3, 1976",
+    "title":"Letter to: Sri Subrahmanyan — January 3, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Subrahmanyan ======
 

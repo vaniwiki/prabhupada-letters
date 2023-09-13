@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Santosh Kumar — February 16, 1975~~
-~~bc: Dr. Santosh Kumar — February 16, 1975~~
+---json
+{
+    "name":"Letter to: Dr. Santosh Kumar — February 16, 1975",
+    "h1":"Dr. Santosh Kumar — February 16, 1975",
+    "title":"Letter to: Dr. Santosh Kumar — February 16, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Santosh Kumar ======
 

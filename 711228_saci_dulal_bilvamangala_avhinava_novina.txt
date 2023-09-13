@@ -1,5 +1,11 @@
-~~Title: Letter to: Saci Dulal (Richard), Bilvamangala (David), Avhinava (Don La Douce), Novina (Sally) — December 28, 1971~~
-~~bc: Saci Dulal (Richard), Bilvamangala (David), Avhinava (Don La Douce), Novina (Sally) — December 28, 1971~~
+---json
+{
+    "name":"Letter to: Saci Dulal (Richard), Bilvamangala (David), Avhinava (Don La Douce), Novina (Sally) — December 28, 1971",
+    "h1":"Saci Dulal (Richard), Bilvamangala (David), Avhinava (Don La Douce), Novina (Sally) — December 28, 1971",
+    "title":"Letter to: Saci Dulal (Richard), Bilvamangala (David), Avhinava (Don La Douce), Novina (Sally) — December 28, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Saci Dulal (Richard), Bilvamangala (David), Avhinava (Don La Douce), Novina (Sally) ======
 

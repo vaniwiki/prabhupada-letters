@@ -1,5 +1,11 @@
-~~Title: Letter to: Balabhadra, Ratnaranjini — August 18, 1974~~
-~~bc: Balabhadra, Ratnaranjini — August 18, 1974~~
+---json
+{
+    "name":"Letter to: Balabhadra, Ratnaranjini — August 18, 1974",
+    "h1":"Balabhadra, Ratnaranjini — August 18, 1974",
+    "title":"Letter to: Balabhadra, Ratnaranjini — August 18, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Balabhadra, Ratnaranjini ======
 

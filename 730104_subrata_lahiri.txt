@@ -1,5 +1,11 @@
-~~Title: Letter to: Subrata Lahiri — January 4, 1973~~
-~~bc: Subrata Lahiri — January 4, 1973~~
+---json
+{
+    "name":"Letter to: Subrata Lahiri — January 4, 1973",
+    "h1":"Subrata Lahiri — January 4, 1973",
+    "title":"Letter to: Subrata Lahiri — January 4, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Subrata Lahiri ======
 

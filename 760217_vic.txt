@@ -1,5 +1,11 @@
-~~Title: Letter to: Vic — February 17, 1976~~
-~~bc: Vic — February 17, 1976~~
+---json
+{
+    "name":"Letter to: Vic — February 17, 1976",
+    "h1":"Vic — February 17, 1976",
+    "title":"Letter to: Vic — February 17, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Vic ======
 

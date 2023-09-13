@@ -1,5 +1,11 @@
-~~Title: Letter to: All Governing Board Commissioners — May 19, 1976~~
-~~bc: All Governing Board Commissioners — May 19, 1976~~
+---json
+{
+    "name":"Letter to: All Governing Board Commissioners — May 19, 1976",
+    "h1":"All Governing Board Commissioners — May 19, 1976",
+    "title":"Letter to: All Governing Board Commissioners — May 19, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: All Governing Board Commissioners ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Panchu — October 11, 1966~~
-~~bc: Panchu — October 11, 1966~~
+---json
+{
+    "name":"Letter to: Panchu — October 11, 1966",
+    "h1":"Panchu — October 11, 1966",
+    "title":"Letter to: Panchu — October 11, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Panchu ======
 

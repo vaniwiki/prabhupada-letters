@@ -1,5 +1,11 @@
-~~Title: Letter to: Vijoyadhvaja — September 19, 1974~~
-~~bc: Vijoyadhvaja — September 19, 1974~~
+---json
+{
+    "name":"Letter to: Vijoyadhvaja — September 19, 1974",
+    "h1":"Vijoyadhvaja — September 19, 1974",
+    "title":"Letter to: Vijoyadhvaja — September 19, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Vijoyadhvaja ======
 

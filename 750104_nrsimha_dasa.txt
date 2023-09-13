@@ -1,5 +1,11 @@
-~~Title: Letter to: Nrsimha dasa — January 4, 1975~~
-~~bc: Nrsimha dasa — January 4, 1975~~
+---json
+{
+    "name":"Letter to: Nrsimha dasa — January 4, 1975",
+    "h1":"Nrsimha dasa — January 4, 1975",
+    "title":"Letter to: Nrsimha dasa — January 4, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Nrsimha dasa ======
 

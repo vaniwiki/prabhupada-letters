@@ -1,5 +1,11 @@
-~~Title: Letter to: Dinatarini dasi — October 26, 1972~~
-~~bc: Dinatarini dasi — October 26, 1972~~
+---json
+{
+    "name":"Letter to: Dinatarini dasi — October 26, 1972",
+    "h1":"Dinatarini dasi — October 26, 1972",
+    "title":"Letter to: Dinatarini dasi — October 26, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Dinatarini dasi ======
 

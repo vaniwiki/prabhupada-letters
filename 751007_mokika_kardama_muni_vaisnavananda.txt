@@ -1,5 +1,11 @@
-~~Title: Letter to: Mokika, Kardama Muni, Vaisnavananda — October 7, 1975~~
-~~bc: Mokika, Kardama Muni, Vaisnavananda — October 7, 1975~~
+---json
+{
+    "name":"Letter to: Mokika, Kardama Muni, Vaisnavananda — October 7, 1975",
+    "h1":"Mokika, Kardama Muni, Vaisnavananda — October 7, 1975",
+    "title":"Letter to: Mokika, Kardama Muni, Vaisnavananda — October 7, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mokika, Kardama Muni, Vaisnavananda ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Karandhara — April 13, 1976~~
-~~bc: Karandhara — April 13, 1976~~
+---json
+{
+    "name":"Letter to: Karandhara — April 13, 1976",
+    "h1":"Karandhara — April 13, 1976",
+    "title":"Letter to: Karandhara — April 13, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Karandhara ======
 

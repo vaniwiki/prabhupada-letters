@@ -1,5 +1,11 @@
-~~Title: Letter to: Bibhu — April 8, 1972~~
-~~bc: Bibhu — April 8, 1972~~
+---json
+{
+    "name":"Letter to: Bibhu — April 8, 1972",
+    "h1":"Bibhu — April 8, 1972",
+    "title":"Letter to: Bibhu — April 8, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Bibhu ======
 

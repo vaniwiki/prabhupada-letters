@@ -1,5 +1,11 @@
-~~Title: Letter to: Doctor Radhakrishnan — March 29, 1961~~
-~~bc: Doctor Radhakrishnan — March 29, 1961~~
+---json
+{
+    "name":"Letter to: Doctor Radhakrishnan — March 29, 1961",
+    "h1":"Doctor Radhakrishnan — March 29, 1961",
+    "title":"Letter to: Doctor Radhakrishnan — March 29, 1961",
+    "description":""
+}
+---
 
 ====== Letter to: Doctor Radhakrishnan ======
 

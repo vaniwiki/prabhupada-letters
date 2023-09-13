@@ -1,5 +1,11 @@
-~~Title: Letter to: Tirthanga — March 14, 1975~~
-~~bc: Tirthanga — March 14, 1975~~
+---json
+{
+    "name":"Letter to: Tirthanga — March 14, 1975",
+    "h1":"Tirthanga — March 14, 1975",
+    "title":"Letter to: Tirthanga — March 14, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Tirthanga ======
 

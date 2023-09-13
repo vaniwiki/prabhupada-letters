@@ -1,5 +1,11 @@
-~~Title: Letter to: Svarupa Damodara — June 6, 1976~~
-~~bc: Svarupa Damodara — June 6, 1976~~
+---json
+{
+    "name":"Letter to: Svarupa Damodara — June 6, 1976",
+    "h1":"Svarupa Damodara — June 6, 1976",
+    "title":"Letter to: Svarupa Damodara — June 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Svarupa Damodara ======
 

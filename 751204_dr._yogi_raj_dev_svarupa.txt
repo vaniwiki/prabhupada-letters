@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Yogi Raj Dev Svarupa — December 4, 1975~~
-~~bc: Dr. Yogi Raj Dev Svarupa — December 4, 1975~~
+---json
+{
+    "name":"Letter to: Dr. Yogi Raj Dev Svarupa — December 4, 1975",
+    "h1":"Dr. Yogi Raj Dev Svarupa — December 4, 1975",
+    "title":"Letter to: Dr. Yogi Raj Dev Svarupa — December 4, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Yogi Raj Dev Svarupa ======
 

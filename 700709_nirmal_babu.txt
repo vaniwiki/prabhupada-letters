@@ -1,5 +1,11 @@
-~~Title: Letter to: Nirmal Babu — July 9, 1970~~
-~~bc: Nirmal Babu — July 9, 1970~~
+---json
+{
+    "name":"Letter to: Nirmal Babu — July 9, 1970",
+    "h1":"Nirmal Babu — July 9, 1970",
+    "title":"Letter to: Nirmal Babu — July 9, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Nirmal Babu ======
 

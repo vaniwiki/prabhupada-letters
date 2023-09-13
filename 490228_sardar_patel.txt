@@ -1,5 +1,11 @@
-~~Title: Letter to: Sardar Patel — February 28, 1949~~
-~~bc: Sardar Patel — February 28, 1949~~
+---json
+{
+    "name":"Letter to: Sardar Patel — February 28, 1949",
+    "h1":"Sardar Patel — February 28, 1949",
+    "title":"Letter to: Sardar Patel — February 28, 1949",
+    "description":""
+}
+---
 
 ====== Letter to: Sardar Patel ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Lilasakti — November 5, 1974~~
-~~bc: Lilasakti — November 5, 1974~~
+---json
+{
+    "name":"Letter to: Lilasakti — November 5, 1974",
+    "h1":"Lilasakti — November 5, 1974",
+    "title":"Letter to: Lilasakti — November 5, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Lilasakti ======
 

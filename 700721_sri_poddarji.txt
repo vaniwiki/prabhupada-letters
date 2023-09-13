@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Poddarji — July 21, 1970~~
-~~bc: Sri Poddarji — July 21, 1970~~
+---json
+{
+    "name":"Letter to: Sri Poddarji — July 21, 1970",
+    "h1":"Sri Poddarji — July 21, 1970",
+    "title":"Letter to: Sri Poddarji — July 21, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Poddarji ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Govinda, Gaurasundara — April 25, 1969~~
-~~bc: Govinda, Gaurasundara — April 25, 1969~~
+---json
+{
+    "name":"Letter to: Govinda, Gaurasundara — April 25, 1969",
+    "h1":"Govinda, Gaurasundara — April 25, 1969",
+    "title":"Letter to: Govinda, Gaurasundara — April 25, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Govinda, Gaurasundara ======
 

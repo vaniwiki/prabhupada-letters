@@ -1,5 +1,11 @@
-~~Title: Letter to: Haribolananda — December 20, 1973~~
-~~bc: Haribolananda — December 20, 1973~~
+---json
+{
+    "name":"Letter to: Haribolananda — December 20, 1973",
+    "h1":"Haribolananda — December 20, 1973",
+    "title":"Letter to: Haribolananda — December 20, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Haribolananda ======
 

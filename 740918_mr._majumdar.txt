@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Majumdar — September 18, 1974~~
-~~bc: Mr. Majumdar — September 18, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Majumdar — September 18, 1974",
+    "h1":"Mr. Majumdar — September 18, 1974",
+    "title":"Letter to: Mr. Majumdar — September 18, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Majumdar ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Kunja Behari — January 19, 1977~~
-~~bc: Kunja Behari — January 19, 1977~~
+---json
+{
+    "name":"Letter to: Kunja Behari — January 19, 1977",
+    "h1":"Kunja Behari — January 19, 1977",
+    "title":"Letter to: Kunja Behari — January 19, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Kunja Behari ======
 

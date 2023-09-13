@@ -1,5 +1,11 @@
-~~Title: Letter to: Reserve Bank of India — February 22, 1971~~
-~~bc: Reserve Bank of India — February 22, 1971~~
+---json
+{
+    "name":"Letter to: Reserve Bank of India — February 22, 1971",
+    "h1":"Reserve Bank of India — February 22, 1971",
+    "title":"Letter to: Reserve Bank of India — February 22, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Reserve Bank of India ======
 

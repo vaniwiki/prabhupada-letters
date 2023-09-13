@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager of Central Bank of India — May 5, 1976~~
-~~bc: Manager of Central Bank of India — May 5, 1976~~
+---json
+{
+    "name":"Letter to: Manager of Central Bank of India — May 5, 1976",
+    "h1":"Manager of Central Bank of India — May 5, 1976",
+    "title":"Letter to: Manager of Central Bank of India — May 5, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Manager of Central Bank of India ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: District Judge of Agra, Mr. S.D. Kulshrestha — October 29, 1975~~
-~~bc: District Judge of Agra, Mr. S.D. Kulshrestha — October 29, 1975~~
+---json
+{
+    "name":"Letter to: District Judge of Agra, Mr. S.D. Kulshrestha — October 29, 1975",
+    "h1":"District Judge of Agra, Mr. S.D. Kulshrestha — October 29, 1975",
+    "title":"Letter to: District Judge of Agra, Mr. S.D. Kulshrestha — October 29, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: District Judge of Agra, Mr. S.D. Kulshrestha ======
 

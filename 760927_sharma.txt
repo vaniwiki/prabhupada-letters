@@ -1,5 +1,11 @@
-~~Title: Letter to: Sharma — September 27, 1976~~
-~~bc: Sharma — September 27, 1976~~
+---json
+{
+    "name":"Letter to: Sharma — September 27, 1976",
+    "h1":"Sharma — September 27, 1976",
+    "title":"Letter to: Sharma — September 27, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sharma ======
 

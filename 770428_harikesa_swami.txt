@@ -1,5 +1,11 @@
-~~Title: Letter to: Harikesa Swami — April 28, 1977~~
-~~bc: Harikesa Swami — April 28, 1977~~
+---json
+{
+    "name":"Letter to: Harikesa Swami — April 28, 1977",
+    "h1":"Harikesa Swami — April 28, 1977",
+    "title":"Letter to: Harikesa Swami — April 28, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Harikesa Swami ======
 

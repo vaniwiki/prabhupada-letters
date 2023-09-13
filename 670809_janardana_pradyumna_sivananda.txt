@@ -1,5 +1,11 @@
-~~Title: Letter to: Janardana, Pradyumna, Sivananda — August 9, 1967~~
-~~bc: Janardana, Pradyumna, Sivananda — August 9, 1967~~
+---json
+{
+    "name":"Letter to: Janardana, Pradyumna, Sivananda — August 9, 1967",
+    "h1":"Janardana, Pradyumna, Sivananda — August 9, 1967",
+    "title":"Letter to: Janardana, Pradyumna, Sivananda — August 9, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Janardana, Pradyumna, Sivananda ======
 

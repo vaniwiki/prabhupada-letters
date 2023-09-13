@@ -1,5 +1,11 @@
-~~Title: Letter to: Mario Windisch — February 25, 1968~~
-~~bc: Mario Windisch — February 25, 1968~~
+---json
+{
+    "name":"Letter to: Mario Windisch — February 25, 1968",
+    "h1":"Mario Windisch — February 25, 1968",
+    "title":"Letter to: Mario Windisch — February 25, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Mario Windisch ======
 

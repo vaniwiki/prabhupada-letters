@@ -1,5 +1,11 @@
-~~Title: Letter to: Paramananda — November 18, 1971~~
-~~bc: Paramananda — November 18, 1971~~
+---json
+{
+    "name":"Letter to: Paramananda — November 18, 1971",
+    "h1":"Paramananda — November 18, 1971",
+    "title":"Letter to: Paramananda — November 18, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Paramananda ======
 

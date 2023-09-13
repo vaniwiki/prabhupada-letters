@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhava Maharaja — August 1, 1966~~
-~~bc: Madhava Maharaja — August 1, 1966~~
+---json
+{
+    "name":"Letter to: Madhava Maharaja — August 1, 1966",
+    "h1":"Madhava Maharaja — August 1, 1966",
+    "title":"Letter to: Madhava Maharaja — August 1, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Madhava Maharaja ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sir Alistair Hardy — July 28, 1973~~
-~~bc: Sir Alistair Hardy — July 28, 1973~~
+---json
+{
+    "name":"Letter to: Sir Alistair Hardy — July 28, 1973",
+    "h1":"Sir Alistair Hardy — July 28, 1973",
+    "title":"Letter to: Sir Alistair Hardy — July 28, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Sir Alistair Hardy ======
 

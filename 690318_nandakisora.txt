@@ -1,5 +1,11 @@
-~~Title: Letter to: Nandakisora — March 18, 1969~~
-~~bc: Nandakisora — March 18, 1969~~
+---json
+{
+    "name":"Letter to: Nandakisora — March 18, 1969",
+    "h1":"Nandakisora — March 18, 1969",
+    "title":"Letter to: Nandakisora — March 18, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Nandakisora ======
 

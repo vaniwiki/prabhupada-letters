@@ -1,5 +1,11 @@
-~~Title: Letter to: Alan Ginsberg — October 6, 1968~~
-~~bc: Alan Ginsberg — October 6, 1968~~
+---json
+{
+    "name":"Letter to: Alan Ginsberg — October 6, 1968",
+    "h1":"Alan Ginsberg — October 6, 1968",
+    "title":"Letter to: Alan Ginsberg — October 6, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Alan Ginsberg ======
 

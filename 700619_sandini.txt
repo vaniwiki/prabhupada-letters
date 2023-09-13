@@ -1,5 +1,11 @@
-~~Title: Letter to: Sandini — June 19, 1970~~
-~~bc: Sandini — June 19, 1970~~
+---json
+{
+    "name":"Letter to: Sandini — June 19, 1970",
+    "h1":"Sandini — June 19, 1970",
+    "title":"Letter to: Sandini — June 19, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Sandini ======
 

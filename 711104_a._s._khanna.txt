@@ -1,5 +1,11 @@
-~~Title: Letter to: A. S. Khanna — November 4, 1971~~
-~~bc: A. S. Khanna — November 4, 1971~~
+---json
+{
+    "name":"Letter to: A. S. Khanna — November 4, 1971",
+    "h1":"A. S. Khanna — November 4, 1971",
+    "title":"Letter to: A. S. Khanna — November 4, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: A. S. Khanna ======
 

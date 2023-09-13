@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri P. L. Khanna — January 24, 1976~~
-~~bc: Sri P. L. Khanna — January 24, 1976~~
+---json
+{
+    "name":"Letter to: Sri P. L. Khanna — January 24, 1976",
+    "h1":"Sri P. L. Khanna — January 24, 1976",
+    "title":"Letter to: Sri P. L. Khanna — January 24, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri P. L. Khanna ======
 

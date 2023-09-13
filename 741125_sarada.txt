@@ -1,5 +1,11 @@
-~~Title: Letter to: Sarada — November 25, 1974~~
-~~bc: Sarada — November 25, 1974~~
+---json
+{
+    "name":"Letter to: Sarada — November 25, 1974",
+    "h1":"Sarada — November 25, 1974",
+    "title":"Letter to: Sarada — November 25, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sarada ======
 

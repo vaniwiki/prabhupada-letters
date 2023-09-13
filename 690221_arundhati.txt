@@ -1,5 +1,11 @@
-~~Title: Letter to: Arundhati — February 21, 1969~~
-~~bc: Arundhati — February 21, 1969~~
+---json
+{
+    "name":"Letter to: Arundhati — February 21, 1969",
+    "h1":"Arundhati — February 21, 1969",
+    "title":"Letter to: Arundhati — February 21, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Arundhati ======
 

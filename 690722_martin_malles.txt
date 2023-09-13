@@ -1,5 +1,11 @@
-~~Title: Letter to: Martin Malles — July 22, 1969~~
-~~bc: Martin Malles — July 22, 1969~~
+---json
+{
+    "name":"Letter to: Martin Malles — July 22, 1969",
+    "h1":"Martin Malles — July 22, 1969",
+    "title":"Letter to: Martin Malles — July 22, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Martin Malles ======
 

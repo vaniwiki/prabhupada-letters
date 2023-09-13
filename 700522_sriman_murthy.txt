@@ -1,5 +1,11 @@
-~~Title: Letter to: Sriman Murthy — May 22, 1970~~
-~~bc: Sriman Murthy — May 22, 1970~~
+---json
+{
+    "name":"Letter to: Sriman Murthy — May 22, 1970",
+    "h1":"Sriman Murthy — May 22, 1970",
+    "title":"Letter to: Sriman Murthy — May 22, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Sriman Murthy ======
 

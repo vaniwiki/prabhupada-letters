@@ -1,5 +1,11 @@
-~~Title: Letter to: Thomas McCarthy — September 12, 1975~~
-~~bc: Thomas McCarthy — September 12, 1975~~
+---json
+{
+    "name":"Letter to: Thomas McCarthy — September 12, 1975",
+    "h1":"Thomas McCarthy — September 12, 1975",
+    "title":"Letter to: Thomas McCarthy — September 12, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Thomas McCarthy ======
 

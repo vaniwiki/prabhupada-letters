@@ -1,5 +1,11 @@
-~~Title: Letter to: Sridama — May 5, 1972~~
-~~bc: Sridama — May 5, 1972~~
+---json
+{
+    "name":"Letter to: Sridama — May 5, 1972",
+    "h1":"Sridama — May 5, 1972",
+    "title":"Letter to: Sridama — May 5, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Sridama ======
 

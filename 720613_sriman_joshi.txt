@@ -1,5 +1,11 @@
-~~Title: Letter to: Sriman Joshi — June 13, 1972~~
-~~bc: Sriman Joshi — June 13, 1972~~
+---json
+{
+    "name":"Letter to: Sriman Joshi — June 13, 1972",
+    "h1":"Sriman Joshi — June 13, 1972",
+    "title":"Letter to: Sriman Joshi — June 13, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Sriman Joshi ======
 

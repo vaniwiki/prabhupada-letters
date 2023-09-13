@@ -1,5 +1,11 @@
-~~Title: Letter to: Sagar Maharaja — October 21, 1970~~
-~~bc: Sagar Maharaja — October 21, 1970~~
+---json
+{
+    "name":"Letter to: Sagar Maharaja — October 21, 1970",
+    "h1":"Sagar Maharaja — October 21, 1970",
+    "title":"Letter to: Sagar Maharaja — October 21, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Sagar Maharaja ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Satish Kumar Varma — December 29, 1976~~
-~~bc: Satish Kumar Varma — December 29, 1976~~
+---json
+{
+    "name":"Letter to: Satish Kumar Varma — December 29, 1976",
+    "h1":"Satish Kumar Varma — December 29, 1976",
+    "title":"Letter to: Satish Kumar Varma — December 29, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Satish Kumar Varma ======
 

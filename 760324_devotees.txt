@@ -1,5 +1,11 @@
-~~Title: Letter to: Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder — March 24, 1976~~
-~~bc: Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder — March 24, 1976~~
+---json
+{
+    "name":"Letter to: Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder — March 24, 1976",
+    "h1":"Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder — March 24, 1976",
+    "title":"Letter to: Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder — March 24, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder ======
 

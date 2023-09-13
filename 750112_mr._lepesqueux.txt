@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Lepesqueux — January 12, 1975~~
-~~bc: Mr. Lepesqueux — January 12, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Lepesqueux — January 12, 1975",
+    "h1":"Mr. Lepesqueux — January 12, 1975",
+    "title":"Letter to: Mr. Lepesqueux — January 12, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Lepesqueux ======
 

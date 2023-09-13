@@ -1,5 +1,11 @@
-~~Title: Letter to: Kuvera, Rebati — July 16, 1974~~
-~~bc: Kuvera, Rebati — July 16, 1974~~
+---json
+{
+    "name":"Letter to: Kuvera, Rebati — July 16, 1974",
+    "h1":"Kuvera, Rebati — July 16, 1974",
+    "title":"Letter to: Kuvera, Rebati — July 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Kuvera, Rebati ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Ajita Kumar Chatterjee — February 12, 1976~~
-~~bc: Sri Ajita Kumar Chatterjee — February 12, 1976~~
+---json
+{
+    "name":"Letter to: Sri Ajita Kumar Chatterjee — February 12, 1976",
+    "h1":"Sri Ajita Kumar Chatterjee — February 12, 1976",
+    "title":"Letter to: Sri Ajita Kumar Chatterjee — February 12, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Ajita Kumar Chatterjee ======
 

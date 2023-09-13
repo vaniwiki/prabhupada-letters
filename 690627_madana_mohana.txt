@@ -1,5 +1,11 @@
-~~Title: Letter to: Madana Mohana — June 27, 1969~~
-~~bc: Madana Mohana — June 27, 1969~~
+---json
+{
+    "name":"Letter to: Madana Mohana — June 27, 1969",
+    "h1":"Madana Mohana — June 27, 1969",
+    "title":"Letter to: Madana Mohana — June 27, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Madana Mohana ======
 

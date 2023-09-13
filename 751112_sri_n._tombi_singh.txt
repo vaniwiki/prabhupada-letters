@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri N. Tombi Singh — November 12, 1975~~
-~~bc: Sri N. Tombi Singh — November 12, 1975~~
+---json
+{
+    "name":"Letter to: Sri N. Tombi Singh — November 12, 1975",
+    "h1":"Sri N. Tombi Singh — November 12, 1975",
+    "title":"Letter to: Sri N. Tombi Singh — November 12, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sri N. Tombi Singh ======
 

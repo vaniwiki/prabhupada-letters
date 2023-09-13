@@ -1,5 +1,11 @@
-~~Title: Letter to: Yoland — July 30, 1969~~
-~~bc: Yoland — July 30, 1969~~
+---json
+{
+    "name":"Letter to: Yoland — July 30, 1969",
+    "h1":"Yoland — July 30, 1969",
+    "title":"Letter to: Yoland — July 30, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Yoland ======
 

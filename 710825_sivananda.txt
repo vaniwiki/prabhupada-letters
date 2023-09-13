@@ -1,5 +1,11 @@
-~~Title: Letter to: Sivananda — August 25, 1971~~
-~~bc: Sivananda — August 25, 1971~~
+---json
+{
+    "name":"Letter to: Sivananda — August 25, 1971",
+    "h1":"Sivananda — August 25, 1971",
+    "title":"Letter to: Sivananda — August 25, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Sivananda ======
 

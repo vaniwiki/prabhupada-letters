@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager, American Express International — June 26, 1976~~
-~~bc: Manager, American Express International — June 26, 1976~~
+---json
+{
+    "name":"Letter to: Manager, American Express International — June 26, 1976",
+    "h1":"Manager, American Express International — June 26, 1976",
+    "title":"Letter to: Manager, American Express International — June 26, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Manager, American Express International ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. S. S. Sethi (Vice Consul of India) — September 26, 1968~~
-~~bc: Mr. S. S. Sethi (Vice Consul of India) — September 26, 1968~~
+---json
+{
+    "name":"Letter to: Mr. S. S. Sethi (Vice Consul of India) — September 26, 1968",
+    "h1":"Mr. S. S. Sethi (Vice Consul of India) — September 26, 1968",
+    "title":"Letter to: Mr. S. S. Sethi (Vice Consul of India) — September 26, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. S. S. Sethi (Vice Consul of India) ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhakti Ballabh Tirtha — September 2, 1975~~
-~~bc: Bhakti Ballabh Tirtha — September 2, 1975~~
+---json
+{
+    "name":"Letter to: Bhakti Ballabh Tirtha — September 2, 1975",
+    "h1":"Bhakti Ballabh Tirtha — September 2, 1975",
+    "title":"Letter to: Bhakti Ballabh Tirtha — September 2, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Bhakti Ballabh Tirtha ======
 

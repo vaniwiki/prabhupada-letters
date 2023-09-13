@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Mittra — February 28, 1968~~
-~~bc: Mr. Mittra — February 28, 1968~~
+---json
+{
+    "name":"Letter to: Mr. Mittra — February 28, 1968",
+    "h1":"Mr. Mittra — February 28, 1968",
+    "title":"Letter to: Mr. Mittra — February 28, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Mittra ======
 

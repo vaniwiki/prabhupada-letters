@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Jootee Boonsoong — August 1, 1976~~
-~~bc: Mr. Jootee Boonsoong — August 1, 1976~~
+---json
+{
+    "name":"Letter to: Mr. Jootee Boonsoong — August 1, 1976",
+    "h1":"Mr. Jootee Boonsoong — August 1, 1976",
+    "title":"Letter to: Mr. Jootee Boonsoong — August 1, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Jootee Boonsoong ======
 

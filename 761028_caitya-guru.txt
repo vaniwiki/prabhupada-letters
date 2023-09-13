@@ -1,5 +1,11 @@
-~~Title: Letter to: Caitya-guru — October 28, 1976~~
-~~bc: Caitya-guru — October 28, 1976~~
+---json
+{
+    "name":"Letter to: Caitya-guru — October 28, 1976",
+    "h1":"Caitya-guru — October 28, 1976",
+    "title":"Letter to: Caitya-guru — October 28, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Caitya-guru ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri M. N. Chandhuri — January 26, 1976~~
-~~bc: Sri M. N. Chandhuri — January 26, 1976~~
+---json
+{
+    "name":"Letter to: Sri M. N. Chandhuri — January 26, 1976",
+    "h1":"Sri M. N. Chandhuri — January 26, 1976",
+    "title":"Letter to: Sri M. N. Chandhuri — January 26, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri M. N. Chandhuri ======
 

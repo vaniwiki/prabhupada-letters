@@ -1,5 +1,11 @@
-~~Title: Letter to: Badarinarayana — October 8, 1974~~
-~~bc: Badarinarayana — October 8, 1974~~
+---json
+{
+    "name":"Letter to: Badarinarayana — October 8, 1974",
+    "h1":"Badarinarayana — October 8, 1974",
+    "title":"Letter to: Badarinarayana — October 8, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Badarinarayana ======
 

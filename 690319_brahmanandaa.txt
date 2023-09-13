@@ -1,5 +1,11 @@
-~~Title: Letter to: Brahmananda — The Macmillan Company~~
-~~bc: Brahmananda — The Macmillan Company~~
+---json
+{
+    "name":"Letter to: Brahmananda — The Macmillan Company",
+    "h1":"Brahmananda — The Macmillan Company",
+    "title":"Letter to: Brahmananda — The Macmillan Company",
+    "description":""
+}
+---
 
 ====== Letter to: Brahmananda ======
 

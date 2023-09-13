@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayapataka — February 14, 1969~~
-~~bc: Jayapataka — February 14, 1969~~
+---json
+{
+    "name":"Letter to: Jayapataka — February 14, 1969",
+    "h1":"Jayapataka — February 14, 1969",
+    "title":"Letter to: Jayapataka — February 14, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Jayapataka ======
 

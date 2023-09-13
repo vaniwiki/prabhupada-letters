@@ -1,5 +1,11 @@
-~~Title: Letter to: ISKCON Tucson, Sons and Daughters — August 15, 1971~~
-~~bc: ISKCON Tucson, Sons and Daughters — August 15, 1971~~
+---json
+{
+    "name":"Letter to: ISKCON Tucson, Sons and Daughters — August 15, 1971",
+    "h1":"ISKCON Tucson, Sons and Daughters — August 15, 1971",
+    "title":"Letter to: ISKCON Tucson, Sons and Daughters — August 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: ISKCON Tucson, Sons and Daughters ======
 

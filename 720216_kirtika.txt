@@ -1,5 +1,11 @@
-~~Title: Letter to: Kirtika — February 16, 1972~~
-~~bc: Kirtika — February 16, 1972~~
+---json
+{
+    "name":"Letter to: Kirtika — February 16, 1972",
+    "h1":"Kirtika — February 16, 1972",
+    "title":"Letter to: Kirtika — February 16, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Kirtika ======
 

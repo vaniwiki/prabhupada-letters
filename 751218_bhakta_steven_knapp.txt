@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhakta Steven Knapp — December 18, 1975~~
-~~bc: Bhakta Steven Knapp — December 18, 1975~~
+---json
+{
+    "name":"Letter to: Bhakta Steven Knapp — December 18, 1975",
+    "h1":"Bhakta Steven Knapp — December 18, 1975",
+    "title":"Letter to: Bhakta Steven Knapp — December 18, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Bhakta Steven Knapp ======
 

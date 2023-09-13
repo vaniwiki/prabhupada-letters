@@ -1,5 +1,11 @@
-~~Title: Letter to: Temple President and GBC for Hawaii — May 9, 1976~~
-~~bc: Temple President and GBC for Hawaii — May 9, 1976~~
+---json
+{
+    "name":"Letter to: Temple President and GBC for Hawaii — May 9, 1976",
+    "h1":"Temple President and GBC for Hawaii — May 9, 1976",
+    "title":"Letter to: Temple President and GBC for Hawaii — May 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Temple President and GBC for Hawaii ======
 

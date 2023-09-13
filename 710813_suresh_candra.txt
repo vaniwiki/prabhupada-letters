@@ -1,5 +1,11 @@
-~~Title: Letter to: Suresh Candra — August 13, 1971~~
-~~bc: Suresh Candra — August 13, 1971~~
+---json
+{
+    "name":"Letter to: Suresh Candra — August 13, 1971",
+    "h1":"Suresh Candra — August 13, 1971",
+    "title":"Letter to: Suresh Candra — August 13, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Suresh Candra ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhagavan, Krsna Bhamini — August 9, 1969~~
-~~bc: Bhagavan, Krsna Bhamini — August 9, 1969~~
+---json
+{
+    "name":"Letter to: Bhagavan, Krsna Bhamini — August 9, 1969",
+    "h1":"Bhagavan, Krsna Bhamini — August 9, 1969",
+    "title":"Letter to: Bhagavan, Krsna Bhamini — August 9, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Bhagavan, Krsna Bhamini ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Scindia Steam Navigation Company Ltd — March 31, 1961~~
-~~bc: Scindia Steam Navigation Company Ltd — March 31, 1961~~
+---json
+{
+    "name":"Letter to: Scindia Steam Navigation Company Ltd — March 31, 1961",
+    "h1":"Scindia Steam Navigation Company Ltd — March 31, 1961",
+    "title":"Letter to: Scindia Steam Navigation Company Ltd — March 31, 1961",
+    "description":""
+}
+---
 
 ====== Letter to: Scindia Steam Navigation Company Ltd ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Larry Snyder, Mark Perlman, John Curran — February 1, 1969~~
-~~bc: Larry Snyder, Mark Perlman, John Curran — February 1, 1969~~
+---json
+{
+    "name":"Letter to: Larry Snyder, Mark Perlman, John Curran — February 1, 1969",
+    "h1":"Larry Snyder, Mark Perlman, John Curran — February 1, 1969",
+    "title":"Letter to: Larry Snyder, Mark Perlman, John Curran — February 1, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Larry Snyder, Mark Perlman, John Curran ======
 

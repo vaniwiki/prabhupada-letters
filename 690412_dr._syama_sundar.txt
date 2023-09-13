@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Syama Sundar — April 12, 1969~~
-~~bc: Dr. Syama Sundar — April 12, 1969~~
+---json
+{
+    "name":"Letter to: Dr. Syama Sundar — April 12, 1969",
+    "h1":"Dr. Syama Sundar — April 12, 1969",
+    "title":"Letter to: Dr. Syama Sundar — April 12, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Syama Sundar ======
 

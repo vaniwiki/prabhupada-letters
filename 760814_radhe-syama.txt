@@ -1,5 +1,11 @@
-~~Title: Letter to: Radhe-Syama — August 14, 1976~~
-~~bc: Radhe-Syama — August 14, 1976~~
+---json
+{
+    "name":"Letter to: Radhe-Syama — August 14, 1976",
+    "h1":"Radhe-Syama — August 14, 1976",
+    "title":"Letter to: Radhe-Syama — August 14, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Radhe-Syama ======
 

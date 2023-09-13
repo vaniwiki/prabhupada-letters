@@ -1,5 +1,11 @@
-~~Title: Letter to: Gaura Gopala — November 15, 1974~~
-~~bc: Gaura Gopala — November 15, 1974~~
+---json
+{
+    "name":"Letter to: Gaura Gopala — November 15, 1974",
+    "h1":"Gaura Gopala — November 15, 1974",
+    "title":"Letter to: Gaura Gopala — November 15, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Gaura Gopala ======
 

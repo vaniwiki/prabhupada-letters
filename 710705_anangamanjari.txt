@@ -1,5 +1,11 @@
-~~Title: Letter to: Anangamanjari (Elaine) — July 5, 1971~~
-~~bc: Anangamanjari (Elaine) — July 5, 1971~~
+---json
+{
+    "name":"Letter to: Anangamanjari (Elaine) — July 5, 1971",
+    "h1":"Anangamanjari (Elaine) — July 5, 1971",
+    "title":"Letter to: Anangamanjari (Elaine) — July 5, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Anangamanjari (Elaine) ======
 

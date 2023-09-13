@@ -1,5 +1,11 @@
-~~Title: Letter to: Vamanadeva — May 4, 1970~~
-~~bc: Vamanadeva — May 4, 1970~~
+---json
+{
+    "name":"Letter to: Vamanadeva — May 4, 1970",
+    "h1":"Vamanadeva — May 4, 1970",
+    "title":"Letter to: Vamanadeva — May 4, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Vamanadeva ======
 

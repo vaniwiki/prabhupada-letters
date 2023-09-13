@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager, State Bank of India — September 10, 1975~~
-~~bc: Manager, State Bank of India — September 10, 1975~~
+---json
+{
+    "name":"Letter to: Manager, State Bank of India — September 10, 1975",
+    "h1":"Manager, State Bank of India — September 10, 1975",
+    "title":"Letter to: Manager, State Bank of India — September 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Manager, State Bank of India ======
 

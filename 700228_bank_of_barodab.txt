@@ -1,5 +1,11 @@
-~~Title: Letter to: Bank of Baroda — February 28, 1970~~
-~~bc: Bank of Baroda — February 28, 1970~~
+---json
+{
+    "name":"Letter to: Bank of Baroda — February 28, 1970",
+    "h1":"Bank of Baroda — February 28, 1970",
+    "title":"Letter to: Bank of Baroda — February 28, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Bank of Baroda ======
 

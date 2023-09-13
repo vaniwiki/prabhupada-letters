@@ -1,5 +1,11 @@
-~~Title: Letter to: Vicitravirya — September 30, 1976~~
-~~bc: Vicitravirya — September 30, 1976~~
+---json
+{
+    "name":"Letter to: Vicitravirya — September 30, 1976",
+    "h1":"Vicitravirya — September 30, 1976",
+    "title":"Letter to: Vicitravirya — September 30, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Vicitravirya ======
 

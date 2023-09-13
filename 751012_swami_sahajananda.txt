@@ -1,5 +1,11 @@
-~~Title: Letter to: Swami Sahajananda — October 12, 1975~~
-~~bc: Swami Sahajananda — October 12, 1975~~
+---json
+{
+    "name":"Letter to: Swami Sahajananda — October 12, 1975",
+    "h1":"Swami Sahajananda — October 12, 1975",
+    "title":"Letter to: Swami Sahajananda — October 12, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Swami Sahajananda ======
 

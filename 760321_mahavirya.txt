@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahavirya — March 21, 1976~~
-~~bc: Mahavirya — March 21, 1976~~
+---json
+{
+    "name":"Letter to: Mahavirya — March 21, 1976",
+    "h1":"Mahavirya — March 21, 1976",
+    "title":"Letter to: Mahavirya — March 21, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mahavirya ======
 

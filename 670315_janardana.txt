@@ -1,5 +1,11 @@
-~~Title: Letter to: Janardana — March 15, 1967~~
-~~bc: Janardana — March 15, 1967~~
+---json
+{
+    "name":"Letter to: Janardana — March 15, 1967",
+    "h1":"Janardana — March 15, 1967",
+    "title":"Letter to: Janardana — March 15, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Janardana ======
 

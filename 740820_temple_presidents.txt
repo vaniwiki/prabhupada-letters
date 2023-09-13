@@ -1,5 +1,11 @@
-~~Title: Letter to: Temple Presidents — August 20, 1974~~
-~~bc: Temple Presidents — August 20, 1974~~
+---json
+{
+    "name":"Letter to: Temple Presidents — August 20, 1974",
+    "h1":"Temple Presidents — August 20, 1974",
+    "title":"Letter to: Temple Presidents — August 20, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Temple Presidents ======
 

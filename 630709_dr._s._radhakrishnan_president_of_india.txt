@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. S. Radhakrishnan, President of India — July 9, 1963~~
-~~bc: Dr. S. Radhakrishnan, President of India — July 9, 1963~~
+---json
+{
+    "name":"Letter to: Dr. S. Radhakrishnan, President of India — July 9, 1963",
+    "h1":"Dr. S. Radhakrishnan, President of India — July 9, 1963",
+    "title":"Letter to: Dr. S. Radhakrishnan, President of India — July 9, 1963",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. S. Radhakrishnan, President of India ======
 

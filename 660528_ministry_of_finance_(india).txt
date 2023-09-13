@@ -1,5 +1,11 @@
-~~Title: Letter to: Ministry of Finance (India) — May 28, 1966~~
-~~bc: Ministry of Finance (India) — May 28, 1966~~
+---json
+{
+    "name":"Letter to: Ministry of Finance (India) — May 28, 1966",
+    "h1":"Ministry of Finance (India) — May 28, 1966",
+    "title":"Letter to: Ministry of Finance (India) — May 28, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Ministry of Finance (India) ======
 

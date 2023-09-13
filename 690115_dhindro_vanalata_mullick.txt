@@ -1,5 +1,11 @@
-~~Title: Letter to: Dhindro, Vanalata Mullick — January 15, 1969~~
-~~bc: Dhindro, Vanalata Mullick — January 15, 1969~~
+---json
+{
+    "name":"Letter to: Dhindro, Vanalata Mullick — January 15, 1969",
+    "h1":"Dhindro, Vanalata Mullick — January 15, 1969",
+    "title":"Letter to: Dhindro, Vanalata Mullick — January 15, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Dhindro, Vanalata Mullick ======
 

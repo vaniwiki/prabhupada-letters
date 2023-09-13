@@ -1,5 +1,11 @@
-~~Title: Letter to: Kuladri — October 22, 1976~~
-~~bc: Kuladri — October 22, 1976~~
+---json
+{
+    "name":"Letter to: Kuladri — October 22, 1976",
+    "h1":"Kuladri — October 22, 1976",
+    "title":"Letter to: Kuladri — October 22, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Kuladri ======
 

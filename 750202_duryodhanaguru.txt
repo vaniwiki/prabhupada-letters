@@ -1,5 +1,11 @@
-~~Title: Letter to: Duryodhanaguru — February 2, 1975~~
-~~bc: Duryodhanaguru — February 2, 1975~~
+---json
+{
+    "name":"Letter to: Duryodhanaguru — February 2, 1975",
+    "h1":"Duryodhanaguru — February 2, 1975",
+    "title":"Letter to: Duryodhanaguru — February 2, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Duryodhanaguru ======
 

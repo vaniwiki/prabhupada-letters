@@ -1,5 +1,11 @@
-~~Title: Letter to: Frederico Lourenco — October 14, 1974~~
-~~bc: Frederico Lourenco — October 14, 1974~~
+---json
+{
+    "name":"Letter to: Frederico Lourenco — October 14, 1974",
+    "h1":"Frederico Lourenco — October 14, 1974",
+    "title":"Letter to: Frederico Lourenco — October 14, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Frederico Lourenco ======
 

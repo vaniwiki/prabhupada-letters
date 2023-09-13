@@ -1,5 +1,11 @@
-~~Title: Letter to: Yogamaya — March 14, 1975~~
-~~bc: Yogamaya — March 14, 1975~~
+---json
+{
+    "name":"Letter to: Yogamaya — March 14, 1975",
+    "h1":"Yogamaya — March 14, 1975",
+    "title":"Letter to: Yogamaya — March 14, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Yogamaya ======
 

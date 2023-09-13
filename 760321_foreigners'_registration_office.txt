@@ -1,5 +1,11 @@
-~~Title: Letter to: Foreigners’ Registration Office — March 21, 1976~~
-~~bc: Foreigners' Registration Office — March 21, 1976~~
+---json
+{
+    "name":"Letter to: Foreigners’ Registration Office — March 21, 1976",
+    "h1":"Foreigners' Registration Office — March 21, 1976",
+    "title":"Letter to: Foreigners’ Registration Office — March 21, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Foreigners’ Registration Office ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Dixit — September 8, 1974~~
-~~bc: Dixit — September 8, 1974~~
+---json
+{
+    "name":"Letter to: Dixit — September 8, 1974",
+    "h1":"Dixit — September 8, 1974",
+    "title":"Letter to: Dixit — September 8, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Dixit ======
 

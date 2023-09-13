@@ -1,5 +1,11 @@
-~~Title: Letter to: Muralidhara — October 21, 1968~~
-~~bc: Muralidhara — October 21, 1968~~
+---json
+{
+    "name":"Letter to: Muralidhara — October 21, 1968",
+    "h1":"Muralidhara — October 21, 1968",
+    "title":"Letter to: Muralidhara — October 21, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Muralidhara ======
 

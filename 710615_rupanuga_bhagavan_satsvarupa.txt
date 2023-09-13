@@ -1,5 +1,11 @@
-~~Title: Letter to: Rupanuga, Bhagavan, Satsvarupa — June 15, 1971~~
-~~bc: Rupanuga, Bhagavan, Satsvarupa — June 15, 1971~~
+---json
+{
+    "name":"Letter to: Rupanuga, Bhagavan, Satsvarupa — June 15, 1971",
+    "h1":"Rupanuga, Bhagavan, Satsvarupa — June 15, 1971",
+    "title":"Letter to: Rupanuga, Bhagavan, Satsvarupa — June 15, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Rupanuga, Bhagavan, Satsvarupa ======
 

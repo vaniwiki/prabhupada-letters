@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Ram S. Verma, Mrs. Ram S. Verma — July 4, 1975~~
-~~bc: Dr. Ram S. Verma, Mrs. Ram S. Verma — July 4, 1975~~
+---json
+{
+    "name":"Letter to: Dr. Ram S. Verma, Mrs. Ram S. Verma — July 4, 1975",
+    "h1":"Dr. Ram S. Verma, Mrs. Ram S. Verma — July 4, 1975",
+    "title":"Letter to: Dr. Ram S. Verma, Mrs. Ram S. Verma — July 4, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Ram S. Verma, Mrs. Ram S. Verma ======
 

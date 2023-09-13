@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhagavata Maharaja — January 5, 1973~~
-~~bc: Bhagavata Maharaja — January 5, 1973~~
+---json
+{
+    "name":"Letter to: Bhagavata Maharaja — January 5, 1973",
+    "h1":"Bhagavata Maharaja — January 5, 1973",
+    "title":"Letter to: Bhagavata Maharaja — January 5, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Bhagavata Maharaja ======
 

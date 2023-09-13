@@ -1,5 +1,11 @@
-~~Title: Letter to: Guru Datta Sharma — November 7, 1975~~
-~~bc: Guru Datta Sharma — November 7, 1975~~
+---json
+{
+    "name":"Letter to: Guru Datta Sharma — November 7, 1975",
+    "h1":"Guru Datta Sharma — November 7, 1975",
+    "title":"Letter to: Guru Datta Sharma — November 7, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Guru Datta Sharma ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. B. D. Joshi — May 23, 1972~~
-~~bc: Mr. B. D. Joshi — May 23, 1972~~
+---json
+{
+    "name":"Letter to: Mr. B. D. Joshi — May 23, 1972",
+    "h1":"Mr. B. D. Joshi — May 23, 1972",
+    "title":"Letter to: Mr. B. D. Joshi — May 23, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. B. D. Joshi ======
 

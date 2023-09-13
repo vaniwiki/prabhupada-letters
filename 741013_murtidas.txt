@@ -1,5 +1,11 @@
-~~Title: Letter to: Murtidas — October 13, 1974~~
-~~bc: Murtidas — October 13, 1974~~
+---json
+{
+    "name":"Letter to: Murtidas — October 13, 1974",
+    "h1":"Murtidas — October 13, 1974",
+    "title":"Letter to: Murtidas — October 13, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Murtidas ======
 

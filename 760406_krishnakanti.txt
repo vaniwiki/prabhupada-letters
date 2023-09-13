@@ -1,5 +1,11 @@
-~~Title: Letter to: Krishnakanti — April 6, 1976~~
-~~bc: Krishnakanti — April 6, 1976~~
+---json
+{
+    "name":"Letter to: Krishnakanti — April 6, 1976",
+    "h1":"Krishnakanti — April 6, 1976",
+    "title":"Letter to: Krishnakanti — April 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Krishnakanti ======
 

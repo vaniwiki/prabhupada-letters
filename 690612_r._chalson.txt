@@ -1,5 +1,11 @@
-~~Title: Letter to: R. Chalson — June 12, 1969~~
-~~bc: R. Chalson — June 12, 1969~~
+---json
+{
+    "name":"Letter to: R. Chalson — June 12, 1969",
+    "h1":"R. Chalson — June 12, 1969",
+    "title":"Letter to: R. Chalson — June 12, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: R. Chalson ======
 

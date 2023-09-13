@@ -1,5 +1,11 @@
-~~Title: Letter to: Kirtanananda — February 18, 1970~~
-~~bc: Kirtanananda — February 18, 1970~~
+---json
+{
+    "name":"Letter to: Kirtanananda — February 18, 1970",
+    "h1":"Kirtanananda — February 18, 1970",
+    "title":"Letter to: Kirtanananda — February 18, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Kirtanananda ======
 

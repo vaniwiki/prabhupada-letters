@@ -1,5 +1,11 @@
-~~Title: Letter to: Kanu Gandhi — March 26, 1974~~
-~~bc: Kanu Gandhi — March 26, 1974~~
+---json
+{
+    "name":"Letter to: Kanu Gandhi — March 26, 1974",
+    "h1":"Kanu Gandhi — March 26, 1974",
+    "title":"Letter to: Kanu Gandhi — March 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Kanu Gandhi ======
 

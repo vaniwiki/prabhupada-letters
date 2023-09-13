@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahavisnu — December 31, 1975~~
-~~bc: Mahavisnu — December 31, 1975~~
+---json
+{
+    "name":"Letter to: Mahavisnu — December 31, 1975",
+    "h1":"Mahavisnu — December 31, 1975",
+    "title":"Letter to: Mahavisnu — December 31, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mahavisnu ======
 

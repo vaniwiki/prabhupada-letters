@@ -1,5 +1,11 @@
-~~Title: Letter to: Von Paul Reed — January 2, 1972~~
-~~bc: Von Paul Reed — January 2, 1972~~
+---json
+{
+    "name":"Letter to: Von Paul Reed — January 2, 1972",
+    "h1":"Von Paul Reed — January 2, 1972",
+    "title":"Letter to: Von Paul Reed — January 2, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Von Paul Reed ======
 

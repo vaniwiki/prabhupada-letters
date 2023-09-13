@@ -1,5 +1,11 @@
-~~Title: Letter to: Raj Dewan — March 8, 1969~~
-~~bc: Raj Dewan — March 8, 1969~~
+---json
+{
+    "name":"Letter to: Raj Dewan — March 8, 1969",
+    "h1":"Raj Dewan — March 8, 1969",
+    "title":"Letter to: Raj Dewan — March 8, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Raj Dewan ======
 

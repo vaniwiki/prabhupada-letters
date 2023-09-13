@@ -1,5 +1,11 @@
-~~Title: Letter to: P. R. Mohapatra — March 4, 1976~~
-~~bc: P. R. Mohapatra — March 4, 1976~~
+---json
+{
+    "name":"Letter to: P. R. Mohapatra — March 4, 1976",
+    "h1":"P. R. Mohapatra — March 4, 1976",
+    "title":"Letter to: P. R. Mohapatra — March 4, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: P. R. Mohapatra ======
 

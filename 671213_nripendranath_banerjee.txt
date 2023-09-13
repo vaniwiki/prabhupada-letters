@@ -1,5 +1,11 @@
-~~Title: Letter to: Nripendranath Banerjee — December 13, 1967~~
-~~bc: Nripendranath Banerjee — December 13, 1967~~
+---json
+{
+    "name":"Letter to: Nripendranath Banerjee — December 13, 1967",
+    "h1":"Nripendranath Banerjee — December 13, 1967",
+    "title":"Letter to: Nripendranath Banerjee — December 13, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Nripendranath Banerjee ======
 

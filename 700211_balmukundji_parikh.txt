@@ -1,5 +1,11 @@
-~~Title: Letter to: Balmukundji Parikh — February 11, 1970~~
-~~bc: Balmukundji Parikh — February 11, 1970~~
+---json
+{
+    "name":"Letter to: Balmukundji Parikh — February 11, 1970",
+    "h1":"Balmukundji Parikh — February 11, 1970",
+    "title":"Letter to: Balmukundji Parikh — February 11, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Balmukundji Parikh ======
 

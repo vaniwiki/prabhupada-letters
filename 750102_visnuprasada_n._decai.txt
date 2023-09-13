@@ -1,5 +1,11 @@
-~~Title: Letter to: Visnuprasada N. Decai — January 2, 1975~~
-~~bc: Visnuprasada N. Decai — January 2, 1975~~
+---json
+{
+    "name":"Letter to: Visnuprasada N. Decai — January 2, 1975",
+    "h1":"Visnuprasada N. Decai — January 2, 1975",
+    "title":"Letter to: Visnuprasada N. Decai — January 2, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Visnuprasada N. Decai ======
 

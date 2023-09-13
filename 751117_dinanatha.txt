@@ -1,5 +1,11 @@
-~~Title: Letter to: Dinanatha — November 17, 1975~~
-~~bc: Dinanatha — November 17, 1975~~
+---json
+{
+    "name":"Letter to: Dinanatha — November 17, 1975",
+    "h1":"Dinanatha — November 17, 1975",
+    "title":"Letter to: Dinanatha — November 17, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dinanatha ======
 

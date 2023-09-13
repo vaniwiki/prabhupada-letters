@@ -1,5 +1,11 @@
-~~Title: Letter to: B. N. Jariwala — October 16, 1968~~
-~~bc: B. N. Jariwala — October 16, 1968~~
+---json
+{
+    "name":"Letter to: B. N. Jariwala — October 16, 1968",
+    "h1":"B. N. Jariwala — October 16, 1968",
+    "title":"Letter to: B. N. Jariwala — October 16, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: B. N. Jariwala ======
 

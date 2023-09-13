@@ -1,5 +1,11 @@
-~~Title: Letter to: Premyogi — April 6, 1976~~
-~~bc: Premyogi — April 6, 1976~~
+---json
+{
+    "name":"Letter to: Premyogi — April 6, 1976",
+    "h1":"Premyogi — April 6, 1976",
+    "title":"Letter to: Premyogi — April 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Premyogi ======
 

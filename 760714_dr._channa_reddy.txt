@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Channa Reddy — July 14, 1976~~
-~~bc: Dr. Channa Reddy — July 14, 1976~~
+---json
+{
+    "name":"Letter to: Dr. Channa Reddy — July 14, 1976",
+    "h1":"Dr. Channa Reddy — July 14, 1976",
+    "title":"Letter to: Dr. Channa Reddy — July 14, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Channa Reddy ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Yadubara — December 25, 1974~~
-~~bc: Yadubara — December 25, 1974~~
+---json
+{
+    "name":"Letter to: Yadubara — December 25, 1974",
+    "h1":"Yadubara — December 25, 1974",
+    "title":"Letter to: Yadubara — December 25, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Yadubara ======
 

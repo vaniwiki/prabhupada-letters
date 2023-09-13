@@ -1,5 +1,11 @@
-~~Title: Letter to: ALL GBC MEMBERS — September 15, 1976~~
-~~bc: ALL GBC MEMBERS — September 15, 1976~~
+---json
+{
+    "name":"Letter to: ALL GBC MEMBERS — September 15, 1976",
+    "h1":"ALL GBC MEMBERS — September 15, 1976",
+    "title":"Letter to: ALL GBC MEMBERS — September 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: ALL GBC MEMBERS ======
 

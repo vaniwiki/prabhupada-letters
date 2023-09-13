@@ -1,5 +1,11 @@
-~~Title: Letter to: M. Chatherjee — March 28, 1971~~
-~~bc: M. Chatherjee — March 28, 1971~~
+---json
+{
+    "name":"Letter to: M. Chatherjee — March 28, 1971",
+    "h1":"M. Chatherjee — March 28, 1971",
+    "title":"Letter to: M. Chatherjee — March 28, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: M. Chatherjee ======
 

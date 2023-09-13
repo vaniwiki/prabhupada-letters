@@ -1,5 +1,11 @@
-~~Title: Letter to: First National City Bank — April 29, 1969~~
-~~bc: First National City Bank — April 29, 1969~~
+---json
+{
+    "name":"Letter to: First National City Bank — April 29, 1969",
+    "h1":"First National City Bank — April 29, 1969",
+    "title":"Letter to: First National City Bank — April 29, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: First National City Bank ======
 

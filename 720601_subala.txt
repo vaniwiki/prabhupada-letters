@@ -1,5 +1,11 @@
-~~Title: Letter to: Subala — June 1, 1972~~
-~~bc: Subala — June 1, 1972~~
+---json
+{
+    "name":"Letter to: Subala — June 1, 1972",
+    "h1":"Subala — June 1, 1972",
+    "title":"Letter to: Subala — June 1, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Subala ======
 

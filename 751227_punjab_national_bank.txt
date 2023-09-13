@@ -1,5 +1,11 @@
-~~Title: Letter to: Punjab National Bank — December 27, 1975~~
-~~bc: Punjab National Bank — December 27, 1975~~
+---json
+{
+    "name":"Letter to: Punjab National Bank — December 27, 1975",
+    "h1":"Punjab National Bank — December 27, 1975",
+    "title":"Letter to: Punjab National Bank — December 27, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Punjab National Bank ======
 

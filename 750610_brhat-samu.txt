@@ -1,5 +1,11 @@
-~~Title: Letter to: Brhat-samu — June 10, 1975~~
-~~bc: Brhat-samu — June 10, 1975~~
+---json
+{
+    "name":"Letter to: Brhat-samu — June 10, 1975",
+    "h1":"Brhat-samu — June 10, 1975",
+    "title":"Letter to: Brhat-samu — June 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Brhat-samu ======
 

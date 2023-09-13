@@ -1,5 +1,11 @@
-~~Title: Letter to: Prem J. Batra — September 28, 1975~~
-~~bc: Prem J. Batra — September 28, 1975~~
+---json
+{
+    "name":"Letter to: Prem J. Batra — September 28, 1975",
+    "h1":"Prem J. Batra — September 28, 1975",
+    "title":"Letter to: Prem J. Batra — September 28, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Prem J. Batra ======
 

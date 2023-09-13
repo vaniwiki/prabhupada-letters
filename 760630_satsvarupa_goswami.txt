@@ -1,5 +1,11 @@
-~~Title: Letter to: Satsvarupa Goswami — June 30, 1976~~
-~~bc: Satsvarupa Goswami — June 30, 1976~~
+---json
+{
+    "name":"Letter to: Satsvarupa Goswami — June 30, 1976",
+    "h1":"Satsvarupa Goswami — June 30, 1976",
+    "title":"Letter to: Satsvarupa Goswami — June 30, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Satsvarupa Goswami ======
 

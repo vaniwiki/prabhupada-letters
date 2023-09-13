@@ -1,5 +1,11 @@
-~~Title: Letter to: Visvanatha Babu — January 3, 1972~~
-~~bc: Visvanatha Babu — January 3, 1972~~
+---json
+{
+    "name":"Letter to: Visvanatha Babu — January 3, 1972",
+    "h1":"Visvanatha Babu — January 3, 1972",
+    "title":"Letter to: Visvanatha Babu — January 3, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Visvanatha Babu ======
 

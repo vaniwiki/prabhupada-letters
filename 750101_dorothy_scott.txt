@@ -1,5 +1,11 @@
-~~Title: Letter to: Dorothy Scott — January 1, 1975~~
-~~bc: Dorothy Scott — January 1, 1975~~
+---json
+{
+    "name":"Letter to: Dorothy Scott — January 1, 1975",
+    "h1":"Dorothy Scott — January 1, 1975",
+    "title":"Letter to: Dorothy Scott — January 1, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dorothy Scott ======
 

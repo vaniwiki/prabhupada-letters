@@ -1,5 +1,11 @@
-~~Title: Letter to: Bapi — April 27, 1973~~
-~~bc: Bapi — April 27, 1973~~
+---json
+{
+    "name":"Letter to: Bapi — April 27, 1973",
+    "h1":"Bapi — April 27, 1973",
+    "title":"Letter to: Bapi — April 27, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Bapi ======
 

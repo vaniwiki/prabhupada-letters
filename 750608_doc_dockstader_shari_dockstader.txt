@@ -1,5 +1,11 @@
-~~Title: Letter to: Doc Dockstader, Shari Dockstader — June 8, 1975~~
-~~bc: Doc Dockstader, Shari Dockstader — June 8, 1975~~
+---json
+{
+    "name":"Letter to: Doc Dockstader, Shari Dockstader — June 8, 1975",
+    "h1":"Doc Dockstader, Shari Dockstader — June 8, 1975",
+    "title":"Letter to: Doc Dockstader, Shari Dockstader — June 8, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Doc Dockstader, Shari Dockstader ======
 

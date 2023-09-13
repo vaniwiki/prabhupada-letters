@@ -1,5 +1,11 @@
-~~Title: Letter to: Jagannatham Prabhu — February 8, 1969~~
-~~bc: Jagannatham Prabhu — February 8, 1969~~
+---json
+{
+    "name":"Letter to: Jagannatham Prabhu — February 8, 1969",
+    "h1":"Jagannatham Prabhu — February 8, 1969",
+    "title":"Letter to: Jagannatham Prabhu — February 8, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Jagannatham Prabhu ======
 

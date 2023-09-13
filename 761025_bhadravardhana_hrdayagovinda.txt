@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhadravardhana, Hrdayagovinda — October 25, 1976~~
-~~bc: Bhadravardhana, Hrdayagovinda — October 25, 1976~~
+---json
+{
+    "name":"Letter to: Bhadravardhana, Hrdayagovinda — October 25, 1976",
+    "h1":"Bhadravardhana, Hrdayagovinda — October 25, 1976",
+    "title":"Letter to: Bhadravardhana, Hrdayagovinda — October 25, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Bhadravardhana, Hrdayagovinda ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Urvasi — July 25, 1975~~
-~~bc: Urvasi — July 25, 1975~~
+---json
+{
+    "name":"Letter to: Urvasi — July 25, 1975",
+    "h1":"Urvasi — July 25, 1975",
+    "title":"Letter to: Urvasi — July 25, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Urvasi ======
 

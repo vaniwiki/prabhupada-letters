@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhurijana — April 3, 1969~~
-~~bc: Bhurijana — April 3, 1969~~
+---json
+{
+    "name":"Letter to: Bhurijana — April 3, 1969",
+    "h1":"Bhurijana — April 3, 1969",
+    "title":"Letter to: Bhurijana — April 3, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Bhurijana ======
 

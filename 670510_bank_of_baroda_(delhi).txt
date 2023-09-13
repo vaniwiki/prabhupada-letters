@@ -1,5 +1,11 @@
-~~Title: Letter to: Bank of Baroda (Delhi) — May 10, 1967~~
-~~bc: Bank of Baroda (Delhi) — May 10, 1967~~
+---json
+{
+    "name":"Letter to: Bank of Baroda (Delhi) — May 10, 1967",
+    "h1":"Bank of Baroda (Delhi) — May 10, 1967",
+    "title":"Letter to: Bank of Baroda (Delhi) — May 10, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Bank of Baroda (Delhi) ======
 

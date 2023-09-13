@@ -1,5 +1,11 @@
-~~Title: Letter to: Ministry for Scientific Research and Cultural Affairs — March 20, 1961~~
-~~bc: Ministry for Scientific Research and Cultural Affairs — March 20, 1961~~
+---json
+{
+    "name":"Letter to: Ministry for Scientific Research and Cultural Affairs — March 20, 1961",
+    "h1":"Ministry for Scientific Research and Cultural Affairs — March 20, 1961",
+    "title":"Letter to: Ministry for Scientific Research and Cultural Affairs — March 20, 1961",
+    "description":""
+}
+---
 
 ====== Letter to: Ministry for Scientific Research and Cultural Affairs ======
 

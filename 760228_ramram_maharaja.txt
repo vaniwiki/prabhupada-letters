@@ -1,5 +1,11 @@
-~~Title: Letter to: RamRam Maharaja — February 28, 1976~~
-~~bc: RamRam Maharaja — February 28, 1976~~
+---json
+{
+    "name":"Letter to: RamRam Maharaja — February 28, 1976",
+    "h1":"RamRam Maharaja — February 28, 1976",
+    "title":"Letter to: RamRam Maharaja — February 28, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: RamRam Maharaja ======
 

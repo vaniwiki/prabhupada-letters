@@ -1,5 +1,11 @@
-~~Title: Letter to: Phyllis Zakheim — July 3, 1971~~
-~~bc: Phyllis Zakheim — July 3, 1971~~
+---json
+{
+    "name":"Letter to: Phyllis Zakheim — July 3, 1971",
+    "h1":"Phyllis Zakheim — July 3, 1971",
+    "title":"Letter to: Phyllis Zakheim — July 3, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Phyllis Zakheim ======
 

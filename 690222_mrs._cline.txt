@@ -1,5 +1,11 @@
-~~Title: Letter to: Mrs. Cline — February 22, 1969~~
-~~bc: Mrs. Cline — February 22, 1969~~
+---json
+{
+    "name":"Letter to: Mrs. Cline — February 22, 1969",
+    "h1":"Mrs. Cline — February 22, 1969",
+    "title":"Letter to: Mrs. Cline — February 22, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Mrs. Cline ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Chaturbhuj — January 21, 1972~~
-~~bc: Chaturbhuj — January 21, 1972~~
+---json
+{
+    "name":"Letter to: Chaturbhuj — January 21, 1972",
+    "h1":"Chaturbhuj — January 21, 1972",
+    "title":"Letter to: Chaturbhuj — January 21, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Chaturbhuj ======
 

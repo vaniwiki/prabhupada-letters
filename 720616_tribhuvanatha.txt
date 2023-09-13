@@ -1,5 +1,11 @@
-~~Title: Letter to: Tribhuvanatha — June 16, 1972~~
-~~bc: Tribhuvanatha — June 16, 1972~~
+---json
+{
+    "name":"Letter to: Tribhuvanatha — June 16, 1972",
+    "h1":"Tribhuvanatha — June 16, 1972",
+    "title":"Letter to: Tribhuvanatha — June 16, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Tribhuvanatha ======
 

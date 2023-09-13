@@ -1,5 +1,11 @@
-~~Title: Letter to: Babhru, Satyaki — September 18, 1975~~
-~~bc: Babhru, Satyaki — September 18, 1975~~
+---json
+{
+    "name":"Letter to: Babhru, Satyaki — September 18, 1975",
+    "h1":"Babhru, Satyaki — September 18, 1975",
+    "title":"Letter to: Babhru, Satyaki — September 18, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Babhru, Satyaki ======
 

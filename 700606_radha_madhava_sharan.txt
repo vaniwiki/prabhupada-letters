@@ -1,5 +1,11 @@
-~~Title: Letter to: Radha Madhava Sharan — June 6, 1970~~
-~~bc: Radha Madhava Sharan — June 6, 1970~~
+---json
+{
+    "name":"Letter to: Radha Madhava Sharan — June 6, 1970",
+    "h1":"Radha Madhava Sharan — June 6, 1970",
+    "title":"Letter to: Radha Madhava Sharan — June 6, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Radha Madhava Sharan ======
 

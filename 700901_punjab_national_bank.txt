@@ -1,5 +1,11 @@
-~~Title: Letter to: Punjab National Bank — September 1, 1970~~
-~~bc: Punjab National Bank — September 1, 1970~~
+---json
+{
+    "name":"Letter to: Punjab National Bank — September 1, 1970",
+    "h1":"Punjab National Bank — September 1, 1970",
+    "title":"Letter to: Punjab National Bank — September 1, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Punjab National Bank ======
 

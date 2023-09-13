@@ -1,5 +1,11 @@
-~~Title: Letter to: Prthu Putra — February 13, 1976~~
-~~bc: Prthu Putra — February 13, 1976~~
+---json
+{
+    "name":"Letter to: Prthu Putra — February 13, 1976",
+    "h1":"Prthu Putra — February 13, 1976",
+    "title":"Letter to: Prthu Putra — February 13, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Prthu Putra ======
 

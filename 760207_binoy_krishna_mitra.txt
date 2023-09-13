@@ -1,5 +1,11 @@
-~~Title: Letter to: Binoy Krishna Mitra — February 7, 1976~~
-~~bc: Binoy Krishna Mitra — February 7, 1976~~
+---json
+{
+    "name":"Letter to: Binoy Krishna Mitra — February 7, 1976",
+    "h1":"Binoy Krishna Mitra — February 7, 1976",
+    "title":"Letter to: Binoy Krishna Mitra — February 7, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Binoy Krishna Mitra ======
 

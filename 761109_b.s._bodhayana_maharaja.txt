@@ -1,5 +1,11 @@
-~~Title: Letter to: B.S. Bodhayana Maharaja — November 9, 1976~~
-~~bc: B.S. Bodhayana Maharaja — November 9, 1976~~
+---json
+{
+    "name":"Letter to: B.S. Bodhayana Maharaja — November 9, 1976",
+    "h1":"B.S. Bodhayana Maharaja — November 9, 1976",
+    "title":"Letter to: B.S. Bodhayana Maharaja — November 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: B.S. Bodhayana Maharaja ======
 

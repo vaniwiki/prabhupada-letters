@@ -1,5 +1,11 @@
-~~Title: Letter to: Pancaratna — December 7, 1976~~
-~~bc: Pancaratna — December 7, 1976~~
+---json
+{
+    "name":"Letter to: Pancaratna — December 7, 1976",
+    "h1":"Pancaratna — December 7, 1976",
+    "title":"Letter to: Pancaratna — December 7, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Pancaratna ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Yogesvara, Gurudasa, Digvijaya, Lesley, Yvonne, Jyotirmayi, Paul, Prithadevi, Purnananda, Tom, Lena, Dhananjaya, Inga, Mandakini, Tirthapada, Trivikrama, Yamuna, Jaya Hari — May 21, 1970~~
-~~bc: Yogesvara, Gurudasa, Digvijaya, Lesley, Yvonne, Jyotirmayi, Paul, Prithadevi, Purnananda, Tom, Lena, Dhananjaya, Inga, Mandakini, Tirthapada, Trivikrama, Yamuna, Jaya Hari — May 21, 1970~~
+---json
+{
+    "name":"Letter to: Yogesvara, Gurudasa, Digvijaya, Lesley, Yvonne, Jyotirmayi, Paul, Prithadevi, Purnananda, Tom, Lena, Dhananjaya, Inga, Mandakini, Tirthapada, Trivikrama, Yamuna, Jaya Hari — May 21, 1970",
+    "h1":"Yogesvara, Gurudasa, Digvijaya, Lesley, Yvonne, Jyotirmayi, Paul, Prithadevi, Purnananda, Tom, Lena, Dhananjaya, Inga, Mandakini, Tirthapada, Trivikrama, Yamuna, Jaya Hari — May 21, 1970",
+    "title":"Letter to: Yogesvara, Gurudasa, Digvijaya, Lesley, Yvonne, Jyotirmayi, Paul, Prithadevi, Purnananda, Tom, Lena, Dhananjaya, Inga, Mandakini, Tirthapada, Trivikrama, Yamuna, Jaya Hari — May 21, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Yogesvara, Gurudasa, Digvijaya, Lesley, Yvonne, Jyotirmayi, Paul, Prithadevi, Purnananda, Tom, Lena, Dhananjaya, Inga, Mandakini, Tirthapada, Trivikrama, Yamuna, Jaya Hari ======
 

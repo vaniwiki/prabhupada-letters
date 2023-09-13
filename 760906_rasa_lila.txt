@@ -1,5 +1,11 @@
-~~Title: Letter to: Rasa lila — September 6, 1976~~
-~~bc: Rasa lila — September 6, 1976~~
+---json
+{
+    "name":"Letter to: Rasa lila — September 6, 1976",
+    "h1":"Rasa lila — September 6, 1976",
+    "title":"Letter to: Rasa lila — September 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Rasa lila ======
 

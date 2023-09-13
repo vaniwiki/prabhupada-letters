@@ -1,5 +1,11 @@
-~~Title: Letter to: HareKrishna Aggarwal — February 1, 1968~~
-~~bc: HareKrishna Aggarwal — February 1, 1968~~
+---json
+{
+    "name":"Letter to: HareKrishna Aggarwal — February 1, 1968",
+    "h1":"HareKrishna Aggarwal — February 1, 1968",
+    "title":"Letter to: HareKrishna Aggarwal — February 1, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: HareKrishna Aggarwal ======
 

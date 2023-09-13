@@ -1,5 +1,11 @@
-~~Title: Letter to: Central Bank of India — April 6, 1971~~
-~~bc: Central Bank of India — April 6, 1971~~
+---json
+{
+    "name":"Letter to: Central Bank of India — April 6, 1971",
+    "h1":"Central Bank of India — April 6, 1971",
+    "title":"Letter to: Central Bank of India — April 6, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Central Bank of India ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Pancananda — February 15, 1975~~
-~~bc: Pancananda — February 15, 1975~~
+---json
+{
+    "name":"Letter to: Pancananda — February 15, 1975",
+    "h1":"Pancananda — February 15, 1975",
+    "title":"Letter to: Pancananda — February 15, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Pancananda ======
 

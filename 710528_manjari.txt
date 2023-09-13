@@ -1,5 +1,11 @@
-~~Title: Letter to: Manjari — May 28, 1971~~
-~~bc: Manjari — May 28, 1971~~
+---json
+{
+    "name":"Letter to: Manjari — May 28, 1971",
+    "h1":"Manjari — May 28, 1971",
+    "title":"Letter to: Manjari — May 28, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Manjari ======
 

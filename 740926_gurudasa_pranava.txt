@@ -1,5 +1,11 @@
-~~Title: Letter to: Gurudasa, Pranava — September 26, 1974~~
-~~bc: Gurudasa, Pranava — September 26, 1974~~
+---json
+{
+    "name":"Letter to: Gurudasa, Pranava — September 26, 1974",
+    "h1":"Gurudasa, Pranava — September 26, 1974",
+    "title":"Letter to: Gurudasa, Pranava — September 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Gurudasa, Pranava ======
 

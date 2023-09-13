@@ -1,5 +1,11 @@
-~~Title: Letter to: Ed Gilbert — September 9, 1975~~
-~~bc: Ed Gilbert — September 9, 1975~~
+---json
+{
+    "name":"Letter to: Ed Gilbert — September 9, 1975",
+    "h1":"Ed Gilbert — September 9, 1975",
+    "title":"Letter to: Ed Gilbert — September 9, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Ed Gilbert ======
 

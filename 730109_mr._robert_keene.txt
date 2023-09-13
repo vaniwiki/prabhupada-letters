@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Robert Keene — January 9, 1973~~
-~~bc: Mr. Robert Keene — January 9, 1973~~
+---json
+{
+    "name":"Letter to: Mr. Robert Keene — January 9, 1973",
+    "h1":"Mr. Robert Keene — January 9, 1973",
+    "title":"Letter to: Mr. Robert Keene — January 9, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Robert Keene ======
 

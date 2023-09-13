@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Toshihiro Nakano — April 1, 1961~~
-~~bc: Mr. Toshihiro Nakano — April 1, 1961~~
+---json
+{
+    "name":"Letter to: Mr. Toshihiro Nakano — April 1, 1961",
+    "h1":"Mr. Toshihiro Nakano — April 1, 1961",
+    "title":"Letter to: Mr. Toshihiro Nakano — April 1, 1961",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Toshihiro Nakano ======
 

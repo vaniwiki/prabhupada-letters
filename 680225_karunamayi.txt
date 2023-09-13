@@ -1,5 +1,11 @@
-~~Title: Letter to: Karunamayi — February 25, 1968~~
-~~bc: Karunamayi — February 25, 1968~~
+---json
+{
+    "name":"Letter to: Karunamayi — February 25, 1968",
+    "h1":"Karunamayi — February 25, 1968",
+    "title":"Letter to: Karunamayi — February 25, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Karunamayi ======
 

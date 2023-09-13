@@ -1,5 +1,11 @@
-~~Title: Letter to: Mangala Nand Goutam — February 29, 1964~~
-~~bc: Mangala Nand Goutam — February 29, 1964~~
+---json
+{
+    "name":"Letter to: Mangala Nand Goutam — February 29, 1964",
+    "h1":"Mangala Nand Goutam — February 29, 1964",
+    "title":"Letter to: Mangala Nand Goutam — February 29, 1964",
+    "description":""
+}
+---
 
 ====== Letter to: Mangala Nand Goutam ======
 

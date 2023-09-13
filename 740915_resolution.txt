@@ -1,5 +1,11 @@
-~~Title: Letter to: Resolution — September 15, 1974~~
-~~bc: Resolution — September 15, 1974~~
+---json
+{
+    "name":"Letter to: Resolution — September 15, 1974",
+    "h1":"Resolution — September 15, 1974",
+    "title":"Letter to: Resolution — September 15, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Resolution ======
 

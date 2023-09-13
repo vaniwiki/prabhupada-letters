@@ -1,5 +1,11 @@
-~~Title: Letter to: Jaya Hari — June 17, 1974~~
-~~bc: Jaya Hari — June 17, 1974~~
+---json
+{
+    "name":"Letter to: Jaya Hari — June 17, 1974",
+    "h1":"Jaya Hari — June 17, 1974",
+    "title":"Letter to: Jaya Hari — June 17, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Jaya Hari ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Nara-narayana — January 23, 1969~~
-~~bc: Nara-narayana — January 23, 1969~~
+---json
+{
+    "name":"Letter to: Nara-narayana — January 23, 1969",
+    "h1":"Nara-narayana — January 23, 1969",
+    "title":"Letter to: Nara-narayana — January 23, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Nara-narayana ======
 

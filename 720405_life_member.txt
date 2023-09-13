@@ -1,5 +1,11 @@
-~~Title: Letter to: Life Member — , 5 April, 1972~~
-~~bc: Life Member — , 5 April, 1972~~
+---json
+{
+    "name":"Letter to: Life Member — , 5 April, 1972",
+    "h1":"Life Member — , 5 April, 1972",
+    "title":"Letter to: Life Member — , 5 April, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Life Member ======
 

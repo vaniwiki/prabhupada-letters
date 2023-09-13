@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Krishna Pandit — November 7, 1972~~
-~~bc: Sri Krishna Pandit — November 7, 1972~~
+---json
+{
+    "name":"Letter to: Sri Krishna Pandit — November 7, 1972",
+    "h1":"Sri Krishna Pandit — November 7, 1972",
+    "title":"Letter to: Sri Krishna Pandit — November 7, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Krishna Pandit ======
 

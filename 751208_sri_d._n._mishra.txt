@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri D. N. Mishra — December 8, 1975~~
-~~bc: Sri D. N. Mishra — December 8, 1975~~
+---json
+{
+    "name":"Letter to: Sri D. N. Mishra — December 8, 1975",
+    "h1":"Sri D. N. Mishra — December 8, 1975",
+    "title":"Letter to: Sri D. N. Mishra — December 8, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Sri D. N. Mishra ======
 

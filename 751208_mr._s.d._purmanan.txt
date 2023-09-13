@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. S.D. Purmanan — December 8, 1975~~
-~~bc: Mr. S.D. Purmanan — December 8, 1975~~
+---json
+{
+    "name":"Letter to: Mr. S.D. Purmanan — December 8, 1975",
+    "h1":"Mr. S.D. Purmanan — December 8, 1975",
+    "title":"Letter to: Mr. S.D. Purmanan — December 8, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. S.D. Purmanan ======
 

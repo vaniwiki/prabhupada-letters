@@ -1,5 +1,11 @@
-~~Title: Letter to: All G.B.C., All Temple Presidents — July 9, 1977~~
-~~bc: All G.B.C., All Temple Presidents — July 9, 1977~~
+---json
+{
+    "name":"Letter to: All G.B.C., All Temple Presidents — July 9, 1977",
+    "h1":"All G.B.C., All Temple Presidents — July 9, 1977",
+    "title":"Letter to: All G.B.C., All Temple Presidents — July 9, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: All G.B.C., All Temple Presidents ======
 

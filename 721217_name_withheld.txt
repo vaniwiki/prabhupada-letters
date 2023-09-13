@@ -1,5 +1,11 @@
-~~Title: Letter to: Name withheld — December 17, 1972~~
-~~bc: Name withheld — December 17, 1972~~
+---json
+{
+    "name":"Letter to: Name withheld — December 17, 1972",
+    "h1":"Name withheld — December 17, 1972",
+    "title":"Letter to: Name withheld — December 17, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Name withheld ======
 

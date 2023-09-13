@@ -1,5 +1,11 @@
-~~Title: Letter to: Minoru, Kenji — April 22, 1970~~
-~~bc: Minoru, Kenji — April 22, 1970~~
+---json
+{
+    "name":"Letter to: Minoru, Kenji — April 22, 1970",
+    "h1":"Minoru, Kenji — April 22, 1970",
+    "title":"Letter to: Minoru, Kenji — April 22, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Minoru, Kenji ======
 

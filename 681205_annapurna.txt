@@ -1,5 +1,11 @@
-~~Title: Letter to: Annapurna — December 5, 1968~~
-~~bc: Annapurna — December 5, 1968~~
+---json
+{
+    "name":"Letter to: Annapurna — December 5, 1968",
+    "h1":"Annapurna — December 5, 1968",
+    "title":"Letter to: Annapurna — December 5, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Annapurna ======
 

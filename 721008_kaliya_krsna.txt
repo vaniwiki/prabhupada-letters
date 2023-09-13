@@ -1,5 +1,11 @@
-~~Title: Letter to: Kaliya Krsna — October 8, 1972~~
-~~bc: Kaliya Krsna — October 8, 1972~~
+---json
+{
+    "name":"Letter to: Kaliya Krsna — October 8, 1972",
+    "h1":"Kaliya Krsna — October 8, 1972",
+    "title":"Letter to: Kaliya Krsna — October 8, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Kaliya Krsna ======
 

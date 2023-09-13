@@ -1,5 +1,11 @@
-~~Title: Letter to: Kaliya Krsna — March 31, 1973~~
-~~bc: Kaliya Krsna — March 31, 1973~~
+---json
+{
+    "name":"Letter to: Kaliya Krsna — March 31, 1973",
+    "h1":"Kaliya Krsna — March 31, 1973",
+    "title":"Letter to: Kaliya Krsna — March 31, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Kaliya Krsna ======
 

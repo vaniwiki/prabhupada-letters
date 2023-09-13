@@ -1,5 +1,11 @@
-~~Title: Letter to: Candanacarya, Kasturika — May 20, 1973~~
-~~bc: Candanacarya, Kasturika — May 20, 1973~~
+---json
+{
+    "name":"Letter to: Candanacarya, Kasturika — May 20, 1973",
+    "h1":"Candanacarya, Kasturika — May 20, 1973",
+    "title":"Letter to: Candanacarya, Kasturika — May 20, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Candanacarya, Kasturika ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhagavan Prabhu — October 18, 1974~~
-~~bc: Bhagavan Prabhu — October 18, 1974~~
+---json
+{
+    "name":"Letter to: Bhagavan Prabhu — October 18, 1974",
+    "h1":"Bhagavan Prabhu — October 18, 1974",
+    "title":"Letter to: Bhagavan Prabhu — October 18, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Bhagavan Prabhu ======
 

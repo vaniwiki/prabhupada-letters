@@ -1,5 +1,11 @@
-~~Title: Letter to: Tejiyas — November 15, 1974~~
-~~bc: Tejiyas — November 15, 1974~~
+---json
+{
+    "name":"Letter to: Tejiyas — November 15, 1974",
+    "h1":"Tejiyas — November 15, 1974",
+    "title":"Letter to: Tejiyas — November 15, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Tejiyas ======
 

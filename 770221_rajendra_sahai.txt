@@ -1,5 +1,11 @@
-~~Title: Letter to: Rajendra Sahai — February 21, 1977~~
-~~bc: Rajendra Sahai — February 21, 1977~~
+---json
+{
+    "name":"Letter to: Rajendra Sahai — February 21, 1977",
+    "h1":"Rajendra Sahai — February 21, 1977",
+    "title":"Letter to: Rajendra Sahai — February 21, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Rajendra Sahai ======
 

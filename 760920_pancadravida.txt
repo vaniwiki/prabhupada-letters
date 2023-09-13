@@ -1,5 +1,11 @@
-~~Title: Letter to: Pancadravida — September 20, 1976~~
-~~bc: Pancadravida — September 20, 1976~~
+---json
+{
+    "name":"Letter to: Pancadravida — September 20, 1976",
+    "h1":"Pancadravida — September 20, 1976",
+    "title":"Letter to: Pancadravida — September 20, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Pancadravida ======
 

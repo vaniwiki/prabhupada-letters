@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayatirtha, Manjuali — November 10, 1975~~
-~~bc: Jayatirtha, Manjuali — November 10, 1975~~
+---json
+{
+    "name":"Letter to: Jayatirtha, Manjuali — November 10, 1975",
+    "h1":"Jayatirtha, Manjuali — November 10, 1975",
+    "title":"Letter to: Jayatirtha, Manjuali — November 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Jayatirtha, Manjuali ======
 

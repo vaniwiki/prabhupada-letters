@@ -1,5 +1,11 @@
-~~Title: Letter to: Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin) — May 10, 1972~~
-~~bc: Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin) — May 10, 1972~~
+---json
+{
+    "name":"Letter to: Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin) — May 10, 1972",
+    "h1":"Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin) — May 10, 1972",
+    "title":"Letter to: Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin) — May 10, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin) ======
 

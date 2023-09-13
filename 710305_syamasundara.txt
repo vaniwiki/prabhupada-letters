@@ -1,5 +1,11 @@
-~~Title: Letter to: Syamasundara — March 5, 1971~~
-~~bc: Syamasundara — March 5, 1971~~
+---json
+{
+    "name":"Letter to: Syamasundara — March 5, 1971",
+    "h1":"Syamasundara — March 5, 1971",
+    "title":"Letter to: Syamasundara — March 5, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Syamasundara ======
 

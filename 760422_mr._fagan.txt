@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Fagan — April 22, 1976~~
-~~bc: Mr. Fagan — April 22, 1976~~
+---json
+{
+    "name":"Letter to: Mr. Fagan — April 22, 1976",
+    "h1":"Mr. Fagan — April 22, 1976",
+    "title":"Letter to: Mr. Fagan — April 22, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Fagan ======
 

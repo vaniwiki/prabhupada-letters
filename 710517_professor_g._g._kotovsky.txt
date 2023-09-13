@@ -1,5 +1,11 @@
-~~Title: Letter to: Professor G. G. Kotovsky — May 17, 1971~~
-~~bc: Professor G. G. Kotovsky — May 17, 1971~~
+---json
+{
+    "name":"Letter to: Professor G. G. Kotovsky — May 17, 1971",
+    "h1":"Professor G. G. Kotovsky — May 17, 1971",
+    "title":"Letter to: Professor G. G. Kotovsky — May 17, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Professor G. G. Kotovsky ======
 

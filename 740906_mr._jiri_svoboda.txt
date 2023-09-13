@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Jiri Svoboda — September 6, 1974~~
-~~bc: Mr. Jiri Svoboda — September 6, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Jiri Svoboda — September 6, 1974",
+    "h1":"Mr. Jiri Svoboda — September 6, 1974",
+    "title":"Letter to: Mr. Jiri Svoboda — September 6, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Jiri Svoboda ======
 

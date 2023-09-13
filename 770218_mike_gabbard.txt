@@ -1,5 +1,11 @@
-~~Title: Letter to: Mike Gabbard — February 18, 1977~~
-~~bc: Mike Gabbard — February 18, 1977~~
+---json
+{
+    "name":"Letter to: Mike Gabbard — February 18, 1977",
+    "h1":"Mike Gabbard — February 18, 1977",
+    "title":"Letter to: Mike Gabbard — February 18, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Mike Gabbard ======
 

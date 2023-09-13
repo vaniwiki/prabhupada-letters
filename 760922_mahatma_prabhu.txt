@@ -1,5 +1,11 @@
-~~Title: Letter to: Mahatma Prabhu — September 22, 1976~~
-~~bc: Mahatma Prabhu — September 22, 1976~~
+---json
+{
+    "name":"Letter to: Mahatma Prabhu — September 22, 1976",
+    "h1":"Mahatma Prabhu — September 22, 1976",
+    "title":"Letter to: Mahatma Prabhu — September 22, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mahatma Prabhu ======
 

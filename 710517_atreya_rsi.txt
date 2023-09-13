@@ -1,5 +1,11 @@
-~~Title: Letter to: Atreya Rsi — May 17, 1971~~
-~~bc: Atreya Rsi — May 17, 1971~~
+---json
+{
+    "name":"Letter to: Atreya Rsi — May 17, 1971",
+    "h1":"Atreya Rsi — May 17, 1971",
+    "title":"Letter to: Atreya Rsi — May 17, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Atreya Rsi ======
 

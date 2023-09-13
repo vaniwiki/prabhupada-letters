@@ -1,5 +1,11 @@
-~~Title: Letter to: Chief Controller of Imports and Exports — May 25, 1971~~
-~~bc: Chief Controller of Imports and Exports — May 25, 1971~~
+---json
+{
+    "name":"Letter to: Chief Controller of Imports and Exports — May 25, 1971",
+    "h1":"Chief Controller of Imports and Exports — May 25, 1971",
+    "title":"Letter to: Chief Controller of Imports and Exports — May 25, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Chief Controller of Imports and Exports ======
 

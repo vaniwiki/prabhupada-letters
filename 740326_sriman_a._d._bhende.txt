@@ -1,5 +1,11 @@
-~~Title: Letter to: Sriman A. D. Bhende — March 26, 1974~~
-~~bc: Sriman A. D. Bhende — March 26, 1974~~
+---json
+{
+    "name":"Letter to: Sriman A. D. Bhende — March 26, 1974",
+    "h1":"Sriman A. D. Bhende — March 26, 1974",
+    "title":"Letter to: Sriman A. D. Bhende — March 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sriman A. D. Bhende ======
 

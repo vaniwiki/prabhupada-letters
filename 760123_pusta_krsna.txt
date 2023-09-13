@@ -1,5 +1,11 @@
-~~Title: Letter to: Pusta Krsna — January 23, 1976~~
-~~bc: Pusta Krsna — January 23, 1976~~
+---json
+{
+    "name":"Letter to: Pusta Krsna — January 23, 1976",
+    "h1":"Pusta Krsna — January 23, 1976",
+    "title":"Letter to: Pusta Krsna — January 23, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Pusta Krsna ======
 

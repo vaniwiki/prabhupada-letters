@@ -1,5 +1,11 @@
-~~Title: Letter to: Hillel Ben-Ami — January 28, 1973~~
-~~bc: Hillel Ben-Ami — January 28, 1973~~
+---json
+{
+    "name":"Letter to: Hillel Ben-Ami — January 28, 1973",
+    "h1":"Hillel Ben-Ami — January 28, 1973",
+    "title":"Letter to: Hillel Ben-Ami — January 28, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Hillel Ben-Ami ======
 

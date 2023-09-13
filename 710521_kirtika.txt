@@ -1,5 +1,11 @@
-~~Title: Letter to: Kirtika (Judith Cornell) — May 21, 1971~~
-~~bc: Kirtika (Judith Cornell) — May 21, 1971~~
+---json
+{
+    "name":"Letter to: Kirtika (Judith Cornell) — May 21, 1971",
+    "h1":"Kirtika (Judith Cornell) — May 21, 1971",
+    "title":"Letter to: Kirtika (Judith Cornell) — May 21, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Kirtika (Judith Cornell) ======
 

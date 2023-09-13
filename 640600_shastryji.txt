@@ -1,5 +1,11 @@
-~~Title: Letter to: Shastryji — June, 1964~~
-~~bc: Shastryji — June, 1964~~
+---json
+{
+    "name":"Letter to: Shastryji — June, 1964",
+    "h1":"Shastryji — June, 1964",
+    "title":"Letter to: Shastryji — June, 1964",
+    "description":""
+}
+---
 
 ====== Letter to: Shastryji ======
 

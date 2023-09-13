@@ -1,5 +1,11 @@
-~~Title: Letter to: Hrsikesa — March 18, 1969~~
-~~bc: Hrsikesa — March 18, 1969~~
+---json
+{
+    "name":"Letter to: Hrsikesa — March 18, 1969",
+    "h1":"Hrsikesa — March 18, 1969",
+    "title":"Letter to: Hrsikesa — March 18, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Hrsikesa ======
 

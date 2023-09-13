@@ -1,5 +1,11 @@
-~~Title: Letter to: Ghanasyama — November 9, 1975~~
-~~bc: Ghanasyama — November 9, 1975~~
+---json
+{
+    "name":"Letter to: Ghanasyama — November 9, 1975",
+    "h1":"Ghanasyama — November 9, 1975",
+    "title":"Letter to: Ghanasyama — November 9, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Ghanasyama ======
 

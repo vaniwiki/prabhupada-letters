@@ -1,5 +1,11 @@
-~~Title: Letter to: Syamasundara — August 13, 1969~~
-~~bc: Syamasundara — August 13, 1969~~
+---json
+{
+    "name":"Letter to: Syamasundara — August 13, 1969",
+    "h1":"Syamasundara — August 13, 1969",
+    "title":"Letter to: Syamasundara — August 13, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Syamasundara ======
 

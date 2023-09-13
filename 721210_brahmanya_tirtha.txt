@@ -1,5 +1,11 @@
-~~Title: Letter to: Brahmanya Tirtha — December 10, 1972~~
-~~bc: Brahmanya Tirtha — December 10, 1972~~
+---json
+{
+    "name":"Letter to: Brahmanya Tirtha — December 10, 1972",
+    "h1":"Brahmanya Tirtha — December 10, 1972",
+    "title":"Letter to: Brahmanya Tirtha — December 10, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Brahmanya Tirtha ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Dinesh Candra — May 18, 1971~~
-~~bc: Dinesh Candra — May 18, 1971~~
+---json
+{
+    "name":"Letter to: Dinesh Candra — May 18, 1971",
+    "h1":"Dinesh Candra — May 18, 1971",
+    "title":"Letter to: Dinesh Candra — May 18, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Dinesh Candra ======
 

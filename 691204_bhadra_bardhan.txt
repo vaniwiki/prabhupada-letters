@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhadra Bardhan — December 4, 1969~~
-~~bc: Bhadra Bardhan — December 4, 1969~~
+---json
+{
+    "name":"Letter to: Bhadra Bardhan — December 4, 1969",
+    "h1":"Bhadra Bardhan — December 4, 1969",
+    "title":"Letter to: Bhadra Bardhan — December 4, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Bhadra Bardhan ======
 

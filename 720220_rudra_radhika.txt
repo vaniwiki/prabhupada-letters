@@ -1,5 +1,11 @@
-~~Title: Letter to: Rudra, Radhika — February 20, 1972~~
-~~bc: Rudra, Radhika — February 20, 1972~~
+---json
+{
+    "name":"Letter to: Rudra, Radhika — February 20, 1972",
+    "h1":"Rudra, Radhika — February 20, 1972",
+    "title":"Letter to: Rudra, Radhika — February 20, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Rudra, Radhika ======
 

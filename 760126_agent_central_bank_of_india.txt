@@ -1,5 +1,11 @@
-~~Title: Letter to: Agent, Central Bank of India — January 26, 1976~~
-~~bc: Agent, Central Bank of India — January 26, 1976~~
+---json
+{
+    "name":"Letter to: Agent, Central Bank of India — January 26, 1976",
+    "h1":"Agent, Central Bank of India — January 26, 1976",
+    "title":"Letter to: Agent, Central Bank of India — January 26, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Agent, Central Bank of India ======
 

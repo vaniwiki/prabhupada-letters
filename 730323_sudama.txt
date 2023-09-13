@@ -1,5 +1,11 @@
-~~Title: Letter to: Sudama — March 23, 1973~~
-~~bc: Sudama — March 23, 1973~~
+---json
+{
+    "name":"Letter to: Sudama — March 23, 1973",
+    "h1":"Sudama — March 23, 1973",
+    "title":"Letter to: Sudama — March 23, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Sudama ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Govinda — September 29, 1974~~
-~~bc: Sri Govinda — September 29, 1974~~
+---json
+{
+    "name":"Letter to: Sri Govinda — September 29, 1974",
+    "h1":"Sri Govinda — September 29, 1974",
+    "title":"Letter to: Sri Govinda — September 29, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Govinda ======
 

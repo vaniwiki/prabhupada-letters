@@ -1,5 +1,11 @@
-~~Title: Letter to: Hariprasada Badruka — March 5, 1973~~
-~~bc: Hariprasada Badruka — March 5, 1973~~
+---json
+{
+    "name":"Letter to: Hariprasada Badruka — March 5, 1973",
+    "h1":"Hariprasada Badruka — March 5, 1973",
+    "title":"Letter to: Hariprasada Badruka — March 5, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Hariprasada Badruka ======
 

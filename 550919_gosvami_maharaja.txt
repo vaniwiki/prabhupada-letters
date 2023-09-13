@@ -1,5 +1,11 @@
-~~Title: Letter to: Gosvami Maharaja — September 19, 1955~~
-~~bc: Gosvami Maharaja — September 19, 1955~~
+---json
+{
+    "name":"Letter to: Gosvami Maharaja — September 19, 1955",
+    "h1":"Gosvami Maharaja — September 19, 1955",
+    "title":"Letter to: Gosvami Maharaja — September 19, 1955",
+    "description":""
+}
+---
 
 ====== Letter to: Gosvami Maharaja ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Himavati — November 17, 1971~~
-~~bc: Himavati — November 17, 1971~~
+---json
+{
+    "name":"Letter to: Himavati — November 17, 1971",
+    "h1":"Himavati — November 17, 1971",
+    "title":"Letter to: Himavati — November 17, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Himavati ======
 

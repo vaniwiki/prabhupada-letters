@@ -1,5 +1,11 @@
-~~Title: Letter to: Mangalniloy — July 7, 1968~~
-~~bc: Mangalniloy — July 7, 1968~~
+---json
+{
+    "name":"Letter to: Mangalniloy — July 7, 1968",
+    "h1":"Mangalniloy — July 7, 1968",
+    "title":"Letter to: Mangalniloy — July 7, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Mangalniloy ======
 

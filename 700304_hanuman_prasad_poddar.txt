@@ -1,5 +1,11 @@
-~~Title: Letter to: Hanuman Prasad Poddar — March 4, 1970~~
-~~bc: Hanuman Prasad Poddar — March 4, 1970~~
+---json
+{
+    "name":"Letter to: Hanuman Prasad Poddar — March 4, 1970",
+    "h1":"Hanuman Prasad Poddar — March 4, 1970",
+    "title":"Letter to: Hanuman Prasad Poddar — March 4, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Hanuman Prasad Poddar ======
 

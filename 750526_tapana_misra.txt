@@ -1,5 +1,11 @@
-~~Title: Letter to: Tapana Misra — May 26, 1975~~
-~~bc: Tapana Misra — May 26, 1975~~
+---json
+{
+    "name":"Letter to: Tapana Misra — May 26, 1975",
+    "h1":"Tapana Misra — May 26, 1975",
+    "title":"Letter to: Tapana Misra — May 26, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Tapana Misra ======
 

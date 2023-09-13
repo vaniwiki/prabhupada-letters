@@ -1,5 +1,11 @@
-~~Title: Letter to: All Centers — December 16, 1973~~
-~~bc: All Centers — December 16, 1973~~
+---json
+{
+    "name":"Letter to: All Centers — December 16, 1973",
+    "h1":"All Centers — December 16, 1973",
+    "title":"Letter to: All Centers — December 16, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: All Centers ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: MacMillan Company — August 5, 1970~~
-~~bc: MacMillan Company — August 5, 1970~~
+---json
+{
+    "name":"Letter to: MacMillan Company — August 5, 1970",
+    "h1":"MacMillan Company — August 5, 1970",
+    "title":"Letter to: MacMillan Company — August 5, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: MacMillan Company ======
 

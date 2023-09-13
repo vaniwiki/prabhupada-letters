@@ -1,5 +1,11 @@
-~~Title: Letter to: Saucarya — October 23, 1972~~
-~~bc: Saucarya — October 23, 1972~~
+---json
+{
+    "name":"Letter to: Saucarya — October 23, 1972",
+    "h1":"Saucarya — October 23, 1972",
+    "title":"Letter to: Saucarya — October 23, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Saucarya ======
 

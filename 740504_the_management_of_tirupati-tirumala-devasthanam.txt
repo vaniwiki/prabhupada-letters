@@ -1,5 +1,11 @@
-~~Title: Letter to: The Management of Tirupati-Tirumala-Devasthanam — May 4, 1974~~
-~~bc: The Management of Tirupati-Tirumala-Devasthanam — May 4, 1974~~
+---json
+{
+    "name":"Letter to: The Management of Tirupati-Tirumala-Devasthanam — May 4, 1974",
+    "h1":"The Management of Tirupati-Tirumala-Devasthanam — May 4, 1974",
+    "title":"Letter to: The Management of Tirupati-Tirumala-Devasthanam — May 4, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: The Management of Tirupati-Tirumala-Devasthanam ======
 

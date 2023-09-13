@@ -1,5 +1,11 @@
-~~Title: Letter to: Kaliya Krsna (John Moffat) — July 8, 1971~~
-~~bc: Kaliya Krsna (John Moffat) — July 8, 1971~~
+---json
+{
+    "name":"Letter to: Kaliya Krsna (John Moffat) — July 8, 1971",
+    "h1":"Kaliya Krsna (John Moffat) — July 8, 1971",
+    "title":"Letter to: Kaliya Krsna (John Moffat) — July 8, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Kaliya Krsna (John Moffat) ======
 

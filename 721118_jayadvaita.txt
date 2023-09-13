@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayadvaita — November 18, 1972~~
-~~bc: Jayadvaita — November 18, 1972~~
+---json
+{
+    "name":"Letter to: Jayadvaita — November 18, 1972",
+    "h1":"Jayadvaita — November 18, 1972",
+    "title":"Letter to: Jayadvaita — November 18, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Jayadvaita ======
 

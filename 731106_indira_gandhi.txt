@@ -1,5 +1,11 @@
-~~Title: Letter to: Indira Gandhi — November 6, 1973~~
-~~bc: Indira Gandhi — November 6, 1973~~
+---json
+{
+    "name":"Letter to: Indira Gandhi — November 6, 1973",
+    "h1":"Indira Gandhi — November 6, 1973",
+    "title":"Letter to: Indira Gandhi — November 6, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Indira Gandhi ======
 

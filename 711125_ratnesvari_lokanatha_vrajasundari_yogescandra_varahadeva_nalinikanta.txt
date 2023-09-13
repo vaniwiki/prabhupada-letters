@@ -1,5 +1,11 @@
-~~Title: Letter to: Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke) — November 25, 1971~~
-~~bc: Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke) — November 25, 1971~~
+---json
+{
+    "name":"Letter to: Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke) — November 25, 1971",
+    "h1":"Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke) — November 25, 1971",
+    "title":"Letter to: Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke) — November 25, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke) ======
 

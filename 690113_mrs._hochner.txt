@@ -1,5 +1,11 @@
-~~Title: Letter to: Mrs. Hochner — January 13, 1969~~
-~~bc: Mrs. Hochner — January 13, 1969~~
+---json
+{
+    "name":"Letter to: Mrs. Hochner — January 13, 1969",
+    "h1":"Mrs. Hochner — January 13, 1969",
+    "title":"Letter to: Mrs. Hochner — January 13, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Mrs. Hochner ======
 

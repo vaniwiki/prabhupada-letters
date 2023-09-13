@@ -1,5 +1,11 @@
-~~Title: Letter to: Nandarani, Krsna Devi, Subala, Uddhava — October 3, 1967~~
-~~bc: Nandarani, Krsna Devi, Subala, Uddhava — October 3, 1967~~
+---json
+{
+    "name":"Letter to: Nandarani, Krsna Devi, Subala, Uddhava — October 3, 1967",
+    "h1":"Nandarani, Krsna Devi, Subala, Uddhava — October 3, 1967",
+    "title":"Letter to: Nandarani, Krsna Devi, Subala, Uddhava — October 3, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Nandarani, Krsna Devi, Subala, Uddhava ======
 

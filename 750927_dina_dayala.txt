@@ -1,5 +1,11 @@
-~~Title: Letter to: Dina Dayala — September 27, 1975~~
-~~bc: Dina Dayala — September 27, 1975~~
+---json
+{
+    "name":"Letter to: Dina Dayala — September 27, 1975",
+    "h1":"Dina Dayala — September 27, 1975",
+    "title":"Letter to: Dina Dayala — September 27, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dina Dayala ======
 

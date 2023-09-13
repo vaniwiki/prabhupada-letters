@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Jagadisa Bhardawaj — September 3, 1975~~
-~~bc: Dr. Jagadisa Bhardawaj — September 3, 1975~~
+---json
+{
+    "name":"Letter to: Dr. Jagadisa Bhardawaj — September 3, 1975",
+    "h1":"Dr. Jagadisa Bhardawaj — September 3, 1975",
+    "title":"Letter to: Dr. Jagadisa Bhardawaj — September 3, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Jagadisa Bhardawaj ======
 

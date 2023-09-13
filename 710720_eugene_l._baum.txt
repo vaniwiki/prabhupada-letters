@@ -1,5 +1,11 @@
-~~Title: Letter to: Eugene L. Baum — July 20, 1971~~
-~~bc: Eugene L. Baum — July 20, 1971~~
+---json
+{
+    "name":"Letter to: Eugene L. Baum — July 20, 1971",
+    "h1":"Eugene L. Baum — July 20, 1971",
+    "title":"Letter to: Eugene L. Baum — July 20, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Eugene L. Baum ======
 

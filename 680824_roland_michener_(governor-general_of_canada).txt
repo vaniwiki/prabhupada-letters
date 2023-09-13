@@ -1,5 +1,11 @@
-~~Title: Letter to: Roland Michener (Governor-General of Canada) — August 24, 1968~~
-~~bc: Roland Michener (Governor-General of Canada) — August 24, 1968~~
+---json
+{
+    "name":"Letter to: Roland Michener (Governor-General of Canada) — August 24, 1968",
+    "h1":"Roland Michener (Governor-General of Canada) — August 24, 1968",
+    "title":"Letter to: Roland Michener (Governor-General of Canada) — August 24, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Roland Michener (Governor-General of Canada) ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Los Angeles devotees — April 28, 1971~~
-~~bc: Los Angeles devotees — April 28, 1971~~
+---json
+{
+    "name":"Letter to: Los Angeles devotees — April 28, 1971",
+    "h1":"Los Angeles devotees — April 28, 1971",
+    "title":"Letter to: Los Angeles devotees — April 28, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Los Angeles devotees ======
 

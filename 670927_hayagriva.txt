@@ -1,5 +1,11 @@
-~~Title: Letter to: Hayagriva — September 27, 1967~~
-~~bc: Hayagriva — September 27, 1967~~
+---json
+{
+    "name":"Letter to: Hayagriva — September 27, 1967",
+    "h1":"Hayagriva — September 27, 1967",
+    "title":"Letter to: Hayagriva — September 27, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Hayagriva ======
 

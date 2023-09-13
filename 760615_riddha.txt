@@ -1,5 +1,11 @@
-~~Title: Letter to: Riddha — June 15, 1976~~
-~~bc: Riddha — June 15, 1976~~
+---json
+{
+    "name":"Letter to: Riddha — June 15, 1976",
+    "h1":"Riddha — June 15, 1976",
+    "title":"Letter to: Riddha — June 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Riddha ======
 

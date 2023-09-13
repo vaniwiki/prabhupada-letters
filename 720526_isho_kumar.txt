@@ -1,5 +1,11 @@
-~~Title: Letter to: Isho Kumar — May 26, 1972~~
-~~bc: Isho Kumar — May 26, 1972~~
+---json
+{
+    "name":"Letter to: Isho Kumar — May 26, 1972",
+    "h1":"Isho Kumar — May 26, 1972",
+    "title":"Letter to: Isho Kumar — May 26, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Isho Kumar ======
 

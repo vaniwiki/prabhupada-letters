@@ -1,5 +1,11 @@
-~~Title: Letter to: Tirtha Maharaja — February 7, 1969~~
-~~bc: Tirtha Maharaja — February 7, 1969~~
+---json
+{
+    "name":"Letter to: Tirtha Maharaja — February 7, 1969",
+    "h1":"Tirtha Maharaja — February 7, 1969",
+    "title":"Letter to: Tirtha Maharaja — February 7, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Tirtha Maharaja ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Janis — October 29, 1966~~
-~~bc: Janis — October 29, 1966~~
+---json
+{
+    "name":"Letter to: Janis — October 29, 1966",
+    "h1":"Janis — October 29, 1966",
+    "title":"Letter to: Janis — October 29, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Janis ======
 

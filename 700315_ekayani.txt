@@ -1,5 +1,11 @@
-~~Title: Letter to: Ekayani — March 15, 1970~~
-~~bc: Ekayani — March 15, 1970~~
+---json
+{
+    "name":"Letter to: Ekayani — March 15, 1970",
+    "h1":"Ekayani — March 15, 1970",
+    "title":"Letter to: Ekayani — March 15, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Ekayani ======
 

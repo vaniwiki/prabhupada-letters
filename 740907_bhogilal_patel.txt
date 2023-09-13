@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhogilal Patel — September 7, 1974~~
-~~bc: Bhogilal Patel — September 7, 1974~~
+---json
+{
+    "name":"Letter to: Bhogilal Patel — September 7, 1974",
+    "h1":"Bhogilal Patel — September 7, 1974",
+    "title":"Letter to: Bhogilal Patel — September 7, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Bhogilal Patel ======
 

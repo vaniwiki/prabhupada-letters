@@ -1,5 +1,11 @@
-~~Title: Letter to: R. M. Patel — January 10, 1975~~
-~~bc: R. M. Patel — January 10, 1975~~
+---json
+{
+    "name":"Letter to: R. M. Patel — January 10, 1975",
+    "h1":"R. M. Patel — January 10, 1975",
+    "title":"Letter to: R. M. Patel — January 10, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: R. M. Patel ======
 

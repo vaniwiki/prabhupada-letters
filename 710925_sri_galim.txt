@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Galim — September 25, 1971~~
-~~bc: Sri Galim — September 25, 1971~~
+---json
+{
+    "name":"Letter to: Sri Galim — September 25, 1971",
+    "h1":"Sri Galim — September 25, 1971",
+    "title":"Letter to: Sri Galim — September 25, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Galim ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Selective Service System (for Tosana Krsna) — March 20, 1969~~
-~~bc: Selective Service System (for Tosana Krsna) — March 20, 1969~~
+---json
+{
+    "name":"Letter to: Selective Service System (for Tosana Krsna) — March 20, 1969",
+    "h1":"Selective Service System (for Tosana Krsna) — March 20, 1969",
+    "title":"Letter to: Selective Service System (for Tosana Krsna) — March 20, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Selective Service System (for Tosana Krsna) ======
 

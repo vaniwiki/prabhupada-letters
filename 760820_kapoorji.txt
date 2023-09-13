@@ -1,5 +1,11 @@
-~~Title: Letter to: Kapoorji — August 20, 1976~~
-~~bc: Kapoorji — August 20, 1976~~
+---json
+{
+    "name":"Letter to: Kapoorji — August 20, 1976",
+    "h1":"Kapoorji — August 20, 1976",
+    "title":"Letter to: Kapoorji — August 20, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Kapoorji ======
 

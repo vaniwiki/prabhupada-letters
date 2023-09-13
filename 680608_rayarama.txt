@@ -1,5 +1,11 @@
-~~Title: Letter to: Rayarama — June 8, 1968~~
-~~bc: Rayarama — June 8, 1968~~
+---json
+{
+    "name":"Letter to: Rayarama — June 8, 1968",
+    "h1":"Rayarama — June 8, 1968",
+    "title":"Letter to: Rayarama — June 8, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Rayarama ======
 

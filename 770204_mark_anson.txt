@@ -1,5 +1,11 @@
-~~Title: Letter to: Mark Anson — February 4, 1977~~
-~~bc: Mark Anson — February 4, 1977~~
+---json
+{
+    "name":"Letter to: Mark Anson — February 4, 1977",
+    "h1":"Mark Anson — February 4, 1977",
+    "title":"Letter to: Mark Anson — February 4, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Mark Anson ======
 

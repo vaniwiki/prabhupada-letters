@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Chittaranjan Mohapatra — March 21, 1976~~
-~~bc: Dr. Chittaranjan Mohapatra — March 21, 1976~~
+---json
+{
+    "name":"Letter to: Dr. Chittaranjan Mohapatra — March 21, 1976",
+    "h1":"Dr. Chittaranjan Mohapatra — March 21, 1976",
+    "title":"Letter to: Dr. Chittaranjan Mohapatra — March 21, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Chittaranjan Mohapatra ======
 

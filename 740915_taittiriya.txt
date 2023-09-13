@@ -1,5 +1,11 @@
-~~Title: Letter to: Taittiriya — September 15, 1974~~
-~~bc: Taittiriya — September 15, 1974~~
+---json
+{
+    "name":"Letter to: Taittiriya — September 15, 1974",
+    "h1":"Taittiriya — September 15, 1974",
+    "title":"Letter to: Taittiriya — September 15, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Taittiriya ======
 

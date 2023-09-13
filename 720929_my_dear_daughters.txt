@@ -1,5 +1,11 @@
-~~Title: Letter to: My dear daughters, — September 29, 1972~~
-~~bc: My dear daughters, — September 29, 1972~~
+---json
+{
+    "name":"Letter to: My dear daughters, — September 29, 1972",
+    "h1":"My dear daughters, — September 29, 1972",
+    "title":"Letter to: My dear daughters, — September 29, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: My dear daughters, ======
 

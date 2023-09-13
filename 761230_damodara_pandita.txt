@@ -1,5 +1,11 @@
-~~Title: Letter to: Damodara Pandita — December 30, 1976~~
-~~bc: Damodara Pandita — December 30, 1976~~
+---json
+{
+    "name":"Letter to: Damodara Pandita — December 30, 1976",
+    "h1":"Damodara Pandita — December 30, 1976",
+    "title":"Letter to: Damodara Pandita — December 30, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Damodara Pandita ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Susan Beckman — August 29, 1973~~
-~~bc: Susan Beckman — August 29, 1973~~
+---json
+{
+    "name":"Letter to: Susan Beckman — August 29, 1973",
+    "h1":"Susan Beckman — August 29, 1973",
+    "title":"Letter to: Susan Beckman — August 29, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Susan Beckman ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Kanya Kumari (Carol Bouchier) — April 1, 1971~~
-~~bc: Kanya Kumari (Carol Bouchier) — April 1, 1971~~
+---json
+{
+    "name":"Letter to: Kanya Kumari (Carol Bouchier) — April 1, 1971",
+    "h1":"Kanya Kumari (Carol Bouchier) — April 1, 1971",
+    "title":"Letter to: Kanya Kumari (Carol Bouchier) — April 1, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Kanya Kumari (Carol Bouchier) ======
 

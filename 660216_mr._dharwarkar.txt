@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Dharwarkar — February 16, 1966~~
-~~bc: Mr. Dharwarkar — February 16, 1966~~
+---json
+{
+    "name":"Letter to: Mr. Dharwarkar — February 16, 1966",
+    "h1":"Mr. Dharwarkar — February 16, 1966",
+    "title":"Letter to: Mr. Dharwarkar — February 16, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Dharwarkar ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Ved Prakash — July 28, 1958~~
-~~bc: Ved Prakash — July 28, 1958~~
+---json
+{
+    "name":"Letter to: Ved Prakash — July 28, 1958",
+    "h1":"Ved Prakash — July 28, 1958",
+    "title":"Letter to: Ved Prakash — July 28, 1958",
+    "description":""
+}
+---
 
 ====== Letter to: Ved Prakash ======
 

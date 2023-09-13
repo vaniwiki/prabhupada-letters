@@ -1,5 +1,11 @@
-~~Title: Letter to: Robert Hendry — August 3, 1969~~
-~~bc: Robert Hendry — August 3, 1969~~
+---json
+{
+    "name":"Letter to: Robert Hendry — August 3, 1969",
+    "h1":"Robert Hendry — August 3, 1969",
+    "title":"Letter to: Robert Hendry — August 3, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Robert Hendry ======
 

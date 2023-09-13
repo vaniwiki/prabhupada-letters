@@ -1,5 +1,11 @@
-~~Title: Letter to: Dina Dayala — January 6, 1976~~
-~~bc: Dina Dayala — January 6, 1976~~
+---json
+{
+    "name":"Letter to: Dina Dayala — January 6, 1976",
+    "h1":"Dina Dayala — January 6, 1976",
+    "title":"Letter to: Dina Dayala — January 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dina Dayala ======
 

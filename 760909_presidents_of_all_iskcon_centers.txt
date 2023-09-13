@@ -1,5 +1,11 @@
-~~Title: Letter to: Presidents of all ISKCON Centers — September 9, 1976~~
-~~bc: Presidents of all ISKCON Centers — September 9, 1976~~
+---json
+{
+    "name":"Letter to: Presidents of all ISKCON Centers — September 9, 1976",
+    "h1":"Presidents of all ISKCON Centers — September 9, 1976",
+    "title":"Letter to: Presidents of all ISKCON Centers — September 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Presidents of all ISKCON Centers ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Stephen Graham — October 14, 1974~~
-~~bc: Stephen Graham — October 14, 1974~~
+---json
+{
+    "name":"Letter to: Stephen Graham — October 14, 1974",
+    "h1":"Stephen Graham — October 14, 1974",
+    "title":"Letter to: Stephen Graham — October 14, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Stephen Graham ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Jadurani, Bharadraja, Muralidhara — June 4, 1970~~
-~~bc: Jadurani, Bharadraja, Muralidhara — June 4, 1970~~
+---json
+{
+    "name":"Letter to: Jadurani, Bharadraja, Muralidhara — June 4, 1970",
+    "h1":"Jadurani, Bharadraja, Muralidhara — June 4, 1970",
+    "title":"Letter to: Jadurani, Bharadraja, Muralidhara — June 4, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Jadurani, Bharadraja, Muralidhara ======
 

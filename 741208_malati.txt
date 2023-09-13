@@ -1,5 +1,11 @@
-~~Title: Letter to: Malati — December 8, 1974~~
-~~bc: Malati — December 8, 1974~~
+---json
+{
+    "name":"Letter to: Malati — December 8, 1974",
+    "h1":"Malati — December 8, 1974",
+    "title":"Letter to: Malati — December 8, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Malati ======
 

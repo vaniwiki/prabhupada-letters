@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Mohan Majundar — November 18, 1975~~
-~~bc: Mr. Mohan Majundar — November 18, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Mohan Majundar — November 18, 1975",
+    "h1":"Mr. Mohan Majundar — November 18, 1975",
+    "title":"Letter to: Mr. Mohan Majundar — November 18, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Mohan Majundar ======
 

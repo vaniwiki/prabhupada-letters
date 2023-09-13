@@ -1,5 +1,11 @@
-~~Title: Letter to: Svati — India~~
-~~bc: Svati — India~~
+---json
+{
+    "name":"Letter to: Svati — India",
+    "h1":"Svati — India",
+    "title":"Letter to: Svati — India",
+    "description":""
+}
+---
 
 ====== Letter to: Svati ======
 

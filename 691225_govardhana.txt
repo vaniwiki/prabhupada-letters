@@ -1,5 +1,11 @@
-~~Title: Letter to: Govardhana — December 25, 1969~~
-~~bc: Govardhana — December 25, 1969~~
+---json
+{
+    "name":"Letter to: Govardhana — December 25, 1969",
+    "h1":"Govardhana — December 25, 1969",
+    "title":"Letter to: Govardhana — December 25, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Govardhana ======
 

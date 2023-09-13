@@ -1,5 +1,11 @@
-~~Title: Letter to: Artists — Unknown Date~~
-~~bc: Artists — Unknown Date~~
+---json
+{
+    "name":"Letter to: Artists — Unknown Date",
+    "h1":"Artists — Unknown Date",
+    "title":"Letter to: Artists — Unknown Date",
+    "description":""
+}
+---
 
 ====== Letter to: Artists ======
 

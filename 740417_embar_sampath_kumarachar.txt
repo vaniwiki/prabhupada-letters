@@ -1,5 +1,11 @@
-~~Title: Letter to: Embar Sampath Kumarachar — April 17, 1974~~
-~~bc: Embar Sampath Kumarachar — April 17, 1974~~
+---json
+{
+    "name":"Letter to: Embar Sampath Kumarachar — April 17, 1974",
+    "h1":"Embar Sampath Kumarachar — April 17, 1974",
+    "title":"Letter to: Embar Sampath Kumarachar — April 17, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Embar Sampath Kumarachar ======
 

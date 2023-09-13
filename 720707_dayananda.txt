@@ -1,5 +1,11 @@
-~~Title: Letter to: Dayananda — July 7, 1972~~
-~~bc: Dayananda — July 7, 1972~~
+---json
+{
+    "name":"Letter to: Dayananda — July 7, 1972",
+    "h1":"Dayananda — July 7, 1972",
+    "title":"Letter to: Dayananda — July 7, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Dayananda ======
 

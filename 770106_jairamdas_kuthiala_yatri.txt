@@ -1,5 +1,11 @@
-~~Title: Letter to: Jairamdas Kuthiala Yatri — January 6, 1977~~
-~~bc: Jairamdas Kuthiala Yatri — January 6, 1977~~
+---json
+{
+    "name":"Letter to: Jairamdas Kuthiala Yatri — January 6, 1977",
+    "h1":"Jairamdas Kuthiala Yatri — January 6, 1977",
+    "title":"Letter to: Jairamdas Kuthiala Yatri — January 6, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Jairamdas Kuthiala Yatri ======
 

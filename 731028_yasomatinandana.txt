@@ -1,5 +1,11 @@
-~~Title: Letter to: Yasomatinandana — October 28, 1973~~
-~~bc: Yasomatinandana — October 28, 1973~~
+---json
+{
+    "name":"Letter to: Yasomatinandana — October 28, 1973",
+    "h1":"Yasomatinandana — October 28, 1973",
+    "title":"Letter to: Yasomatinandana — October 28, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Yasomatinandana ======
 

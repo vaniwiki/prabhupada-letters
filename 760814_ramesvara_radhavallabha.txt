@@ -1,5 +1,11 @@
-~~Title: Letter to: Ramesvara , Radhavallabha — August 14, 1976~~
-~~bc: Ramesvara , Radhavallabha — August 14, 1976~~
+---json
+{
+    "name":"Letter to: Ramesvara , Radhavallabha — August 14, 1976",
+    "h1":"Ramesvara , Radhavallabha — August 14, 1976",
+    "title":"Letter to: Ramesvara , Radhavallabha — August 14, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Ramesvara , Radhavallabha ======
 

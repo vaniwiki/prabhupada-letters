@@ -1,5 +1,11 @@
-~~Title: Letter to: Prabhuswarupa — April 6, 1976~~
-~~bc: Prabhuswarupa — April 6, 1976~~
+---json
+{
+    "name":"Letter to: Prabhuswarupa — April 6, 1976",
+    "h1":"Prabhuswarupa — April 6, 1976",
+    "title":"Letter to: Prabhuswarupa — April 6, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Prabhuswarupa ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Mandali Bhadra — January 20, 1972~~
-~~bc: Mandali Bhadra — January 20, 1972~~
+---json
+{
+    "name":"Letter to: Mandali Bhadra — January 20, 1972",
+    "h1":"Mandali Bhadra — January 20, 1972",
+    "title":"Letter to: Mandali Bhadra — January 20, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Mandali Bhadra ======
 

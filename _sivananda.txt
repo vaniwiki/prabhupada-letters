@@ -1,5 +1,11 @@
-~~Title: Letter to: Sivananda — Unknown Date~~
-~~bc: Sivananda — Unknown Date~~
+---json
+{
+    "name":"Letter to: Sivananda — Unknown Date",
+    "h1":"Sivananda — Unknown Date",
+    "title":"Letter to: Sivananda — Unknown Date",
+    "description":""
+}
+---
 
 ====== Letter to: Sivananda ======
 

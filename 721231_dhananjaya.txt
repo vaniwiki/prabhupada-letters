@@ -1,5 +1,11 @@
-~~Title: Letter to: Dhananjaya — December 31, 1972~~
-~~bc: Dhananjaya — December 31, 1972~~
+---json
+{
+    "name":"Letter to: Dhananjaya — December 31, 1972",
+    "h1":"Dhananjaya — December 31, 1972",
+    "title":"Letter to: Dhananjaya — December 31, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Dhananjaya ======
 

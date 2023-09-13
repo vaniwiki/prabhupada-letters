@@ -1,5 +1,11 @@
-~~Title: Letter to: S. C. Mukherjee — July 13, 1971~~
-~~bc: S. C. Mukherjee — July 13, 1971~~
+---json
+{
+    "name":"Letter to: S. C. Mukherjee — July 13, 1971",
+    "h1":"S. C. Mukherjee — July 13, 1971",
+    "title":"Letter to: S. C. Mukherjee — July 13, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: S. C. Mukherjee ======
 

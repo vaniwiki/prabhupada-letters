@@ -1,5 +1,11 @@
-~~Title: Letter to: Mrs. Singhal — September 8, 1974~~
-~~bc: Mrs. Singhal — September 8, 1974~~
+---json
+{
+    "name":"Letter to: Mrs. Singhal — September 8, 1974",
+    "h1":"Mrs. Singhal — September 8, 1974",
+    "title":"Letter to: Mrs. Singhal — September 8, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mrs. Singhal ======
 

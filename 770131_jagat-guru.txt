@@ -1,5 +1,11 @@
-~~Title: Letter to: Jagat-guru — January 31, 1977~~
-~~bc: Jagat-guru — January 31, 1977~~
+---json
+{
+    "name":"Letter to: Jagat-guru — January 31, 1977",
+    "h1":"Jagat-guru — January 31, 1977",
+    "title":"Letter to: Jagat-guru — January 31, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Jagat-guru ======
 

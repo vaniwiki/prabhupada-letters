@@ -1,5 +1,11 @@
-~~Title: Letter to: Kulasekhara (Colin Jury), Digvijaya (Dick Withey), Tirthapada (Tim Austin) — July 31, 1969~~
-~~bc: Kulasekhara (Colin Jury), Digvijaya (Dick Withey), Tirthapada (Tim Austin) — July 31, 1969~~
+---json
+{
+    "name":"Letter to: Kulasekhara (Colin Jury), Digvijaya (Dick Withey), Tirthapada (Tim Austin) — July 31, 1969",
+    "h1":"Kulasekhara (Colin Jury), Digvijaya (Dick Withey), Tirthapada (Tim Austin) — July 31, 1969",
+    "title":"Letter to: Kulasekhara (Colin Jury), Digvijaya (Dick Withey), Tirthapada (Tim Austin) — July 31, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Kulasekhara (Colin Jury), Digvijaya (Dick Withey), Tirthapada (Tim Austin) ======
 

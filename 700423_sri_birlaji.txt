@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Birlaji — April 23, 1970~~
-~~bc: Sri Birlaji — April 23, 1970~~
+---json
+{
+    "name":"Letter to: Sri Birlaji — April 23, 1970",
+    "h1":"Sri Birlaji — April 23, 1970",
+    "title":"Letter to: Sri Birlaji — April 23, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Birlaji ======
 

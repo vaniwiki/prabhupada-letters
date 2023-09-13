@@ -1,5 +1,11 @@
-~~Title: Letter to: Sir Padampat Singhania — March 18, 1966~~
-~~bc: Sir Padampat Singhania — March 18, 1966~~
+---json
+{
+    "name":"Letter to: Sir Padampat Singhania — March 18, 1966",
+    "h1":"Sir Padampat Singhania — March 18, 1966",
+    "title":"Letter to: Sir Padampat Singhania — March 18, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Sir Padampat Singhania ======
 

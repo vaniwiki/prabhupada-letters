@@ -1,5 +1,11 @@
-~~Title: Letter to: Ish Kumar Puri — July 9, 1972~~
-~~bc: Ish Kumar Puri — July 9, 1972~~
+---json
+{
+    "name":"Letter to: Ish Kumar Puri — July 9, 1972",
+    "h1":"Ish Kumar Puri — July 9, 1972",
+    "title":"Letter to: Ish Kumar Puri — July 9, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Ish Kumar Puri ======
 

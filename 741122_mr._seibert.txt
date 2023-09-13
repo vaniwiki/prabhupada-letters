@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Seibert — November 22, 1974~~
-~~bc: Mr. Seibert — November 22, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Seibert — November 22, 1974",
+    "h1":"Mr. Seibert — November 22, 1974",
+    "title":"Letter to: Mr. Seibert — November 22, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Seibert ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhagavan — September 16, 1973~~
-~~bc: Bhagavan — September 16, 1973~~
+---json
+{
+    "name":"Letter to: Bhagavan — September 16, 1973",
+    "h1":"Bhagavan — September 16, 1973",
+    "title":"Letter to: Bhagavan — September 16, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Bhagavan ======
 

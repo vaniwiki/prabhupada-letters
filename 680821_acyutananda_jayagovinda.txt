@@ -1,5 +1,11 @@
-~~Title: Letter to: Acyutananda, Jayagovinda — August 21, 1968~~
-~~bc: Acyutananda, Jayagovinda — August 21, 1968~~
+---json
+{
+    "name":"Letter to: Acyutananda, Jayagovinda — August 21, 1968",
+    "h1":"Acyutananda, Jayagovinda — August 21, 1968",
+    "title":"Letter to: Acyutananda, Jayagovinda — August 21, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Acyutananda, Jayagovinda ======
 

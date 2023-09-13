@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Aggarwal — March 7, 1973~~
-~~bc: Dr. Aggarwal — March 7, 1973~~
+---json
+{
+    "name":"Letter to: Dr. Aggarwal — March 7, 1973",
+    "h1":"Dr. Aggarwal — March 7, 1973",
+    "title":"Letter to: Dr. Aggarwal — March 7, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Aggarwal ======
 

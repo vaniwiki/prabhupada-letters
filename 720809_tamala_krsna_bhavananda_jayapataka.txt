@@ -1,5 +1,11 @@
-~~Title: Letter to: Tamala Krsna, Bhavananda, Jayapataka — August 9, 1972~~
-~~bc: Tamala Krsna, Bhavananda, Jayapataka — August 9, 1972~~
+---json
+{
+    "name":"Letter to: Tamala Krsna, Bhavananda, Jayapataka — August 9, 1972",
+    "h1":"Tamala Krsna, Bhavananda, Jayapataka — August 9, 1972",
+    "title":"Letter to: Tamala Krsna, Bhavananda, Jayapataka — August 9, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Tamala Krsna, Bhavananda, Jayapataka ======
 

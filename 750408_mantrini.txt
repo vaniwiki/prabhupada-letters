@@ -1,5 +1,11 @@
-~~Title: Letter to: Mantrini — April 8, 1975~~
-~~bc: Mantrini — April 8, 1975~~
+---json
+{
+    "name":"Letter to: Mantrini — April 8, 1975",
+    "h1":"Mantrini — April 8, 1975",
+    "title":"Letter to: Mantrini — April 8, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mantrini ======
 

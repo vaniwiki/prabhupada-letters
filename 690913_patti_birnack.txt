@@ -1,5 +1,11 @@
-~~Title: Letter to: Patti Birnack — September 13, 1969~~
-~~bc: Patti Birnack — September 13, 1969~~
+---json
+{
+    "name":"Letter to: Patti Birnack — September 13, 1969",
+    "h1":"Patti Birnack — September 13, 1969",
+    "title":"Letter to: Patti Birnack — September 13, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Patti Birnack ======
 

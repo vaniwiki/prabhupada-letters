@@ -1,5 +1,11 @@
-~~Title: Letter to: Vaikunthanatha, Saradia — April 4, 1971~~
-~~bc: Vaikunthanatha, Saradia — April 4, 1971~~
+---json
+{
+    "name":"Letter to: Vaikunthanatha, Saradia — April 4, 1971",
+    "h1":"Vaikunthanatha, Saradia — April 4, 1971",
+    "title":"Letter to: Vaikunthanatha, Saradia — April 4, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Vaikunthanatha, Saradia ======
 

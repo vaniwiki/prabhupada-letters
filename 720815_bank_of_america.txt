@@ -1,5 +1,11 @@
-~~Title: Letter to: Bank of America — August 15, 1972~~
-~~bc: Bank of America — August 15, 1972~~
+---json
+{
+    "name":"Letter to: Bank of America — August 15, 1972",
+    "h1":"Bank of America — August 15, 1972",
+    "title":"Letter to: Bank of America — August 15, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Bank of America ======
 

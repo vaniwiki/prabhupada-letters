@@ -1,5 +1,11 @@
-~~Title: Letter to: Lalita Priya — May 7, 1975~~
-~~bc: Lalita Priya — May 7, 1975~~
+---json
+{
+    "name":"Letter to: Lalita Priya — May 7, 1975",
+    "h1":"Lalita Priya — May 7, 1975",
+    "title":"Letter to: Lalita Priya — May 7, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Lalita Priya ======
 

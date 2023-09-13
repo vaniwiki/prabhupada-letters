@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayananda — September 1, 1975~~
-~~bc: Jayananda — September 1, 1975~~
+---json
+{
+    "name":"Letter to: Jayananda — September 1, 1975",
+    "h1":"Jayananda — September 1, 1975",
+    "title":"Letter to: Jayananda — September 1, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Jayananda ======
 

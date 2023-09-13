@@ -1,5 +1,11 @@
-~~Title: Letter to: Prabhus Babu — July 15, 1969~~
-~~bc: Prabhus Babu — July 15, 1969~~
+---json
+{
+    "name":"Letter to: Prabhus Babu — July 15, 1969",
+    "h1":"Prabhus Babu — July 15, 1969",
+    "title":"Letter to: Prabhus Babu — July 15, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Prabhus Babu ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Christopher — July 13, 1968~~
-~~bc: Christopher — July 13, 1968~~
+---json
+{
+    "name":"Letter to: Christopher — July 13, 1968",
+    "h1":"Christopher — July 13, 1968",
+    "title":"Letter to: Christopher — July 13, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Christopher ======
 

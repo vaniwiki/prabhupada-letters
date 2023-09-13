@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Karan-Singh — September 18, 1972~~
-~~bc: Dr. Karan-Singh — September 18, 1972~~
+---json
+{
+    "name":"Letter to: Dr. Karan-Singh — September 18, 1972",
+    "h1":"Dr. Karan-Singh — September 18, 1972",
+    "title":"Letter to: Dr. Karan-Singh — September 18, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Karan-Singh ======
 

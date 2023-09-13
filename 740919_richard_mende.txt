@@ -1,5 +1,11 @@
-~~Title: Letter to: Richard Mende — September 19, 1974~~
-~~bc: Richard Mende — September 19, 1974~~
+---json
+{
+    "name":"Letter to: Richard Mende — September 19, 1974",
+    "h1":"Richard Mende — September 19, 1974",
+    "title":"Letter to: Richard Mende — September 19, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Richard Mende ======
 

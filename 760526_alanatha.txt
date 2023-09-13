@@ -1,5 +1,11 @@
-~~Title: Letter to: Alanatha — May 26, 1976~~
-~~bc: Alanatha — May 26, 1976~~
+---json
+{
+    "name":"Letter to: Alanatha — May 26, 1976",
+    "h1":"Alanatha — May 26, 1976",
+    "title":"Letter to: Alanatha — May 26, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Alanatha ======
 

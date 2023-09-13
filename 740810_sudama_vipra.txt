@@ -1,5 +1,11 @@
-~~Title: Letter to: Sudama Vipra — August 10, 1974~~
-~~bc: Sudama Vipra — August 10, 1974~~
+---json
+{
+    "name":"Letter to: Sudama Vipra — August 10, 1974",
+    "h1":"Sudama Vipra — August 10, 1974",
+    "title":"Letter to: Sudama Vipra — August 10, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sudama Vipra ======
 

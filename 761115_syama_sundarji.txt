@@ -1,5 +1,11 @@
-~~Title: Letter to: Syama Sundarji — November 15, 1976~~
-~~bc: Syama Sundarji — November 15, 1976~~
+---json
+{
+    "name":"Letter to: Syama Sundarji — November 15, 1976",
+    "h1":"Syama Sundarji — November 15, 1976",
+    "title":"Letter to: Syama Sundarji — November 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Syama Sundarji ======
 

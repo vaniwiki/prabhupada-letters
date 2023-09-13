@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri Agrawal — December 29, 1974~~
-~~bc: Sri Agrawal — December 29, 1974~~
+---json
+{
+    "name":"Letter to: Sri Agrawal — December 29, 1974",
+    "h1":"Sri Agrawal — December 29, 1974",
+    "title":"Letter to: Sri Agrawal — December 29, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Sri Agrawal ======
 

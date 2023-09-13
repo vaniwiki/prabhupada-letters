@@ -1,5 +1,11 @@
-~~Title: Letter to: Anuradha, Tulsi — January 27, 1969~~
-~~bc: Anuradha, Tulsi — January 27, 1969~~
+---json
+{
+    "name":"Letter to: Anuradha, Tulsi — January 27, 1969",
+    "h1":"Anuradha, Tulsi — January 27, 1969",
+    "title":"Letter to: Anuradha, Tulsi — January 27, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Anuradha, Tulsi ======
 

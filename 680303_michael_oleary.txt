@@ -1,5 +1,11 @@
-~~Title: Letter to: Michael O’Leary — March 3, 1968~~
-~~bc: Michael O'Leary — March 3, 1968~~
+---json
+{
+    "name":"Letter to: Michael O’Leary — March 3, 1968",
+    "h1":"Michael O'Leary — March 3, 1968",
+    "title":"Letter to: Michael O’Leary — March 3, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Michael O’Leary ======
 

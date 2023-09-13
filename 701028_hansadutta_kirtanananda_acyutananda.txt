@@ -1,5 +1,11 @@
-~~Title: Letter to: Hansadutta , Kirtanananda , Acyutananda — October 28, 1970~~
-~~bc: Hansadutta , Kirtanananda , Acyutananda — October 28, 1970~~
+---json
+{
+    "name":"Letter to: Hansadutta , Kirtanananda , Acyutananda — October 28, 1970",
+    "h1":"Hansadutta , Kirtanananda , Acyutananda — October 28, 1970",
+    "title":"Letter to: Hansadutta , Kirtanananda , Acyutananda — October 28, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Hansadutta , Kirtanananda , Acyutananda ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Shyamsundar Mallik — July 13, 1972~~
-~~bc: Shyamsundar Mallik — July 13, 1972~~
+---json
+{
+    "name":"Letter to: Shyamsundar Mallik — July 13, 1972",
+    "h1":"Shyamsundar Mallik — July 13, 1972",
+    "title":"Letter to: Shyamsundar Mallik — July 13, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Shyamsundar Mallik ======
 

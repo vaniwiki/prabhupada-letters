@@ -1,5 +1,11 @@
-~~Title: Letter to: Krpasindhu — March 6, 1974~~
-~~bc: Krpasindhu — March 6, 1974~~
+---json
+{
+    "name":"Letter to: Krpasindhu — March 6, 1974",
+    "h1":"Krpasindhu — March 6, 1974",
+    "title":"Letter to: Krpasindhu — March 6, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Krpasindhu ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Gaurasundara — May 22, 1970~~
-~~bc: Gaurasundara — May 22, 1970~~
+---json
+{
+    "name":"Letter to: Gaurasundara — May 22, 1970",
+    "h1":"Gaurasundara — May 22, 1970",
+    "title":"Letter to: Gaurasundara — May 22, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Gaurasundara ======
 

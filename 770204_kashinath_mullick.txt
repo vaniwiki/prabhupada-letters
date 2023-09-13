@@ -1,5 +1,11 @@
-~~Title: Letter to: Kashinath Mullick — February 4, 1977~~
-~~bc: Kashinath Mullick — February 4, 1977~~
+---json
+{
+    "name":"Letter to: Kashinath Mullick — February 4, 1977",
+    "h1":"Kashinath Mullick — February 4, 1977",
+    "title":"Letter to: Kashinath Mullick — February 4, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Kashinath Mullick ======
 

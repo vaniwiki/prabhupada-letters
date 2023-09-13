@@ -1,5 +1,11 @@
-~~Title: Letter to: Acyutananda — September 15, 1968~~
-~~bc: Acyutananda — September 15, 1968~~
+---json
+{
+    "name":"Letter to: Acyutananda — September 15, 1968",
+    "h1":"Acyutananda — September 15, 1968",
+    "title":"Letter to: Acyutananda — September 15, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Acyutananda ======
 

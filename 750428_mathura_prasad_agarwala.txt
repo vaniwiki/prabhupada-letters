@@ -1,5 +1,11 @@
-~~Title: Letter to: Mathura Prasad Agarwala — April 28, 1975~~
-~~bc: Mathura Prasad Agarwala — April 28, 1975~~
+---json
+{
+    "name":"Letter to: Mathura Prasad Agarwala — April 28, 1975",
+    "h1":"Mathura Prasad Agarwala — April 28, 1975",
+    "title":"Letter to: Mathura Prasad Agarwala — April 28, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mathura Prasad Agarwala ======
 

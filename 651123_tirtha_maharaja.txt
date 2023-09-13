@@ -1,5 +1,11 @@
-~~Title: Letter to: Tirtha Maharaja — November 23, 1965~~
-~~bc: Tirtha Maharaja — November 23, 1965~~
+---json
+{
+    "name":"Letter to: Tirtha Maharaja — November 23, 1965",
+    "h1":"Tirtha Maharaja — November 23, 1965",
+    "title":"Letter to: Tirtha Maharaja — November 23, 1965",
+    "description":""
+}
+---
 
 ====== Letter to: Tirtha Maharaja ======
 

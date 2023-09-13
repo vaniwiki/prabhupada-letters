@@ -1,5 +1,11 @@
-~~Title: Letter to: Thakura Haridasa — April 23, 1973~~
-~~bc: Thakura Haridasa — April 23, 1973~~
+---json
+{
+    "name":"Letter to: Thakura Haridasa — April 23, 1973",
+    "h1":"Thakura Haridasa — April 23, 1973",
+    "title":"Letter to: Thakura Haridasa — April 23, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Thakura Haridasa ======
 

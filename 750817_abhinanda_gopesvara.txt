@@ -1,5 +1,11 @@
-~~Title: Letter to: Abhinanda, Gopesvara — August 17, 1975~~
-~~bc: Abhinanda, Gopesvara — August 17, 1975~~
+---json
+{
+    "name":"Letter to: Abhinanda, Gopesvara — August 17, 1975",
+    "h1":"Abhinanda, Gopesvara — August 17, 1975",
+    "title":"Letter to: Abhinanda, Gopesvara — August 17, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Abhinanda, Gopesvara ======
 

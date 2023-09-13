@@ -1,5 +1,11 @@
-~~Title: Letter to: Vipini — December 19, 1974~~
-~~bc: Vipini — December 19, 1974~~
+---json
+{
+    "name":"Letter to: Vipini — December 19, 1974",
+    "h1":"Vipini — December 19, 1974",
+    "title":"Letter to: Vipini — December 19, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Vipini ======
 

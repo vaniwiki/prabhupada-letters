@@ -1,5 +1,11 @@
-~~Title: Letter to: Gurudas Prabhu — Ovtober 14, 1974~~
-~~bc: Gurudas Prabhu — Ovtober 14, 1974~~
+---json
+{
+    "name":"Letter to: Gurudas Prabhu — Ovtober 14, 1974",
+    "h1":"Gurudas Prabhu — Ovtober 14, 1974",
+    "title":"Letter to: Gurudas Prabhu — Ovtober 14, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Gurudas Prabhu ======
 

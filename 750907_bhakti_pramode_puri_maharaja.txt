@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhakti Pramode Puri Maharaja — September 7, 1975~~
-~~bc: Bhakti Pramode Puri Maharaja — September 7, 1975~~
+---json
+{
+    "name":"Letter to: Bhakti Pramode Puri Maharaja — September 7, 1975",
+    "h1":"Bhakti Pramode Puri Maharaja — September 7, 1975",
+    "title":"Letter to: Bhakti Pramode Puri Maharaja — September 7, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Bhakti Pramode Puri Maharaja ======
 

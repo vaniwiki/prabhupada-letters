@@ -1,5 +1,11 @@
-~~Title: Letter to: Ananda Keshore Maharaja — March 6, 1974~~
-~~bc: Ananda Keshore Maharaja — March 6, 1974~~
+---json
+{
+    "name":"Letter to: Ananda Keshore Maharaja — March 6, 1974",
+    "h1":"Ananda Keshore Maharaja — March 6, 1974",
+    "title":"Letter to: Ananda Keshore Maharaja — March 6, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Ananda Keshore Maharaja ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Robert, Karen — April 19, 1970~~
-~~bc: Robert, Karen — April 19, 1970~~
+---json
+{
+    "name":"Letter to: Robert, Karen — April 19, 1970",
+    "h1":"Robert, Karen — April 19, 1970",
+    "title":"Letter to: Robert, Karen — April 19, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Robert, Karen ======
 

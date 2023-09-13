@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Nagendra Babu — August 28, 1969~~
-~~bc: Dr. Nagendra Babu — August 28, 1969~~
+---json
+{
+    "name":"Letter to: Dr. Nagendra Babu — August 28, 1969",
+    "h1":"Dr. Nagendra Babu — August 28, 1969",
+    "title":"Letter to: Dr. Nagendra Babu — August 28, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Nagendra Babu ======
 

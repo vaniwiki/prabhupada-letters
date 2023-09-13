@@ -1,5 +1,11 @@
-~~Title: Letter to: Gargamuni — October 19, 1967~~
-~~bc: Gargamuni — October 19, 1967~~
+---json
+{
+    "name":"Letter to: Gargamuni — October 19, 1967",
+    "h1":"Gargamuni — October 19, 1967",
+    "title":"Letter to: Gargamuni — October 19, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Gargamuni ======
 

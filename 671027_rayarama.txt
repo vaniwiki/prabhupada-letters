@@ -1,5 +1,11 @@
-~~Title: Letter to: Rayarama — October 27, 1967~~
-~~bc: Rayarama — October 27, 1967~~
+---json
+{
+    "name":"Letter to: Rayarama — October 27, 1967",
+    "h1":"Rayarama — October 27, 1967",
+    "title":"Letter to: Rayarama — October 27, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Rayarama ======
 

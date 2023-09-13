@@ -1,5 +1,11 @@
-~~Title: Letter to: Gopijanavallabha — April 16, 1974~~
-~~bc: Gopijanavallabha — April 16, 1974~~
+---json
+{
+    "name":"Letter to: Gopijanavallabha — April 16, 1974",
+    "h1":"Gopijanavallabha — April 16, 1974",
+    "title":"Letter to: Gopijanavallabha — April 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Gopijanavallabha ======
 

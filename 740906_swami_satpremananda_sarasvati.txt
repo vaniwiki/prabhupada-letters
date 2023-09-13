@@ -1,5 +1,11 @@
-~~Title: Letter to: Swami Satpremananda Sarasvati — September 6, 1974~~
-~~bc: Swami Satpremananda Sarasvati — September 6, 1974~~
+---json
+{
+    "name":"Letter to: Swami Satpremananda Sarasvati — September 6, 1974",
+    "h1":"Swami Satpremananda Sarasvati — September 6, 1974",
+    "title":"Letter to: Swami Satpremananda Sarasvati — September 6, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Swami Satpremananda Sarasvati ======
 

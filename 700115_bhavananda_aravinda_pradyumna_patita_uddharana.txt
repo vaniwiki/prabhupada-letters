@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhavananda, Aravinda, Pradyumna, Patita Uddharana — January 15, 1970~~
-~~bc: Bhavananda, Aravinda, Pradyumna, Patita Uddharana — January 15, 1970~~
+---json
+{
+    "name":"Letter to: Bhavananda, Aravinda, Pradyumna, Patita Uddharana — January 15, 1970",
+    "h1":"Bhavananda, Aravinda, Pradyumna, Patita Uddharana — January 15, 1970",
+    "title":"Letter to: Bhavananda, Aravinda, Pradyumna, Patita Uddharana — January 15, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Bhavananda, Aravinda, Pradyumna, Patita Uddharana ======
 

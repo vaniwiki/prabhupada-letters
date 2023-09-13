@@ -1,5 +1,11 @@
-~~Title: Letter to: Gosainji — July 15, 1974~~
-~~bc: Gosainji — July 15, 1974~~
+---json
+{
+    "name":"Letter to: Gosainji — July 15, 1974",
+    "h1":"Gosainji — July 15, 1974",
+    "title":"Letter to: Gosainji — July 15, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Gosainji ======
 

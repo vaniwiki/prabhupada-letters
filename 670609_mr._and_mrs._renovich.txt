@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. and Mrs. Renovich — June 9, 1967~~
-~~bc: Mr. and Mrs. Renovich — June 9, 1967~~
+---json
+{
+    "name":"Letter to: Mr. and Mrs. Renovich — June 9, 1967",
+    "h1":"Mr. and Mrs. Renovich — June 9, 1967",
+    "title":"Letter to: Mr. and Mrs. Renovich — June 9, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. and Mrs. Renovich ======
 

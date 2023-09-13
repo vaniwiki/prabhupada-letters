@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph — May 16, 1974~~
-~~bc: Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph — May 16, 1974~~
+---json
+{
+    "name":"Letter to: Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph — May 16, 1974",
+    "h1":"Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph — May 16, 1974",
+    "title":"Letter to: Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph — May 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Y. G. Naik M.Sc., Ph.D — March 28, 1960~~
-~~bc: Dr. Y. G. Naik M.Sc., Ph.D — March 28, 1960~~
+---json
+{
+    "name":"Letter to: Dr. Y. G. Naik M.Sc., Ph.D — March 28, 1960",
+    "h1":"Dr. Y. G. Naik M.Sc., Ph.D — March 28, 1960",
+    "title":"Letter to: Dr. Y. G. Naik M.Sc., Ph.D — March 28, 1960",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Y. G. Naik M.Sc., Ph.D ======
 

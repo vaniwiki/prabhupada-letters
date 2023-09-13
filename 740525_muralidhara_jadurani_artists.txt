@@ -1,5 +1,11 @@
-~~Title: Letter to: Muralidhara, Jadurani, Artists — May 25, 1974~~
-~~bc: Muralidhara, Jadurani, Artists — May 25, 1974~~
+---json
+{
+    "name":"Letter to: Muralidhara, Jadurani, Artists — May 25, 1974",
+    "h1":"Muralidhara, Jadurani, Artists — May 25, 1974",
+    "title":"Letter to: Muralidhara, Jadurani, Artists — May 25, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Muralidhara, Jadurani, Artists ======
 

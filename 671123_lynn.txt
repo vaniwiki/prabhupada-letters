@@ -1,5 +1,11 @@
-~~Title: Letter to: Lynn — November 23, 1967~~
-~~bc: Lynn — November 23, 1967~~
+---json
+{
+    "name":"Letter to: Lynn — November 23, 1967",
+    "h1":"Lynn — November 23, 1967",
+    "title":"Letter to: Lynn — November 23, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Lynn ======
 

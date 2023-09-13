@@ -1,5 +1,11 @@
-~~Title: Letter to: Members — Bombay~~
-~~bc: Members — Bombay~~
+---json
+{
+    "name":"Letter to: Members — Bombay",
+    "h1":"Members — Bombay",
+    "title":"Letter to: Members — Bombay",
+    "description":""
+}
+---
 
 ====== Letter to: Members ======
 

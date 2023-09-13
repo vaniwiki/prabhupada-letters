@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Apparao — September 7, 1974~~
-~~bc: Mr. Apparao — September 7, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Apparao — September 7, 1974",
+    "h1":"Mr. Apparao — September 7, 1974",
+    "title":"Letter to: Mr. Apparao — September 7, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Apparao ======
 

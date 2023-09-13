@@ -1,5 +1,11 @@
-~~Title: Letter to: Pratyaya (Harry Pettee), Duradharsa (Dennis Weatherman), Saranam (Sharon Robinson), Aja (Marnie Watson), Atmavana (Elaine Carnerie), Ahah (Norah Haas) — January 16, 1972~~
-~~bc: Pratyaya (Harry Pettee), Duradharsa (Dennis Weatherman), Saranam (Sharon Robinson), Aja (Marnie Watson), Atmavana (Elaine Carnerie), Ahah (Norah Haas) — January 16, 1972~~
+---json
+{
+    "name":"Letter to: Pratyaya (Harry Pettee), Duradharsa (Dennis Weatherman), Saranam (Sharon Robinson), Aja (Marnie Watson), Atmavana (Elaine Carnerie), Ahah (Norah Haas) — January 16, 1972",
+    "h1":"Pratyaya (Harry Pettee), Duradharsa (Dennis Weatherman), Saranam (Sharon Robinson), Aja (Marnie Watson), Atmavana (Elaine Carnerie), Ahah (Norah Haas) — January 16, 1972",
+    "title":"Letter to: Pratyaya (Harry Pettee), Duradharsa (Dennis Weatherman), Saranam (Sharon Robinson), Aja (Marnie Watson), Atmavana (Elaine Carnerie), Ahah (Norah Haas) — January 16, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Pratyaya (Harry Pettee), Duradharsa (Dennis Weatherman), Saranam (Sharon Robinson), Aja (Marnie Watson), Atmavana (Elaine Carnerie), Ahah (Norah Haas) ======
 

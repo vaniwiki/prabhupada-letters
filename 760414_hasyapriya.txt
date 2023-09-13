@@ -1,5 +1,11 @@
-~~Title: Letter to: Hasyapriya — April 14, 1976~~
-~~bc: Hasyapriya — April 14, 1976~~
+---json
+{
+    "name":"Letter to: Hasyapriya — April 14, 1976",
+    "h1":"Hasyapriya — April 14, 1976",
+    "title":"Letter to: Hasyapriya — April 14, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Hasyapriya ======
 

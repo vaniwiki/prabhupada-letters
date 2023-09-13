@@ -1,5 +1,11 @@
-~~Title: Letter to: Hon Pei — August 30, 1973~~
-~~bc: Hon Pei — August 30, 1973~~
+---json
+{
+    "name":"Letter to: Hon Pei — August 30, 1973",
+    "h1":"Hon Pei — August 30, 1973",
+    "title":"Letter to: Hon Pei — August 30, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Hon Pei ======
 

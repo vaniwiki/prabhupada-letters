@@ -1,5 +1,11 @@
-~~Title: Letter to: Amrita Patrika Newspaper — October 25, 1975~~
-~~bc: Amrita Patrika Newspaper — October 25, 1975~~
+---json
+{
+    "name":"Letter to: Amrita Patrika Newspaper — October 25, 1975",
+    "h1":"Amrita Patrika Newspaper — October 25, 1975",
+    "title":"Letter to: Amrita Patrika Newspaper — October 25, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Amrita Patrika Newspaper ======
 

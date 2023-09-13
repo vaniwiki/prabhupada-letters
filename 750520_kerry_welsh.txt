@@ -1,5 +1,11 @@
-~~Title: Letter to: Kerry Welsh — May 20, 1975~~
-~~bc: Kerry Welsh — May 20, 1975~~
+---json
+{
+    "name":"Letter to: Kerry Welsh — May 20, 1975",
+    "h1":"Kerry Welsh — May 20, 1975",
+    "title":"Letter to: Kerry Welsh — May 20, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Kerry Welsh ======
 

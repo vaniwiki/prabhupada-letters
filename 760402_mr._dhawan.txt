@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Dhawan — April 2, 1976~~
-~~bc: Mr. Dhawan — April 2, 1976~~
+---json
+{
+    "name":"Letter to: Mr. Dhawan — April 2, 1976",
+    "h1":"Mr. Dhawan — April 2, 1976",
+    "title":"Letter to: Mr. Dhawan — April 2, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Dhawan ======
 

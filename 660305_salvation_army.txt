@@ -1,5 +1,11 @@
-~~Title: Letter to: Salvation Army — March 5, 1966~~
-~~bc: Salvation Army — March 5, 1966~~
+---json
+{
+    "name":"Letter to: Salvation Army — March 5, 1966",
+    "h1":"Salvation Army — March 5, 1966",
+    "title":"Letter to: Salvation Army — March 5, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Salvation Army ======
 

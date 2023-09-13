@@ -1,5 +1,11 @@
-~~Title: Letter to: Linda Ryon — November 13, 1969~~
-~~bc: Linda Ryon — November 13, 1969~~
+---json
+{
+    "name":"Letter to: Linda Ryon — November 13, 1969",
+    "h1":"Linda Ryon — November 13, 1969",
+    "title":"Letter to: Linda Ryon — November 13, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Linda Ryon ======
 

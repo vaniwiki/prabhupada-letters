@@ -1,5 +1,11 @@
-~~Title: Letter to: Manidhara, Rohinisuta — October 27, 1976~~
-~~bc: Manidhara, Rohinisuta — October 27, 1976~~
+---json
+{
+    "name":"Letter to: Manidhara, Rohinisuta — October 27, 1976",
+    "h1":"Manidhara, Rohinisuta — October 27, 1976",
+    "title":"Letter to: Manidhara, Rohinisuta — October 27, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Manidhara, Rohinisuta ======
 

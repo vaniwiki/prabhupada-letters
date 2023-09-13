@@ -1,5 +1,11 @@
-~~Title: Letter to: Patty Dorgan — September 4, 1972~~
-~~bc: Patty Dorgan — September 4, 1972~~
+---json
+{
+    "name":"Letter to: Patty Dorgan — September 4, 1972",
+    "h1":"Patty Dorgan — September 4, 1972",
+    "title":"Letter to: Patty Dorgan — September 4, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Patty Dorgan ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sri I Kulabhandra Singh — January 31, 1976~~
-~~bc: Sri I Kulabhandra Singh — January 31, 1976~~
+---json
+{
+    "name":"Letter to: Sri I Kulabhandra Singh — January 31, 1976",
+    "h1":"Sri I Kulabhandra Singh — January 31, 1976",
+    "title":"Letter to: Sri I Kulabhandra Singh — January 31, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Sri I Kulabhandra Singh ======
 

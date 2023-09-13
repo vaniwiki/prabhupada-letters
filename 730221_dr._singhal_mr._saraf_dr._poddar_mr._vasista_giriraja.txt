@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Singhal, Mr. Saraf, Dr. Poddar, Mr. Vasista, Giriraja — February 21, 1973~~
-~~bc: Dr. Singhal, Mr. Saraf, Dr. Poddar, Mr. Vasista, Giriraja — February 21, 1973~~
+---json
+{
+    "name":"Letter to: Dr. Singhal, Mr. Saraf, Dr. Poddar, Mr. Vasista, Giriraja — February 21, 1973",
+    "h1":"Dr. Singhal, Mr. Saraf, Dr. Poddar, Mr. Vasista, Giriraja — February 21, 1973",
+    "title":"Letter to: Dr. Singhal, Mr. Saraf, Dr. Poddar, Mr. Vasista, Giriraja — February 21, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Singhal, Mr. Saraf, Dr. Poddar, Mr. Vasista, Giriraja ======
 

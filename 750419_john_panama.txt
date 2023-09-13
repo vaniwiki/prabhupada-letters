@@ -1,5 +1,11 @@
-~~Title: Letter to: John Panama — April 19, 1975~~
-~~bc: John Panama — April 19, 1975~~
+---json
+{
+    "name":"Letter to: John Panama — April 19, 1975",
+    "h1":"John Panama — April 19, 1975",
+    "title":"Letter to: John Panama — April 19, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: John Panama ======
 

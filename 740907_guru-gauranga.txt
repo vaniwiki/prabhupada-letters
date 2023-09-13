@@ -1,5 +1,11 @@
-~~Title: Letter to: Guru-gauranga — September 7, 1974~~
-~~bc: Guru-gauranga — September 7, 1974~~
+---json
+{
+    "name":"Letter to: Guru-gauranga — September 7, 1974",
+    "h1":"Guru-gauranga — September 7, 1974",
+    "title":"Letter to: Guru-gauranga — September 7, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Guru-gauranga ======
 

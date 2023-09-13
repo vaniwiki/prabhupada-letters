@@ -1,5 +1,11 @@
-~~Title: Letter to: Ramesvar Prabhu — September 19, 1974~~
-~~bc: Ramesvar Prabhu — September 19, 1974~~
+---json
+{
+    "name":"Letter to: Ramesvar Prabhu — September 19, 1974",
+    "h1":"Ramesvar Prabhu — September 19, 1974",
+    "title":"Letter to: Ramesvar Prabhu — September 19, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Ramesvar Prabhu ======
 

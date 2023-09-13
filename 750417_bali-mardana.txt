@@ -1,5 +1,11 @@
-~~Title: Letter to: Bali-mardana — April 17, 1975~~
-~~bc: Bali-mardana — April 17, 1975~~
+---json
+{
+    "name":"Letter to: Bali-mardana — April 17, 1975",
+    "h1":"Bali-mardana — April 17, 1975",
+    "title":"Letter to: Bali-mardana — April 17, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Bali-mardana ======
 

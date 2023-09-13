@@ -1,5 +1,11 @@
-~~Title: Letter to: Patita Uddharana — March 21, 1976~~
-~~bc: Patita Uddharana — March 21, 1976~~
+---json
+{
+    "name":"Letter to: Patita Uddharana — March 21, 1976",
+    "h1":"Patita Uddharana — March 21, 1976",
+    "title":"Letter to: Patita Uddharana — March 21, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Patita Uddharana ======
 

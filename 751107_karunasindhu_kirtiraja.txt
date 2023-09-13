@@ -1,5 +1,11 @@
-~~Title: Letter to: Karunasindhu, Kirtiraja — November 7, 1975~~
-~~bc: Karunasindhu, Kirtiraja — November 7, 1975~~
+---json
+{
+    "name":"Letter to: Karunasindhu, Kirtiraja — November 7, 1975",
+    "h1":"Karunasindhu, Kirtiraja — November 7, 1975",
+    "title":"Letter to: Karunasindhu, Kirtiraja — November 7, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Karunasindhu, Kirtiraja ======
 

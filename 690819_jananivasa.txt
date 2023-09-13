@@ -1,5 +1,11 @@
-~~Title: Letter to: Jananivasa — August 19, 1969~~
-~~bc: Jananivasa — August 19, 1969~~
+---json
+{
+    "name":"Letter to: Jananivasa — August 19, 1969",
+    "h1":"Jananivasa — August 19, 1969",
+    "title":"Letter to: Jananivasa — August 19, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Jananivasa ======
 

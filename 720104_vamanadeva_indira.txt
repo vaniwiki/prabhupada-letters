@@ -1,5 +1,11 @@
-~~Title: Letter to: Vamanadeva, Indira — January 4, 1972~~
-~~bc: Vamanadeva, Indira — January 4, 1972~~
+---json
+{
+    "name":"Letter to: Vamanadeva, Indira — January 4, 1972",
+    "h1":"Vamanadeva, Indira — January 4, 1972",
+    "title":"Letter to: Vamanadeva, Indira — January 4, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Vamanadeva, Indira ======
 

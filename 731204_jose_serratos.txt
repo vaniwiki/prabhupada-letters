@@ -1,5 +1,11 @@
-~~Title: Letter to: Jose Serratos — December 4, 1973~~
-~~bc: Jose Serratos — December 4, 1973~~
+---json
+{
+    "name":"Letter to: Jose Serratos — December 4, 1973",
+    "h1":"Jose Serratos — December 4, 1973",
+    "title":"Letter to: Jose Serratos — December 4, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Jose Serratos ======
 

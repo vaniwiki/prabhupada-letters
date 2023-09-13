@@ -1,5 +1,11 @@
-~~Title: Letter to: Babhru — July 23, 1971~~
-~~bc: Babhru — July 23, 1971~~
+---json
+{
+    "name":"Letter to: Babhru — July 23, 1971",
+    "h1":"Babhru — July 23, 1971",
+    "title":"Letter to: Babhru — July 23, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Babhru ======
 

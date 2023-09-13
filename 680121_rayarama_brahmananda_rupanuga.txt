@@ -1,5 +1,11 @@
-~~Title: Letter to: Rayarama, Brahmananda, Rupanuga — January 21, 1968~~
-~~bc: Rayarama, Brahmananda, Rupanuga — January 21, 1968~~
+---json
+{
+    "name":"Letter to: Rayarama, Brahmananda, Rupanuga — January 21, 1968",
+    "h1":"Rayarama, Brahmananda, Rupanuga — January 21, 1968",
+    "title":"Letter to: Rayarama, Brahmananda, Rupanuga — January 21, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Rayarama, Brahmananda, Rupanuga ======
 

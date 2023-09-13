@@ -1,5 +1,11 @@
-~~Title: Letter to: Sridhara Maharaja — December 7, 1969~~
-~~bc: Sridhara Maharaja — December 7, 1969~~
+---json
+{
+    "name":"Letter to: Sridhara Maharaja — December 7, 1969",
+    "h1":"Sridhara Maharaja — December 7, 1969",
+    "title":"Letter to: Sridhara Maharaja — December 7, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Sridhara Maharaja ======
 

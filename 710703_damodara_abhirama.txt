@@ -1,5 +1,11 @@
-~~Title: Letter to: Damodara, Abhirama — July 3, 1971~~
-~~bc: Damodara, Abhirama — July 3, 1971~~
+---json
+{
+    "name":"Letter to: Damodara, Abhirama — July 3, 1971",
+    "h1":"Damodara, Abhirama — July 3, 1971",
+    "title":"Letter to: Damodara, Abhirama — July 3, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Damodara, Abhirama ======
 

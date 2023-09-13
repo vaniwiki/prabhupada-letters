@@ -1,5 +1,11 @@
-~~Title: Letter to: Cidananda, Dindayal, Aniruddha, Makhanlal — February 23, 1969~~
-~~bc: Cidananda, Dindayal, Aniruddha, Makhanlal — February 23, 1969~~
+---json
+{
+    "name":"Letter to: Cidananda, Dindayal, Aniruddha, Makhanlal — February 23, 1969",
+    "h1":"Cidananda, Dindayal, Aniruddha, Makhanlal — February 23, 1969",
+    "title":"Letter to: Cidananda, Dindayal, Aniruddha, Makhanlal — February 23, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Cidananda, Dindayal, Aniruddha, Makhanlal ======
 

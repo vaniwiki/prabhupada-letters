@@ -1,5 +1,11 @@
-~~Title: Letter to: Caru Gupta — February 12, 1976~~
-~~bc: Caru Gupta — February 12, 1976~~
+---json
+{
+    "name":"Letter to: Caru Gupta — February 12, 1976",
+    "h1":"Caru Gupta — February 12, 1976",
+    "title":"Letter to: Caru Gupta — February 12, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Caru Gupta ======
 

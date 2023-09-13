@@ -1,5 +1,11 @@
-~~Title: Letter to: Pierre Sauvageau — February 2, 1975~~
-~~bc: Pierre Sauvageau — February 2, 1975~~
+---json
+{
+    "name":"Letter to: Pierre Sauvageau — February 2, 1975",
+    "h1":"Pierre Sauvageau — February 2, 1975",
+    "title":"Letter to: Pierre Sauvageau — February 2, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Pierre Sauvageau ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Yamal, Arjuna — July 16, 1974~~
-~~bc: Yamal, Arjuna — July 16, 1974~~
+---json
+{
+    "name":"Letter to: Yamal, Arjuna — July 16, 1974",
+    "h1":"Yamal, Arjuna — July 16, 1974",
+    "title":"Letter to: Yamal, Arjuna — July 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Yamal, Arjuna ======
 

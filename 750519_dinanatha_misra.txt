@@ -1,5 +1,11 @@
-~~Title: Letter to: Dinanatha Misra — May 19, 1975~~
-~~bc: Dinanatha Misra — May 19, 1975~~
+---json
+{
+    "name":"Letter to: Dinanatha Misra — May 19, 1975",
+    "h1":"Dinanatha Misra — May 19, 1975",
+    "title":"Letter to: Dinanatha Misra — May 19, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Dinanatha Misra ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Juggannath Babu — March 14, 1949~~
-~~bc: Juggannath Babu — March 14, 1949~~
+---json
+{
+    "name":"Letter to: Juggannath Babu — March 14, 1949",
+    "h1":"Juggannath Babu — March 14, 1949",
+    "title":"Letter to: Juggannath Babu — March 14, 1949",
+    "description":""
+}
+---
 
 ====== Letter to: Juggannath Babu ======
 

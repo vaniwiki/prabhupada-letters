@@ -1,5 +1,11 @@
-~~Title: Letter to: Janardana, Hansadutta, Himavati, Pradyumna — June 28, 1967~~
-~~bc: Janardana, Hansadutta, Himavati, Pradyumna — June 28, 1967~~
+---json
+{
+    "name":"Letter to: Janardana, Hansadutta, Himavati, Pradyumna — June 28, 1967",
+    "h1":"Janardana, Hansadutta, Himavati, Pradyumna — June 28, 1967",
+    "title":"Letter to: Janardana, Hansadutta, Himavati, Pradyumna — June 28, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Janardana, Hansadutta, Himavati, Pradyumna ======
 

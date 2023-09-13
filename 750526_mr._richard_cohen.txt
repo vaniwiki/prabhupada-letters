@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Richard Cohen — May 26, 1975~~
-~~bc: Mr. Richard Cohen — May 26, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Richard Cohen — May 26, 1975",
+    "h1":"Mr. Richard Cohen — May 26, 1975",
+    "title":"Letter to: Mr. Richard Cohen — May 26, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Richard Cohen ======
 

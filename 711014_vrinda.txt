@@ -1,5 +1,11 @@
-~~Title: Letter to: Vrinda — October 14, 1971~~
-~~bc: Vrinda — October 14, 1971~~
+---json
+{
+    "name":"Letter to: Vrinda — October 14, 1971",
+    "h1":"Vrinda — October 14, 1971",
+    "title":"Letter to: Vrinda — October 14, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Vrinda ======
 

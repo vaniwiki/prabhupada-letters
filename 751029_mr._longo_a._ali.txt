@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Longo A. Ali — October 29, 1975~~
-~~bc: Mr. Longo A. Ali — October 29, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Longo A. Ali — October 29, 1975",
+    "h1":"Mr. Longo A. Ali — October 29, 1975",
+    "title":"Letter to: Mr. Longo A. Ali — October 29, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Longo A. Ali ======
 

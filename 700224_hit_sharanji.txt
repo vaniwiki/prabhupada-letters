@@ -1,5 +1,11 @@
-~~Title: Letter to: Hit Sharanji — February 24, 1970~~
-~~bc: Hit Sharanji — February 24, 1970~~
+---json
+{
+    "name":"Letter to: Hit Sharanji — February 24, 1970",
+    "h1":"Hit Sharanji — February 24, 1970",
+    "title":"Letter to: Hit Sharanji — February 24, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Hit Sharanji ======
 

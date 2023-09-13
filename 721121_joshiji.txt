@@ -1,5 +1,11 @@
-~~Title: Letter to: Joshiji — November 21, 1972~~
-~~bc: Joshiji — November 21, 1972~~
+---json
+{
+    "name":"Letter to: Joshiji — November 21, 1972",
+    "h1":"Joshiji — November 21, 1972",
+    "title":"Letter to: Joshiji — November 21, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Joshiji ======
 

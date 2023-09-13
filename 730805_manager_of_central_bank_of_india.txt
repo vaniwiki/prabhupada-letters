@@ -1,5 +1,11 @@
-~~Title: Letter to: Manager of Central Bank of India — August 5, 1973~~
-~~bc: Manager of Central Bank of India — August 5, 1973~~
+---json
+{
+    "name":"Letter to: Manager of Central Bank of India — August 5, 1973",
+    "h1":"Manager of Central Bank of India — August 5, 1973",
+    "title":"Letter to: Manager of Central Bank of India — August 5, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Manager of Central Bank of India ======
 

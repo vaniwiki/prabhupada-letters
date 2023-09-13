@@ -1,5 +1,11 @@
-~~Title: Letter to: Advaita — March 18, 1971~~
-~~bc: Advaita — March 18, 1971~~
+---json
+{
+    "name":"Letter to: Advaita — March 18, 1971",
+    "h1":"Advaita — March 18, 1971",
+    "title":"Letter to: Advaita — March 18, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Advaita ======
 

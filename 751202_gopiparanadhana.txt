@@ -1,5 +1,11 @@
-~~Title: Letter to: Gopiparanadhana — December 2, 1975~~
-~~bc: Gopiparanadhana — December 2, 1975~~
+---json
+{
+    "name":"Letter to: Gopiparanadhana — December 2, 1975",
+    "h1":"Gopiparanadhana — December 2, 1975",
+    "title":"Letter to: Gopiparanadhana — December 2, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Gopiparanadhana ======
 

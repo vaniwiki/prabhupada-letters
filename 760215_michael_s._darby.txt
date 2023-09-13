@@ -1,5 +1,11 @@
-~~Title: Letter to: Michael S. Darby — February 15, 1976~~
-~~bc: Michael S. Darby — February 15, 1976~~
+---json
+{
+    "name":"Letter to: Michael S. Darby — February 15, 1976",
+    "h1":"Michael S. Darby — February 15, 1976",
+    "title":"Letter to: Michael S. Darby — February 15, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Michael S. Darby ======
 

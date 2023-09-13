@@ -1,5 +1,11 @@
-~~Title: Letter to: Hasyakari (Howard Bernd), Rathangapani (Randy Buchert), Varuthapa (Warren Havens), Laksmivan (Lawson Knight), Bhaktavatsala (Barry Butler), Bhaktilila (Linda Butler) — January 9, 1973~~
-~~bc: Hasyakari (Howard Bernd), Rathangapani (Randy Buchert), Varuthapa (Warren Havens), Laksmivan (Lawson Knight), Bhaktavatsala (Barry Butler), Bhaktilila (Linda Butler) — January 9, 1973~~
+---json
+{
+    "name":"Letter to: Hasyakari (Howard Bernd), Rathangapani (Randy Buchert), Varuthapa (Warren Havens), Laksmivan (Lawson Knight), Bhaktavatsala (Barry Butler), Bhaktilila (Linda Butler) — January 9, 1973",
+    "h1":"Hasyakari (Howard Bernd), Rathangapani (Randy Buchert), Varuthapa (Warren Havens), Laksmivan (Lawson Knight), Bhaktavatsala (Barry Butler), Bhaktilila (Linda Butler) — January 9, 1973",
+    "title":"Letter to: Hasyakari (Howard Bernd), Rathangapani (Randy Buchert), Varuthapa (Warren Havens), Laksmivan (Lawson Knight), Bhaktavatsala (Barry Butler), Bhaktilila (Linda Butler) — January 9, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Hasyakari (Howard Bernd), Rathangapani (Randy Buchert), Varuthapa (Warren Havens), Laksmivan (Lawson Knight), Bhaktavatsala (Barry Butler), Bhaktilila (Linda Butler) ======
 

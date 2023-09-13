@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Ghosh — November 17, 1974~~
-~~bc: Dr. Ghosh — November 17, 1974~~
+---json
+{
+    "name":"Letter to: Dr. Ghosh — November 17, 1974",
+    "h1":"Dr. Ghosh — November 17, 1974",
+    "title":"Letter to: Dr. Ghosh — November 17, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Ghosh ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Upendra — August 14, 1968~~
-~~bc: Upendra — August 14, 1968~~
+---json
+{
+    "name":"Letter to: Upendra — August 14, 1968",
+    "h1":"Upendra — August 14, 1968",
+    "title":"Letter to: Upendra — August 14, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Upendra ======
 

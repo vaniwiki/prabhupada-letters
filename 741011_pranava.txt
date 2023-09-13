@@ -1,5 +1,11 @@
-~~Title: Letter to: Pranava — October 11, 1974~~
-~~bc: Pranava — October 11, 1974~~
+---json
+{
+    "name":"Letter to: Pranava — October 11, 1974",
+    "h1":"Pranava — October 11, 1974",
+    "title":"Letter to: Pranava — October 11, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Pranava ======
 

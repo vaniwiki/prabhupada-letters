@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. K.L. Trivedi — November 14, 1975~~
-~~bc: Mr. K.L. Trivedi — November 14, 1975~~
+---json
+{
+    "name":"Letter to: Mr. K.L. Trivedi — November 14, 1975",
+    "h1":"Mr. K.L. Trivedi — November 14, 1975",
+    "title":"Letter to: Mr. K.L. Trivedi — November 14, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. K.L. Trivedi ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. B. N. Shukla — September 18, 1976~~
-~~bc: Dr. B. N. Shukla — September 18, 1976~~
+---json
+{
+    "name":"Letter to: Dr. B. N. Shukla — September 18, 1976",
+    "h1":"Dr. B. N. Shukla — September 18, 1976",
+    "title":"Letter to: Dr. B. N. Shukla — September 18, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. B. N. Shukla ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhava Sharnaji — April 13, 1976~~
-~~bc: Madhava Sharnaji — April 13, 1976~~
+---json
+{
+    "name":"Letter to: Madhava Sharnaji — April 13, 1976",
+    "h1":"Madhava Sharnaji — April 13, 1976",
+    "title":"Letter to: Madhava Sharnaji — April 13, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Madhava Sharnaji ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Jadurani — May 26, 1970~~
-~~bc: Jadurani — May 26, 1970~~
+---json
+{
+    "name":"Letter to: Jadurani — May 26, 1970",
+    "h1":"Jadurani — May 26, 1970",
+    "title":"Letter to: Jadurani — May 26, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Jadurani ======
 

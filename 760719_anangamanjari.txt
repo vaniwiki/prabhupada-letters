@@ -1,5 +1,11 @@
-~~Title: Letter to: Anangamanjari — July 19, 1976~~
-~~bc: Anangamanjari — July 19, 1976~~
+---json
+{
+    "name":"Letter to: Anangamanjari — July 19, 1976",
+    "h1":"Anangamanjari — July 19, 1976",
+    "title":"Letter to: Anangamanjari — July 19, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Anangamanjari ======
 

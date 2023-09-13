@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Rajendra Prasad, President of Indian Union — November 21, 1956~~
-~~bc: Dr. Rajendra Prasad, President of Indian Union — November 21, 1956~~
+---json
+{
+    "name":"Letter to: Dr. Rajendra Prasad, President of Indian Union — November 21, 1956",
+    "h1":"Dr. Rajendra Prasad, President of Indian Union — November 21, 1956",
+    "title":"Letter to: Dr. Rajendra Prasad, President of Indian Union — November 21, 1956",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Rajendra Prasad, President of Indian Union ======
 

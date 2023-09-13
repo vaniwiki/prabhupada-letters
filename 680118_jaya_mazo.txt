@@ -1,5 +1,11 @@
-~~Title: Letter to: Jaya Mazo — January 18, 1968~~
-~~bc: Jaya Mazo — January 18, 1968~~
+---json
+{
+    "name":"Letter to: Jaya Mazo — January 18, 1968",
+    "h1":"Jaya Mazo — January 18, 1968",
+    "title":"Letter to: Jaya Mazo — January 18, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Jaya Mazo ======
 

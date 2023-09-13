@@ -1,5 +1,11 @@
-~~Title: Letter to: Dinesh, Krsna Devi — November 19, 1968~~
-~~bc: Dinesh, Krsna Devi — November 19, 1968~~
+---json
+{
+    "name":"Letter to: Dinesh, Krsna Devi — November 19, 1968",
+    "h1":"Dinesh, Krsna Devi — November 19, 1968",
+    "title":"Letter to: Dinesh, Krsna Devi — November 19, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Dinesh, Krsna Devi ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Registrar of Joint Stock Companies — February 4, 1955~~
-~~bc: Registrar of Joint Stock Companies — February 4, 1955~~
+---json
+{
+    "name":"Letter to: Registrar of Joint Stock Companies — February 4, 1955",
+    "h1":"Registrar of Joint Stock Companies — February 4, 1955",
+    "title":"Letter to: Registrar of Joint Stock Companies — February 4, 1955",
+    "description":""
+}
+---
 
 ====== Letter to: Registrar of Joint Stock Companies ======
 

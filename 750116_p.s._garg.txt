@@ -1,5 +1,11 @@
-~~Title: Letter to: P. S. Garg — January 16, 1975~~
-~~bc: P. S. Garg — January 16, 1975~~
+---json
+{
+    "name":"Letter to: P. S. Garg — January 16, 1975",
+    "h1":"P. S. Garg — January 16, 1975",
+    "title":"Letter to: P. S. Garg — January 16, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: P. S. Garg ======
 

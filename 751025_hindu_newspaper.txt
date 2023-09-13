@@ -1,5 +1,11 @@
-~~Title: Letter to: Hindu Newspaper — October 25, 1975~~
-~~bc: Hindu Newspaper — October 25, 1975~~
+---json
+{
+    "name":"Letter to: Hindu Newspaper — October 25, 1975",
+    "h1":"Hindu Newspaper — October 25, 1975",
+    "title":"Letter to: Hindu Newspaper — October 25, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Hindu Newspaper ======
 

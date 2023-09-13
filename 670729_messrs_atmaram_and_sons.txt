@@ -1,5 +1,11 @@
-~~Title: Letter to: Messrs Atmaram and Sons — July 29, 1967~~
-~~bc: Messrs Atmaram and Sons — July 29, 1967~~
+---json
+{
+    "name":"Letter to: Messrs Atmaram and Sons — July 29, 1967",
+    "h1":"Messrs Atmaram and Sons — July 29, 1967",
+    "title":"Letter to: Messrs Atmaram and Sons — July 29, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: Messrs Atmaram and Sons ======
 

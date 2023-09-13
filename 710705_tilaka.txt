@@ -1,5 +1,11 @@
-~~Title: Letter to: Tilaka (Evalyn) — July 5, 1971~~
-~~bc: Tilaka (Evalyn) — July 5, 1971~~
+---json
+{
+    "name":"Letter to: Tilaka (Evalyn) — July 5, 1971",
+    "h1":"Tilaka (Evalyn) — July 5, 1971",
+    "title":"Letter to: Tilaka (Evalyn) — July 5, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Tilaka (Evalyn) ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsna Kanti — December 2, 1976~~
-~~bc: Krsna Kanti — December 2, 1976~~
+---json
+{
+    "name":"Letter to: Krsna Kanti — December 2, 1976",
+    "h1":"Krsna Kanti — December 2, 1976",
+    "title":"Letter to: Krsna Kanti — December 2, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Krsna Kanti ======
 

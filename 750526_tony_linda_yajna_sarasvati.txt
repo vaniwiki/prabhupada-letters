@@ -1,5 +1,11 @@
-~~Title: Letter to: Tony, Linda, Yajna Sarasvati — May 26, 1975~~
-~~bc: Tony, Linda, Yajna Sarasvati — May 26, 1975~~
+---json
+{
+    "name":"Letter to: Tony, Linda, Yajna Sarasvati — May 26, 1975",
+    "h1":"Tony, Linda, Yajna Sarasvati — May 26, 1975",
+    "title":"Letter to: Tony, Linda, Yajna Sarasvati — May 26, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Tony, Linda, Yajna Sarasvati ======
 

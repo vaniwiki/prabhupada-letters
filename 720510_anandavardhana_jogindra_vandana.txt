@@ -1,5 +1,11 @@
-~~Title: Letter to: Anandavardhana (Axel Anderson), Jogindra Vandana (John Berg) — May 10, 1972~~
-~~bc: Anandavardhana (Axel Anderson), Jogindra Vandana (John Berg) — May 10, 1972~~
+---json
+{
+    "name":"Letter to: Anandavardhana (Axel Anderson), Jogindra Vandana (John Berg) — May 10, 1972",
+    "h1":"Anandavardhana (Axel Anderson), Jogindra Vandana (John Berg) — May 10, 1972",
+    "title":"Letter to: Anandavardhana (Axel Anderson), Jogindra Vandana (John Berg) — May 10, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Anandavardhana (Axel Anderson), Jogindra Vandana (John Berg) ======
 

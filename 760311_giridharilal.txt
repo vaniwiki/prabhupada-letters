@@ -1,5 +1,11 @@
-~~Title: Letter to: Giridharilal — March 11, 1976~~
-~~bc: Giridharilal — March 11, 1976~~
+---json
+{
+    "name":"Letter to: Giridharilal — March 11, 1976",
+    "h1":"Giridharilal — March 11, 1976",
+    "title":"Letter to: Giridharilal — March 11, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Giridharilal ======
 

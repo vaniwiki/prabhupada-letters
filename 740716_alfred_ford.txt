@@ -1,5 +1,11 @@
-~~Title: Letter to: Alfred Ford — July 16, 1974~~
-~~bc: Alfred Ford — July 16, 1974~~
+---json
+{
+    "name":"Letter to: Alfred Ford — July 16, 1974",
+    "h1":"Alfred Ford — July 16, 1974",
+    "title":"Letter to: Alfred Ford — July 16, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Alfred Ford ======
 

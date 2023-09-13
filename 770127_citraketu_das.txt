@@ -1,5 +1,11 @@
-~~Title: Letter to: Citraketu das — January 27, 1977~~
-~~bc: Citraketu das — January 27, 1977~~
+---json
+{
+    "name":"Letter to: Citraketu das — January 27, 1977",
+    "h1":"Citraketu das — January 27, 1977",
+    "title":"Letter to: Citraketu das — January 27, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Citraketu das ======
 

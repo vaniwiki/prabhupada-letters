@@ -1,5 +1,11 @@
-~~Title: Letter to: Dr. Sham Sundarji — October 8, 1969~~
-~~bc: Dr. Sham Sundarji — October 8, 1969~~
+---json
+{
+    "name":"Letter to: Dr. Sham Sundarji — October 8, 1969",
+    "h1":"Dr. Sham Sundarji — October 8, 1969",
+    "title":"Letter to: Dr. Sham Sundarji — October 8, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Dr. Sham Sundarji ======
 

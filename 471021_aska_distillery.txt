@@ -1,5 +1,11 @@
-~~Title: Letter to: Aska Distillery — October 21, 1947~~
-~~bc: Aska Distillery — October 21, 1947~~
+---json
+{
+    "name":"Letter to: Aska Distillery — October 21, 1947",
+    "h1":"Aska Distillery — October 21, 1947",
+    "title":"Letter to: Aska Distillery — October 21, 1947",
+    "description":""
+}
+---
 
 ====== Letter to: Aska Distillery ======
 

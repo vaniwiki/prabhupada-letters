@@ -1,5 +1,11 @@
-~~Title: Letter to: Balarama — November 27, 1976~~
-~~bc: Balarama — November 27, 1976~~
+---json
+{
+    "name":"Letter to: Balarama — November 27, 1976",
+    "h1":"Balarama — November 27, 1976",
+    "title":"Letter to: Balarama — November 27, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Balarama ======
 

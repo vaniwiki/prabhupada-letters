@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Saxena — April 23, 1974~~
-~~bc: Mr. Saxena — April 23, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Saxena — April 23, 1974",
+    "h1":"Mr. Saxena — April 23, 1974",
+    "title":"Letter to: Mr. Saxena — April 23, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Saxena ======
 

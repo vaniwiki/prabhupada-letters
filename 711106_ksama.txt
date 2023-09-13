@@ -1,5 +1,11 @@
-~~Title: Letter to: Ksama (Lynn Edwards) — November 6, 1971~~
-~~bc: Ksama (Lynn Edwards) — November 6, 1971~~
+---json
+{
+    "name":"Letter to: Ksama (Lynn Edwards) — November 6, 1971",
+    "h1":"Ksama (Lynn Edwards) — November 6, 1971",
+    "title":"Letter to: Ksama (Lynn Edwards) — November 6, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Ksama (Lynn Edwards) ======
 

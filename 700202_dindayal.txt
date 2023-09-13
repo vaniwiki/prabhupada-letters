@@ -1,5 +1,11 @@
-~~Title: Letter to: Dindayal — February 2, 1970~~
-~~bc: Dindayal — February 2, 1970~~
+---json
+{
+    "name":"Letter to: Dindayal — February 2, 1970",
+    "h1":"Dindayal — February 2, 1970",
+    "title":"Letter to: Dindayal — February 2, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: Dindayal ======
 

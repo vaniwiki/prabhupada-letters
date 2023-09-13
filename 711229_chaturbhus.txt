@@ -1,5 +1,11 @@
-~~Title: Letter to: Chaturbhus — December 29, 1971~~
-~~bc: Chaturbhus — December 29, 1971~~
+---json
+{
+    "name":"Letter to: Chaturbhus — December 29, 1971",
+    "h1":"Chaturbhus — December 29, 1971",
+    "title":"Letter to: Chaturbhus — December 29, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Chaturbhus ======
 

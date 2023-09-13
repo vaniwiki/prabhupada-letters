@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhurijana, Tosana Krsna, Vrindaban Candra — August 30, 1969~~
-~~bc: Bhurijana, Tosana Krsna, Vrindaban Candra — August 30, 1969~~
+---json
+{
+    "name":"Letter to: Bhurijana, Tosana Krsna, Vrindaban Candra — August 30, 1969",
+    "h1":"Bhurijana, Tosana Krsna, Vrindaban Candra — August 30, 1969",
+    "title":"Letter to: Bhurijana, Tosana Krsna, Vrindaban Candra — August 30, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Bhurijana, Tosana Krsna, Vrindaban Candra ======
 

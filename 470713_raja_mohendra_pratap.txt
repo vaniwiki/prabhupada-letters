@@ -1,5 +1,11 @@
-~~Title: Letter to: Raja Mohendra Pratap — July 13, 1947~~
-~~bc: Raja Mohendra Pratap — July 13, 1947~~
+---json
+{
+    "name":"Letter to: Raja Mohendra Pratap — July 13, 1947",
+    "h1":"Raja Mohendra Pratap — July 13, 1947",
+    "title":"Letter to: Raja Mohendra Pratap — July 13, 1947",
+    "description":""
+}
+---
 
 ====== Letter to: Raja Mohendra Pratap ======
 

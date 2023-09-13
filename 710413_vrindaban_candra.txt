@@ -1,5 +1,11 @@
-~~Title: Letter to: Vrindaban Candra — April 13, 1971~~
-~~bc: Vrindaban Candra — April 13, 1971~~
+---json
+{
+    "name":"Letter to: Vrindaban Candra — April 13, 1971",
+    "h1":"Vrindaban Candra — April 13, 1971",
+    "title":"Letter to: Vrindaban Candra — April 13, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Vrindaban Candra ======
 

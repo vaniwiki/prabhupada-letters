@@ -1,5 +1,11 @@
-~~Title: Letter to: William Odell — February 4, 1968~~
-~~bc: William Odell — February 4, 1968~~
+---json
+{
+    "name":"Letter to: William Odell — February 4, 1968",
+    "h1":"William Odell — February 4, 1968",
+    "title":"Letter to: William Odell — February 4, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: William Odell ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Chaityaguru — February 28, 1977~~
-~~bc: Chaityaguru — February 28, 1977~~
+---json
+{
+    "name":"Letter to: Chaityaguru — February 28, 1977",
+    "h1":"Chaityaguru — February 28, 1977",
+    "title":"Letter to: Chaityaguru — February 28, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Chaityaguru ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Jayarandas Kuthiala — October 16, 1976~~
-~~bc: Jayarandas Kuthiala — October 16, 1976~~
+---json
+{
+    "name":"Letter to: Jayarandas Kuthiala — October 16, 1976",
+    "h1":"Jayarandas Kuthiala — October 16, 1976",
+    "title":"Letter to: Jayarandas Kuthiala — October 16, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Jayarandas Kuthiala ======
 

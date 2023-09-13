@@ -1,5 +1,11 @@
-~~Title: Letter to: Srinath Khanna — February 28, 1976~~
-~~bc: Srinath Khanna — February 28, 1976~~
+---json
+{
+    "name":"Letter to: Srinath Khanna — February 28, 1976",
+    "h1":"Srinath Khanna — February 28, 1976",
+    "title":"Letter to: Srinath Khanna — February 28, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Srinath Khanna ======
 

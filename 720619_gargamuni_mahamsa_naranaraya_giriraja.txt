@@ -1,5 +1,11 @@
-~~Title: Letter to: Gargamuni, Mahamsa, Naranaraya, Giriraja — June 19, 1972~~
-~~bc: Gargamuni, Mahamsa, Naranaraya, Giriraja — June 19, 1972~~
+---json
+{
+    "name":"Letter to: Gargamuni, Mahamsa, Naranaraya, Giriraja — June 19, 1972",
+    "h1":"Gargamuni, Mahamsa, Naranaraya, Giriraja — June 19, 1972",
+    "title":"Letter to: Gargamuni, Mahamsa, Naranaraya, Giriraja — June 19, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Gargamuni, Mahamsa, Naranaraya, Giriraja ======
 

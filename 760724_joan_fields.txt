@@ -1,5 +1,11 @@
-~~Title: Letter to: Joan Fields — July 24, 1976~~
-~~bc: Joan Fields — July 24, 1976~~
+---json
+{
+    "name":"Letter to: Joan Fields — July 24, 1976",
+    "h1":"Joan Fields — July 24, 1976",
+    "title":"Letter to: Joan Fields — July 24, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Joan Fields ======
 

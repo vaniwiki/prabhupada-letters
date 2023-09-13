@@ -1,5 +1,11 @@
-~~Title: Letter to: M. L. Chand — August 17, 1970~~
-~~bc: M. L. Chand — August 17, 1970~~
+---json
+{
+    "name":"Letter to: M. L. Chand — August 17, 1970",
+    "h1":"M. L. Chand — August 17, 1970",
+    "title":"Letter to: M. L. Chand — August 17, 1970",
+    "description":""
+}
+---
 
 ====== Letter to: M. L. Chand ======
 

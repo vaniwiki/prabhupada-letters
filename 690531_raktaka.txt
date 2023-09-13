@@ -1,5 +1,11 @@
-~~Title: Letter to: Raktaka — May 31, 1969~~
-~~bc: Raktaka — May 31, 1969~~
+---json
+{
+    "name":"Letter to: Raktaka — May 31, 1969",
+    "h1":"Raktaka — May 31, 1969",
+    "title":"Letter to: Raktaka — May 31, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Raktaka ======
 

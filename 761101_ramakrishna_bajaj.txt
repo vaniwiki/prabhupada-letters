@@ -1,5 +1,11 @@
-~~Title: Letter to: Ramakrishna Bajaj — November 1, 1976~~
-~~bc: Ramakrishna Bajaj — November 1, 1976~~
+---json
+{
+    "name":"Letter to: Ramakrishna Bajaj — November 1, 1976",
+    "h1":"Ramakrishna Bajaj — November 1, 1976",
+    "title":"Letter to: Ramakrishna Bajaj — November 1, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Ramakrishna Bajaj ======
 

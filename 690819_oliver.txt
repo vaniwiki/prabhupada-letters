@@ -1,5 +1,11 @@
-~~Title: Letter to: Oliver — August 19, 1969~~
-~~bc: Oliver — August 19, 1969~~
+---json
+{
+    "name":"Letter to: Oliver — August 19, 1969",
+    "h1":"Oliver — August 19, 1969",
+    "title":"Letter to: Oliver — August 19, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Oliver ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Mangalaniloy Brahmacari — June 23, 1966~~
-~~bc: Mangalaniloy Brahmacari — June 23, 1966~~
+---json
+{
+    "name":"Letter to: Mangalaniloy Brahmacari — June 23, 1966",
+    "h1":"Mangalaniloy Brahmacari — June 23, 1966",
+    "title":"Letter to: Mangalaniloy Brahmacari — June 23, 1966",
+    "description":""
+}
+---
 
 ====== Letter to: Mangalaniloy Brahmacari ======
 

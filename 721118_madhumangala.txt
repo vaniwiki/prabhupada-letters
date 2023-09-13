@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhumangala — November 18, 1972~~
-~~bc: Madhumangala — November 18, 1972~~
+---json
+{
+    "name":"Letter to: Madhumangala — November 18, 1972",
+    "h1":"Madhumangala — November 18, 1972",
+    "title":"Letter to: Madhumangala — November 18, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Madhumangala ======
 

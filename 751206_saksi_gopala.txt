@@ -1,5 +1,11 @@
-~~Title: Letter to: Saksi Gopala — December 6, 1975~~
-~~bc: Saksi Gopala — December 6, 1975~~
+---json
+{
+    "name":"Letter to: Saksi Gopala — December 6, 1975",
+    "h1":"Saksi Gopala — December 6, 1975",
+    "title":"Letter to: Saksi Gopala — December 6, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Saksi Gopala ======
 

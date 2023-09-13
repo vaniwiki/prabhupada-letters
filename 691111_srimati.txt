@@ -1,5 +1,11 @@
-~~Title: Letter to: Srimati — November 11, 1969~~
-~~bc: Srimati — November 11, 1969~~
+---json
+{
+    "name":"Letter to: Srimati — November 11, 1969",
+    "h1":"Srimati — November 11, 1969",
+    "title":"Letter to: Srimati — November 11, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Srimati ======
 

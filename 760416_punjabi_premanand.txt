@@ -1,5 +1,11 @@
-~~Title: Letter to: Punjabi Premanand — April 16, 1976~~
-~~bc: Punjabi Premanand — April 16, 1976~~
+---json
+{
+    "name":"Letter to: Punjabi Premanand — April 16, 1976",
+    "h1":"Punjabi Premanand — April 16, 1976",
+    "title":"Letter to: Punjabi Premanand — April 16, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Punjabi Premanand ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Poddar — September 26, 1974~~
-~~bc: Mr. Poddar — September 26, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Poddar — September 26, 1974",
+    "h1":"Mr. Poddar — September 26, 1974",
+    "title":"Letter to: Mr. Poddar — September 26, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Poddar ======
 

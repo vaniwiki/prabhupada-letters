@@ -1,5 +1,11 @@
-~~Title: Letter to: Kirtiraja, Haripuja — April 12, 1973~~
-~~bc: Kirtiraja, Haripuja — April 12, 1973~~
+---json
+{
+    "name":"Letter to: Kirtiraja, Haripuja — April 12, 1973",
+    "h1":"Kirtiraja, Haripuja — April 12, 1973",
+    "title":"Letter to: Kirtiraja, Haripuja — April 12, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Kirtiraja, Haripuja ======
 

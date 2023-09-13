@@ -1,5 +1,11 @@
-~~Title: Letter to: Ravindra Svarupa — February 2, 1975~~
-~~bc: Ravindra Svarupa — February 2, 1975~~
+---json
+{
+    "name":"Letter to: Ravindra Svarupa — February 2, 1975",
+    "h1":"Ravindra Svarupa — February 2, 1975",
+    "title":"Letter to: Ravindra Svarupa — February 2, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Ravindra Svarupa ======
 

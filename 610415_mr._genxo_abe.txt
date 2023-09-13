@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Genxo Abe — April 15, 1961~~
-~~bc: Mr. Genxo Abe — April 15, 1961~~
+---json
+{
+    "name":"Letter to: Mr. Genxo Abe — April 15, 1961",
+    "h1":"Mr. Genxo Abe — April 15, 1961",
+    "title":"Letter to: Mr. Genxo Abe — April 15, 1961",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Genxo Abe ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Pariksit — October 9, 1974~~
-~~bc: Pariksit — October 9, 1974~~
+---json
+{
+    "name":"Letter to: Pariksit — October 9, 1974",
+    "h1":"Pariksit — October 9, 1974",
+    "title":"Letter to: Pariksit — October 9, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Pariksit ======
 

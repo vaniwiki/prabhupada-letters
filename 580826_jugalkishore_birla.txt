@@ -1,5 +1,11 @@
-~~Title: Letter to: Jugalkishore Birla — August 26, 1958~~
-~~bc: Jugalkishore Birla — August 26, 1958~~
+---json
+{
+    "name":"Letter to: Jugalkishore Birla — August 26, 1958",
+    "h1":"Jugalkishore Birla — August 26, 1958",
+    "title":"Letter to: Jugalkishore Birla — August 26, 1958",
+    "description":""
+}
+---
 
 ====== Letter to: Jugalkishore Birla ======
 

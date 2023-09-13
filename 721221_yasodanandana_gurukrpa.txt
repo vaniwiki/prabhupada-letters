@@ -1,5 +1,11 @@
-~~Title: Letter to: Yasodanandana, Gurukrpa — December 21, 1972~~
-~~bc: Yasodanandana, Gurukrpa — December 21, 1972~~
+---json
+{
+    "name":"Letter to: Yasodanandana, Gurukrpa — December 21, 1972",
+    "h1":"Yasodanandana, Gurukrpa — December 21, 1972",
+    "title":"Letter to: Yasodanandana, Gurukrpa — December 21, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Yasodanandana, Gurukrpa ======
 

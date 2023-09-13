@@ -1,5 +1,11 @@
-~~Title: Letter to: Sons and daughters — May 8, 1973~~
-~~bc: Sons and daughters — May 8, 1973~~
+---json
+{
+    "name":"Letter to: Sons and daughters — May 8, 1973",
+    "h1":"Sons and daughters — May 8, 1973",
+    "title":"Letter to: Sons and daughters — May 8, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Sons and daughters ======
 

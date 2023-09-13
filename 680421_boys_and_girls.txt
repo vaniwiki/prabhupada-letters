@@ -1,5 +1,11 @@
-~~Title: Letter to: Boys and Girls — April 21, 1968~~
-~~bc: Boys and Girls — April 21, 1968~~
+---json
+{
+    "name":"Letter to: Boys and Girls — April 21, 1968",
+    "h1":"Boys and Girls — April 21, 1968",
+    "title":"Letter to: Boys and Girls — April 21, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Boys and Girls ======
 

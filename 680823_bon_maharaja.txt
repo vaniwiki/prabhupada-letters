@@ -1,5 +1,11 @@
-~~Title: Letter to: Bon Maharaja — August 23, 1968~~
-~~bc: Bon Maharaja — August 23, 1968~~
+---json
+{
+    "name":"Letter to: Bon Maharaja — August 23, 1968",
+    "h1":"Bon Maharaja — August 23, 1968",
+    "title":"Letter to: Bon Maharaja — August 23, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Bon Maharaja ======
 

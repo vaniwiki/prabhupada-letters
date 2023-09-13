@@ -1,5 +1,11 @@
-~~Title: Letter to: H.S. Dwivedi — April 8, 1977~~
-~~bc: H.S. Dwivedi — April 8, 1977~~
+---json
+{
+    "name":"Letter to: H.S. Dwivedi — April 8, 1977",
+    "h1":"H.S. Dwivedi — April 8, 1977",
+    "title":"Letter to: H.S. Dwivedi — April 8, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: H.S. Dwivedi ======
 

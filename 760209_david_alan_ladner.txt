@@ -1,5 +1,11 @@
-~~Title: Letter to: David Alan Ladner — February 9, 1976~~
-~~bc: David Alan Ladner — February 9, 1976~~
+---json
+{
+    "name":"Letter to: David Alan Ladner — February 9, 1976",
+    "h1":"David Alan Ladner — February 9, 1976",
+    "title":"Letter to: David Alan Ladner — February 9, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: David Alan Ladner ======
 

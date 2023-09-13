@@ -1,5 +1,11 @@
-~~Title: Letter to: Kim Korstad — April 16, 1977~~
-~~bc: Kim Korstad — April 16, 1977~~
+---json
+{
+    "name":"Letter to: Kim Korstad — April 16, 1977",
+    "h1":"Kim Korstad — April 16, 1977",
+    "title":"Letter to: Kim Korstad — April 16, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Kim Korstad ======
 

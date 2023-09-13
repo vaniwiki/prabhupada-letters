@@ -1,5 +1,11 @@
-~~Title: Letter to: Vrndavanesvari — July 28, 1969~~
-~~bc: Vrndavanesvari — July 28, 1969~~
+---json
+{
+    "name":"Letter to: Vrndavanesvari — July 28, 1969",
+    "h1":"Vrndavanesvari — July 28, 1969",
+    "title":"Letter to: Vrndavanesvari — July 28, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Vrndavanesvari ======
 

@@ -1,5 +1,11 @@
-~~Title: Letter to: Sudama, Kartikeya — April 19, 1969~~
-~~bc: Sudama, Kartikeya — April 19, 1969~~
+---json
+{
+    "name":"Letter to: Sudama, Kartikeya — April 19, 1969",
+    "h1":"Sudama, Kartikeya — April 19, 1969",
+    "title":"Letter to: Sudama, Kartikeya — April 19, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Sudama, Kartikeya ======
 

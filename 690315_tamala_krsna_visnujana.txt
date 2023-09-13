@@ -1,5 +1,11 @@
-~~Title: Letter to: Tamala Krsna, Visnujana — March 15, 1969~~
-~~bc: Tamala Krsna, Visnujana — March 15, 1969~~
+---json
+{
+    "name":"Letter to: Tamala Krsna, Visnujana — March 15, 1969",
+    "h1":"Tamala Krsna, Visnujana — March 15, 1969",
+    "title":"Letter to: Tamala Krsna, Visnujana — March 15, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Tamala Krsna, Visnujana ======
 

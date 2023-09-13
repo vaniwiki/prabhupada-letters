@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhakti Sastri Examination — September 4, 1969~~
-~~bc: Bhakti Sastri Examination — September 4, 1969~~
+---json
+{
+    "name":"Letter to: Bhakti Sastri Examination — September 4, 1969",
+    "h1":"Bhakti Sastri Examination — September 4, 1969",
+    "title":"Letter to: Bhakti Sastri Examination — September 4, 1969",
+    "description":""
+}
+---
 
 ====== Letter to: Bhakti Sastri Examination ======
 

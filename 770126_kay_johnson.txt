@@ -1,5 +1,11 @@
-~~Title: Letter to: Kay Johnson — January 26, 1977~~
-~~bc: Kay Johnson — January 26, 1977~~
+---json
+{
+    "name":"Letter to: Kay Johnson — January 26, 1977",
+    "h1":"Kay Johnson — January 26, 1977",
+    "title":"Letter to: Kay Johnson — January 26, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Kay Johnson ======
 

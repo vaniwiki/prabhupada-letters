@@ -1,5 +1,11 @@
-~~Title: Letter to: Smt. & Sri Sadajiwatlal Chandulal Bahl — April 13, 1976~~
-~~bc: Smt. & Sri Sadajiwatlal Chandulal Bahl — April 13, 1976~~
+---json
+{
+    "name":"Letter to: Smt. & Sri Sadajiwatlal Chandulal Bahl — April 13, 1976",
+    "h1":"Smt. & Sri Sadajiwatlal Chandulal Bahl — April 13, 1976",
+    "title":"Letter to: Smt. & Sri Sadajiwatlal Chandulal Bahl — April 13, 1976",
+    "description":""
+}
+---
 
 ====== Letter to: Smt. & Sri Sadajiwatlal Chandulal Bahl ======
 

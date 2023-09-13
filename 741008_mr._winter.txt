@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Winter — October 8, 1974~~
-~~bc: Mr. Winter — October 8, 1974~~
+---json
+{
+    "name":"Letter to: Mr. Winter — October 8, 1974",
+    "h1":"Mr. Winter — October 8, 1974",
+    "title":"Letter to: Mr. Winter — October 8, 1974",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Winter ======
 

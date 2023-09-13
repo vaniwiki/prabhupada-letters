@@ -1,5 +1,11 @@
-~~Title: Letter to: Mr. Ogata — June 13, 1975~~
-~~bc: Mr. Ogata — June 13, 1975~~
+---json
+{
+    "name":"Letter to: Mr. Ogata — June 13, 1975",
+    "h1":"Mr. Ogata — June 13, 1975",
+    "title":"Letter to: Mr. Ogata — June 13, 1975",
+    "description":""
+}
+---
 
 ====== Letter to: Mr. Ogata ======
 

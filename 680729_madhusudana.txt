@@ -1,5 +1,11 @@
-~~Title: Letter to: Madhusudana — July 29, 1968~~
-~~bc: Madhusudana — July 29, 1968~~
+---json
+{
+    "name":"Letter to: Madhusudana — July 29, 1968",
+    "h1":"Madhusudana — July 29, 1968",
+    "title":"Letter to: Madhusudana — July 29, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Madhusudana ======
 

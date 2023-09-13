@@ -1,5 +1,11 @@
-~~Title: Letter to: To Whom It May Concern — August 28, 1967~~
-~~bc: To Whom It May Concern — August 28, 1967~~
+---json
+{
+    "name":"Letter to: To Whom It May Concern — August 28, 1967",
+    "h1":"To Whom It May Concern — August 28, 1967",
+    "title":"Letter to: To Whom It May Concern — August 28, 1967",
+    "description":""
+}
+---
 
 ====== Letter to: To Whom It May Concern ======
 

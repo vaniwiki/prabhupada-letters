@@ -1,5 +1,11 @@
-~~Title: Letter to: Bhavananda — Nairobi, January 9, 1972~~
-~~bc: Bhavananda — Nairobi, January 9, 1972~~
+---json
+{
+    "name":"Letter to: Bhavananda — Nairobi, January 9, 1972",
+    "h1":"Bhavananda — Nairobi, January 9, 1972",
+    "title":"Letter to: Bhavananda — Nairobi, January 9, 1972",
+    "description":""
+}
+---
 
 ====== Letter to: Bhavananda ======
 

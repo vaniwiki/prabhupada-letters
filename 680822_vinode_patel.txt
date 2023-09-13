@@ -1,5 +1,11 @@
-~~Title: Letter to: Vinode Patel — August 22, 1968~~
-~~bc: Vinode Patel — August 22, 1968~~
+---json
+{
+    "name":"Letter to: Vinode Patel — August 22, 1968",
+    "h1":"Vinode Patel — August 22, 1968",
+    "title":"Letter to: Vinode Patel — August 22, 1968",
+    "description":""
+}
+---
 
 ====== Letter to: Vinode Patel ======
 

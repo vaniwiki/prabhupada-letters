@@ -1,5 +1,11 @@
-~~Title: Letter to: Turiya (Alice Coltrane) — March 12, 1977~~
-~~bc: Turiya (Alice Coltrane) — March 12, 1977~~
+---json
+{
+    "name":"Letter to: Turiya (Alice Coltrane) — March 12, 1977",
+    "h1":"Turiya (Alice Coltrane) — March 12, 1977",
+    "title":"Letter to: Turiya (Alice Coltrane) — March 12, 1977",
+    "description":""
+}
+---
 
 ====== Letter to: Turiya (Alice Coltrane) ======
 

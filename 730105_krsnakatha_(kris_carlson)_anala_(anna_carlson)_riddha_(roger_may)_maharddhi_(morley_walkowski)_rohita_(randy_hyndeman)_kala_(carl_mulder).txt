@@ -1,5 +1,11 @@
-~~Title: Letter to: Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder) — January 5, 1973~~
-~~bc: Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder) — January 5, 1973~~
+---json
+{
+    "name":"Letter to: Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder) — January 5, 1973",
+    "h1":"Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder) — January 5, 1973",
+    "title":"Letter to: Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder) — January 5, 1973",
+    "description":""
+}
+---
 
 ====== Letter to: Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder) ======
 

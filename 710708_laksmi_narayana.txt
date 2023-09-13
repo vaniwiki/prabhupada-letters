@@ -1,5 +1,11 @@
-~~Title: Letter to: Laksmi Narayana — July 8, 1971~~
-~~bc: Laksmi Narayana — July 8, 1971~~
+---json
+{
+    "name":"Letter to: Laksmi Narayana — July 8, 1971",
+    "h1":"Laksmi Narayana — July 8, 1971",
+    "title":"Letter to: Laksmi Narayana — July 8, 1971",
+    "description":""
+}
+---
 
 ====== Letter to: Laksmi Narayana ======
 
