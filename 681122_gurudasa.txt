@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1968-11-22
-showdate_hidden  : 2023-11-22
-To_letters       : Gurudasa
-Date_letter      : November 22
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Gurudasa,
 
 Please accept my blessings. I am in due receipt of your letter of Nov. 14, 1968, and have noted the contents carefully. And I thank you very much for your good reports from London yatra. It is all very much encouraging to me. Yes, I have received a letter from Mr. Dindayal, and I have replied it as follows:

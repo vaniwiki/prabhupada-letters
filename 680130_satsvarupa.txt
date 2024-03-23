@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1968-01-30
-showdate_hidden  : 2023-01-30
-To_letters       : Satsvarupa
-Date_letter      : January 30
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Allston, Massachusetts
 
 My dear Satsvarupa,

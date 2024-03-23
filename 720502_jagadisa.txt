@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagadisa ======
 
----- dataentry letters ----
-Recipient_hidden : Jagadisa
-ListDate_hidden  : 1972-05-02
-showdate_hidden  : 2023-05-02
-To_letters       : Jagadisa
-Date_letter      : May 2
-Year_letter      : 1972
-Place_letter     : Tokyo
-----
-
 Toronto
 
 My dear Jagadisa,

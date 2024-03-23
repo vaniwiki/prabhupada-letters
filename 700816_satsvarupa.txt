@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1970-08-16
-showdate_hidden  : 2023-08-16
-To_letters       : Satsvarupa
-Date_letter      : August 16
-Year_letter      : 1970
-Place_letter     : Tokyo
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 10th August, 1970, along with a list of schedule for Temple activities. It is very nice program. If you simply follow this program, then the spell of Maya will not be able to enter into your constitution. All Questions and answers are practically given in our books.

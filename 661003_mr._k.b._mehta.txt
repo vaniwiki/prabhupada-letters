@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. K. B. Mehta ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. K. B. Mehta
-ListDate_hidden  : 1966-10-03
-showdate_hidden  : 2023-10-03
-To_letters       : Mr. K. B. Mehta
-Date_letter      : October 3
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Mr. K. B. Mehta\\
 Assistant Manager\\
 Scindia Steam Navigation Company\\

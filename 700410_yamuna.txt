@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna
-ListDate_hidden  : 1970-04-10
-showdate_hidden  : 2023-04-10
-To_letters       : Yamuna
-Date_letter      : April 10
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Yamuna,
 
 Please accept my blessings. I thank you very much for your burfi. It is so nicely made. Lest it go out of stock, I am eating only a very little quantity daily. But how you have made it, if you send the formula, maybe Nanda Kumar or Devananda may be able to prepare it.

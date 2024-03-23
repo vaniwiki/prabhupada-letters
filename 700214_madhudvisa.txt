@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1970-02-14
-showdate_hidden  : 2023-02-14
-To_letters       : Madhudvisa
-Date_letter      : February 14
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated 10 and 12 February, 1970 respectively. I am glad to learn that you are early planning for the upcoming Ratha-yatra festival. In this connection, I have requested the exact date of the festival from India but it has not yet been replied, so you may plan for any suitable date between 20 and 31 July---even if it does not correspond, we have to arrange conveniently, that is allowed.

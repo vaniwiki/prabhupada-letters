@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraja
-ListDate_hidden  : 1974-02-06
-showdate_hidden  : 2023-02-06
-To_letters       : Giriraja
-Date_letter      : February 6
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Bombay\\
 [To Giriraja]
 

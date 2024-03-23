@@ -9,16 +9,6 @@
 
 ====== Letter to: Kim Korstad ======
 
----- dataentry letters ----
-Recipient_hidden : Kim Korstad
-ListDate_hidden  : 1977-04-16
-showdate_hidden  : 2023-04-16
-To_letters       : Kim Korstad
-Date_letter      : April 16
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Kim Korstad,\\
 2622 Third Avenue So.,\\
 Apt. #3, Minneapolis, Minn. 55408 USA

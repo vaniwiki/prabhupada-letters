@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. G. Ghosh ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. G. Ghosh
-ListDate_hidden  : 1977-02-08
-showdate_hidden  : 2023-02-08
-To_letters       : Dr. G. Ghosh
-Date_letter      : February 8
-Year_letter      : 1977
-Place_letter     : Mayapur
-----
-
 22 Minto, Allahabad 1, U.P.
 
 P.O. Sree Dham Mayapur\\

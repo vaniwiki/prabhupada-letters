@@ -9,16 +9,6 @@
 
 ====== Letter to: Babhru ======
 
----- dataentry letters ----
-Recipient_hidden : Babhru
-ListDate_hidden  : 1973-12-09
-showdate_hidden  : 2023-12-09
-To_letters       : Babhru
-Date_letter      : December 9
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Babhru,
 
 Please accept my blessings. I am in receipt of your letter dated December 8th along with the $20.00 Guru daksina.

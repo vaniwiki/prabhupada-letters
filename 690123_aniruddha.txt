@@ -9,16 +9,6 @@
 
 ====== Letter to: Aniruddha ======
 
----- dataentry letters ----
-Recipient_hidden : Aniruddha
-ListDate_hidden  : 1969-01-23
-showdate_hidden  : 2023-01-23
-To_letters       : Aniruddha
-Date_letter      : January 23
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Aniruddha,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 22, 1969, and I have carefully noted the contents. I can understand from your letter that there has been some disagreements or misunderstandings in the temple, but I think that you should know that all such disturbances must be solved peacefully and with consideration of the entire situation. Cidananda is the president there, and I think you understand rightly that everyone must cooperate with him in keeping the temple nicely and without any unnecessary tensions.

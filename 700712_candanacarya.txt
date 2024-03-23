@@ -9,16 +9,6 @@
 
 ====== Letter to: Candanacarya ======
 
----- dataentry letters ----
-Recipient_hidden : Candanacarya
-ListDate_hidden  : 1970-07-12
-showdate_hidden  : 2023-07-12
-To_letters       : Candanacarya
-Date_letter      : July 12
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Boston
 
 My dear Candanacarya,

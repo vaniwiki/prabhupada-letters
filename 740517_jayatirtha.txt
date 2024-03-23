@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1974-05-17
-showdate_hidden  : 2023-05-17
-To_letters       : Jayatirtha
-Date_letter      : May 17
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Los Angeles
 
 My dear Jayatirtha,

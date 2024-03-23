@@ -9,16 +9,6 @@
 
 ====== Letter to: Sripad Narayana Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : Sripad Narayana Maharaja
-ListDate_hidden  : 1967-07-14
-showdate_hidden  : 2023-07-14
-To_letters       : Sripad Narayana Maharaja
-Date_letter      : July 14
-Year_letter      : 1967
-Place_letter     : California
-----
-
 "Sri Sri Guru Gauranga Jayatho"
 
 A.C. Bhaktivedanta Swami\\

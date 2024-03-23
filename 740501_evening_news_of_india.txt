@@ -9,16 +9,6 @@
 
 ====== Letter to: Evening News of India ======
 
----- dataentry letters ----
-Recipient_hidden : Evening News of India
-ListDate_hidden  : 1974-05-01
-showdate_hidden  : 2023-05-01
-To_letters       : Evening News of India
-Date_letter      : May 1
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Advertiser\\
 Box 25854\\
 Evening News of India\\

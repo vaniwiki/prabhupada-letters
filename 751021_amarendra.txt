@@ -9,16 +9,6 @@
 
 ====== Letter to: Amarendra ======
 
----- dataentry letters ----
-Recipient_hidden : Amarendra
-ListDate_hidden  : 1975-10-21
-showdate_hidden  : 2023-10-21
-To_letters       : Amarendra
-Date_letter      : October 21
-Year_letter      : 1975
-Place_letter     : Johannesburg
-----
-
 Gainesville
 
 My dear Amarendra dasa,

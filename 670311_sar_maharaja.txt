@@ -9,16 +9,6 @@
 
 ====== Letter to: Sar Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : Sar Maharaja
-ListDate_hidden  : 1967-03-11
-showdate_hidden  : 2023-03-11
-To_letters       : Sar Maharaja
-Date_letter      : March 11
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Sripada Sar Maharaja,
 
 Please accept my humble obeisances at your lotus feet. I am in receipt of your letter dated February 20,1967. I am so much thankful to you all for encouraging me in my humble attempt to preach the message of srila Prabhupada in this part of the world. I am sure to be successful if I am blessed by you all Vaisnavas.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. W.H. Wolf-Rottkay ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. W.H. Wolf-Rottkay
-ListDate_hidden  : 1975-11-21
-showdate_hidden  : 2023-11-21
-To_letters       : Dr. W.H. Wolf-Rottkay
-Date_letter      : November 21
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Dr. W.H. Wolf-Rottkey\\
 12915 Venice Blvd., Apt. 37\\
 Los Angeles (Marvista), California 90066

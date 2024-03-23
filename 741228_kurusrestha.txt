@@ -9,16 +9,6 @@
 
 ====== Letter to: Kurusrestha ======
 
----- dataentry letters ----
-Recipient_hidden : Kurusrestha
-ListDate_hidden  : 1974-12-28
-showdate_hidden  : 2023-12-28
-To_letters       : Kurusrestha
-Date_letter      : December 28
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Denver
 
 My dear Kurusrestha,

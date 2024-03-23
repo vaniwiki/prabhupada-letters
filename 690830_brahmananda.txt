@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1969-08-30
-showdate_hidden  : 2023-08-30
-To_letters       : Brahmananda
-Date_letter      : August 30
-Year_letter      : 1969
-Place_letter     : Hamburg
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 25th August 1969, and I have noted the contents. Regarding Hayagriva and Satsvarupa, I think they can become joint editors, and articles to be published in __BTG__ may be jointly decided upon. In case of disagreement the matter should be referred to me, and I shall give the final decision. When Hayagriva comes here I shall talk with him in detail. So your idea of them working jointly is nice.

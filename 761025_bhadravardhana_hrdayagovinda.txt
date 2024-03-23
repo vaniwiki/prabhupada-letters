@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhadravardhana, Hrdayagovinda ======
 
----- dataentry letters ----
-Recipient_hidden : Bhadravardhana, Hrdayagovinda
-ListDate_hidden  : 1976-10-25
-showdate_hidden  : 2023-10-25
-To_letters       : Bhadravardhana, Hrdayagovinda
-Date_letter      : October 25
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear Bhadravardhana and Hrdayagovinda,
 
 Please accept my blessings. I am in receipt of your letter dated October 1, 1976 along with a check for $350. Thank you very much.

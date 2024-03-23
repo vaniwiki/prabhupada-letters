@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1970-11-16
-showdate_hidden  : 2023-11-16
-To_letters       : Jadurani
-Date_letter      : November 16
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Daughter Jadurani,
 
 Please accept my blessings. I am in due receipt of your two letters dated October 31st and November 11th, 1970.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dharmatma ======
 
----- dataentry letters ----
-Recipient_hidden : Dharmatma
-ListDate_hidden  : 1976-12-23
-showdate_hidden  : 2023-12-23
-To_letters       : Dharmatma
-Date_letter      : December 23
-Year_letter      : 1976
-Place_letter     : Bombay
-----
-
 My dear Dharmatma,
 
 Please accept my blessings. I am in due receipt of your letter dated November 28, 1976.

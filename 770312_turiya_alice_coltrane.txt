@@ -9,16 +9,6 @@
 
 ====== Letter to: Turiya (Alice Coltrane) ======
 
----- dataentry letters ----
-Recipient_hidden : Turiya (Alice Coltrane)
-ListDate_hidden  : 1977-03-12
-showdate_hidden  : 2023-03-12
-To_letters       : Turiya (Alice Coltrane)
-Date_letter      : March 12
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Turiya (Alice Coltrane)\\
 c/o Ramesvara Swami\\
 ISKCON\\

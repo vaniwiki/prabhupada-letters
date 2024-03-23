@@ -9,16 +9,6 @@
 
 ====== Letter to: Bank of America ======
 
----- dataentry letters ----
-Recipient_hidden : Bank of America
-ListDate_hidden  : 1977-05-07
-showdate_hidden  : 2023-05-07
-To_letters       : Bank of America
-Date_letter      : May 7
-Year_letter      : 1977
-Place_letter     : India
-----
-
 Bank of America\\
 Culver City Branch\\
 Los Angeles, California

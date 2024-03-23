@@ -9,16 +9,6 @@
 
 ====== Letter to: Himavati ======
 
----- dataentry letters ----
-Recipient_hidden : Himavati
-ListDate_hidden  : 1968-06-14
-showdate_hidden  : 2023-06-14
-To_letters       : Himavati
-Date_letter      : June 14
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 My dear Himavati,
 
 Please accept my blessings. And offer the same to your good husband. I was so glad to receive the two caps which are very nicely made fitting to my skull, and I am enjoying it everyday in the morning, and when I walk on the street they all look at me due to your cap. Not only your cap but also I am enjoying the shirt made by you. And Lord Jagannatha is also enjoying similarly with cap and __ghagara.__ So Krishna has given you a very good talent and you are sewing expert.

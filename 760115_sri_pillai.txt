@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Pillai ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Pillai
-ListDate_hidden  : 1976-01-15
-showdate_hidden  : 2023-01-15
-To_letters       : Sri Pillai
-Date_letter      : January 15
-Year_letter      : 1976
-Place_letter     : Calcutta
-----
-
 ABC Model House\\
 Bombay
 

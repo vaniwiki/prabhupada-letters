@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1968-11-24
-showdate_hidden  : 2023-11-24
-To_letters       : Hansadutta
-Date_letter      : November 24
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Hansadutta,
 
 Please accept my blessing to yourself and your good wife, Himavati. I have read with pleasure your letter of November 18th and have noted the contents carefully.

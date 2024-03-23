@@ -9,16 +9,6 @@
 
 ====== Letter to: All Temple Presidents ======
 
----- dataentry letters ----
-Recipient_hidden : All Temple Presidents
-ListDate_hidden  : 1975-01-09
-showdate_hidden  : 2023-01-09
-To_letters       : All Temple Presidents
-Date_letter      : January 9
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Temple Presidents\\
 All ISKCON Centers
 

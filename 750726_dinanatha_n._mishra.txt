@@ -9,16 +9,6 @@
 
 ====== Letter to: Dinanatha N. Mishra ======
 
----- dataentry letters ----
-Recipient_hidden : Dinanatha N. Mishra
-ListDate_hidden  : 1975-07-26
-showdate_hidden  : 2023-07-26
-To_letters       : Dinanatha N. Mishra
-Date_letter      : July 26
-Year_letter      : 1975
-Place_letter     : Laguna Beach
-----
-
 Sriman D.N. Mishra\\
 179, Balarama Dey Street\\
 Calcutta-6

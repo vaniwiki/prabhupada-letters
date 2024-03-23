@@ -9,16 +9,6 @@
 
 ====== Letter to: Robert, Karen ======
 
----- dataentry letters ----
-Recipient_hidden : Robert, Karen
-ListDate_hidden  : 1970-04-19
-showdate_hidden  : 2023-04-19
-To_letters       : Robert, Karen
-Date_letter      : April 19
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 New Vrindaban
 
 My dear Robert and Karen,

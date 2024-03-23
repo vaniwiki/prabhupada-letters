@@ -9,16 +9,6 @@
 
 ====== Letter to: Dayananda, Nandarani, Uddhava ======
 
----- dataentry letters ----
-Recipient_hidden : Dayananda, Nandarani, Uddhava
-ListDate_hidden  : 1967-09-20
-showdate_hidden  : 2023-09-20
-To_letters       : Dayananda, Nandarani, Uddhava
-Date_letter      : September 20
-Year_letter      : 1967
-Place_letter     : Delhi
-----
-
 Los Angeles
 
 My dear Dayananda, Nandarani and Uddhavadas,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Dharwarkar ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Dharwarkar
-ListDate_hidden  : 1966-02-16
-showdate_hidden  : 2023-02-16
-To_letters       : Mr. Dharwarkar
-Date_letter      : February 16
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Messrs. Universal Book House\\
 Sita Sadan Top Floor\\
 Tulsi Pipe Road, Dadar\\

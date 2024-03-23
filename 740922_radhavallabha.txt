@@ -9,16 +9,6 @@
 
 ====== Letter to: Radhavallabha ======
 
----- dataentry letters ----
-Recipient_hidden : Radhavallabha
-ListDate_hidden  : 1974-09-22
-showdate_hidden  : 2023-09-22
-To_letters       : Radhavallabha
-Date_letter      : September 22
-Year_letter      : 1974
-Place_letter     : Calcutta
-----
-
 Brooklyn
 
 My dear Radhavallabha Das:

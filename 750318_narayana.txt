@@ -9,16 +9,6 @@
 
 ====== Letter to: Narayana ======
 
----- dataentry letters ----
-Recipient_hidden : Narayana
-ListDate_hidden  : 1975-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Narayana
-Date_letter      : March 18
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 San Jose, Costa Rica
 
 My dear Narayana Dasa,

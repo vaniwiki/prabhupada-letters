@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagadananda ======
 
----- dataentry letters ----
-Recipient_hidden : Jagadananda
-ListDate_hidden  : 1977-05-11
-showdate_hidden  : 2023-05-11
-To_letters       : Jagadananda
-Date_letter      : May 11
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sri Chaudhury Jagannath Prasad Dash,\\
 Sub-Assistant Engineer,\\
 Nuasahi, Nayapalli,\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sriman A. D. Bhende ======
 
----- dataentry letters ----
-Recipient_hidden : Sriman A. D. Bhende
-ListDate_hidden  : 1974-03-26
-showdate_hidden  : 2023-03-26
-To_letters       : Sriman A. D. Bhende
-Date_letter      : March 26
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Bombay
 
 Dear Sriman A.D. Bhende;

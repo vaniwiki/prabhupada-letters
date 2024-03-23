@@ -9,16 +9,6 @@
 
 ====== Letter to: Amogha ======
 
----- dataentry letters ----
-Recipient_hidden : Amogha
-ListDate_hidden  : 1972-07-15
-showdate_hidden  : 2023-07-15
-To_letters       : Amogha
-Date_letter      : July 15
-Year_letter      : 1972
-Place_letter     : London
-----
-
 Melbourne
 
 My dear Amogha,

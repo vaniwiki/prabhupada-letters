@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1969-04-10
-showdate_hidden  : 2023-04-10
-To_letters       : Satsvarupa
-Date_letter      : April 10
-Year_letter      : 1969
-Place_letter     : New York
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 5, 1969, and I have noted the contents carefully. I shall reach Boston Iskcon on the 23rd of April, and you can make arrangements accordingly. I have read your transcriptions of the __Krishna__ tapes, and you are doing it very nicely. I am very much pleased with your efforts.

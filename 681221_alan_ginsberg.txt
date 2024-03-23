@@ -9,16 +9,6 @@
 
 ====== Letter to: Alan Ginsberg ======
 
----- dataentry letters ----
-Recipient_hidden : Alan Ginsberg
-ListDate_hidden  : 1968-12-21
-showdate_hidden  : 2023-12-21
-To_letters       : Alan Ginsberg
-Date_letter      : December 21
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Mr. Ginsberg,
 
 Please accept my blessings. I was much aggrieved to hear the news of your accident and I was very anxious to learn that you are lying now in the hospital. I hope that you are progressing nicely but in any condition I request that you continue to chant the Maha Mantra, Hare Krishna. Here is a chance for you to chant Hare Krishna exclusively in the hospital bed.

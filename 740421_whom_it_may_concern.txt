@@ -9,16 +9,6 @@
 
 ====== Letter to: Whom it may concern ======
 
----- dataentry letters ----
-Recipient_hidden : Whom it may concern
-ListDate_hidden  : 1974-04-21
-showdate_hidden  : 2023-04-21
-To_letters       : Whom it may concern
-Date_letter      : April 21
-Year_letter      : 1974
-Place_letter     : Hyderabad
-----
-
 To Whom It May Concern;
 
 This is to clarify and confirm the position of the Hawaii branch of the International Society for Krishna Consciousness of which I am the founder and spiritual master. The president of my Hawaii branch is Mr. Brent Selden. He is my authorized representative for any matters of land ownership or sale in the name of the International Society for Krishna Consciousness in Hawaii. I have been informed of unauthorized attempts to sell land there which is legally owned by the International Society for Krishna Consciousness. Unless transactions are authorized by my duly appointed representative, Mr. Brent Selden, they are illegal.

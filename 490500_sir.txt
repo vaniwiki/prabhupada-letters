@@ -9,16 +9,6 @@
 
 ====== Letter to: Sir ======
 
----- dataentry letters ----
-Recipient_hidden : Sir
-ListDate_hidden  : 1949-05-00
-showdate_hidden  : 2023-05-00
-To_letters       : Sir
-Date_letter      : May
-Year_letter      : 1949
-Place_letter     : Calcutta
-----
-
 Dear Sir,
 
 On the conclusion of the All Religious Conference held at Bombay very recently, I may submit that nothing practical has come out of it for uniting the different faiths of the world. The practical solution is lying in the transcendental message of Sri Krishna the Personality of Godhead as given by Him lately in the Bhagavad-gita.

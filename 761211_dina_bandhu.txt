@@ -9,16 +9,6 @@
 
 ====== Letter to: Dina Bandhu ======
 
----- dataentry letters ----
-Recipient_hidden : Dina Bandhu
-ListDate_hidden  : 1976-12-11
-showdate_hidden  : 2023-12-11
-To_letters       : Dina Bandhu
-Date_letter      : December 11
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Portland
 
 My dear Dina Bandhu,

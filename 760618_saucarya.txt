@@ -9,16 +9,6 @@
 
 ====== Letter to: Saucarya ======
 
----- dataentry letters ----
-Recipient_hidden : Saucarya
-ListDate_hidden  : 1976-06-18
-showdate_hidden  : 2023-06-18
-To_letters       : Saucarya
-Date_letter      : June 18
-Year_letter      : 1976
-Place_letter     : Iskcon Toronto
-----
-
 My dear daughter, (Soucharya devi dasi)
 
 Please accept my blessings. I am in due receipt of your letter dated June 18, 1976 and I have received your two checks. Thank you very much.

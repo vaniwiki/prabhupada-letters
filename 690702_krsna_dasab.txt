@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna dasa
-ListDate_hidden  : 1969-07-02
-showdate_hidden  : 2023-07-02
-To_letters       : Krsna dasa
-Date_letter      : July 2
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Krishna Das,
 
 Please accept my blessings. Please let me know why Sivananda is leaving Hamburg all of a sudden. I am surprised please enlighten me,

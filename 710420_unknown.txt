@@ -9,16 +9,6 @@
 
 ====== Letter to: Unknown ======
 
----- dataentry letters ----
-Recipient_hidden : Unknown
-ListDate_hidden  : 1971-04-20
-showdate_hidden  : 2023-04-20
-To_letters       : Unknown
-Date_letter      : April 20
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 __SUBJECT MATTER:__ Extension of stay in India for my disciples.
 
 Dear

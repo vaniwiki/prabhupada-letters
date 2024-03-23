@@ -9,16 +9,6 @@
 
 ====== Letter to: Mike Gabbard ======
 
----- dataentry letters ----
-Recipient_hidden : Mike Gabbard
-ListDate_hidden  : 1977-02-18
-showdate_hidden  : 2023-02-18
-To_letters       : Mike Gabbard
-Date_letter      : February 18
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Mr. Mike Gabbard\\
 P.O. Box B\\
 Pago Pago, American Samoa 96799

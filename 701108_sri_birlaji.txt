@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Birlaji ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Birlaji
-ListDate_hidden  : 1970-11-08
-showdate_hidden  : 2023-11-08
-To_letters       : Sri Birlaji
-Date_letter      : November 8
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 Birla House\\
 Bombay
 

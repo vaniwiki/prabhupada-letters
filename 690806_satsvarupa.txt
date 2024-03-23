@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1969-08-06
-showdate_hidden  : 2023-08-06
-To_letters       : Satsvarupa
-Date_letter      : August 6
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. In further reference to your letter of August 2, 1969, now that you have procured this big house, I think it will be ideal for beginning our printing department in Boston immediately. You have written that there are two big halls, so do you think one of these halls will be nice for printing machines and workshop? You may immediately write to Advaita and Vaikunthanatha in New York and invite them to go there to Boston to begin printing operations.

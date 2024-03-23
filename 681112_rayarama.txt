@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1968-11-12
-showdate_hidden  : 2023-11-12
-To_letters       : Rayarama
-Date_letter      : November 12
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Rayarama,
 
 Please accept my blessings. Regarding your calendar dates, I have already written to the following Sannyasis to send you the calendar dates. If you have not received them, then please remind them. Their addresses are as follows:

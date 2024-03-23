@@ -9,16 +9,6 @@
 
 ====== Letter to: Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Govinda
-ListDate_hidden  : 1973-03-11
-showdate_hidden  : 2023-03-11
-To_letters       : Govinda
-Date_letter      : March 11
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 My dear Govinda dasi:
 
 Please accept my blessings and I beg to acknowledge receipt of your letter dated the 24th February 1973.

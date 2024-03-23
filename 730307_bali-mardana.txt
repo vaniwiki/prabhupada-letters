@@ -9,16 +9,6 @@
 
 ====== Letter to: Bali-mardana ======
 
----- dataentry letters ----
-Recipient_hidden : Bali-mardana
-ListDate_hidden  : 1973-03-07
-showdate_hidden  : 2023-03-07
-To_letters       : Bali-mardana
-Date_letter      : March 7
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 New York
 
 My dear Bali-mardana Maharaja:

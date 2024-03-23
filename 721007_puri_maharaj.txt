@@ -9,16 +9,6 @@
 
 ====== Letter to: Puri Maharaj ======
 
----- dataentry letters ----
-Recipient_hidden : Puri Maharaj
-ListDate_hidden  : 1972-10-07
-showdate_hidden  : 2023-10-07
-To_letters       : Puri Maharaj
-Date_letter      : October 7
-Year_letter      : 1972
-Place_letter     : San Francisco
-----
-
 ISKCON San Francisco
 
 My dear Puri Maharaj,

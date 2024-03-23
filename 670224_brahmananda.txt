@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1967-02-24
-showdate_hidden  : 2023-02-24
-To_letters       : Brahmananda
-Date_letter      : February 24
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Brahmananda,
 
 Please accept blessings. Hope you are all doing well. I have not as yet received from you the reply of my letter in which I suggested to negotiate with Mr. Taylor on hire-purchase-scheme which is equally good for Mr. Taylor as well as ourselves. In the meantime I have received one letter from Kirtanananda asking for $200.00 for Montreal and has also suggested as follows:

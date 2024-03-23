@@ -9,16 +9,6 @@
 
 ====== Letter to: Gwalior Tank Branch ======
 
----- dataentry letters ----
-Recipient_hidden : Gwalior Tank Branch
-ListDate_hidden  : 1972-12-14
-showdate_hidden  : 2023-12-14
-To_letters       : Gwalior Tank Branch
-Date_letter      : December 14
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Dear sir,
 
 Re. Our Account No. 14538

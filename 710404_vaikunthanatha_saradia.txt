@@ -9,16 +9,6 @@
 
 ====== Letter to: Vaikunthanatha, Saradia ======
 
----- dataentry letters ----
-Recipient_hidden : Vaikunthanatha, Saradia
-ListDate_hidden  : 1971-04-04
-showdate_hidden  : 2023-04-04
-To_letters       : Vaikunthanatha, Saradia
-Date_letter      : April 4
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Georgetown, Guyana
 
 My dear Vaikunthanatha and Saradia,

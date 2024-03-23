@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1973-04-11
-showdate_hidden  : 2023-04-11
-To_letters       : Jayapataka
-Date_letter      : April 11
-Year_letter      : 1973
-Place_letter     : New York
-----
-
 My dear Jayapataka Maharaja:
 
 Please accept my blessings. I may request you to send me some of that bitter melon that you are growing there. You take some of that bitter and cut into pieces and dry it, then send. The day after tomorrow I am starting for Los Angeles, so send to me there.

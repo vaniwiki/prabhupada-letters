@@ -9,16 +9,6 @@
 
 ====== Letter to: Ananda ======
 
----- dataentry letters ----
-Recipient_hidden : Ananda
-ListDate_hidden  : 1968-12-12
-showdate_hidden  : 2023-12-12
-To_letters       : Ananda
-Date_letter      : December 12
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Vancouver
 
 My dear Ananda Das,

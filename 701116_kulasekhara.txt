@@ -9,16 +9,6 @@
 
 ====== Letter to: Kulasekhara ======
 
----- dataentry letters ----
-Recipient_hidden : Kulasekhara
-ListDate_hidden  : 1970-11-16
-showdate_hidden  : 2023-11-16
-To_letters       : Kulasekhara
-Date_letter      : November 16
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 London
 
 My dear Kulasekhara,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. W.H. Wolf-Rottkay ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. W.H. Wolf-Rottkay
-ListDate_hidden  : 1976-10-14
-showdate_hidden  : 2023-10-14
-To_letters       : Dr. W.H. Wolf-Rottkay
-Date_letter      : October 14
-Year_letter      : 1976
-Place_letter     : Chandigarh
-----
-
 My dear Dr. W.H. Wolf-Rottkay,
 
 Please accept my blessings. I am in receipt of your letter dated September 27th and October 3, 1976, I have noted the contents carefully.

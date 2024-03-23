@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1970-04-30
-showdate_hidden  : 2023-04-30
-To_letters       : Jayapataka
-Date_letter      : April 30
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Jaya Pataka,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 21st April, 1970.

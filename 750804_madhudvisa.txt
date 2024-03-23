@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1975-08-04
-showdate_hidden  : 2023-08-04
-To_letters       : Madhudvisa
-Date_letter      : August 4
-Year_letter      : 1975
-Place_letter     : Detroit
-----
-
 Melbourne
 
 My dear Madhudvisa Swami:

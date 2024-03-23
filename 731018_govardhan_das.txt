@@ -9,16 +9,6 @@
 
 ====== Letter to: Govardhan Das ======
 
----- dataentry letters ----
-Recipient_hidden : Govardhan Das
-ListDate_hidden  : 1973-10-18
-showdate_hidden  : 2023-10-18
-To_letters       : Govardhan Das
-Date_letter      : October 18
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 My dear Govardhan Das:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 12, 1973 and have noted the contents. So far the new disciples are concerned, I am accepting on your recommendation the following as my initiated disciples:

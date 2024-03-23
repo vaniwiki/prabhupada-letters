@@ -9,16 +9,6 @@
 
 ====== Letter to: Sudama ======
 
----- dataentry letters ----
-Recipient_hidden : Sudama
-ListDate_hidden  : 1972-02-28
-showdate_hidden  : 2023-02-28
-To_letters       : Sudama
-Date_letter      : February 28
-Year_letter      : 1972
-Place_letter     : Mayapur
-----
-
 My dear Sudama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters of February 15 and 18, 1972, and I am very much glad that you are arranging so many important programs for when I shall come to Japan. Tentatively, I shall leave India by end of March and I want to spend one to two weeks in Australia, Hong Kong Tokyo, Honolulu, then reach Los Angeles by late Spring. Therefore I shall probably reach Tokyo as you have planned about end of April. But I see that you have planned a much longer program than for two weeks. If the programs are very important, then I have no objection to staying longer there. But if you can arrange for all important programs to be organized in such a way that they shall be one after the other within shorter time, that is better. I especially like your idea to speak to many students, and if they are important meetings, I have no objection to travelling to other cities in Japan, but I shall appreciate if the meetings are scheduled within shorter time and more frequently.

@@ -9,16 +9,6 @@
 
 ====== Letter to: V.V. Mirashi ======
 
----- dataentry letters ----
-Recipient_hidden : V.V. Mirashi
-ListDate_hidden  : 1977-04-16
-showdate_hidden  : 2023-04-16
-To_letters       : V.V. Mirashi
-Date_letter      : April 16
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Shri V.V. Mirashi\\
 Retired Professor of Sanskrit\\
 Vidarbha Samshodhan Mandal,\\

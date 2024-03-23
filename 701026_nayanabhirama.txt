@@ -9,16 +9,6 @@
 
 ====== Letter to: Nayanabhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Nayanabhirama
-ListDate_hidden  : 1970-10-26
-showdate_hidden  : 2023-10-26
-To_letters       : Nayanabhirama
-Date_letter      : October 26
-Year_letter      : 1970
-Place_letter     : Amritsar
-----
-
 Philadelphia
 
 My dear Nayana Bhirama,

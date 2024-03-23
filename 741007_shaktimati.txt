@@ -9,16 +9,6 @@
 
 ====== Letter to: Shaktimati ======
 
----- dataentry letters ----
-Recipient_hidden : Shaktimati
-ListDate_hidden  : 1974-10-07
-showdate_hidden  : 2023-10-07
-To_letters       : Shaktimati
-Date_letter      : October 7
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Nairobi
 
 My dear Shakti Mati devi dasi:

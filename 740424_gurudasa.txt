@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1974-04-24
-showdate_hidden  : 2023-04-24
-To_letters       : Gurudasa
-Date_letter      : April 24
-Year_letter      : 1974
-Place_letter     : Hyderabad
-----
-
 Vrindaban
 
 Dear Gurudasa,

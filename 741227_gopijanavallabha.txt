@@ -9,16 +9,6 @@
 
 ====== Letter to: Gopijanavallabha ======
 
----- dataentry letters ----
-Recipient_hidden : Gopijanavallabha
-ListDate_hidden  : 1974-12-27
-showdate_hidden  : 2023-12-27
-To_letters       : Gopijanavallabha
-Date_letter      : December 27
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Brooklyn
 
 My dear Gopijanavallabha

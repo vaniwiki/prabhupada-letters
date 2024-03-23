@@ -9,16 +9,6 @@
 
 ====== Letter to: Lalita Prasad Thakura ======
 
----- dataentry letters ----
-Recipient_hidden : Lalita Prasad Thakura
-ListDate_hidden  : 1972-03-04
-showdate_hidden  : 2023-03-04
-To_letters       : Lalita Prasad Thakura
-Date_letter      : March 4
-Year_letter      : 1972
-Place_letter     : Calcutta
-----
-
 His Divine Grace Lalita Prasad Thakura\\
 Bhaktivinode Institute\\
 Ulla-Birnagar, Nadia dist., W. Bengal

@@ -9,16 +9,6 @@
 
 ====== Letter to: Bir Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Bir Krsna
-ListDate_hidden  : 1977-02-10
-showdate_hidden  : 2023-02-10
-To_letters       : Bir Krsna
-Date_letter      : February 10
-Year_letter      : 1977
-Place_letter     : Mayapur
-----
-
 Caracas
 
 Dear Bir Krsna,

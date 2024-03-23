@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Tikandas J. Batra ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Tikandas J. Batra
-ListDate_hidden  : 1976-01-26
-showdate_hidden  : 2023-01-26
-To_letters       : Sri Tikandas J. Batra
-Date_letter      : January 26
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Sri Tikandas J. Batra\\
 Bombay
 

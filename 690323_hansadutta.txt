@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1969-03-23
-showdate_hidden  : 2023-03-23
-To_letters       : Hansadutta
-Date_letter      : March 23
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Hansadutta,
 
 Please accept my blessings. I am duly in receipt of your letter of March 18, 1969, and I thank you very much for it. Yes, I have written Dayala Nitai in connection with the yoga magazine, and you can keep me informed on this matter. Please try to run on smoothly as is possible.

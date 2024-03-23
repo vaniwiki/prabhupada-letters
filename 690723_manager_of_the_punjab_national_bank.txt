@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of The Punjab National Bank ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of The Punjab National Bank
-ListDate_hidden  : 1969-07-23
-showdate_hidden  : 2023-07-23
-To_letters       : Manager of The Punjab National Bank
-Date_letter      : July 23
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Manager\\
 The Punjab National Bank Ltd.\\
 Brabourne Road Branch\\

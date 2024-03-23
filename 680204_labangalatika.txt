@@ -9,16 +9,6 @@
 
 ====== Letter to: Labangalatika ======
 
----- dataentry letters ----
-Recipient_hidden : Labangalatika
-ListDate_hidden  : 1968-02-04
-showdate_hidden  : 2023-02-04
-To_letters       : Labangalatika
-Date_letter      : February 4
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 New York
 
 My dear Labangalatika dasi,

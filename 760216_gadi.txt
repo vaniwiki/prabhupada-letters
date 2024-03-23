@@ -9,16 +9,6 @@
 
 ====== Letter to: Gadi ======
 
----- dataentry letters ----
-Recipient_hidden : Gadi
-ListDate_hidden  : 1976-02-16
-showdate_hidden  : 2023-02-16
-To_letters       : Gadi
-Date_letter      : February 16
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Gainesville
 
 My dear Gadi das,

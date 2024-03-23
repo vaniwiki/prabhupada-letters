@@ -9,16 +9,6 @@
 
 ====== Letter to: Rajendra Sahai ======
 
----- dataentry letters ----
-Recipient_hidden : Rajendra Sahai
-ListDate_hidden  : 1977-02-08
-showdate_hidden  : 2023-02-08
-To_letters       : Rajendra Sahai
-Date_letter      : February 8
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Rajendra Sahai \\
 Maswani, Bhakti Bhawan\\
 Fatehpur, U.P.

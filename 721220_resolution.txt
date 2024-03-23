@@ -9,16 +9,6 @@
 
 ====== Resolution ======
 
----- dataentry letters ----
-Recipient_hidden : Resolution
-ListDate_hidden  : 1972-12-20
-showdate_hidden  : 2023-12-20
-To_letters       : Resolution
-Date_letter      : December 20
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 __RESOLUTION:__
 
 At a meeting of the Bureau of the International Society for Krishna Consciousness held at A-11 Sea Face Park, 50, B. Desai Road, __Bombay-26,__ on the 20th December, 1972, the following was resolved:

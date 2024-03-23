@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1969-01-11
-showdate_hidden  : 2023-01-11
-To_letters       : Gargamuni
-Date_letter      : January 11
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Gargamuni,
 
 Please accept my blessings. I am in due receipt of your letter of January 1, 1969 and it is very gratifying to know that Krishna has again engaged you in your own business. When you went to your father sometimes I was thinking whether I have not spoiled the career of this boy, but still I wanted to give your father a chance so he would not think that two of his boys are lost in the Krishna Consciousness movement. So it was Krishna's dictation that you went to your father for full cooperation, but he did not respond. Now you are free. I think that the talent which you have got for doing business will help our cause more than what you could have done at the custody of your father.

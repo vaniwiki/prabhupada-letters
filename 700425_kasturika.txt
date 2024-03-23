@@ -9,16 +9,6 @@
 
 ====== Letter to: Kasturika ======
 
----- dataentry letters ----
-Recipient_hidden : Kasturika
-ListDate_hidden  : 1970-04-25
-showdate_hidden  : 2023-04-25
-To_letters       : Kasturika
-Date_letter      : April 25
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Daughter Kasturikadevi Dasi (Janet Armano),
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 13th April, 1970, and now I have just received your new set of beads. Thank you very much for your nice letter.

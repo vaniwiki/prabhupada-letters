@@ -9,15 +9,6 @@
 
 ====== Letter to: Unknown ======
 
----- dataentry letters ----
-Recipient_hidden : Unknown
-ListDate_hidden  : 19
-To_letters       : Unknown
-Date_letter      : Unknown
-Year_letter      : 
-Place_letter     : Unknown
-----
-
 Bio data\\
 Previous name:    Sankara Pyne\\
 Mira Pyne\\

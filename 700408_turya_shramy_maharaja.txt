@@ -9,16 +9,6 @@
 
 ====== Letter to: Turya Shramy Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : Turya Shramy Maharaja
-ListDate_hidden  : 1970-04-08
-showdate_hidden  : 2023-04-08
-To_letters       : Turya Shramy Maharaja
-Date_letter      : April 8
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 His Holiness Swami\\
 B.S. Turya Shramy Maharaja\\
 Sri Radha Gobinda Gaudiya Math\\

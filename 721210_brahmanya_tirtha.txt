@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmanya Tirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmanya Tirtha
-ListDate_hidden  : 1972-12-10
-showdate_hidden  : 2023-12-10
-To_letters       : Brahmanya Tirtha
-Date_letter      : December 10
-Year_letter      : 1972
-Place_letter     : Ahmedabad
-----
-
 New Orleans\\
 [To Brahmanya Tirtha]
 

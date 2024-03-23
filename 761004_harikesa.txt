@@ -9,16 +9,6 @@
 
 ====== Letter to: Harikesa ======
 
----- dataentry letters ----
-Recipient_hidden : Harikesa
-ListDate_hidden  : 1976-10-04
-showdate_hidden  : 2023-10-04
-To_letters       : Harikesa
-Date_letter      : October 4
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Germany
 
 My dear Harikesa,

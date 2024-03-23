@@ -9,16 +9,6 @@
 
 ====== Letter to: Brothers ======
 
----- dataentry letters ----
-Recipient_hidden : Brothers
-ListDate_hidden  : 1955-01-01
-showdate_hidden  : 2023-01-01
-To_letters       : Brothers
-Date_letter      : January 1
-Year_letter      : 1955
-Place_letter     : Allahabad
-----
-
 __1st form No-1.\\
 The circular letter addressing as "Dear Brother"\\
 to be sent along with the Prospectus by book Post__\\

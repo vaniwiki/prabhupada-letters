@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph ======
 
----- dataentry letters ----
-Recipient_hidden : Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph
-ListDate_hidden  : 1974-05-16
-showdate_hidden  : 2023-05-16
-To_letters       : Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph
-Date_letter      : May 16
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Nairobi
 
 My dear Bhima dasa, Krsna Das, Sanat Kumara, Nityananda, Samba and Joseph,

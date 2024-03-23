@@ -9,16 +9,6 @@
 
 ====== Letter to: Thakura Haridasa ======
 
----- dataentry letters ----
-Recipient_hidden : Thakura Haridasa
-ListDate_hidden  : 1973-01-28
-showdate_hidden  : 2023-01-28
-To_letters       : Thakura Haridasa
-Date_letter      : January 28
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 Los Angeles
 
 My dear Thakura Haridasa,

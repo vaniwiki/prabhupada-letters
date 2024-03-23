@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Mukherjee ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Mukherjee
-ListDate_hidden  : 1976-07-14
-showdate_hidden  : 2023-07-14
-To_letters       : Mr. Mukherjee
-Date_letter      : July 14
-Year_letter      : 1976
-Place_letter     : New York
-----
-
 Bombay
 
 Dear Mr. Mukherjee,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Ujjal ======
 
----- dataentry letters ----
-Recipient_hidden : Ujjal
-ListDate_hidden  : 1972-04-15
-showdate_hidden  : 2023-04-15
-To_letters       : Ujjal
-Date_letter      : April 15
-Year_letter      : 1972
-Place_letter     : Auckland
-----
-
 Mexico City
 
 My dear Son,

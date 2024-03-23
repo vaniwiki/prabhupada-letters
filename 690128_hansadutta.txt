@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1969-01-28
-showdate_hidden  : 2023-01-28
-To_letters       : Hansadutta
-Date_letter      : January 28
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Hansadutta,
 
 Please accept my blessings. I am in due receipt of your letter dated January 22, 1969, and I have noted the contents carefully. From your letter I can understand that you will no longer be negotiating for purchasing the house, and this is all right because I do not think it is very suitable for a temple.

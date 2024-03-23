@@ -9,16 +9,6 @@
 
 ====== Letter to: Bali-mardana ======
 
----- dataentry letters ----
-Recipient_hidden : Bali-mardana
-ListDate_hidden  : 1972-01-02
-showdate_hidden  : 2023-01-02
-To_letters       : Bali-mardana
-Date_letter      : January 2
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Bali Mardan,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 28th, 1971. I think I have received all of your letters as all of the mail is always forwarded to me. Sometimes there is a delay when the mail is redirected due to the slowness of Indian postal system, so if you are awaiting reply to any of your previous letters, when they reach me I shall reply all the important points.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Rasa lila ======
 
----- dataentry letters ----
-Recipient_hidden : Rasa lila
-ListDate_hidden  : 1976-09-06
-showdate_hidden  : 2023-09-06
-To_letters       : Rasa lila
-Date_letter      : September 6
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Nairobi
 
 My dear daughter Rasa lila dasi,

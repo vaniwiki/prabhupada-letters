@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1972-02-18
-showdate_hidden  : 2023-02-18
-To_letters       : Jadurani
-Date_letter      : February 18
-Year_letter      : 1972
-Place_letter     : Calcutta
-----
-
 My dear Jadurani dasi,
 
 Please accept my blessings. I have received your letter of February 4, 1972, and I shall answer your questions as follows:

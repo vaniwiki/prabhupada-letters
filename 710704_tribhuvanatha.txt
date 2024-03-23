@@ -9,16 +9,6 @@
 
 ====== Letter to: Tribhuvanatha ======
 
----- dataentry letters ----
-Recipient_hidden : Tribhuvanatha
-ListDate_hidden  : 1971-07-04
-showdate_hidden  : 2023-07-04
-To_letters       : Tribhuvanatha
-Date_letter      : July 4
-Year_letter      : 1971
-Place_letter     : Los Angeles
-----
-
 London
 
 My dear Tribhuvanatha,

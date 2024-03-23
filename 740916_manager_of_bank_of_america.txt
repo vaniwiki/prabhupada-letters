@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of Bank of America ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of Bank of America
-ListDate_hidden  : 1974-09-16
-showdate_hidden  : 2023-09-16
-To_letters       : Manager of Bank of America
-Date_letter      : September 16
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 The Manager\\
 Bank of America\\
 Branch #600, Main Office\\

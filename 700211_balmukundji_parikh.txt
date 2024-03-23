@@ -9,16 +9,6 @@
 
 ====== Letter to: Balmukundji Parikh ======
 
----- dataentry letters ----
-Recipient_hidden : Balmukundji Parikh
-ListDate_hidden  : 1970-02-11
-showdate_hidden  : 2023-02-11
-To_letters       : Balmukundji Parikh
-Date_letter      : February 11
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 London
 
 My dear Balmukundji Parikh,

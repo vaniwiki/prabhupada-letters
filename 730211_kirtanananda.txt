@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1973-02-11
-showdate_hidden  : 2023-02-11
-To_letters       : Kirtanananda
-Date_letter      : February 11
-Year_letter      : 1973
-Place_letter     : Melbourne
-----
-
 My dear Kirtanananda,
 
 Please accept my blessings. I am in due receipt of your letter and I approve of the initiations of Bill Allan who is now to be called Balaji das, Paul Terry who is now to be called Parambrahma das, Richard Selvin who is now Radhanatha das and Tom Meyers who is now Taru das. I hope this meets you in good health.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1976-10-26
-showdate_hidden  : 2023-10-26
-To_letters       : Ramesvara
-Date_letter      : October 26
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear Ramesvara,
 
 Please accept my blessings. I am in receipt of your letter dated 17/10/76.

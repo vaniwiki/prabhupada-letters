@@ -9,16 +9,6 @@
 
 ====== Letter to: Kulasekhara ======
 
----- dataentry letters ----
-Recipient_hidden : Kulasekhara
-ListDate_hidden  : 1972-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Kulasekhara
-Date_letter      : January 10
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Cardiff, Wales
 
 My dear Kulasekhara,

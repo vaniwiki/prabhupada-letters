@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Dennany ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Dennany
-ListDate_hidden  : 1975-03-14
-showdate_hidden  : 2023-03-14
-To_letters       : Mr. Dennany
-Date_letter      : March 14
-Year_letter      : 1975
-Place_letter     : Tehran
-----
-
 Mr. Dennany\\
 8653 South 2nd St.\\
 Mattawan, Miami, Fla. 49071

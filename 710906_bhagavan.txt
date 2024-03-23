@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhagavan ======
 
----- dataentry letters ----
-Recipient_hidden : Bhagavan
-ListDate_hidden  : 1971-09-06
-showdate_hidden  : 2023-09-06
-To_letters       : Bhagavan
-Date_letter      : September 6
-Year_letter      : 1971
-Place_letter     : London
-----
-
 Detroit
 
 My dear Bhagavan das,

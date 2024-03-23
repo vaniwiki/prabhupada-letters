@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1969-02-12
-showdate_hidden  : 2023-02-12
-To_letters       : Hayagriva
-Date_letter      : February 12
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your letter dated February 7, 1969, and I have noted the contents. I am so glad to learn that Mr. Ginsberg is taking some serious interest in our Hare Krishna Movement. When he actually comes into Krishna Consciousness, which I expect will be in the very near future, at that time our movement will get a great impetus.

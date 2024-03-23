@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1969-07-05
-showdate_hidden  : 2023-07-05
-To_letters       : Jadurani
-Date_letter      : July 5
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Jadurani,
 
 I have already asked you to join the Sankirtana Party. Today I have received one letter from Govinda Dasi in which I understand that she is a spirited preacher. I am so proud of her, that even my girl disciples are so nice for preaching work.

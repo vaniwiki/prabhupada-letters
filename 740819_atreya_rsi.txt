@@ -9,16 +9,6 @@
 
 ====== Letter to: Atreya Rsi ======
 
----- dataentry letters ----
-Recipient_hidden : Atreya Rsi
-ListDate_hidden  : 1974-08-19
-showdate_hidden  : 2023-08-19
-To_letters       : Atreya Rsi
-Date_letter      : August 19
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Tehran
 
 My dear Atreya Rsi,

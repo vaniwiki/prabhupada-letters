@@ -9,16 +9,6 @@
 
 ====== Letter to: Yasasvini ======
 
----- dataentry letters ----
-Recipient_hidden : Yasasvini
-ListDate_hidden  : 1977-01-20
-showdate_hidden  : 2023-01-20
-To_letters       : Yasasvini
-Date_letter      : January 20
-Year_letter      : 1977
-Place_letter     : Bhuvaneśvara
-----
-
 Nairobi
 
 My dear Yasasvini dasi,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Babbar ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Babbar
-ListDate_hidden  : 1975-09-17
-showdate_hidden  : 2023-09-17
-To_letters       : Dr. Babbar
-Date_letter      : September 17
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Dr. Babbar\\
 Civil Surgeon\\
 District Medical Hospital\\

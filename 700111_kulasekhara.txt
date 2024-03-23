@@ -9,16 +9,6 @@
 
 ====== Letter to: Kulasekhara ======
 
----- dataentry letters ----
-Recipient_hidden : Kulasekhara
-ListDate_hidden  : 1970-01-11
-showdate_hidden  : 2023-01-11
-To_letters       : Kulasekhara
-Date_letter      : January 11
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Kulasekhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 3, 1969, and I am pleased to learn that your wife, Visakha, has gone to London to learn more about Deity worship from Yamuna devi. And also I am pleased to know that you have taken charge of the Deities at present. This is very nice.

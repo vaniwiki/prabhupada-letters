@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1967-10-07
-showdate_hidden  : 2023-10-07
-To_letters       : Mukunda
-Date_letter      : October 7
-Year_letter      : 1967
-Place_letter     : Delhi
-----
-
 My dear Mukunda,
 
 Please accept my blessings. Your letter dated 30th September 1967 duly in hand. I understand that you are all very anxious to know about me. By the Grace of Lord Krishna I am now 90% well although the basic difficulty namely that I cannot walk very long distance is there. While sitting on my seat I do not feel anything abnormal; even nowadays I can type letters. I am eating also more than what I was eating in the states. On the whole I am now fit to go back to your country.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dinadayadri, Nara-narayana ======
 
----- dataentry letters ----
-Recipient_hidden : Dinadayadri, Nara-narayana
-ListDate_hidden  : 1970-03-19
-showdate_hidden  : 2023-03-19
-To_letters       : Dinadayadri, Nara-narayana
-Date_letter      : March 19
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Boston
 
 My dear Dinadayadri and Nara Narayana,

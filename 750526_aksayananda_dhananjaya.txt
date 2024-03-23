@@ -9,16 +9,6 @@
 
 ====== Letter to: Aksayananda, Dhananjaya ======
 
----- dataentry letters ----
-Recipient_hidden : Aksayananda, Dhananjaya
-ListDate_hidden  : 1975-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Aksayananda, Dhananjaya
-Date_letter      : May 26
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Vrndavana
 
 My dear Aksayananda Swami and Dhananjaya,

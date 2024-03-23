@@ -9,16 +9,6 @@
 
 ====== Letter to: Amogha, Hanuman, others ======
 
----- dataentry letters ----
-Recipient_hidden : Amogha, Hanuman, others
-ListDate_hidden  : 1971-08-22
-showdate_hidden  : 2023-08-22
-To_letters       : Amogha, Hanuman, others
-Date_letter      : August 22
-Year_letter      : 1971
-Place_letter     : London
-----
-
 Kuala Lumpur, Malaysia
 
 My dear Amogha, Hanuman, etc.

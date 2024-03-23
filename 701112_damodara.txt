@@ -9,16 +9,6 @@
 
 ====== Letter to: Damodara ======
 
----- dataentry letters ----
-Recipient_hidden : Damodara
-ListDate_hidden  : 1970-11-12
-showdate_hidden  : 2023-11-12
-To_letters       : Damodara
-Date_letter      : November 12
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 4th October, 1970 and I've noted the contents with much pleasure.

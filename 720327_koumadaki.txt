@@ -9,16 +9,6 @@
 
 ====== Letter to: Koumadaki ======
 
----- dataentry letters ----
-Recipient_hidden : Koumadaki
-ListDate_hidden  : 1972-03-27
-showdate_hidden  : 2023-03-27
-To_letters       : Koumadaki
-Date_letter      : March 27
-Year_letter      : 1972
-Place_letter     : Australia
-----
-
 My dear Koumadaki,
 
 Please accept my blessings. I am in due receipt of your letter, undated, and I have noted the contents. Thank you very much for the nice poems you have written. They are very well done, and you can submit them to Iskcon Press for publication in Back to Godhead. I am glad to hear that you and your husband are happy in your work for Iskcon Press. The distribution of our literatures is such an important task, for as more people read these books, more and more the whole world will become auspicious and the degrading influence of this age of Kali will become minimized.

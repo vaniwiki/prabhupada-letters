@@ -9,16 +9,6 @@
 
 ====== Letter to: Sankara Pyne ======
 
----- dataentry letters ----
-Recipient_hidden : Sankara Pyne
-ListDate_hidden  : 1973-10-20
-showdate_hidden  : 2023-10-20
-To_letters       : Sankara Pyne
-Date_letter      : October 20
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 Dear Sankara Pyne:
 
 Please accept my blessing. I beg to acknowledge receipt of your letter dated 15/8/73 and I thank you very much for it and your Vyasa Puja appreciation. It is stated in the Vedas that to anyone who has firm faith in the spiritual master and Krsna, to him all the imports of the Vedas are easily revealed. I am very glad to learn that you are helping in the preaching work by distributing our books to the libraries in Calcutta. This is very important work. The more our books are distributed, the more people will become convinced about this movement of Krsna consciousness, and they will be benefited from it. So you are a nice boy, and I wish that you continue on in this way.

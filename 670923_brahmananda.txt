@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1967-09-23
-showdate_hidden  : 2023-09-23
-To_letters       : Brahmananda
-Date_letter      : September 23
-Year_letter      : 1967
-Place_letter     : Delhi
-----
-
 My dear Brahmananda,
 
 Please accept blessings. I have not heard from you since a long time. I hope everything is going on nicely. I think the MacMillan transaction is not successful. Please therefore send one copy of the Gitopanisad MSS as instructed above. Let me begin the printing immediately as we have waited so much time. I am now fit to return back but I shall be glad to return with permanent Visa. I am going to Calcutta to visit Lord Caitanya's birthplace and next letter may be addressed

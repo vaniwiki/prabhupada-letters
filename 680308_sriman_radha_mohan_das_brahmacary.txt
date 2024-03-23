@@ -9,16 +9,6 @@
 
 ====== Letter to: Sriman Radha Mohan das Brahmacary ======
 
----- dataentry letters ----
-Recipient_hidden : Sriman Radha Mohan das Brahmacary
-ListDate_hidden  : 1968-03-08
-showdate_hidden  : 2023-03-08
-To_letters       : Sriman Radha Mohan das Brahmacary
-Date_letter      : March 8
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 ISKCON Atlanta, ACBS/nkd
 
 L.A. 3/8/68 (?)

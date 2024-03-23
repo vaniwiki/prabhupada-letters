@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna
-ListDate_hidden  : 1969-04-19
-showdate_hidden  : 2023-04-19
-To_letters       : Tamala Krsna
-Date_letter      : April 19
-Year_letter      : 1969
-Place_letter     : Buffalo
-----
-
 My dear Tamala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 12, 1969, and I have noted the contents with pleasure. I am glad to learn that two new boys, Robb and Kelly, have moved into your temple. Also, it is good news that you now have a weekly course in the University there. Regarding the draft lawyer, I have enclosed the circular which I am sending out to the temples.

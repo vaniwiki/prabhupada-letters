@@ -9,16 +9,6 @@
 
 ====== Letter to: Srutadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Srutadeva
-ListDate_hidden  : 1974-11-16
-showdate_hidden  : 2023-11-16
-To_letters       : Srutadeva
-Date_letter      : November 16
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Washington DC
 
 My dear Srutadeva dasa:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Winter ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Winter
-ListDate_hidden  : 1974-10-08
-showdate_hidden  : 2023-10-08
-To_letters       : Mr. Winter
-Date_letter      : October 8
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Amsterdam
 
 My dear Mr. Winter:

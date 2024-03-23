@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1969-01-31
-showdate_hidden  : 2023-01-31
-To_letters       : Hayagriva
-Date_letter      : January 31
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 26, 1969, and I have carefully noted the contents. I am very pleased to learn that the entire first canto should be completely edited by March 8th, and I am also glad to hear that your Lord Caitanya play is at last completed. From what I have gone through of this play I could see that it is very well done, simply it is a little prolonged. Otherwise it is very nice. I hope that when we start our own press we shall get this book printed.

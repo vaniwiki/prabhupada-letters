@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1967-02-03
-showdate_hidden  : 2023-02-03
-To_letters       : Gargamuni
-Date_letter      : February 3
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Gargamuni,
 
 Please accept my blessings. I am in due receipt of your letter with enclosures and have seen the balance sheet. I have seen also the check account. Thank you very much. I think you are now expert account keeper may Krishna bless you for talents and sincere endeavour for service of the Lord. The more you serve the more you become expert in everything.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1968-06-11
-showdate_hidden  : 2023-06-11
-To_letters       : Mukunda
-Date_letter      : June 11
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 My dear Mukunda,
 
 Please accept my blessings. I thank you for your letter, (undated) and noted the contents carefully. As Umapati has decided to leave Los Angeles, I would like that he may go to Santa Fe and help Subala there, because he is struggling alone there. I think you will also agree with me and try to send him there as there is great necessity of another Brahmacari to cooperate in that temple.

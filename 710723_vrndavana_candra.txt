@@ -9,16 +9,6 @@
 
 ====== Letter to: Vrndavana Candra ======
 
----- dataentry letters ----
-Recipient_hidden : Vrndavana Candra
-ListDate_hidden  : 1971-07-23
-showdate_hidden  : 2023-07-23
-To_letters       : Vrndavana Candra
-Date_letter      : July 23
-Year_letter      : 1971
-Place_letter     : Brooklyn
-----
-
 Los Angeles
 
 My dear Vrndavana Candra,

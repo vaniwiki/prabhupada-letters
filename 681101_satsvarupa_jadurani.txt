@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa, Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa, Jadurani
-ListDate_hidden  : 1968-11-01
-showdate_hidden  : 2023-11-01
-To_letters       : Satsvarupa, Jadurani
-Date_letter      : November 1
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter of Oct. 28, 1968, along with Jadurani's. There is some difficulty of our temple here, therefore my return address is given to my residential apartment, as above. So you can write me letters to this address. I hope the enclosed statement of certificate of your being an ordained Brahmin will help you.

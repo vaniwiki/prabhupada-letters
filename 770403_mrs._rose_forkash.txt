@@ -9,16 +9,6 @@
 
 ====== Letter to: Mrs. Rose Forkash ======
 
----- dataentry letters ----
-Recipient_hidden : Mrs. Rose Forkash
-ListDate_hidden  : 1977-04-03
-showdate_hidden  : 2023-04-03
-To_letters       : Mrs. Rose Forkash
-Date_letter      : April 3
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 Mrs. Rose Forkash\\
 Sp., 166, 3940 Via Real\\
 Carpenteria, California 93013, U.S.A.

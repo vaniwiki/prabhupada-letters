@@ -9,16 +9,6 @@
 
 ====== Letter to: Himavati ======
 
----- dataentry letters ----
-Recipient_hidden : Himavati
-ListDate_hidden  : 1969-02-09
-showdate_hidden  : 2023-02-09
-To_letters       : Himavati
-Date_letter      : February 9
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Himavati,
 
 Please accept my blessings. I thank you so much for your letter of January 30, 1969. I am glad to know that you are anxious to begin tending the Deities in grand style and fashion. Before I instruct you further in this matter, please send me a detailed list of what worshiping methods you are now performing. Let me know how you are conducting temple worship now from morning till night. I hope this will meet you in good health and cheerful mood.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Radhavallabha ======
 
----- dataentry letters ----
-Recipient_hidden : Radhavallabha
-ListDate_hidden  : 1976-10-15
-showdate_hidden  : 2023-10-15
-To_letters       : Radhavallabha
-Date_letter      : October 15
-Year_letter      : 1976
-Place_letter     : Chandigarh
-----
-
 My dear Radhavallabha Prabhu,
 
 Please accept my blessings. I am in receipt of your letter dated October 5th 1976.

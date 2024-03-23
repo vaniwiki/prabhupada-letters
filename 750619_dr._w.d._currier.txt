@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. W.D. Currier ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. W.D. Currier
-ListDate_hidden  : 1975-06-19
-showdate_hidden  : 2023-06-19
-To_letters       : Dr. W.D. Currier
-Date_letter      : June 19
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 W.D. Currier, M.D., INC.\\
 960 East Green St., Suite 209\\
 Pasadena, California 91106

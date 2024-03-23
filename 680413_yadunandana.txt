@@ -9,16 +9,6 @@
 
 ====== Letter to: Yadunandana ======
 
----- dataentry letters ----
-Recipient_hidden : Yadunandana
-ListDate_hidden  : 1968-04-13
-showdate_hidden  : 2023-04-13
-To_letters       : Yadunandana
-Date_letter      : April 13
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 Allston, MA
 
 My dear Yadunandana,

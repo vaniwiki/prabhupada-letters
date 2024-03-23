@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Chagan Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Chagan Govinda
-ListDate_hidden  : 1968-12-17
-showdate_hidden  : 2023-12-17
-To_letters       : Mr. Chagan Govinda
-Date_letter      : December 17
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Chagan Govinda\\
 74 Arodene Road\\
 London S.W.2.

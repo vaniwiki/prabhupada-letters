@@ -9,16 +9,6 @@
 
 ====== Letter to: Nityananda ======
 
----- dataentry letters ----
-Recipient_hidden : Nityananda
-ListDate_hidden  : 1971-11-12
-showdate_hidden  : 2023-11-12
-To_letters       : Nityananda
-Date_letter      : November 12
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 New Orleans
 
 My dear Nityananda,

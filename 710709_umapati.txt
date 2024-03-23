@@ -9,16 +9,6 @@
 
 ====== Letter to: Umapati ======
 
----- dataentry letters ----
-Recipient_hidden : Umapati
-ListDate_hidden  : 1971-07-09
-showdate_hidden  : 2023-07-09
-To_letters       : Umapati
-Date_letter      : July 9
-Year_letter      : 1971
-Place_letter     : Los Angeles
-----
-
 San Francisco
 
 My dear Umapati,

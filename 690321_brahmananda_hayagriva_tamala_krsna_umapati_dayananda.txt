@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda
-ListDate_hidden  : 1969-03-21
-showdate_hidden  : 2023-03-21
-To_letters       : Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda
-Date_letter      : March 21
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Brahmananda, Hayagriva, Tamala Krishna, Umapati, Dayananda,
 
 Please accept my blessings. Enclosed you will find the copy of a letter received by me from the draft board. Please read over it and decide what is to be done. You can consult together on this matter and get whatever information is required by them. And let me know in your next letter about the matter.

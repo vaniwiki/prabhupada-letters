@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1971-11-04
-showdate_hidden  : 2023-11-04
-To_letters       : Karandhara
-Date_letter      : November 4
-Year_letter      : 1971
-Place_letter     : Calcutta
-----
-
 Los Angeles
 
 My dear Karandhara,

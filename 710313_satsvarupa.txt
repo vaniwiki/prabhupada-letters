@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1971-03-13
-showdate_hidden  : 2023-03-13
-To_letters       : Satsvarupa
-Date_letter      : March 13
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated 21st and 23rd February, 1971, respectively. I have also received the newspaper clipping showing Hrdayananda's wedding and it is very nice. So far as him taking over the management of Boston temple, that is all right. All department heads should train an assistant so that in their absence, work may not suffer but go on continuously. However, why do you want to divorce yourself entirely from management of Boston temple? Do you think that is necessary?

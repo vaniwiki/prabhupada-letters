@@ -9,16 +9,6 @@
 
 ====== Letter to: Tulsi, Bhakta dasa, Pat, Sandy, Bill, Geoffrey, Terry ======
 
----- dataentry letters ----
-Recipient_hidden : Tulsi, Bhakta dasa, Pat, Sandy, Bill, Geoffrey, Terry
-ListDate_hidden  : 1971-04-13
-showdate_hidden  : 2023-04-13
-To_letters       : Tulsi, Bhakta dasa, Pat, Sandy, Bill, Geoffrey, Terry
-Date_letter      : April 13
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 San Diego
 
 My dear Tulsi das, Bhakta das, Pat, Sandy, Bill, Geoffrey, and Terry Prabhus,

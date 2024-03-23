@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Bhavananda
-ListDate_hidden  : 1972-01-09
-showdate_hidden  : 2023-01-09
-To_letters       : Bhavananda
-Date_letter      : January 9
-Year_letter      : 1972
-Place_letter     : Nairobi
-----
-
 My dear Bhavananda:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 24, 1972 and have noted the contents carefully. Things here are going on very nicely. Enclosed is one clipping. Last night at the festival meeting one government official spoke very highly of my movement and everyone was very pleased.
@@ -32,8 +22,6 @@ I have talked to Brahmananda Maharaj about all these things, and he is ready to 
 I am sending a copy of this letter as well as your letter with enclosures to Tamal Krishna Maharaj, and I am also returning to Bombay and then we shall discuss and do the needful.
 
 I hope this finds you in good health.
-
-
 
 Your ever well wisher,
 

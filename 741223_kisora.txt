@@ -9,16 +9,6 @@
 
 ====== Letter to: Kisora ======
 
----- dataentry letters ----
-Recipient_hidden : Kisora
-ListDate_hidden  : 1974-12-23
-showdate_hidden  : 2023-12-23
-To_letters       : Kisora
-Date_letter      : December 23
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Edinburgh
 
 My dear Kisora,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Abhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Abhirama
-ListDate_hidden  : 1974-08-16
-showdate_hidden  : 2023-08-16
-To_letters       : Abhirama
-Date_letter      : August 16
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Coconut Grove, Florida
 
 My dear Abhirama das:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Krishna Pandit ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Krishna Pandit
-ListDate_hidden  : 1968-01-20
-showdate_hidden  : 2023-01-20
-To_letters       : Sri Krishna Pandit
-Date_letter      : January 20
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Hari Bhaktanudas Sri Krishna Pandit\\
 4092 Kuncha Dilwali Singh\\
 Ajmary Gate, Delhi 6\\

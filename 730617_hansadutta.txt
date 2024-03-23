@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1973-06-17
-showdate_hidden  : 2023-06-17
-To_letters       : Hansadutta
-Date_letter      : June 17
-Year_letter      : 1973
-Place_letter     : Mayapur
-----
-
 Heidelberg, West Germany
 
 My dear Hansadutta,

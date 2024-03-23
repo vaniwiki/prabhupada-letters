@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1973-10-04
-showdate_hidden  : 2023-10-04
-To_letters       : Satsvarupa
-Date_letter      : October 4
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your report for Central USA dated September 25th and I have noted the contents with great satisfaction. Your reports are coming more regularly than any other GBC and from them I can understand that things are developing very steadily under your supervision.

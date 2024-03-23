@@ -9,16 +9,6 @@
 
 ====== Letter to: Embassy of the USA ======
 
----- dataentry letters ----
-Recipient_hidden : Embassy of the USA
-ListDate_hidden  : 1977-08-02
-showdate_hidden  : 2023-08-02
-To_letters       : Embassy of the USA
-Date_letter      : August 2
-Year_letter      : 1977
-Place_letter     : Vrindaban
-----
-
 The Embassy of the United States of America,\\
 Dept. of Immigration and Visa,\\
 New Delhi\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani, Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani, Rayarama
-ListDate_hidden  : 1967-02-11
-showdate_hidden  : 2023-02-11
-To_letters       : Jadurani, Rayarama
-Date_letter      : February 11
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Jadurani,
 
 If Kirtanananda goes to Montreal you can give him one Visnu Picture. I hope you have received the Visnu names sent by me.

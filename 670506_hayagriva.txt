@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1967-05-06
-showdate_hidden  : 2023-05-06
-To_letters       : Hayagriva
-Date_letter      : May 6
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. You have nicely done %%____%% Lord Caitanya Drama 1st Act. It is nicely done literature but when playing you will have to make it cut short otherwise it will take too long a time. I have given it over to Rayarama for reading.

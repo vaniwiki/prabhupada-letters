@@ -9,16 +9,6 @@
 
 ====== Letter to: Tejiyas ======
 
----- dataentry letters ----
-Recipient_hidden : Tejiyas
-ListDate_hidden  : 1973-01-02
-showdate_hidden  : 2023-01-02
-To_letters       : Tejiyas
-Date_letter      : January 2
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 New Delhi
 
 My dear Tejiyas,

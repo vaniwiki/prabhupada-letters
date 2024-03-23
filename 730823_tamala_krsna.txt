@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna
-ListDate_hidden  : 1973-08-23
-showdate_hidden  : 2023-08-23
-To_letters       : Tamala Krsna
-Date_letter      : August 23
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 Bombay
 
 My dear Tamala Krishna,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Upendra ======
 
----- dataentry letters ----
-Recipient_hidden : Upendra
-ListDate_hidden  : 1969-01-04
-showdate_hidden  : 2023-01-04
-To_letters       : Upendra
-Date_letter      : January 4
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Upendra,
 
 Please accept my blessings. I have received your nice gift of rose petal preserves and I thank you very much for this. Also, I have just yesterday received one letter from a boy in Seattle named Charles McCollogh, and he has desired to come here to Los Angeles and receive initiation from me. Please inform me of the situation with this boy so I may reply to his letter there after.

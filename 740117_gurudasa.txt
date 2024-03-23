@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1974-01-17
-showdate_hidden  : 2023-01-17
-To_letters       : Gurudasa
-Date_letter      : January 17
-Year_letter      : 1974
-Place_letter     : Honolulu
-----
-
 Vrindaban
 
 Dear Gurudasa,

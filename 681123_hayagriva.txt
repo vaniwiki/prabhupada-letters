@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1968-11-23
-showdate_hidden  : 2023-11-23
-To_letters       : Hayagriva
-Date_letter      : November 23
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your letter dated November 19, and have noted the contents. I am very much pleased by your renewed and serious efforts to help me in my service to my Guru Maharaja. Please continue in this attitude and Krishna will save you, you need have no doubt.

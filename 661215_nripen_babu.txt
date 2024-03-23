@@ -9,16 +9,6 @@
 
 ====== Letter to: Nripen Babu ======
 
----- dataentry letters ----
-Recipient_hidden : Nripen Babu
-ListDate_hidden  : 1966-12-15
-showdate_hidden  : 2023-12-15
-To_letters       : Nripen Babu
-Date_letter      : December 15
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Sri Nripendra Natha Banerji\\
 Late Principal of Kanyakubja College\\
 Elliot Road. Birpur.

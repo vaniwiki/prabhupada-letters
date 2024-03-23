@@ -9,16 +9,6 @@
 
 ====== Letter to: Janardana ======
 
----- dataentry letters ----
-Recipient_hidden : Janardana
-ListDate_hidden  : 1968-12-19
-showdate_hidden  : 2023-12-19
-To_letters       : Janardana
-Date_letter      : December 19
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Janardana,
 
 Please accept my blessings. I beg to thank you for your letter of December 11, 1968. I have already acknowledged receipt of the French Back To Godhead and I have sent my hearty thanks for you all. May Krishna bless you to advance this attempt far and wide.

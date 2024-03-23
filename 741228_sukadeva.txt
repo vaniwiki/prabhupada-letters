@@ -9,16 +9,6 @@
 
 ====== Letter to: Sukadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Sukadeva
-ListDate_hidden  : 1974-12-28
-showdate_hidden  : 2023-12-28
-To_letters       : Sukadeva
-Date_letter      : December 28
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Seattle
 
 My dear Sukadeva,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Candravali ======
 
----- dataentry letters ----
-Recipient_hidden : Candravali
-ListDate_hidden  : 1977-03-28
-showdate_hidden  : 2023-03-28
-To_letters       : Candravali
-Date_letter      : March 28
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 Sebastapol, California
 
 My dear Candravali,

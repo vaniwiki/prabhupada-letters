@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Madhavananda
-ListDate_hidden  : 1974-10-01
-showdate_hidden  : 2023-10-01
-To_letters       : Madhavananda
-Date_letter      : October 1
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Bhaktivedanta Manor
 
 My dear Madhavananda Das:

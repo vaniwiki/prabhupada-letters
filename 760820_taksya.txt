@@ -9,16 +9,6 @@
 
 ====== Letter to: Taksya ======
 
----- dataentry letters ----
-Recipient_hidden : Taksya
-ListDate_hidden  : 1976-08-20
-showdate_hidden  : 2023-08-20
-To_letters       : Taksya
-Date_letter      : August 20
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Trinidad
 
 My dear Taksya das,

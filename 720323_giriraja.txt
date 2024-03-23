@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraja
-ListDate_hidden  : 1972-03-23
-showdate_hidden  : 2023-03-23
-To_letters       : Giriraja
-Date_letter      : March 23
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Calcutta
 
 My dear Giriraja,

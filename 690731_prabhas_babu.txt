@@ -9,16 +9,6 @@
 
 ====== Letter to: Prabhas Babu ======
 
----- dataentry letters ----
-Recipient_hidden : Prabhas Babu
-ListDate_hidden  : 1969-07-31
-showdate_hidden  : 2023-07-31
-To_letters       : Prabhas Babu
-Date_letter      : July 31
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Prabhas Babu;
 
 I beg to acknowledge receipt of your letter, F-54/286, dated July 22, 1969. I have noted that you are going to send the mrdangas more carefully. Yes, I am advising to retire your bill of shipping charges for Rs. 101.50 as soon as we receive instruction from the bank. Yes the books may be gunny packed in cases, and try to charge as low as possible. I understand The Punjab National Bank from Vrindaban has already issued a letter to you so there is no need of sending the document to them. You send the documents directly to New York.

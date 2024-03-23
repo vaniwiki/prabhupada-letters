@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1968-03-12
-showdate_hidden  : 2023-03-12
-To_letters       : Rupanuga
-Date_letter      : March 12
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 Buffalo
 
 My dear Rupanuga,

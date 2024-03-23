@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahamsa ======
 
----- dataentry letters ----
-Recipient_hidden : Mahamsa
-ListDate_hidden  : 1975-09-21
-showdate_hidden  : 2023-09-21
-To_letters       : Mahamsa
-Date_letter      : September 21
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Hyderabad
 
 My dear Mahamsa Swami,

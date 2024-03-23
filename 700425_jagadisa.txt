@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagadisa ======
 
----- dataentry letters ----
-Recipient_hidden : Jagadisa
-ListDate_hidden  : 1970-04-25
-showdate_hidden  : 2023-04-25
-To_letters       : Jagadisa
-Date_letter      : April 25
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Jagadisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 20th April, 1970, along with a Canadian money order for $278, and thank you very much for this.

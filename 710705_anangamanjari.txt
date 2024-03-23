@@ -9,16 +9,6 @@
 
 ====== Letter to: Anangamanjari (Elaine) ======
 
----- dataentry letters ----
-Recipient_hidden : Anangamanjari (Elaine)
-ListDate_hidden  : 1971-07-05
-showdate_hidden  : 2023-07-05
-To_letters       : Anangamanjari (Elaine)
-Date_letter      : July 5
-Year_letter      : 1971
-Place_letter     : Los Angeles
-----
-
 Gainesville
 
 My dear Anangamanjari Devi Dasi (Elaine),

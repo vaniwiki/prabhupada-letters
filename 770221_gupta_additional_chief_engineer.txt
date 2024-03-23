@@ -9,16 +9,6 @@
 
 ====== Letter to: Gupta, Additional Chief Engineer ======
 
----- dataentry letters ----
-Recipient_hidden : Gupta, Additional Chief Engineer
-ListDate_hidden  : 1977-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Gupta, Additional Chief Engineer
-Date_letter      : February 21
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Additional Chief Engineer\\
 Central Indian Railways\\
 Victoria Terminus, Bombay 400001

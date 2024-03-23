@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Poddar ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Poddar
-ListDate_hidden  : 1974-09-26
-showdate_hidden  : 2023-09-26
-To_letters       : Mr. Poddar
-Date_letter      : September 26
-Year_letter      : 1974
-Place_letter     : Calcutta
-----
-
 Calcutta
 
 Dear Mr. Poddar:

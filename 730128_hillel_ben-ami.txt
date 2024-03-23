@@ -9,16 +9,6 @@
 
 ====== Letter to: Hillel Ben-Ami ======
 
----- dataentry letters ----
-Recipient_hidden : Hillel Ben-Ami
-ListDate_hidden  : 1973-01-28
-showdate_hidden  : 2023-01-28
-To_letters       : Hillel Ben-Ami
-Date_letter      : January 28
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 Washington D.C.
 
 Dear Hillel Ben-Ami,

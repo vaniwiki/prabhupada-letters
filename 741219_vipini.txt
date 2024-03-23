@@ -9,16 +9,6 @@
 
 ====== Letter to: Vipini ======
 
----- dataentry letters ----
-Recipient_hidden : Vipini
-ListDate_hidden  : 1974-12-19
-showdate_hidden  : 2023-12-19
-To_letters       : Vipini
-Date_letter      : December 19
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Washington, D.C.
 
 My dear Vipini das,

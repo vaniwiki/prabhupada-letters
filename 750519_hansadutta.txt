@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1975-05-19
-showdate_hidden  : 2023-05-19
-To_letters       : Hansadutta
-Date_letter      : May 19
-Year_letter      : 1975
-Place_letter     : Melbourne
-----
-
 Bhaktivedanta Manor
 
 My dear Hansadutta dasa,

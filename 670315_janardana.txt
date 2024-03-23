@@ -9,16 +9,6 @@
 
 ====== Letter to: Janardana ======
 
----- dataentry letters ----
-Recipient_hidden : Janardana
-ListDate_hidden  : 1967-03-15
-showdate_hidden  : 2023-03-15
-To_letters       : Janardana
-Date_letter      : March 15
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Janardana,
 
 Please accept my blessings. I am glad to learn that your good wife is now days taking interest in Krishna Consciousness. Please offer her my blessings. I think a good and sincere husband's influence is working in her. Be happy in family life and both of you become blessed by Krishna consciousness. What about my books.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhumata ======
 
----- dataentry letters ----
-Recipient_hidden : Bhumata
-ListDate_hidden  : 1975-07-12
-showdate_hidden  : 2023-07-12
-To_letters       : Bhumata
-Date_letter      : July 12
-Year_letter      : 1975
-Place_letter     : Philadelphia
-----
-
 Cleveland
 
 My dear Bhumata devi dasi:

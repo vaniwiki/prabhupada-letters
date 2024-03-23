@@ -9,16 +9,6 @@
 
 ====== Letter to: Charles McCollough ======
 
----- dataentry letters ----
-Recipient_hidden : Charles McCollough
-ListDate_hidden  : 1969-02-12
-showdate_hidden  : 2023-02-12
-To_letters       : Charles McCollough
-Date_letter      : February 12
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Charles McCollough,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 9, 1969, and I have noted the contents carefully. Regarding your question about closing the temple for a few hours during the day, the best thing is if this can be avoided, but since you are all working in the afternoon then what else can be done? Close 12 to 5 p.m.

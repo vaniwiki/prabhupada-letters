@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhava Sharnaji ======
 
----- dataentry letters ----
-Recipient_hidden : Madhava Sharnaji
-ListDate_hidden  : 1976-04-13
-showdate_hidden  : 2023-04-13
-To_letters       : Madhava Sharnaji
-Date_letter      : April 13
-Year_letter      : 1976
-Place_letter     : Bombay
-----
-
 Gorakhpur
 
 My dear Madhava Sharnaji,

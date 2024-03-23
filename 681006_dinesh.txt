@@ -9,16 +9,6 @@
 
 ====== Letter to: Dinesh ======
 
----- dataentry letters ----
-Recipient_hidden : Dinesh
-ListDate_hidden  : 1968-10-06
-showdate_hidden  : 2023-10-06
-To_letters       : Dinesh
-Date_letter      : October 6
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Dinesh,
 
 Please accept my blessings. I am in due receipt of your letter dated Oct. 3, 1968, and have noted the contents. I am preparing for going away from this place for somewhere else by the end of the next week. So you can come and see me at once on receipt of this letter and we shall talk in detail. Bring the following things also along with your film tapes, namely:

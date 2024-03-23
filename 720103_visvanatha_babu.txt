@@ -9,16 +9,6 @@
 
 ====== Letter to: Visvanatha Babu ======
 
----- dataentry letters ----
-Recipient_hidden : Visvanatha Babu
-ListDate_hidden  : 1972-01-03
-showdate_hidden  : 2023-01-03
-To_letters       : Visvanatha Babu
-Date_letter      : January 3
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Sri Visvanatha Das\\
 Chief Minister of Orissa,\\
 Bhuvaneśvara\\

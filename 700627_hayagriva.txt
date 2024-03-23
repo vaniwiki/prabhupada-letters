@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1970-06-27
-showdate_hidden  : 2023-06-27
-To_letters       : Hayagriva
-Date_letter      : June 27
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Sriman Hayagriva Das Adhikary\\
 New Vrndavan\\
 RD 3, Moundsville, WV. 26041

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. S. Radhakrishnan, President of India ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. S. Radhakrishnan, President of India
-ListDate_hidden  : 1963-07-09
-showdate_hidden  : 2023-07-09
-To_letters       : Dr. S. Radhakrishnan, President of India
-Date_letter      : July 9
-Year_letter      : 1963
-Place_letter     : Vrindaban
-----
-
 His Excellency\\
 Dr. S. Radhakrishnan,\\
 President of India\\

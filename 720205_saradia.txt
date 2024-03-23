@@ -9,16 +9,6 @@
 
 ====== Letter to: Saradia ======
 
----- dataentry letters ----
-Recipient_hidden : Saradia
-ListDate_hidden  : 1972-02-05
-showdate_hidden  : 2023-02-05
-To_letters       : Saradia
-Date_letter      : February 5
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Brooklyn
 
 My dear Saradia dasi,

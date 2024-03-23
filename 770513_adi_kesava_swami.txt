@@ -9,16 +9,6 @@
 
 ====== Letter to: Adi Kesava Swami ======
 
----- dataentry letters ----
-Recipient_hidden : Adi Kesava Swami
-ListDate_hidden  : 1977-05-13
-showdate_hidden  : 2023-05-13
-To_letters       : Adi Kesava Swami
-Date_letter      : May 13
-Year_letter      : 1977
-Place_letter     : 
-----
-
 His Holiness Adi Kesava Swami\\
 c/o ISKCON New York
 

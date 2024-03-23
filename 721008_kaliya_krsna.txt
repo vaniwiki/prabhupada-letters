@@ -9,16 +9,6 @@
 
 ====== Letter to: Kaliya Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Kaliya Krsna
-ListDate_hidden  : 1972-10-08
-showdate_hidden  : 2023-10-08
-To_letters       : Kaliya Krsna
-Date_letter      : October 8
-Year_letter      : 1972
-Place_letter     : San Francisco
-----
-
 My dear Kaliya Krsna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 31, 1972, and have noted the contents.

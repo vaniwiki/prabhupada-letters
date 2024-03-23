@@ -9,16 +9,6 @@
 
 ====== Letter to: Chittaranjan Mohanty ======
 
----- dataentry letters ----
-Recipient_hidden : Chittaranjan Mohanty
-ListDate_hidden  : 1977-02-08
-showdate_hidden  : 2023-02-08
-To_letters       : Chittaranjan Mohanty
-Date_letter      : February 8
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Ekamra Chhaya Chhabi\\
 Bhubaneswar, Orissa
 

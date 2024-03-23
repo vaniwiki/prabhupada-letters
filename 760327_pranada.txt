@@ -9,16 +9,6 @@
 
 ====== Letter to: Pranada ======
 
----- dataentry letters ----
-Recipient_hidden : Pranada
-ListDate_hidden  : 1976-03-27
-showdate_hidden  : 2023-03-27
-To_letters       : Pranada
-Date_letter      : March 27
-Year_letter      : 1976
-Place_letter     : Delhi
-----
-
 St. Louis
 
 My dear Pranada das,

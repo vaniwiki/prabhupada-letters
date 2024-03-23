@@ -9,16 +9,6 @@
 
 ====== Letter to: Kris ======
 
----- dataentry letters ----
-Recipient_hidden : Kris
-ListDate_hidden  : 1968-11-13
-showdate_hidden  : 2023-11-13
-To_letters       : Kris
-Date_letter      : November 13
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Kris,
 
 Please accept my blessings. I thank you very much for your nice letter and have noted the contents carefully. Yes, you were very kind to massage when I was there in Santa Fe, and I thank you very much for this.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Immigration Service ======
 
----- dataentry letters ----
-Recipient_hidden : Immigration Service
-ListDate_hidden  : 1971-04-05
-showdate_hidden  : 2023-04-05
-To_letters       : Immigration Service
-Date_letter      : April 5
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Manager, Indian Visa Department,\\
 Immigration Service,\\
 Suva, Fiji Island

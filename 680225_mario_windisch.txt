@@ -9,16 +9,6 @@
 
 ====== Letter to: Mario Windisch ======
 
----- dataentry letters ----
-Recipient_hidden : Mario Windisch
-ListDate_hidden  : 1968-02-25
-showdate_hidden  : 2023-02-25
-To_letters       : Mario Windisch
-Date_letter      : February 25
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Mario Windisch\\
 c/o Barbara Josephson\\
 Pyrolavagen 22/III\\

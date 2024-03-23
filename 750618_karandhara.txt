@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1975-06-18
-showdate_hidden  : 2023-06-18
-To_letters       : Karandhara
-Date_letter      : June 18
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Tehran
 
 My dear Karandhara,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Pope Paul VI ======
 
----- dataentry letters ----
-Recipient_hidden : Pope Paul VI
-ListDate_hidden  : 1968-08-03
-showdate_hidden  : 2023-08-03
-To_letters       : Pope Paul VI
-Date_letter      : August 3
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 His Holiness The Pope, Paul VI\\
 Vicar of Jesus Christ\\
 State of Vatican City\\

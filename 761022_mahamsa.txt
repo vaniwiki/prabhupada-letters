@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahamsa ======
 
----- dataentry letters ----
-Recipient_hidden : Mahamsa
-ListDate_hidden  : 1976-10-22
-showdate_hidden  : 2023-10-22
-To_letters       : Mahamsa
-Date_letter      : October 22
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear Mahamsa Swami,
 
 Please accept my blessings. I am in due receipt of your letter dated 13/10/76.

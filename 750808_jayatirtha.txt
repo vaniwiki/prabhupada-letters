@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1975-08-08
-showdate_hidden  : 2023-08-08
-To_letters       : Jayatirtha
-Date_letter      : August 8
-Year_letter      : 1975
-Place_letter     : Toronto
-----
-
 Los Angeles
 
 My dear Jayatirtha das:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. W.H. Wolf-Rottkay ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. W.H. Wolf-Rottkay
-ListDate_hidden  : 1977-02-07
-showdate_hidden  : 2023-02-07
-To_letters       : Dr. W.H. Wolf-Rottkay
-Date_letter      : February 7
-Year_letter      : 1977
-Place_letter     : 
-----
-
 12915 Venice Blvd. Apt 37 L.A., Ca.
 
 P.O. Sree Dham Mayapur\\

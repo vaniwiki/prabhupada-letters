@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1968-11-30
-showdate_hidden  : 2023-11-30
-To_letters       : Kirtanananda
-Date_letter      : November 30
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Kirtanananda,
 
 Please accept my blessings. I thank you very much for your letter of Nov. 7, 1968, and I have duly noted the contents with great satisfaction. It is very good news that so many students are attending your kirtana programs in Columbus, and I think this will develop into a very prosperous center very soon.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager, State Bank of India ======
 
----- dataentry letters ----
-Recipient_hidden : Manager, State Bank of India
-ListDate_hidden  : 1975-09-10
-showdate_hidden  : 2023-09-10
-To_letters       : Manager, State Bank of India
-Date_letter      : September 10
-Year_letter      : 1975
-Place_letter     : 
-----
-
 State Bank of India\\
 Vrindaban Branch\\
 Att: The Manager

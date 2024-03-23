@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Poddarji ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Poddarji
-ListDate_hidden  : 1970-07-21
-showdate_hidden  : 2023-07-21
-To_letters       : Sri Poddarji
-Date_letter      : July 21
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Sri Poddarji,
 
 Please accept my humble obeisances. Your letter dated 7th June, 1970, put me into some anxieties because you wrote in that letter that you are not keeping good health these days. I hope by this time you are feeling well and I shall be glad to hear from you favorably.

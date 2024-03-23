@@ -9,16 +9,6 @@
 
 ====== Letter to: Radhavallabha ======
 
----- dataentry letters ----
-Recipient_hidden : Radhavallabha
-ListDate_hidden  : 1974-12-08
-showdate_hidden  : 2023-12-08
-To_letters       : Radhavallabha
-Date_letter      : December 8
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Brooklyn
 
 My dear Radhavallabha das:

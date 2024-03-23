@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1968-02-17
-showdate_hidden  : 2023-02-17
-To_letters       : Rayarama
-Date_letter      : February 17
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Rayarama,
 
 Please accept my blessings. Herewith please find one letter from Acyutananda Brahmacari, and read it carefully, and then return it back to me for filing. The boy is very much enthusiastic in opening an American House in India (Kanpur), and it is to be understood that the house is very much comfortable and commodious.

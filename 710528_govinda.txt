@@ -9,16 +9,6 @@
 
 ====== Letter to: Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Govinda
-ListDate_hidden  : 1971-05-28
-showdate_hidden  : 2023-05-28
-To_letters       : Govinda
-Date_letter      : May 28
-Year_letter      : 1971
-Place_letter     : Calcutta
-----
-
 Honolulu
 
 My dear Govinda Dasi,

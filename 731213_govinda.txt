@@ -9,16 +9,6 @@
 
 ====== Letter to: Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Govinda
-ListDate_hidden  : 1973-12-13
-showdate_hidden  : 2023-12-13
-To_letters       : Govinda
-Date_letter      : December 13
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Govinda dasi,
 
 Please accept my blessings. Sudama Goswami has relayed to me the news of his conversation with you recently. We require just now huge sums of money for our projects in India so I request that you send the check for $20,000.00 to me in Los Angeles by registered post.

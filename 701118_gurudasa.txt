@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1970-11-18
-showdate_hidden  : 2023-11-18
-To_letters       : Gurudasa
-Date_letter      : November 18
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Gurudasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated from Vrndavana as well as two previous letters dated November 10th, 1970 and two letters carried here by Mr. H. S. Gupta. I have met Mr. Gupta last evening and his idea was to advertise so that people may know that if they go travelling in foreign countries they may stay in Temples there. But we cannot advertise like that. When someone becomes a life member, we can inform him that he may stay at our foreign Temples as privilege of a life member, but we are not inviting anyone and everyone to stay as if we are in the hotel business.

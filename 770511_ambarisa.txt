@@ -9,16 +9,6 @@
 
 ====== Letter to: Ambarisa ======
 
----- dataentry letters ----
-Recipient_hidden : Ambarisa
-ListDate_hidden  : 1977-05-11
-showdate_hidden  : 2023-05-11
-To_letters       : Ambarisa
-Date_letter      : May 11
-Year_letter      : 1977
-Place_letter     : New Delhi
-----
-
 My dear Ambarisa,
 
 Please accept my blessings. Perhaps you know that my health has not been so good recently. So I have journeyed to Risikesh, hoping to recover somewhat my strength. Here we have the best house and it is situated just on the side of the Ganges. It is very beautiful, with mountains, cool breezes and very nicely flowing Ganges River. All of the devotees say it is the nicest place that have seen in India.

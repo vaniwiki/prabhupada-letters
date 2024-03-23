@@ -9,16 +9,6 @@
 
 ====== Letter to: Tulsidas ======
 
----- dataentry letters ----
-Recipient_hidden : Tulsidas
-ListDate_hidden  : 1970-08-28
-showdate_hidden  : 2023-08-28
-To_letters       : Tulsidas
-Date_letter      : August 28
-Year_letter      : 1970
-Place_letter     : Tokyo
-----
-
 San Diego
 
 My dear Tulsidas,

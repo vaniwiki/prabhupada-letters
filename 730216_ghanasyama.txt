@@ -9,16 +9,6 @@
 
 ====== Letter to: Ghanasyama ======
 
----- dataentry letters ----
-Recipient_hidden : Ghanasyama
-ListDate_hidden  : 1973-02-16
-showdate_hidden  : 2023-02-16
-To_letters       : Ghanasyama
-Date_letter      : February 16
-Year_letter      : 1973
-Place_letter     : Sydney
-----
-
 Los Angeles
 
 My dear Son,

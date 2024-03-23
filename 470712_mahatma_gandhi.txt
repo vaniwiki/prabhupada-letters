@@ -1,17 +1,15 @@
-~~Title: Letter to: Mahatma Gandhi — July 12, 1947~~
-~~bc: Mahatma Gandhi — July 12, 1947~~
+---json
+{
+    "name":"Letter to: Mahatma Gandhi — July 12, 1947",
+    "h1":"Mahatma Gandhi — July 12, 1947",
+    "title":"Letter to: Mahatma Gandhi — July 12, 1947",
+    "description":""
+}
+---
 
 ====== Letter to: Mahatma Gandhi ======
 
----- dataentry letters ----
-Recipient_hidden : Mahatma Gandhi
-ListDate_hidden  : 1947-07-12
-showdate_hidden  : 2023-07-12
-To_letters       : Mahatma Gandhi
-Date_letter      : July 12
-Year_letter      : 1947
-Place_letter     : Cawnpore
-----
+
 
 Mahatma Gandhijee\\
 Bhangi Colony\\

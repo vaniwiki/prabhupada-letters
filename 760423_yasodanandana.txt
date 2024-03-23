@@ -9,16 +9,6 @@
 
 ====== Letter to: Yasodanandana ======
 
----- dataentry letters ----
-Recipient_hidden : Yasodanandana
-ListDate_hidden  : 1976-04-23
-showdate_hidden  : 2023-04-23
-To_letters       : Yasodanandana
-Date_letter      : April 23
-Year_letter      : 1976
-Place_letter     : Melbourne
-----
-
 Hyderabad
 
 My dear Yasodanandana Maharaja,

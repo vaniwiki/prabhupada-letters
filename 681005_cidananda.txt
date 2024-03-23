@@ -9,16 +9,6 @@
 
 ====== Letter to: Cidananda ======
 
----- dataentry letters ----
-Recipient_hidden : Cidananda
-ListDate_hidden  : 1968-10-05
-showdate_hidden  : 2023-10-05
-To_letters       : Cidananda
-Date_letter      : October 5
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Cidananda,
 
 Please accept my blessings. I have received acknowledgement of my letter dated 26th Sept., 1968, from Mr. S.S. Sethi, whom you saw. So I am replying him and the copy of the letter is enclosed, herewith. You can immediately go and see him and deliver the wrong passport, and take receipt signature on the copy of the letter. And keep the copy of the letter with the receipt signature, carefully.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. K. T. Desai ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. K. T. Desai
-ListDate_hidden  : 1975-11-12
-showdate_hidden  : 2023-11-12
-To_letters       : Mr. K. T. Desai
-Date_letter      : November 12
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Mr. K. T. Desai\\
 Kambli Block\\
 Nehru Road\\

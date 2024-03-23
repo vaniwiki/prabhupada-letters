@@ -9,16 +9,6 @@
 
 ====== Letter to: Paramananda ======
 
----- dataentry letters ----
-Recipient_hidden : Paramananda
-ListDate_hidden  : 1968-12-13
-showdate_hidden  : 2023-12-13
-To_letters       : Paramananda
-Date_letter      : December 13
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Paramananda,
 
 Please accept my blessings. I was so pleased to receive your letter of December 8, 1968 and I have noted the contents with great pleasure. Such attitude of humbleness which you have so nicely expressed along with your very good service attitude is very beautiful and will take you far to advance more and more.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Vegavan ======
 
----- dataentry letters ----
-Recipient_hidden : Vegavan
-ListDate_hidden  : 1976-12-17
-showdate_hidden  : 2023-12-17
-To_letters       : Vegavan
-Date_letter      : December 17
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Stockholm
 
 My dear Vegavan,

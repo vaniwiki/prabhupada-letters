@@ -9,16 +9,6 @@
 
 ====== Letter to: Annuttama das Brahmachary ======
 
----- dataentry letters ----
-Recipient_hidden : Annuttama das Brahmachary
-ListDate_hidden  : 1972-01-17
-showdate_hidden  : 2023-01-17
-To_letters       : Annuttama das Brahmachary
-Date_letter      : January 17
-Year_letter      : 1972
-Place_letter     : ISKCON Bombay
-----
-
 My dear Son,
 
 Please accept my blessings. Upon the recommendation of Damodar I have gladly consented to accept you as my duly initiated disciples. Your beads have been duly chanted by me and they are sent under separate post. I have given you the spiritual name of ANUTTAMA DAS.

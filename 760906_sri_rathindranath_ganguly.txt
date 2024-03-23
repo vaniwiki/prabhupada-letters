@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Rathindranath Ganguly ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Rathindranath Ganguly
-ListDate_hidden  : 1976-09-06
-showdate_hidden  : 2023-09-06
-To_letters       : Sri Rathindranath Ganguly
-Date_letter      : September 6
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Sri Rathindranath Ganguly\\
 13 E. Dr. N. L. Bhattacarya Rd.\\
 P.O. Srampus\\

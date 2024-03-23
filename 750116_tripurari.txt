@@ -9,16 +9,6 @@
 
 ====== Letter to: Tripurari ======
 
----- dataentry letters ----
-Recipient_hidden : Tripurari
-ListDate_hidden  : 1975-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Tripurari
-Date_letter      : January 16
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Atlanta
 
 My dear Tripurari das,

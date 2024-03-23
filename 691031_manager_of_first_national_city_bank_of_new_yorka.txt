@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of First National City Bank of New York ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of First National City Bank of New York
-ListDate_hidden  : 1969-10-31
-showdate_hidden  : 2023-10-31
-To_letters       : Manager of First National City Bank of New York
-Date_letter      : October 31
-Year_letter      : 1969
-Place_letter     : Tittenhurst
-----
-
 Manager\\
 FIRST NATIONAL CITY BANK OF NEW YORK\\
 (Bowery and Grand Street Branch)\\

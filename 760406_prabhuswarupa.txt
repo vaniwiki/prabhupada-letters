@@ -9,16 +9,6 @@
 
 ====== Letter to: Prabhuswarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Prabhuswarupa
-ListDate_hidden  : 1976-04-06
-showdate_hidden  : 2023-04-06
-To_letters       : Prabhuswarupa
-Date_letter      : April 6
-Year_letter      : 1976
-Place_letter     : 
-----
-
 Prabhuswarupa das, \\
 Sebait, Sripat Bari\\
 (Thakur Haridas Sevashram)\\

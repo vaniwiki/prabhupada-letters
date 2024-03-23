@@ -9,16 +9,6 @@
 
 ====== Letter to: Pancananda ======
 
----- dataentry letters ----
-Recipient_hidden : Pancananda
-ListDate_hidden  : 1975-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Pancananda
-Date_letter      : February 15
-Year_letter      : 1975
-Place_letter     : Mexico City
-----
-
 Denver
 
 My dear Pancananda das,

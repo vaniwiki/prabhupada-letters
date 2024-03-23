@@ -9,16 +9,6 @@
 
 ====== Letter to: Mrs. Perlmutter ======
 
----- dataentry letters ----
-Recipient_hidden : Mrs. Perlmutter
-ListDate_hidden  : 1977-01-23
-showdate_hidden  : 2023-01-23
-To_letters       : Mrs. Perlmutter
-Date_letter      : January 23
-Year_letter      : 1977
-Place_letter     : Bhuvaneśvara
-----
-
 Dear Mrs. Perlmutter,
 
 Please accept my blessings. I have received your letter dated January 7th, and have noted the contents with pleasure. Yes, our Society is depending on love and respect; we are bound by love. You have thought exactly like an affectionate mother. Every mother should think like you for the benefit of her son. Our endeavor is to save human society from the danger of animalism. In our scripture it is said that one should not become a father or a mother unless one is able to give protection to one's children from the imminent danger of death. People do not know, especially in the western countries, that anyone, if he likes, can be saved from the cycle of birth and death. It is said in the __Bhagavad-gita__ as follows:

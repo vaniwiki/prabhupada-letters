@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1972-04-04
-showdate_hidden  : 2023-04-04
-To_letters       : Rupanuga
-Date_letter      : April 4
-Year_letter      : 1972
-Place_letter     : Sydney
-----
-
 My dear Rupanuga,
 
 Please accept my blessings. I am in due reciept of your letter dated March 30, 1972 and the contents have greatly surprised me.

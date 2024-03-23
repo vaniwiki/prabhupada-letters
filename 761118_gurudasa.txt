@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1976-11-18
-showdate_hidden  : 2023-11-18
-To_letters       : Gurudasa
-Date_letter      : November 18
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Frankfurt
 
 My dear Gurudasa,

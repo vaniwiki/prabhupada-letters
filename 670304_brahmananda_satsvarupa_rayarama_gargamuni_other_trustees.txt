@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees
-ListDate_hidden  : 1967-03-04
-showdate_hidden  : 2023-03-04
-To_letters       : Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees
-Date_letter      : March 4
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 Sriman Brahmananda Brahmacari,\\
 Sriman Satsvarupa Brahmacari,\\
 Sriman Rayarama Brahmacari,\\

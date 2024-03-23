@@ -9,16 +9,6 @@
 
 ====== Letter to: Narottamananda ======
 
----- dataentry letters ----
-Recipient_hidden : Narottamananda
-ListDate_hidden  : 1972-10-23
-showdate_hidden  : 2023-10-23
-To_letters       : Narottamananda
-Date_letter      : October 23
-Year_letter      : 1972
-Place_letter     : Vrindaban
-----
-
 Bloomington, Indiana
 
 My dear Narottamananda,

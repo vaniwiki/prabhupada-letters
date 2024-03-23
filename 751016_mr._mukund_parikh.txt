@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Mukund Parikh ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Mukund Parikh
-ListDate_hidden  : 1975-10-16
-showdate_hidden  : 2023-10-16
-To_letters       : Mr. Mukund Parikh
-Date_letter      : October 16
-Year_letter      : 1975
-Place_letter     : Johannesburg
-----
-
 Mukund Parikh,\\
 838, Mohinoor Court,\\
 Gaithersburg, Maryland 20760

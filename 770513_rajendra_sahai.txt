@@ -9,16 +9,6 @@
 
 ====== Letter to: Rajendra Sahai ======
 
----- dataentry letters ----
-Recipient_hidden : Rajendra Sahai
-ListDate_hidden  : 1977-05-13
-showdate_hidden  : 2023-05-13
-To_letters       : Rajendra Sahai
-Date_letter      : May 13
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sri Rajendra Sahai \\
 Bhakti Bhawan\\
 Fatehpur (U.P.)

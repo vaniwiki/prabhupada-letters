@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna, Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna, Jayapataka
-ListDate_hidden  : 1972-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : Tamala Krsna, Jayapataka
-Date_letter      : April 2
-Year_letter      : 1972
-Place_letter     : Sydney
-----
-
 Calcutta
 
 My dear Tamala Krishna and Jayapataka,

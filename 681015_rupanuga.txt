@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1968-10-15
-showdate_hidden  : 2023-10-15
-To_letters       : Rupanuga
-Date_letter      : October 15
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Rupanuga,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated October 10, and 11, and noted the contents carefully. My first thanks are due to my dear grandson Mr. Eric, who is so kind to pray for my good health. So offer my blessings and thanks to the good child, and I am also praying to Krishna for his long life and prosperity.

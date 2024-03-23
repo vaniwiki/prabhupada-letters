@@ -9,16 +9,6 @@
 
 ====== Letter to: Ram Prashad ======
 
----- dataentry letters ----
-Recipient_hidden : Ram Prashad
-ListDate_hidden  : 1973-01-29
-showdate_hidden  : 2023-01-29
-To_letters       : Ram Prashad
-Date_letter      : January 29
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 Ram Prashad\\
 232, Sector 20-A\\
 Chandigarh

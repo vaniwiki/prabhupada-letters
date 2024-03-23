@@ -9,16 +9,6 @@
 
 ====== Letter to: Nityananda ======
 
----- dataentry letters ----
-Recipient_hidden : Nityananda
-ListDate_hidden  : 1971-04-01
-showdate_hidden  : 2023-04-01
-To_letters       : Nityananda
-Date_letter      : April 1
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 New Orleans
 
 My dear Nityananda Das,

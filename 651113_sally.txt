@@ -9,16 +9,6 @@
 
 ====== Letter to: Sally ======
 
----- dataentry letters ----
-Recipient_hidden : Sally
-ListDate_hidden  : 1965-11-13
-showdate_hidden  : 2023-11-13
-To_letters       : Sally
-Date_letter      : November 13
-Year_letter      : 1965
-Place_letter     : New York
-----
-
 My dear daughter Sally,
 
 I thank you very much for your letter of the 9th instant and I am very glad to note that your little Bijo is growing to be more adventurous nowadays. Generally the son acquires the qualities of the mother and the daughter acquires the qualities of the father. And such children become happy in life. You have acquired the qualities of your intelligent father and your son will be as intelligent as you are and thus your son will be as good as your noble father. I wish that you be happy more and more with your growing children. You can take me also as Old Bijo and therefore even at my ripe old age I have taken some adventurous task and as your little Bijo requires your help always in his little adventures so also your old Bijo requires your help in his adventures in America.

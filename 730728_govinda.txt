@@ -9,16 +9,6 @@
 
 ====== Letter to: Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Govinda
-ListDate_hidden  : 1973-07-28
-showdate_hidden  : 2023-07-28
-To_letters       : Govinda
-Date_letter      : July 28
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 My dear Govinda Das,
 
 Please accept my blessings, I beg to acknowledge receipt of your letter dated July 23, 73 and I have very much appreciated the pictures of the deities and their surrounding, this is excellent, better than Los Angeles. I have named your deities Kisora Kisori. So go on with your worship and increase it more and more till all Chicago has become aware of Kisora Kisori in your temple.

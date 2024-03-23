@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtiraja ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtiraja
-ListDate_hidden  : 1975-12-02
-showdate_hidden  : 2023-12-02
-To_letters       : Kirtiraja
-Date_letter      : December 2
-Year_letter      : 1975
-Place_letter     : New Delhi
-----
-
 My dear Kirtiraja Prabhu,
 
 Please accept my blessings. I beg to acknowledge receipt of you letter dated November 17, 1975. Due to traveling I have not received it till just now, but in the meantime I have learned from Hansadutta Prabhu that you have already arrived in Germany. So you work with Cakravarti and Alanatha Prabhu, they will give you good advice and help.

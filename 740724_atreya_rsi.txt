@@ -9,16 +9,6 @@
 
 ====== Letter to: Atreya Rsi ======
 
----- dataentry letters ----
-Recipient_hidden : Atreya Rsi
-ListDate_hidden  : 1974-07-24
-showdate_hidden  : 2023-07-24
-To_letters       : Atreya Rsi
-Date_letter      : July 24
-Year_letter      : 1974
-Place_letter     : New York
-----
-
 Tehran
 
 [To Atreya Rsi]

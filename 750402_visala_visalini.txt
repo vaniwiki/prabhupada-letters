@@ -9,16 +9,6 @@
 
 ====== Letter to: Visala, Visalini ======
 
----- dataentry letters ----
-Recipient_hidden : Visala, Visalini
-ListDate_hidden  : 1975-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : Visala, Visalini
-Date_letter      : April 2
-Year_letter      : 1975
-Place_letter     : Mayapur
-----
-
 Mayapur
 
 My dear Visala and Visalini,

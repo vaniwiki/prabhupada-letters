@@ -9,16 +9,6 @@
 
 ====== Letter to: Mrs. Tania Perera ======
 
----- dataentry letters ----
-Recipient_hidden : Mrs. Tania Perera
-ListDate_hidden  : 1976-10-15
-showdate_hidden  : 2023-10-15
-To_letters       : Mrs. Tania Perera
-Date_letter      : October 15
-Year_letter      : 1976
-Place_letter     : Chandigarh
-----
-
 My dear Mrs. Tania Perera,
 
 Please accept my blessings. I am in receipt of your letter dated nil. I have noted the contents carefully. Yes! I remember you and the gold chain you gave me I gave to the deities in Melbourne.

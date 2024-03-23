@@ -9,16 +9,6 @@
 
 ====== Letter to: Prabhupada ======
 
----- dataentry letters ----
-Recipient_hidden : Prabhupada
-ListDate_hidden  : 1976-06-06
-showdate_hidden  : 2023-06-06
-To_letters       : Prabhupada
-Date_letter      : June 6
-Year_letter      : 1976
-Place_letter     : Los Angeles
-----
-
 Vancouver
 
 My dear Prabhupada dasa,

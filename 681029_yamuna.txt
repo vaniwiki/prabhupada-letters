@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna
-ListDate_hidden  : 1968-10-29
-showdate_hidden  : 2023-10-29
-To_letters       : Yamuna
-Date_letter      : October 29
-Year_letter      : 1968
-Place_letter     : Santa Fe
-----
-
 My dear Yamuna,
 
 Please accept my blessings. I thank you very much for your nice letter of Oct. 21, 1968. I received your letter in Montreal but I have come here just day before yesterday. I am going to Hollywood from here and my return post address is given over leaf.

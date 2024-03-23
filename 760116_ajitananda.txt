@@ -9,16 +9,6 @@
 
 ====== Letter to: Ajitananda ======
 
----- dataentry letters ----
-Recipient_hidden : Ajitananda
-ListDate_hidden  : 1976-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Ajitananda
-Date_letter      : January 16
-Year_letter      : 1976
-Place_letter     : Calcutta
-----
-
 New Vrindaban
 
 My dear Ajitananda,

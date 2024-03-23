@@ -9,16 +9,6 @@
 
 ====== Letter to: Umapati ======
 
----- dataentry letters ----
-Recipient_hidden : Umapati
-ListDate_hidden  : 1967-09-05
-showdate_hidden  : 2023-09-05
-To_letters       : Umapati
-Date_letter      : September 5
-Year_letter      : 1967
-Place_letter     : Vrindaban
-----
-
 My dear Umapati,
 
 I am so glad to receive your letter dated 28 August, through Acyutananda. You will be glad to know that he has safely arrived here via Delhi. He is a very intelligent boy, and has safely come without any difficulty.

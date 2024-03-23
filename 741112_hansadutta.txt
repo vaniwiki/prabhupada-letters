@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1974-11-12
-showdate_hidden  : 2023-11-12
-To_letters       : Hansadutta
-Date_letter      : November 12
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 West Germany
 
 My dear Hansadutta das:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mrs. Blasko ======
 
----- dataentry letters ----
-Recipient_hidden : Mrs. Blasko
-ListDate_hidden  : 1976-04-21
-showdate_hidden  : 2023-04-21
-To_letters       : Mrs. Blasko
-Date_letter      : April 21
-Year_letter      : 1976
-Place_letter     : Melbourne
-----
-
 Tuscaloosa, Alabama
 
 Dear Mrs. Blasko,

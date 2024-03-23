@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1972-01-01
-showdate_hidden  : 2023-01-01
-To_letters       : Gargamuni
-Date_letter      : January 1
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Gargamuni Maharaja,
 
 Please accept my blessings. I thank you for your letter dated 28th December, 1971 and have read it carefully.

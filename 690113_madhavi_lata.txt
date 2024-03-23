@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhavi Lata ======
 
----- dataentry letters ----
-Recipient_hidden : Madhavi Lata
-ListDate_hidden  : 1969-01-13
-showdate_hidden  : 2023-01-13
-To_letters       : Madhavi Lata
-Date_letter      : January 13
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Madhavi Lata,
 
 Please accept my blessings. I am in due receipt of your recent letter (undated) and I have noted the contents.

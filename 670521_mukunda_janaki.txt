@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda, Janaki ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda, Janaki
-ListDate_hidden  : 1967-05-21
-showdate_hidden  : 2023-05-21
-To_letters       : Mukunda, Janaki
-Date_letter      : May 21
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 My dear Mukunda and Janaki,
 
 Please accept my blessings. I am in due receipt of your letter of the 17th instant. Your ardent call is responding from heart and I have decided to return to San Francisco any day after 5th June 1967. You can advise therefore the American Air Lines for booking my seat and take my instruction here when I shall start as you did it last time.

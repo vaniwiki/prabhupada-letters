@@ -9,16 +9,6 @@
 
 ====== Letter to: All Devotees ======
 
----- dataentry letters ----
-Recipient_hidden : All Devotees
-ListDate_hidden  : 1968-09-07
-showdate_hidden  : 2023-09-07
-To_letters       : All Devotees
-Date_letter      : September 7
-Year_letter      : 1968
-Place_letter     : New York
-----
-
 ALL GLORIES TO SRI GURU AND GAURANGA\\
 MEMO TO ALL DEVOTEES\\
 RE: NEW VRINDABAN

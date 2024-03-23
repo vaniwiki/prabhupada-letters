@@ -9,16 +9,6 @@
 
 ====== Letter to: Deoji Punja ======
 
----- dataentry letters ----
-Recipient_hidden : Deoji Punja
-ListDate_hidden  : 1975-09-04
-showdate_hidden  : 2023-09-04
-To_letters       : Deoji Punja
-Date_letter      : September 4
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Sriman Deoji Punja\\
 Punja & Sons\\
 P.O. Box 125\\

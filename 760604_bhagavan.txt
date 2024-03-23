@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhagavan ======
 
----- dataentry letters ----
-Recipient_hidden : Bhagavan
-ListDate_hidden  : 1976-06-04
-showdate_hidden  : 2023-06-04
-To_letters       : Bhagavan
-Date_letter      : June 4
-Year_letter      : 1976
-Place_letter     : Los Angeles
-----
-
 Los Angeles
 
 My dear Bhagavan dasa,

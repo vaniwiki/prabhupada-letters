@@ -9,16 +9,6 @@
 
 ====== Letter to: Advaita ======
 
----- dataentry letters ----
-Recipient_hidden : Advaita
-ListDate_hidden  : 1967-12-16
-showdate_hidden  : 2023-12-16
-To_letters       : Advaita
-Date_letter      : December 16
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Advaita das
 
 Please accept my blessings. I am in due receipt of your letter dated November 20, 1967.

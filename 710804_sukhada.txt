@@ -9,16 +9,6 @@
 
 ====== Letter to: Sukhada ======
 
----- dataentry letters ----
-Recipient_hidden : Sukhada
-ListDate_hidden  : 1971-08-04
-showdate_hidden  : 2023-08-04
-To_letters       : Sukhada
-Date_letter      : August 4
-Year_letter      : 1971
-Place_letter     : London
-----
-
 Boston
 
 My dear Sukhada Devi,

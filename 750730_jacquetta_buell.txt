@@ -9,16 +9,6 @@
 
 ====== Letter to: Jacquetta Buell ======
 
----- dataentry letters ----
-Recipient_hidden : Jacquetta Buell
-ListDate_hidden  : 1975-07-30
-showdate_hidden  : 2023-07-30
-To_letters       : Jacquetta Buell
-Date_letter      : July 30
-Year_letter      : 1975
-Place_letter     : Dallas
-----
-
 Jacquetta Buell\\
 c/o Mrs. Keya Laurence\\
 1477-A 19th Ave.\\

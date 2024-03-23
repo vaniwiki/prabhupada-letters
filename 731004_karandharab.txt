@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1973-10-04
-showdate_hidden  : 2023-10-04
-To_letters       : Karandhara
-Date_letter      : October 4
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 My dear Karandhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 15th, 1973 requesting initiation for seven devotees and second initiation for three devotees. Upon your recommendation I accept them as my disciples. Their spiritual names are as follows:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Visalini ======
 
----- dataentry letters ----
-Recipient_hidden : Visalini
-ListDate_hidden  : 1975-01-01
-showdate_hidden  : 2023-01-01
-To_letters       : Visalini
-Date_letter      : January 1
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Vrndavana
 
 My dear Visalaini devi,

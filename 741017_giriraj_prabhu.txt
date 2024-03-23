@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraj Prabhu ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraj Prabhu
-ListDate_hidden  : 1974-10-17
-showdate_hidden  : 2023-10-17
-To_letters       : Giriraj Prabhu
-Date_letter      : October 17
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Dear Giriraj Prabhu:
 
 Please accept my humble obeisances. I am in do receipt of your registered letter dated October 7, 1974 with enclosed true copy of gift deed and CBI receipt for the fixed deposit certificates. Srila Prabhupad would like to know what is the balance of the Central a/c in American Express Bank. We are expecting that shortly L.A. is to transfer Dollars 40,000.00 in that account, and this money should be kept there until you receive the balance pf that account to date.

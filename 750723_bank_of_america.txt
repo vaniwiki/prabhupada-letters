@@ -9,16 +9,6 @@
 
 ====== Letter to: Bank of America ======
 
----- dataentry letters ----
-Recipient_hidden : Bank of America
-ListDate_hidden  : 1975-07-23
-showdate_hidden  : 2023-07-23
-To_letters       : Bank of America
-Date_letter      : July 23
-Year_letter      : 1975
-Place_letter     : Los Angeles
-----
-
 Bank of America\\
 Express Towers, Nariman Point\\
 Bombay, INDIA\\

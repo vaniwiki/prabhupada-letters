@@ -9,16 +9,6 @@
 
 ====== Letter to: Ksirodakasayi ======
 
----- dataentry letters ----
-Recipient_hidden : Ksirodakasayi
-ListDate_hidden  : 1971-12-30
-showdate_hidden  : 2023-12-30
-To_letters       : Ksirodakasayi
-Date_letter      : December 30
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 My dear Ksirodakasayi,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 23rd December, 1971.

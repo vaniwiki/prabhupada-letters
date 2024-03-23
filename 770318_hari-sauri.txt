@@ -9,16 +9,6 @@
 
 ====== Letter to: Hari-sauri ======
 
----- dataentry letters ----
-Recipient_hidden : Hari-sauri
-ListDate_hidden  : 1977-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Hari-sauri
-Date_letter      : March 18
-Year_letter      : 1977
-Place_letter     : Mayapur
-----
-
 My dear Hari Sauri,
 
 Please accept my blessings. I beg to thank you for your letter dated March 13rd, 1977. Your letter is very nice. You have expressed transcendental sentiments.

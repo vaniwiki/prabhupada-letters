@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Santosh Kumar Pyne ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Santosh Kumar Pyne
-ListDate_hidden  : 1976-09-08
-showdate_hidden  : 2023-09-08
-To_letters       : Sri Santosh Kumar Pyne
-Date_letter      : September 8
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Sri Santosh Kumar Pyne\\
 Daspara Maiden Daspara\\
 Chursurah, Dist. Hooghly\\

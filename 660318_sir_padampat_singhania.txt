@@ -9,16 +9,6 @@
 
 ====== Letter to: Sir Padampat Singhania ======
 
----- dataentry letters ----
-Recipient_hidden : Sir Padampat Singhania
-ListDate_hidden  : 1966-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Sir Padampat Singhania
-Date_letter      : March 18
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 My dear Sir Padampat,
 
 Please accept my greetings and blessings of Sri Sri Dvarakadhisa Maharaja. I hope by Lord's Grace everything is all right with you.

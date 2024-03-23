@@ -9,16 +9,6 @@
 
 ====== Letter to: Paramesvari ======
 
----- dataentry letters ----
-Recipient_hidden : Paramesvari
-ListDate_hidden  : 1974-05-17
-showdate_hidden  : 2023-05-17
-To_letters       : Paramesvari
-Date_letter      : May 17
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Nairobi
 
 My dear Paramesvari,

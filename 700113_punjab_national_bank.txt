@@ -9,16 +9,6 @@
 
 ====== Letter to: Punjab National Bank ======
 
----- dataentry letters ----
-Recipient_hidden : Punjab National Bank
-ListDate_hidden  : 1970-01-13
-showdate_hidden  : 2023-01-13
-To_letters       : Punjab National Bank
-Date_letter      : January 13
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Punjab National Bank\\
 P.O. Vrindaban (Mathura)\\
 U.P., India\\

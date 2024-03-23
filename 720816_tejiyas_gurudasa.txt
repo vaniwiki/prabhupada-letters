@@ -9,16 +9,6 @@
 
 ====== Letter to: Tejiyas, Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Tejiyas, Gurudasa
-ListDate_hidden  : 1972-08-16
-showdate_hidden  : 2023-08-16
-To_letters       : Tejiyas, Gurudasa
-Date_letter      : August 16
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Vrindaban
 
 Dear Tejiyas and Gurudasa,

@@ -9,16 +9,6 @@
 
 ====== Letter to: David B. Richeter Hughes ======
 
----- dataentry letters ----
-Recipient_hidden : David B. Richeter Hughes
-ListDate_hidden  : 1976-09-08
-showdate_hidden  : 2023-09-08
-To_letters       : David B. Richeter Hughes
-Date_letter      : September 8
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 World Christ COR\\
 David B. Richeter Hughes, Founder\\
 c/o F.A. Kranert\\

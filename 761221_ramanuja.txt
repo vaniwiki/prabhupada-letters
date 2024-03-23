@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramanuja ======
 
----- dataentry letters ----
-Recipient_hidden : Ramanuja
-ListDate_hidden  : 1976-12-21
-showdate_hidden  : 2023-12-21
-To_letters       : Ramanuja
-Date_letter      : December 21
-Year_letter      : 1976
-Place_letter     : Bombay
-----
-
 Berkeley
 
 My dear Ramanuja das:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Binoy Krishna Mitra ======
 
----- dataentry letters ----
-Recipient_hidden : Binoy Krishna Mitra
-ListDate_hidden  : 1976-02-07
-showdate_hidden  : 2023-02-07
-To_letters       : Binoy Krishna Mitra
-Date_letter      : February 7
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Binoy Krishna Mitra\\
 Calcutta
 

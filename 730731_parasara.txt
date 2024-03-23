@@ -9,16 +9,6 @@
 
 ====== Letter to: Parasara ======
 
----- dataentry letters ----
-Recipient_hidden : Parasara
-ListDate_hidden  : 1973-07-31
-showdate_hidden  : 2023-07-31
-To_letters       : Parasara
-Date_letter      : July 31
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 Evanston, Illinois
 
 My dear Parasara Das,

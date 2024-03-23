@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1968-12-19
-showdate_hidden  : 2023-12-19
-To_letters       : Gargamuni
-Date_letter      : December 19
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Gargamuni,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 5, 1968 and I have noted the contents. I have also heard from Purusottama who has spoken to Brahmananda on the telephone yesterday that your father has made it clear that he will not confide in you or trust you to make advancement very easily in his business. Also I have heard that you have decided to leave back to the New York temple. This idea is alright under the circumstances and I think that your father will one day come to regret that he has not cooperated with your plans.

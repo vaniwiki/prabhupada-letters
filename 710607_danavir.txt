@@ -9,16 +9,6 @@
 
 ====== Letter to: Danavir ======
 
----- dataentry letters ----
-Recipient_hidden : Danavir
-ListDate_hidden  : 1971-06-07
-showdate_hidden  : 2023-06-07
-To_letters       : Danavir
-Date_letter      : June 7
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 San Francisco
 
 My dear Danavir,

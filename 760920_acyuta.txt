@@ -9,16 +9,6 @@
 
 ====== Letter to: Acyuta ======
 
----- dataentry letters ----
-Recipient_hidden : Acyuta
-ListDate_hidden  : 1976-09-20
-showdate_hidden  : 2023-09-20
-To_letters       : Acyuta
-Date_letter      : September 20
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Sao Paulo, Brazil
 
 My dear Acyuta das,

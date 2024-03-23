@@ -9,16 +9,6 @@
 
 ====== Letter to: Bibhavati ======
 
----- dataentry letters ----
-Recipient_hidden : Bibhavati
-ListDate_hidden  : 1969-05-13
-showdate_hidden  : 2023-05-13
-To_letters       : Bibhavati
-Date_letter      : May 13
-Year_letter      : 1969
-Place_letter     : Columbus, Ohio
-----
-
 A.C. BHAKTIVEDANTA SWAMI\\
 318 East 20th Avenue\\
 Columbus, Ohio 43201

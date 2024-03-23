@@ -9,16 +9,6 @@
 
 ====== Letter to: Niranjana ======
 
----- dataentry letters ----
-Recipient_hidden : Niranjana
-ListDate_hidden  : 1975-07-26
-showdate_hidden  : 2023-07-26
-To_letters       : Niranjana
-Date_letter      : July 26
-Year_letter      : 1975
-Place_letter     : Los Angeles
-----
-
 Glasgow
 
 My dear Niranjana dasa,

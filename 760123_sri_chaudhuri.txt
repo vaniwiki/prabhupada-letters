@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Chaudhuri ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Chaudhuri
-ListDate_hidden  : 1976-01-23
-showdate_hidden  : 2023-01-23
-To_letters       : Sri Chaudhuri
-Date_letter      : January 23
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Department of Development and Planning\\
 Government of West Bengal\\
 Raj Bhavan, Calcutta

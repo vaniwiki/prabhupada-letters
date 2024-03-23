@@ -9,16 +9,6 @@
 
 ====== Letter to: Ballabhi ======
 
----- dataentry letters ----
-Recipient_hidden : Ballabhi
-ListDate_hidden  : 1967-05-05
-showdate_hidden  : 2023-05-05
-To_letters       : Ballabhi
-Date_letter      : May 5
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 San Francisco
 
 My dear Ballabhi,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri D. C. Cakravarti ======
 
----- dataentry letters ----
-Recipient_hidden : Sri D. C. Cakravarti
-ListDate_hidden  : 1976-02-19
-showdate_hidden  : 2023-02-19
-To_letters       : Sri D. C. Cakravarti
-Date_letter      : February 19
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Sri D.C. Cakravarti\\
 Calcutta
 

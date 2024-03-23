@@ -9,16 +9,6 @@
 
 ====== Letter to: Devendranatha ======
 
----- dataentry letters ----
-Recipient_hidden : Devendranatha
-ListDate_hidden  : 1974-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Devendranatha
-Date_letter      : January 16
-Year_letter      : 1974
-Place_letter     : Hawaii
-----
-
 My dear Devendranath,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 15, 1974.

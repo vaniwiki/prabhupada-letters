@@ -9,16 +9,6 @@
 
 ====== Letter to: S. B. Bartarya ======
 
----- dataentry letters ----
-Recipient_hidden : S. B. Bartarya
-ListDate_hidden  : 1976-10-15
-showdate_hidden  : 2023-10-15
-To_letters       : S. B. Bartarya
-Date_letter      : October 15
-Year_letter      : 1976
-Place_letter     : Chandigarh
-----
-
 S. B. Bartarya\\
 M.A. L.L.B.\\
 Geeta Margh, Srinigar\\

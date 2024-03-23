@@ -9,16 +9,6 @@
 
 ====== Letter to: Ananda ======
 
----- dataentry letters ----
-Recipient_hidden : Ananda
-ListDate_hidden  : 1968-10-11
-showdate_hidden  : 2023-10-11
-To_letters       : Ananda
-Date_letter      : October 11
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Ananda,
 
 Please accept my blessings. I may inform you that I may go to Vancouver sometimes in the next week or so. When exactly I shall go there, I shall inform you in my next letter.

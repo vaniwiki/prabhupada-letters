@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1974-12-21
-showdate_hidden  : 2023-12-21
-To_letters       : Ramesvara
-Date_letter      : December 21
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Los Angeles
 
 My dear Ramesvara,

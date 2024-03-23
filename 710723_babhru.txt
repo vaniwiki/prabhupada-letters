@@ -9,16 +9,6 @@
 
 ====== Letter to: Babhru ======
 
----- dataentry letters ----
-Recipient_hidden : Babhru
-ListDate_hidden  : 1971-07-23
-showdate_hidden  : 2023-07-23
-To_letters       : Babhru
-Date_letter      : July 23
-Year_letter      : 1971
-Place_letter     : Brooklyn
-----
-
 439 HENRY STREET, BROOKLYN, N.Y. 11231 – Tel.: 596-9658
 
 My dear Babhru (William),

@@ -9,16 +9,6 @@
 
 ====== Letter to: Makhanlal, Tilaka ======
 
----- dataentry letters ----
-Recipient_hidden : Makhanlal, Tilaka
-ListDate_hidden  : 1971-09-24
-showdate_hidden  : 2023-09-24
-To_letters       : Makhanlal, Tilaka
-Date_letter      : September 24
-Year_letter      : 1971
-Place_letter     : Nairobi
-----
-
 Seattle
 
 My dear Makhanlal and Tilaka Devi,

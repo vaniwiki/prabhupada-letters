@@ -9,16 +9,6 @@
 
 ====== Letter to: Prof. O.P. Goel ======
 
----- dataentry letters ----
-Recipient_hidden : Prof. O.P. Goel
-ListDate_hidden  : 1975-05-10
-showdate_hidden  : 2023-05-10
-To_letters       : Prof. O.P. Goel
-Date_letter      : May 10
-Year_letter      : 1975
-Place_letter     : Perth
-----
-
 Prof. O.P. Goel\\
 7, Krishna Kunj\\
 Plot 143, Tulsipipe Road\\

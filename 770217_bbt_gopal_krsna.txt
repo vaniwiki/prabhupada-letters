@@ -9,16 +9,6 @@
 
 ====== Letter to: BBT Gopal Krsna - 17 February, 1977 ======
 
----- dataentry letters ----
-Recipient_hidden : BBT, Gopal Krsna
-ListDate_hidden  : 1977-02-17
-showdate_hidden  : 2023-02-17
-To_letters       : BBT, Gopal Krsna
-Date_letter      : February 17
-Year_letter      : 1977
-Place_letter     : Mayapur
-----
-
 Hare Krishna Land\\
 Juhu Road, Juhu\\
 Bombay

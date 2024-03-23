@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhavi Lata ======
 
----- dataentry letters ----
-Recipient_hidden : Madhavi Lata
-ListDate_hidden  : 1969-03-19
-showdate_hidden  : 2023-03-19
-To_letters       : Madhavi Lata
-Date_letter      : March 19
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Madhavi Lata dasi,
 
 Please accept my blessings. I am in due receipt of your telegram dated March 13, 1969, and am glad to hear from you. You have sent a very nice proposal, and if you can organize a Brahmacarini department, and manage it, the idea is very nice. But I am afraid you are not fixed up enough to carry on so much responsibility.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Ranchor ======
 
----- dataentry letters ----
-Recipient_hidden : Ranchor
-ListDate_hidden  : 1974-03-15
-showdate_hidden  : 2023-03-15
-To_letters       : Ranchor
-Date_letter      : March 15
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Manchester, England
 
 Dear Ranchor,

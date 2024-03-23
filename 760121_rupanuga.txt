@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1976-01-21
-showdate_hidden  : 2023-01-21
-To_letters       : Rupanuga
-Date_letter      : January 21
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 My dear Rupanuga,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 17th January, 1976.

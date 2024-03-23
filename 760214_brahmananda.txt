@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1976-02-14
-showdate_hidden  : 2023-02-14
-To_letters       : Brahmananda
-Date_letter      : February 14
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Nairobi
 
 My dear Brahmananda Swami,

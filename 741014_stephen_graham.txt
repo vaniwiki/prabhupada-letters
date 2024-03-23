@@ -9,16 +9,6 @@
 
 ====== Letter to: Stephen Graham ======
 
----- dataentry letters ----
-Recipient_hidden : Stephen Graham
-ListDate_hidden  : 1974-10-14
-showdate_hidden  : 2023-10-14
-To_letters       : Stephen Graham
-Date_letter      : October 14
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Dunblane Stirlingshire, Scotland
 
 Dear Stephen Graham:

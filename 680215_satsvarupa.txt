@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1968-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Satsvarupa
-Date_letter      : February 15
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I thank you very much for your letter of Feb. 10, 1968, and have noted the contents carefully. The article was very nice, as I have written in Jadurani's letter. And the radio show man is very intelligent, this is good publicity for our movement. And I am happy to hear you are holding Kirtana at so many places, and spreading Lord Caitanya's message.

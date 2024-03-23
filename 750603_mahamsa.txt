@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahamsa ======
 
----- dataentry letters ----
-Recipient_hidden : Mahamsa
-ListDate_hidden  : 1975-06-03
-showdate_hidden  : 2023-06-03
-To_letters       : Mahamsa
-Date_letter      : June 3
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Hyderabad
 
 My dear Mahamsa Swami,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Ekesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ekesvara
-ListDate_hidden  : 1977-01-04
-showdate_hidden  : 2023-01-04
-To_letters       : Ekesvara
-Date_letter      : January 4
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 Potomac, Maryland
 
 My dear Ekesvara,

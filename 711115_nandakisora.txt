@@ -9,16 +9,6 @@
 
 ====== Letter to: Nandakisora ======
 
----- dataentry letters ----
-Recipient_hidden : Nandakisora
-ListDate_hidden  : 1971-11-15
-showdate_hidden  : 2023-11-15
-To_letters       : Nandakisora
-Date_letter      : November 15
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 My dear Nanda Kisora,
 
 Please accept my blessings. I am in due receipt of your letter of (undated), asking me if you could go to Mexico City to learn Spanish language for opening centers in South America.

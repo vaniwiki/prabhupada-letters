@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaurasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Gaurasundara
-ListDate_hidden  : 1970-05-22
-showdate_hidden  : 2023-05-22
-To_letters       : Gaurasundara
-Date_letter      : May 22
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Gaurasundara,
 
 Please accept my blessings and offer the same to Govinda dasi. I am in due receipt of your letter dated 19th May, 1970.

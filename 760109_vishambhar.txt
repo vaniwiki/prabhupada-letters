@@ -9,16 +9,6 @@
 
 ====== Letter to: Vishambhar ======
 
----- dataentry letters ----
-Recipient_hidden : Vishambhar
-ListDate_hidden  : 1976-01-09
-showdate_hidden  : 2023-01-09
-To_letters       : Vishambhar
-Date_letter      : January 9
-Year_letter      : 1976
-Place_letter     : Bombay
-----
-
 Vrindaban
 
 My dear Vishambhar,

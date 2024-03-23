@@ -9,16 +9,6 @@
 
 ====== Letter to: Satyabhama ======
 
----- dataentry letters ----
-Recipient_hidden : Satyabhama
-ListDate_hidden  : 1969-03-24
-showdate_hidden  : 2023-03-24
-To_letters       : Satyabhama
-Date_letter      : March 24
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Satyabhama,
 
 Please accept my blessings. I am in due receipt of your very nice letter of March 16, and I thank you very much for it. I am happy to hear that you and your good husband are living peacefully at New Vrindaban and executing Krishna Consciousness. This is very nice, and is a good example for others. In the Western countries there is practically no real family life, and we have to show good example of Krishna Consciousness family life, and others will be attracted to follow your examples. This is my idea.

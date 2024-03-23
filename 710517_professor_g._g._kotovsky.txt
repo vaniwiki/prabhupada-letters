@@ -9,16 +9,6 @@
 
 ====== Letter to: Professor G. G. Kotovsky ======
 
----- dataentry letters ----
-Recipient_hidden : Professor G. G. Kotovsky
-ListDate_hidden  : 1971-05-17
-showdate_hidden  : 2023-05-17
-To_letters       : Professor G. G. Kotovsky
-Date_letter      : May 17
-Year_letter      : 1971
-Place_letter     : Calcutta
-----
-
 Professor G. G. Kotovsky\\
 Head, Department of Indian and South Asian Studies\\
 Institute of Oriental Studies\\

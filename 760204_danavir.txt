@@ -9,16 +9,6 @@
 
 ====== Letter to: Danavir ======
 
----- dataentry letters ----
-Recipient_hidden : Danavir
-ListDate_hidden  : 1976-02-04
-showdate_hidden  : 2023-02-04
-To_letters       : Danavir
-Date_letter      : February 4
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Los Angeles
 
 My dear Danavir,

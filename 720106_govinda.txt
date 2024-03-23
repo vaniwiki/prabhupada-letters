@@ -9,16 +9,6 @@
 
 ====== Letter to: Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Govinda
-ListDate_hidden  : 1972-01-06
-showdate_hidden  : 2023-01-06
-To_letters       : Govinda
-Date_letter      : January 6
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Honolulu
 
 My dear Govinda dasi,

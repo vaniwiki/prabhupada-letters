@@ -9,16 +9,6 @@
 
 ====== Letter to: Jai Prakash Narayan ======
 
----- dataentry letters ----
-Recipient_hidden : Jai Prakash Narayan
-ListDate_hidden  : 1975-07-01
-showdate_hidden  : 2023-07-01
-To_letters       : Jai Prakash Narayan
-Date_letter      : July 1
-Year_letter      : 1975
-Place_letter     : 
-----
-
 Sri Jai Prakash Narayan\\
 P.O. Patna, Bihar, India
 

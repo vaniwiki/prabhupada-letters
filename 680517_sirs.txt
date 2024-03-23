@@ -9,16 +9,6 @@
 
 ====== Letter to: Sirs ======
 
----- dataentry letters ----
-Recipient_hidden : Sirs
-ListDate_hidden  : 1968-05-17
-showdate_hidden  : 2023-05-17
-To_letters       : Sirs
-Date_letter      : December 22
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 Dear Sirs,
 
 With reference to our conversation of the 27th November, 1971, I beg to inform you that when I visited India in 1967, our account was settled up until the month of August, 1967. Since then I have paid you as follows;

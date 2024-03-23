@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1972-10-24
-showdate_hidden  : 2023-10-24
-To_letters       : Rupanuga
-Date_letter      : October 24
-Year_letter      : 1972
-Place_letter     : Vrindaban
-----
-
 New York
 
 My dear Rupanuga,

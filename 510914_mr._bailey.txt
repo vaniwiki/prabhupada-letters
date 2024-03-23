@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Bailey ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Bailey
-ListDate_hidden  : 1951-09-14
-showdate_hidden  : 2023-09-14
-To_letters       : Mr. Bailey
-Date_letter      : September 14
-Year_letter      : 1951
-Place_letter     : Allahabad
-----
-
 Mr. Daniel Bailey\\
 Information officer\\
 American Reporter,\\

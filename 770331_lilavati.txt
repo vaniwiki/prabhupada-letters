@@ -9,16 +9,6 @@
 
 ====== Letter to: Lilavati ======
 
----- dataentry letters ----
-Recipient_hidden : Lilavati
-ListDate_hidden  : 1977-03-31
-showdate_hidden  : 2023-03-31
-To_letters       : Lilavati
-Date_letter      : March 31
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 Bhaktivedanta Manor
 
 My dear Lilavati,

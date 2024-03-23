@@ -9,16 +9,6 @@
 
 ====== Letter to: Syndicate Bank ======
 
----- dataentry letters ----
-Recipient_hidden : Syndicate Bank
-ListDate_hidden  : 1974-09-21
-showdate_hidden  : 2023-09-21
-To_letters       : Syndicate Bank
-Date_letter      : September 21
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Syndicate Bank, Brindaban Branch
 
 We the undersigned, A.C. Bhaktivedanta Swami, Brahmananda Swami and Gurudas Adhikary, put the following documents in the Safty Deposit Locker No. 196 of Syindicate Bank, Vrindaban.

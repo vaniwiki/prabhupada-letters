@@ -9,16 +9,6 @@
 
 ====== Letter to: Bank Manager ======
 
----- dataentry letters ----
-Recipient_hidden : Bank Manager
-ListDate_hidden  : 1969-08-08
-showdate_hidden  : 2023-08-08
-To_letters       : Bank Manager
-Date_letter      : August 8
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 From: FOUNDER-SECRETARY: LEAGUE OF DEVOTEES\\
 1975 So. La Cienega Blvd.\\
 Los Angeles, Cal. 90034 USA

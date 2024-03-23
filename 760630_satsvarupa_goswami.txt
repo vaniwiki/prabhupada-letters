@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa Goswami ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa Goswami
-ListDate_hidden  : 1976-06-30
-showdate_hidden  : 2023-06-30
-To_letters       : Satsvarupa Goswami
-Date_letter      : June 30
-Year_letter      : 1976
-Place_letter     : New Vrindaban
-----
-
 His Holiness Satsvarupa Goswami\\
 ISKCON\\
 1014 Emerson St.\\

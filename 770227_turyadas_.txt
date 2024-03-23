@@ -9,16 +9,6 @@
 
 ====== Letter to: Turyadas  ======
 
----- dataentry letters ----
-Recipient_hidden : Turyadas 
-ListDate_hidden  : 1977-02-27
-showdate_hidden  : 2023-02-27
-To_letters       : Turyadas 
-Date_letter      : February 27
-Year_letter      : 1977
-Place_letter     : Mayapur
-----
-
 My dear Turyadas Prabhu,
 
 Please accept my blessings. I beg to acknowledge receipt your letter dated Feb.16, 1977.

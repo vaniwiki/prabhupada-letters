@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Govinda
-ListDate_hidden  : 1977-02-01
-showdate_hidden  : 2023-02-01
-To_letters       : Sri Govinda
-Date_letter      : February 1
-Year_letter      : 1977
-Place_letter     : Puri 
-----
-
 Dear Sri Govinda,
 
 Please accept my blessings. I am in receipt of your letter of January 20, and I have examined the contents.

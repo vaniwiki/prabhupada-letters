@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1967-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Satsvarupa
-Date_letter      : February 15
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I hope you have received my previous notes sent to you in different letters. I have not as yet received the copy of Narada Bhaktisutra which you want me to write commentaries. I hope you are duly editing the tapes of Teachings of Lord Caitanya. While typing the records after your editing make it in duplicate and send me one copy to see how you are doing it.

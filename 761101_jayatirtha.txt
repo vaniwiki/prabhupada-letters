@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1976-11-01
-showdate_hidden  : 2023-11-01
-To_letters       : Jayatirtha
-Date_letter      : November 1
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Bhaktivedanta Manor
 
 My dear Jayatirtha,

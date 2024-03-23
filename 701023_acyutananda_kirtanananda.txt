@@ -9,16 +9,6 @@
 
 ====== Letter to: Acyutananda , Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Acyutananda , Kirtanananda
-ListDate_hidden  : 1970-10-23
-showdate_hidden  : 2023-10-23
-To_letters       : Acyutananda , Kirtanananda
-Date_letter      : October 23
-Year_letter      : 1970
-Place_letter     : Amritsar
-----
-
 My dear Acyutananda and Kirtanananda Maharajas,
 
 Please accept my blessings. I have not heard from either of you since my coming this side to Bombay, so I am very anxious to know how you are each making life members.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhagavan ======
 
----- dataentry letters ----
-Recipient_hidden : Bhagavan
-ListDate_hidden  : 1972-01-11
-showdate_hidden  : 2023-01-11
-To_letters       : Bhagavan
-Date_letter      : January 11
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Bhagavan,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 31, 1971, and I am very much pleased to hear from you all the good news. Yes, I am especially in cheerful mood to hear that our books and literatures are being now widely increased, but I don't think you will be able to approach near to the large amount of books being distributed by our California centers, especially in San Francisco. But if you can, then I shall certainly come there in Detroit and live there and translate there. I want to go and stay wherever they are selling the most books! But I do not think that anyone will become better than San Francisco.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Vahna ======
 
----- dataentry letters ----
-Recipient_hidden : Vahna
-ListDate_hidden  : 1975-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Vahna
-Date_letter      : May 26
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 New Vrndavana
 
 My dear Vahna dasa,

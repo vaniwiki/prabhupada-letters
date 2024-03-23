@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1973-08-28
-showdate_hidden  : 2023-08-28
-To_letters       : Kirtanananda
-Date_letter      : August 28
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 My dear Kirtanananda,
 
 Please accept my blessings. I beg to %%__%% receipt of your telegram recommending new initiates. Their names are as follows:

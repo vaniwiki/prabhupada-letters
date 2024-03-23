@@ -9,16 +9,6 @@
 
 ====== Letter to: Mooljibhai Patel ======
 
----- dataentry letters ----
-Recipient_hidden : Mooljibhai Patel
-ListDate_hidden  : 1975-06-08
-showdate_hidden  : 2023-06-08
-To_letters       : Mooljibhai Patel
-Date_letter      : June 8
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Grant Hotel\\
 Oakland, California
 

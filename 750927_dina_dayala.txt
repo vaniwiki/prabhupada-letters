@@ -9,16 +9,6 @@
 
 ====== Letter to: Dina Dayala ======
 
----- dataentry letters ----
-Recipient_hidden : Dina Dayala
-ListDate_hidden  : 1975-09-27
-showdate_hidden  : 2023-09-27
-To_letters       : Dina Dayala
-Date_letter      : September 27
-Year_letter      : 1975
-Place_letter     : Ahmedabad
-----
-
 Athens
 
 My dear Dina Dayala,

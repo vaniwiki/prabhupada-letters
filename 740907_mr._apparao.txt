@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Apparao ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Apparao
-ListDate_hidden  : 1974-09-07
-showdate_hidden  : 2023-09-07
-To_letters       : Mr. Apparao
-Date_letter      : September 7
-Year_letter      : 1974
-Place_letter     : 
-----
-
 Hyderabad
 
 Dear Mr. Apparao;

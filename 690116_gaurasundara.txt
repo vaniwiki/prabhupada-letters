@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaurasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Gaurasundara
-ListDate_hidden  : 1969-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Gaurasundara
-Date_letter      : January 16
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Gaurasundara,
 
 Please accept my blessings. Thank you very much for your letter of January 10, 1969. In the meantime I have sent one letter to Govinda Dasi, and perhaps you have read it. I am glad that there was a nice newspaper reporter, and he is favorably convinced so do your propaganda work as far as possible combined together.

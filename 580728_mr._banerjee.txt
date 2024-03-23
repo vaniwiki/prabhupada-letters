@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Banerjee ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Banerjee
-ListDate_hidden  : 1958-07-28
-showdate_hidden  : 2023-07-28
-To_letters       : Mr. Banerjee
-Date_letter      : July 28
-Year_letter      : 1958
-Place_letter     : Bombay
-----
-
 Dear Mr. Banerjee,
 
 Please accept my Namaskara. As advised by you the other day I went to see Mr. Mangumal at Kalvadevi but he did not entertain the idea of missionary work. I talked with him and found him perfect gentleman but he has spiritual realization of the lowest rank. According to Bhagavata a person who is attracted by the Arcana Marga without any knowledge of the science of Vaisnavism is called the __Kanistha__ adhikari Vaisnava. He has of course honoured me with Rs. 11/- and a glass of milk for which I have thanked him very much but mission is not fulfilled.

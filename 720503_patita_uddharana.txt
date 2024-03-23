@@ -9,16 +9,6 @@
 
 ====== Letter to: Patita Uddharana ======
 
----- dataentry letters ----
-Recipient_hidden : Patita Uddharana
-ListDate_hidden  : 1972-05-03
-showdate_hidden  : 2023-05-03
-To_letters       : Patita Uddharana
-Date_letter      : May 3
-Year_letter      : 1972
-Place_letter     : Tokyo
-----
-
 Detroit
 
 My dear Patita Uddharana,

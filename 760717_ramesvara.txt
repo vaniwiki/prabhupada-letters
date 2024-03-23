@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1976-07-17
-showdate_hidden  : 2023-07-17
-To_letters       : Ramesvara
-Date_letter      : July 17
-Year_letter      : 1976
-Place_letter     : New York
-----
-
 My dear Ramesvara Maharaja,
 
 Please accept my blessings. I herewith enclose three cheques for deposit in the Bank of America, ISKCON Mayapur-Vrindaban Fund, a/c # 6004-07143, in Los Angeles. The details are as follows:

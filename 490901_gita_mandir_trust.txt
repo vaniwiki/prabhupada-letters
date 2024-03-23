@@ -9,16 +9,6 @@
 
 ====== Letter to: Gita Mandir Trust ======
 
----- dataentry letters ----
-Recipient_hidden : Gita Mandir Trust
-ListDate_hidden  : 1949-09-01
-showdate_hidden  : 2023-09-01
-To_letters       : Gita Mandir Trust
-Date_letter      : September 1
-Year_letter      : 1949
-Place_letter     : Calcutta
-----
-
 Secretary\\
 Sri Gita Mandir Trust,\\
 Gita Mandir Road,\\

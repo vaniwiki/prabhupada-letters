@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraja
-ListDate_hidden  : 1977-05-11
-showdate_hidden  : 2023-05-11
-To_letters       : Giriraja
-Date_letter      : May 11
-Year_letter      : 1977
-Place_letter     : New Delhi
-----
-
 Bombay
 
 My dear Giriraja,

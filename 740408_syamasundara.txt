@@ -9,16 +9,6 @@
 
 ====== Letter to: Syamasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Syamasundara
-ListDate_hidden  : 1974-04-08
-showdate_hidden  : 2023-04-08
-To_letters       : Syamasundara
-Date_letter      : April 8
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Puri, India
 
 Dear Syamasundara Brahmacari,

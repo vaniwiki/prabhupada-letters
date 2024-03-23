@@ -9,16 +9,6 @@
 
 ====== Letter to: Bapi ======
 
----- dataentry letters ----
-Recipient_hidden : Bapi
-ListDate_hidden  : 1973-04-27
-showdate_hidden  : 2023-04-27
-To_letters       : Bapi
-Date_letter      : April 27
-Year_letter      : 1973
-Place_letter     : New Delhi
-----
-
 My dear Bapi:
 
 Please accept my blessings. I am in due receipt of your letter dated April 21, 1973 and am glad to learn that you have immigration visa for U.S.A. valid until August 9, 1973. Your former letters I did not receive most probably because they have been missing me because of my extensive travelling. I have come from India to U.S.A. recently on April 1.

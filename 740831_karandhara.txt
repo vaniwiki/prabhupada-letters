@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1974-08-31
-showdate_hidden  : 2023-08-31
-To_letters       : Karandhara
-Date_letter      : August 31
-Year_letter      : 1974
-Place_letter     : Mathura
-----
-
 Dear Karandhara Prabhu:
 
 Please accept my humble obeisances. I have received your letter with enclosure dated August 21, 1974 and presented your proposal to Srila Prabhupada of his writing a memo to the negligent temples. The following was his reply:

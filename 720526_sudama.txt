@@ -9,16 +9,6 @@
 
 ====== Letter to: Sudama ======
 
----- dataentry letters ----
-Recipient_hidden : Sudama
-ListDate_hidden  : 1972-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Sudama
-Date_letter      : May 26
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Tokyo
 
 My dear Sudama,

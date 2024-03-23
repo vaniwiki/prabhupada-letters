@@ -9,16 +9,6 @@
 
 ====== Letter to: Cyavana ======
 
----- dataentry letters ----
-Recipient_hidden : Cyavana
-ListDate_hidden  : 1973-01-09
-showdate_hidden  : 2023-01-09
-To_letters       : Cyavana
-Date_letter      : January 9
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 Nairobi
 
 My dear Cyavana,

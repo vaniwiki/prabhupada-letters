@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Mohan Mazumdar ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Mohan Mazumdar
-ListDate_hidden  : 1974-12-17
-showdate_hidden  : 2023-12-17
-To_letters       : Sri Mohan Mazumdar
-Date_letter      : December 17
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Calcutta
 
 Dear Sri Mohan Mazumdar,

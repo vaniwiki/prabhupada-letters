@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1969-01-25
-showdate_hidden  : 2023-01-25
-To_letters       : Kirtanananda
-Date_letter      : January 25
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Kirtanananda,
 
 Please accept my blessings. I am in due receipt of your letter dated 18, January 1969, and I have carefully noted the contents. I am encouraged to know that you are very enthusiastic about our projects for developing New Vrindaban. So far as the school goes, we have many qualified teachers, and they are all enthusiastic about going there and beginning their teaching work. The only thing is that there is as of yet no place to accommodate these teachers. So as soon as these facilities are constructed we can at once start at full force in setting up our Krishna Consciousness school program.

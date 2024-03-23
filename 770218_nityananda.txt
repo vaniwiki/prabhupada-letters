@@ -9,16 +9,6 @@
 
 ====== Letter to: Nityananda ======
 
----- dataentry letters ----
-Recipient_hidden : Letter to: Nityananda
-ListDate_hidden  : 1977-02-18
-showdate_hidden  : 2023-02-18
-To_letters       : Letter to: Nityananda
-Date_letter      : February 18
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sriman Nityananda das Adhikary\\
 ISKCON, Route 2 Box 449, Carriere, \\
 Mississippi 39426 USA

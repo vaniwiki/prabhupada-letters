@@ -9,16 +9,6 @@
 
 ====== Letter to: Juggannath Babu ======
 
----- dataentry letters ----
-Recipient_hidden : Juggannath Babu
-ListDate_hidden  : 1949-03-14
-showdate_hidden  : 2023-03-14
-To_letters       : Juggannath Babu
-Date_letter      : March 14
-Year_letter      : 1949
-Place_letter     : Calcutta
-----
-
 Dear Juggannath Babu,
 
 Please accept my respectful __namaskara.__ The sacred meeting organized by you at your place yesterday will be remembered by me with great reverence and I must thank you from the very core of my heart for giving me a chance to serve the cause of the potency of the almighty God. I think you have inherited some transcendental talents by the good deeds of your past life and as such you have taken your birth in the family of the __srimatam__ as stated in the __Bhagavad-gita.__ God willing you shall render tremendous transcendental service in the rest of your life and by doing so you shall not only glorify the family in which you have taken your birth but also the community and the country will be benefited.

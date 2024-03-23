@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramakrishna ======
 
----- dataentry letters ----
-Recipient_hidden : Ramakrishna
-ListDate_hidden  : 1952-09-26
-showdate_hidden  : 2023-09-26
-To_letters       : Ramakrishna
-Date_letter      : September 26
-Year_letter      : 1952
-Place_letter     : Allahabad
-----
-
 My dear Ramakrishna,
 
 In reply to Srimati Suluxmona's letter, I am sending herewith one letter for her which may be delivered to her. I came here to improve my lot but I see that my bad luck is impossible to be improved. For the last two years approximately I have met expenses from this business to the extent of Rs 600/- month. Calcutta, Allahabad, Ranchi High-Court & Ry Journey altogether five different items of expenses have been so far met. But all of a sudden my sister opponent firms have designed to remove me from this place. By their trick the Drug Controller has suspended my business for the last one and a half month with the result that about Rs 1000/- has been locked up & sealed and I have been put to shame by my servants. I require immediately Rs 300/- to meet the establishment charges without which I am much humiliated.

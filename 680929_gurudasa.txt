@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1968-09-29
-showdate_hidden  : 2023-09-29
-To_letters       : Gurudasa
-Date_letter      : September 29
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Gurudasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 9/23/68, and thank you very much for it. Now, because you are on the field work, you have to meet so many opposite elements. And you have to satisfy them or fight with them with conclusive statements from Bhagavad-gita, and Srimad-Bhagavatam, and as such, it is needed that you should be thoroughly conversant with the truth.

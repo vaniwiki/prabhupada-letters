@@ -9,16 +9,6 @@
 
 ====== Letter to: M. M. De ======
 
----- dataentry letters ----
-Recipient_hidden : M. M. De
-ListDate_hidden  : 1976-11-16
-showdate_hidden  : 2023-11-16
-To_letters       : M. M. De
-Date_letter      : November 16
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Calcutta
 
 My dear M.M. De,

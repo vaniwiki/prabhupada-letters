@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1973-05-14
-showdate_hidden  : 2023-05-14
-To_letters       : Gurudasa
-Date_letter      : May 14
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Gurudasa,
 
 Please accept my blessings. I am in due receipt of your letter dated 6/5/73. I have noted the contents carefully.

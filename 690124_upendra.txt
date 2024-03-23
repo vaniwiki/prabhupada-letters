@@ -9,16 +9,6 @@
 
 ====== Letter to: Upendra ======
 
----- dataentry letters ----
-Recipient_hidden : Upendra
-ListDate_hidden  : 1969-01-24
-showdate_hidden  : 2023-01-24
-To_letters       : Upendra
-Date_letter      : January 24
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Upendra,
 
 Please accept my blessings. I am in due receipt of your letter of 20, January, 1969, and I have noted the contents. You have written that you are unable to find a girl who is available for marriage, and so for the present, you have no choice but to hold off on your marriage plans. Anyway, I always recommend that one should try to remain brahmacari if possible, and if you think that this will be possible for you, you should try for it.

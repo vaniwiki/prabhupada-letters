@@ -9,16 +9,6 @@
 
 ====== Letter to: Vrikodara ======
 
----- dataentry letters ----
-Recipient_hidden : Vrikodara
-ListDate_hidden  : 1976-12-02
-showdate_hidden  : 2023-12-02
-To_letters       : Vrikodara
-Date_letter      : December 2
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 New Orleans
 
 My dear Vrikodara,

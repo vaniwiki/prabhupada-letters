@@ -9,16 +9,6 @@
 
 ====== Letter to: Saurabha ======
 
----- dataentry letters ----
-Recipient_hidden : Saurabha
-ListDate_hidden  : 1976-06-07
-showdate_hidden  : 2023-06-07
-To_letters       : Saurabha
-Date_letter      : June 7
-Year_letter      : 1976
-Place_letter     : Los Angeles
-----
-
 Bombay
 
 My dear Saurabha,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Dhawan ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Dhawan
-ListDate_hidden  : 1976-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : Mr. Dhawan
-Date_letter      : April 2
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Mr. Dhawan\\
 Sunenri Dham\\
 Mohalla Dehra,\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Prabhas Candra Mittra ======
 
----- dataentry letters ----
-Recipient_hidden : Prabhas Candra Mittra
-ListDate_hidden  : 1969-02-17
-showdate_hidden  : 2023-02-17
-To_letters       : Prabhas Candra Mittra
-Date_letter      : February 17
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Sri Prabhas Candra Mittra\\
 United Shipping Corporation\\
 14/2, Old China Bazar Street (Block No. 18)\\

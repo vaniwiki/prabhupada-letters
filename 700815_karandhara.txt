@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1970-08-15
-showdate_hidden  : 2023-08-15
-To_letters       : Karandhara
-Date_letter      : August 15
-Year_letter      : 1970
-Place_letter     : Tokyo
-----
-
 Los Angeles
 
 My dear Karandhara,

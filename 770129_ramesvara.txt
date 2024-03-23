@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1977-01-29
-showdate_hidden  : 2023-01-29
-To_letters       : Ramesvara
-Date_letter      : January 29
-Year_letter      : 1977
-Place_letter     : India
-----
-
 Dear Ramesvara Maharaja,
 
 Please accept my blessings. I have received your letter of January 24 with the enclosed newspaper, "The world Examiner". He has done this expertly, in the style of "The Reader's Digest", taking articles from different newspapers. Combinedly, it is a strong statement against the criminal position of "deprogramming". Distribute them widely, and if you can do it\\

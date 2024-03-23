@@ -9,16 +9,6 @@
 
 ====== Letter to: Akshayananda Swami ======
 
----- dataentry letters ----
-Recipient_hidden : Akshayananda Swami
-ListDate_hidden  : 1977-04-06
-showdate_hidden  : 2023-04-06
-To_letters       : Akshayananda Swami
-Date_letter      : April 6
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 c/o ISKCON Vrindavan
 
 His Holiness Akshayananda Swami\\

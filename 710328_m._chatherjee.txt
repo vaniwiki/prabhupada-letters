@@ -9,16 +9,6 @@
 
 ====== Letter to: M. Chatherjee ======
 
----- dataentry letters ----
-Recipient_hidden : M. Chatherjee
-ListDate_hidden  : 1971-03-28
-showdate_hidden  : 2023-03-28
-To_letters       : M. Chatherjee
-Date_letter      : March 28
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Sri M. Chatherjee\\
 Vandana Flat 16, 3d floor\\
 9th Road T.P.S. IV\\

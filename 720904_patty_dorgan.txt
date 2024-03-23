@@ -9,16 +9,6 @@
 
 ====== Letter to: Patty Dorgan ======
 
----- dataentry letters ----
-Recipient_hidden : Patty Dorgan
-ListDate_hidden  : 1972-09-04
-showdate_hidden  : 2023-09-04
-To_letters       : Patty Dorgan
-Date_letter      : September 4
-Year_letter      : 1972
-Place_letter     : New Vrindaban
-----
-
 Kenmore, New York
 
 My dear Patty Dorgan,

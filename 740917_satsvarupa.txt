@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1974-09-17
-showdate_hidden  : 2023-09-17
-To_letters       : Satsvarupa
-Date_letter      : September 17
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Los Angeles
 
 My dear Satsvarupa das Goswami:

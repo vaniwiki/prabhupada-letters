@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1972-07-01
-showdate_hidden  : 2023-07-01
-To_letters       : Rupanuga
-Date_letter      : July 1
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Virginia Beach
 
 My dear Rupanuga,

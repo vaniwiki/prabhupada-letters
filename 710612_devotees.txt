@@ -9,16 +9,6 @@
 
 ====== Letter to: London devotees ======
 
----- dataentry letters ----
-Recipient_hidden : London devotees
-ListDate_hidden  : 1971-06-12
-showdate_hidden  : 2023-06-12
-To_letters       : London devotees
-Date_letter      : June 12
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 London
 
 __TO:__ Mukunda, Nara Narayana, Jeffrey Coker, Lan, Mandakini, Aditi, Tribhuvanatha, Jaya Hari, Sananda Kumara, Vivienne, Neville Carr, Nicolas, Charlie, Serena, Rancor, Pratajas, Phillip, Jill, Nigel, James Gavin Statt, Devadatta, Draupadi, Dhruvananda, Devaki, John, Jim, Greg, Jaya Jagadisa, John.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Yogesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Yogesvara
-ListDate_hidden  : 1970-10-04
-showdate_hidden  : 2023-10-04
-To_letters       : Yogesvara
-Date_letter      : October 4
-Year_letter      : 1970
-Place_letter     : Calcutta
-----
-
 Hamburg
 
 My dear Yogesvara,

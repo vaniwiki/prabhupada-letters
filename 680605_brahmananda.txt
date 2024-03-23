@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1968-06-05
-showdate_hidden  : 2023-06-05
-To_letters       : Brahmananda
-Date_letter      : June 5
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 New York
 
 My dear Brahmananda,

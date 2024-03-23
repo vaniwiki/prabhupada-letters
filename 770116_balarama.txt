@@ -9,16 +9,6 @@
 
 ====== Letter to: Balarama ======
 
----- dataentry letters ----
-Recipient_hidden : Balarama
-ListDate_hidden  : 1977-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Balarama
-Date_letter      : January 16
-Year_letter      : 1977
-Place_letter     : Calcutta
-----
-
 Melbourne
 
 My dear Balarama dasa,

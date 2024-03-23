@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Suresh Candra ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Suresh Candra
-ListDate_hidden  : 1973-06-18
-showdate_hidden  : 2023-06-18
-To_letters       : Mr. Suresh Candra
-Date_letter      : June 18
-Year_letter      : 1973
-Place_letter     : Mayapur
-----
-
 Mr. Suresh Candra\\
 c/o District Commissioner's office\\
 Vreeden Roop WB Dem.\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Attorney General’s Department ======
 
----- dataentry letters ----
-Recipient_hidden : Attorney General’s Department
-ListDate_hidden  : 1974-11-26
-showdate_hidden  : 2023-11-26
-To_letters       : Attorney General’s Department
-Date_letter      : November 26
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Canberra
 
 Dear Sir:

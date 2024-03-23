@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Bailey ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Bailey
-ListDate_hidden  : 1953-07-07
-showdate_hidden  : 2023-07-07
-To_letters       : Mr. Bailey
-Date_letter      : July 7
-Year_letter      : 1953
-Place_letter     : Allahabad
-----
-
 [True copy of the letter published in the A.B. Patrika on 7/7/53 at Allahabad under the heading "Hindu Missionaries"]
 
 Sir---With reference to the letter of Sri Satish Asthana published in your columns of the 2nd instant, I have the honour to inform all concerned through your esteemed paper, that an association for missionary activities under the name and style "The League of Devotees" has already been established recently with the same aims and objects as suggested by Sri Asthana and Sri Sitaram.

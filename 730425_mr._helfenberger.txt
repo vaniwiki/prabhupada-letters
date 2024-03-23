@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Helfenberger ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Helfenberger
-ListDate_hidden  : 1973-04-25
-showdate_hidden  : 2023-04-25
-To_letters       : Mr. Helfenberger
-Date_letter      : April 25
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Swiss Credit Bank\\
 P.O. Box 60900\\
 Los Angeles, Cal. 90060\\

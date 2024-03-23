@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa, Prajapati ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa, Prajapati
-ListDate_hidden  : 1975-02-17
-showdate_hidden  : 2023-02-17
-To_letters       : Gurudasa, Prajapati
-Date_letter      : February 17
-Year_letter      : 1975
-Place_letter     : Mexico City
-----
-
 Los Angeles
 
 My dear Guru das and Prajapati,

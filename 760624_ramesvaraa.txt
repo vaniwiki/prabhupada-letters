@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1976-06-24
-showdate_hidden  : 2023-06-24
-To_letters       : Ramesvara
-Date_letter      : June 24
-Year_letter      : 1976
-Place_letter     : New Vrindaban
-----
-
 Los Angeles
 
 My dear Ramesvara das Maharaja,

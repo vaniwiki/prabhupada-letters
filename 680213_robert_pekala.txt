@@ -9,16 +9,6 @@
 
 ====== Letter to: Robert Pekala ======
 
----- dataentry letters ----
-Recipient_hidden : Robert Pekala
-ListDate_hidden  : 1968-02-13
-showdate_hidden  : 2023-02-13
-To_letters       : Robert Pekala
-Date_letter      : February 13
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Robert Pekala\\
 32 Grove Street\\
 Burlington, Vt. 05401

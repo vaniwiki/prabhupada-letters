@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder) ======
 
----- dataentry letters ----
-Recipient_hidden : Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder)
-ListDate_hidden  : 1973-01-05
-showdate_hidden  : 2023-01-05
-To_letters       : Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder)
-Date_letter      : January 5
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 Vancouver
 
 My dear Sons and Daughters,

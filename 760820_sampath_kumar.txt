@@ -9,16 +9,6 @@
 
 ====== Letter to: Sampath Kumar ======
 
----- dataentry letters ----
-Recipient_hidden : Sampath Kumar
-ListDate_hidden  : 1976-08-20
-showdate_hidden  : 2023-08-20
-To_letters       : Sampath Kumar
-Date_letter      : August 20
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Hyderabad
 
 Dear Sampath Kumar,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1969-07-01
-showdate_hidden  : 2023-07-01
-To_letters       : Brahmananda
-Date_letter      : July 1
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated June 28, 1969, and I have noted the contents carefully. The circular you have sent to the presidents and members of ISKCON is very nicely drawn, and please follow the principles. All students should be encouraged to write some article after reading Srimad-Bhagavatam, Bhagavad-gita and Teachings of Lord Caitanya. They should realize the information, and they must present their assimilation in their own words. Otherwise, how they can become preachers? So far as Sankirtana Party is concerned, as many pictures as possible should be published each month. The pictures are very attractive to the customers also. Acyutananda should also be asked to send pictures, as many as possible, of the many Visnu temples in India for publication in BTG. BTG should be full with our own articles, and there is no need for articles by outsiders. So far as ads are concerned, only our own books should be advertised; nothing else.

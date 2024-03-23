@@ -9,16 +9,6 @@
 
 ====== Letter to: Ananda ======
 
----- dataentry letters ----
-Recipient_hidden : Ananda
-ListDate_hidden  : 1969-04-03
-showdate_hidden  : 2023-04-03
-To_letters       : Ananda
-Date_letter      : April 3
-Year_letter      : 1969
-Place_letter     : San Francisco
-----
-
 My dear Ananda,
 
 Please accept my blessings. I thank you very much for your letter dated March 30, 1969, and I have noted the contents very carefully. Krishna is very much pleased on you because you are alone conducting the Vancouver temple. Don't worry, you will get some men to assist you very soon, and I am searching after someone. In the meantime Mr. Windisch and his wife, Barbara, will return to Vancouver after the initiation ceremony. As you have said, they are very much helpful, and they will continue to help you with your venture.

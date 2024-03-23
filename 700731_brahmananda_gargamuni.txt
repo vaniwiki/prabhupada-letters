@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda , Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda , Gargamuni
-ListDate_hidden  : 1970-07-31
-showdate_hidden  : 2023-07-31
-To_letters       : Brahmananda , Gargamuni
-Date_letter      : July 31
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Brahmananda Maharaja and Gargamuni Maharaja,
 
 Please accept my blessings. I am in due receipt of your two nice letters along with xerox copy of press meeting. Satsvarupa has sent me the original signed copy and I have replied him separately.

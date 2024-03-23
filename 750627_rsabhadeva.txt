@@ -9,16 +9,6 @@
 
 ====== Letter to: Rsabhadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Rsabhadeva
-ListDate_hidden  : 1975-06-27
-showdate_hidden  : 2023-06-27
-To_letters       : Rsabhadeva
-Date_letter      : June 27
-Year_letter      : 1975
-Place_letter     : Denver
-----
-
 Laguna Beach
 
 My dear Rsabhadeva dasa:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Kesava ======
 
----- dataentry letters ----
-Recipient_hidden : Kesava
-ListDate_hidden  : 1972-01-01
-showdate_hidden  : 2023-01-01
-To_letters       : Kesava
-Date_letter      : January 1
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Kesava das,
 
 Please accept my blessings. I have received your two letters, one dated December 15, 1971 and the other without date, requesting initiation and sacred threads for many boys. So as you have recommended them I will be sending their new names, beads, and threads in a few days.

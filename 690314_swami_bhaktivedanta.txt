@@ -9,16 +9,6 @@
 
 ====== Letter to: Swami Bhaktivedanta ======
 
----- dataentry letters ----
-Recipient_hidden : Swami Bhaktivedanta
-ListDate_hidden  : 1969-03-14
-showdate_hidden  : 2023-03-14
-To_letters       : Swami Bhaktivedanta
-Date_letter      : March 14
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 [LETTER TO ALL TEMPLES]
 
 CALIFORNIA HEADQUARTERS\\

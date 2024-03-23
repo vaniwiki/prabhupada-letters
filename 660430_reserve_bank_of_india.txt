@@ -9,16 +9,6 @@
 
 ====== Letter to: Reserve Bank of India ======
 
----- dataentry letters ----
-Recipient_hidden : Reserve Bank of India
-ListDate_hidden  : 1966-04-30
-showdate_hidden  : 2023-04-30
-To_letters       : Reserve Bank of India
-Date_letter      : April 30
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Chief Controller of Exchange\\
 Control Department\\
 Reserve Bank of India\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dharma ======
 
----- dataentry letters ----
-Recipient_hidden : Dharma
-ListDate_hidden  : 1972-04-22
-showdate_hidden  : 2023-04-22
-To_letters       : Dharma
-Date_letter      : April 22
-Year_letter      : 1972
-Place_letter     : Tokyo
-----
-
 Gainesville
 
 My dear Dharma,

@@ -3,17 +3,6 @@
 
 ====== Letter to: B. K. Nehru ======
 
----- dataentry letters ----
-Recipient_hidden : B. K. Nehru
-ListDate_hidden  : 1967-09-06
-showdate_hidden  : 2023-09-06
-To_letters       : B. K. Nehru
-Place_letters    : Delhi, Vrindaban
-Date_letter      : 6 September
-Year_letter      : 1967
-----
-
-
 Dear Shri Nehru:
 
 Please accept my greetings. After my arrival in India I advised my disciple Sriman Brahmananda Brahmachary (Mr. Bruce Scharf) to present my books to you personally. I hope by this time you have received my edition of Srimad Bhagwatam and hope that you will enjoy them.
@@ -26,7 +15,6 @@ Now I wish to return to the States by the end of October, 1967, and you told me 
 
 Very sincerely yours,\\
 A.C. Bhaktivedanta Swami
-
 
 Shri B. K. Nehru\\
 Ambassador of India\\

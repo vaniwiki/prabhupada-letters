@@ -9,16 +9,6 @@
 
 ====== Letter to: Vamanadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Vamanadeva
-ListDate_hidden  : 1973-04-10
-showdate_hidden  : 2023-04-10
-To_letters       : Vamanadeva
-Date_letter      : April 10
-Year_letter      : 1973
-Place_letter     : New York
-----
-
 My dear Vamanadeva Das Adhikari:
 
 Please accept my blessings. I beg to acknowledge receipt of your offering of $20.00 and thank you very much. I understand that you are now in London for helping to make our new place there a nice temple. So I will be very pleased if you make this English house into first class temple for Lord Krishna. London is very important center, so you do the work nicely.

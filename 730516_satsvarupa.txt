@@ -3,17 +3,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1973-05-16
-showdate_hidden  : 2023-05-16
-To_letters       : Satsvarupa
-Date_letter      : 16 May
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
-
 Dallas
 
 My dear Satsvarupa,

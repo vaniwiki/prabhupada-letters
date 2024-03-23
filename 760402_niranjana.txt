@@ -9,16 +9,6 @@
 
 ====== Letter to: Niranjana ======
 
----- dataentry letters ----
-Recipient_hidden : Niranjana
-ListDate_hidden  : 1976-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : Niranjana
-Date_letter      : April 2
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear Niranjana das,
 
 Please accept my blessings. I am in due receipt of your letter dated 16th March, 1976 and I have noted the contents with care. Concerning your translating into Hindi, you had translated some small books into Hindi, where are they? Please send them to Bombay address. Also, you can write small articles for the Hindi magazine here, "Bhagavata Darsana." Also, translate more small books into Hindi and send them to Bombay.

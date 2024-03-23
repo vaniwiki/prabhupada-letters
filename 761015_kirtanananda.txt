@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1976-10-15
-showdate_hidden  : 2023-10-15
-To_letters       : Kirtanananda
-Date_letter      : October 15
-Year_letter      : 1976
-Place_letter     : Chandigarh
-----
-
 My dear Kirtanananda Maharaja,
 
 Please accept my blessings. I am in due receipt of your letter dated October 1, 1976 and have noted the contents carefully.

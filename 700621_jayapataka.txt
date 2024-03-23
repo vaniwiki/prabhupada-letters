@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1970-06-21
-showdate_hidden  : 2023-06-21
-To_letters       : Jayapataka
-Date_letter      : June 21
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Jayapataka,
 
 Please accept my blessings. I sent you one letter dated 14th June, 1970, the copy of which is enclosed herewith. So I do not know if you have received this letter.

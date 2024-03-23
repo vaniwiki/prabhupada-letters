@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1967-08-03
-showdate_hidden  : 2023-08-03
-To_letters       : Mukunda
-Date_letter      : August 3
-Year_letter      : 1967
-Place_letter     : Vrindaban
-----
-
 My dear Mukunda,
 
 Yesterday I have sent you a personal note on the request of Vinod Kumar. If immigration Visa's burdensome for the Society, then don't take the risk. I think to get immigration Visa is very difficult and therefore you may not unnecessarily involve the society in it. __We cannot pay him any salary at the present moment__ or unless we see his talents, I shall let you know later on more about it. Hope you are well.

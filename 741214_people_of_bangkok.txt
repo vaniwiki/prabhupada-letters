@@ -9,16 +9,6 @@
 
 ====== Letter to: People of Bangkok ======
 
----- dataentry letters ----
-Recipient_hidden : People of Bangkok
-ListDate_hidden  : 1974-12-14
-showdate_hidden  : 2023-12-14
-To_letters       : People of Bangkok
-Date_letter      : December 14
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Bangkok
 
 To the People of Bangkok, Thailand

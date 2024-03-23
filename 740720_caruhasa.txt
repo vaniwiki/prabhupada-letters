@@ -9,16 +9,6 @@
 
 ====== Letter to: Caruhasa ======
 
----- dataentry letters ----
-Recipient_hidden : Caruhasa
-ListDate_hidden  : 1974-07-20
-showdate_hidden  : 2023-07-20
-To_letters       : Caruhasa
-Date_letter      : July 20
-Year_letter      : 1974
-Place_letter     : New Vrindaban
-----
-
 Los Angeles
 
 My dear Caruhasa das;

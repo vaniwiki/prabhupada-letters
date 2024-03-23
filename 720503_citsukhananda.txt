@@ -9,16 +9,6 @@
 
 ====== Letter to: Citsukhananda ======
 
----- dataentry letters ----
-Recipient_hidden : Citsukhananda
-ListDate_hidden  : 1972-05-03
-showdate_hidden  : 2023-05-03
-To_letters       : Citsukhananda
-Date_letter      : May 3
-Year_letter      : 1972
-Place_letter     : Tokyo
-----
-
 My dear Citsukhananda,
 
 Please accept my blessings. We have received your letter dated April 26 1972, and noted the contents. I do not think I shall require special visa for going there for one or two weeks, an ordinary tourist visa will suffice. I shall be reaching Los Angeles about the 20th of May, 1972, and from there we shall make further plans and get visas for going to Mexico later.

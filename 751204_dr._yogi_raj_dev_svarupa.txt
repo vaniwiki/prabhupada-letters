@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Yogi Raj Dev Svarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Yogi Raj Dev Svarupa
-ListDate_hidden  : 1975-12-04
-showdate_hidden  : 2023-12-04
-To_letters       : Dr. Yogi Raj Dev Svarupa
-Date_letter      : December 4
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Dr. Yogi Raj Dev. Svarupa,\\
 c/o Prof. K. Sellin\\
 Active University\\

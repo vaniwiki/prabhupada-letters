@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1968-02-01
-showdate_hidden  : 2023-02-01
-To_letters       : Brahmananda
-Date_letter      : February 1
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I thank you very much for your letter of 1/29/68. Yes, I very much approve of Mr. Kallman's idea for the book on "Transcendental Meditation." Rayarama has begun work on it already, and probably he will bring it back to N.Y. with him. Mukunda talked to Ravi Sankara and he said he is too busy with recordings and movies, etc.

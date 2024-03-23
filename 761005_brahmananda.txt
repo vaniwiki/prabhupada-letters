@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1976-10-05
-showdate_hidden  : 2023-10-05
-To_letters       : Brahmananda
-Date_letter      : October 5
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Nairobi
 
 My dear Brahmananda,

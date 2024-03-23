@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayananda ======
 
----- dataentry letters ----
-Recipient_hidden : Jayananda
-ListDate_hidden  : 1968-02-24
-showdate_hidden  : 2023-02-24
-To_letters       : Jayananda
-Date_letter      : February 24
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 San Francisco
 
 My dear Jayananda,

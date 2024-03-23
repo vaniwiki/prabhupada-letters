@@ -9,16 +9,6 @@
 
 ====== Letter to: Spiritual Sons and Daughters ======
 
----- dataentry letters ----
-Recipient_hidden : Spiritual Sons and Daughters
-ListDate_hidden  : 1973-07-27
-showdate_hidden  : 2023-07-27
-To_letters       : Spiritual Sons and Daughters
-Date_letter      : July 27
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 New devotees,\\
 Evanston
 

@@ -9,16 +9,6 @@
 
 ====== Letter to: Bank of Baroda (Delhi) ======
 
----- dataentry letters ----
-Recipient_hidden : Bank of Baroda (Delhi)
-ListDate_hidden  : 1967-05-10
-showdate_hidden  : 2023-05-10
-To_letters       : Bank of Baroda (Delhi)
-Date_letter      : May 10
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 Agent\\
 The Bank of Baroda Limited\\
 Foreign Department\\

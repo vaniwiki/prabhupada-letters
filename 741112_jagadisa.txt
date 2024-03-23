@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagadisa ======
 
----- dataentry letters ----
-Recipient_hidden : Jagadisa
-ListDate_hidden  : 1974-11-12
-showdate_hidden  : 2023-11-12
-To_letters       : Jagadisa
-Date_letter      : November 12
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Dallas
 
 My dear Jagadisa dasa:

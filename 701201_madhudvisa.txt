@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1970-12-01
-showdate_hidden  : 2023-12-01
-To_letters       : Madhudvisa
-Date_letter      : December 1
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Madhudvisa Maharaja,
 
 Please accept my blessing. I am in due receipt of your letter dated nil and have noted the contents carefully.

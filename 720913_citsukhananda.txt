@@ -9,16 +9,6 @@
 
 ====== Letter to: Citsukhananda ======
 
----- dataentry letters ----
-Recipient_hidden : Citsukhananda
-ListDate_hidden  : 1972-09-13
-showdate_hidden  : 2023-09-13
-To_letters       : Citsukhananda
-Date_letter      : September 13
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Mexico City
 
 My dear Citsukhananda,

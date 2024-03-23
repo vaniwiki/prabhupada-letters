@@ -9,16 +9,6 @@
 
 ====== Letter to: Gopijanavallabha ======
 
----- dataentry letters ----
-Recipient_hidden : Gopijanavallabha
-ListDate_hidden  : 1975-10-17
-showdate_hidden  : 2023-10-17
-To_letters       : Gopijanavallabha
-Date_letter      : October 17
-Year_letter      : 1975
-Place_letter     : Johannesburg
-----
-
 Brooklyn
 
 My dear Gopijanavallabha dasa,

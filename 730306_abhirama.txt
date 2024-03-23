@@ -9,16 +9,6 @@
 
 ====== Letter to: Abhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Abhirama
-ListDate_hidden  : 1973-03-06
-showdate_hidden  : 2023-03-06
-To_letters       : Abhirama
-Date_letter      : March 6
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 My dear Abhirama:
 
 Please accept my blessings and I beg to acknowledge receipt of your unsigned report dated the 18th of February. I have just arrived here a few days ago and by the 15th I shall go to Mayapur on the festival celebration of Lord Caitanya's Appearance Day. We are expecting many thousands to visit there and our nice building is almost completed.

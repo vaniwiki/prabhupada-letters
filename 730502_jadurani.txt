@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1973-05-02
-showdate_hidden  : 2023-05-02
-To_letters       : Jadurani
-Date_letter      : May 2
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Brooklyn
 
 My dear Jadurani:

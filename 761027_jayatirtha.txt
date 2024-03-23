@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1976-10-27
-showdate_hidden  : 2023-10-27
-To_letters       : Jayatirtha
-Date_letter      : October 27
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear Jayatirtha,
 
 Please accept my blessings. I am in due receipt of your letter dated October 16, 1976.

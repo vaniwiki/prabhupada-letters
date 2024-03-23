@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Setti ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Setti
-ListDate_hidden  : 1974-10-17
-showdate_hidden  : 2023-10-17
-To_letters       : Mr. Setti
-Date_letter      : October 17
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Bombay
 
 My dear Mr. Setti:

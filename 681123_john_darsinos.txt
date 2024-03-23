@@ -9,16 +9,6 @@
 
 ====== Letter to: John Darsinos ======
 
----- dataentry letters ----
-Recipient_hidden : John Darsinos
-ListDate_hidden  : 1968-11-23
-showdate_hidden  : 2023-11-23
-To_letters       : John Darsinos
-Date_letter      : November 23
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear John Darsinos,
 
 Please accept my blessings. I have read your letter (undated) and am very pleased that you are appreciating this movement of Krishna Consciousness. Please continue this attitude of appreciation for Krishna's mercy and your life will be successful with no doubt.

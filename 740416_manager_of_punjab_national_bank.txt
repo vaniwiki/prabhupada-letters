@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of Punjab National Bank ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of Punjab National Bank
-ListDate_hidden  : 1974-04-16
-showdate_hidden  : 2023-04-16
-To_letters       : Manager of Punjab National Bank
-Date_letter      : April 16
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Manager\\
 Punjab National Bank\\
 Moti Bagh Branch

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1968-11-06
-showdate_hidden  : 2023-11-06
-To_letters       : Jadurani
-Date_letter      : November 6
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Jadurani,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter October 31, 1968, and I am so pleased to know that you are now quite able to work. May Krishna bless you with good health and continue your prescribed duties very nicely.

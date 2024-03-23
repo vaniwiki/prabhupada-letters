@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1969-01-12
-showdate_hidden  : 2023-01-12
-To_letters       : Kirtanananda
-Date_letter      : January 12
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Kirtanananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 31, 1968, and I thank you for your good wishes for the new year. Please accept the same from my side.

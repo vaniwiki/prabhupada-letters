@@ -9,16 +9,6 @@
 
 ====== Letter to: Natalie Orloff ======
 
----- dataentry letters ----
-Recipient_hidden : Natalie Orloff
-ListDate_hidden  : 1974-08-09
-showdate_hidden  : 2023-08-09
-To_letters       : Natalie Orloff
-Date_letter      : August 9
-Year_letter      : 1974
-Place_letter     : 
-----
-
 Montreal
 
 Dear Natalie Orloff;

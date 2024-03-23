@@ -9,16 +9,6 @@
 
 ====== Letter to: Yasodanandana, Gurukrpa ======
 
----- dataentry letters ----
-Recipient_hidden : Yasodanandana, Gurukrpa
-ListDate_hidden  : 1973-12-01
-showdate_hidden  : 2023-12-01
-To_letters       : Yasodanandana, Gurukrpa
-Date_letter      : December 1
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Yasodanandana and Gurukrpa Maharaja,
 
 Please accept my blessings. I have two days ago arrived at our Los Angeles Center after going through London and New York.

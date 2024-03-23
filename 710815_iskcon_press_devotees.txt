@@ -2,18 +2,7 @@
 ~~Title: Letter to: ISKCON Press — August 15, 1971~~
 ~~bc: ISKCON Press — August 15, 1971~~
 
-
 ====== Letter to: ISKCON Press ======
-
----- dataentry letters ----
-Recipient_hidden : ISKCON Press devotees
-ListDate_hidden  : 1971-08-15
-showdate_hidden  : 2023-08-15
-To_letters       : ISKCON Press
-Date_letter      : August 15
-Year_letter      : 1971
-Place_letter     : London
-----
 
 TO ISKCON PRESS:
 

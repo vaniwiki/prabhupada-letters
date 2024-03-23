@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna dasa
-ListDate_hidden  : 1972-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Krsna dasa
-Date_letter      : January 10
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Hamburg
 
 My dear Krishna das,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Pavanadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Pavanadeva
-ListDate_hidden  : 1977-02-13
-showdate_hidden  : 2023-02-13
-To_letters       : Pavanadeva
-Date_letter      : February 13
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sriman Pavanadeva\\
 c/o P.S. Rosen\\
 146 Academy Ave.\\

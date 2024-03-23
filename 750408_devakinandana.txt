@@ -9,16 +9,6 @@
 
 ====== Letter to: Devakinandana ======
 
----- dataentry letters ----
-Recipient_hidden : Devakinandana
-ListDate_hidden  : 1975-04-08
-showdate_hidden  : 2023-04-08
-To_letters       : Devakinandana
-Date_letter      : April 8
-Year_letter      : 1975
-Place_letter     : Mayapur
-----
-
 Brooklyn
 
 My dear Devakinandana dasa,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Disciples in New Dwaraka ======
 
----- dataentry letters ----
-Recipient_hidden : Disciples in New Dwaraka
-ListDate_hidden  : 1976-11-03
-showdate_hidden  : 2023-11-03
-To_letters       : Disciples in New Dwaraka
-Date_letter      : November 3
-Year_letter      : 1976
-Place_letter     : 
-----
-
 3764 Watseka Ave.\\
 Los Angeles, California\\
 90034 USA

@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1973-02-17
-showdate_hidden  : 2023-02-17
-To_letters       : Karandhara
-Date_letter      : February 17
-Year_letter      : 1973
-Place_letter     : Sydney
-----
-
 My dear Karandhara das,
 
 Please accept my blessings. While in India last it was brought to my attention that our Sriman Hayagriva das has become deviated from the four basic principles which I have given to all my students for adherence to when they are first initiated. I do not know why he is living in such a way but I feel that he must be brought back to the standard immediately. So I am requesting you as my Governing Board Commissioners to help me bring him back to the standard. He has very good talent, but he is spending it by living such an unrestricted life.

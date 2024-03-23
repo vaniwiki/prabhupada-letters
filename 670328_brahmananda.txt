@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1967-03-28
-showdate_hidden  : 2023-03-28
-To_letters       : Brahmananda
-Date_letter      : March 28
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Brahmananda,
 
 With reference to your letter of the 24th March 1967, I beg to request you to see in the Bank as to who has taken payment of the check. Any one either Mr. Hill or any one else who has taken the payment must be sued along with Payne. In whose favor did you sign the check? I think you signed the check in favor of Mr. Hill because he is supposed to be the financier and who else can take payment of the check except Mr. Hill.

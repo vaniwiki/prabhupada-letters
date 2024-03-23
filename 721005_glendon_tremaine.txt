@@ -9,16 +9,6 @@
 
 ====== Letter to: Glendon Tremaine ======
 
----- dataentry letters ----
-Recipient_hidden : Glendon Tremaine
-ListDate_hidden  : 1972-10-05
-showdate_hidden  : 2023-10-05
-To_letters       : Glendon Tremaine
-Date_letter      : October 5
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Glendon Tremaine\\
 Tremain, Shenk, Stroud, Wright & Roberts\\
 Suite 1414, 606 So. Olive St.\\

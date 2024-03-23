@@ -9,16 +9,6 @@
 
 ====== Letter to: Vamanadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Vamanadeva
-ListDate_hidden  : 1970-06-22
-showdate_hidden  : 2023-06-22
-To_letters       : Vamanadeva
-Date_letter      : June 22
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Vamanadeva,
 
 Please accept my blessings and offer the same to your good wife, Indira Dasi. I am in due receipt of your very encouraging letter dated 17th June, 1970, along with some pictures and plans of the new St. Louis temple.

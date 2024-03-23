@@ -9,16 +9,6 @@
 
 ====== Letter to: Malati ======
 
----- dataentry letters ----
-Recipient_hidden : Malati
-ListDate_hidden  : 1970-03-06
-showdate_hidden  : 2023-03-06
-To_letters       : Malati
-Date_letter      : March 6
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Malati,
 
 Please accept my blessings. I am in due receipt of your letter dated 17 February, 1970, and have read the contents carefully. I am so glad to hear from you after so long time.

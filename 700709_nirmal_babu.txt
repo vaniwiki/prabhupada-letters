@@ -9,16 +9,6 @@
 
 ====== Letter to: Nirmal Babu ======
 
----- dataentry letters ----
-Recipient_hidden : Nirmal Babu
-ListDate_hidden  : 1970-07-09
-showdate_hidden  : 2023-07-09
-To_letters       : Nirmal Babu
-Date_letter      : July 9
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Member of Parliament\\
 New Delhi
 

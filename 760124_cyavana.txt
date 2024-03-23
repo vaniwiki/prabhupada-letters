@@ -9,16 +9,6 @@
 
 ====== Letter to: Cyavana ======
 
----- dataentry letters ----
-Recipient_hidden : Cyavana
-ListDate_hidden  : 1976-01-24
-showdate_hidden  : 2023-01-24
-To_letters       : Cyavana
-Date_letter      : January 24
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 c/o John G. Milner\\
 Coral Springs
 

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sir ======
 
----- dataentry letters ----
-Recipient_hidden : Sir
-ListDate_hidden  : 1969-06-17
-showdate_hidden  : 2023-06-17
-To_letters       : Sir
-Date_letter      : June 17
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 Dear Sir:
 
 RE: S.B. a/c __2913__ with you

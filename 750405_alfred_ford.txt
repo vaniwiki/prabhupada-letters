@@ -9,16 +9,6 @@
 
 ====== Letter to: Alfred Ford ======
 
----- dataentry letters ----
-Recipient_hidden : Alfred Ford
-ListDate_hidden  : 1975-04-05
-showdate_hidden  : 2023-04-05
-To_letters       : Alfred Ford
-Date_letter      : April 5
-Year_letter      : 1975
-Place_letter     : Mayapur
-----
-
 Sriman Alfred Ford\\
 Teton Village\\
 Wyoming 83025 U.S.A.

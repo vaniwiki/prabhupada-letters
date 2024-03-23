@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1971-12-25
-showdate_hidden  : 2023-12-25
-To_letters       : Gargamuni
-Date_letter      : December 25
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 My dear Gargamuni Maharaja,
 
 Please accept my blessings. I have replied your letter this morning; perhaps you have received it already. Now in the meantime we have received an important letter form Cox and Kings and a copy is sent herewith.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Tribhuvanatha ======
 
----- dataentry letters ----
-Recipient_hidden : Tribhuvanatha
-ListDate_hidden  : 1970-07-18
-showdate_hidden  : 2023-07-18
-To_letters       : Tribhuvanatha
-Date_letter      : July 18
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Tribhuvanatha,
 
 Please accept my blessings, I beg to acknowledge receipt of your nice letter dated 13rd June, 1970, and just the other day I have received your package containing gifts of conchshell, sandalwood incense, orange socks and flowers as well as your beads for initiation. I beg to thank you for all these nice presentation and they are all being appropriately employed.

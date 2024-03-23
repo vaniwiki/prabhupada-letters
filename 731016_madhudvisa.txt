@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1973-10-16
-showdate_hidden  : 2023-10-16
-To_letters       : Madhudvisa
-Date_letter      : October 16
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 My dear Madhudvisa Swami,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 28, 1973 and have noted the contents. Regarding the initiations I accept the following devotee as my disciple:

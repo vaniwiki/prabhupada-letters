@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Krishan Pandit ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Krishan Pandit
-ListDate_hidden  : 1967-06-27
-showdate_hidden  : 2023-06-27
-To_letters       : Sri Krishan Pandit
-Date_letter      : June 27
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 My dear Sri Krishan Pandit,
 
 Kindly accept my greetings. I am very much thankful to you for your letter dated June 15, 1967. Your prayers to Lord Krishna are heard by the Lord, and by His Grace I'm getting improved in health day by day. Your suggestion to return to India is welcome. As soon as I get a little strength I must return to India. I also thank your son-in-law, Yog Raj Sharma, for his suggestion.

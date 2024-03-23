@@ -9,16 +9,6 @@
 
 ====== Letter to: Sumati Morarjee ======
 
----- dataentry letters ----
-Recipient_hidden : Sumati Morarjee
-ListDate_hidden  : 1966-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Sumati Morarjee
-Date_letter      : March 18
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Madam Sumati Morarji Baisaheba,
 
 Please accept my greeting and blessing of Lord Bala Krishna. I hope by the Grace of Lord Sri Krishna everything well with you.

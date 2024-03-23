@@ -9,16 +9,6 @@
 
 ====== Letter to: Visvambhara ======
 
----- dataentry letters ----
-Recipient_hidden : Visvambhara
-ListDate_hidden  : 1975-12-27
-showdate_hidden  : 2023-12-27
-To_letters       : Visvambhara
-Date_letter      : December 27
-Year_letter      : 1975
-Place_letter     : Ahmedabad
-----
-
 My dear Visvambhara das,
 
 Please accept my blessings. I wrote you one letter regarding the translation work of Nrsimhavallabha Goswami and sons. I have not received any reply from you although I am very much anxious to know the result.

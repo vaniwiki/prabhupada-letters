@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Yukio Ogata ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Yukio Ogata
-ListDate_hidden  : 1971-03-16
-showdate_hidden  : 2023-03-16
-To_letters       : Mr. Yukio Ogata
-Date_letter      : March 16
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Mr. Yukio Ogata\\
 c/o Ushigome Post Office\\
 Tokyo, Japan

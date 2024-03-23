@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1969-04-16
-showdate_hidden  : 2023-04-16
-To_letters       : Kirtanananda
-Date_letter      : April 16
-Year_letter      : 1969
-Place_letter     : New York
-----
-
 61 Second Avenue\\
 New York, NY 10003
 

@@ -9,16 +9,6 @@
 
 ====== Letter to: Naranarayan ======
 
----- dataentry letters ----
-Recipient_hidden : Naranarayan
-ListDate_hidden  : 1971-01-24
-showdate_hidden  : 2023-01-24
-To_letters       : Naranarayan
-Date_letter      : January 24
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Sriman Naranarayan Das Adhikary\\
 c/o ISKCON Pittsburg\\
 4514 Plummer St.\\

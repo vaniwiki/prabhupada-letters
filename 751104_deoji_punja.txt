@@ -9,16 +9,6 @@
 
 ====== Letter to: Deoji Punja ======
 
----- dataentry letters ----
-Recipient_hidden : Deoji Punja
-ListDate_hidden  : 1975-11-04
-showdate_hidden  : 2023-11-04
-To_letters       : Deoji Punja
-Date_letter      : November 4
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Lautoka, Fiji
 
 My dear Deoji Punja:

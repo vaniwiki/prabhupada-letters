@@ -9,16 +9,6 @@
 
 ====== Letter to: Sama ======
 
----- dataentry letters ----
-Recipient_hidden : Sama
-ListDate_hidden  : 1975-10-20
-showdate_hidden  : 2023-10-20
-To_letters       : Sama
-Date_letter      : October 20
-Year_letter      : 1975
-Place_letter     : Johannesburg
-----
-
 Catonsville, Maryland
 
 My dear Sama dasa,

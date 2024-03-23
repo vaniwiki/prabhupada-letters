@@ -9,16 +9,6 @@
 
 ====== Letter to: Hit Sharanji ======
 
----- dataentry letters ----
-Recipient_hidden : Hit Sharanji
-ListDate_hidden  : 1970-02-28
-showdate_hidden  : 2023-02-28
-To_letters       : Hit Sharanji
-Date_letter      : February 28
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Hit Sharanji,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter No. DJT/, dated 21 February, 1970. In the meantime, I have sent you one reminder dated 24 February, 1970, in this connection. So as advised previously, I may again repeat the same that if Scindia Steam Navigation Co. has not as yet replied my letter or your letter, then the Murtis should be dispatched without delay by other freighters through the shipping agents Messrs. Cox and Kings. I shall arrange for clearing the goods at the destination.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1972-03-22
-showdate_hidden  : 2023-03-22
-To_letters       : Karandhara
-Date_letter      : March 22
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Los Angeles
 
 My dear Karandhara,

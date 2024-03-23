@@ -9,16 +9,6 @@
 
 ====== Letter to: Gopala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Gopala Krsna
-ListDate_hidden  : 1976-06-24
-showdate_hidden  : 2023-06-24
-To_letters       : Gopala Krsna
-Date_letter      : June 24
-Year_letter      : 1976
-Place_letter     : New Vrindaban
-----
-
 My dear Gopala Krsna das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated June 12, 1976 and with enclosed news clipping, and I have noted the contents with care.

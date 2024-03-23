@@ -9,16 +9,6 @@
 
 ====== Letter to: Ksirodakasayi ======
 
----- dataentry letters ----
-Recipient_hidden : Ksirodakasayi
-ListDate_hidden  : 1972-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Ksirodakasayi
-Date_letter      : May 26
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Dear Ksirodakasayi,
 
 Please accept my blessings. I beg to acknowledge receipt your letter dated May 18th, 1972 and I have noted the contents very carefully. There is no difficulty to send all of the vouchers and receipts for materials to Bombay, so I want that you shall send all of them, never mind their amount.

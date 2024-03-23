@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1968-06-21
-showdate_hidden  : 2023-06-21
-To_letters       : Brahmananda
-Date_letter      : June 21
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I have not heard anything from you since you left from Montreal. I think everything is all right with you, and shall be glad to hear from you how far the Dai Nippon Printing work is going on. In the meantime, as I have already informed you, a boy, Ranjit Mullick, is prepared to export goods from India, on the following terms:

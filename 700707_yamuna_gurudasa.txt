@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna, Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna, Gurudasa
-ListDate_hidden  : 1970-07-07
-showdate_hidden  : 2023-07-07
-To_letters       : Yamuna, Gurudasa
-Date_letter      : July 7
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 London
 
 My dear Yamuna,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Naveen Khurana, Margaret Khurana ======
 
----- dataentry letters ----
-Recipient_hidden : Naveen Khurana, Margaret Khurana
-ListDate_hidden  : 1975-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Naveen Khurana, Margaret Khurana
-Date_letter      : March 18
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Naveen and Margaret Khurana\\
 2FY Lake Village Dr.\\
 Walled Lake, Michigan 48088

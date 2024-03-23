@@ -9,16 +9,6 @@
 
 ====== Letter to: Ksirodakasayi ======
 
----- dataentry letters ----
-Recipient_hidden : Ksirodakasayi
-ListDate_hidden  : 1972-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : Ksirodakasayi
-Date_letter      : April 2
-Year_letter      : 1972
-Place_letter     : Sydney
-----
-
 Vrindaban
 
 My dear Ksirodakasayi,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Gandhi Memorial Fund ======
 
----- dataentry letters ----
-Recipient_hidden : Gandhi Memorial Fund
-ListDate_hidden  : 1949-07-05
-showdate_hidden  : 2023-07-05
-To_letters       : Gandhi Memorial Fund
-Date_letter      : July 5
-Year_letter      : 1949
-Place_letter     : Calcutta
-----
-
 The Secretary\\
 The Board of Trustees of Mahatma Gandhi Memorial National Fund,\\
 New Delhi.

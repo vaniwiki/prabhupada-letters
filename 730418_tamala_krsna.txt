@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna
-ListDate_hidden  : 1973-04-18
-showdate_hidden  : 2023-04-18
-To_letters       : Tamala Krsna
-Date_letter      : April 18
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Dear Tamala Krishna Maharaja
 
 Please accept my blessings. I have left India on April 1, 1973 so now it is almost 20 days and I have received no report from India. There are so many questions and answers for India, the Bombay, and Hyderabad, but I am in darkness.

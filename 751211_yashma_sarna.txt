@@ -9,16 +9,6 @@
 
 ====== Letter to: Yashma Sarna ======
 
----- dataentry letters ----
-Recipient_hidden : Yashma Sarna
-ListDate_hidden  : 1975-12-11
-showdate_hidden  : 2023-12-11
-To_letters       : Yashma Sarna
-Date_letter      : December 11
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Srimati Yashma Sarna,\\
 Muhuroni close, Ngara Rd.\\
 P.O. Box 28946,\\

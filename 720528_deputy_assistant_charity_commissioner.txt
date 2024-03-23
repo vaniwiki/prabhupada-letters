@@ -9,16 +9,6 @@
 
 ====== Letter to: Deputy/Assistant Charity Commissioner ======
 
----- dataentry letters ----
-Recipient_hidden : Deputy/Assistant Charity Commissioner
-ListDate_hidden  : 1972-05-28
-showdate_hidden  : 2023-05-28
-To_letters       : Deputy/Assistant Charity Commissioner
-Date_letter      : May 28
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 The Deputy/Assistant Charity Commissioner,\\
 Greater Bombay Region,\\
 BOMBAY-1.

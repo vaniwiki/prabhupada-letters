@@ -9,16 +9,6 @@
 
 ====== Letter to: Ranadhir ======
 
----- dataentry letters ----
-Recipient_hidden : Ranadhir
-ListDate_hidden  : 1969-12-07
-showdate_hidden  : 2023-12-07
-To_letters       : Ranadhir
-Date_letter      : December 7
-Year_letter      : 1969
-Place_letter     : London
-----
-
 My Dear Ranadhir, 
 
 Please accept my blessings. I beg to thank you for your letter dated November 23, 1969. I am so pleased to learn of the increased development of New Vrindaban. Please now try to organize a children's school. This is one of our programs in New Vrindaban, and there is Hayagriva, Kirtanananda, Satyabhama, Shama Dasi, Paramananda and yourself. You can form a school committee and get it recognized by the Education Board. Then more children will be sent. There is one small child in Berkeley, and if you so desire, you can ask Hansadutta to send the child in your care.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sukadeva 5 ======
 
----- dataentry letters ----
-Recipient_hidden : Sukadeva 5
-ListDate_hidden  : 1973-09-27
-showdate_hidden  : 2023-09-27
-To_letters       : Sukadeva 5
-Date_letter      : September
-Year_letter      : 1973
-Place_letter     : Seattle
-----
-
 My dear Sukadeva Das:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 10, 1973. I am accepting Rasala Das (Walter Mason Woods) as my initiated disciple. Please see that he chants Hare Krishna minimum 16 rounds daily on the beads and follows our regulative principles without fail.

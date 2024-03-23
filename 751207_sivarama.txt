@@ -9,16 +9,6 @@
 
 ====== Letter to: Sivarama ======
 
----- dataentry letters ----
-Recipient_hidden : Sivarama
-ListDate_hidden  : 1975-12-07
-showdate_hidden  : 2023-12-07
-To_letters       : Sivarama
-Date_letter      : December 7
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Winnepeg
 
 My dear Sivarama Prabhu,

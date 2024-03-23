@@ -9,16 +9,6 @@
 
 ====== Letter to: Mrs. Beatrice Matusow ======
 
----- dataentry letters ----
-Recipient_hidden : Mrs. Beatrice Matusow
-ListDate_hidden  : 1975-06-17
-showdate_hidden  : 2023-06-17
-To_letters       : Mrs. Beatrice Matusow
-Date_letter      : June 17
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Beatrice Matusow\\
 4542 Lehus St.\\
 Kapaa, Kauai, Hi. 96746

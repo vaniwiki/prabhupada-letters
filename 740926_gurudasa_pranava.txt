@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa, Pranava ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa, Pranava
-ListDate_hidden  : 1974-09-26
-showdate_hidden  : 2023-09-26
-To_letters       : Gurudasa, Pranava
-Date_letter      : September 26
-Year_letter      : 1974
-Place_letter     : Calcutta
-----
-
 Vrindaban
 
 My dear Gurudasa and Pranava:

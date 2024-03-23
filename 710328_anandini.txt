@@ -9,16 +9,6 @@
 
 ====== Letter to: Anandini (Karen Anderson) ======
 
----- dataentry letters ----
-Recipient_hidden : Anandini (Karen Anderson)
-ListDate_hidden  : 1971-03-28
-showdate_hidden  : 2023-03-28
-To_letters       : Anandini (Karen Anderson)
-Date_letter      : March 30
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Philadelphia
 
 My dear Anandini Devi Dasi (Karen Anderson),

@@ -9,16 +9,6 @@
 
 ====== Letter to: Shyama Dasi ======
 
----- dataentry letters ----
-Recipient_hidden : Shyama Dasi
-ListDate_hidden  : 1970-06-03
-showdate_hidden  : 2023-06-03
-To_letters       : Shyama Dasi
-Date_letter      : June 3
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Srimati Shyamadevi Dasi\\
 ISKCON Temple\\
 318 East 20th Avenue\\

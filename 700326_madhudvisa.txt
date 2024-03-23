@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1970-03-26
-showdate_hidden  : 2023-03-26
-To_letters       : Madhudvisa
-Date_letter      : March 26
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 18th March, 1970. I have already chanted the beads of Srimati Maithili Dasi, and I hope you have received them back.

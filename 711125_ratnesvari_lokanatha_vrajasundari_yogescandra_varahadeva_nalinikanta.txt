@@ -9,16 +9,6 @@
 
 ====== Letter to: Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke) ======
 
----- dataentry letters ----
-Recipient_hidden : Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke)
-ListDate_hidden  : 1971-11-25
-showdate_hidden  : 2023-11-25
-To_letters       : Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke)
-Date_letter      : November 25
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 Berkeley
 
 My dear Sons and Daughters,

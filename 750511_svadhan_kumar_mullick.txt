@@ -9,16 +9,6 @@
 
 ====== Letter to: Svadhan Kumar Mullick ======
 
----- dataentry letters ----
-Recipient_hidden : Svadhan Kumar Mullick
-ListDate_hidden  : 1975-05-11
-showdate_hidden  : 2023-05-11
-To_letters       : Svadhan Kumar Mullick
-Date_letter      : May 11
-Year_letter      : 1975
-Place_letter     : Perth
-----
-
 Svadhan Kumar Mullick\\
 Calcutta
 

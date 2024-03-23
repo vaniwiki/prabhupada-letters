@@ -9,16 +9,6 @@
 
 ====== Letter to: Paramananda ======
 
----- dataentry letters ----
-Recipient_hidden : Paramananda
-ListDate_hidden  : 1971-01-27
-showdate_hidden  : 2023-01-27
-To_letters       : Paramananda
-Date_letter      : January 27
-Year_letter      : 1971
-Place_letter     : Allahabad
-----
-
 New Vrindaban
 
 My dear Paramananda,

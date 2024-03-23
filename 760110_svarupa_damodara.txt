@@ -9,16 +9,6 @@
 
 ====== Letter to: Svarupa Damodara ======
 
----- dataentry letters ----
-Recipient_hidden : Svarupa Damodara
-ListDate_hidden  : 1976-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Svarupa Damodara
-Date_letter      : January 10
-Year_letter      : 1976
-Place_letter     : Bombay
-----
-
 My dear Svarupa Damodara,
 
 Please accept my blessings. I beg to thank you for your letter dated December 26th, 1975, and I have noted the contents carefully.

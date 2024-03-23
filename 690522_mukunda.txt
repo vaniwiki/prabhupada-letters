@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1969-05-22
-showdate_hidden  : 2023-05-22
-To_letters       : Mukunda
-Date_letter      : May 22
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter dated May 9, 1969, and in the meantime, I have also received letters from Yamuna, Gurudasa, as well as one letter from Mataji Syamadevi in Hindi. She has written that she wishes for me to go there immediately. In your letter you write to say that you can wait until you find a suitable place where all can be accommodated. This means that you are not living in one place, and from your letter it appears that you are scattered in different places.

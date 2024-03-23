@@ -9,16 +9,6 @@
 
 ====== Letter to: Hanuman, Amogha, Gopala ======
 
----- dataentry letters ----
-Recipient_hidden : Hanuman, Amogha, Gopala
-ListDate_hidden  : 1971-03-28
-showdate_hidden  : 2023-03-28
-To_letters       : Hanuman, Amogha, Gopala
-Date_letter      : March 28
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 My dear Hanuman, Amogha, Gopala,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated 19th and 23d March, 1971 and have noted the contents carefully. I have also received your telegram and I have already informed you that if need be I am prepared to go there but when things are completely matured. I hope you will consult Bali Mardan in this connection. Upon receipt of your last letter, I have sent one telegram to Kamala Devi, in care of Hanuman, reading as follows: HANUMAN DAS INFORMS ABOUT YOUR DONATION OF LAND AND TEMPLE. I THANK YOU VERY MUCH WITH BLESSINGS OF LORD KRISHNA. SHALL BE GLAD TO HEAR FROM YOU FURTHER IN THIS CONNECTION---BHAKTIVEDANTA SWAMI, FOUNDER---ISKCON.

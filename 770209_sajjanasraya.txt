@@ -9,16 +9,6 @@
 
 ====== Letter to: Sajjanasraya ======
 
----- dataentry letters ----
-Recipient_hidden : Sajjanasraya
-ListDate_hidden  : 1977-02-09
-showdate_hidden  : 2023-02-09
-To_letters       : Sajjanasraya
-Date_letter      : February 9
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sriman Sajjanasraya das bramachari\\
 Sri Krishna Balarama Mandir\\
 Vrindaban, Mathura U.P.

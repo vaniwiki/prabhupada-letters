@@ -9,16 +9,6 @@
 
 ====== Letter to: Robert ======
 
----- dataentry letters ----
-Recipient_hidden : Robert
-ListDate_hidden  : 1976-03-08
-showdate_hidden  : 2023-03-08
-To_letters       : Robert
-Date_letter      : March 8
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Dallas
 
 My dear Robert,

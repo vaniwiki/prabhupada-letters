@@ -9,16 +9,6 @@
 
 ====== Letter to: Gupta ======
 
----- dataentry letters ----
-Recipient_hidden : Gupta
-ListDate_hidden  : 1975-04-08
-showdate_hidden  : 2023-04-08
-To_letters       : Gupta
-Date_letter      : April 8
-Year_letter      : 1975
-Place_letter     : Mayapur
-----
-
 Laguna Beach
 
 My dear Gupta Dasa,

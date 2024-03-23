@@ -9,16 +9,6 @@
 
 ====== Letter to: Malati ======
 
----- dataentry letters ----
-Recipient_hidden : Malati
-ListDate_hidden  : 1968-04-21
-showdate_hidden  : 2023-04-21
-To_letters       : Malati
-Date_letter      : April 21
-Year_letter      : 1968
-Place_letter     : New York
-----
-
 My dear Malati,
 
 Please accept my blessings. I am in due receipt of your letter dated 19th April, 1968, and the incidence in connection with Krishna's sitting on your lap is very interesting. I am so glad to learn that you have developed so much love for Krishna. This is the way of developing Krishna Consciousness; and wherever you will be rigid in your Krishna Consciousness, the triumph will be yours.

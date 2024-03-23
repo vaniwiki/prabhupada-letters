@@ -9,16 +9,6 @@
 
 ====== Letter to: Trivikrama ======
 
----- dataentry letters ----
-Recipient_hidden : Trivikrama
-ListDate_hidden  : 1974-12-02
-showdate_hidden  : 2023-12-02
-To_letters       : Trivikrama
-Date_letter      : December 2
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Hong Kong
 
 My dear Trivikrama Swami:

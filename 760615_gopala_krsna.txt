@@ -9,16 +9,6 @@
 
 ====== Letter to: Gopala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Gopala Krsna
-ListDate_hidden  : 1976-06-15
-showdate_hidden  : 2023-06-15
-To_letters       : Gopala Krsna
-Date_letter      : June 15
-Year_letter      : 1976
-Place_letter     : Detroit
-----
-
 Vrindaban
 
 My dear Gopala Krsna das,

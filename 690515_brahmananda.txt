@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1969-05-15
-showdate_hidden  : 2023-05-15
-To_letters       : Brahmananda
-Date_letter      : May 15
-Year_letter      : 1969
-Place_letter     : Columbus, Ohio
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 9, 1969, and I have noted the contents carefully. The first thing is that you must feel well. In whatever condition you should feel well, because if you fall sick, everything will be topsy-turvy. And what you require to be in good health, you know better than anyone else. That is your first business, and your second business is to organize sales in the stores, because the organization of sales in stores will determine our future publications. If we cannot organize these sales, there is no use of printing books and stocking them in our store room. It would be better to hand it over to the MacMillan Company. If they will print our books to the standard of __Teachings of Lord Caitanya,__ we do not mind if they raise the price. That is their business.

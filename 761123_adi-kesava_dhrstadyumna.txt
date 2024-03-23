@@ -9,16 +9,6 @@
 
 ====== Letter to: Ādi-kesava, Dhrstadyumna ======
 
----- dataentry letters ----
-Recipient_hidden : Ādi-kesava, Dhrstadyumna
-ListDate_hidden  : 1976-11-23
-showdate_hidden  : 2023-11-23
-To_letters       : Ādi-kesava, Dhrstadyumna
-Date_letter      : November 23
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 New York
 
 My dear Ādi Kesava and Dhrstadyumna,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraja
-ListDate_hidden  : 1973-04-14
-showdate_hidden  : 2023-04-14
-To_letters       : Giriraja
-Date_letter      : April 14
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Giriraja Das:
 
 Please accept my blessings. Regarding the purchasing of the apartment, if it is difficulty, then I request you to deposit the Rs. 30,000/- in the bank, Book Trust a/c.. It must be deposited as a fixed deposit. (at least for six months)

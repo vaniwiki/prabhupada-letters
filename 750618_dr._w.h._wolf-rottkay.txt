@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. W.H. Wolf-Rottkay ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. W.H. Wolf-Rottkay
-ListDate_hidden  : 1975-06-18
-showdate_hidden  : 2023-06-18
-To_letters       : Dr. W.H. Wolf-Rottkay
-Date_letter      : June 18
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Dr. W.H. Wolf-Rottkay\\
 12915 Venice Blvd., Apt. 37\\
 L.A., Ca. 90066

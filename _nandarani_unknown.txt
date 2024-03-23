@@ -9,15 +9,6 @@
 
 ====== Letter to: Nandarani, Unknown ======
 
----- dataentry letters ----
-Recipient_hidden : Nandarani, Unknown
-ListDate_hidden  : 19
-To_letters       : Nandarani, Unknown
-Date_letter      : Unknown
-Year_letter      : 
-Place_letter     : Unknown
-----
-
 OM
 
 3) What is the real meaning of Omkara?

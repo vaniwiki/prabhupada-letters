@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1968-03-26
-showdate_hidden  : 2023-03-26
-To_letters       : Satsvarupa
-Date_letter      : March 26
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 My dear Satsvarupa,
 
 This morning I have sent you one note of the tape regarding Pradyumna's hospital bill. I think I shall be able to send you $500.00 from this centre. I understand that Hospital bills are also paid by small installments. We have to make arrangement for future emergency and I wish to organize a central board for such management. For me it is not possible to look after the administrative affairs. Some of you should form a committee for this kind of management. In India the Brahmacaris collect alms and subscription But here it is not possible to do like that: therefore all Brahmacaris may work at least part time so that our financial difficulty may be minimized.

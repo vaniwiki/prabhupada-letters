@@ -9,16 +9,6 @@
 
 ====== Letter to: Vidyabadhu ======
 
----- dataentry letters ----
-Recipient_hidden : Vidyabadhu
-ListDate_hidden  : 1976-09-06
-showdate_hidden  : 2023-09-06
-To_letters       : Vidyabadhu
-Date_letter      : September 6
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Los Angeles
 
 My dear Vidyabadhu devi dasi,

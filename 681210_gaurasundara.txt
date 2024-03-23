@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaurasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Gaurasundara
-ListDate_hidden  : 1968-12-10
-showdate_hidden  : 2023-12-10
-To_letters       : Gaurasundara
-Date_letter      : December 10
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Gaurasundara,
 
 Please accept my blessings. I have received your letter of 7, December 1968 and have duly noted the contents.

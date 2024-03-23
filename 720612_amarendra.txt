@@ -9,16 +9,6 @@
 
 ====== Letter to: Amarendra ======
 
----- dataentry letters ----
-Recipient_hidden : Amarendra
-ListDate_hidden  : 1972-06-12
-showdate_hidden  : 2023-06-12
-To_letters       : Amarendra
-Date_letter      : June 12
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Gainesville
 
 My dear Amarendra,

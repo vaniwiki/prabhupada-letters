@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Asnani ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Asnani
-ListDate_hidden  : 1974-08-20
-showdate_hidden  : 2023-08-20
-To_letters       : Mr. Asnani
-Date_letter      : August 20
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Bombay
 
 My dear Mr. Asnani:

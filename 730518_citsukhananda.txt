@@ -9,16 +9,6 @@
 
 ====== Letter to: Citsukhananda ======
 
----- dataentry letters ----
-Recipient_hidden : Citsukhananda
-ListDate_hidden  : 1973-05-18
-showdate_hidden  : 2023-05-18
-To_letters       : Citsukhananda
-Date_letter      : May 18
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Caracas
 
 My dear Citsukhananda,

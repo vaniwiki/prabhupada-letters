@@ -9,16 +9,6 @@
 
 ====== Letter to: Agent, Central Bank of India ======
 
----- dataentry letters ----
-Recipient_hidden : Agent, Central Bank of India
-ListDate_hidden  : 1976-01-26
-showdate_hidden  : 2023-01-26
-To_letters       : Agent, Central Bank of India
-Date_letter      : January 26
-Year_letter      : 1976
-Place_letter     : 
-----
-
 The Agent,\\
 Central Bank of India,\\
 Camac Street Branch,\\

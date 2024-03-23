@@ -1,16 +1,6 @@
 ~~Title: Resolution — July 29, 1974~~
 ====== Resolution ======
 
----- dataentry letters ----
-Recipient_hidden : ISKCON
-ListDate_hidden  : 1974-07-29
-showdate_hidden  : 2023-07-29
-To_letters       : ISKCON
-Date_letter      : July 29
-Year_letter      : 1974
-Place_letter     : 
-----
-
 Gandhi Gram Road, Juhu, Bombay 54
 
 RESOLUTION

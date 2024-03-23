@@ -9,16 +9,6 @@
 
 ====== Letter to: Tripurari ======
 
----- dataentry letters ----
-Recipient_hidden : Tripurari
-ListDate_hidden  : 1974-11-12
-showdate_hidden  : 2023-11-12
-To_letters       : Tripurari
-Date_letter      : November 12
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Evanston, Illinois
 
 My dear Tripurari dasa:

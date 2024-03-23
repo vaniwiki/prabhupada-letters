@@ -9,16 +9,6 @@
 
 ====== Letter to: Niranjan ======
 
----- dataentry letters ----
-Recipient_hidden : Niranjan
-ListDate_hidden  : 1972-05-05
-showdate_hidden  : 2023-05-05
-To_letters       : Niranjan
-Date_letter      : May 5
-Year_letter      : 1972
-Place_letter     : Honolulu
-----
-
 My dear Niranjan,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 21, 1972 and I have noted the contents. I am glad to know that your confusion has been cleared up, and you have understood the reasons for my scolding you. This is the duty of the father or spiritual master, to simply chastise. By this chastisement, the disciple can realize his mistakes, and become strong and fixed up in devotional service.

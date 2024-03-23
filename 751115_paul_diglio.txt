@@ -9,16 +9,6 @@
 
 ====== Letter to: Paul Diglio ======
 
----- dataentry letters ----
-Recipient_hidden : Paul Diglio
-ListDate_hidden  : 1975-11-15
-showdate_hidden  : 2023-11-15
-To_letters       : Paul Diglio
-Date_letter      : November 15
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Mr. Paul Diglio\\
 87 Fairmont Avenue\\
 New Haven, Connecticut 06513\\

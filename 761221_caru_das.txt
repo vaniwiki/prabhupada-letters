@@ -9,16 +9,6 @@
 
 ====== Letter to: Caru das ======
 
----- dataentry letters ----
-Recipient_hidden : Caru das
-ListDate_hidden  : 1976-12-21
-showdate_hidden  : 2023-12-21
-To_letters       : Caru das
-Date_letter      : December 21
-Year_letter      : 1976
-Place_letter     : 
-----
-
 c/o ISKCON Berkeley\\
 2334 Stuart St. \\
 Berkeley, CA 94705, USA

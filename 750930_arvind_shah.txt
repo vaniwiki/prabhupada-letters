@@ -9,16 +9,6 @@
 
 ====== Letter to: Arvind Shah ======
 
----- dataentry letters ----
-Recipient_hidden : Arvind Shah
-ListDate_hidden  : 1975-09-30
-showdate_hidden  : 2023-09-30
-To_letters       : Arvind Shah
-Date_letter      : September 30
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Arvind Shah (Mathiawala)\\
 166 Parkview Ext.\\
 Athens, Georgia 30601

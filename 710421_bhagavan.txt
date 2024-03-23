@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhagavan ======
 
----- dataentry letters ----
-Recipient_hidden : Bhagavan
-ListDate_hidden  : 1971-04-21
-showdate_hidden  : 2023-04-21
-To_letters       : Bhagavan
-Date_letter      : April 21
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 My dear Bhagavan das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 12th April, 1971 and have noted the contents carefully. I have received your latest letter that Dai Nippon debt is now about $80,000. Formerly it was known to be $50,000. I have loaned $20,000 from the book fund. I think two more issues must have been supplied by them. Then the total amount due to them should be at about $80,000. This amount is too much. How do you expect that they will give us so much credit? So you must make a serious attempt how to liquidate this debt. Otherwise they will stop printing.

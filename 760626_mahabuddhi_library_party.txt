@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahabuddhi, Library Party ======
 
----- dataentry letters ----
-Recipient_hidden : Mahabuddhi, Library Party
-ListDate_hidden  : 1976-06-26
-showdate_hidden  : 2023-06-26
-To_letters       : Mahabuddhi, Library Party
-Date_letter      : June 26
-Year_letter      : 1976
-Place_letter     : New Vrindaban
-----
-
 Bombay
 
 My dear Mahabuddhi das and other members of the library party,

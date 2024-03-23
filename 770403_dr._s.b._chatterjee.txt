@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. S.B. Chatterjee ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. S.B. Chatterjee
-ListDate_hidden  : 1977-04-03
-showdate_hidden  : 2023-04-03
-To_letters       : Dr. S.B. Chatterjee
-Date_letter      : April 3
-Year_letter      : 1977
-Place_letter     : 
-----
-
 162/12/2B, Lake Gardens,\\
 West Block, 2nd floor,\\
 Calcutta 700 045

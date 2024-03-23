@@ -9,16 +9,6 @@
 
 ====== Letter to: Sudama, Subala ======
 
----- dataentry letters ----
-Recipient_hidden : Sudama, Subala
-ListDate_hidden  : 1974-09-05
-showdate_hidden  : 2023-09-05
-To_letters       : Sudama, Subala
-Date_letter      : September 5
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Honolulu
 
 My Dear Sudama and Subaladas

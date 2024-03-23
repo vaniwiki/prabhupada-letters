@@ -9,16 +9,6 @@
 
 ====== Letter to: Ambarish ======
 
----- dataentry letters ----
-Recipient_hidden : Ambarish
-ListDate_hidden  : 1977-06-11
-showdate_hidden  : 2023-06-11
-To_letters       : Ambarish
-Date_letter      : June 11
-Year_letter      : 1977
-Place_letter     : 
-----
-
 c/o ISKCON Detroit
 
 Krsna-Balarama Mandir,\\

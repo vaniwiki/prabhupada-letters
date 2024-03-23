@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Ram Kumar ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Ram Kumar
-ListDate_hidden  : 1975-09-17
-showdate_hidden  : 2023-09-17
-To_letters       : Sri Ram Kumar
-Date_letter      : September 17
-Year_letter      : 1975
-Place_letter     : 
-----
-
 Sri Ram Kumar\\
 Magistrate and Tehsildar\\
 P.O. Bassi (Dt. Jaipur)

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayadvaita ======
 
----- dataentry letters ----
-Recipient_hidden : Jayadvaita
-ListDate_hidden  : 1974-12-20
-showdate_hidden  : 2023-12-20
-To_letters       : Jayadvaita
-Date_letter      : December 20
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Brooklyn
 
 My dear Jayadvaita,

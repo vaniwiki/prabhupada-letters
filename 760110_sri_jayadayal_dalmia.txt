@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Jayadayal Dalmia ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Jayadayal Dalmia
-ListDate_hidden  : 1976-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Sri Jayadayal Dalmia
-Date_letter      : January 10
-Year_letter      : 1976
-Place_letter     : Bombay
-----
-
 Sri Jayadayal Dalmia\\
 4 Scindia House\\
 New Delhi-1

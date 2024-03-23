@@ -9,16 +9,6 @@
 
 ====== Letter to: Audolomi ======
 
----- dataentry letters ----
-Recipient_hidden : Audolomi
-ListDate_hidden  : 1975-02-06
-showdate_hidden  : 2023-02-06
-To_letters       : Audolomi
-Date_letter      : February 6
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Evanston, Illinois
 
 My dear Audolomi das,

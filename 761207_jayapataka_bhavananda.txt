@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka, Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka, Bhavananda
-ListDate_hidden  : 1976-12-07
-showdate_hidden  : 2023-12-07
-To_letters       : Jayapataka, Bhavananda
-Date_letter      : December 7
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Mayapur
 
 My dear Jayapataka and Bhavananda,

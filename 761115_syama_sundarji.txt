@@ -9,16 +9,6 @@
 
 ====== Letter to: Syama Sundarji ======
 
----- dataentry letters ----
-Recipient_hidden : Syama Sundarji
-ListDate_hidden  : 1976-11-15
-showdate_hidden  : 2023-11-15
-To_letters       : Syama Sundarji
-Date_letter      : November 15
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Sri Purusottama Math\\
 Puri
 

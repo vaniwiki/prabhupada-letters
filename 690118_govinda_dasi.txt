@@ -9,16 +9,6 @@
 
 ====== Letter to: Govinda dasi ======
 
----- dataentry letters ----
-Recipient_hidden : Govinda dasi
-ListDate_hidden  : 1969-01-18
-showdate_hidden  : 2023-01-18
-To_letters       : Govinda dasi
-Date_letter      : January 18
-Year_letter      : 1969
-Place_letter     : Unknown Place
-----
-
 [text missing]
 
 time now for editing __Caitanya Caritamrta.__ If he has got time, he can get one copy of Bengali __Caitanya Caritamrta.__ I can spare my own copy for which he hasn't got to pay me anything. Or else, if he likes, he can purchase a new copy from the New York temple. If Gaurasundara is too busy however, you can work on the lecture tapes.

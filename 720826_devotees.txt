@@ -9,16 +9,6 @@
 
 ====== Letter to: Devotees ======
 
----- dataentry letters ----
-Recipient_hidden : Devotees
-ListDate_hidden  : 1972-08-26
-showdate_hidden  : 2023-08-26
-To_letters       : Devotees
-Date_letter      : August 26
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 __VYASAPUJA REPLY:__
 
 My dear beloved Children,

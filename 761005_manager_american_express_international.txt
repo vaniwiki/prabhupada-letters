@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager, American Express International ======
 
----- dataentry letters ----
-Recipient_hidden : Manager, American Express International
-ListDate_hidden  : 1976-10-05
-showdate_hidden  : 2023-10-05
-To_letters       : Manager, American Express International
-Date_letter      : October 5
-Year_letter      : 1976
-Place_letter     : 
-----
-
 The Manager,\\
 American Express\\
 International Banking Corporation,\\

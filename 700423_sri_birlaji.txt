@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Birlaji ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Birlaji
-ListDate_hidden  : 1970-04-23
-showdate_hidden  : 2023-04-23
-To_letters       : Sri Birlaji
-Date_letter      : April 23
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Bombay
 
 My dear Sri Birlaji,

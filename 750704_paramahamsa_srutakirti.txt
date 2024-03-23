@@ -9,16 +9,6 @@
 
 ====== Letter to: Paramahamsa, Srutakirti ======
 
----- dataentry letters ----
-Recipient_hidden : Paramahamsa, Srutakirti
-ListDate_hidden  : 1975-07-04
-showdate_hidden  : 2023-07-04
-To_letters       : Paramahamsa, Srutakirti
-Date_letter      : July 4
-Year_letter      : 1975
-Place_letter     : Evanston
-----
-
 Honolulu
 
 My dear Paramahamsa Swami and Srutakirti das:

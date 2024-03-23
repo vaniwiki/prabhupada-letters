@@ -9,16 +9,6 @@
 
 ====== Letter to: Locanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Locanananda
-ListDate_hidden  : 1976-01-05
-showdate_hidden  : 2023-01-05
-To_letters       : Locanananda
-Date_letter      : January 5
-Year_letter      : 1976
-Place_letter     : Nellore
-----
-
 Amsterdam
 
 My dear Locanananda,

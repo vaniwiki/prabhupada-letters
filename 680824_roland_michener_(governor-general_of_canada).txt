@@ -9,16 +9,6 @@
 
 ====== Letter to: Roland Michener (Governor-General of Canada) ======
 
----- dataentry letters ----
-Recipient_hidden : Roland Michener (Governor-General of Canada)
-ListDate_hidden  : 1968-08-24
-showdate_hidden  : 2023-08-24
-To_letters       : Roland Michener (Governor-General of Canada)
-Date_letter      : August 24
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 His Excellency the Right Honorable Roland Michener\\
 Governor-General of Canada\\
 Government House\\

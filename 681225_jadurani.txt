@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1968-12-25
-showdate_hidden  : 2023-12-25
-To_letters       : Jadurani
-Date_letter      : December 25
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Jadurani,
 
 Please accept my blessings. I am in due receipt of your letter without any date. Purusottama says that this is a particular specialty of your letters that you write without any date. I think that you are right, because you are eternal. There is no beginning and no end and your enthusiasm is also eternal. You never get tired of serving Krishna, so I hope you shall eternally be engaged in serving Krishna because there is no end of such service.

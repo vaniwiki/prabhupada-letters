@@ -9,16 +9,6 @@
 
 ====== Letter to: Syamasundara, Tamala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Syamasundara, Tamala Krsna
-ListDate_hidden  : 1972-12-07
-showdate_hidden  : 2023-12-07
-To_letters       : Syamasundara, Tamala Krsna
-Date_letter      : December 7
-Year_letter      : 1972
-Place_letter     : Ahmedabad
-----
-
 Bombay
 
 My dear Syamasundara and Tamala,

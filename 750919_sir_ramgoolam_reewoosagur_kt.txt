@@ -9,16 +9,6 @@
 
 ====== Letter to: Sir Ramgoolam Reewoosagur Kt ======
 
----- dataentry letters ----
-Recipient_hidden : Sir Ramgoolam Reewoosagur Kt
-ListDate_hidden  : 1975-09-19
-showdate_hidden  : 2023-09-19
-To_letters       : Sir Ramgoolam Reewoosagur Kt
-Date_letter      : September 19
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Dr. The Rt. Hon.\\
 Sir Ramgoolam Reewoosagur Kt., M L.A. Prime Minister of Mauritius\\
 Government House,\\

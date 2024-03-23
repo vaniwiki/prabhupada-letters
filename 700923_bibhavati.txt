@@ -9,16 +9,6 @@
 
 ====== Letter to: Bibhavati ======
 
----- dataentry letters ----
-Recipient_hidden : Bibhavati
-ListDate_hidden  : 1970-09-23
-showdate_hidden  : 2023-09-23
-To_letters       : Bibhavati
-Date_letter      : September 23
-Year_letter      : 1970
-Place_letter     : Calcutta
-----
-
 CAMP: 37/1 Hindusthan Road; Calcutta-29; India
 
 My Dear Bibhavati, 

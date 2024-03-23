@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahamsa ======
 
----- dataentry letters ----
-Recipient_hidden : Mahamsa
-ListDate_hidden  : 1976-02-27
-showdate_hidden  : 2023-02-27
-To_letters       : Mahamsa
-Date_letter      : February 27
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Hyderabad
 
 Dear Mahamsa Swami,

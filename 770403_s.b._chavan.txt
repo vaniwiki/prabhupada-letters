@@ -9,16 +9,6 @@
 
 ====== Letter to: S.B. Chavan ======
 
----- dataentry letters ----
-Recipient_hidden : S.B. Chavan
-ListDate_hidden  : 1977-04-03
-showdate_hidden  : 2023-04-03
-To_letters       : S.B. Chavan
-Date_letter      : April 3
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Chief Minister of Maharashtra\\
 Sachivalaya, Bombay
 

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sivananda ======
 
----- dataentry letters ----
-Recipient_hidden : Sivananda
-ListDate_hidden  : 1968-12-04
-showdate_hidden  : 2023-12-04
-To_letters       : Sivananda
-Date_letter      : December 4
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Sivananda,
 
 Please accept my blessings. I have received your most recent letter (undated) and have noted the contents. I am so happy that by next week you will move into our new temple site and that you and Krishna das shall both be working so there will be no difficulty in financing. It is all Krishna's Grace.

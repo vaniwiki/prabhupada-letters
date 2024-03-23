@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1973-07-19
-showdate_hidden  : 2023-07-19
-To_letters       : Karandhara
-Date_letter      : July 19
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 My dear Karandhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 12, 1973 and I have carefully studied the contents.

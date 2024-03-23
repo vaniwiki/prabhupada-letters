@@ -9,16 +9,6 @@
 
 ====== Letter to: Cyavana ======
 
----- dataentry letters ----
-Recipient_hidden : Cyavana
-ListDate_hidden  : 1973-03-30
-showdate_hidden  : 2023-03-30
-To_letters       : Cyavana
-Date_letter      : March 30
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 My dear Cyavana:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 22nd 1973 and I have examined the contents carefully.

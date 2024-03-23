@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1969-03-23
-showdate_hidden  : 2023-03-23
-To_letters       : Brahmananda
-Date_letter      : March 23
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter of March 19, 1969, and I have noted the contents carefully. Yes, you can accept the class on the 8th instant in the City College. I am going to S.F. on the 31st, so on receipt of your passage money, I shall start on the 7th April, reaching N.Y. sometimes in the evening. And I shall be glad to meet the people from the New College while I am there, as well as Seton Hall College. I would like $100 per lecture.

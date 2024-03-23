@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1968-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : Brahmananda
-Date_letter      : April 2
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letters dated march 20, 25, 26, and I thank you very much for them. I am glad to hear that the lawyer and psychiatrist are going to help with Advaita, and I am praying Krishna for his safety. We are awaiting to receive the judge's statement, and when we secure it, I shall send it to you.

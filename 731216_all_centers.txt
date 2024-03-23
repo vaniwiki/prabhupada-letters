@@ -9,16 +9,6 @@
 
 ====== Letter to: All Centers ======
 
----- dataentry letters ----
-Recipient_hidden : All Centers
-ListDate_hidden  : 1973-12-16
-showdate_hidden  : 2023-12-16
-To_letters       : All Centers
-Date_letter      : December 16
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Memo to All Centers
 
 Repeatedly Srila Prabhupada says, "I only want my disciples to take this Movement seriously."

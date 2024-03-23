@@ -9,16 +9,6 @@
 
 ====== Letter to: Professor S. C. Chakravarti ======
 
----- dataentry letters ----
-Recipient_hidden : Professor S. C. Chakravarti
-ListDate_hidden  : 1970-10-03
-showdate_hidden  : 2023-10-03
-To_letters       : Professor S. C. Chakravarti
-Date_letter      : October 3
-Year_letter      : 1970
-Place_letter     : Calcutta
-----
-
 Sri Professor S.C. Chakravarti,\\
 D. Litt.\\
 Bolpur, India

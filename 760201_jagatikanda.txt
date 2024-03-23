@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagatikanda ======
 
----- dataentry letters ----
-Recipient_hidden : Jagatikanda
-ListDate_hidden  : 1976-02-01
-showdate_hidden  : 2023-02-01
-To_letters       : Jagatikanda
-Date_letter      : February 1
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Ottawa
 
 My dear Jagatikanda dasi,

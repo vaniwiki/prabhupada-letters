@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayananda ======
 
----- dataentry letters ----
-Recipient_hidden : Jayananda
-ListDate_hidden  : 1968-07-12
-showdate_hidden  : 2023-07-12
-To_letters       : Jayananda
-Date_letter      : July 12
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 My dear Jayananda,
 
 Please accept my blessings. I am in due receipt of your letter dated July 3, 1968. I have heard about your successful execution of Rathayatra festival in San Francisco from so many sources. And I am so glad to hear the news. But till now I have not received any newspaper clippings, or photostats of news articles. I am very much anxious to get them.

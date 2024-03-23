@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraja
-ListDate_hidden  : 1970-04-07
-showdate_hidden  : 2023-04-07
-To_letters       : Giriraja
-Date_letter      : April 7
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Boston
 
 My dear Giriraja,

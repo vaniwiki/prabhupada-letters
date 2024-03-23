@@ -9,16 +9,6 @@
 
 ====== Letter to: Hanuman ======
 
----- dataentry letters ----
-Recipient_hidden : Hanuman
-ListDate_hidden  : 1975-02-12
-showdate_hidden  : 2023-02-12
-To_letters       : Hanuman
-Date_letter      : February 12
-Year_letter      : 1975
-Place_letter     : Mexico City
-----
-
 Mexico City
 
 My dear Hanuman das

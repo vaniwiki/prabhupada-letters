@@ -9,15 +9,6 @@
 
 ====== Letter to: Ksirodakasayi ======
 
----- dataentry letters ----
-Recipient_hidden : Ksirodakasayi
-ListDate_hidden  : 19
-To_letters       : Ksirodakasayi
-Date_letter      : Unknown
-Year_letter      : 
-Place_letter     : Unknown
-----
-
 My dear Ksirodakasayi,
 
 Please accept my blessings.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Cidananda ======
 
----- dataentry letters ----
-Recipient_hidden : Cidananda
-ListDate_hidden  : 1969-02-11
-showdate_hidden  : 2023-02-11
-To_letters       : Cidananda
-Date_letter      : February 11
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Cidananda,
 
 Please accept my blessings. I am in due receipt of your letter of February 5, 1969, and I have carefully noted the contents. It is understood that you and Mulgi ba have been collecting for the new temple, but I do not know who is keeping account of this money. How much is there at present in this fund? Where is this fund being kept? Please inform me on these matters.

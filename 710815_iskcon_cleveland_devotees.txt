@@ -9,16 +9,6 @@
 
 ====== Letter to: ISKCON Cleveland, Sri Govinda, Srilekha, Leon, Woody, Debbie, others ======
 
----- dataentry letters ----
-Recipient_hidden : ISKCON Cleveland, Sri Govinda, Srilekha, Leon, Woody, Debbie, others
-ListDate_hidden  : 1971-08-15
-showdate_hidden  : 2023-08-15
-To_letters       : ISKCON Cleveland, Sri Govinda, Srilekha, Leon, Woody, Debbie, others
-Date_letter      : August 15
-Year_letter      : 1971
-Place_letter     : London
-----
-
 TO ISKCON CLEVELAND:
 
 My dear Sri Govinda Das, Srilekha, Leon, Woody, Debbie, etc.

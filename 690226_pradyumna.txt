@@ -9,16 +9,6 @@
 
 ====== Letter to: Pradyumna ======
 
----- dataentry letters ----
-Recipient_hidden : Pradyumna
-ListDate_hidden  : 1969-02-26
-showdate_hidden  : 2023-02-26
-To_letters       : Pradyumna
-Date_letter      : February 26
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Pradyumna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 19, 1969, and I am pleased that you are doing very nicely in your center. The pictures which you have sent are also very nice. I am going to New York by the first of April or by the end of March. From there I shall go to your side, Columbus and New Vrindaban.

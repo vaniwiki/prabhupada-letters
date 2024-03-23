@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1969-05-15
-showdate_hidden  : 2023-05-15
-To_letters       : Rayarama
-Date_letter      : May 15
-Year_letter      : 1969
-Place_letter     : Columbus, Ohio
-----
-
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter dated May 10th, 1969, and I have gone over the contents carefully. Regarding the IBM Composer, please have the IBM Company send me one letter stating that $660.00 should be transferred to their account, such and such account number, on the completion of the negotiations. Then I shall advise my bank to transfer the money to the IBM's account upon completion of your talks with them. Regarding your proposed program of editing, the __Bhagavatam First Canto__ is already edited, so when making final typing, you shall simply see it for proofreading. I do not think that you need take too much burden because you may fall ill with too much work. Now you are editing __Back To Godhead,__ and when we get the Composer there will be so much proofreading for you. So I think this will be sufficient work for you.

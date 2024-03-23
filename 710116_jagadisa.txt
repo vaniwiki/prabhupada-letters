@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagadisa ======
 
----- dataentry letters ----
-Recipient_hidden : Jagadisa
-ListDate_hidden  : 1971-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Jagadisa
-Date_letter      : January 16
-Year_letter      : 1971
-Place_letter     : Allahabad
-----
-
 My dear Jagadisa,
 
 Please accept my blessings. I am in due receipt of your letters dated 10th, 20th, 25th and 29th December, 1970, and have noted the contents carefully. Also I have received the conchshell necklace made by Laksmimoni. It is very nice. Please thank her.

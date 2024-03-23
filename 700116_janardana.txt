@@ -9,16 +9,6 @@
 
 ====== Letter to: Janardana ======
 
----- dataentry letters ----
-Recipient_hidden : Janardana
-ListDate_hidden  : 1970-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Janardana
-Date_letter      : January 16
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Paris
 
 My dear Janardana,

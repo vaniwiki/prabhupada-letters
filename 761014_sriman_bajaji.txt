@@ -9,16 +9,6 @@
 
 ====== Letter to: Sriman Bajaji ======
 
----- dataentry letters ----
-Recipient_hidden : Sriman Bajaji
-ListDate_hidden  : 1976-10-14
-showdate_hidden  : 2023-10-14
-To_letters       : Sriman Bajaji
-Date_letter      : October 14
-Year_letter      : 1976
-Place_letter     : Chandigarh
-----
-
 Bombay
 
 Dear Sriman Bajaji,

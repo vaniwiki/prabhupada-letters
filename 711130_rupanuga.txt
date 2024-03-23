@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1971-11-30
-showdate_hidden  : 2023-11-30
-To_letters       : Rupanuga
-Date_letter      : November 30
-Year_letter      : 1971
-Place_letter     : Vrindaban
-----
-
 My dear Rupanuga,
 
 Please accept my blessings. I am in due receipt of your letter of November 10, 1971, and have noted the contents carefully. I am currently in Vrindaban with a party of 40 devotees, and we are having daily __parikrama__ of the holy places. We shall return to Delhi tomorrow by coach. The officials and residents of Vrindaban have greeted us very nicely, and they are simply astounded to see our SKP chanting with great jubilation through the city streets. The Mayor has publicly proclaimed that I have done something wonderful, and practically speaking, they realize that before I went to the western countries no one there knew about Vrindaban. Now hundreds of visitors and hippies from your country come here to see Krishna's place. The Vrindaban devotees have understood that Vrindaban is now world-famous due to my preaching work, so they are all very much appreciating their hometown Swamiji.

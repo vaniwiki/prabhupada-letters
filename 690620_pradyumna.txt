@@ -9,16 +9,6 @@
 
 ====== Letter to: Pradyumna ======
 
----- dataentry letters ----
-Recipient_hidden : Pradyumna
-ListDate_hidden  : 1969-06-20
-showdate_hidden  : 2023-06-20
-To_letters       : Pradyumna
-Date_letter      : June 20
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 My dear Pradyumna,
 
 Please accept my blessings. I am in due receipt of your letter of June 17, 1969, and I have noted the contents. It is all right to have the changes made on the two type fonts because it will be suitable for our purposes. I have already written you a letter that you have to maintain the machine. That means the monthly installments shall be arranged by you, and the cash down shall be paid by me. I have already advised Brahmananda in this connection so you can do the needful.

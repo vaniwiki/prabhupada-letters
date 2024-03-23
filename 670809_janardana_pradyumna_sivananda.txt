@@ -9,16 +9,6 @@
 
 ====== Letter to: Janardana, Pradyumna, Sivananda ======
 
----- dataentry letters ----
-Recipient_hidden : Janardana, Pradyumna, Sivananda
-ListDate_hidden  : 1967-08-09
-showdate_hidden  : 2023-08-09
-To_letters       : Janardana, Pradyumna, Sivananda
-Date_letter      : August 9
-Year_letter      : 1967
-Place_letter     : Vrindaban
-----
-
 My dear Janardana, Pradyumna, and Sivananda,
 
 Please accept my blessings. I am very glad to inform you that we have safely reached India on the 25th July at midnight due to a sixteen hour delay in London. But I am glad to inform you that there was no bodily discomfort while traveling. Kirtanananda and I stayed for a few days in Delhi and then came to Vrindaban on the first. I am undergoing the treatment of an ayurvedic physician celebrated to be the best there is in the area, and I think I am feeling a little better. Anyway, as soon as I am a little fit, I shall return to you by the Grace of Krishna.

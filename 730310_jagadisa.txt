@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagadisa ======
 
----- dataentry letters ----
-Recipient_hidden : Jagadisa
-ListDate_hidden  : 1973-03-10
-showdate_hidden  : 2023-03-10
-To_letters       : Jagadisa
-Date_letter      : March 10
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 My dear Jagadisa:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 1, 1973 and I have carefully examined the contents.

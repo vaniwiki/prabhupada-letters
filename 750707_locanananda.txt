@@ -9,16 +9,6 @@
 
 ====== Letter to: Locanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Locanananda
-ListDate_hidden  : 1975-07-07
-showdate_hidden  : 2023-07-07
-To_letters       : Locanananda
-Date_letter      : July 7
-Year_letter      : 1975
-Place_letter     : Evanston
-----
-
 Amsterdam
 
 My dear Locanananda das:

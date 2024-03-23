@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1969-04-01
-showdate_hidden  : 2023-04-01
-To_letters       : Brahmananda
-Date_letter      : April 1
-Year_letter      : 1969
-Place_letter     : San Francisco
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated March 26, 1969, and I have noted the contents carefully. Regarding the letter to the draft board, I would like that you boys may decide among yourselves what is to be done. When you have decided amongst yourselves, send it to me and I shall sign. I understand that Tamala Krishna has contacted a lawyer in Los Angeles, so you may contact Tamala Krishna to see what he has learned.

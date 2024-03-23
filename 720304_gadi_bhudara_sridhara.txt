@@ -9,16 +9,6 @@
 
 ====== Letter to: Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst) ======
 
----- dataentry letters ----
-Recipient_hidden : Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst)
-ListDate_hidden  : 1972-03-04
-showdate_hidden  : 2023-03-04
-To_letters       : Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst)
-Date_letter      : March 4
-Year_letter      : 1972
-Place_letter     : Calcutta
-----
-
 Gainesville, Florida
 
 My dear Sons,

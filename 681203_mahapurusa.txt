@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahapurusa ======
 
----- dataentry letters ----
-Recipient_hidden : Mahapurusa
-ListDate_hidden  : 1968-12-03
-showdate_hidden  : 2023-12-03
-To_letters       : Mahapurusa
-Date_letter      : December 3
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Mahapurusa,
 
 Please accept my blessings. I was so glad to receive your letter which was written by hand (undated). I had just been thinking of and wondering why you do not write to me. Although I am overcrowded by so many letters from my beloved spiritual sons and daughters, still if I don't receive a letter from one, I become anxious for it. So you and Murari should more often write to me. That will very much engladden me to my heart.

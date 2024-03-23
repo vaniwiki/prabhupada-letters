@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri S.P. Mandelia ======
 
----- dataentry letters ----
-Recipient_hidden : Sri S.P. Mandelia
-ListDate_hidden  : 1974-11-24
-showdate_hidden  : 2023-11-24
-To_letters       : Sri S.P. Mandelia
-Date_letter      : November 24
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Industry House\\
 Bombay
 

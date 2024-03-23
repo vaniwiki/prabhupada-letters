@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. A. B. Hartman ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. A. B. Hartman
-ListDate_hidden  : 1966-01-14
-showdate_hidden  : 2023-01-14
-To_letters       : Mr. A. B. Hartman
-Date_letter      : January 14
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Mr. A. B. Hartman\\
 New York City
 

@@ -9,16 +9,6 @@
 
 ====== Letter to: Selective Service System (for Tosana Krsna) ======
 
----- dataentry letters ----
-Recipient_hidden : Selective Service System (for Tosana Krsna)
-ListDate_hidden  : 1969-03-20
-showdate_hidden  : 2023-03-20
-To_letters       : Selective Service System (for Tosana Krsna)
-Date_letter      : March 20
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 Local Board No. 40\\
 Selective Service System\\
 100 McAllister Street\\

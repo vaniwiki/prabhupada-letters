@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1974-05-05
-showdate_hidden  : 2023-05-05
-To_letters       : Ramesvara
-Date_letter      : May 5
-Year_letter      : 1974
-Place_letter     : India
-----
-
 Dear Ramesvara,
 
 Please accept my blessings. I received a letter from Atreya Rsi das dated April 18, 1974. In that letter he mentions your name as follows:

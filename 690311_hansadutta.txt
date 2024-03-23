@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1969-03-11
-showdate_hidden  : 2023-03-11
-To_letters       : Hansadutta
-Date_letter      : March 11
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Hansadutta,
 
 Please accept my blessings. I am in due receipt of your letter of Feb. 28, 1969, and I am very much surprised that other nonsense magazines are being published by Dayala Nitai, and Janardana says it is in my knowledge! I am very much surprised to hear this. Enclosed I am forwarding one letter to Dayala Nitai, and how it is that without your knowledge these things are being done? Certainly it must be disturbing to you---it is disturbing to me also!

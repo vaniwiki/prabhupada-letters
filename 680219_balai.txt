@@ -9,16 +9,6 @@
 
 ====== Letter to: Balai ======
 
----- dataentry letters ----
-Recipient_hidden : Balai
-ListDate_hidden  : 1968-02-19
-showdate_hidden  : 2023-02-19
-To_letters       : Balai
-Date_letter      : February 19
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 New York
 
 My dear Balai dasi,

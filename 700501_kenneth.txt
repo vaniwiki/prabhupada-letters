@@ -9,16 +9,6 @@
 
 ====== Letter to: Kenneth ======
 
----- dataentry letters ----
-Recipient_hidden : Kenneth
-ListDate_hidden  : 1970-05-01
-showdate_hidden  : 2023-05-01
-To_letters       : Kenneth
-Date_letter      : May 1
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Boston
 
 My dear Sriman Kenneth,

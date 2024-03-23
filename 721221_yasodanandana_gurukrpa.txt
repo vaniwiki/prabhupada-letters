@@ -9,16 +9,6 @@
 
 ====== Letter to: Yasodanandana, Gurukrpa ======
 
----- dataentry letters ----
-Recipient_hidden : Yasodanandana, Gurukrpa
-ListDate_hidden  : 1972-12-21
-showdate_hidden  : 2023-12-21
-To_letters       : Yasodanandana, Gurukrpa
-Date_letter      : December 21
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Coimbatore, India
 
 My dear Yasodanandana and Gurukrpa,

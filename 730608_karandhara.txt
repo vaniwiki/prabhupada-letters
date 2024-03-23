@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1973-06-08
-showdate_hidden  : 2023-06-08
-To_letters       : Karandhara
-Date_letter      : June 8
-Year_letter      : 1973
-Place_letter     : Mayapur
-----
-
 Los Angeles
 
 My dear Karandhara,

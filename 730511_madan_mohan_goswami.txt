@@ -9,16 +9,6 @@
 
 ====== Letter to: Madan Mohan Goswami ======
 
----- dataentry letters ----
-Recipient_hidden : Madan Mohan Goswami
-ListDate_hidden  : 1973-05-11
-showdate_hidden  : 2023-05-11
-To_letters       : Madan Mohan Goswami
-Date_letter      : May 11
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Madan Mohan Goswami\\
 Shebait, Sri Sri Radha Damodaraji\\
 Seva Kunja, Vrindaban (Mathura)

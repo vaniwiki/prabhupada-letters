@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1974-10-25
-showdate_hidden  : 2023-10-25
-To_letters       : Ramesvara
-Date_letter      : October 25
-Year_letter      : 1974
-Place_letter     : West Bengal
-----
-
 Dear Ramesvara Prabhu:
 
 Please accept my humble obeisances. There have been two letters from GBC men to Srila Prabhupada regarding street chanting and book distribution, and there seems to be some discussion about the two. Srila Prabhupada has said that book distribution is more important that street chanting. Book distribution is brihat kirtana. It is literally kirtana in the sense that the books are spoken and therefore anyone who reads a book is hearing. Because his books are recorded and transcribed Srila Prabhupada calls his books spoken kirtanas, or recorded chanting. So book distribution is also kirtana and should not be considered less than kirtana.

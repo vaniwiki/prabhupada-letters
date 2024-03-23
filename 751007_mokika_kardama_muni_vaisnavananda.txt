@@ -9,16 +9,6 @@
 
 ====== Letter to: Mokika, Kardama Muni, Vaisnavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Mokika, Kardama Muni, Vaisnavananda
-ListDate_hidden  : 1975-10-07
-showdate_hidden  : 2023-10-07
-To_letters       : Mokika, Kardama Muni, Vaisnavananda
-Date_letter      : October 7
-Year_letter      : 1975
-Place_letter     : Durban
-----
-
 My dear Mokika dasa, Kardama Muni dasa, and Vaisnavananda dasa,
 
 Please accept my blessings. I am in due receipt of your letter dated August 6 and enclosed daksina and I thank you very much.

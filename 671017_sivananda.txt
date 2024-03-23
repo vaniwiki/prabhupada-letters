@@ -9,16 +9,6 @@
 
 ====== Letter to: Sivananda ======
 
----- dataentry letters ----
-Recipient_hidden : Sivananda
-ListDate_hidden  : 1967-10-17
-showdate_hidden  : 2023-10-17
-To_letters       : Sivananda
-Date_letter      : October 17
-Year_letter      : 1967
-Place_letter     : Calcutta
-----
-
 My dear Sivananda,
 
 Please accept my blessings. I am trying to go back to your country as soon as possible. Hope you are well.

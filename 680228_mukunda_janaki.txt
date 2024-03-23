@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda, Janaki ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda, Janaki
-ListDate_hidden  : 1968-02-28
-showdate_hidden  : 2023-02-28
-To_letters       : Mukunda, Janaki
-Date_letter      : February 28
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 San Francisco
 
 Dear Mukunda and Janaki,

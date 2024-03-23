@@ -9,16 +9,6 @@
 
 ====== Letter to: Tusta Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Tusta Krsna
-ListDate_hidden  : 1975-06-10
-showdate_hidden  : 2023-06-10
-To_letters       : Tusta Krsna
-Date_letter      : June 10
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Auckland, New Zealand
 
 My dear Tusta Krishna Swami,

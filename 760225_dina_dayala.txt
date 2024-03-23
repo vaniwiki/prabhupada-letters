@@ -9,16 +9,6 @@
 
 ====== Letter to: Dina Dayala ======
 
----- dataentry letters ----
-Recipient_hidden : Dina Dayala
-ListDate_hidden  : 1976-02-25
-showdate_hidden  : 2023-02-25
-To_letters       : Dina Dayala
-Date_letter      : February 25
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Athens
 
 My dear Dina Dayala das,

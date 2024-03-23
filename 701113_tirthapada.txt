@@ -9,16 +9,6 @@
 
 ====== Letter to: Tirthapada ======
 
----- dataentry letters ----
-Recipient_hidden : Tirthapada
-ListDate_hidden  : 1970-11-13
-showdate_hidden  : 2023-11-13
-To_letters       : Tirthapada
-Date_letter      : November 13
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 Sydney
 
 My dear Tirthapada,

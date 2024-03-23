@@ -9,16 +9,6 @@
 
 ====== Letter to: Lilavati ======
 
----- dataentry letters ----
-Recipient_hidden : Lilavati
-ListDate_hidden  : 1972-03-26
-showdate_hidden  : 2023-03-26
-To_letters       : Lilavati
-Date_letter      : March 26
-Year_letter      : 1972
-Place_letter     : Sydney
-----
-
 Los Angeles
 
 My dear Lilavati,

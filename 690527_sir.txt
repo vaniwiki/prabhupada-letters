@@ -9,16 +9,6 @@
 
 ====== Letter to: Sir ======
 
----- dataentry letters ----
-Recipient_hidden : Sir
-ListDate_hidden  : 1969-05-27
-showdate_hidden  : 2023-05-27
-To_letters       : Sir
-Date_letter      : May 27
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 (?) Khanna Aban Villa,\\
 Santacruz East\\
 Bombay-55 INDIA

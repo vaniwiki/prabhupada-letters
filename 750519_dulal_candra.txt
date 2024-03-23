@@ -9,16 +9,6 @@
 
 ====== Letter to: Dulal Candra ======
 
----- dataentry letters ----
-Recipient_hidden : Dulal Candra
-ListDate_hidden  : 1975-05-19
-showdate_hidden  : 2023-05-19
-To_letters       : Dulal Candra
-Date_letter      : May 19
-Year_letter      : 1975
-Place_letter     : Melbourne
-----
-
 Pittsburgh
 
 My dear Dulal Candra dasa,

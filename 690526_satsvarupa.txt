@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1969-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Satsvarupa
-Date_letter      : May 26
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 17, 1969, and I have noted the contents carefully. I also have received the watch, and it appears to be working properly. Regarding your idea of purchasing a house, if it is possible, do it immediately. When you pay big rent anyway, purchasing a house is nice. Now Murari and his good wife, Lilavati, are there, so this will be a great boon to your Sankirtana activities.

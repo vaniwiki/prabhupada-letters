@@ -9,16 +9,6 @@
 
 ====== Letter to: Balavanta ======
 
----- dataentry letters ----
-Recipient_hidden : Balavanta
-ListDate_hidden  : 1975-09-07
-showdate_hidden  : 2023-09-07
-To_letters       : Balavanta
-Date_letter      : September 7
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Atlanta
 
 My dear Balavanta das,

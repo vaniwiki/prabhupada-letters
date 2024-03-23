@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1970-02-23
-showdate_hidden  : 2023-02-23
-To_letters       : Hayagriva
-Date_letter      : February 23
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 14 February, 1970, and have noted the contents carefully. I am very glad to know that you have sent the final manuscript of __KRSNA__ book to Brahmananda and that it now reads very well. Thank you very much.

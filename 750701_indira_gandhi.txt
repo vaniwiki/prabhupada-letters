@@ -9,16 +9,6 @@
 
 ====== Letter to: Indira Gandhi ======
 
----- dataentry letters ----
-Recipient_hidden : Indira Gandhi
-ListDate_hidden  : 1975-07-01
-showdate_hidden  : 2023-07-01
-To_letters       : Indira Gandhi
-Date_letter      : July 1
-Year_letter      : 1975
-Place_letter     : 
-----
-
 Srimati Indira Gandhi\\
 Prime Minister of India\\
 Parliament House\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Patita Uddharan ======
 
----- dataentry letters ----
-Recipient_hidden : Patita Uddharan
-ListDate_hidden  : 1977-02-05
-showdate_hidden  : 2023-02-05
-To_letters       : Patita Uddharan
-Date_letter      : February 4
-Year_letter      : 1977
-Place_letter     : Mayapur 
-----
-
 Mayapur
 
 Dear Patita Uddharan,

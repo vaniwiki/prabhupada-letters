@@ -9,16 +9,6 @@
 
 ====== Letter to: Vrindaban Chandra De ======
 
----- dataentry letters ----
-Recipient_hidden : Vrindaban Chandra De
-ListDate_hidden  : 1976-04-21
-showdate_hidden  : 2023-04-21
-To_letters       : Vrindaban Chandra De
-Date_letter      : April 21
-Year_letter      : 1976
-Place_letter     : 
-----
-
 Sriman Vrindaban Chandra De,\\
 Vrinda Book Co.,\\
 30/1B, College Row,\\

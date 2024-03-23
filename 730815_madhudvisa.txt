@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1973-08-15
-showdate_hidden  : 2023-08-15
-To_letters       : Madhudvisa
-Date_letter      : August 15
-Year_letter      : 1973
-Place_letter     : U.K.
-----
-
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter and check for 1111.00 dollars.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mandali Bhadra ======
 
----- dataentry letters ----
-Recipient_hidden : Mandali Bhadra
-ListDate_hidden  : 1972-01-20
-showdate_hidden  : 2023-01-20
-To_letters       : Mandali Bhadra
-Date_letter      : January 20
-Year_letter      : 1972
-Place_letter     : Jaipur
-----
-
 My dear Mandali Bhadra,
 
 Please accept my blessings. I am in due receipt of your letter dated December 28, 1971, and with pleasure I have noted that your translation work is going on. This I want, that you shall from now on be the Head of the translating department in German language for all ISKCON literatures. You translate yourself as it is comfortable, but all other translations in German language by other translators must be checked by you, edited, and corrected very strictly for grammar and proper use of German language. It is not our philosophy to print errors. Of course, our spiritual subject matter is transcendental and therefore it remains potent despite mistakes in grammar, spelling, etc. But this type of translation may only be allowed if there is no other way to correct it, then it is all right. But if you know the correct order, then you must make it perfect. That is our philosophy: everything perfect for Krishna.

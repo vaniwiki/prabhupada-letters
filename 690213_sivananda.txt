@@ -9,16 +9,6 @@
 
 ====== Letter to: Sivananda ======
 
----- dataentry letters ----
-Recipient_hidden : Sivananda
-ListDate_hidden  : 1969-02-13
-showdate_hidden  : 2023-02-13
-To_letters       : Sivananda
-Date_letter      : February 13
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Hamburg
 
 My dear Sivananda,

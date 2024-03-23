@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna dasa
-ListDate_hidden  : 1969-01-15
-showdate_hidden  : 2023-01-15
-To_letters       : Krsna dasa
-Date_letter      : January 15
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Krishna Das,
 
 Please accept my blessings. I am in due receipt of your letter dated January 8, 1969, and I have noted the contents carefully.

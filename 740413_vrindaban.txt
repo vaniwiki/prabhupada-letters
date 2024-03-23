@@ -9,16 +9,6 @@
 
 ====== Letter to: Vrindaban ======
 
----- dataentry letters ----
-Recipient_hidden : Vrindaban
-ListDate_hidden  : 1974-04-13
-showdate_hidden  : 2023-04-13
-To_letters       : Vrindaban
-Date_letter      : April 13
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Calcutta
 
 Dear Vrindaban,

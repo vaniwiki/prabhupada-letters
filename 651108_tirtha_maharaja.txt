@@ -9,16 +9,6 @@
 
 ====== Letter to: Tirtha Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : Tirtha Maharaja
-ListDate_hidden  : 1965-11-08
-showdate_hidden  : 2023-11-08
-To_letters       : Tirtha Maharaja
-Date_letter      : November 8
-Year_letter      : 1965
-Place_letter     : New York
-----
-
 Pujaniya Srila Tirtha Maharaja,
 
 Kindly accept respectful obeisances at your lotus feet. Since I have come to the United States of America I had several correspondence with Sripada Govinda Maharaja. While I was in Calcutta at that time as well as in our different exchange of letters there was some hint from Sripada Govinda Maharaja, I should work in cooperation with your holiness and in my last letter I have already expressed my readiness to cooperate with your holiness and I had to ask from Govinda Maharaja as to the basic principle of that cooperation. Before I took Sannyasa perhaps you will remember it that I proposed to join you if my publications were taken up. But some how or other it was not possible and we missed the chance.

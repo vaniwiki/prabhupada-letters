@@ -9,16 +9,6 @@
 
 ====== Letter to: Dvarakesa ======
 
----- dataentry letters ----
-Recipient_hidden : Dvarakesa
-ListDate_hidden  : 1976-01-18
-showdate_hidden  : 2023-01-18
-To_letters       : Dvarakesa
-Date_letter      : January 18
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Sweden
 
 My dear Dvarakesa,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama, Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama, Satsvarupa
-ListDate_hidden  : 1967-03-30
-showdate_hidden  : 2023-03-30
-To_letters       : Rayarama, Satsvarupa
-Date_letter      : March 30
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My Dear Rayarama
 
 My dear Satsvarupa,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Maeve Davies ======
 
----- dataentry letters ----
-Recipient_hidden : Maeve Davies
-ListDate_hidden  : 1976-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Maeve Davies
-Date_letter      : February 21
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Bhaktivedanta Manor
 
 My dear Maeve Davies,

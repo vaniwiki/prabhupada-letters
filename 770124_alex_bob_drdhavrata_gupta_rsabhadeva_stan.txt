@@ -9,16 +9,6 @@
 
 ====== Letter to: Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan ======
 
----- dataentry letters ----
-Recipient_hidden : Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan
-ListDate_hidden  : 1977-01-24
-showdate_hidden  : 2023-01-24
-To_letters       : Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan
-Date_letter      : January 24
-Year_letter      : 1977
-Place_letter     : Bhuvaneśvara
-----
-
 Prasadam Distributing International\\
 4350 Von Karman---Penthouse\\
 Newport Beach, California U.S.A.

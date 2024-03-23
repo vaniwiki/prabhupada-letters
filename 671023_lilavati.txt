@@ -9,16 +9,6 @@
 
 ====== Letter to: Lilavati ======
 
----- dataentry letters ----
-Recipient_hidden : Lilavati
-ListDate_hidden  : 1967-10-23
-showdate_hidden  : 2023-10-23
-To_letters       : Lilavati
-Date_letter      : October 23
-Year_letter      : 1967
-Place_letter     : Calcutta
-----
-
 My dear Lilavati,
 
 Please accept my blessings. I'm just in receipt of your letter. Your child should be named Subhadra, the name that you have already chosen, this is nice. Regarding the horoscope, it is a nice idea and if I meet a good astrologer I shall try to get one for your little child. I'm glad that you have sent me the exact time and date of birth, this will help.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Balmukundji ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Balmukundji
-ListDate_hidden  : 1969-01-18
-showdate_hidden  : 2023-01-18
-To_letters       : Sri Balmukundji
-Date_letter      : January 18
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Sri Balmukundji,
 
 Please accept my greetings. I beg to thank you very much for your kind letter of January 14, 1969. There is a verse in __Srimad-Bhagavatam__ which says:

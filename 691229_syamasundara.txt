@@ -9,16 +9,6 @@
 
 ====== Letter to: Syamasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Syamasundara
-ListDate_hidden  : 1969-12-29
-showdate_hidden  : 2023-12-29
-To_letters       : Syamasundara
-Date_letter      : December 29
-Year_letter      : 1969
-Place_letter     : Boston
-----
-
 My dear Syamasundara,
 
 Please accept my blessings. I reached Boston as scheduled on December 21st, and there was a good reception by the devotees for Krishna's servant. The newspaper article published remarked on this occasion that "in the Logan Airport there has never been anything like this." It was exactly like the reception you arranged in London on September 11, 1969. I hope everything is going nicely in London temple.

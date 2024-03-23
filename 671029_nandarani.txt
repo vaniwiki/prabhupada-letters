@@ -9,16 +9,6 @@
 
 ====== Letter to: Nandarani ======
 
----- dataentry letters ----
-Recipient_hidden : Nandarani
-ListDate_hidden  : 1967-10-29
-showdate_hidden  : 2023-10-29
-To_letters       : Nandarani
-Date_letter      : October 29
-Year_letter      : 1967
-Place_letter     : Navadvipa
-----
-
 My dear Nandarani,
 
 Please accept my blessings. I was very pleased to receive your letter. I have come to Navadvipa since I've received your letter, the birthplace of Lord Caitanya. We came here last Tuesday & probably I shall return to Calcutta early next week.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Harer Nama ======
 
----- dataentry letters ----
-Recipient_hidden : Harer Nama
-ListDate_hidden  : 1970-03-15
-showdate_hidden  : 2023-03-15
-To_letters       : Harer Nama
-Date_letter      : March 15
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Harer Nama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 3 March, 1970, and I am very glad to know that you six boys are pushing our Krishna Consciousness Sankirtana movement in the Boulder-Denver area. Please work cooperatively and do it nicely.

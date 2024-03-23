@@ -9,16 +9,6 @@
 
 ====== Letter to: All GBC and Presidents ======
 
----- dataentry letters ----
-Recipient_hidden : All GBC and Presidents
-ListDate_hidden  : 1974-07-17
-showdate_hidden  : 2023-07-17
-To_letters       : All GBC and Presidents
-Date_letter      : July 17
-Year_letter      : 1974
-Place_letter     : Dallas
-----
-
 MEMO TO ALL CENTERS
 
 To all GBC and Presidents:

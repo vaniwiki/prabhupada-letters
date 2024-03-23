@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of First National City Bank of New York ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of First National City Bank of New York
-ListDate_hidden  : 1969-02-07
-showdate_hidden  : 2023-02-07
-To_letters       : Manager of First National City Bank of New York
-Date_letter      : February 7
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Manager\\
 First National City Bank of New York\\
 Grand Street and Bowery\\

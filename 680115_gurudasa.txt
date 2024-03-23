@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1968-01-15
-showdate_hidden  : 2023-01-15
-To_letters       : Gurudasa
-Date_letter      : January 15
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Guru das,
 
 Please accept my blessings. Acyutananda and Ramanuja Brahmacaris are now at the following address. c/o N. Banerjee, 114 Elliot Road, Kanpur 4, India. They are contemplating to open a preaching center at Kanpur, and you can open correspondence with them before starting for India.

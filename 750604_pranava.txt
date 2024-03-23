@@ -9,16 +9,6 @@
 
 ====== Letter to: Pranava ======
 
----- dataentry letters ----
-Recipient_hidden : Pranava
-ListDate_hidden  : 1975-06-04
-showdate_hidden  : 2023-06-04
-To_letters       : Pranava
-Date_letter      : June 4
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Vrndavana
 
 My dear Pranava,

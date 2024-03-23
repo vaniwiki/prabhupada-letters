@@ -9,16 +9,6 @@
 
 ====== Letter to: Devi ======
 
----- dataentry letters ----
-Recipient_hidden : Devi
-ListDate_hidden  : 1971-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Devi
-Date_letter      : February 15
-Year_letter      : 1971
-Place_letter     : Gorakhpur
-----
-
 Miami
 
 My dear Daughter Devi Dasi,

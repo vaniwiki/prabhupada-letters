@@ -9,16 +9,6 @@
 
 ====== Letter to: Advaita ======
 
----- dataentry letters ----
-Recipient_hidden : Advaita
-ListDate_hidden  : 1969-04-25
-showdate_hidden  : 2023-04-25
-To_letters       : Advaita
-Date_letter      : April 25
-Year_letter      : 1969
-Place_letter     : Boston
-----
-
 My dear Advaita,
 
 Please accept my blessings. I beg to thank you for your letter dated April 23, 1969, and I think your deliberation is right. I am advising Brahmananda to submit the manuscripts to Messrs. Dai Nippon under suitable arrangement, and whatever you can all get together for contributing to this purpose may immediately be handed over to Brahmananda for deposit in my book fund account. Your letter is very much encouraging, and it is worth exhibiting to all grhastha disciples, and not only to disciples, but to people in general who are simply interested in the matter of sense gratification. Our members of Krishna Consciousness society should be ideal human beings, and if they try to follow the principles, surely they will be the ideal men in the world.

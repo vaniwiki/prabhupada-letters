@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Nagendra Babu ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Nagendra Babu
-ListDate_hidden  : 1969-08-28
-showdate_hidden  : 2023-08-28
-To_letters       : Dr. Nagendra Babu
-Date_letter      : August 28
-Year_letter      : 1969
-Place_letter     : Hamburg
-----
-
 Dear Dr. Nagendra Babu,
 
 Please accept my humble obeisances. I understand from your daughter that you instructed her to see me in New York as she is there with her husband. She attempted to see me several times in our New York temple, but she was unable to see me on account of my constant touring in different centers. We have got now about two dozen centers in the USA, two in Canada and two in Europe. On Sunday last I was in New York while coming to Germany, and I have reached our German center on Monday morning. The address is above.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhadravardhana ======
 
----- dataentry letters ----
-Recipient_hidden : Bhadravardhana
-ListDate_hidden  : 1977-02-22
-showdate_hidden  : 2023-02-22
-To_letters       : Bhadravardhana
-Date_letter      : February 22
-Year_letter      : 1977
-Place_letter     : 
-----
-
 ISKCON\\
 22334 Stuart St.\\
 Berkeley, California 94705

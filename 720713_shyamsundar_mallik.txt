@@ -9,16 +9,6 @@
 
 ====== Letter to: Shyamsundar Mallik ======
 
----- dataentry letters ----
-Recipient_hidden : Shyamsundar Mallik
-ListDate_hidden  : 1972-07-13
-showdate_hidden  : 2023-07-13
-To_letters       : Shyamsundar Mallik
-Date_letter      : July 13
-Year_letter      : 1972
-Place_letter     : London
-----
-
 Shyamsundar Mallik\\
 155/A Mahatma Gandhi Road\\
 Calcutta-7, India

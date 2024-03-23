@@ -9,16 +9,6 @@
 
 ====== Letter to: Boys, Himavati ======
 
----- dataentry letters ----
-Recipient_hidden : Boys, Himavati
-ListDate_hidden  : 1967-06-07
-showdate_hidden  : 2023-06-07
-To_letters       : Boys, Himavati
-Date_letter      : June 7
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 Montreal
 
 My dear boys and Himavati,

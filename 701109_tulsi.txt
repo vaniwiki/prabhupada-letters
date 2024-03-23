@@ -9,16 +9,6 @@
 
 ====== Letter to: Tulsi ======
 
----- dataentry letters ----
-Recipient_hidden : Tulsi
-ListDate_hidden  : 1970-11-09
-showdate_hidden  : 2023-11-09
-To_letters       : Tulsi
-Date_letter      : November 9
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 San Diego
 
 My dear Tulsi das,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1971-12-09
-showdate_hidden  : 2023-12-09
-To_letters       : Jayatirtha
-Date_letter      : December 9
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 Los Angeles
 
 My dear Jayatirtha,

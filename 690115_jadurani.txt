@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1969-01-15
-showdate_hidden  : 2023-01-15
-To_letters       : Jadurani
-Date_letter      : January 15
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Jadurani,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 6, 1969, and I have noted with pleasure that you are almost done with the first five Krishna pictures which I have suggested to you. I think that you may immediately send these pictures to me in Los Angeles. So far as photographing these pictures for the book, I think that it is essential that these pictures be with bright attractive colors, so please do them in this way.

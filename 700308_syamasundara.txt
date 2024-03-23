@@ -9,16 +9,6 @@
 
 ====== Letter to: Syamasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Syamasundara
-ListDate_hidden  : 1970-03-08
-showdate_hidden  : 2023-03-08
-To_letters       : Syamasundara
-Date_letter      : March 8
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Syamasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 3 March, 1970, along with the "Govindam" record. The record is so nice that I am playing it at least once in a day and it is giving me transcendental pleasure with tears in my eyes. I am sure this record will be the first-class "hit" as already opined by the experts.

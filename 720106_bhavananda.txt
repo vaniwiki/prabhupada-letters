@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Bhavananda
-ListDate_hidden  : 1972-01-06
-showdate_hidden  : 2023-01-06
-To_letters       : Bhavananda
-Date_letter      : January 6
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Bhavananda,
 
 Please accept my blessings. Just now Syamasundara has gone to Delhi for some meetings with important government ministers. So presently I cannot send the airline ticket for Aravinda, because Syamasundara has kept it somewhere. So as soon as he returns which should be within a few days, then the ticket will be immediately sent to Calcutta.

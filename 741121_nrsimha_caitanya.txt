@@ -9,16 +9,6 @@
 
 ====== Letter to: Nrsimha Caitanya ======
 
----- dataentry letters ----
-Recipient_hidden : Nrsimha Caitanya
-ListDate_hidden  : 1974-11-21
-showdate_hidden  : 2023-11-21
-To_letters       : Nrsimha Caitanya
-Date_letter      : November 21
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 San Diego
 
 My dear Nrsimha Caitanya Das,

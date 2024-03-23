@@ -9,16 +9,6 @@
 
 ====== Letter to: Jennifer ======
 
----- dataentry letters ----
-Recipient_hidden : Jennifer
-ListDate_hidden  : 1975-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Jennifer
-Date_letter      : February 15
-Year_letter      : 1975
-Place_letter     : Mexico City
-----
-
 San Francisco
 
 My dear Jennifer,

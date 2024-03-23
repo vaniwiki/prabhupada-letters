@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1974-11-10
-showdate_hidden  : 2023-11-10
-To_letters       : Jayatirtha
-Date_letter      : November 10
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Los Angeles
 
 My dear Jayatirtha das:

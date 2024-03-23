@@ -9,16 +9,6 @@
 
 ====== Letter to: Syamasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Syamasundara
-ListDate_hidden  : 1967-05-04
-showdate_hidden  : 2023-05-04
-To_letters       : Syamasundara
-Date_letter      : May 4
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 My dear Syamasundara,
 
 Please accept my blessings. I am in due receipt of your letter of April 28, 1967, and thank you for returning the check. For the balance eight books you can send me your check conveniently, there is no hurry.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Harsarani ======
 
----- dataentry letters ----
-Recipient_hidden : Harsarani
-ListDate_hidden  : 1967-04-22
-showdate_hidden  : 2023-04-22
-To_letters       : Harsarani
-Date_letter      : April 22
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 My dear Srimati Harsarani,
 
 Please accept my blessings. I have duly received your bags for the beads and thank you very much. I hope you are %%__%% Kirtana nicely and feeling transcendental happiness. Please offer my blessings to all the boys and girls. Hope to hear from you.

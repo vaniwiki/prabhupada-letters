@@ -9,16 +9,6 @@
 
 ====== Letter to: Baradraj ======
 
----- dataentry letters ----
-Recipient_hidden : Baradraj
-ListDate_hidden  : 1977-04-08
-showdate_hidden  : 2023-04-08
-To_letters       : Baradraj
-Date_letter      : April 8
-Year_letter      : 1977
-Place_letter     : 
-----
-
 c/o ISKCON Los Angeles
 
 Hare Krishna Land\\

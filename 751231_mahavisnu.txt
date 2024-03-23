@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahavisnu ======
 
----- dataentry letters ----
-Recipient_hidden : Mahavisnu
-ListDate_hidden  : 1975-12-31
-showdate_hidden  : 2023-12-31
-To_letters       : Mahavisnu
-Date_letter      : December 31
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Edinburgh, Scotland
 
 My dear Mahavisnu Prabhu,

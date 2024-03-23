@@ -9,16 +9,6 @@
 
 ====== Letter to: Unknown ======
 
----- dataentry letters ----
-Recipient_hidden : Unknown
-ListDate_hidden  : 1974-11-17
-showdate_hidden  : 2023-11-17
-To_letters       : Unknown
-Date_letter      : November 17
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 DRAFT OF ADDITIONS TO MEMORANDUM OF ASSOCIATION FOR CALCUTTA REGISTRATION
 
 5B There shall be a Governing Body Commission whose purpose is to act as the instrument for the execution of the will of the Founder-Acarya His Divine Grace A.C. Bhaktivedanta Swami Prabhupada. The GBC members will be initially selected by His Divine Grace Srila Prabhupada. It will oversee all operations and management of ISKCON, as it receives direction from Srila Prabhupada, and Srila Prabhupada has the final approval in all matters.

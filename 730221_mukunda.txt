@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1973-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Mukunda
-Date_letter      : February 21
-Year_letter      : 1973
-Place_letter     : Auckland
-----
-
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter dated 13 February 1973 and have noted its contents carefully. Your program for working with the TV personalities seems to be very nice. Even though the results are not coming so quickly, please do not be discouraged.

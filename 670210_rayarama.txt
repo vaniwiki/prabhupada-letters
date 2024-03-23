@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1967-02-10
-showdate_hidden  : 2023-02-10
-To_letters       : Rayarama
-Date_letter      : February 10
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Rayarama,
 
 I have not heard from you since a long time. I hope you are doing well with your new job. Now as I am going to send the Gitopanisad to India for printing, please see the 1st and 2nd chapters finally if there are any grammatical or spelling mistakes. Also mark the __verses with diacritic signs__ as they are in Dr. Radhakrishnan's book. Mark the words in synonyms also. When you let me know that you have done it then I shall ask you to send it to India. With my blessings I hope everything is well there.

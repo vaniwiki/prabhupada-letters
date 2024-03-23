@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Krishna Pandit ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Krishna Pandit
-ListDate_hidden  : 1967-06-01
-showdate_hidden  : 2023-06-01
-To_letters       : Sri Krishna Pandit
-Date_letter      : June 1
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 Hari Bhakta Nudasa\\
 Sri Krishna Pandit\\
 Kuncha, Dilwali Singh\\

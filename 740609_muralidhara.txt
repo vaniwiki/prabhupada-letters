@@ -9,16 +9,6 @@
 
 ====== Letter to: Muralidhara ======
 
----- dataentry letters ----
-Recipient_hidden : Muralidhara
-ListDate_hidden  : 1974-06-09
-showdate_hidden  : 2023-06-09
-To_letters       : Muralidhara
-Date_letter      : June 9
-Year_letter      : 1974
-Place_letter     : Paris
-----
-
 Brooklyn
 
 My dear Muralidhara,

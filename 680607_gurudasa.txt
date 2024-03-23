@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1968-06-07
-showdate_hidden  : 2023-06-07
-To_letters       : Gurudasa
-Date_letter      : June 7
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 San Francisco
 
 My dear Gurudasa,

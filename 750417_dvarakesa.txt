@@ -9,16 +9,6 @@
 
 ====== Letter to: Dvarakesa ======
 
----- dataentry letters ----
-Recipient_hidden : Dvarakesa
-ListDate_hidden  : 1975-04-17
-showdate_hidden  : 2023-04-17
-To_letters       : Dvarakesa
-Date_letter      : April 17
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Stockholm
 
 My dear Dvarakesa dasa,

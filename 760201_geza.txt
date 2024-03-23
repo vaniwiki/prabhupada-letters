@@ -9,16 +9,6 @@
 
 ====== Letter to: Geza ======
 
----- dataentry letters ----
-Recipient_hidden : Geza
-ListDate_hidden  : 1976-02-01
-showdate_hidden  : 2023-02-01
-To_letters       : Geza
-Date_letter      : February 1
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Elwood, Australia
 
 My dear Geza,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraja
-ListDate_hidden  : 1973-04-03
-showdate_hidden  : 2023-04-03
-To_letters       : Giriraja
-Date_letter      : April 3
-Year_letter      : 1973
-Place_letter     : Zurich
-----
-
 My dear Giriraja,
 
 Please accept my blessings. We have reached Zurich yesterday morning and have come to the health resort of St. Morritz. The apartment is very nice but it is so cold that we cannot go outside. Probably we shall go to L.A. via N.Y. on the 5th of April.

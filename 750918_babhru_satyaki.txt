@@ -9,16 +9,6 @@
 
 ====== Letter to: Babhru, Satyaki ======
 
----- dataentry letters ----
-Recipient_hidden : Babhru, Satyaki
-ListDate_hidden  : 1975-09-18
-showdate_hidden  : 2023-09-18
-To_letters       : Babhru, Satyaki
-Date_letter      : September 18
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Honolulu
 
 My dear Babhru and Satyaki,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1970-09-19
-showdate_hidden  : 2023-09-19
-To_letters       : Jadurani
-Date_letter      : September 19
-Year_letter      : 1970
-Place_letter     : Calcutta
-----
-
 My dear Jadurani,
 
 Please accept my blessings. I am in due receipt of your recent (undated) letter. Regarding the painting of the Universal Form, yes you may do it as in the Brijabasi print.

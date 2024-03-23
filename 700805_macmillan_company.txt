@@ -9,16 +9,6 @@
 
 ====== Letter to: MacMillan Company ======
 
----- dataentry letters ----
-Recipient_hidden : MacMillan Company
-ListDate_hidden  : 1970-08-05
-showdate_hidden  : 2023-08-05
-To_letters       : MacMillan Company
-Date_letter      : August 5
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 The MacMillan Company\\
 New York
 

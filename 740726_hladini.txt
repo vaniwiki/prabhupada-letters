@@ -9,16 +9,6 @@
 
 ====== Letter to: Hladini ======
 
----- dataentry letters ----
-Recipient_hidden : Hladini
-ListDate_hidden  : 1974-07-26
-showdate_hidden  : 2023-07-26
-To_letters       : Hladini
-Date_letter      : July 26
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 New Vrindaban
 
 My dear Hladini devi dasi:

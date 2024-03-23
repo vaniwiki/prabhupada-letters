@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayananda ======
 
----- dataentry letters ----
-Recipient_hidden : Jayananda
-ListDate_hidden  : 1977-02-26
-showdate_hidden  : 2023-02-26
-To_letters       : Jayananda
-Date_letter      : February 26
-Year_letter      : 1977
-Place_letter     : Mayapur
-----
-
 Los Angeles
 
 My dear Jayananda,

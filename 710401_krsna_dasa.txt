@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna dasa
-ListDate_hidden  : 1971-04-01
-showdate_hidden  : 2023-04-01
-To_letters       : Krsna dasa
-Date_letter      : April 1
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Hamburg
 
 My dear Krsna dasa,

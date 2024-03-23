@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1971-12-22
-showdate_hidden  : 2023-12-22
-To_letters       : Gargamuni
-Date_letter      : December 22
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 My dear Gargamuni,
 
 Please accept my blessings. Regarding the land in Vrindaban, Mr. Sarif has promised but he has not given, so forget that proposition. Enclosed find the copy of a letter to Gauracandra Goswami. Deliver it to him, and if Gauracandra replies me in writing, then we can consider that possibility. Then we can take the matter seriously.

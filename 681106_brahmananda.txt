@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1968-11-06
-showdate_hidden  : 2023-11-06
-To_letters       : Brahmananda
-Date_letter      : November 6
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter along with Dai Nippon. I cannot understand why they should increase the price & supply goods not to the former sample! You use your best discretion & do the needful.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Harer Nama ======
 
----- dataentry letters ----
-Recipient_hidden : Harer Nama
-ListDate_hidden  : 1968-12-21
-showdate_hidden  : 2023-12-21
-To_letters       : Harer Nama
-Date_letter      : December 21
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Harer Nama,
 
 Please accept my blessings. I have received your letter dated December 10, 1968 and have noted the contents carefully. I was very happy to read how you are keeping nicely engaged in giving lectures at schools and preparing for a puppet show of Krishna Consciousness stories. This is very nice and if you continue to accelerate with engagements such as these then I am sure that you will be very successful in propagating this movement of Lord Caitanya. When Krishna sees that we are trying very sincerely to preach His message to others He becomes very pleased and showers all blessings upon the devotee. So please continue to progress in this spirit and I am sure that Krishna will arrange to see that your future in Krishna Consciousness will be very nice.

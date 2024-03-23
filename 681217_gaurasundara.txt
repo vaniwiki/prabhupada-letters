@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaurasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Gaurasundara
-ListDate_hidden  : 1968-12-17
-showdate_hidden  : 2023-12-17
-To_letters       : Gaurasundara
-Date_letter      : December 17
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Gaurasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 12, 1968 and I have noted the contents. I am glad that you have also received my previously sent letters. I have also handed over your letter for Govinda Dasi.

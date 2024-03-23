@@ -9,16 +9,6 @@
 
 ====== Letter to: Svati ======
 
----- dataentry letters ----
-Recipient_hidden : Svati
-ListDate_hidden  : 1972-01-00
-showdate_hidden  : 2023-01-00
-To_letters       : Svati
-Date_letter      : January
-Year_letter      : 1972
-Place_letter     : India
-----
-
 My dear Svati dasi,
 
 Please accept my blessings. I have duly received your letter undated and have noted the contents carefully.

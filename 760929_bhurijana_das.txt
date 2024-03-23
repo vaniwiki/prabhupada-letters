@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhurijana das ======
 
----- dataentry letters ----
-Recipient_hidden : Bhurijana das
-ListDate_hidden  : 1976-09-29
-showdate_hidden  : 2023-09-29
-To_letters       : Bhurijana das
-Date_letter      : September 29
-Year_letter      : 1976
-Place_letter     : 
-----
-
 Sriman Bhurijana das,\\
 R.D. No.1,\\
 Port Royal,\\

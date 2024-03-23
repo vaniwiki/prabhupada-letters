@@ -9,16 +9,6 @@
 
 ====== Letter to: Guptaji ======
 
----- dataentry letters ----
-Recipient_hidden : Guptaji
-ListDate_hidden  : 1974-02-07
-showdate_hidden  : 2023-02-07
-To_letters       : Guptaji
-Date_letter      : February 7
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Calcutta
 
 My dear Guptaji:

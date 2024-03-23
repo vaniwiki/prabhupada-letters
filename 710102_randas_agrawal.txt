@@ -9,16 +9,6 @@
 
 ====== Letter to: Randas Agrawal ======
 
----- dataentry letters ----
-Recipient_hidden : Randas Agrawal
-ListDate_hidden  : 1971-01-02
-showdate_hidden  : 2023-01-02
-To_letters       : Randas Agrawal
-Date_letter      : January 2
-Year_letter      : 1971
-Place_letter     : Surat
-----
-
 Sriman Randas Agrawal\\
 Dewas Kothi\\
 Sanyogitaganj\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna
-ListDate_hidden  : 1968-12-24
-showdate_hidden  : 2023-12-24
-To_letters       : Yamuna
-Date_letter      : December 24
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 London
 
 My dear Yamuna,

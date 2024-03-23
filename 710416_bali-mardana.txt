@@ -9,16 +9,6 @@
 
 ====== Letter to: Bali-mardana ======
 
----- dataentry letters ----
-Recipient_hidden : Bali-mardana
-ListDate_hidden  : 1971-04-16
-showdate_hidden  : 2023-04-16
-To_letters       : Bali-mardana
-Date_letter      : April 16
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 My dear Bali-mardana,
 
 Please accept my blessings. I am in due receipt of your letter dated 8th April, 1971, along with enclosed documents; gift deed documents and plan of the land proposed. I have received all these just yesterday evening. Now I shall find a notary public and sign it by tomorrow or the day after duly sealed and send it back by registered post.

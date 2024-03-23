@@ -9,16 +9,6 @@
 
 ====== Letter to: Srivatsa Goswami ======
 
----- dataentry letters ----
-Recipient_hidden : Srivatsa Goswami
-ListDate_hidden  : 1976-06-24
-showdate_hidden  : 2023-06-24
-To_letters       : Srivatsa Goswami
-Date_letter      : June 24
-Year_letter      : 1976
-Place_letter     : New Vrindaban
-----
-
 Srivatsa Goswami\\
 45 Dumrao Bahg Colony,\\
 Assi, Varanasi 221 005,\\

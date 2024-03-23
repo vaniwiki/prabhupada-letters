@@ -9,16 +9,6 @@
 
 ====== Letter to: Jennifer Wayne Woodward ======
 
----- dataentry letters ----
-Recipient_hidden : Jennifer Wayne Woodward
-ListDate_hidden  : 1975-06-10
-showdate_hidden  : 2023-06-10
-To_letters       : Jennifer Wayne Woodward
-Date_letter      : June 10
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Jennifer Wayne Woodward\\
 3081 16th St. #201\\
 San Francisco, CA. 94103

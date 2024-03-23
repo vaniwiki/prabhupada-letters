@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1967-11-21
-showdate_hidden  : 2023-11-21
-To_letters       : Mukunda
-Date_letter      : November 21
-Year_letter      : 1967
-Place_letter     : Calcutta
-----
-
 My dear Mukunda,
 
 Please accept my blessings. Today I have booked my seat for San Francisco. Please inform this news to all the devotees, My spiritual sons and daughters. I have sent you one cablegram reading as follows;

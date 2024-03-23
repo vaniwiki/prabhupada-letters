@@ -9,16 +9,6 @@
 
 ====== Letter to: Brother ======
 
----- dataentry letters ----
-Recipient_hidden : Brother
-ListDate_hidden  : 1958-11-00
-showdate_hidden  : 2023-11-00
-To_letters       : Brother
-Date_letter      : November
-Year_letter      : 1958
-Place_letter     : Jhansi
-----
-
 My dear Brother,
 
 Please excuse me if I have offended you by calling you my dear Brother. Actually you are my dear brother and when you know me you shall be pleased that I have called you as such.

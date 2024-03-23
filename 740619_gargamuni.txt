@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1974-06-19
-showdate_hidden  : 2023-06-19
-To_letters       : Gargamuni
-Date_letter      : June 19
-Year_letter      : 1974
-Place_letter     : Frankfurt
-----
-
 Calcutta
 
 My dear Gargamuni Maharaja,

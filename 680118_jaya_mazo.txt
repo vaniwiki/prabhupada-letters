@@ -9,16 +9,6 @@
 
 ====== Letter to: Jaya Mazo ======
 
----- dataentry letters ----
-Recipient_hidden : Jaya Mazo
-ListDate_hidden  : 1968-01-18
-showdate_hidden  : 2023-01-18
-To_letters       : Jaya Mazo
-Date_letter      : January 18
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Jaya Mazo\\
 600 East 21 Street\\
 Brooklyn, New York, 11226.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1971-11-04
-showdate_hidden  : 2023-11-04
-To_letters       : Jadurani
-Date_letter      : November 4
-Year_letter      : 1971
-Place_letter     : Calcutta
-----
-
 My dear Jadurani,
 
 Please accept my blessings. I am in due receipt of your letter dated 24th October, 1971 and have noted the contents carefully. So far whether to print posters, of course paintings are always nicer, but if posters can be printed I have no objection. If good printing is done, as you have described, then where from the money will come? So whether such investment is possible; you should consult with Rupanuga in this connection.

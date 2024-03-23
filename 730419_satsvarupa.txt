@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1973-04-19
-showdate_hidden  : 2023-04-19
-To_letters       : Satsvarupa
-Date_letter      : April 19
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa Maharaja:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 15, 1973 with enclosure of m/s. Narada Bhakti Sutra. . I have no objection to your publishing it, however there are many, many mistakes in the Sanskrit which have to be corrected, so I am returning the m/s. to you under separate cover. Regarding "Prayers of King Kulasekhara," I never said I was displeased with your publishing it in BTG.

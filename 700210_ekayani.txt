@@ -9,16 +9,6 @@
 
 ====== Letter to: Ekayani ======
 
----- dataentry letters ----
-Recipient_hidden : Ekayani
-ListDate_hidden  : 1970-02-10
-showdate_hidden  : 2023-02-10
-To_letters       : Ekayani
-Date_letter      : February 10
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 c/o Mendoza\\
 Bronx, N.Y.
 

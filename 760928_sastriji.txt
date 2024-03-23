@@ -9,16 +9,6 @@
 
 ====== Letter to: Sastriji ======
 
----- dataentry letters ----
-Recipient_hidden : Sastriji
-ListDate_hidden  : 1976-09-28
-showdate_hidden  : 2023-09-28
-To_letters       : Sastriji
-Date_letter      : September 28
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 New Delhi
 
 Dear Sastriji,

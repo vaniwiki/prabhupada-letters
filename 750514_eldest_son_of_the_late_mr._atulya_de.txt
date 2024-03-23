@@ -9,16 +9,6 @@
 
 ====== Letter to: Eldest son of the late Mr. Atulya De ======
 
----- dataentry letters ----
-Recipient_hidden : Eldest son of the late Mr. Atulya De
-ListDate_hidden  : 1975-05-14
-showdate_hidden  : 2023-05-14
-To_letters       : Eldest son of the late Mr. Atulya De
-Date_letter      : May 14
-Year_letter      : 1975
-Place_letter     : Perth
-----
-
 The eldest son of the late,\\
 Mr. Atulya De\\
 P.O. Barala, Dist. Mursidabad\\

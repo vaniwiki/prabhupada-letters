@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Y. G. Naik ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Y. G. Naik
-ListDate_hidden  : 1975-08-07
-showdate_hidden  : 2023-08-07
-To_letters       : Dr. Y. G. Naik
-Date_letter      : August 7
-Year_letter      : 1975
-Place_letter     : Toronto
-----
-
 Dr. Y. G. Naik, M.Sc., Ph.D.\\
 Retired Principal, Gujarat College,\\
 66 Hemdeep, Sharda Society\\

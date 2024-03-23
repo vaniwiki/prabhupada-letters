@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1969-07-11
-showdate_hidden  : 2023-07-11
-To_letters       : Jadurani
-Date_letter      : July 11
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Jadurani,
 
 Please accept my blessings. I hope now you are well. You can therefore begin painting nicely Krishna picture from Tape No. 13. Read the subject matter when it is typed & draw pictures accordingly as many as possible. ACB

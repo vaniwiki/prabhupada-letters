@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Madhavananda
-ListDate_hidden  : 1970-06-03
-showdate_hidden  : 2023-06-03
-To_letters       : Madhavananda
-Date_letter      : June 3
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Madhavananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your nice and encouraging letter dated 18th May, along with your gift a check for $150 in appreciation for your initiation, and thank you you so very much for this.

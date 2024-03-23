@@ -9,16 +9,6 @@
 
 ====== Letter to: Prabudha ======
 
----- dataentry letters ----
-Recipient_hidden : Prabudha
-ListDate_hidden  : 1976-02-18
-showdate_hidden  : 2023-02-18
-To_letters       : Prabudha
-Date_letter      : February 18
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Miami
 
 My dear Prabudha dasa,

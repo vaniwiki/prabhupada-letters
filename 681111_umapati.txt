@@ -9,16 +9,6 @@
 
 ====== Letter to: Umapati ======
 
----- dataentry letters ----
-Recipient_hidden : Umapati
-ListDate_hidden  : 1968-11-11
-showdate_hidden  : 2023-11-11
-To_letters       : Umapati
-Date_letter      : November 11
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Umapati,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Nov. 1, 1968, and with pleasure I have noted the contents. When you were in Montreal I told you that you continue to work at present and give me $400.00 per month for my literary propaganda work. I require so much money for purchasing a printing press as well as paying the bill of Dai Nippon. So do not quit your job, but try to earn some money for feeding our missionary activities.

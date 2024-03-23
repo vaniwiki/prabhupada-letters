@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1975-09-29
-showdate_hidden  : 2023-09-29
-To_letters       : Gargamuni
-Date_letter      : September 29
-Year_letter      : 1975
-Place_letter     : Ahmedabad
-----
-
 Brooklyn
 
 My dear Gargamuni Swami:

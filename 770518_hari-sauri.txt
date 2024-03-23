@@ -9,16 +9,6 @@
 
 ====== Letter to: Hari-sauri ======
 
----- dataentry letters ----
-Recipient_hidden : Hari-sauri
-ListDate_hidden  : 1977-05-18
-showdate_hidden  : 2023-05-18
-To_letters       : Hari-sauri
-Date_letter      : May 18
-Year_letter      : 1977
-Place_letter     : Vrindaban
-----
-
 My dear Hari Sauri,
 
 Please accept my blessings. I beg to acknowledge receipt of your telegram. It is not possible to reply you by telegram because there is necessity of sending beads, and sacred thread which can only be sent through a regular letter.

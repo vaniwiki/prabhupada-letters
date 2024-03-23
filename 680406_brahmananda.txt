@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1968-04-06
-showdate_hidden  : 2023-04-06
-To_letters       : Brahmananda
-Date_letter      : April 6
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated 29th of March, and I have noted the contents carefully. Your kind sentiments are very much appreciated by me, and I thank you very much for them.

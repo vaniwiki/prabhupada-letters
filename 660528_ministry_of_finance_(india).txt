@@ -9,16 +9,6 @@
 
 ====== Letter to: Ministry of Finance (India) ======
 
----- dataentry letters ----
-Recipient_hidden : Ministry of Finance (India)
-ListDate_hidden  : 1966-05-28
-showdate_hidden  : 2023-05-28
-To_letters       : Ministry of Finance (India)
-Date_letter      : May 28
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Ministry of Finance\\
 Department of Economic Affairs\\
 Government Of India\\

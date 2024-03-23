@@ -9,16 +9,6 @@
 
 ====== Letter to: Visala, Visalini ======
 
----- dataentry letters ----
-Recipient_hidden : Visala, Visalini
-ListDate_hidden  : 1974-05-09
-showdate_hidden  : 2023-05-09
-To_letters       : Visala, Visalini
-Date_letter      : May 9
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 My dear Visala and Visalaini,
 
 Please accept my blessings. Thank you very much for your gift of Rs 500/. So you are both exemplary Vaisnavas and I want that you, husband and wife, preach together. So you are part of our Vrindaban center. When you can return there spend your time always studying my books, chanting and preaching to the people of Vrindaban, with real understanding of this science of Krishna consciousness.

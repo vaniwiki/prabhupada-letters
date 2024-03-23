@@ -9,16 +9,6 @@
 
 ====== Letter to: Sahadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Sahadeva
-ListDate_hidden  : 1974-01-23
-showdate_hidden  : 2023-01-23
-To_letters       : Sahadeva
-Date_letter      : January 23
-Year_letter      : 1974
-Place_letter     : Honolulu
-----
-
 Houston, Texas
 
 Dear Sahadeva,

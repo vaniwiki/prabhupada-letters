@@ -9,16 +9,6 @@
 
 ====== Letter to: Labangalatika ======
 
----- dataentry letters ----
-Recipient_hidden : Labangalatika
-ListDate_hidden  : 1970-03-14
-showdate_hidden  : 2023-03-14
-To_letters       : Labangalatika
-Date_letter      : March 14
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Montreal
 
 My dear Labangalatika,

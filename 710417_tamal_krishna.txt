@@ -1,16 +1,6 @@
 ~~Title: Telegram to: Tamal Krishna — April 17, 1971~~
 ====== Telegram to: Tamal Krishna ======
 
----- dataentry letters ----
-Recipient_hidden : Tamal Krishna
-ListDate_hidden  : 1971-04-17
-showdate_hidden  : 2023-04-17
-To_letters       : Tamal Krishna
-Date_letter      : April 17
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 INDIAN POSTS AND TELEGRAPHS DEPARTMENT\\
 TELEGRAM\\
 TAMAL ISKCON\\

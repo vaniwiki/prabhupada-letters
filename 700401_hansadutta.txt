@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1970-04-01
-showdate_hidden  : 2023-04-01
-To_letters       : Hansadutta
-Date_letter      : April 1
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 27th March, 1970. I have duly received your $300 transferred from Germany and I understand that you are transferring another $1,500 to my account. The mail strike is already over. I am enclosing herewith a letter for Himavati, giving her instruction.

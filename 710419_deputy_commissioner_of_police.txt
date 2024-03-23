@@ -9,16 +9,6 @@
 
 ====== Letter to: Deputy Commissioner of Police ======
 
----- dataentry letters ----
-Recipient_hidden : Deputy Commissioner of Police
-ListDate_hidden  : 1971-04-19
-showdate_hidden  : 2023-04-19
-To_letters       : Deputy Commissioner of Police
-Date_letter      : April 19
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 To:\\
 Deputy Commissioner of Police\\
 Special Branch II, C.I.D.\\

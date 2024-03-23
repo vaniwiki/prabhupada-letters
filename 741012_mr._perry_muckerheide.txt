@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Perry Muckerheide ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Perry Muckerheide
-ListDate_hidden  : 1974-10-12
-showdate_hidden  : 2023-10-12
-To_letters       : Mr. Perry Muckerheide
-Date_letter      : October 12
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Mr. Perry Muckerheide\\
 9520 Del Grove Drive\\
 Beverly Hills, CA 90210

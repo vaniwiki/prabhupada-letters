@@ -9,16 +9,6 @@
 
 ====== Letter to: Omkara Giriji ======
 
----- dataentry letters ----
-Recipient_hidden : Omkara Giriji
-ListDate_hidden  : 1977-02-08
-showdate_hidden  : 2023-02-08
-To_letters       : Omkara Giriji
-Date_letter      : February 8
-Year_letter      : 1977
-Place_letter     : 
-----
-
 His Holiness Sri Omkara Giriji\\
 Sri Beni Madhava Mandir\\
 Dara Ganga, Allahabad, U.P.

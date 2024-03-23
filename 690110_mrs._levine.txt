@@ -9,16 +9,6 @@
 
 ====== Letter to: Mrs. Levine ======
 
----- dataentry letters ----
-Recipient_hidden : Mrs. Levine
-ListDate_hidden  : 1969-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Mrs. Levine
-Date_letter      : January 10
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Dear Mrs. Levine,
 
 Please accept my blessings. I beg to acknowledge receipt of your nice letter of January 5, 1969, along with your husband's note. Please offer my thanks to him.

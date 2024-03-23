@@ -9,16 +9,6 @@
 
 ====== Letter to: Tejiyas ======
 
----- dataentry letters ----
-Recipient_hidden : Tejiyas
-ListDate_hidden  : 1970-05-20
-showdate_hidden  : 2023-05-20
-To_letters       : Tejiyas
-Date_letter      : May 20
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Buffalo
 
 My dear Tejas Das,

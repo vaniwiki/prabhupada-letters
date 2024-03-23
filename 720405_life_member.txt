@@ -9,16 +9,6 @@
 
 ====== Letter to: Life Member ======
 
----- dataentry letters ----
-Recipient_hidden : Life Member
-ListDate_hidden  : 1972-04-05
-showdate_hidden  : 2023-04-05
-To_letters       : Life Member
-Date_letter      : April 5
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Dear Life Member,
 
 Please accept my greetings.

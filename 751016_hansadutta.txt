@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1975-10-16
-showdate_hidden  : 2023-10-16
-To_letters       : Hansadutta
-Date_letter      : October 16
-Year_letter      : 1975
-Place_letter     : Johannesburg
-----
-
 Taunus, West Germany
 
 My dear Hansadutta dasa,

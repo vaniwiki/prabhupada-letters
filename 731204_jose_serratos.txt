@@ -9,16 +9,6 @@
 
 ====== Letter to: Jose Serratos ======
 
----- dataentry letters ----
-Recipient_hidden : Jose Serratos
-ListDate_hidden  : 1973-12-04
-showdate_hidden  : 2023-12-04
-To_letters       : Jose Serratos
-Date_letter      : December 4
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Jose Serratos,
 
 Please accept my blessings. Yes we require all of our books to be translated into Spanish. In this connection please contact our Haihaya Prabhu at our Mexico City branch or Citsukhananda Prabhu at our Caracas branch as they are managing Spanish translating.

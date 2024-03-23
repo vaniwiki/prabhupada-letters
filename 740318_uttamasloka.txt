@@ -9,16 +9,6 @@
 
 ====== Letter to: Uttamasloka ======
 
----- dataentry letters ----
-Recipient_hidden : Uttamasloka
-ListDate_hidden  : 1974-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Uttamasloka
-Date_letter      : March 18
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Dear Uttama Sloka,
 
 Please accept my blessings. I have accepted for first initiation the devotees recommended by you, and their spiritual names are as follows:

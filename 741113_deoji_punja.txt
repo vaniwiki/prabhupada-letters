@@ -9,16 +9,6 @@
 
 ====== Letter to: Deoji Punja ======
 
----- dataentry letters ----
-Recipient_hidden : Deoji Punja
-ListDate_hidden  : 1974-11-13
-showdate_hidden  : 2023-11-13
-To_letters       : Deoji Punja
-Date_letter      : November 13
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Punja & Sons Ltd.\\
 P.O. box 125\\
 Lautoka, Fiji

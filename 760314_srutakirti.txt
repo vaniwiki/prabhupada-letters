@@ -9,16 +9,6 @@
 
 ====== Letter to: Srutakirti ======
 
----- dataentry letters ----
-Recipient_hidden : Srutakirti
-ListDate_hidden  : 1976-03-14
-showdate_hidden  : 2023-03-14
-To_letters       : Srutakirti
-Date_letter      : March 14
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Honolulu
 
 My dear Srutakirti das,

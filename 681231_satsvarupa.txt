@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1968-12-31
-showdate_hidden  : 2023-12-31
-To_letters       : Satsvarupa
-Date_letter      : December 31
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 27, 1968 along with one very beautiful picture by Jadurani. I am so pleased to see this wonderful portrait and please convey my hearty thanks to Jadurani for her fine endeavors.

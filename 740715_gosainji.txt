@@ -9,16 +9,6 @@
 
 ====== Letter to: Gosainji ======
 
----- dataentry letters ----
-Recipient_hidden : Gosainji
-ListDate_hidden  : 1974-07-15
-showdate_hidden  : 2023-07-15
-To_letters       : Gosainji
-Date_letter      : July 15
-Year_letter      : 1974
-Place_letter     : Los Angeles
-----
-
 Vrindaban
 
 My dear Gosainji:

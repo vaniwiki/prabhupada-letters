@@ -9,16 +9,6 @@
 
 ====== Letter to: Aditi ======
 
----- dataentry letters ----
-Recipient_hidden : Aditi
-ListDate_hidden  : 1970-09-29
-showdate_hidden  : 2023-09-29
-To_letters       : Aditi
-Date_letter      : September 29
-Year_letter      : 1970
-Place_letter     : India
-----
-
 My dear Daughter Aditi Devi Dasi,
 
 Please accept my blessings. I beg to thank you for your letter dated from London. You are a very fortunate girl to have come in contact with our Krsna Consciousness Society and I am so happy that you are tasting a drop of the nectar of devotional service to Lord Krsna. If you simply continue seriously following this program of rendering loving service to the Lord your life is sure to become soon filled with happiness and joy in Krsna's service.

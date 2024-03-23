@@ -9,16 +9,6 @@
 
 ====== Letter to: Aticandra ======
 
----- dataentry letters ----
-Recipient_hidden : Aticandra
-ListDate_hidden  : 1975-01-04
-showdate_hidden  : 2023-01-04
-To_letters       : Aticandra
-Date_letter      : January 4
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Los Angeles
 
 My dear Aticandra dasi,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahapurusa ======
 
----- dataentry letters ----
-Recipient_hidden : Mahapurusa
-ListDate_hidden  : 1967-10-17
-showdate_hidden  : 2023-10-17
-To_letters       : Mahapurusa
-Date_letter      : October 17
-Year_letter      : 1967
-Place_letter     : Calcutta
-----
-
 My dear Mahapurusa,
 
 Please accept my blessings. I am in due receipt of your detailed letter. Brown rice generally is doubly boiled, therefore it cannot be used for Krishna prasadam. Unpolished rice which looks like brown can be used. Generally in American the brown rice is doubly boiled therefore unfit. We do not mind polished or unpolished but doubly boiled mustn't be used. Doubly boiled rice is considered impure. Sun baked rice is all right.

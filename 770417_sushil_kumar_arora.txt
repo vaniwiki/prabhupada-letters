@@ -9,16 +9,6 @@
 
 ====== Letter to: Sushil Kumar Arora ======
 
----- dataentry letters ----
-Recipient_hidden : Sushil Kumar Arora
-ListDate_hidden  : 1977-04-17
-showdate_hidden  : 2023-04-17
-To_letters       : Sushil Kumar Arora
-Date_letter      : April 17
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Mr. Sushil Kumar Arora\\
 Golden Lotus Limited\\
 P.O. Box 761 Station A\\

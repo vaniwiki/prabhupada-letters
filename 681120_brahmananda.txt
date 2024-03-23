@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1968-11-20
-showdate_hidden  : 2023-11-20
-To_letters       : Brahmananda
-Date_letter      : November 20
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter of the 17th of Nov., and I have noted the contents carefully. Yes, get the books from Japan as soon as possible, and I have also written them one letter which you will find enclosed herewith. They have agreed to gold print on the cover, that is all right. So get it as soon as possible. I think the binding is all right. So not delay, just try to get them as soon as possible.

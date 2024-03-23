@@ -9,16 +9,6 @@
 
 ====== Letter to: Upendra ======
 
----- dataentry letters ----
-Recipient_hidden : Upendra
-ListDate_hidden  : 1969-04-19
-showdate_hidden  : 2023-04-19
-To_letters       : Upendra
-Date_letter      : April 19
-Year_letter      : 1969
-Place_letter     : Buffalo
-----
-
 My dear Upendra,
 
 Please accept my blessings. While I was in New York, I got your colored pictures, and each and every one of them is so nice and captivating that I have kept them for future paintings by our artists. I thank you very much for these pictures, and I hope your center is making nice progress by Sankirtana Movement. I shall be staying here in Buffalo for one week, and then I shall go on to Boston.

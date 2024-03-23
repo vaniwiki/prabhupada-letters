@@ -9,16 +9,6 @@
 
 ====== Letter to: Nalinikanta ======
 
----- dataentry letters ----
-Recipient_hidden : Nalinikanta
-ListDate_hidden  : 1977-04-18
-showdate_hidden  : 2023-04-18
-To_letters       : Nalinikanta
-Date_letter      : April 18
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 My dear Nalini Kanta,
 
 Please accept my blessings. I beg to thank you for your letter dated April 12th, 1977. Thank you very much for the donation of 50 dollars.

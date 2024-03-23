@@ -9,16 +9,6 @@
 
 ====== Letter to: Ved Prakash ======
 
----- dataentry letters ----
-Recipient_hidden : Ved Prakash
-ListDate_hidden  : 1958-07-07
-showdate_hidden  : 2023-07-07
-To_letters       : Ved Prakash
-Date_letter      : July 7
-Year_letter      : 1958
-Place_letter     : Bombay
-----
-
 My dear Sri Ved Prakash,
 
 I am in due receipt of your letter No VP 1159/58 D/2/7/58 with thanks and have noted the contents carefully.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Bharadraja ======
 
----- dataentry letters ----
-Recipient_hidden : Bharadraja
-ListDate_hidden  : 1974-01-25
-showdate_hidden  : 2023-01-25
-To_letters       : Bharadraja
-Date_letter      : January 25
-Year_letter      : 1974
-Place_letter     : Honolulu
-----
-
 Mayapur
 
 Dear Bharadraja,

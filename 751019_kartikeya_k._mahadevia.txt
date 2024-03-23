@@ -9,16 +9,6 @@
 
 ====== Letter to: Kartikeya K. Mahadevia ======
 
----- dataentry letters ----
-Recipient_hidden : Kartikeya K. Mahadevia
-ListDate_hidden  : 1975-10-19
-showdate_hidden  : 2023-10-19
-To_letters       : Kartikeya K. Mahadevia
-Date_letter      : October 19
-Year_letter      : 1975
-Place_letter     : Johannesburg
-----
-
 Kartikeya K. Mahadevia\\
 Bombay
 

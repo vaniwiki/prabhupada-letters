@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1969-02-14
-showdate_hidden  : 2023-02-14
-To_letters       : Jayapataka
-Date_letter      : February 14
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Jayapataka,
 
 Please accept my blessings. I am in due receipt of your letter of February 7, 1969, and I have carefully noted the contents. I have also seen the leaflets done by this boy, Mark, and they are very nicely done. Regarding your question about the 10 senses, such questions should be taken up at your Istagosthi meetings. I have already answered most of the questions you have asked in this connection in a previous letter, so you may refer to it.

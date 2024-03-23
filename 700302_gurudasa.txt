@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1970-03-02
-showdate_hidden  : 2023-03-02
-To_letters       : Gurudasa
-Date_letter      : March 2
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 London
 
 My dear Gurudasa,

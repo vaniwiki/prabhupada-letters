@@ -9,16 +9,6 @@
 
 ====== Letter to: Andrea Temple ======
 
----- dataentry letters ----
-Recipient_hidden : Andrea Temple
-ListDate_hidden  : 1968-02-26
-showdate_hidden  : 2023-02-26
-To_letters       : Andrea Temple
-Date_letter      : February 26
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Andrea Temple\\
 c/o General Delivery\\
 Freeport, Grand Bahama Island,\\

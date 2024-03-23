@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1967-09-23
-showdate_hidden  : 2023-09-23
-To_letters       : Satsvarupa
-Date_letter      : September 23
-Year_letter      : 1967
-Place_letter     : Delhi
-----
-
 Boston
 
 My dear Satsvarupa,

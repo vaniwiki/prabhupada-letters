@@ -9,16 +9,6 @@
 
 ====== Letter to: Sudama ======
 
----- dataentry letters ----
-Recipient_hidden : Sudama
-ListDate_hidden  : 1970-06-02
-showdate_hidden  : 2023-06-02
-To_letters       : Sudama
-Date_letter      : June 2
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Sudama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 29th May, 1970, and I am very glad to know that your preaching work is going on nicely. Please take advantage of the stall at the San Francisco Pavilion, and try to distribute the "Peace Formula" literature which you have sent to me as well as the card which you have also sent to me. Your plan to distribute French, German and English editions of BTG from the pavilions of those countries is very good idea.

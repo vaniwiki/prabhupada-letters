@@ -9,16 +9,6 @@
 
 ====== Letter to: Pradyumna ======
 
----- dataentry letters ----
-Recipient_hidden : Pradyumna
-ListDate_hidden  : 1968-01-22
-showdate_hidden  : 2023-01-22
-To_letters       : Pradyumna
-Date_letter      : January 22
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Pradyumna,
 
 Please accept my blessings. I have received your letter dated January 20, 1968. Los Angeles is very pleasant with clear sky and plenty of sunshine.

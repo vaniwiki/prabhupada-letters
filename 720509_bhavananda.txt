@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Bhavananda
-ListDate_hidden  : 1972-05-09
-showdate_hidden  : 2023-05-09
-To_letters       : Bhavananda
-Date_letter      : May 9
-Year_letter      : 1972
-Place_letter     : Honolulu
-----
-
 Calcutta
 
 My dear Bhavananda,

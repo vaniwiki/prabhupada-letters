@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1971-02-24
-showdate_hidden  : 2023-02-24
-To_letters       : Gargamuni
-Date_letter      : February 24
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Gainesville, Florida
 
 My dear Gargamuni Maharaja,

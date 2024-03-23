@@ -9,16 +9,6 @@
 
 ====== Letter to: Jay Krishna Thakura ======
 
----- dataentry letters ----
-Recipient_hidden : Jay Krishna Thakura
-ListDate_hidden  : 1975-12-06
-showdate_hidden  : 2023-12-06
-To_letters       : Jay Krishna Thakura
-Date_letter      : December 6
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Sriman Jaya Krishna Thakura B.Se., Ll.B\\
 3 Locket Road\\
 Wealdstone\\

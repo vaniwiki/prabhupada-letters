@@ -9,16 +9,6 @@
 
 ====== Letter to: Father Ramakrishna ======
 
----- dataentry letters ----
-Recipient_hidden : Father Ramakrishna
-ListDate_hidden  : 1950-12-12
-showdate_hidden  : 2023-12-12
-To_letters       : Father Ramakrishna
-Date_letter      : December 12
-Year_letter      : 1950
-Place_letter     : Calcutta
-----
-
 Sriman Ram Krishna Dey\\
 c/o Day Bannernut Co.\\
 Waterloo St.-Cal.

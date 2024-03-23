@@ -9,16 +9,6 @@
 
 ====== Letter to: Sama, Sammita ======
 
----- dataentry letters ----
-Recipient_hidden : Sama, Sammita
-ListDate_hidden  : 1973-01-04
-showdate_hidden  : 2023-01-04
-To_letters       : Sama, Sammita
-Date_letter      : January 4
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 Baltimore
 
 My dear Sama and Sammita Dasi,

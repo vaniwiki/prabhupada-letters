@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1967-12-23
-showdate_hidden  : 2023-12-23
-To_letters       : Satsvarupa
-Date_letter      : December 23
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. Your letter dated 17, Dec. duly in hand. I am preparing the text in dictaphone for sending you as usual, but you must have a dictaphone there, otherwise how you can hear the tapes? So arrange for this, either one to hire or on purchase system. And as soon as you let me know that you have one dictaphone there, I will send you the tapes regularly.

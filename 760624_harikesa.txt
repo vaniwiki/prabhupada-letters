@@ -9,16 +9,6 @@
 
 ====== Letter to: Harikesa ======
 
----- dataentry letters ----
-Recipient_hidden : Harikesa
-ListDate_hidden  : 1976-06-24
-showdate_hidden  : 2023-06-24
-To_letters       : Harikesa
-Date_letter      : June 24
-Year_letter      : 1976
-Place_letter     : New Vrindaban
-----
-
 Frankfurt
 
 My dear Harikesa Maharaja,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Nakano ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Nakano
-ListDate_hidden  : 1961-04-20
-showdate_hidden  : 2023-04-20
-To_letters       : Mr. Nakano
-Date_letter      : April 20
-Year_letter      : 1961
-Place_letter     : Delhi
-----
-
 Dear Mr. Nakano,
 
 In continuation of my Reg. letter of the 18th instant I beg to inform you that on 20/4/61 I have received the reply from the government which reads as follows.\\

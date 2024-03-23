@@ -9,16 +9,6 @@
 
 ====== Letter to: Nityananda ======
 
----- dataentry letters ----
-Recipient_hidden : Nityananda
-ListDate_hidden  : 1972-03-22
-showdate_hidden  : 2023-03-22
-To_letters       : Nityananda
-Date_letter      : March 22
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Nityananda,
 
 Please accept my blessings. I am in due receipt of your letter dated March 3, 1972, and I am very glad to hear from you that you have got a nice new temple there, which is also large, and that in general everything at New Orleans Center is progressing well under your supervision. I am very much satisfied. I am also pleased to hear something about Kirtanananda's party, and if you have them, kindly send me one photo of these painted busses, how they look, so I may be inspired by seeing them.

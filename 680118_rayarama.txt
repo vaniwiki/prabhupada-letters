@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1968-01-18
-showdate_hidden  : 2023-01-18
-To_letters       : Rayarama
-Date_letter      : January 18
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Rayarama,
 
 Please accept my blessings. I thank you for your letter of Jan. 11, 1968, and have noted the contents carefully. I acknowledge receipt of Kirtanananda's sannyasa certificate. I have no objection to the sweatshirts and posters bearing Madhava Visnu. And I am glad to hear that Back to Godhead will soon be ready for selling.

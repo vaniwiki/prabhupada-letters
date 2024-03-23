@@ -9,16 +9,6 @@
 
 ====== Letter to: Trai ======
 
----- dataentry letters ----
-Recipient_hidden : Trai
-ListDate_hidden  : 1973-09-04
-showdate_hidden  : 2023-09-04
-To_letters       : Trai
-Date_letter      : September 4
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 My dear Trai,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 30, 1973.

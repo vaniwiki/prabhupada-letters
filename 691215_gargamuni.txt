@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1969-12-15
-showdate_hidden  : 2023-12-15
-To_letters       : Gargamuni
-Date_letter      : December 15
-Year_letter      : 1969
-Place_letter     : London
-----
-
 My dear Gargamuni,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter with enclosures of one check for $60 and one bank receipt for $500. From the Book Fund this month I have spent a very large amount: $5,400. I have given two checks to Brahmananda, and Brahmananda has also sent me one check for $6,000. So this kind of transaction, printing of books and BTG and collection by selling, is very encouraging to me. Although there may not be any balance left, when we see we have so many books published and so many copies of __BTG,__ that is our pleasure. So I am so glad that you are endeavoring to collect from different centers. If we print all our manuscripts, even at the cost price of materials as estimated by Advaita, I shall require at least $100,000.00. So let us go on. Krishna will help us. Let us try our best combinedly. That is our business.

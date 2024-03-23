@@ -9,16 +9,6 @@
 
 ====== Letter to: Janardana ======
 
----- dataentry letters ----
-Recipient_hidden : Janardana
-ListDate_hidden  : 1969-03-02
-showdate_hidden  : 2023-03-02
-To_letters       : Janardana
-Date_letter      : March 2
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Janardana,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter, undated. It is a very long letter and, as you have written it in two months, perhaps I'll also require similar time to reply to this letter. On Monday I am going to Hawaii at least for a month, and there I shall try to read your letter very peacefully, and maybe I'll be able to reply in great detail.

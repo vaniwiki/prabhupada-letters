@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahapurusa ======
 
----- dataentry letters ----
-Recipient_hidden : Mahapurusa
-ListDate_hidden  : 1969-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Mahapurusa
-Date_letter      : January 16
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Mahapurusa,
 
 Please accept my blessings. I was very glad to receive your letter of January 11, 1969.

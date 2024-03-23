@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Channa Reddy ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Channa Reddy
-ListDate_hidden  : 1975-01-11
-showdate_hidden  : 2023-01-11
-To_letters       : Dr. Channa Reddy
-Date_letter      : January 11
-Year_letter      : 1975
-Place_letter     : 
-----
-
 Governor of Uttar Pradesh,\\
 Raj Bhavan, Lucknow, Uttar Pradesh.
 

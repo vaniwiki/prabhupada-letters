@@ -9,16 +9,6 @@
 
 ====== Letter to: Prabhanu ======
 
----- dataentry letters ----
-Recipient_hidden : Prabhanu
-ListDate_hidden  : 1975-05-20
-showdate_hidden  : 2023-05-20
-To_letters       : Prabhanu
-Date_letter      : May 20
-Year_letter      : 1975
-Place_letter     : Melbourne
-----
-
 Seattle
 
 My dear Prabhanu dasa,

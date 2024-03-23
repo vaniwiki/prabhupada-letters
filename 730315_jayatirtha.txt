@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1973-03-15
-showdate_hidden  : 2023-03-15
-To_letters       : Jayatirtha
-Date_letter      : March 15
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 My dear Jayatirtha,
 
 Please accept my blessings. I beg to acknowledge of your letter dated March 7th.

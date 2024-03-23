@@ -9,16 +9,6 @@
 
 ====== Letter to: Advaita ======
 
----- dataentry letters ----
-Recipient_hidden : Advaita
-ListDate_hidden  : 1969-11-23
-showdate_hidden  : 2023-11-23
-To_letters       : Advaita
-Date_letter      : November 23
-Year_letter      : 1969
-Place_letter     : London
-----
-
 My dear Advaita,
 
 Please accept my blessings. Your letter dated November 19, 1969 is in hand. The thing is that you have asked me so many questions, but it is not possible for me to manage all departments of our society. Practically you are in charge of the press department, but is is better to form immediately one press committee consisting of you, Satsvarupa, Brahmananda, or whomever else you like, and do it nicely. How things should be done I have given you suggestion, but it is not possible for me to divert my attention. Then my real work will suffer. I have written a letter to Pradyumna, but there is no reply as yet. Anyway, from the practical point of view, it appears that we cannot depend on him for composing work. So in consultation with the others, you arrange for other means. I have already advised Satsvarupa in this connection. If Sriman Candanacarya is busy in some other work, then Aravinda can wholly be engaged in Boston layout work. I have already asked him to go there.

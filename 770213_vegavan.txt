@@ -9,16 +9,6 @@
 
 ====== Letter to: Vegavan ======
 
----- dataentry letters ----
-Recipient_hidden : Vegavan
-ListDate_hidden  : 1977-02-13
-showdate_hidden  : 2023-02-13
-To_letters       : Vegavan
-Date_letter      : February 13
-Year_letter      : 1977
-Place_letter     : West Bengal
-----
-
 Dear Vegavan,
 
 Please accept my blessings. I have received your letter of 19 January and examined the contents.

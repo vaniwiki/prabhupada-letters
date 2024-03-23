@@ -9,15 +9,6 @@
 
 ====== Letter to: Artists ======
 
----- dataentry letters ----
-Recipient_hidden : Artists
-ListDate_hidden  : 19
-To_letters       : Artists
-Date_letter      : Unknown
-Year_letter      : 
-Place_letter     : Unknown
-----
-
 [PAGE 1 MISSING]
 
 (2)

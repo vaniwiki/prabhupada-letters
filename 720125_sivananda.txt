@@ -9,16 +9,6 @@
 
 ====== Letter to: Sivananda ======
 
----- dataentry letters ----
-Recipient_hidden : Sivananda
-ListDate_hidden  : 1972-01-25
-showdate_hidden  : 2023-01-25
-To_letters       : Sivananda
-Date_letter      : January 25
-Year_letter      : 1972
-Place_letter     : Nairobi
-----
-
 Hamburg
 
 My dear Sivananda Das,

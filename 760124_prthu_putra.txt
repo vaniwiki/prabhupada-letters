@@ -9,16 +9,6 @@
 
 ====== Letter to: Prthu Putra ======
 
----- dataentry letters ----
-Recipient_hidden : Prthu Putra
-ListDate_hidden  : 1976-01-24
-showdate_hidden  : 2023-01-24
-To_letters       : Prthu Putra
-Date_letter      : January 24
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Vrindaban
 
 My dear Prthu Putra Maharaja,

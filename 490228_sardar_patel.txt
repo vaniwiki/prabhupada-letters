@@ -9,16 +9,6 @@
 
 ====== Letter to: Sardar Patel ======
 
----- dataentry letters ----
-Recipient_hidden : Sardar Patel
-ListDate_hidden  : 1949-02-28
-showdate_hidden  : 2023-02-28
-To_letters       : Sardar Patel
-Date_letter      : February 28
-Year_letter      : 1949
-Place_letter     : Calcutta
-----
-
 Hon. Sardar Dr. Vallavbhaiji Patel\\
 Deputy Prime Minister,\\
 Government of India,\\

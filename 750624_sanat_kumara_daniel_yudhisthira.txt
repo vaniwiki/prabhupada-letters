@@ -9,16 +9,6 @@
 
 ====== Letter to: Sanat Kumara, Daniel, Yudhisthira ======
 
----- dataentry letters ----
-Recipient_hidden : Sanat Kumara, Daniel, Yudhisthira
-ListDate_hidden  : 1975-06-24
-showdate_hidden  : 2023-06-24
-To_letters       : Sanat Kumara, Daniel, Yudhisthira
-Date_letter      : June 24
-Year_letter      : 1975
-Place_letter     : Los Angeles
-----
-
 Nairobi
 
 My dear Sanat Kumar, Daniel, and Yudhisthira:

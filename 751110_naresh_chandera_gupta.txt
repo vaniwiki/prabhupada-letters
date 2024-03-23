@@ -9,16 +9,6 @@
 
 ====== Letter to: Naresh Chandera Gupta ======
 
----- dataentry letters ----
-Recipient_hidden : Naresh Chandera Gupta
-ListDate_hidden  : 1975-11-10
-showdate_hidden  : 2023-11-10
-To_letters       : Naresh Chandera Gupta
-Date_letter      : November 10
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Sriman Naresh Chandera Gupta\\
 575 D L F Colony\\
 Rohtak\\

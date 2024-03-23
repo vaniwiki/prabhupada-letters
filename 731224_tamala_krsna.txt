@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna
-ListDate_hidden  : 1973-12-24
-showdate_hidden  : 2023-12-24
-To_letters       : Tamala Krsna
-Date_letter      : December 24
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Bombay
 
 My dear Tamala Krsna Goswami,

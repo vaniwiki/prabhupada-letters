@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaura Hari ======
 
----- dataentry letters ----
-Recipient_hidden : Gaura Hari
-ListDate_hidden  : 1971-09-24
-showdate_hidden  : 2023-09-24
-To_letters       : Gaura Hari
-Date_letter      : September 24
-Year_letter      : 1971
-Place_letter     : Nairobi
-----
-
 Victoria, B.C., Canada
 
 My dear Gaura Hari,

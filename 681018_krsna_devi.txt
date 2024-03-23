@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna Devi ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna Devi
-ListDate_hidden  : 1968-10-18
-showdate_hidden  : 2023-10-18
-To_letters       : Krsna Devi
-Date_letter      : October 18
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Krishna devi,
 
 Please accept my blessings. I beg to acknowledge receipt of your long letter dated Oct. 13, 1968. I am so glad to read it that you are writing your letter from hospital, and I thank you very much that you are so much enthusiastic that even in hospital bed, you are thinking of serving Krishna in different ways.

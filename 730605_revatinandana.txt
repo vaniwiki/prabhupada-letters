@@ -9,16 +9,6 @@
 
 ====== Letter to: Revatinandana ======
 
----- dataentry letters ----
-Recipient_hidden : Revatinandana
-ListDate_hidden  : 1973-06-05
-showdate_hidden  : 2023-06-05
-To_letters       : Revatinandana
-Date_letter      : June 5
-Year_letter      : 1973
-Place_letter     : Mayapur
-----
-
 My dear Revatinandana,
 
 Please accept my blessings. I am in due receipt of your letter dated 29-5-73, and accompanying essay, and have noted the contents carefully.

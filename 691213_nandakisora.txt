@@ -9,16 +9,6 @@
 
 ====== Letter to: Nandakisora ======
 
----- dataentry letters ----
-Recipient_hidden : Nandakisora
-ListDate_hidden  : 1969-12-13
-showdate_hidden  : 2023-12-13
-To_letters       : Nandakisora
-Date_letter      : December 13
-Year_letter      : 1969
-Place_letter     : London
-----
-
 My dear Nandakisora,
 
 Please accept my blessings. I am in due receipt of your nice letter and have noted the contents with pleasure. You are gradually developing to be a nice Vaisnava, and please continue in this way. Krishna will be very pleased upon you. Regarding the song by Srila Bhaktivinode Thakura, the transliteration is as follows:

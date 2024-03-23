@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1974-08-16
-showdate_hidden  : 2023-08-16
-To_letters       : Jayatirtha
-Date_letter      : August 16
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Los Angeles
 
 My dear Jayatirtha das:

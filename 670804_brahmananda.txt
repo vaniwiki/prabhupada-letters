@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1967-08-04
-showdate_hidden  : 2023-08-04
-To_letters       : Brahmananda
-Date_letter      : August 4
-Year_letter      : 1967
-Place_letter     : Vrindaban
-----
-
 New York
 
 My dear Brahmananda,

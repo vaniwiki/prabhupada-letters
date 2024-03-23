@@ -9,16 +9,6 @@
 
 ====== Letter to: Candravali ======
 
----- dataentry letters ----
-Recipient_hidden : Candravali
-ListDate_hidden  : 1972-12-13
-showdate_hidden  : 2023-12-13
-To_letters       : Candravali
-Date_letter      : December 13
-Year_letter      : 1972
-Place_letter     : Ahmedabad
-----
-
 Mexico City
 
 My dear Candrabali,

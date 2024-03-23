@@ -9,16 +9,6 @@
 
 ====== Letter to: Suresvara ======
 
----- dataentry letters ----
-Recipient_hidden : Suresvara
-ListDate_hidden  : 1972-02-03
-showdate_hidden  : 2023-02-03
-To_letters       : Suresvara
-Date_letter      : February 3
-Year_letter      : 1972
-Place_letter     : Nairobi
-----
-
 New Vrindaban
 
 Dear Suresvara das;

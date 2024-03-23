@@ -9,16 +9,6 @@
 
 ====== Letter to: Janajanmadhih ======
 
----- dataentry letters ----
-Recipient_hidden : Janajanmadhih
-ListDate_hidden  : 1975-11-15
-showdate_hidden  : 2023-11-15
-To_letters       : Janajanmadhih
-Date_letter      : November 15
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Memphis
 
 My dear Janajanmadhih das,

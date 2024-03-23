@@ -9,16 +9,6 @@
 
 ====== Letter to: Ksirodakasayi ======
 
----- dataentry letters ----
-Recipient_hidden : Ksirodakasayi
-ListDate_hidden  : 1970-09-21
-showdate_hidden  : 2023-09-21
-To_letters       : Ksirodakasayi
-Date_letter      : September 21
-Year_letter      : 1970
-Place_letter     : Calcutta
-----
-
 London
 
 My dear Ksirodakasayi,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa, Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa, Yamuna
-ListDate_hidden  : 1972-08-03
-showdate_hidden  : 2023-08-03
-To_letters       : Gurudasa, Yamuna
-Date_letter      : August 3
-Year_letter      : 1972
-Place_letter     : London
-----
-
 Vrindaban
 
 My dear Gurudasa and Yamuna,

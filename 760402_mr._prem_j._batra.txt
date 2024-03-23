@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Prem J. Batra ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Prem J. Batra
-ListDate_hidden  : 1976-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : Mr. Prem J. Batra
-Date_letter      : April 2
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Prem J. Batra,\\
 97, Amatragar, Chakala\\
 Kurla Road\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Damodara ======
 
----- dataentry letters ----
-Recipient_hidden : Damodara
-ListDate_hidden  : 1974-03-23
-showdate_hidden  : 2023-03-23
-To_letters       : Damodara
-Date_letter      : March 23
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Dear Damodara,
 
 Please accept my blessings. I have accepted the devotee recommended by you for first initiation and his spiritual name is as follows:

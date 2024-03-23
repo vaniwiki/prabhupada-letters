@@ -9,15 +9,6 @@
 
 ====== Letter to: Members ======
 
----- dataentry letters ----
-Recipient_hidden : Members
-ListDate_hidden  : 19
-To_letters       : Members
-Date_letter      : Unknown
-Year_letter      : 
-Place_letter     : Bombay
-----
-
 THE LEAGUE OF DEVOTEES INC.\\
 Under Societies Act No. XXI 1860\\
 Editor: "Back to Godhead"\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Hrsikesa ======
 
----- dataentry letters ----
-Recipient_hidden : Hrsikesa
-ListDate_hidden  : 1969-01-31
-showdate_hidden  : 2023-01-31
-To_letters       : Hrsikesa
-Date_letter      : January 31
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 (to Hrsikesa)
 
 [TEXT MISSING]

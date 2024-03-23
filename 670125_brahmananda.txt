@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1967-01-25
-showdate_hidden  : 2023-01-25
-To_letters       : Brahmananda
-Date_letter      : January 25
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Brahmananda,
 
 I am in due receipt of your letter of the 21st instant and later on yesterday I have received five tapes in good condition out of which I have sent today two tapes duly recorded. So long am here I shall send you two tapes duly recorded every day and similarly you also send me two tapes daily so that there will be no difficulty.

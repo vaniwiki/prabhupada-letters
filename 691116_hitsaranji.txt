@@ -9,16 +9,6 @@
 
 ====== Letter to: Hitsaranji ======
 
----- dataentry letters ----
-Recipient_hidden : Hitsaranji
-ListDate_hidden  : 1969-11-16
-showdate_hidden  : 2023-11-16
-To_letters       : Hitsaranji
-Date_letter      : November 16
-Year_letter      : 1969
-Place_letter     : London
-----
-
 Dear Hitsaranji,
 
 Please accept my blessings. With further reference to my letter dated November 1, 1969, I beg to inform you that immediately I want one pair of Radha-Krishna Deities in London. If you will kindly send me out of the five pairs contributed by the Dalmia Trust and Birla Trust at least one pair to London by the quickest transport, maybe by air cargo, then it will be very kind of you. Kindly treat this as urgent. I hope this will find you in good health. I am awaiting your early reply.

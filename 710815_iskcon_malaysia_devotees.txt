@@ -9,16 +9,6 @@
 
 ====== Letter to: ISKCON Malaysia, Hanuman, Noo, others ======
 
----- dataentry letters ----
-Recipient_hidden : ISKCON Malaysia, Hanuman, Noo, others
-ListDate_hidden  : 1971-08-15
-showdate_hidden  : 2023-08-15
-To_letters       : ISKCON Malaysia, Hanuman, Noo, others
-Date_letter      : August 15
-Year_letter      : 1971
-Place_letter     : London
-----
-
 TO ISKCON MALAYSIA:
 
 My dear Hanuman, Noo, etc.

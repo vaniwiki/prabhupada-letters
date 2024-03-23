@@ -9,16 +9,6 @@
 
 ====== Letter to: Gandharva ======
 
----- dataentry letters ----
-Recipient_hidden : Gandharva
-ListDate_hidden  : 1975-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Gandharva
-Date_letter      : March 18
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Seattle
 
 My dear Gandharva dasa,

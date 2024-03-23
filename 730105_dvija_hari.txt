@@ -9,16 +9,6 @@
 
 ====== Letter to: Dvija Hari ======
 
----- dataentry letters ----
-Recipient_hidden : Dvija Hari
-ListDate_hidden  : 1973-01-05
-showdate_hidden  : 2023-01-05
-To_letters       : Dvija Hari
-Date_letter      : January 5
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 Calcutta
 
 My dear Dvija Hari,

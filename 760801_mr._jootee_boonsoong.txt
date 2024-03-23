@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Jootee Boonsoong ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Jootee Boonsoong
-ListDate_hidden  : 1976-08-01
-showdate_hidden  : 2023-08-01
-To_letters       : Mr. Jootee Boonsoong
-Date_letter      : August 1
-Year_letter      : 1976
-Place_letter     : Valencay, France
-----
-
 Mr. Jootee Boonsoong\\
 2nd floor Sarasin Building\\
 14 Surasak Road\\

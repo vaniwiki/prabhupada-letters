@@ -9,16 +9,6 @@
 
 ====== Letter to: Abhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Abhirama
-ListDate_hidden  : 1973-12-01
-showdate_hidden  : 2023-12-01
-To_letters       : Abhirama
-Date_letter      : December 1
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Abhirama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 14, 1973. Regarding the initiations, I accept the following as my initiated disciples:

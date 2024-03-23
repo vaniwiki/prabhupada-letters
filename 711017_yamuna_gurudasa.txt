@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna, Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna, Gurudasa
-ListDate_hidden  : 1971-10-17
-showdate_hidden  : 2023-10-17
-To_letters       : Yamuna, Gurudasa
-Date_letter      : October 17
-Year_letter      : 1971
-Place_letter     : Nairobi
-----
-
 Delhi
 
 My dear Yamuna and Gurudasa,

@@ -9,16 +9,6 @@
 
 ====== Letter to: S. N. Sharma ======
 
----- dataentry letters ----
-Recipient_hidden : S. N. Sharma
-ListDate_hidden  : 1976-11-09
-showdate_hidden  : 2023-11-09
-To_letters       : S. N. Sharma
-Date_letter      : November 9
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear S.N. Sharma,
 
 I am in receipt of your letter dated 6/11/76 and have noted the contents carefully.

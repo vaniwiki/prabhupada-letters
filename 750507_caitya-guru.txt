@@ -9,16 +9,6 @@
 
 ====== Letter to: Caitya-guru ======
 
----- dataentry letters ----
-Recipient_hidden : Caitya-guru
-ListDate_hidden  : 1975-05-07
-showdate_hidden  : 2023-05-07
-To_letters       : Caitya-guru
-Date_letter      : May 7
-Year_letter      : 1975
-Place_letter     : Perth
-----
-
 Nairobi
 
 My dear Caityaguru dasa,

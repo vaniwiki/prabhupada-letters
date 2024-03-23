@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1968-12-01
-showdate_hidden  : 2023-12-01
-To_letters       : Jayapataka
-Date_letter      : December 1
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Jayapataka,
 
 Please accept my blessings. With much satisfaction I have read your letter of November 24, 1968 and I thank you very much for this. From it I can understand clearly that you are making nice progress in your devotional service attitude. Your sincere and humble outlook is very nice. I am always praying to Lord Krishna to bestow His Causeless Mercy upon you.

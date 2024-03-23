@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. T. S. Orr ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. T. S. Orr
-ListDate_hidden  : 1975-02-27
-showdate_hidden  : 2023-02-27
-To_letters       : Mr. T. S. Orr
-Date_letter      : February 27
-Year_letter      : 1975
-Place_letter     : Miami
-----
-
 Att: Mr. T.S. Orr\\
 Vice President\\
 Bank of America, L.A.

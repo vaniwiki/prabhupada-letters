@@ -9,16 +9,6 @@
 
 ====== Letter to: Advaita ======
 
----- dataentry letters ----
-Recipient_hidden : Advaita
-ListDate_hidden  : 1968-10-06
-showdate_hidden  : 2023-10-06
-To_letters       : Advaita
-Date_letter      : October 6
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Advaita,
 
 Please accept my blessings. I am in due receipt of your letter dated October 2, 1968, and noted the contents very carefully. I am so glad to learn that the New York devotees are all feeling my separation and you are feeling also; this is very blissful. In the transcendental platform, actually separation is more relishable than meeting. But either separation or meeting, the state is always absolute. Actually in the spiritual platform, there is no separation, but it is a different stages of __rasas.__

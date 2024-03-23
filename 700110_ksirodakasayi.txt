@@ -9,16 +9,6 @@
 
 ====== Letter to: Ksirodakasayi ======
 
----- dataentry letters ----
-Recipient_hidden : Ksirodakasayi
-ListDate_hidden  : 1970-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Ksirodakasayi
-Date_letter      : January 10
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 c/o Friendly Store\\
 85 Dudden Hill Lane\\
 London N.W. 10\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Tejiyas ======
 
----- dataentry letters ----
-Recipient_hidden : Tejiyas
-ListDate_hidden  : 1974-04-07
-showdate_hidden  : 2023-04-07
-To_letters       : Tejiyas
-Date_letter      : April 7
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 New Delhi
 
 Dear Tejyas,

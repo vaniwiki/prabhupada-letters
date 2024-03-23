@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1969-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Hayagriva
-Date_letter      : March 18
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your nice long letter of March 12, 1969, and have noted the contents carefully. I hope by Krishna's Grace all will work out nicely with your job arrangements. I am glad to learn that your yoga society is going on nicely. Regarding Pradyumna: I shall write to him in this connection, and when I come there in May, I shall see the situation and make the suitable arrangements as necessary.

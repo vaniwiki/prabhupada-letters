@@ -9,16 +9,6 @@
 
 ====== Letter to: My dear daughters, ======
 
----- dataentry letters ----
-Recipient_hidden : My dear daughters,
-ListDate_hidden  : 1972-09-29
-showdate_hidden  : 2023-09-29
-To_letters       : My dear daughters,
-Date_letter      : September 29
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Toronto
 
 My dear daughters,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Ghosh ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Ghosh
-ListDate_hidden  : 1974-12-23
-showdate_hidden  : 2023-12-23
-To_letters       : Dr. Ghosh
-Date_letter      : December 23
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Allahabad
 
 My dear Dr. Ghosh,

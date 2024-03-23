@@ -9,16 +9,6 @@
 
 ====== Letter to: Nayanabhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Nayanabhirama
-ListDate_hidden  : 1971-12-22
-showdate_hidden  : 2023-12-22
-To_letters       : Nayanabhirama
-Date_letter      : December 22
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 My dear Nayanabhirama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 8, 1971, and I have noted the contents with pleasure. I am especially pleased to hear that our KC drama program is being developed by you nicely. We have got unlimited stock for such dramas, so go on in this way, improving more and more, and Krishna will give you direction so that one day, very soon, your all dreams will come true and you will be acting our KC dramas on the Broadway.

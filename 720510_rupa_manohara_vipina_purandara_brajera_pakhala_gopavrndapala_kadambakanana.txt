@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin) ======
 
----- dataentry letters ----
-Recipient_hidden : Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin)
-ListDate_hidden  : 1972-05-10
-showdate_hidden  : 2023-05-10
-To_letters       : Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin)
-Date_letter      : May 10
-Year_letter      : 1972
-Place_letter     : Honolulu
-----
-
 Los Angeles
 
 My dear sons,

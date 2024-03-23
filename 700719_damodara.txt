@@ -9,16 +9,6 @@
 
 ====== Letter to: Damodara ======
 
----- dataentry letters ----
-Recipient_hidden : Damodara
-ListDate_hidden  : 1970-07-19
-showdate_hidden  : 2023-07-19
-To_letters       : Damodara
-Date_letter      : July 19
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Damodara,
 
 Please accept my blessings for yourself and your good wife, Mrganetridevi Dasi. I am in due receipt of your letter dated 13rd July, 197-0, and I am so glad to know that you are now happily married by Subala at a nice ceremony in Philadelphia.

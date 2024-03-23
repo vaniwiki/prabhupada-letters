@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahamsa ======
 
----- dataentry letters ----
-Recipient_hidden : Mahamsa
-ListDate_hidden  : 1973-08-08
-showdate_hidden  : 2023-08-08
-To_letters       : Mahamsa
-Date_letter      : August 8
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 My dear Mahamsa,
 
 Please accept my blessings. I am in due receipt of your letter dated 2nd August, 1973 with enclosures and noted the contents carefully.

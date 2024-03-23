@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1974-09-25
-showdate_hidden  : 2023-09-25
-To_letters       : Madhudvisa
-Date_letter      : September 25
-Year_letter      : 1974
-Place_letter     : Calcutta
-----
-
 Glebe, Australia
 
 My dear Madhudvisa Swami:

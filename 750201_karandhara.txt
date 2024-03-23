@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1975-02-01
-showdate_hidden  : 2023-02-01
-To_letters       : Karandhara
-Date_letter      : February 1
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Culver City, California
 
 My dear Karandhara,

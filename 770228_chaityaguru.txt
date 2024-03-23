@@ -9,16 +9,6 @@
 
 ====== Letter to: Chaityaguru ======
 
----- dataentry letters ----
-Recipient_hidden : Chaityaguru
-ListDate_hidden  : 1977-02-28
-showdate_hidden  : 2023-02-28
-To_letters       : Chaityaguru
-Date_letter      : February 28
-Year_letter      : 1977
-Place_letter     : 
-----
-
 c/o ISKCON,\\
 103, Sector 23 A,\\
 Chandigarh 160023

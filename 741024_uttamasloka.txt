@@ -9,16 +9,6 @@
 
 ====== Letter to: Uttamasloka ======
 
----- dataentry letters ----
-Recipient_hidden : Uttamasloka
-ListDate_hidden  : 1974-10-24
-showdate_hidden  : 2023-10-24
-To_letters       : Uttamasloka
-Date_letter      : October 24
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Toronto
 
 My dear Uttama Sloka das:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Niranjan ======
 
----- dataentry letters ----
-Recipient_hidden : Niranjan
-ListDate_hidden  : 1973-06-21
-showdate_hidden  : 2023-06-21
-To_letters       : Niranjan
-Date_letter      : June 21
-Year_letter      : 1973
-Place_letter     : West Bengal
-----
-
 My dear Niranjan,
 
 Please accept my blessings. I have received your letter dated 14 June 1973 and have noted the contents.

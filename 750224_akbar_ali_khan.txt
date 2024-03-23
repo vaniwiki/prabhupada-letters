@@ -9,16 +9,6 @@
 
 ====== Letter to: Akbar Ali Khan ======
 
----- dataentry letters ----
-Recipient_hidden : Akbar Ali Khan
-ListDate_hidden  : 1975-02-24
-showdate_hidden  : 2023-02-24
-To_letters       : Akbar Ali Khan
-Date_letter      : February 24
-Year_letter      : 1975
-Place_letter     : 
-----
-
 Governor of Orissa,\\
 Raj Bhavan, Bhubaneswar, Orissa, INDIA.
 

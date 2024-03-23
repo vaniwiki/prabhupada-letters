@@ -9,16 +9,6 @@
 
 ====== Letter to: Rsabhadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Rsabhadeva
-ListDate_hidden  : 1970-11-16
-showdate_hidden  : 2023-11-16
-To_letters       : Rsabhadeva
-Date_letter      : November 16
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Rsabhadeva,
 
 Please accept my blessings. I beg to thank you for your encouraging letter dated October 1st, 1970, and your appreciations of devotional service in Krsna Consciousness are very nice.

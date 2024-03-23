@@ -9,16 +9,6 @@
 
 ====== Letter to: Linda ======
 
----- dataentry letters ----
-Recipient_hidden : Linda
-ListDate_hidden  : 1970-02-19
-showdate_hidden  : 2023-02-19
-To_letters       : Linda
-Date_letter      : February 19
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Detroit
 
 My dear Linda,

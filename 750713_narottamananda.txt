@@ -9,16 +9,6 @@
 
 ====== Letter to: Narottamananda ======
 
----- dataentry letters ----
-Recipient_hidden : Narottamananda
-ListDate_hidden  : 1975-07-13
-showdate_hidden  : 2023-07-13
-To_letters       : Narottamananda
-Date_letter      : July 13
-Year_letter      : 1975
-Place_letter     : Philadelphia
-----
-
 Vrindaban
 
 My dear Narottamananda das:

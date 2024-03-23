@@ -9,16 +9,6 @@
 
 ====== Letter to: Satyabhama ======
 
----- dataentry letters ----
-Recipient_hidden : Satyabhama
-ListDate_hidden  : 1971-01-27
-showdate_hidden  : 2023-01-27
-To_letters       : Satyabhama
-Date_letter      : January 27
-Year_letter      : 1971
-Place_letter     : Allahabad
-----
-
 My dear Satyabhama Devi Dasi,
 
 Please accept my blessings and offer the same to your fine Vaisnava son Premananda. I am in due receipt of your very kind letter dated 28th December.

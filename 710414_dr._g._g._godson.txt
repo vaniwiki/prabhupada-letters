@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. G. G. Godson ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. G. G. Godson
-ListDate_hidden  : 1971-04-14
-showdate_hidden  : 2023-04-14
-To_letters       : Dr. G. G. Godson
-Date_letter      : April 14
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Dr. G.G. Godson\\
 Prem Versha\\
 46 Passey Road\\

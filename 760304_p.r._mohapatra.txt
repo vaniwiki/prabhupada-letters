@@ -9,16 +9,6 @@
 
 ====== Letter to: P. R. Mohapatra ======
 
----- dataentry letters ----
-Recipient_hidden : P. R. Mohapatra
-ListDate_hidden  : 1976-03-04
-showdate_hidden  : 2023-03-04
-To_letters       : P. R. Mohapatra
-Date_letter      : March 4
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 P.R. Mohapatra, M.A.\\
 Senior Deputy Manager (P.O.)\\
 Food Corporation of India,\\

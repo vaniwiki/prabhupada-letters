@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna, Dinatarine ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna, Dinatarine
-ListDate_hidden  : 1976-01-13
-showdate_hidden  : 2023-01-13
-To_letters       : Yamuna, Dinatarine
-Date_letter      : January 13
-Year_letter      : 1976
-Place_letter     : Calcutta
-----
-
 My dear Yamuna and Dinatarine,
 
 Please accept my blessings. I beg to thank you for your letter dated December 24th, 1976.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of Great Western Savings and Loan Association ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of Great Western Savings and Loan Association
-ListDate_hidden  : 1972-07-21
-showdate_hidden  : 2023-07-21
-To_letters       : Manager of Great Western Savings and Loan Association
-Date_letter      : July 21
-Year_letter      : 1972
-Place_letter     : Paris
-----
-
 To the Manager\\
 Great Western Savings and Loan Association\\
 Fairfax Branch\\

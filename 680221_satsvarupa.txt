@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1968-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Satsvarupa
-Date_letter      : February 21
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter Feb. 17, 1968, and have noted the contents. The sentence in question is, as you stated, Swayam Bhuva Manu and his wife, Satarupa (not Satsvarupa).

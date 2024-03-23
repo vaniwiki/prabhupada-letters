@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1974-11-12
-showdate_hidden  : 2023-11-12
-To_letters       : Kirtanananda
-Date_letter      : November 12
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 New Vrindaban
 
 My dear Kirtanananda Swami:

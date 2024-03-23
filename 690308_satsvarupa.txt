@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1969-03-08
-showdate_hidden  : 2023-03-08
-To_letters       : Satsvarupa
-Date_letter      : March 8
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings, and offer the same to my beloved daughter, Srimati Jadurani. I am in due receipt of your letter dated Feb. 2, 1969, as well as of Feb. 5, 1969. I plan to go to New York by the first week of April, so you can arrange your scheduled meetings on the 24th by which time I shall be ready to go to Boston.

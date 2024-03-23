@@ -9,16 +9,6 @@
 
 ====== Letter to: Lokananda, Ramesvarai ======
 
----- dataentry letters ----
-Recipient_hidden : Lokananda, Ramesvarai
-ListDate_hidden  : 1975-11-09
-showdate_hidden  : 2023-11-09
-To_letters       : Lokananda, Ramesvarai
-Date_letter      : November 9
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Amsterdam
 
 My dear Lokananda das, and Ramesvarai dasi,

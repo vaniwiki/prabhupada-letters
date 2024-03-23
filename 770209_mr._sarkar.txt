@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Sarkar ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Sarkar
-ListDate_hidden  : 1977-02-09
-showdate_hidden  : 2023-02-09
-To_letters       : Mr. Sarkar
-Date_letter      : February 9
-Year_letter      : 1977
-Place_letter     : West Bengal 
-----
-
 Dear Mr. Sarkar,
 
 Regarding your proposed Hare Nama Sankirtana, please accept my well wishes for your sincere endeavor.

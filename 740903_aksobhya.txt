@@ -9,16 +9,6 @@
 
 ====== Letter to: Aksobhya ======
 
----- dataentry letters ----
-Recipient_hidden : Aksobhya
-ListDate_hidden  : 1974-09-03
-showdate_hidden  : 2023-09-03
-To_letters       : Aksobhya
-Date_letter      : September 3
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Dallas
 
 My dear Aksobhya das:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Damodara Pandita ======
 
----- dataentry letters ----
-Recipient_hidden : Damodara Pandita
-ListDate_hidden  : 1976-07-17
-showdate_hidden  : 2023-07-17
-To_letters       : Damodara Pandita
-Date_letter      : July 17
-Year_letter      : 1976
-Place_letter     : New York
-----
-
 New Vrindaban
 
 My dear Damodara Pandita,

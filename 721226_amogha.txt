@@ -9,16 +9,6 @@
 
 ====== Letter to: Amogha ======
 
----- dataentry letters ----
-Recipient_hidden : Amogha
-ListDate_hidden  : 1972-12-26
-showdate_hidden  : 2023-12-26
-To_letters       : Amogha
-Date_letter      : December 26
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Djakarta
 
 My dear Amogha,

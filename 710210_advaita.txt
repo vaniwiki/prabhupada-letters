@@ -9,16 +9,6 @@
 
 ====== Letter to: Advaita ======
 
----- dataentry letters ----
-Recipient_hidden : Advaita
-ListDate_hidden  : 1971-02-10
-showdate_hidden  : 2023-02-10
-To_letters       : Advaita
-Date_letter      : February 10
-Year_letter      : 1971
-Place_letter     : Gorakhpur
-----
-
 Boston
 
 My dear Advaita,

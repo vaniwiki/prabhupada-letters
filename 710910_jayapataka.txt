@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1971-09-10
-showdate_hidden  : 2023-09-10
-To_letters       : Jayapataka
-Date_letter      : September 10
-Year_letter      : 1971
-Place_letter     : Mombassa, Kenya
-----
-
 Calcutta
 
 My dear Jayapataka Maharaja,

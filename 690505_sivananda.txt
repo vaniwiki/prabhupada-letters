@@ -9,16 +9,6 @@
 
 ====== Letter to: Sivananda ======
 
----- dataentry letters ----
-Recipient_hidden : Sivananda
-ListDate_hidden  : 1969-05-05
-showdate_hidden  : 2023-05-05
-To_letters       : Sivananda
-Date_letter      : May 5
-Year_letter      : 1969
-Place_letter     : Boston
-----
-
 My dear Sivananda Prabhu,
 
 Please accept my greetings. I beg to acknowledge receipt of your letter dated 23 April, 1969, addressed to the New York temple and redirected here. I am so much obliged to you for picking up the "Jugantar" publication of your activities in London. I understand that you are sending an annual subscription fee for __Back To Godhead,__ but it is $5.00 per year. It is Rs 7.5 exchange for one dollar, so I do not know how you have calculated. Acyutananda's address is c/o Caitanya Saraswat Math, Kolerganj, P.O. Navadvipa, Dist., Nadia, West Bengal. Regarding your questions about my books, we are presently selling six volumes; namely __Srimad-Bhagavatam__ (three volumes), __Bhagavad-gita As It Is, Teachings of Lord Caitanya,__ and __Easy Journey To Other Planets.__

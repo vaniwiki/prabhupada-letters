@@ -9,16 +9,6 @@
 
 ====== Letter to: Vegavan ======
 
----- dataentry letters ----
-Recipient_hidden : Vegavan
-ListDate_hidden  : 1973-11-09
-showdate_hidden  : 2023-11-09
-To_letters       : Vegavan
-Date_letter      : November 9
-Year_letter      : 1973
-Place_letter     : New Delhi
-----
-
 My dear Vegavan Das:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 24/10/73 and have noted the contents. It is very good to hear of your programs in the high schools. Please continue and increase this program there.

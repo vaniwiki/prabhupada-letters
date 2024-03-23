@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1969-12-25
-showdate_hidden  : 2023-12-25
-To_letters       : Hayagriva
-Date_letter      : December 25
-Year_letter      : 1969
-Place_letter     : London
-----
-
 My Dear Hayagriva, 
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated November 25th and 30th, 1969. That things are improving in New Vrindaban is very encouraging to me. The collection in Washington was $4,200, and out of that $1,200 was for expenditures. So the balance $3,000 I have received for my Book Fund. I think for us to publish all of the books which are ready now it will cost not less than $100,000, even without any charges for labor or for the establishment: simply for the cost of materials. So I shall expect contributions from all centers as far as possible for my Book Fund.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa
-ListDate_hidden  : 1974-06-02
-showdate_hidden  : 2023-06-02
-To_letters       : Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa
-Date_letter      : June 2
-Year_letter      : 1974
-Place_letter     : Geneva
-----
-
 His Holiness Mahamsa Swami, Iskcon Hyderabad\\
 Giriraja das Brahmacari, ISKCON BOMBAY\\
 His Holiness Gargamuni Swami, ISKCON Calcutta\\

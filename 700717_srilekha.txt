@@ -9,16 +9,6 @@
 
 ====== Letter to: Srilekha ======
 
----- dataentry letters ----
-Recipient_hidden : Srilekha
-ListDate_hidden  : 1970-07-17
-showdate_hidden  : 2023-07-17
-To_letters       : Srilekha
-Date_letter      : July 17
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Toronto
 
 My dear Daughter Srilekha,

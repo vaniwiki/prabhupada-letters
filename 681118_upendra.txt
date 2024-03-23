@@ -9,16 +9,6 @@
 
 ====== Letter to: Upendra ======
 
----- dataentry letters ----
-Recipient_hidden : Upendra
-ListDate_hidden  : 1968-11-18
-showdate_hidden  : 2023-11-18
-To_letters       : Upendra
-Date_letter      : November 18
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Upendra,
 
 Please accept my blessings. I am in due receipt of your letter and noted reports of work there at your center and with great satisfaction. Please do it nicely. You are intelligent and Krishna will give you more and more intelligence to serve Him. I shall ask Jayananda for the permit and he will send it to you, along with the information required.

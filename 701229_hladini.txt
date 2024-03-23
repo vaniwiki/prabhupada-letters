@@ -9,16 +9,6 @@
 
 ====== Letter to: Hladini ======
 
----- dataentry letters ----
-Recipient_hidden : Hladini
-ListDate_hidden  : 1970-12-29
-showdate_hidden  : 2023-12-29
-To_letters       : Hladini
-Date_letter      : December 29
-Year_letter      : 1970
-Place_letter     : Surat
-----
-
 Chicago
 
 My dear Hladini devi,

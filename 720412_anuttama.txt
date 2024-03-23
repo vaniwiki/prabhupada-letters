@@ -9,16 +9,6 @@
 
 ====== Letter to: Anuttama ======
 
----- dataentry letters ----
-Recipient_hidden : Anuttama
-ListDate_hidden  : 1972-04-12
-showdate_hidden  : 2023-04-12
-To_letters       : Anuttama
-Date_letter      : April 12
-Year_letter      : 1972
-Place_letter     : Sydney
-----
-
 My dear Anuttama,
 
 Please accept my blessing. I beg to acknowledge receipt of your letter dated March 10, 1972, and I have noted the contents. I am very pleased to know that you are feeling happy in your execution of devotional service. Service of Krishna's devotees is the highest stage of spiritual perfection, so your desire to render service to the other devotees is very nice. You keep this humble attitude always, and your example will be a source of spiritual inspiration for everyone.

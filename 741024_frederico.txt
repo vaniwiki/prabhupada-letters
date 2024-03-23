@@ -9,16 +9,6 @@
 
 ====== Letter to: Frederico ======
 
----- dataentry letters ----
-Recipient_hidden : Frederico
-ListDate_hidden  : 1974-10-24
-showdate_hidden  : 2023-10-24
-To_letters       : Frederico
-Date_letter      : October 24
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Lisboa, Portugal
 
 My dear Frederico:

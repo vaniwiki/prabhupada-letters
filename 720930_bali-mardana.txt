@@ -9,16 +9,6 @@
 
 ====== Letter to: Bali-mardana ======
 
----- dataentry letters ----
-Recipient_hidden : Bali-mardana
-ListDate_hidden  : 1972-09-30
-showdate_hidden  : 2023-09-30
-To_letters       : Bali-mardana
-Date_letter      : September 30
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 New York
 
 My dear Bali Mardan,

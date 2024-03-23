@@ -9,16 +9,6 @@
 
 ====== Letter to: V. S. R. Chakravarti ======
 
----- dataentry letters ----
-Recipient_hidden : V. S. R. Chakravarti
-ListDate_hidden  : 1974-11-22
-showdate_hidden  : 2023-11-22
-To_letters       : V. S. R. Chakravarti
-Date_letter      : November 22
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 V.S.R. Chakravarti\\
 24, Kasturi Ranga Iyengar Road\\
 Madras-18

@@ -9,16 +9,6 @@
 
 ====== Letter to: Vegavan ======
 
----- dataentry letters ----
-Recipient_hidden : Letter to: Vegavan
-ListDate_hidden  : 1976-08-03
-showdate_hidden  : 2023-08-03
-To_letters       : Letter to: Vegavan
-Date_letter      : August 3
-Year_letter      : 1976
-Place_letter     : 
-----
-
 My dear Vegavan das;
 
 Please accept my blessings. I am in due receipt of your letter dated August 1, 1976 and have noted the contents with care.

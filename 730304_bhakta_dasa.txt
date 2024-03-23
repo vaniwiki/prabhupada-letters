@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhakta dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Bhakta dasa
-ListDate_hidden  : 1973-03-04
-showdate_hidden  : 2023-03-04
-To_letters       : Bhakta dasa
-Date_letter      : March 4
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 My dear Bhakta das:
 
 Please accept my blessings. I beg to acknowledge receipt of your encouraging letter dated the 20th February. Just yesterday I have arrived here in Calcutta, and by the end of the week expect to go to Mayapur where are having a grand celebration on the Appearance Day of Lord Caitanya Mahaprabhu.

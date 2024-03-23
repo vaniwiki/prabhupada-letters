@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1974-10-15
-showdate_hidden  : 2023-10-15
-To_letters       : Hansadutta
-Date_letter      : October 15
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Frankfurt
 
 My dear Hansadutta das:

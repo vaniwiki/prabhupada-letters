@@ -9,16 +9,6 @@
 
 ====== Letter to: Murari ======
 
----- dataentry letters ----
-Recipient_hidden : Murari
-ListDate_hidden  : 1969-02-07
-showdate_hidden  : 2023-02-07
-To_letters       : Murari
-Date_letter      : February 7
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Murari,
 
 Please accept my blessings. I am in due receipt of your letter dated January 30, 1969, and I am always very pleased when I hear from you. You have mentioned in your letter that you have been making plans to build a shrine, and when you are able to, please send these plans to me so I may see what you have in mind. I am also pleased to note that Vamanadeva and yourself are seriously taking steps to begin the project of making thrones for the deities in all of our temples. In New York, Nara Narayana is going to try again to have brass deities made from the mold made from the deities in New York. Similarly, there is the possibility of obtaining deities from India in the near future. So in either of these cases, we can expect many new pairs of deities before very long, and such thrones as you are planning to work on will be an essential addition to all of our temples.

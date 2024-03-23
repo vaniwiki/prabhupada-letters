@@ -9,16 +9,6 @@
 
 ====== Letter to: Lokamangala ======
 
----- dataentry letters ----
-Recipient_hidden : Lokamangala
-ListDate_hidden  : 1975-02-02
-showdate_hidden  : 2023-02-02
-To_letters       : Lokamangala
-Date_letter      : February 2
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Brooklyn
 
 My dear Lokamangala das,

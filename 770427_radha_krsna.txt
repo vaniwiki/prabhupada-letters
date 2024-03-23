@@ -9,16 +9,6 @@
 
 ====== Letter to: Radha Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Radha Krsna
-ListDate_hidden  : 1977-04-27
-showdate_hidden  : 2023-04-27
-To_letters       : Radha Krsna
-Date_letter      : April 27
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 Columbia
 
 My dear Radha Krsna dasa,

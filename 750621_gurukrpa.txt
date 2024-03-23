@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurukrpa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurukrpa
-ListDate_hidden  : 1975-06-21
-showdate_hidden  : 2023-06-21
-To_letters       : Gurukrpa
-Date_letter      : June 21
-Year_letter      : 1975
-Place_letter     : Los Angeles
-----
-
 Tokyo
 
 My dear Gurukrpa Swami:

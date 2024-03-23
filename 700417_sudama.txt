@@ -9,16 +9,6 @@
 
 ====== Letter to: Sudama ======
 
----- dataentry letters ----
-Recipient_hidden : Sudama
-ListDate_hidden  : 1970-04-17
-showdate_hidden  : 2023-04-17
-To_letters       : Sudama
-Date_letter      : April 17
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Tokyo
 
 My dear Sudama,

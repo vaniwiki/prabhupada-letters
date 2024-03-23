@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Puri ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Puri
-ListDate_hidden  : 1962-06-01
-showdate_hidden  : 2023-06-01
-To_letters       : Sri Puri
-Date_letter      : June 1
-Year_letter      : 1962
-Place_letter     : Vrindaban
-----
-
 Dear Sri Puri,
 
 Yesterday evening I have come to Vrindaban for a flying visit and shall return to Delhi on Monday 4/6/62 to attend the Jayal meeting on Tuesday 5/6/62 morning. I am glad to see that my Thursday lectures have brought some changes in the mind of the young offenders. If the lectures are continued I am sure to turn these offenders into saintly characters. The means which I have adopted is spiritual and it works quickly than any material means. If you give me chance to speak to all the members of the Jayal, it is quite possible for me to turn them into ideal characters.

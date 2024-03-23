@@ -9,16 +9,6 @@
 
 ====== Letter to: Kurusrestha ======
 
----- dataentry letters ----
-Recipient_hidden : Kurusrestha
-ListDate_hidden  : 1976-09-05
-showdate_hidden  : 2023-09-05
-To_letters       : Kurusrestha
-Date_letter      : September 5
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Denver
 
 My dear Kurusrestha das,

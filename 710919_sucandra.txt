@@ -9,16 +9,6 @@
 
 ====== Letter to: Sucandra ======
 
----- dataentry letters ----
-Recipient_hidden : Sucandra
-ListDate_hidden  : 1971-09-19
-showdate_hidden  : 2023-09-19
-To_letters       : Sucandra
-Date_letter      : September 19
-Year_letter      : 1971
-Place_letter     : Mombassa, Kenya
-----
-
 Hamburg
 
 My dear Sucandra,

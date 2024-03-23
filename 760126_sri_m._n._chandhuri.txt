@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri M. N. Chandhuri ======
 
----- dataentry letters ----
-Recipient_hidden : Sri M. N. Chandhuri
-ListDate_hidden  : 1976-01-26
-showdate_hidden  : 2023-01-26
-To_letters       : Sri M. N. Chandhuri
-Date_letter      : January 26
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Sri M. N. Chandhuri\\
 Calcutta
 

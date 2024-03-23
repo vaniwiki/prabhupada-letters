@@ -9,16 +9,6 @@
 
 ====== Letter to: Prajapati ======
 
----- dataentry letters ----
-Recipient_hidden : Prajapati
-ListDate_hidden  : 1972-02-25
-showdate_hidden  : 2023-02-25
-To_letters       : Prajapati
-Date_letter      : February 25
-Year_letter      : 1972
-Place_letter     : Mayapur
-----
-
 My dear Prajapati,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of January 28, 1972, along with the very nice book you have compiled "Prayers to Krishna." Actually, this book was so much enjoyed by me, and I think that you have done it perfectly and there is no need to make any changes. So today I have sent the book to Karandhara in Los Angeles and I have instructed his New Dvaraka Press to make the layout immediately and have the pictures painted very nicely just as you have drawn them, and to send the finished manuscript to Dai Nippon for printing 10,000 copies at once.

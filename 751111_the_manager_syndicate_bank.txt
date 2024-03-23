@@ -9,16 +9,6 @@
 
 ====== Letter to: The Manager Syndicate Bank ======
 
----- dataentry letters ----
-Recipient_hidden : The Manager Syndicate Bank
-ListDate_hidden  : 1975-11-11
-showdate_hidden  : 2023-11-11
-To_letters       : The Manager Syndicate Bank
-Date_letter      : November 11
-Year_letter      : 1975
-Place_letter     : 
-----
-
 Syndicate Bank\\
 Vrindaban Branch\\
 Dist. Mathura, U.P.\\

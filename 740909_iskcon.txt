@@ -1,16 +1,6 @@
 ~~Title: Resolution — September 9, 1974~~
 ====== Resolution ======
 
----- dataentry letters ----
-Recipient_hidden : ISKCON
-ListDate_hidden  : 1974-09-09
-showdate_hidden  : 2023-09-09
-To_letters       : ISKCON
-Date_letter      : September 9
-Year_letter      : 1974
-Place_letter     : 
-----
-
 RESOLUTION
 
 At the meeting of the members of the Bureau of the International Society for Krishna Consciousness held at their Head Office at the Hare Krishna Land, Gandhi Gram Road, Juhu, Bombay on the 9th September, 1974, the following was resolved:

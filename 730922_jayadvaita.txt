@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayadvaita ======
 
----- dataentry letters ----
-Recipient_hidden : Jayadvaita
-ListDate_hidden  : 1973-09-22
-showdate_hidden  : 2023-09-22
-To_letters       : Jayadvaita
-Date_letter      : September 22
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 Brooklyn
 
 My dear Jayadvaita:

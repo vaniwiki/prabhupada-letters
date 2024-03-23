@@ -9,16 +9,6 @@
 
 ====== Letter to: Bank of Baroda ======
 
----- dataentry letters ----
-Recipient_hidden : Bank of Baroda
-ListDate_hidden  : 1971-03-27
-showdate_hidden  : 2023-03-27
-To_letters       : Bank of Baroda
-Date_letter      : March 27
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Bank of Baroda\\
 Delhi
 

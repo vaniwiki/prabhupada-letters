@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1969-03-19
-showdate_hidden  : 2023-03-19
-To_letters       : Satsvarupa
-Date_letter      : March 19
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I am replying your letter of March 14, 1969. My present program stands as follows: I am starting on the 31st March to S.F. and then on the 7th of (approx.) April I am starting for New York. And from N.Y around about the 23rd of April I am going to Boston. So your fixed program on the 24th, and the 29th of April, and 3rd and 4th of May may be fixed up immediately.

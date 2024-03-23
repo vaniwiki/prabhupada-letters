@@ -9,16 +9,6 @@
 
 ====== Letter to: Nandalal ======
 
----- dataentry letters ----
-Recipient_hidden : Nandalal
-ListDate_hidden  : 1974-10-18
-showdate_hidden  : 2023-10-18
-To_letters       : Nandalal
-Date_letter      : October 18
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Honolulu
 
 My dear Nandalal devi dasi:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Himavati ======
 
----- dataentry letters ----
-Recipient_hidden : Himavati
-ListDate_hidden  : 1970-07-30
-showdate_hidden  : 2023-07-30
-To_letters       : Himavati
-Date_letter      : July 30
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Hamburg
 
 My dear Himavati,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1971-07-27
-showdate_hidden  : 2023-07-27
-To_letters       : Satsvarupa
-Date_letter      : July 27
-Year_letter      : 1971
-Place_letter     : Brooklyn
-----
-
 Boston
 
 My dear Satsvarupa,

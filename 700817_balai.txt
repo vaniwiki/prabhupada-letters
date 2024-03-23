@@ -9,16 +9,6 @@
 
 ====== Letter to: Balai ======
 
----- dataentry letters ----
-Recipient_hidden : Balai
-ListDate_hidden  : 1970-08-17
-showdate_hidden  : 2023-08-17
-To_letters       : Balai
-Date_letter      : August 17
-Year_letter      : 1970
-Place_letter     : Tokyo
-----
-
 My dear Balai Dasi,
 
 Please accept my blessings. I beg to thank you very much for your very nice letter along with some pictures of your daughter Nandini Dasi. I am so glad to see that you are raising your daughter in Krsna consciousness and that is your duty as conscientious mother to give the child proper education in spiritual living.

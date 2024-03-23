@@ -9,16 +9,6 @@
 
 ====== Letter to: Kuladri ======
 
----- dataentry letters ----
-Recipient_hidden : Kuladri
-ListDate_hidden  : 1977-04-28
-showdate_hidden  : 2023-04-28
-To_letters       : Kuladri
-Date_letter      : April 28
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 New Vrindaban
 
 My dear Kuladri,

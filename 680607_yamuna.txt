@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna
-ListDate_hidden  : 1968-06-07
-showdate_hidden  : 2023-06-07
-To_letters       : Yamuna
-Date_letter      : June 7
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 My dear Yamuna devi,
 
 Please accept my blessings. I thank you for your letter dated June 3, 1968. The ISKCON RADHA KRISHNA TEMPLE will perpetually continue as such. But in spite of that, San Francisco shall be gradually transformed into New Jagannatha Puri. That is my plan, and try to help in that way. The sign on the temple should read: ISKCON SRI SRI RADHA KRISHNA TEMPLE.

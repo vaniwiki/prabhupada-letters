@@ -9,16 +9,6 @@
 
 ====== Letter to: Unknown ======
 
----- dataentry letters ----
-Recipient_hidden : Unknown
-ListDate_hidden  : 1970-12-14
-showdate_hidden  : 2023-12-14
-To_letters       : Unknown
-Date_letter      : December 14
-Year_letter      : 1970
-Place_letter     : Indore
-----
-
 Wanted qualified Brahmins to preach Bhagavad-gita all over the world. Educated candidates accepted without any discrimination of Caste and Creed.\\
 Apply ISKCON\\
 Life Member can send any member of his family for being trained up as qualified Brahmin who can preach Bhagavad-gita as it is all over the world

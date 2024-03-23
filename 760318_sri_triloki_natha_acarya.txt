@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Triloki Natha Acarya ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Triloki Natha Acarya
-ListDate_hidden  : 1976-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Sri Triloki Natha Acarya
-Date_letter      : March 18
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Sri Triloki Natha Acarya,\\
 Jnana, Gudadi (Gudri)\\
 Vrindaban, (Mathura District)\\

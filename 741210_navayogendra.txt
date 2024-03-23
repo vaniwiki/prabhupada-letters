@@ -9,16 +9,6 @@
 
 ====== Letter to: Navayogendra ======
 
----- dataentry letters ----
-Recipient_hidden : Navayogendra
-ListDate_hidden  : 1974-12-10
-showdate_hidden  : 2023-12-10
-To_letters       : Navayogendra
-Date_letter      : December 10
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Nairobi
 
 My dear Navayogendra das:

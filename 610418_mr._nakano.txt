@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Nakano ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Nakano
-ListDate_hidden  : 1961-04-18
-showdate_hidden  : 2023-04-18
-To_letters       : Mr. Nakano
-Date_letter      : April 18
-Year_letter      : 1961
-Place_letter     : Delhi
-----
-
 Dear Mr. Nakano,
 
 I am in due receipt of your letter of the 9th instant and I am grateful to you for all that you have said for me. I am a humble creature and I am just trying to do my bit in this connection because I was so ordered by my Spiritual Master Sri Bhaktisiddhanta Sarasvati Goswami Maharaja.

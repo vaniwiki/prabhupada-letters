@@ -9,16 +9,6 @@
 
 ====== Letter to: Citsukhananda ======
 
----- dataentry letters ----
-Recipient_hidden : Citsukhananda
-ListDate_hidden  : 1974-01-05
-showdate_hidden  : 2023-01-05
-To_letters       : Citsukhananda
-Date_letter      : January 5
-Year_letter      : 1974
-Place_letter     : Los Angeles
-----
-
 Dear Citsukhananda,
 
 Please accept my blessing. On your recommendation I am accepting the following devotees as my initiated disciples and there Spiritual names are as follows:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dasarha ======
 
----- dataentry letters ----
-Recipient_hidden : Dasarha
-ListDate_hidden  : 1972-03-04
-showdate_hidden  : 2023-03-04
-To_letters       : Dasarha
-Date_letter      : March 4
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Dasarha,
 
 Please accept my blessings. I have received your letter dated February 4, 1972, and I have noted the contents carefully. I am very glad to see that everything is going very nicely there in Wilmington as per the enclosed newspaper clippings, and I am much pleased that you are wholeheartedly engaging yourself in this way, and in this way you will help to save the whole world from the most dangerous position and at the same time achieve yourself the topmost perfection of life.

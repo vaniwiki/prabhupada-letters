@@ -9,16 +9,6 @@
 
 ====== Letter to: Dayananda, Nandarani ======
 
----- dataentry letters ----
-Recipient_hidden : Dayananda, Nandarani
-ListDate_hidden  : 1973-01-27
-showdate_hidden  : 2023-01-27
-To_letters       : Dayananda, Nandarani
-Date_letter      : January 27
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 Los Angeles
 
 My dear Dayananda and Nandarani,

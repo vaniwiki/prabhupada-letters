@@ -9,16 +9,6 @@
 
 ====== Letter to: Unknown ======
 
----- dataentry letters ----
-Recipient_hidden : Unknown
-ListDate_hidden  : 1972-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Unknown
-Date_letter      : February 21
-Year_letter      : 1972
-Place_letter     : Calcutta
-----
-
 There is a Bengali proverb "When you pay the price it becomes purified", just like if I purchase something and it is unclean in so many ways, but, because I have paid, it becomes purified.
 
 I hope this will find you both in good health and happy mood.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1967-11-02
-showdate_hidden  : 2023-11-02
-To_letters       : Brahmananda
-Date_letter      : November 2
-Year_letter      : 1967
-Place_letter     : Navadvipa
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. Now I understand that I may return with my visitors visa which can be altered once I am in USA. If MacMillan is silent then immediately send me the correspondence which Dvarakadhisa had with the Japanese printers. Most probably I shall stop in Tokyo & hand over the printing to them. Hope you are well.

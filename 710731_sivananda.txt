@@ -9,16 +9,6 @@
 
 ====== Letter to: Sivananda ======
 
----- dataentry letters ----
-Recipient_hidden : Sivananda
-ListDate_hidden  : 1971-07-31
-showdate_hidden  : 2023-07-31
-To_letters       : Sivananda
-Date_letter      : July 31
-Year_letter      : 1971
-Place_letter     : Brooklyn
-----
-
 Berlin
 
 My dear Sivananda,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhakta Don ======
 
----- dataentry letters ----
-Recipient_hidden : Bhakta Don
-ListDate_hidden  : 1973-12-01
-showdate_hidden  : 2023-12-01
-To_letters       : Bhakta Don
-Date_letter      : December 1
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Bhakta Don,
 
 Please accept my blessings. I am in receipt of your recent letter undated. The topmost science is this Krsna Consciousness and that is a fact. The so-called modern science has become spoiled for lack of this perspective. Real science means to acquire perfect knowledge from the Parampara, not by so-called academic and empirical research. Such technique is bogus and will not help us in obtaining perfect knowledge.

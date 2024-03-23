@@ -9,16 +9,6 @@
 
 ====== Letter to: Gopala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Gopala Krsna
-ListDate_hidden  : 1976-07-30
-showdate_hidden  : 2023-07-30
-To_letters       : Gopala Krsna
-Date_letter      : July 30
-Year_letter      : 1976
-Place_letter     : Paris
-----
-
 Bombay
 
 My dear Gopala Krsna das:

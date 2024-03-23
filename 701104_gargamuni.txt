@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1970-11-04
-showdate_hidden  : 2023-11-04
-To_letters       : Gargamuni
-Date_letter      : November 4
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 Coconut Grove, Florida
 
 My dear Gargamuni Maharaja,

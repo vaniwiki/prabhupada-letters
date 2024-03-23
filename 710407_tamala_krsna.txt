@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna
-ListDate_hidden  : 1971-04-07
-showdate_hidden  : 2023-04-07
-To_letters       : Tamala Krsna
-Date_letter      : April 7
-Year_letter      : 1971
-Place_letter     : Nasik
-----
-
 Calcutta
 
 My dear Tamala Krsna,

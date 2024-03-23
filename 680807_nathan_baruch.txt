@@ -9,16 +9,6 @@
 
 ====== Letter to: Nathan Baruch ======
 
----- dataentry letters ----
-Recipient_hidden : Nathan Baruch
-ListDate_hidden  : 1968-08-07
-showdate_hidden  : 2023-08-07
-To_letters       : Nathan Baruch
-Date_letter      : August 7
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 My dear Nathan Baruch,
 
 Please accept my blessings. I am so glad to receive your letter, without date. (In future, while corresponding, please try to put the date of writing.) I received your letter a couple of days ago, but could not reply you due to the mail strike. It is expected that the mail strike will end by tomorrow, as it is announced about their settlement, but still I am not certain. I am therefore replying your letter by posting at Boston. Hope you will receive it duly.

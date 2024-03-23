@@ -9,16 +9,6 @@
 
 ====== Letter to: Patty Dorgan ======
 
----- dataentry letters ----
-Recipient_hidden : Patty Dorgan
-ListDate_hidden  : 1971-11-17
-showdate_hidden  : 2023-11-17
-To_letters       : Patty Dorgan
-Date_letter      : November 17
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 My dear Patty Dorgan,
 
 Please accept my blessings. I have received your very nice letter of October 4, 1971, and I have appreciated the contents.

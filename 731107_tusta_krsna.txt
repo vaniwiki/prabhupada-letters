@@ -9,16 +9,6 @@
 
 ====== Letter to: Tusta Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Tusta Krsna
-ListDate_hidden  : 1973-11-07
-showdate_hidden  : 2023-11-07
-To_letters       : Tusta Krsna
-Date_letter      : November 7
-Year_letter      : 1973
-Place_letter     : New Delhi
-----
-
 Sunset Beach, Hawaii
 
 My dear Tusta Krsna Maharaja:

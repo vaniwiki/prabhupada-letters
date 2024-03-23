@@ -9,16 +9,6 @@
 
 ====== Letter to: Cidananda, Dindayal, Aniruddha, Makhanlal ======
 
----- dataentry letters ----
-Recipient_hidden : Cidananda, Dindayal, Aniruddha, Makhanlal
-ListDate_hidden  : 1969-02-23
-showdate_hidden  : 2023-02-23
-To_letters       : Cidananda, Dindayal, Aniruddha, Makhanlal
-Date_letter      : February 23
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Sons, Cidananda, Dindayal, Aniruddha and Makhanlal,
 
 Please accept my blessings. I have duly received all of your elaborate letters, and there are so many points to reply, it will take time to reply you properly. In the meantime, my request to you is that you take very seriously our program of __Back to Godhead,__ and, as you have promised to contribute your quota of $750 per month against delivery of 5,000 copies of __Back To Godhead,__ I am so much obliged to you all.

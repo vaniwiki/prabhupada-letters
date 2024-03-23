@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhakta dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Bhakta dasa
-ListDate_hidden  : 1972-04-09
-showdate_hidden  : 2023-04-09
-To_letters       : Bhakta dasa
-Date_letter      : April 9
-Year_letter      : 1972
-Place_letter     : Sydney
-----
-
 My dear Bhakta dasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 19, 1972, and I am very much pleased to note that you are making steady growth in all aspects of devotional service, especially in the department of selling so many books monthly. But always remember that we are selling books not for making business but for pleasing Krsna, and by preaching we should sell books, not by cheating. If this simple method is followed, there will be tremendous success in selling of our books, and the public will appreciate and take great benefit from our preaching and publications.

@@ -9,16 +9,6 @@
 
 ====== Letter to: RamRam Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : RamRam Maharaja
-ListDate_hidden  : 1976-02-28
-showdate_hidden  : 2023-02-28
-To_letters       : RamRam Maharaja
-Date_letter      : February 28
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Sanskrit Vidyapith\\
 Ajmer, Rajasthan
 

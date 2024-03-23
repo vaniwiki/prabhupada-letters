@@ -9,16 +9,6 @@
 
 ====== Letter to: Gururaj ======
 
----- dataentry letters ----
-Recipient_hidden : Gururaj
-ListDate_hidden  : 1976-10-24
-showdate_hidden  : 2023-10-24
-To_letters       : Gururaj
-Date_letter      : October 24
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear Gururaj,
 
 Please accept my blessings. I am in due receipt of your letter dated Sept. 21, 1976. Thank you very much for the donation you have sent, it is very nice.

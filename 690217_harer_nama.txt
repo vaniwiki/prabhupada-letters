@@ -9,16 +9,6 @@
 
 ====== Letter to: Harer Nama ======
 
----- dataentry letters ----
-Recipient_hidden : Harer Nama
-ListDate_hidden  : 1969-02-17
-showdate_hidden  : 2023-02-17
-To_letters       : Harer Nama
-Date_letter      : February 17
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Harer Nama,
 
 Please accept my blessings. I am in due receipt of your letter dated February 13, 1969, and I have carefully noted the contents. I am so glad to hear that you are having nice response now and soon you hope to hold some feasts. If by the summer you feel that the center has urgent necessity of some other brahmacaris, then we shall arrange for this. At present I think that Tosana may go to North Carolina immediately and help Bhurijana with the center there. In the meantime, you try to keep the temple maintained somehow or other, so when the summer arrives some helper may go to give you assistance.

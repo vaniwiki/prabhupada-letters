@@ -9,16 +9,6 @@
 
 ====== Letter to: Vegavan ======
 
----- dataentry letters ----
-Recipient_hidden : Vegavan
-ListDate_hidden  : 1977-01-05
-showdate_hidden  : 2023-01-05
-To_letters       : Vegavan
-Date_letter      : January 5
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 Stockholm
 
 My dear Vegavan,

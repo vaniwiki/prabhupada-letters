@@ -9,16 +9,6 @@
 
 ====== Letter to: Professor Stillson Judah ======
 
----- dataentry letters ----
-Recipient_hidden : Professor Stillson Judah
-ListDate_hidden  : 1974-11-20
-showdate_hidden  : 2023-11-20
-To_letters       : Professor Stillson Judah
-Date_letter      : November 20
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Professor Stillson Judah\\
 Librarian and Professor of the History of Religions\\
 Graduate Theological Union Library\\

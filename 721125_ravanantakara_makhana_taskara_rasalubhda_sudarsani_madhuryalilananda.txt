@@ -9,16 +9,6 @@
 
 ====== Letter to: Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks) ======
 
----- dataentry letters ----
-Recipient_hidden : Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks)
-ListDate_hidden  : 1972-11-25
-showdate_hidden  : 2023-11-25
-To_letters       : Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks)
-Date_letter      : November 25
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Denver
 
 My dear Sons and Daughters,

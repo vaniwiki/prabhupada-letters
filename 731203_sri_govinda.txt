@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Govinda
-ListDate_hidden  : 1973-12-03
-showdate_hidden  : 2023-12-03
-To_letters       : Sri Govinda
-Date_letter      : December 3
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 ALL GLORIES TO SRI GURU AND GAURANGA!
 
 My dear Sri Govinda,

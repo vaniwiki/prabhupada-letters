@@ -9,16 +9,6 @@
 
 ====== Letter to: Prabhas Babu ======
 
----- dataentry letters ----
-Recipient_hidden : Prabhas Babu
-ListDate_hidden  : 1969-06-04
-showdate_hidden  : 2023-06-04
-To_letters       : Prabhas Babu
-Date_letter      : June 4
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 UNITED SHIPPING CORPORATION\\
 14/2 Old China Bazar Street,\\
 Room #13\\

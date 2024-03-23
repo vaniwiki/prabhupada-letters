@@ -9,16 +9,6 @@
 
 ====== Letter to: Atreya Rsi ======
 
----- dataentry letters ----
-Recipient_hidden : Atreya Rsi
-ListDate_hidden  : 1973-05-06
-showdate_hidden  : 2023-05-06
-To_letters       : Atreya Rsi
-Date_letter      : May 6
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Brooklyn
 
 My dear Atreya Rsi,

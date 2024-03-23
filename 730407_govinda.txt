@@ -9,16 +9,6 @@
 
 ====== Letter to: Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Govinda
-ListDate_hidden  : 1973-04-07
-showdate_hidden  : 2023-04-07
-To_letters       : Govinda
-Date_letter      : April 7
-Year_letter      : 1973
-Place_letter     : New York
-----
-
 My dear Govinda dasa,
 
 Please accept my blessings. I am in due receipt of your letter dated March 25, 1973, and have noted the contents with great satisfaction.

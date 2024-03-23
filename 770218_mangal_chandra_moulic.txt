@@ -9,16 +9,6 @@
 
 ====== Letter to: Mangal Chandra Moulic ======
 
----- dataentry letters ----
-Recipient_hidden : Mangal Chandra Moulic
-ListDate_hidden  : 1977-02-18
-showdate_hidden  : 2023-02-18
-To_letters       : Mangal Chandra Moulic
-Date_letter      : February 18
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sri Mangal Chandra Moulic\\
 Principal, Dr. B.R. Ambedkar College\\
 P.O. Betai, Dist Nadia

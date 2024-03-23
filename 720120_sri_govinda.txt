@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Govinda
-ListDate_hidden  : 1972-01-20
-showdate_hidden  : 2023-01-20
-To_letters       : Sri Govinda
-Date_letter      : January 20
-Year_letter      : 1972
-Place_letter     : Jaipur
-----
-
 East Cleveland
 
 My dear Sri Govinda das,

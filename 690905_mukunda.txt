@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1969-09-05
-showdate_hidden  : 2023-09-05
-To_letters       : Mukunda
-Date_letter      : September 5
-Year_letter      : 1969
-Place_letter     : Hamburg
-----
-
 My dear Mukunda,
 
 Please accept my blessings. Now it is decided that I shall be starting on the 11th of September, Thursday, by flight 234, Lufthansa Airlines, starting at 12:15 Hamburg time, and reaching London at 13:40. So you can make the necessary arrangements. If you have any further information for me, you can send me a letter immediately or talk with me. Yesterday Vyasa Puja was held in the temple, and your tape of Cintamani was played. It was very nice.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Ranadhira ======
 
----- dataentry letters ----
-Recipient_hidden : Ranadhira
-ListDate_hidden  : 1969-10-08
-showdate_hidden  : 2023-10-08
-To_letters       : Ranadhira
-Date_letter      : October 8
-Year_letter      : 1969
-Place_letter     : Tittenhurst
-----
-
 My dear Ranadhira,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 28th, 1969, and your attitude of a humble devotee is very much appreciated. Caitanya Mahaprabhu taught us to be humbler than the grass on the street and more tolerant than the tree, and thus chant Hare Krishna Maha Mantra without any impediments.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Rajni ======
 
----- dataentry letters ----
-Recipient_hidden : Rajni
-ListDate_hidden  : 1976-10-23
-showdate_hidden  : 2023-10-23
-To_letters       : Rajni
-Date_letter      : October 23
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear Rajni dasi,
 
 Please accept my blessings. I am in due receipt of your letter dated 5/10/76.

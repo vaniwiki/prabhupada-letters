@@ -9,16 +9,6 @@
 
 ====== Letter to: John Milner ======
 
----- dataentry letters ----
-Recipient_hidden : John Milner
-ListDate_hidden  : 1971-04-22
-showdate_hidden  : 2023-04-22
-To_letters       : John Milner
-Date_letter      : April 22
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Tallahassee
 
 My dear John Milner,

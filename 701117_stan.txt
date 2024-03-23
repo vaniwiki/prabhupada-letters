@@ -9,16 +9,6 @@
 
 ====== Letter to: Stan ======
 
----- dataentry letters ----
-Recipient_hidden : Stan
-ListDate_hidden  : 1970-11-17
-showdate_hidden  : 2023-11-17
-To_letters       : Stan
-Date_letter      : November 17
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Sriman Stan,
 
 Please accept my blessings. I beg to thank you very much for your nice letter dated nil. I am very pleased that you are in New Vrndavana for some time now and you are feeling the benefits of the transcendental atmosphere there. Actually it is my dream to have such a perfect community established fully in Krsna Consciousness so that the people of your country may have a right example what is the natural way of life or pure spiritual living.

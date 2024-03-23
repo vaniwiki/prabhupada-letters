@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1972-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Gargamuni
-Date_letter      : February 15
-Year_letter      : 1972
-Place_letter     : Madras
-----
-
 Vrndavana
 
 My dear Gargamuni,

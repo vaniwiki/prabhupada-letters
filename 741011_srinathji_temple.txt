@@ -9,16 +9,6 @@
 
 ====== Letter to: Srinathji Temple ======
 
----- dataentry letters ----
-Recipient_hidden : Srinathji Temple
-ListDate_hidden  : 1974-10-11
-showdate_hidden  : 2023-10-11
-To_letters       : Srinathji Temple
-Date_letter      : October 11
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Srinathji Temple\\
 Nathadwara, Rajasthan
 

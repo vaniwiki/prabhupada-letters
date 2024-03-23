@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of Punjab National Bank ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of Punjab National Bank
-ListDate_hidden  : 1971-04-26
-showdate_hidden  : 2023-04-26
-To_letters       : Manager of Punjab National Bank
-Date_letter      : April 26
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Manager\\
 Punjab National Bank\\
 P.O. Vrndavana\\

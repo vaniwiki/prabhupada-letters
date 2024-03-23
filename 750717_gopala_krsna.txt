@@ -9,16 +9,6 @@
 
 ====== Letter to: Gopala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Gopala Krsna
-ListDate_hidden  : 1975-07-17
-showdate_hidden  : 2023-07-17
-To_letters       : Gopala Krsna
-Date_letter      : July 17
-Year_letter      : 1975
-Place_letter     : Berkeley
-----
-
 Bombay
 
 My dear Gopala Krishna das:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagannatha, Nitai ======
 
----- dataentry letters ----
-Recipient_hidden : Jagannatha, Nitai
-ListDate_hidden  : 1976-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Jagannatha, Nitai
-Date_letter      : May 26
-Year_letter      : 1976
-Place_letter     : Honolulu
-----
-
 Vrindaban
 
 My dear Jagannatha das and Nitai das,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Vrndavana Candra ======
 
----- dataentry letters ----
-Recipient_hidden : Vrndavana Candra
-ListDate_hidden  : 1970-06-05
-showdate_hidden  : 2023-06-05
-To_letters       : Vrndavana Candra
-Date_letter      : June 5
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Vrndavana Candra,
 
 Please accept my blessings. I beg to acknowledge receipt of your encouraging letter dated 24th May, 1970.

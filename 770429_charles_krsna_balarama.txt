@@ -9,16 +9,6 @@
 
 ====== Letter to: Charles (Krsna Balarama) ======
 
----- dataentry letters ----
-Recipient_hidden : Charles (Krsna Balarama)
-ListDate_hidden  : 1977-04-29
-showdate_hidden  : 2023-04-29
-To_letters       : Charles (Krsna Balarama)
-Date_letter      : April 29
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 My dear Charles, (Krishna Balarama das)
 
 Please accept my blessings. I beg to thank you for your very nice letter dated 18th April, 1977.\\

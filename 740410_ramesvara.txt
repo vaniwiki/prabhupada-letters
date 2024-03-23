@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1974-04-10
-showdate_hidden  : 2023-04-10
-To_letters       : Ramesvara
-Date_letter      : April 10
-Year_letter      : 1974
-Place_letter     : India
-----
-
 Dear Ramesvara,
 
 Please accept my blessings. I have received a letter from Yasodanandana Maharaja in Japan dated March 31 in which he writes that he has become very disturbed by reports he says you are making that he and Gurukrpa Maharaja are not authorized by me, and so many criticisms he alleges you are making against them.

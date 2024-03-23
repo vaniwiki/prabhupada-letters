@@ -9,16 +9,6 @@
 
 ====== Letter to: Radhavallabha ======
 
----- dataentry letters ----
-Recipient_hidden : Radhavallabha
-ListDate_hidden  : 1975-09-11
-showdate_hidden  : 2023-09-11
-To_letters       : Radhavallabha
-Date_letter      : September 11
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Los Angeles
 
 My dear Radhavallabha das:

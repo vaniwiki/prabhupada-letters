@@ -9,16 +9,6 @@
 
 ====== Letter to: Pancaratna ======
 
----- dataentry letters ----
-Recipient_hidden : Pancaratna
-ListDate_hidden  : 1976-09-29
-showdate_hidden  : 2023-09-29
-To_letters       : Pancaratna
-Date_letter      : September 29
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Mayapur
 
 My dear Pancaratna,

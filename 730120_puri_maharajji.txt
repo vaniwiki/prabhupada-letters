@@ -9,16 +9,6 @@
 
 ====== Letter to: Puri Maharajji ======
 
----- dataentry letters ----
-Recipient_hidden : Puri Maharajji
-ListDate_hidden  : 1973-01-20
-showdate_hidden  : 2023-01-20
-To_letters       : Puri Maharajji
-Date_letter      : January 20
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 B-11 Sea Face Park,
 
 50 B. Desai Road,

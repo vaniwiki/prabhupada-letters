@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtiraja ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtiraja
-ListDate_hidden  : 1975-01-12
-showdate_hidden  : 2023-01-12
-To_letters       : Kirtiraja
-Date_letter      : January 12
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Los Angeles
 
 My dear Kirtiraja das,

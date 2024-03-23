@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. DDD ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. DDD
-ListDate_hidden  : 1970-12-19
-showdate_hidden  : 2023-12-19
-To_letters       : Mr. DDD
-Date_letter      : December 19
-Year_letter      : 1970
-Place_letter     : Surat
-----
-
 My dear Mr. D.D.D.
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated as well as the enclosed booklet, and I thank you very much for these.

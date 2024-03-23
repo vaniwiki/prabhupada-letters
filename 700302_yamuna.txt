@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna
-ListDate_hidden  : 1970-03-02
-showdate_hidden  : 2023-03-02
-To_letters       : Yamuna
-Date_letter      : March 2
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Yamuna,
 
 Please accept my blessings. I am in due receipt of your letter dated 17 February, 1970, and have read the contents with great interest. We are not impersonalists, under the circumstances we have got varieties of perception in the matter of discharging devotional service. In Rupa Goswami's "Siksamrta" it is stated that advanced life in Krsna Consciousness means one should be always very much anxious to calculate whether every moment of his life has not been utilized in devotional service. This is called feeling of being afraid for misusing time.

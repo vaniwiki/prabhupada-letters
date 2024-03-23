@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Richard Cohen ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Richard Cohen
-ListDate_hidden  : 1975-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Mr. Richard Cohen
-Date_letter      : May 26
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Richard Cohen\\
 P.O. Box 1615\\
 Sausalito, Calif.

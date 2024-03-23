@@ -9,16 +9,6 @@
 
 ====== Letter to: Mrs. Hochner ======
 
----- dataentry letters ----
-Recipient_hidden : Mrs. Hochner
-ListDate_hidden  : 1969-01-13
-showdate_hidden  : 2023-01-13
-To_letters       : Mrs. Hochner
-Date_letter      : January 13
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Dear Mrs. Hochner,
 
 Please accept my New Year's greetings. I am so pleased to accept your token of good will and the sounding Haribol with needlework. This cloth is so nice that I have hung it in my room in front of me so that I can see Haribol and remember you always.

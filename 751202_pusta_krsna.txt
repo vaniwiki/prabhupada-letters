@@ -9,16 +9,6 @@
 
 ====== Letter to: Pusta Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Pusta Krsna
-ListDate_hidden  : 1975-12-02
-showdate_hidden  : 2023-12-02
-To_letters       : Pusta Krsna
-Date_letter      : December 2
-Year_letter      : 1975
-Place_letter     : New Delhi
-----
-
 My dear Pusta Krishna Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 17, 1975. Regarding the car, you just register it in your name in Germany. Hansadutta Prabhu has agreed to give the 11% tax until export. Then drive it here and when it is here we will see how to manage.

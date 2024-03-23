@@ -9,16 +9,6 @@
 
 ====== Letter to: Puri Maharajji ======
 
----- dataentry letters ----
-Recipient_hidden : Puri Maharajji
-ListDate_hidden  : 1972-11-05
-showdate_hidden  : 2023-11-05
-To_letters       : Puri Maharajji
-Date_letter      : November 5
-Year_letter      : 1972
-Place_letter     : Vrindaban
-----
-
 ISKCON Vrindaban
 
 (after Nov. 15th: c/o Hariprasad Badruka,

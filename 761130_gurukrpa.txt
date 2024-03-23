@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurukrpa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurukrpa
-ListDate_hidden  : 1976-11-30
-showdate_hidden  : 2023-11-30
-To_letters       : Gurukrpa
-Date_letter      : November 30
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Honolulu
 
 My dear Guru krpa,

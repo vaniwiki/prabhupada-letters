@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni Swami ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni Swami
-ListDate_hidden  : 1974-10-07
-showdate_hidden  : 2023-10-07
-To_letters       : Gargamuni Swami
-Date_letter      : October 7
-Year_letter      : 1974
-Place_letter     : Nadia
-----
-
 Dear Gargamuni Swami:
 
 Please accept my humble obeisances. Srila Prabhupad has requested me to ask you to kindly bring Mr. Nannungo and his wife Chhavi here to Mayapur to make the Orissa scheme. Prabhupad will talk with him about how much he is prepared to help.

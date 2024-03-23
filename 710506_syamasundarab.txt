@@ -9,16 +9,6 @@
 
 ====== Letter to: Syamasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Syamasundara
-ListDate_hidden  : 1971-05-06
-showdate_hidden  : 2023-05-06
-To_letters       : Syamasundara
-Date_letter      : May 6
-Year_letter      : 1971
-Place_letter     : Malaysia
-----
-
 My dear Syamasundara,
 
 Please accept my blessings. I'm very glad to inform you that we have reached Malaysia very shortly, that on my arrival there was nice meeting, and then we have come outside the city. Yesterday I was very busy all day.

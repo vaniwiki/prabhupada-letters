@@ -3,17 +3,6 @@
 
 ====== Letter to: Giridhari ======
 
----- dataentry letters ----
-Recipient_hidden : Giridhari
-ListDate_hidden  : 1973-05-11
-showdate_hidden  : 2023-05-11
-To_letters       : Giridhari
-Date_letter      : 11 May
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
-
 Houston
 
 My dear Giridhari,

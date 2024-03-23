@@ -9,16 +9,6 @@
 
 ====== Letter to: Devananda ======
 
----- dataentry letters ----
-Recipient_hidden : Devananda
-ListDate_hidden  : 1968-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Devananda
-Date_letter      : March 18
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 New York
 
 My dear Devananda,

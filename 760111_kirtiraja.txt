@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtiraja ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtiraja
-ListDate_hidden  : 1976-01-11
-showdate_hidden  : 2023-01-11
-To_letters       : Kirtiraja
-Date_letter      : January 11
-Year_letter      : 1976
-Place_letter     : Bombay
-----
-
 Taunus, West Germany
 
 My dear Kirtiraja,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Prabhakar ======
 
----- dataentry letters ----
-Recipient_hidden : Prabhakar
-ListDate_hidden  : 1975-05-31
-showdate_hidden  : 2023-05-31
-To_letters       : Prabhakar
-Date_letter      : May 31
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 New Delhi
 
 My dear Prabhakar,

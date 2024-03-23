@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1977-04-17
-showdate_hidden  : 2023-04-17
-To_letters       : Ramesvara
-Date_letter      : April 17
-Year_letter      : 1977
-Place_letter     : India
-----
-
 My dear Ramesvara,
 
 Please accept my blessings. I beg to thank you for your letter dated March 26, 1977. Thank you very much for the Guru Daksina.

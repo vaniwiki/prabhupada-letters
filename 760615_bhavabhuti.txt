@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhavabhuti ======
 
----- dataentry letters ----
-Recipient_hidden : Bhavabhuti
-ListDate_hidden  : 1976-06-15
-showdate_hidden  : 2023-06-15
-To_letters       : Bhavabhuti
-Date_letter      : June 15
-Year_letter      : 1976
-Place_letter     : Detroit
-----
-
 Madras
 
 My dear Bhavabhuti das,

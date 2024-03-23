@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1970-11-25
-showdate_hidden  : 2023-11-25
-To_letters       : Satsvarupa
-Date_letter      : November 25
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of several letters from you and I am answering the points from letters dated October 7th, fortnightly report dated October 24th, and letters dated November 2nd and 13rd.

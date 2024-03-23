@@ -9,16 +9,6 @@
 
 ====== Letter to: Dhruba Charan Pattanaik ======
 
----- dataentry letters ----
-Recipient_hidden : Dhruba Charan Pattanaik
-ListDate_hidden  : 1977-02-24
-showdate_hidden  : 2023-02-24
-To_letters       : Dhruba Charan Pattanaik
-Date_letter      : February 24
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Shri Dhruba Charan Pattanaik,\\
 Vill: Tamandoo,\\
 P.O. Tamandoo, via Janla,\\

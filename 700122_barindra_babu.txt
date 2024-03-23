@@ -9,16 +9,6 @@
 
 ====== Letter to: Barindra Babu ======
 
----- dataentry letters ----
-Recipient_hidden : Barindra Babu
-ListDate_hidden  : 1970-01-22
-showdate_hidden  : 2023-01-22
-To_letters       : Barindra Babu
-Date_letter      : January 22
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Advocate, Supreme Court of India\\
 57/2 Ekdalia Road\\
 Calcutta-19\\

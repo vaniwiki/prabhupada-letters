@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsnavesa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsnavesa
-ListDate_hidden  : 1975-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Krsnavesa
-Date_letter      : January 16
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 London
 
 My dear Krsnavesa dasi,

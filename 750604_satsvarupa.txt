@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1975-06-04
-showdate_hidden  : 2023-06-04
-To_letters       : Satsvarupa
-Date_letter      : June 4
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Los Angeles
 
 My dear Satsvarupa dasa Goswami,

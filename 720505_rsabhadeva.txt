@@ -9,16 +9,6 @@
 
 ====== Letter to: Rsabhadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Rsabhadeva
-ListDate_hidden  : 1972-05-05
-showdate_hidden  : 2023-05-05
-To_letters       : Rsabhadeva
-Date_letter      : May 5
-Year_letter      : 1972
-Place_letter     : Honolulu
-----
-
 San Francisco
 
 My dear Rsabhadeva,

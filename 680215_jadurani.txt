@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1968-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Jadurani
-Date_letter      : February 15
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Allston, Massachusetts
 
 My dear Jadurani,

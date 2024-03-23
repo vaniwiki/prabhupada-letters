@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Mahadeva
-ListDate_hidden  : 1974-03-03
-showdate_hidden  : 2023-03-03
-To_letters       : Mahadeva
-Date_letter      : March 3
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Dear Mahadeva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter which has been hand delivered to me here in our temple.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Saradia ======
 
----- dataentry letters ----
-Recipient_hidden : Saradia
-ListDate_hidden  : 1968-12-12
-showdate_hidden  : 2023-12-12
-To_letters       : Saradia
-Date_letter      : December 12
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Saradia,
 
 Please accept my blessings. I am in due receipt of your recent letter and I have noted the contents with pleasure. Your kind thoughts which you expressed are very nice and encouraging to me. Also you have asked some intelligent questions and I am answering them here.

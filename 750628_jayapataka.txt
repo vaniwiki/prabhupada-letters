@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1975-06-28
-showdate_hidden  : 2023-06-28
-To_letters       : Jayapataka
-Date_letter      : June 28
-Year_letter      : 1975
-Place_letter     : Denver
-----
-
 Mayapur
 
 My dear Jayapataka Swami:

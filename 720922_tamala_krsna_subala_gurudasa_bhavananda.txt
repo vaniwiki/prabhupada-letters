@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna, Subala, Gurudasa, Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna, Subala, Gurudasa, Bhavananda
-ListDate_hidden  : 1972-09-22
-showdate_hidden  : 2023-09-22
-To_letters       : Tamala Krsna, Subala, Gurudasa, Bhavananda
-Date_letter      : September 22
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Vrindaban
 
 My dear Tamala Krishna, Subala, Gurudasa, and Bhavananda,

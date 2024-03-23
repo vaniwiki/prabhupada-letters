@@ -9,16 +9,6 @@
 
 ====== Letter to: W.J. Carpenter ======
 
----- dataentry letters ----
-Recipient_hidden : W.J. Carpenter
-ListDate_hidden  : 1975-11-30
-showdate_hidden  : 2023-11-30
-To_letters       : W.J. Carpenter
-Date_letter      : November 30
-Year_letter      : 1975
-Place_letter     : New Delhi
-----
-
 My dear W.J. Carpenter,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated nil.

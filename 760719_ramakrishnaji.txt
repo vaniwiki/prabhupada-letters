@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramakrishnaji ======
 
----- dataentry letters ----
-Recipient_hidden : Ramakrishnaji
-ListDate_hidden  : 1976-07-19
-showdate_hidden  : 2023-07-19
-To_letters       : Ramakrishnaji
-Date_letter      : July 19
-Year_letter      : 1976
-Place_letter     : New York
-----
-
 Bombay
 
 My dear Sriman Ramakrishnaji,

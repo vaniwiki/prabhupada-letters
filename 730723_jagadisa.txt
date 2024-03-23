@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagadisa ======
 
----- dataentry letters ----
-Recipient_hidden : Jagadisa
-ListDate_hidden  : 1973-07-23
-showdate_hidden  : 2023-07-23
-To_letters       : Jagadisa
-Date_letter      : July 23
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 Dear Jagadisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 17, 1973 and I have considered the contents carefully.

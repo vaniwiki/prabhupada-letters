@@ -9,16 +9,6 @@
 
 ====== Letter to: Aniruddha ======
 
----- dataentry letters ----
-Recipient_hidden : Aniruddha
-ListDate_hidden  : 1968-03-13
-showdate_hidden  : 2023-03-13
-To_letters       : Aniruddha
-Date_letter      : March 13
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 Los Angeles
 
 My dear Aniruddha,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1971-02-26
-showdate_hidden  : 2023-02-26
-To_letters       : Satsvarupa
-Date_letter      : February 26
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 29th January, 1971 and have noted the contents carefully. I am so glad to hear that you have just returned from a successful touring of the temples in Southern U.S.A. and had an occasion to meet and speak with our sannyasis also. The sannyasis are trying their best. So let them go on as they have been doing and let them do in their own way. There is no trouble.

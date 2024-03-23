@@ -9,16 +9,6 @@
 
 ====== Letter to: Vamanadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Vamanadeva
-ListDate_hidden  : 1970-02-12
-showdate_hidden  : 2023-02-12
-To_letters       : Vamanadeva
-Date_letter      : February 12
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Vamanadeva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 2, 1970, along with the letter from Sriman April Grover, your St. Louis newsletter, and one handbill.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Harikrishnadas Aggarwal ======
 
----- dataentry letters ----
-Recipient_hidden : Harikrishnadas Aggarwal
-ListDate_hidden  : 1968-03-03
-showdate_hidden  : 2023-03-03
-To_letters       : Harikrishnadas Aggarwal
-Date_letter      : March 3
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Sri Harikrishnadas Aggarwal\\
 Gupta Hills Estate\\
 Bombay-10,\\

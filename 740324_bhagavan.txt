@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhagavan ======
 
----- dataentry letters ----
-Recipient_hidden : Bhagavan
-ListDate_hidden  : 1974-03-24
-showdate_hidden  : 2023-03-24
-To_letters       : Bhagavan
-Date_letter      : March 24
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Dear Bhagavan das,
 
 Please accept my blessings. I have received the names of the devotees recommended by you for first initiation, and upon your word I have accepted them as my disciples. There new spiritual names are as follows.

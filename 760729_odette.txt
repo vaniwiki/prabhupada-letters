@@ -9,16 +9,6 @@
 
 ====== Letter to: Odette ======
 
----- dataentry letters ----
-Recipient_hidden : Odette
-ListDate_hidden  : 1976-07-29
-showdate_hidden  : 2023-07-29
-To_letters       : Odette
-Date_letter      : July 29
-Year_letter      : 1976
-Place_letter     : Paris
-----
-
 My dear Odette:
 
 Please accept my blessings. I am in due receipt of your poem offering and I want to thank you very much for it. I have appreciated the sentiments expressed within and I hope that you will continue to advance more and more in your Krsna consciousness.

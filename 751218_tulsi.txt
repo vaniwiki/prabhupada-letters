@@ -9,16 +9,6 @@
 
 ====== Letter to: Tulsi ======
 
----- dataentry letters ----
-Recipient_hidden : Tulsi
-ListDate_hidden  : 1975-12-18
-showdate_hidden  : 2023-12-18
-To_letters       : Tulsi
-Date_letter      : December 18
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Taunus, West Germany
 
 My dear Tulsi Das,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1974-06-18
-showdate_hidden  : 2023-06-18
-To_letters       : Jayatirtha
-Date_letter      : June 18
-Year_letter      : 1974
-Place_letter     : Frankfurt
-----
-
 Los Angeles
 
 My dear Jaya Tirtha,

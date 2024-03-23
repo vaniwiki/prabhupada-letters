@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvar Prabhu ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvar Prabhu
-ListDate_hidden  : 1974-09-19
-showdate_hidden  : 2023-09-19
-To_letters       : Ramesvar Prabhu
-Date_letter      : September 19
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Dear Ramesvar Prabhu:
 
 Please accept my humble obeisances. I am in due receipt of your letter dated September 11, 1974. In response to Srila Prabhupad has asked me to write you that what you have deducted from Guru Kripa's collection should also be transferred to Bombay account immediately. BBT must pay for these things, not that it should be deducted from the money being sent here for construction.

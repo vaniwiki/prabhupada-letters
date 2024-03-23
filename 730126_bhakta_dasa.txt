@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhakta dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Bhakta dasa
-ListDate_hidden  : 1973-01-26
-showdate_hidden  : 2023-01-26
-To_letters       : Bhakta dasa
-Date_letter      : January 26
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 San Diego
 
 My dear Bhakta das,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Nirmal Babu ======
 
----- dataentry letters ----
-Recipient_hidden : Nirmal Babu
-ListDate_hidden  : 1970-06-24
-showdate_hidden  : 2023-06-24
-To_letters       : Nirmal Babu
-Date_letter      : June 24
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Nirmal Babu,
 
 Please accept my greetings. Since a very long time we are now separated, and I think I met you last at your home sometimes in 1964 before starting for America. Perhaps you have information about my activities in the Western countries and the cult of Lord Caitanya Mahaprabhu being nicely transplanted in the Western countries.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Ksama (Lynn Edwards) ======
 
----- dataentry letters ----
-Recipient_hidden : Ksama (Lynn Edwards)
-ListDate_hidden  : 1971-11-06
-showdate_hidden  : 2023-11-06
-To_letters       : Ksama (Lynn Edwards)
-Date_letter      : November 6
-Year_letter      : 1971
-Place_letter     : Calcutta
-----
-
 Amsterdam
 
 My dear Ksama Devi Dasi (Lynn Edwards),

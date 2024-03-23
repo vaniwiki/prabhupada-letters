@@ -9,16 +9,6 @@
 
 ====== Letter to: Richard Mende ======
 
----- dataentry letters ----
-Recipient_hidden : Richard Mende
-ListDate_hidden  : 1974-09-19
-showdate_hidden  : 2023-09-19
-To_letters       : Richard Mende
-Date_letter      : September 19
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Mathura
 
 Dear Richard Mende:

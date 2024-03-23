@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. David J. Exley ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. David J. Exley
-ListDate_hidden  : 1968-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Mr. David J. Exley
-Date_letter      : February 21
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 David Exley\\
 Chief NGO Section\\
 External Affairs Office\\

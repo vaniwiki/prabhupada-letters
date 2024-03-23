@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagadisa ======
 
----- dataentry letters ----
-Recipient_hidden : Jagadisa
-ListDate_hidden  : 1970-11-17
-showdate_hidden  : 2023-11-17
-To_letters       : Jagadisa
-Date_letter      : November 17
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Jagadisa,
 
 Please accept my blessings. I beg to thank you for your letter dated October 25th, 1970, and noted the contents.

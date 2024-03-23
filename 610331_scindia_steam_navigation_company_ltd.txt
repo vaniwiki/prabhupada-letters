@@ -9,16 +9,6 @@
 
 ====== Letter to: Scindia Steam Navigation Company Ltd ======
 
----- dataentry letters ----
-Recipient_hidden : Scindia Steam Navigation Company Ltd
-ListDate_hidden  : 1961-03-31
-showdate_hidden  : 2023-03-31
-To_letters       : Scindia Steam Navigation Company Ltd
-Date_letter      : March 31
-Year_letter      : 1961
-Place_letter     : Delhi
-----
-
 Deputy Manager,\\
 The Scindia Steam Navigation Company Ltd.\\
 Scindia House, Dougall Road\\

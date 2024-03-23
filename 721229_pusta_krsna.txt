@@ -9,16 +9,6 @@
 
 ====== Letter to: Pusta Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Pusta Krsna
-ListDate_hidden  : 1972-12-29
-showdate_hidden  : 2023-12-29
-To_letters       : Pusta Krsna
-Date_letter      : December 29
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Geneva
 
 My dear Pusta Krsna,

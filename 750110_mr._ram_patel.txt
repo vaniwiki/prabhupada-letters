@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Ram Patel ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Ram Patel
-ListDate_hidden  : 1975-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Mr. Ram Patel
-Date_letter      : January 10
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Sri Ram Patel\\
 105 Park Avenue\\
 Southall, Middlesex\\

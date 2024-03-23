@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1970-03-13
-showdate_hidden  : 2023-03-13
-To_letters       : Satsvarupa
-Date_letter      : March 13
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I thank you very much for sending me the transcribed copies of two tapes #17 and #18, and I see it is well done. Although there are some minor mistakes in spelling of the proper names, that is not a problem. In my next letter I will point them out and give the correct spelling.

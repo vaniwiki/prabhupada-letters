@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhagavan ======
 
----- dataentry letters ----
-Recipient_hidden : Bhagavan
-ListDate_hidden  : 1972-05-12
-showdate_hidden  : 2023-05-12
-To_letters       : Bhagavan
-Date_letter      : May 12
-Year_letter      : 1972
-Place_letter     : Honolulu
-----
-
 My dear Bhagavan das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 5/8/72, and I have noted the contents. Regarding the zone redistribution, others have also pointed out the discrepancy in middle USA zone, so we have changed that zone to include also all centers north of the Ohio River, Kentucky, Missouri, Arkansas, Louisiana. If there is still any objection, you can let me know at Los Angeles address.

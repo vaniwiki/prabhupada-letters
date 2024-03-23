@@ -9,16 +9,6 @@
 
 ====== Letter to: Himavati ======
 
----- dataentry letters ----
-Recipient_hidden : Himavati
-ListDate_hidden  : 1968-12-27
-showdate_hidden  : 2023-12-27
-To_letters       : Himavati
-Date_letter      : December 27
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Himavati,
 
 Please accept my blessings. I thank you very much for your sending me the cap and dresses for Radha-Govinda, which are so nice and beautiful. When I put on the hat sent by you on my head, everyone says that it is brilliant, and because one has to dress according to the taste of friends this hat has become an important factor of my dressing. Thank you very much.

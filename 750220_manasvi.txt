@@ -9,16 +9,6 @@
 
 ====== Letter to: Manasvi ======
 
----- dataentry letters ----
-Recipient_hidden : Manasvi
-ListDate_hidden  : 1975-02-20
-showdate_hidden  : 2023-02-20
-To_letters       : Manasvi
-Date_letter      : February 20
-Year_letter      : 1975
-Place_letter     : Caracas, Venezuela
-----
-
 Honolulu
 
 My dear Manasvi dasa,

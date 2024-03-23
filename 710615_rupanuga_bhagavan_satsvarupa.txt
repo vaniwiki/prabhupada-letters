@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga, Bhagavan, Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga, Bhagavan, Satsvarupa
-ListDate_hidden  : 1971-06-15
-showdate_hidden  : 2023-06-15
-To_letters       : Rupanuga, Bhagavan, Satsvarupa
-Date_letter      : June 15
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Brooklyn
 
 My dear Rupanuga, Bhagavan das, and Satsvarupa,

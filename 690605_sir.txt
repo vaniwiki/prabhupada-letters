@@ -9,16 +9,6 @@
 
 ====== Letter to: Sir ======
 
----- dataentry letters ----
-Recipient_hidden : Sir
-ListDate_hidden  : 1969-06-05
-showdate_hidden  : 2023-06-05
-To_letters       : Sir
-Date_letter      : June 5
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 Dear Sir:
 
 I beg to acknowledge receipt of your Hindi letter dated May 27, 1969, and I do not know why Gopala Krsna's father is so much upset. I have received one letter from Gopala Krsna dated May 29, 1969 in which he writes "I don't think my parents will have any objections now because I have assured them in telegrams and letter that I am not going to abandon them." I hope this will clear the whole thing. So far as I remember, I met you in San Francisco, if I am right. I hope you are doing well. Thanking you for your letter.

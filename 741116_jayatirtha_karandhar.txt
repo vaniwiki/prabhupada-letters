@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha & Karandhar ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha & Karandhar
-ListDate_hidden  : 1974-11-16
-showdate_hidden  : 2023-11-16
-To_letters       : Jayatirtha & Karandhar
-Date_letter      : November 16
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Dear Jayatirtha & Karandhar Prabhus,
 
 Please accept my humble obeisances. Regarding the corporate status of ISKCON in relation to Spiritual sky, it is desirable that Spiritual Sky separate itself from ISKCON so that ISKCON will not be subject to any debts incurred by Spiritual Sky.

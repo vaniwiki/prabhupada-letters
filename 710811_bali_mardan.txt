@@ -9,16 +9,6 @@
 
 ====== Letter to: Bali Mardan ======
 
----- dataentry letters ----
-Recipient_hidden : Bali Mardan
-ListDate_hidden  : 1971-08-11
-showdate_hidden  : 2023-08-11
-To_letters       : Bali Mardan
-Date_letter      : August 11
-Year_letter      : 1971
-Place_letter     : Bury Place
-----
-
 7 Bury Place\\
 London, W.C. 1\\
 ENGLAND, 11th August, 1971

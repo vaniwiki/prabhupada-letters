@@ -9,16 +9,6 @@
 
 ====== Letter to: Pujyapada Kesava Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : Pujyapada Kesava Maharaja
-ListDate_hidden  : 1949-03-27
-showdate_hidden  : 2023-03-27
-To_letters       : Pujyapada Kesava Maharaja
-Date_letter      : March 27
-Year_letter      : 1949
-Place_letter     : 
-----
-
 [It is an extract from a 1949 letter of Srila Prabhupada. The original letter was in Bengali, and was reprinted, along with this translation, in the summer 2001 edition of Rays of the Harmonist, a magazine published by followers of HH Narayana Maharaja. ---Bhakti Vikās Swami]
 
 __Śrī Gauḍīya Patrikā__\\

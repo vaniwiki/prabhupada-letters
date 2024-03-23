@@ -9,16 +9,6 @@
 
 ====== Letter to: Nayanabhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Nayanabhirama
-ListDate_hidden  : 1971-07-25
-showdate_hidden  : 2023-07-25
-To_letters       : Nayanabhirama
-Date_letter      : July 25
-Year_letter      : 1971
-Place_letter     : Brooklyn
-----
-
 Philadelphia
 
 My dear Nayana Bhirama,

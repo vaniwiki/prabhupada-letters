@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna
-ListDate_hidden  : 1970-05-17
-showdate_hidden  : 2023-05-17
-To_letters       : Yamuna
-Date_letter      : May 17
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Yamuna,
 
 Please accept my blessings. I am in due receipt of your very nice letter dated 8th May, 1970, and noted the contents with interest. Thank you for your determination. For the way in which I am trying to expand I require so many sincere assistants.

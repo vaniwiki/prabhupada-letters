@@ -9,16 +9,6 @@
 
 ====== Letter to: Aksayananda, Pancadravida ======
 
----- dataentry letters ----
-Recipient_hidden : Aksayananda, Pancadravida
-ListDate_hidden  : 1974-06-14
-showdate_hidden  : 2023-06-14
-To_letters       : Aksayananda, Pancadravida
-Date_letter      : June 14
-Year_letter      : 1974
-Place_letter     : Paris
-----
-
 Bangalore
 
 My dear Aksojananda Maharaja and Pancadravida Maharaja,

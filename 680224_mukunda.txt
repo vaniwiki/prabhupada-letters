@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1968-02-24
-showdate_hidden  : 2023-02-24
-To_letters       : Mukunda
-Date_letter      : February 24
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter of Feb. 22, 1968 with enclosures. I am writing letter to Sri Hrsikesa Brahmacari giving him instructions. You also write them to work for the Society in cooperation with Acyutananda without wasting time in sight seeing.

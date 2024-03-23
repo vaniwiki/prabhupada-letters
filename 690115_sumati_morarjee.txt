@@ -9,16 +9,6 @@
 
 ====== Letter to: Sumati Morarjee ======
 
----- dataentry letters ----
-Recipient_hidden : Sumati Morarjee
-ListDate_hidden  : 1969-01-15
-showdate_hidden  : 2023-01-15
-To_letters       : Sumati Morarjee
-Date_letter      : January 15
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Madam Sumati Morarji Baisaheba,
 
 Please accept my greetings. I hope everything is going well with you. You will be pleased to know that this year two of my books have been published. They are as follows

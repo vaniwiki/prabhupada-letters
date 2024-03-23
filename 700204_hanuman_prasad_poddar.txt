@@ -9,16 +9,6 @@
 
 ====== Letter to: Hanuman Prasad Poddar ======
 
----- dataentry letters ----
-Recipient_hidden : Hanuman Prasad Poddar
-ListDate_hidden  : 1970-02-04
-showdate_hidden  : 2023-02-04
-To_letters       : Hanuman Prasad Poddar
-Date_letter      : February 4
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Gita Press\\
 P.O. Gita Vatika\\
 Dist. Gorakhpur\\

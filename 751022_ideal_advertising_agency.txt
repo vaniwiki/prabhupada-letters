@@ -9,16 +9,6 @@
 
 ====== Letter to: Ideal Advertising Agency ======
 
----- dataentry letters ----
-Recipient_hidden : Ideal Advertising Agency
-ListDate_hidden  : 1975-10-22
-showdate_hidden  : 2023-10-22
-To_letters       : Ideal Advertising Agency
-Date_letter      : October 22
-Year_letter      : 1975
-Place_letter     : Johannesburg
-----
-
 Ideal Advertising Agency\\
 Calcutta
 

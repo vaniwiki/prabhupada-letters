@@ -9,16 +9,6 @@
 
 ====== Letter to: Sripad Narayana Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : Sripad Narayana Maharaja
-ListDate_hidden  : 1967-05-17
-showdate_hidden  : 2023-05-17
-To_letters       : Sripad Narayana Maharaja
-Date_letter      : May 17
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 26 Second Avenue # B1\\
 New York, NY 10003 USA\\
 May 17, 1967

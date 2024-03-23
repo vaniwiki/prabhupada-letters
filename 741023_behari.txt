@@ -9,16 +9,6 @@
 
 ====== Letter to: Behari ======
 
----- dataentry letters ----
-Recipient_hidden : Behari
-ListDate_hidden  : 1974-10-23
-showdate_hidden  : 2023-10-23
-To_letters       : Behari
-Date_letter      : October 23
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Vrindaban
 
 Dear Behari das:

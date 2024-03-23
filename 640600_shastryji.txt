@@ -9,16 +9,6 @@
 
 ====== Letter to: Shastryji ======
 
----- dataentry letters ----
-Recipient_hidden : Shastryji
-ListDate_hidden  : 1964-06-00
-showdate_hidden  : 2023-06-00
-To_letters       : Shastryji
-Date_letter      : June
-Year_letter      : 1964
-Place_letter     : Unknown Place
-----
-
 My dear Shastryji,
 
 I thank you for your granting me an interview yesterday morning but I was not successful in my mission because your dealing with me yesterday was more official than hearty. You asked me to send you my Srimad-Bhagavatam Part II with a note. This is not only expensive for me but also troublesome for me. Any way as you wanted me to send you a note. I am abiding by your order but I am doubtful whether you will have any time to go through my notes. The first thing is that here is the copy of your letter which you sent me on %%______%% after receipt of the 1st part.

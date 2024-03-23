@@ -9,16 +9,6 @@
 
 ====== Letter to: Kashinath Mullick ======
 
----- dataentry letters ----
-Recipient_hidden : Kashinath Mullick
-ListDate_hidden  : 1977-02-04
-showdate_hidden  : 2023-02-04
-To_letters       : Kashinath Mullick
-Date_letter      : February 4
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sri Kashinath Mullick\\
 President, Srimat Udharan Dutta Thakur Samity\\
 39 Jatindra Mohan Avenue,\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Paramanand Patel ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Paramanand Patel
-ListDate_hidden  : 1976-08-23
-showdate_hidden  : 2023-08-23
-To_letters       : Sri Paramanand Patel
-Date_letter      : August 23
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Sriman Paramanand Patel\\
 c/o Yoga Vidyalaya Ashram\\
 Rajnandjaon M.P.

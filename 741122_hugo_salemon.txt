@@ -9,16 +9,6 @@
 
 ====== Letter to: Hugo Salemon ======
 
----- dataentry letters ----
-Recipient_hidden : Hugo Salemon
-ListDate_hidden  : 1974-11-22
-showdate_hidden  : 2023-11-22
-To_letters       : Hugo Salemon
-Date_letter      : November 22
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Balistraat,\\
 1 Amsterdam OOST
 

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Ram S. Verma, Mrs. Ram S. Verma ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Ram S. Verma, Mrs. Ram S. Verma
-ListDate_hidden  : 1975-07-04
-showdate_hidden  : 2023-07-04
-To_letters       : Dr. Ram S. Verma, Mrs. Ram S. Verma
-Date_letter      : July 4
-Year_letter      : 1975
-Place_letter     : Evanston
-----
-
 Dr. & Mrs. Ram S. Verma\\
 1325 Madison St. Apt. 203\\
 Denver, Colorado 80206

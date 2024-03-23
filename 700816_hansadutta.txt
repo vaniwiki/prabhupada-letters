@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1970-08-16
-showdate_hidden  : 2023-08-16
-To_letters       : Hansadutta
-Date_letter      : August 16
-Year_letter      : 1970
-Place_letter     : Tokyo
-----
-
 My dear Hansadutta,
 
 Please accept my blessings. I am in due receipt of your letter dated 5th August, 1970. Now I am staying in our Japan center looking after the publication of books, dealing with Dai Nippon Printing Co., and I have already placed order with them for different books and magazines to the extent of $52,000. Most of these books will be carried to India for making propaganda there on or before the World Sankirtana Party reaches there.

@@ -2,12 +2,3 @@
 
 ======  ======
 
----- dataentry letters ----
-Recipient_hidden : 
-ListDate_hidden  : 19@PAGE@
-To_letters       : 
-Date_letter      : 
-Year_letter      : 
-Place_letter     : 
-----
-

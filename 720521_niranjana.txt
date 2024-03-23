@@ -9,16 +9,6 @@
 
 ====== Letter to: Niranjana ======
 
----- dataentry letters ----
-Recipient_hidden : Niranjana
-ListDate_hidden  : 1972-05-21
-showdate_hidden  : 2023-05-21
-To_letters       : Niranjana
-Date_letter      : May 21
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Varanasi
 
 My dear Niranjana,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Ghosh ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Ghosh
-ListDate_hidden  : 1975-04-05
-showdate_hidden  : 2023-04-05
-To_letters       : Dr. Ghosh
-Date_letter      : April 5
-Year_letter      : 1975
-Place_letter     : Mayapur
-----
-
 Dr. G. Ghosh\\
 Gyan Bhawan\\
 22 %%_%% Road\\

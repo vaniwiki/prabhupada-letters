@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1970-04-14
-showdate_hidden  : 2023-04-14
-To_letters       : Brahmananda
-Date_letter      : April 14
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated 4th and 7th April, 1970, respectively. So as desired by you, I am enclosing herewith check No. 108/11 for $2409.00 in favor of ISKCON Press, so please do the needful.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Syamasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Syamasundara
-ListDate_hidden  : 1971-05-29
-showdate_hidden  : 2023-05-29
-To_letters       : Syamasundara
-Date_letter      : May 29
-Year_letter      : 1971
-Place_letter     : Calcutta
-----
-
 Bombay
 
 My dear Syamasundara,

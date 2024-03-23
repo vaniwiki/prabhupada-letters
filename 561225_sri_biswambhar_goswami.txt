@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Biswambhar Goswami ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Biswambhar Goswami
-ListDate_hidden  : 1956-12-25
-showdate_hidden  : 2023-12-25
-To_letters       : Sri Biswambhar Goswami
-Date_letter      : December 25
-Year_letter      : 1956
-Place_letter     : Shanti Kutir, Vrindaban
-----
-
 Sri Radha Vinode Ji Mandir\\
 33, Ananda Ghat.\\
 Goswami Abhay Charan Bhaktivedanta\\

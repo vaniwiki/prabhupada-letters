@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia
-ListDate_hidden  : 1975-11-23
-showdate_hidden  : 2023-11-23
-To_letters       : Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia
-Date_letter      : November 23
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Sri Himtsinh J. Bhatia and\\
 Srimati Manjula H. Bhatia\\
 P.O. Box 82855\\

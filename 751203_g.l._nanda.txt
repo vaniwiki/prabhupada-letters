@@ -9,16 +9,6 @@
 
 ====== Letter to: G.L. Nanda ======
 
----- dataentry letters ----
-Recipient_hidden : G.L. Nanda
-ListDate_hidden  : 1975-12-03
-showdate_hidden  : 2023-12-03
-To_letters       : G.L. Nanda
-Date_letter      : December 3
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Sriman Gulzari Lal Nanda\\
 5, Tuglak Road,\\
 New Delhi 110011

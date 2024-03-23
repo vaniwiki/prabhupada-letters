@@ -9,16 +9,6 @@
 
 ====== Letter to: Pancaratna ======
 
----- dataentry letters ----
-Recipient_hidden : Pancaratna
-ListDate_hidden  : 1976-12-07
-showdate_hidden  : 2023-12-07
-To_letters       : Pancaratna
-Date_letter      : December 7
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Mayapur
 
 My dear Pancaratna,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Niranjana ======
 
----- dataentry letters ----
-Recipient_hidden : Niranjana
-ListDate_hidden  : 1972-08-05
-showdate_hidden  : 2023-08-05
-To_letters       : Niranjana
-Date_letter      : August 5
-Year_letter      : 1972
-Place_letter     : London
-----
-
 Varanasi
 
 My dear Niranjana,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Indira ======
 
----- dataentry letters ----
-Recipient_hidden : Indira
-ListDate_hidden  : 1969-02-25
-showdate_hidden  : 2023-02-25
-To_letters       : Indira
-Date_letter      : February 25
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Indira,
 
 Please accept my blessings. I am in due receipt of your letter dated February 14, 1969, along with the very nice pictures you have sent to me. I thank you very much for this and I am always very pleased with your sincere efforts to serve Krishna.

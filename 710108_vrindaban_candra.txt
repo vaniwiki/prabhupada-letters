@@ -9,16 +9,6 @@
 
 ====== Letter to: Vrindaban Candra ======
 
----- dataentry letters ----
-Recipient_hidden : Vrindaban Candra
-ListDate_hidden  : 1971-01-08
-showdate_hidden  : 2023-01-08
-To_letters       : Vrindaban Candra
-Date_letter      : January 8
-Year_letter      : 1971
-Place_letter     : Allahabad
-----
-
 Philadelphia
 
 My dear Vrindaban Candra,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Amarendra ======
 
----- dataentry letters ----
-Recipient_hidden : Amarendra
-ListDate_hidden  : 1972-03-04
-showdate_hidden  : 2023-03-04
-To_letters       : Amarendra
-Date_letter      : March 4
-Year_letter      : 1972
-Place_letter     : Calcutta
-----
-
 Gainesville, Florida
 
 My dear Amarendra,

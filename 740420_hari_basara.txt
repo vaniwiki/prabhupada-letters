@@ -9,16 +9,6 @@
 
 ====== Letter to: Hari basara ======
 
----- dataentry letters ----
-Recipient_hidden : Hari basara
-ListDate_hidden  : 1974-04-20
-showdate_hidden  : 2023-04-20
-To_letters       : Hari basara
-Date_letter      : April 20
-Year_letter      : 1974
-Place_letter     : Hyderabad
-----
-
 Spokane, Washington
 
 Dear Hari basara,

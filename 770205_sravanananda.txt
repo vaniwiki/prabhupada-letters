@@ -9,16 +9,6 @@
 
 ====== Letter to: Sravanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Sravanananda
-ListDate_hidden  : 1977-02-05
-showdate_hidden  : 2023-02-05
-To_letters       : Sravanananda
-Date_letter      : February 5
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sriman Sravanananda das\\
 P.O. Sree Dham Mayapur\\
 Dist Nadia W. Bengal

@@ -9,16 +9,6 @@
 
 ====== Letter to: Visala ======
 
----- dataentry letters ----
-Recipient_hidden : Visala
-ListDate_hidden  : 1974-10-07
-showdate_hidden  : 2023-10-07
-To_letters       : Visala
-Date_letter      : October 7
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 New Delhi
 
 My dear Visala das:

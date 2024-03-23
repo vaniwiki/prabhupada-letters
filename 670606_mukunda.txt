@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1967-06-06
-showdate_hidden  : 2023-06-06
-To_letters       : Mukunda
-Date_letter      : June 6
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 My dear Mukunda,
 
 The record which you have sent singing Sri Ram, Jaya Ram, Jaya Jaya Ram, and other Kirtana is really a new turn and we have enjoyed the record so nicely. This Narada Muni song is in your country tune and I think it will attract many more of common man to join the Kirtana so you should practice this standard Kirtana more conveniently so that during your Rathayatra festival you can have this singing with the procession.

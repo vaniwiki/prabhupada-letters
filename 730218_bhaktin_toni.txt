@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhaktin Toni ======
 
----- dataentry letters ----
-Recipient_hidden : Bhaktin Toni
-ListDate_hidden  : 1973-02-18
-showdate_hidden  : 2023-02-18
-To_letters       : Bhaktin Toni
-Date_letter      : February 18
-Year_letter      : 1973
-Place_letter     : Sydney
-----
-
 Los Angeles
 
 My dear Bhaktin Toni,

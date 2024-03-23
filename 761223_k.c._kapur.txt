@@ -9,16 +9,6 @@
 
 ====== Letter to: K.C. Kapur ======
 
----- dataentry letters ----
-Recipient_hidden : K.C. Kapur
-ListDate_hidden  : 1976-12-23
-showdate_hidden  : 2023-12-23
-To_letters       : K.C. Kapur
-Date_letter      : December 23
-Year_letter      : 1976
-Place_letter     : 
-----
-
 Sri K.C. Kapur\\
 44 Kailash\\
 P.O. Box no. 31\\

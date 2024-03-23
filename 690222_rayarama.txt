@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1969-02-22
-showdate_hidden  : 2023-02-22
-To_letters       : Rayarama
-Date_letter      : February 22
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter dated February 19, 1969 and I am so glad to learn that the New York temple will be able to meet the $750 monthly payments I requested. So far as Dai Nippon's quotation at $2,100 for 20,000 copies with a sixty day period before delivery, please send me the original letter if you have received anything. But I had understood that Brahmananda was negotiating to lessen the amount to $1,500. From your letter I see you did not understand that I meant the typesetting and layout work to be done by Dai Nippon within the quotation. But now I understand that they are going to charge more for this work. If we have to pay them more for the typesetting and layout, then there is no question of stopping our own men from doing this work. So it was clearly misunderstanding.

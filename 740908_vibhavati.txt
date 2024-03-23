@@ -9,16 +9,6 @@
 
 ====== Letter to: Vibhavati ======
 
----- dataentry letters ----
-Recipient_hidden : Vibhavati
-ListDate_hidden  : 1974-09-08
-showdate_hidden  : 2023-09-08
-To_letters       : Vibhavati
-Date_letter      : September 8
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Lachine, Canada
 
 My dear Vibhavati devi;

@@ -9,16 +9,6 @@
 
 ====== Letter to: Beharilal ======
 
----- dataentry letters ----
-Recipient_hidden : Beharilal
-ListDate_hidden  : 1973-12-13
-showdate_hidden  : 2023-12-13
-To_letters       : Beharilal
-Date_letter      : December 13
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Beharilal,
 
 Please accept my blessings. I am in receipt of your letter dated November 8, 1973 just now received by me as it was redirected from India.

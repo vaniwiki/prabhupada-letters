@@ -9,16 +9,6 @@
 
 ====== Letter to: Lalitananda ======
 
----- dataentry letters ----
-Recipient_hidden : Lalitananda
-ListDate_hidden  : 1972-04-22
-showdate_hidden  : 2023-04-22
-To_letters       : Lalitananda
-Date_letter      : April 22
-Year_letter      : 1972
-Place_letter     : Japan
-----
-
 My dear son,
 
 Please accept my blessings. Upon the recommendation of Gunagrahi I have gladly consented to accept you as my duly initiated disciple. There is one extra set of beads there which have been duly chanted by me, so you may take them as your beads. Your spiritual name is Lalitananda das Brahmacari.

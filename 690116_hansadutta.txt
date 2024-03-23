@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1969-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Hansadutta
-Date_letter      : January 16
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of January 12, 1969, and I have carefully noted the contents.

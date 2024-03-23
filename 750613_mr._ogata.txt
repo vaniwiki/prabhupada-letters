@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Ogata ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Ogata
-ListDate_hidden  : 1975-06-13
-showdate_hidden  : 2023-06-13
-To_letters       : Mr. Ogata
-Date_letter      : June 13
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Mr. Ogata\\
 Int. Sales Manager\\
 Dai Nippon\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1973-10-22
-showdate_hidden  : 2023-10-22
-To_letters       : Madhudvisa
-Date_letter      : October 22
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 My dear Madhudvisa Swami,
 
 Please accept my blessings. With regards to your telegram to Tamala Krsna Maharaja dated October 19, 1973 I may inform you that I have today sent the following cable to Tusta Krsna Maharaja.

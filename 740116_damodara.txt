@@ -9,16 +9,6 @@
 
 ====== Letter to: Damodara ======
 
----- dataentry letters ----
-Recipient_hidden : Damodara
-ListDate_hidden  : 1974-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Damodara
-Date_letter      : January 16
-Year_letter      : 1974
-Place_letter     : Honolulu
-----
-
 My dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 3, 1974.

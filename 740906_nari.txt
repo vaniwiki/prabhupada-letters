@@ -9,16 +9,6 @@
 
 ====== Letter to: Nari ======
 
----- dataentry letters ----
-Recipient_hidden : Nari
-ListDate_hidden  : 1974-09-06
-showdate_hidden  : 2023-09-06
-To_letters       : Nari
-Date_letter      : September 6
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Buffalo
 
 My dear Nari devi dasi:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna, Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna, Bhavananda
-ListDate_hidden  : 1972-09-29
-showdate_hidden  : 2023-09-29
-To_letters       : Tamala Krsna, Bhavananda
-Date_letter      : September 29
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Vrindaban
 
 My dear Tamala Krishna and Bhavananda,

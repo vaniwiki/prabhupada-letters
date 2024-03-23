@@ -9,16 +9,6 @@
 
 ====== Letter to: Abhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Abhirama
-ListDate_hidden  : 1971-11-27
-showdate_hidden  : 2023-11-27
-To_letters       : Abhirama
-Date_letter      : November 27
-Year_letter      : 1971
-Place_letter     : Vrindaban
-----
-
 My dear Abhirama das,
 
 Please accept my blessings. I have received your letter of November 19, 1971, along with sailboat plans, and I have noted the contents carefully. The plans are very nice, and I want that such a "floating ISKCON" be organized, but for financial questions you should consult with my GBC men and together you can chalk out your plan. But one thing, how practical is such a ship with so many sails? I understand that it requires very skilled men to operate such ship, so have we got such experience? Now we have got ships without sails that are also very nice, so is it not more feasible for us to operate one of these more simple ships? What do you think?

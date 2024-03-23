@@ -9,16 +9,6 @@
 
 ====== Letter to: Upendra ======
 
----- dataentry letters ----
-Recipient_hidden : Upendra
-ListDate_hidden  : 1968-11-26
-showdate_hidden  : 2023-11-26
-To_letters       : Upendra
-Date_letter      : November 26
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Upendra,
 
 Please accept my blessings. I have received your letter of Nov. 22 and have noted the contents.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1968-08-19
-showdate_hidden  : 2023-08-19
-To_letters       : Satsvarupa
-Date_letter      : August 19
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 12, 1968, and I have noted the contents carefully. Regarding the missing first 15 chapters, rest assured there will (be) no difficulty to get them back, and I am just remembering where they are lying. Most probably it is in India, so in my next letter, I shall inquire from Acyutananda or if you desire, you can inquire from him, also. His address is, c/o Radha Press, 993/3 Main Road, Gandhi Nagar, Delhi-31.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Panchu ======
 
----- dataentry letters ----
-Recipient_hidden : Panchu
-ListDate_hidden  : 1966-10-11
-showdate_hidden  : 2023-10-11
-To_letters       : Panchu
-Date_letter      : October 11
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 My dear Panchu,
 
 Since I have come to America I have not heard anything from you. In the beginning I had to write two or three letter to your revered father, but I did not receive any reply from him. I therefore did not write him again and still I am anxious to hear about you all. Please therefore let me know how are you all. How is your mother and Bahuma, your wife, and how is your father. I hope everything is alright with you by Grace of Sri Sri Radha Damodara Jeu. Please reply this letter per return post as well as please let me know if you are receiving Rs 5/- per month regularly from the Punjab National Bank Ltd at Vrndavana. I am anxious to know about it.

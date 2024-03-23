@@ -9,16 +9,6 @@
 
 ====== Letter to: Prem J. Batra ======
 
----- dataentry letters ----
-Recipient_hidden : Prem J. Batra
-ListDate_hidden  : 1975-09-28
-showdate_hidden  : 2023-09-28
-To_letters       : Prem J. Batra
-Date_letter      : September 28
-Year_letter      : 1975
-Place_letter     : Ahmedabad
-----
-
 Prem J. Batra\\
 Ruparel College, Sr. B.A.\\
 Matunga, Bombay 400 016

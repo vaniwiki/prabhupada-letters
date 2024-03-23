@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhakta dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Bhakta dasa
-ListDate_hidden  : 1975-02-01
-showdate_hidden  : 2023-02-01
-To_letters       : Bhakta dasa
-Date_letter      : February 1
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 San Francisco
 
 My dear Bhakta das,

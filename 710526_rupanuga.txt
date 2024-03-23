@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1971-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Rupanuga
-Date_letter      : May 26
-Year_letter      : 1971
-Place_letter     : Calcutta
-----
-
 Sriman Rupanuga Das Adhikary; \\
 439 Henry St; Brooklyn, N.Y. 11231
 

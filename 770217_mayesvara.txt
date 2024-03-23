@@ -9,16 +9,6 @@
 
 ====== Letter to: Mayesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Mayesvara
-ListDate_hidden  : 1977-02-17
-showdate_hidden  : 2023-02-17
-To_letters       : Mayesvara
-Date_letter      : February 17
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Mayesvara das Brahmachari\\
 ISKCON\\
 340 West 55th Street,\\

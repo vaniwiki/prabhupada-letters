@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1969-01-28
-showdate_hidden  : 2023-01-28
-To_letters       : Rayarama
-Date_letter      : January 28
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Rayarama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 24, 1969, and I have noted the contents with care. Just yesterday I also received __Back To Godhead,__ no. 22, and it is looking very good. This issue is very nice, and I thank you and all of your hard-working press men for their sincere efforts in this connection. I am confident that this magazine will be improving more and more under your direction.

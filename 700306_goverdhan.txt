@@ -9,16 +9,6 @@
 
 ====== Letter to: Goverdhan ======
 
----- dataentry letters ----
-Recipient_hidden : Goverdhan
-ListDate_hidden  : 1970-03-06
-showdate_hidden  : 2023-03-06
-To_letters       : Goverdhan
-Date_letter      : March 6
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Goverdhan Das (G. Aram Hamamjian),
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 4 March, 1970, together with your beads for chanting Hare Krsna and your request to become my initiated disciple.

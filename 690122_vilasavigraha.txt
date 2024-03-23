@@ -9,16 +9,6 @@
 
 ====== Letter to: Vilasavigraha ======
 
----- dataentry letters ----
-Recipient_hidden : Vilasavigraha
-ListDate_hidden  : 1969-01-22
-showdate_hidden  : 2023-01-22
-To_letters       : Vilasavigraha
-Date_letter      : January 22
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Vilasavigraha dasa,
 
 Please accept my blessings. I am in due receipt of your letter of January 18, 1969, and I have noted the contents.

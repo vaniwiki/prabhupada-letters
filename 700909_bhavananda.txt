@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Bhavananda
-ListDate_hidden  : 1970-09-09
-showdate_hidden  : 2023-09-09
-To_letters       : Bhavananda
-Date_letter      : September 9
-Year_letter      : 1970
-Place_letter     : Calcutta
-----
-
 My dear Bhavananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your very encouraging letter dated August 27th 1970, redirected from Japan. I was anxiously awaiting for this letter because since you have opened the new Temple I received one telegram at Los Angeles inviting me there at New York for which I was very much obliged, but I decided to come to India. I am receiving also many other letters which are not very encouraging in the matter of the activities of the four Sannyasis, so in Calcutta we have come and last Saturday, the 29th August, there was very nice reception at the airport. So at the present moment I am in mixed up condition both encouraging and discouraging.

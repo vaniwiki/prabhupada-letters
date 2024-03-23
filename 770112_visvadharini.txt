@@ -9,16 +9,6 @@
 
 ====== Letter to: Visvadharini ======
 
----- dataentry letters ----
-Recipient_hidden : Visvadharini
-ListDate_hidden  : 1977-01-12
-showdate_hidden  : 2023-01-12
-To_letters       : Visvadharini
-Date_letter      : January 12
-Year_letter      : 1977
-Place_letter     : Allahabad
-----
-
 Bombay
 
 Dear Visvadharini dasi,

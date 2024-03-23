@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1969-01-21
-showdate_hidden  : 2023-01-21
-To_letters       : Jadurani
-Date_letter      : January 21
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Jadurani,
 
 Please accept my blessings. I beg to acknowledge receipt of your undated letter, and also I have seen the nice pictures which you have completed for the "Krishna" book. I was very gratified to see your expert touch in these paintings, and also convey my thanks for Joy Fulcher for her very nice efforts.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1970-12-07
-showdate_hidden  : 2023-12-07
-To_letters       : Mukunda
-Date_letter      : December 7
-Year_letter      : 1970
-Place_letter     : Indore
-----
-
 London
 
 My dear Mukunda,

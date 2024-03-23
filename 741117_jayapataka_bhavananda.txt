@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka, Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka, Bhavananda
-ListDate_hidden  : 1974-11-17
-showdate_hidden  : 2023-11-17
-To_letters       : Jayapataka, Bhavananda
-Date_letter      : November 17
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Mayapur
 
 My dear Jayapataka and Bhavananda Swami:

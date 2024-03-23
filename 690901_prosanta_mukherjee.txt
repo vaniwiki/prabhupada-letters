@@ -9,16 +9,6 @@
 
 ====== Letter to: Prosanta Mukherjee ======
 
----- dataentry letters ----
-Recipient_hidden : Prosanta Mukherjee
-ListDate_hidden  : 1969-09-01
-showdate_hidden  : 2023-09-01
-To_letters       : Prosanta Mukherjee
-Date_letter      : September 1
-Year_letter      : 1969
-Place_letter     : Hamburg
-----
-
 Sri Prosanta Mukherjee\\
 Imlitala, Mahaprabhu's Gadi\\
 Seva Kunj, Vrindaban\\

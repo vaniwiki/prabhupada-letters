@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1967-10-03
-showdate_hidden  : 2023-10-03
-To_letters       : Satsvarupa
-Date_letter      : October 3
-Year_letter      : 1967
-Place_letter     : Delhi
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings, I've not heard from you in a long time. Please convey my blessings to Rayarama, Damodara & others.

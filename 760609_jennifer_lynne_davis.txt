@@ -9,16 +9,6 @@
 
 ====== Letter to: Jennifer Lynne Davis ======
 
----- dataentry letters ----
-Recipient_hidden : Jennifer Lynne Davis
-ListDate_hidden  : 1976-06-09
-showdate_hidden  : 2023-06-09
-To_letters       : Jennifer Lynne Davis
-Date_letter      : June 9
-Year_letter      : 1976
-Place_letter     : Los Angeles
-----
-
 Los Angeles
 
 Bhakti Jennifer Lynne Davis\\

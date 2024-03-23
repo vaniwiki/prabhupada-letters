@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1968-11-07
-showdate_hidden  : 2023-11-07
-To_letters       : Rayarama
-Date_letter      : November 7
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Rayarama,
 
 Please accept my blessings. I have received a very nice letter from England, sent to Mukunda, by an Indian gentleman named Laksmidasa. If it is possible, maybe you can make an editorial column, with letters to the editor or to our various centers, and use it in that way. It is very nice letter and I would like to have it printed in our magazine.

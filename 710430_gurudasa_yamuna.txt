@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa, Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa, Yamuna
-ListDate_hidden  : 1971-04-30
-showdate_hidden  : 2023-04-30
-To_letters       : Gurudasa, Yamuna
-Date_letter      : April 30
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Delhi
 
 My dear Gurudasa and Yamuna,

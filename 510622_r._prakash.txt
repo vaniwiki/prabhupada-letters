@@ -9,16 +9,6 @@
 
 ====== Letter to: R. Prakash ======
 
----- dataentry letters ----
-Recipient_hidden : R. Prakash
-ListDate_hidden  : 1951-06-22
-showdate_hidden  : 2023-06-22
-To_letters       : R. Prakash
-Date_letter      : June 22
-Year_letter      : 1951
-Place_letter     : Allahabad
-----
-
 Sri R. Prakash M.A.\\
 Officer in charge for Social Upliftment & Prohibition\\
 Department N.P. Excise,\\

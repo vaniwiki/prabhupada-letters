@@ -9,16 +9,6 @@
 
 ====== Letter to: Kenneth H. Petchenik ======
 
----- dataentry letters ----
-Recipient_hidden : Kenneth H. Petchenik
-ListDate_hidden  : 1975-03-11
-showdate_hidden  : 2023-03-11
-To_letters       : Kenneth H. Petchenik
-Date_letter      : March 11
-Year_letter      : 1975
-Place_letter     : Bhaktivedanta Manor
-----
-
 Kenneth H. Petchenik\\
 President, Who's Who in America\\
 200 East Ohio Street\\

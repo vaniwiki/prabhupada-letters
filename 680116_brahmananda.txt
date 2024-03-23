@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1968-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Brahmananda
-Date_letter      : January 16
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I am in receipt of your letter of Jan. 11, 1968, along with the letter from Menno Hertzberger and Co. I think this man will not be suitable for printing of our books. I shall be glad to hear from you if you have received any reply from Dia Nippon Printers in Japan. In the letter of Mr. Krimpen it is understood that printing in India, Hong Kong, and such countries is cheaper.

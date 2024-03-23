@@ -9,16 +9,6 @@
 
 ====== Letter to: Embar Sampath Kumarachar ======
 
----- dataentry letters ----
-Recipient_hidden : Embar Sampath Kumarachar
-ListDate_hidden  : 1977-01-05
-showdate_hidden  : 2023-01-05
-To_letters       : Embar Sampath Kumarachar
-Date_letter      : January 5
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 Karantaka
 
 My dear Embar Sampath Kumarchar,

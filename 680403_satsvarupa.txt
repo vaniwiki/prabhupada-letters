@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1968-04-03
-showdate_hidden  : 2023-04-03
-To_letters       : Satsvarupa
-Date_letter      : April 3
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 My dear Satsvarupa,
 
 Accept my blessing. I am in due receipt of your letter of 4/1/68 and I am glad that you have solved the hospital bill of Pradyumna. I am so glad to learn that he is taking part in Istagosthi. His answers are very much intelligent. I have fixed up date for going to N.Y. on the 17th.

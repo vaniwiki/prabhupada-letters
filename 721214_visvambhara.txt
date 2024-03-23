@@ -9,16 +9,6 @@
 
 ====== Letter to: Visvambhara ======
 
----- dataentry letters ----
-Recipient_hidden : Visvambhara
-ListDate_hidden  : 1972-12-14
-showdate_hidden  : 2023-12-14
-To_letters       : Visvambhara
-Date_letter      : December 14
-Year_letter      : 1972
-Place_letter     : Ahmedabad
-----
-
 Montreal
 
 My dear Visvambhara,

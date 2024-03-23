@@ -9,16 +9,6 @@
 
 ====== Letter to: Janardana ======
 
----- dataentry letters ----
-Recipient_hidden : Janardana
-ListDate_hidden  : 1967-04-12
-showdate_hidden  : 2023-04-12
-To_letters       : Janardana
-Date_letter      : April 12
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 My dear Janardana,
 
 I am in due receipt of your very long letter of April 10,1967. On the same day I received also your wife's letter requesting me to pay $300.00 which she gave in loan to the Society. I have at once replied to her letter through Rayarama that the money, $300, which she has given in loan to the Society must be returned to her, and I am glad that you are going to repay next week. If you, however, find any difficulty to repay her, then write to me and I shall manage to send her the $300. Of course it will be difficult for the managers to send $300 while they have lost $6,000. Still, I do not wish to put your wife into trouble for the money which she faithfully loaned to the Society. So kindly let me know that you are going to repay her loan. Otherwise I shall send her the money.

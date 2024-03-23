@@ -9,16 +9,6 @@
 
 ====== Letter to: Aniruddha ======
 
----- dataentry letters ----
-Recipient_hidden : Aniruddha
-ListDate_hidden  : 1971-08-14
-showdate_hidden  : 2023-08-14
-To_letters       : Aniruddha
-Date_letter      : August 14
-Year_letter      : 1971
-Place_letter     : London
-----
-
 San Diego
 
 My dear Aniruddha,

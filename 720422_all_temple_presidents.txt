@@ -9,16 +9,6 @@
 
 ====== Letter to: All Temple Presidents ======
 
----- dataentry letters ----
-Recipient_hidden : All Temple Presidents
-ListDate_hidden  : 1972-04-22
-showdate_hidden  : 2023-04-22
-To_letters       : All Temple Presidents
-Date_letter      : April 22
-Year_letter      : 1972
-Place_letter     : Tokyo
-----
-
 ALL GLORIES TO SRI GURU AND GAURANGA TO ALL TEMPLE PRESIDENTS
 
 Dear Prabhus,

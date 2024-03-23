@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of The Bank of Baroda ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of The Bank of Baroda
-ListDate_hidden  : 1969-08-08
-showdate_hidden  : 2023-08-08
-To_letters       : Manager of The Bank of Baroda
-Date_letter      : August 8
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Manager\\
 THE BANK OF BARODA LTD\\
 856, Chandni Chowk\\

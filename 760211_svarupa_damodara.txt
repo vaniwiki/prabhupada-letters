@@ -9,16 +9,6 @@
 
 ====== Letter to: Svarupa Damodara ======
 
----- dataentry letters ----
-Recipient_hidden : Svarupa Damodara
-ListDate_hidden  : 1976-02-11
-showdate_hidden  : 2023-02-11
-To_letters       : Svarupa Damodara
-Date_letter      : February 11
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Atlanta
 
 My dear Svarupa Damodara,

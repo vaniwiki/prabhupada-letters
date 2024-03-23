@@ -9,16 +9,6 @@
 
 ====== Letter to: Sudama ======
 
----- dataentry letters ----
-Recipient_hidden : Sudama
-ListDate_hidden  : 1971-08-11
-showdate_hidden  : 2023-08-11
-To_letters       : Sudama
-Date_letter      : August 11
-Year_letter      : 1971
-Place_letter     : London
-----
-
 My dear Sudama,
 
 Please accept my blessings. I am in due receipt of your letter dated 4th August, 1971 and have noted the contents. I am very glad to hear that Kartikeya Swami has changed his mind and is wanting to preach also. If he can go to South America that will be very nice. And he should take to preaching very seriously. A sannyasa should be strong minded, not childish.

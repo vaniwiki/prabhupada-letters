@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaurasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Gaurasundara
-ListDate_hidden  : 1968-12-02
-showdate_hidden  : 2023-12-02
-To_letters       : Gaurasundara
-Date_letter      : December 2
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Gaurasundara,
 
 Please accept my blessings. I have just today received your most recent letter of November 30th, 1968 and have noted the contents with pleasure. We have registered the Hawaii address given by you.

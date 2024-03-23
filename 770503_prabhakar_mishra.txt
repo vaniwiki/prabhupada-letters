@@ -9,16 +9,6 @@
 
 ====== Letter to: Prabhakar Mishra ======
 
----- dataentry letters ----
-Recipient_hidden : Prabhakar Mishra
-ListDate_hidden  : 1977-05-03
-showdate_hidden  : 2023-05-03
-To_letters       : Prabhakar Mishra
-Date_letter      : May 3
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sri Prabhakar Mishra, \\
 F-91, Kirtinagar, \\
 New Delhi-15

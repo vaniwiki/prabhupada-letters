@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Punja ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Punja
-ListDate_hidden  : 1975-05-11
-showdate_hidden  : 2023-05-11
-To_letters       : Mr. Punja
-Date_letter      : May 11
-Year_letter      : 1975
-Place_letter     : Perth
-----
-
 Lautoka, Fiji
 
 My dear Mr. Punja,

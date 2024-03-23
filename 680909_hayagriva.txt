@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1968-09-09
-showdate_hidden  : 2023-09-09
-To_letters       : Hayagriva
-Date_letter      : September 9
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. And I hope by this time you have reached your headquarters, at Wheeling, and I hope you are feeling well. And you have taken the dictaphone. Now immediate task is that you revise the 1st, 2nd, 3rd volumes of Srimad-Bhagavatam. As soon as they are revised, we shall immediately print in one volume. Just we are going to print, volume one means canto one. So then you take up the second part, second canto, and keep along with you Pradyumna; he will help you in marking diacritic signs on the original verses, and be always in correspondence with me. And be seriously engaged in this task, and it will be a great service to Krishna. And try to finish the last act of Caitanya Caritamrta also.

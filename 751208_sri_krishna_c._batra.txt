@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Krishna C. Batra ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Krishna C. Batra
-ListDate_hidden  : 1975-12-08
-showdate_hidden  : 2023-12-08
-To_letters       : Sri Krishna C. Batra
-Date_letter      : December 8
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Sri Krishna C. Batra\\
 Sri Aurobindo Ashram,\\
 Pondicherry---605002

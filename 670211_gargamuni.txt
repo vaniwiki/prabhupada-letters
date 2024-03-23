@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1967-02-11
-showdate_hidden  : 2023-02-11
-To_letters       : Gargamuni
-Date_letter      : February 11
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Gargamuni,
 
 I am anxious to hear from you about the clogging of the tapes in dictaphone. Please ask the supplier why it is clogging at the end say from .25 to .30 situation. How to solve this problem. Please let me know. I have now only one tape with me and what about the others. I shall be glad to hear from you.

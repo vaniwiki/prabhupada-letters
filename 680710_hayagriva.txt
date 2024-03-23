@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1968-07-10
-showdate_hidden  : 2023-07-10
-To_letters       : Hayagriva
-Date_letter      : July 10
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 New Vrindaban
 
 My dear Hayagriva,

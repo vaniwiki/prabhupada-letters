@@ -9,16 +9,6 @@
 
 ====== Letter to: Rukmini ======
 
----- dataentry letters ----
-Recipient_hidden : Rukmini
-ListDate_hidden  : 1969-01-31
-showdate_hidden  : 2023-01-31
-To_letters       : Rukmini
-Date_letter      : January 31
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Rukmini,
 
 Please accept my blessings. I am in due receipt of your letter dated January 23, 1969, and also I have seen your wonderful portrait of my Guru Maharaja. This picture is a great joy to me, and it is now hanging in my room in the temple where I may always gaze upon it. I thank you so much for your sincere service, and i am very much encouraged that you are already a nice artist, and what to speak of the improvements you will make with further practice.

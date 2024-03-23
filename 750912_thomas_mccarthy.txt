@@ -9,16 +9,6 @@
 
 ====== Letter to: Thomas McCarthy ======
 
----- dataentry letters ----
-Recipient_hidden : Thomas McCarthy
-ListDate_hidden  : 1975-09-12
-showdate_hidden  : 2023-09-12
-To_letters       : Thomas McCarthy
-Date_letter      : September 12
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Mr. Thomas McCarthy\\
 P.O. Box 446\\
 Kapaa, Kauai\\

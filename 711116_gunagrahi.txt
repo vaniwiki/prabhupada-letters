@@ -9,16 +9,6 @@
 
 ====== Letter to: Gunagrahi ======
 
----- dataentry letters ----
-Recipient_hidden : Gunagrahi
-ListDate_hidden  : 1971-11-16
-showdate_hidden  : 2023-11-16
-To_letters       : Gunagrahi
-Date_letter      : November 16
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 Buffalo
 
 My dear Gunagrahi,

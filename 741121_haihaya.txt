@@ -9,16 +9,6 @@
 
 ====== Letter to: Haihaya ======
 
----- dataentry letters ----
-Recipient_hidden : Haihaya
-ListDate_hidden  : 1974-11-21
-showdate_hidden  : 2023-11-21
-To_letters       : Haihaya
-Date_letter      : November 21
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Rome
 
 My dear Haihaya das:

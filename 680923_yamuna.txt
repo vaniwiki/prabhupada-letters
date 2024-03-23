@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna
-ListDate_hidden  : 1968-09-23
-showdate_hidden  : 2023-09-23
-To_letters       : Yamuna
-Date_letter      : September 23
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Yamuna,
 
 Please accept my blessings. I am in due receipt of your letter dated Sept. 15, 1968, Sept. 21, along with the nice news clipping, and I am so glad to note your feelings of Krishna Consciousness gradually increasing. It is all Krishna's Mercy upon you for your sincere mode of service; please keep this attitude and you will be happy more and more.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Bahulasva das ======
 
----- dataentry letters ----
-Recipient_hidden : Bahulasva das
-ListDate_hidden  : 1976-09-29
-showdate_hidden  : 2023-09-29
-To_letters       : Bahulasva das
-Date_letter      : September 29
-Year_letter      : 1976
-Place_letter     : 
-----
-
 Sriman Bahulasva das,\\
 9712 Charnock Ave.\\
 Los Angeles,\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dinanatha Misra ======
 
----- dataentry letters ----
-Recipient_hidden : Dinanatha Misra
-ListDate_hidden  : 1975-05-19
-showdate_hidden  : 2023-05-19
-To_letters       : Dinanatha Misra
-Date_letter      : May 19
-Year_letter      : 1975
-Place_letter     : Melbourne
-----
-
 Dinanatha Misra, M.A.B.L. Pleader\\
 Somewhere in the junction of\\
 Chittaranjan Ave. and Balarama De St.\\

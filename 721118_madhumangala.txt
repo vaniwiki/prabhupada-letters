@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhumangala ======
 
----- dataentry letters ----
-Recipient_hidden : Madhumangala
-ListDate_hidden  : 1972-11-18
-showdate_hidden  : 2023-11-18
-To_letters       : Madhumangala
-Date_letter      : November 18
-Year_letter      : 1972
-Place_letter     : Hyderabad
-----
-
 Amsterdam
 
 My dear Madhumangala,

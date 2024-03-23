@@ -9,16 +9,6 @@
 
 ====== Letter to: Subhavilasa ======
 
----- dataentry letters ----
-Recipient_hidden : Subhavilasa
-ListDate_hidden  : 1976-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Subhavilasa
-Date_letter      : January 10
-Year_letter      : 1976
-Place_letter     : Bombay
-----
-
 My dear SubhaVilasa,
 
 Please accept my blessings. I received your letter and I gave it to my secretary with instructions to reply it.

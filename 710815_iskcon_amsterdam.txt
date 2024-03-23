@@ -9,16 +9,6 @@
 
 ====== Letter to: ISKCON Amsterdam ======
 
----- dataentry letters ----
-Recipient_hidden : ISKCON Amsterdam
-ListDate_hidden  : 1971-08-15
-showdate_hidden  : 2023-08-15
-To_letters       : ISKCON Amsterdam
-Date_letter      : August 15
-Year_letter      : 1971
-Place_letter     : London
-----
-
 TO ISKCON AMSTERDAM:
 
 My dear Bala Gopala, Robert, Douglas, David, Jan, Jean, Vivienne, Thop, Madhavi Lata, Robert, Vivienne Dich, Robert Taylor, May, Dhananjaya, Geraldine, etc.

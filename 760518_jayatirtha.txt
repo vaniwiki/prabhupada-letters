@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1976-05-18
-showdate_hidden  : 2023-05-18
-To_letters       : Jayatirtha
-Date_letter      : May 18
-Year_letter      : 1976
-Place_letter     : Honolulu
-----
-
 Bhaktivedanta Manor
 
 My dear Jayatirtha Das,

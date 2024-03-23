@@ -9,16 +9,6 @@
 
 ====== Letter to: Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen) ======
 
----- dataentry letters ----
-Recipient_hidden : Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen)
-ListDate_hidden  : 1972-12-27
-showdate_hidden  : 2023-12-27
-To_letters       : Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen)
-Date_letter      : December 27
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Boston
 
 My dear Sons and Daughter,

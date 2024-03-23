@@ -9,16 +9,6 @@
 
 ====== Letter to: Sriman Bankaji ======
 
----- dataentry letters ----
-Recipient_hidden : Sriman Bankaji
-ListDate_hidden  : 1970-03-13
-showdate_hidden  : 2023-03-13
-To_letters       : Sriman Bankaji
-Date_letter      : March 13
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Gita Press\\
 Gorakhpur, India
 

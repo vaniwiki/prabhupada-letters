@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1967-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Kirtanananda
-Date_letter      : February 15
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Kirtanananda,
 
 Your absence from New York is not advisable while I am not there. Therefore I have postponed your journey to Montreal. Please take care of the bill of Lading for clearing the Mrdangas. I think the ship Jaladuta must be reaching New York by this time. Please do the needful and clear the valuable goods. Hope you are all well.

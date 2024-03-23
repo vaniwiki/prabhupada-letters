@@ -9,16 +9,6 @@
 
 ====== Letter to: Jitadusana ======
 
----- dataentry letters ----
-Recipient_hidden : Jitadusana
-ListDate_hidden  : 1976-11-20
-showdate_hidden  : 2023-11-20
-To_letters       : Jitadusana
-Date_letter      : November 20
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Los Angeles
 
 My dear Jitadusana,

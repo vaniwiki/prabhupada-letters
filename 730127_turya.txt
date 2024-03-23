@@ -9,16 +9,6 @@
 
 ====== Letter to: Turya ======
 
----- dataentry letters ----
-Recipient_hidden : Turya
-ListDate_hidden  : 1973-01-27
-showdate_hidden  : 2023-01-27
-To_letters       : Turya
-Date_letter      : January 27
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 Mexico City
 
 My dear Turya dasa,

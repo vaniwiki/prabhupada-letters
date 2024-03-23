@@ -9,16 +9,6 @@
 
 ====== Letter to: Balavanta ======
 
----- dataentry letters ----
-Recipient_hidden : Balavanta
-ListDate_hidden  : 1977-01-04
-showdate_hidden  : 2023-01-04
-To_letters       : Balavanta
-Date_letter      : January 4
-Year_letter      : 1977
-Place_letter     : Bombay
-----
-
 My dear Balavanta,
 
 Please accept my blessings. I am in due receipt of your letter dated Dec. 27, 1976 and have noted the contents.

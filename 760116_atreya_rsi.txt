@@ -9,16 +9,6 @@
 
 ====== Letter to: Atreya Rsi ======
 
----- dataentry letters ----
-Recipient_hidden : Atreya Rsi
-ListDate_hidden  : 1976-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Atreya Rsi
-Date_letter      : January 16
-Year_letter      : 1976
-Place_letter     : Calcutta
-----
-
 My dear Atreya Rsi,
 
 Please accept my blessings.

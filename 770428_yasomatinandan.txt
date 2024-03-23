@@ -9,16 +9,6 @@
 
 ====== Letter to: Yasomatinandan ======
 
----- dataentry letters ----
-Recipient_hidden : Yasomatinandan
-ListDate_hidden  : 1977-04-28
-showdate_hidden  : 2023-04-28
-To_letters       : Yasomatinandan
-Date_letter      : April 28
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sriman Yasomatinandan das Adhikari\\
 c/o ISKCON Ahmedabad
 

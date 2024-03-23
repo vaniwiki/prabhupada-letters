@@ -9,16 +9,6 @@
 
 ====== Letter to: Pusta Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Pusta Krsna
-ListDate_hidden  : 1973-04-11
-showdate_hidden  : 2023-04-11
-To_letters       : Pusta Krsna
-Date_letter      : April 11
-Year_letter      : 1973
-Place_letter     : New York
-----
-
 My dear Pusta Krsna Maharaja:
 
 Please accept my blessings. I have been informed of the situation of the South African program by Brahmananda Swami who is here with me now as personal secretary, and I want to send you there. There is one boy there Ksudhi Dasa who is very young boy, so I want you to go there to take charge of the preaching program there in Durban.

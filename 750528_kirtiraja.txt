@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtiraja ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtiraja
-ListDate_hidden  : 1975-05-28
-showdate_hidden  : 2023-05-28
-To_letters       : Kirtiraja
-Date_letter      : May 28
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Los Angeles
 
 My dear Kirtiraja dasa,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Pranaba ======
 
----- dataentry letters ----
-Recipient_hidden : Pranaba
-ListDate_hidden  : 1977-02-01
-showdate_hidden  : 2023-02-01
-To_letters       : Pranaba
-Date_letter      : February 1
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sriman Pranaba das\\
 ISKCON, 4544 Laclede\\
 St. Louis, Mo.63108USA

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dvarakesa ======
 
----- dataentry letters ----
-Recipient_hidden : Dvarakesa
-ListDate_hidden  : 1976-09-29
-showdate_hidden  : 2023-09-29
-To_letters       : Dvarakesa
-Date_letter      : September 29
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Stockholm
 
 My dear Dvarakesa,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Whom it may concern ======
 
----- dataentry letters ----
-Recipient_hidden : Whom it may concern
-ListDate_hidden  : 1971-03-14
-showdate_hidden  : 2023-03-14
-To_letters       : Whom it may concern
-Date_letter      : March 14
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 __TO WHOM IT MAY CONCERN__
 
 Resolved in a meeting of the International Society For Krishna Consciousness held in Calcutta at 3, Albert Road, Calcutta 16 in the presence of the Acarya Srila A.C. Bhaktivedanta Swami Prabhupada, GBC Secretary Tamala Krishna Das Adhikari and initiated members as Ksirodakasayi Das Adhikari (Kedar Natha Gupta) and Revatinandana Das Brahmacari (Robert Stephen Cusimano) that a checking account of the society be opened in Central Bank of India, Delhi and Ksirodakasayi Das Adhikari (Kedar Natha Gupta) and Revatinandana Das Brahmacari (Robert Stephen Cusimano) will jointly sign the checks. Their specimen signatures are as under.

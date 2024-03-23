@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhargava ======
 
----- dataentry letters ----
-Recipient_hidden : Bhargava
-ListDate_hidden  : 1972-06-13
-showdate_hidden  : 2023-06-13
-To_letters       : Bhargava
-Date_letter      : June 13
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 New York
 
 My dear Bhargava,

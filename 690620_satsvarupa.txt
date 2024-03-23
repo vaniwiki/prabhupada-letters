@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1969-06-20
-showdate_hidden  : 2023-06-20
-To_letters       : Satsvarupa
-Date_letter      : June 20
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 My dear Satsvarupa,
 
 Please accept by blessings. I am in due receipt of your letter dated June 18, 1969, and I have noted the contents. The pictures you have sent are very nice, and they shall be published in __BTG.__ Regarding Madan Mohan, I understand that he would like to remain in Boston, but previously he was indexing __Bhagavad-gita As It Is.__ If he is able to work there on this project, I have no objection. Otherwise he may come back to New York. Sometimes, out of their own accord, devotees decide to leave a center, but this is not a good practice. If he can continue his indexing work there, then he may remain in Boston.

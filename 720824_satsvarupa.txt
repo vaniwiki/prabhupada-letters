@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1972-08-24
-showdate_hidden  : 2023-08-24
-To_letters       : Satsvarupa
-Date_letter      : August 24
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated August 20 and August 22, 1972 and I have noted the contents carefully. Regarding my coming there, yes, I shall be very glad to attend the Dallas Gurukula immediately departing Pittsburgh I can go there for about 3 days on my way to Los Angeles. So you should be prepared to provide for airline tickets from Pittsburgh to Dallas for myself and my three secretaries. Then we shall see how the things are going on there, and I am very much looking forward to that day. The tickets may be sent here to Los Angeles address as soon as possible.

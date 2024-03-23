@@ -9,16 +9,6 @@
 
 ====== Letter to: Sivananda ======
 
----- dataentry letters ----
-Recipient_hidden : Sivananda
-ListDate_hidden  : 1968-12-17
-showdate_hidden  : 2023-12-17
-To_letters       : Sivananda
-Date_letter      : December 17
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Sivananda,
 
 Please accept my blessings. I have just received your letter dated December 14, 1968 and I have noted the contents with some surprise.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Makhanlal ======
 
----- dataentry letters ----
-Recipient_hidden : Makhanlal
-ListDate_hidden  : 1968-10-21
-showdate_hidden  : 2023-10-21
-To_letters       : Makhanlal
-Date_letter      : October 21
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Makhanlal,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter without date, but I am sorry that I am late in replying to your letter. I have received a report of Krishna Devi giving birth to a tiny daughter, and I have already sent my congratulation to her. Krishna has saved her child and herself also, because it is the promise of Krishna that his devotees are always protected by the Lord.

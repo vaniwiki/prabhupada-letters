@@ -9,16 +9,6 @@
 
 ====== Letter to: Rajni ======
 
----- dataentry letters ----
-Recipient_hidden : Rajni
-ListDate_hidden  : 1976-11-11
-showdate_hidden  : 2023-11-11
-To_letters       : Rajni
-Date_letter      : November 11
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Bangkok
 
 My dear Rajni,

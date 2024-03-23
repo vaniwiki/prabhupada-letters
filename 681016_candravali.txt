@@ -9,16 +9,6 @@
 
 ====== Letter to: Candravali ======
 
----- dataentry letters ----
-Recipient_hidden : Candravali
-ListDate_hidden  : 1968-10-16
-showdate_hidden  : 2023-10-16
-To_letters       : Candravali
-Date_letter      : October 16
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Candrabali,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of Oct. 16, 1968, and I thank you very much for your questions. You are always at liberty to inquiry from me about all such questions in the Srimad-Bhagavatam, Bhagavad-gita, and I am so glad that you are reading all these books so carefully. That is our business---we shall chant Hare Krishna or read Srimad-Bhagavatam or or associate with devotees in the temple, so that program shall go on continually for constantly remembering Krishna, and we shall not forget Him, even for a moment.

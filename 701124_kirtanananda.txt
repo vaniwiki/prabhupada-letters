@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1970-11-24
-showdate_hidden  : 2023-11-24
-To_letters       : Kirtanananda
-Date_letter      : November 24
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 His Grace Kirtanananda Swami \\
 c/o Dr. R.P. Rao, Reader in Chemistry \\
 University of Gorakhpur\\

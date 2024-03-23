@@ -9,16 +9,6 @@
 
 ====== Letter to: Mahavirya ======
 
----- dataentry letters ----
-Recipient_hidden : Mahavirya
-ListDate_hidden  : 1975-09-07
-showdate_hidden  : 2023-09-07
-To_letters       : Mahavirya
-Date_letter      : September 7
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Hyderabad
 
 Dear Mahavirya das:

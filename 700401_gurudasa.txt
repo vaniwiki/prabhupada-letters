@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1970-04-01
-showdate_hidden  : 2023-04-01
-To_letters       : Gurudasa
-Date_letter      : April 1
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Gurudasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 24th March, 1970. I understand that the Lord Caitanya's Birthday procession was very, very nice and similarly in San Francisco also they took out a procession in the street, and it is understood that 4000 to 5000 people participated. So this is another introduction to our Krsna Consciousness Movement.

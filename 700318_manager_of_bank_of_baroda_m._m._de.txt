@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of Bank of Baroda, M. M. De ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of Bank of Baroda, M. M. De
-ListDate_hidden  : 1970-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Manager of Bank of Baroda, M. M. De
-Date_letter      : March 18
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Manager\\
 Bank of Baroda (Calcutta Branch)\\
 P.O. Box No. 313\\

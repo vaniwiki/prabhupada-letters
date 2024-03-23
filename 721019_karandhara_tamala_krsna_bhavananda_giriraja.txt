@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara, Tamala Krsna, Bhavananda, Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara, Tamala Krsna, Bhavananda, Giriraja
-ListDate_hidden  : 1972-10-19
-showdate_hidden  : 2023-10-19
-To_letters       : Karandhara, Tamala Krsna, Bhavananda, Giriraja
-Date_letter      : October 19
-Year_letter      : 1972
-Place_letter     : Vrindaban
-----
-
 Bombay
 
 My dear Karandhara, Tamala Krishna, Bhavananda and Giriraja,

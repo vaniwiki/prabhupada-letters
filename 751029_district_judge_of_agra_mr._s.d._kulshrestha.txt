@@ -9,16 +9,6 @@
 
 ====== Letter to: District Judge of Agra, Mr. S.D. Kulshrestha ======
 
----- dataentry letters ----
-Recipient_hidden : District Judge of Agra, Mr. S.D. Kulshrestha
-ListDate_hidden  : 1975-10-29
-showdate_hidden  : 2023-10-29
-To_letters       : District Judge of Agra, Mr. S.D. Kulshrestha
-Date_letter      : October 29
-Year_letter      : 1975
-Place_letter     : Nairobi
-----
-
 District Judge of Agra\\
 Through his Personal Assistant\\
 Mr. S.D. Kulshrestha\\

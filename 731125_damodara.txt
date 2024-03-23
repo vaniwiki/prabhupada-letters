@@ -9,16 +9,6 @@
 
 ====== Letter to: Damodara ======
 
----- dataentry letters ----
-Recipient_hidden : Damodara
-ListDate_hidden  : 1973-11-25
-showdate_hidden  : 2023-11-25
-To_letters       : Damodara
-Date_letter      : November 25
-Year_letter      : 1973
-Place_letter     : Letchmore Heath
-----
-
 My dear Damodara Das Prabhu,
 
 Please accept my blessings.

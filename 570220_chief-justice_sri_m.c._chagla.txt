@@ -9,16 +9,6 @@
 
 ====== Letter to: Chief-Justice Sri M.C. Chagla ======
 
----- dataentry letters ----
-Recipient_hidden : Chief-Justice Sri M.C. Chagla
-ListDate_hidden  : 1957-02-20
-showdate_hidden  : 2023-02-20
-To_letters       : Chief-Justice Sri M.C. Chagla
-Date_letter      : February 20
-Year_letter      : 1957
-Place_letter     : Bombay
-----
-
 The Hon'ble Mr. Chief-Justice Sri M.C. Chagla\\
 Chief Justice House,\\
 Harkisan Road,\\

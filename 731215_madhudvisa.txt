@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1973-12-15
-showdate_hidden  : 2023-12-15
-To_letters       : Madhudvisa
-Date_letter      : December 15
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. I am in receipt of your letter dated December 11, 1973. Thank you for the comprehensive report of our Australian theater of ISKCON. I am glad that things are going nicely and that you have settled up the New Zealand affair. Depend on Krsna and He will give you good intelligence. I am pleased that you are managing things so nicely.

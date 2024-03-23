@@ -9,16 +9,6 @@
 
 ====== Letter to: Advaita ======
 
----- dataentry letters ----
-Recipient_hidden : Advaita
-ListDate_hidden  : 1969-11-15
-showdate_hidden  : 2023-11-15
-To_letters       : Advaita
-Date_letter      : November 15
-Year_letter      : 1969
-Place_letter     : London
-----
-
 My dear Advaita,
 
 Please accept my blessings. I thank you very much for your letter dated November 2, 1969 and the booklet of essays. There are improvements to be made because the essays are not adjusted on the right side. Besides that, it is being printed not on glazed paper. The photograph has not come out very distinctly. Also the cost is not very satisfactory. The Dai Nippon company is printing our __BTG__ at 10 cents, but the size is bigger, the papers are more, there are color pictures and glazed paper. In that comparison, 6 cents cost is not very favorable. You have also printed 20,000. Anyway, it is printed in our press. If the cost is equal or little more, we do not mind. But from business point of view you should note down the points.

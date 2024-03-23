@@ -9,16 +9,6 @@
 
 ====== Letter to: Vrndavana Candra ======
 
----- dataentry letters ----
-Recipient_hidden : Vrndavana Candra
-ListDate_hidden  : 1970-01-09
-showdate_hidden  : 2023-01-09
-To_letters       : Vrndavana Candra
-Date_letter      : January 9
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Philadelphia
 
 My dear Vrndavana Candra,

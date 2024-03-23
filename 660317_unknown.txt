@@ -9,16 +9,6 @@
 
 ====== Letter to: Unknown ======
 
----- dataentry letters ----
-Recipient_hidden : Unknown
-ListDate_hidden  : 1966-03-17
-showdate_hidden  : 2023-03-17
-To_letters       : Unknown
-Date_letter      : March 17
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Mr. Martin the Finance Secretary seen today personally. Requested him to 4:80 per dollar in exchange. He formally agreed and will get it confirmed from sender and let me know finally. It is good news.
 
 ACB

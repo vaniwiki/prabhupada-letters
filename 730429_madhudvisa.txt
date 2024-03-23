@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1973-04-29
-showdate_hidden  : 2023-04-29
-To_letters       : Madhudvisa
-Date_letter      : April 29
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated nil and have noted the contents. Your letter has been forwarded to London, New York, and then to here. Regarding Sudama Vipra I have heard that he is in South America, but would like to have it confirmed so please write me in this regard. But you should stay there in Australia; it is not necessary for you to go to China.

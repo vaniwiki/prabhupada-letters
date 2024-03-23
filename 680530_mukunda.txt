@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1968-05-30
-showdate_hidden  : 2023-05-30
-To_letters       : Mukunda
-Date_letter      : May 30
-Year_letter      : 1968
-Place_letter     : Boston
-----
-
 Los Angeles
 
 My dear Mukunda,

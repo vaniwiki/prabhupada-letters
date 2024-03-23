@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna
-ListDate_hidden  : 1970-09-16
-showdate_hidden  : 2023-09-16
-To_letters       : Yamuna
-Date_letter      : September 16
-Year_letter      : 1970
-Place_letter     : Calcutta
-----
-
 My dear Yamuna,
 
 Please accept my blessings. I am so much pleased to receive your letter dated Hrsikesa 22, 484 Caitanya Era and I am so glad to learn that our London Temple is very, very well managed under your supervision. Kindly continue this standard of Temple management---that will make me very happy.

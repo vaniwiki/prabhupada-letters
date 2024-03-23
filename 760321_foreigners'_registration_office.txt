@@ -9,16 +9,6 @@
 
 ====== Letter to: Foreigners’ Registration Office ======
 
----- dataentry letters ----
-Recipient_hidden : Foreigners’ Registration Office
-ListDate_hidden  : 1976-03-21
-showdate_hidden  : 2023-03-21
-To_letters       : Foreigners’ Registration Office
-Date_letter      : March 21
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Foreigners' Registration Office,\\
 Calcutta
 

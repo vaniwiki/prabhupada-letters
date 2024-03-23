@@ -9,16 +9,6 @@
 
 ====== Letter to: Sacisuta ======
 
----- dataentry letters ----
-Recipient_hidden : Sacisuta
-ListDate_hidden  : 1968-05-30
-showdate_hidden  : 2023-05-30
-To_letters       : Sacisuta
-Date_letter      : May 30
-Year_letter      : 1968
-Place_letter     : Boston
-----
-
 My dear Sacisuta,
 
 Please accept my blessings. I am very glad to receive your letter dated May 26, 1968, along with beads, and I am so pleased that you are seeking for being initiated. So, after due chanting I am sending both your beads by separate first class post parcel. Receive it and chant without any offense. The 10 kinds of offenses are like this:

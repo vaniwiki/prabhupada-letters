@@ -9,16 +9,6 @@
 
 ====== Letter to: Uttamasloka ======
 
----- dataentry letters ----
-Recipient_hidden : Uttamasloka
-ListDate_hidden  : 1975-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Uttamasloka
-Date_letter      : January 16
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Toronto
 
 My dear Uttamasloka das,

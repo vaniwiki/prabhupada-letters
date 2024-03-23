@@ -9,16 +9,6 @@
 
 ====== Letter to: Pranava ======
 
----- dataentry letters ----
-Recipient_hidden : Pranava
-ListDate_hidden  : 1974-10-11
-showdate_hidden  : 2023-10-11
-To_letters       : Pranava
-Date_letter      : October 11
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Vrindaban
 
 My dear Pranava das:

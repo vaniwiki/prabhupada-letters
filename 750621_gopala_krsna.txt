@@ -9,16 +9,6 @@
 
 ====== Letter to: Gopala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Gopala Krsna
-ListDate_hidden  : 1975-06-21
-showdate_hidden  : 2023-06-21
-To_letters       : Gopala Krsna
-Date_letter      : June 21
-Year_letter      : 1975
-Place_letter     : Los Angeles
-----
-
 Bombay
 
 My dear Gopala Krishna das:

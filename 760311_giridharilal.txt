@@ -9,16 +9,6 @@
 
 ====== Letter to: Giridharilal ======
 
----- dataentry letters ----
-Recipient_hidden : Giridharilal
-ListDate_hidden  : 1976-03-11
-showdate_hidden  : 2023-03-11
-To_letters       : Giridharilal
-Date_letter      : March 11
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Delhi
 
 My dear Giridharilal,

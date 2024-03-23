@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1967-10-11
-showdate_hidden  : 2023-10-11
-To_letters       : Rayarama
-Date_letter      : October 11
-Year_letter      : 1967
-Place_letter     : Calcutta
-----
-
 My dear Rayarama,
 
 I am in due receipt of your letter. Yes you try to make successful BTG as you have recently planned and then you may proceed to London. And because you are so engaged I asked Kirtanananda to go to London on his way back but he did not like the idea and has gone back to New York directly without any reason. Please send me some stationery and copies of Back to Godhead to my Calcutta address by Air mail immediately.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Alain ======
 
----- dataentry letters ----
-Recipient_hidden : Alain
-ListDate_hidden  : 1976-02-01
-showdate_hidden  : 2023-02-01
-To_letters       : Alain
-Date_letter      : February 1
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Paris
 
 My dear Alain,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Niranjana ======
 
----- dataentry letters ----
-Recipient_hidden : Niranjana
-ListDate_hidden  : 1972-11-01
-showdate_hidden  : 2023-11-01
-To_letters       : Niranjana
-Date_letter      : November 1
-Year_letter      : 1972
-Place_letter     : Vrindaban
-----
-
 Saugor, India
 
 My dear Niranjana,

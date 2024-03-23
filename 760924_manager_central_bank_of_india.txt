@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager, Central Bank of India ======
 
----- dataentry letters ----
-Recipient_hidden : Manager, Central Bank of India
-ListDate_hidden  : 1976-09-24
-showdate_hidden  : 2023-09-24
-To_letters       : Manager, Central Bank of India
-Date_letter      : September 24
-Year_letter      : 1976
-Place_letter     : 
-----
-
 The Manager,\\
 Central Bank of India,\\
 10 Camac Street,\\

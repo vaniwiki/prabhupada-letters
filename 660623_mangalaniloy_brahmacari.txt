@@ -9,16 +9,6 @@
 
 ====== Letter to: Mangalaniloy Brahmacari ======
 
----- dataentry letters ----
-Recipient_hidden : Mangalaniloy Brahmacari
-ListDate_hidden  : 1966-06-23
-showdate_hidden  : 2023-06-23
-To_letters       : Mangalaniloy Brahmacari
-Date_letter      : June 23
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 My dear Brahmacari Mangalniloy,
 
 Please accept my dandabats. I am in due receipt of your letter of the 16th instant and have noted the contents carefully. Please let me know if I will have to send you money for the articles like Mrdanga etc. If so kindly let me know the respective price.

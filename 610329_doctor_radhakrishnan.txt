@@ -9,16 +9,6 @@
 
 ====== Letter to: Doctor Radhakrishnan ======
 
----- dataentry letters ----
-Recipient_hidden : Doctor Radhakrishnan
-ListDate_hidden  : 1961-03-29
-showdate_hidden  : 2023-03-29
-To_letters       : Doctor Radhakrishnan
-Date_letter      : March 29
-Year_letter      : 1961
-Place_letter     : Delhi
-----
-
 My dear Doctor Radhakrishnan,
 
 I beg to acknowledge receipt with thanks your letter of the 24th instant and have noted the contents. I have come back from Cuttack on the 26th night.

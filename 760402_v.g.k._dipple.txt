@@ -9,16 +9,6 @@
 
 ====== Letter to: V. G. K. Dipple ======
 
----- dataentry letters ----
-Recipient_hidden : V. G. K. Dipple
-ListDate_hidden  : 1976-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : V. G. K. Dipple
-Date_letter      : April 2
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 V.G.K. Dipple,\\
 9 Kensington-Garden-Square,\\
 London W-24Bh,\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Visnuprasada N. Decai ======
 
----- dataentry letters ----
-Recipient_hidden : Visnuprasada N. Decai
-ListDate_hidden  : 1975-01-02
-showdate_hidden  : 2023-01-02
-To_letters       : Visnuprasada N. Decai
-Date_letter      : January 2
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Visnuprasada N. Decai\\
 Chairman, Managing Comt.\\
 Fourteen Co-op Housing Society\\

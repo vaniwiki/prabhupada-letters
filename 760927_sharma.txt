@@ -9,16 +9,6 @@
 
 ====== Letter to: Sharma ======
 
----- dataentry letters ----
-Recipient_hidden : Sharma
-ListDate_hidden  : 1976-09-27
-showdate_hidden  : 2023-09-27
-To_letters       : Sharma
-Date_letter      : September 27
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Nairobi
 
 My dear Sharma,

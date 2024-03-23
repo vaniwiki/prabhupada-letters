@@ -9,16 +9,6 @@
 
 ====== Letter to: Sridama ======
 
----- dataentry letters ----
-Recipient_hidden : Sridama
-ListDate_hidden  : 1971-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Sridama
-Date_letter      : February 15
-Year_letter      : 1971
-Place_letter     : Gorakhpur
-----
-
 Miami
 
 My dear Sridama,

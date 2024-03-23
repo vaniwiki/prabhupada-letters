@@ -9,16 +9,6 @@
 
 ====== Letter to: K. M. Munshi ======
 
----- dataentry letters ----
-Recipient_hidden : K. M. Munshi
-ListDate_hidden  : 1957-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : K. M. Munshi
-Date_letter      : February 21
-Year_letter      : 1957
-Place_letter     : Bombay
-----
-
 Sri K.M. Munshi,\\
 Governor of Uttar Pradesh,\\
 Raj Bhavan, __LUCKNOW.__

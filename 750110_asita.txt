@@ -9,16 +9,6 @@
 
 ====== Letter to: Asita ======
 
----- dataentry letters ----
-Recipient_hidden : Asita
-ListDate_hidden  : 1975-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Asita
-Date_letter      : January 10
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Sri Caitanya Gaudiya Math\\
 Gaura Bat Sahta Road\\
 Swargadwar, Puri Orissa 1752001

@@ -9,16 +9,6 @@
 
 ====== Letter to: Swarupa Damodar ======
 
----- dataentry letters ----
-Recipient_hidden : Swarupa Damodar
-ListDate_hidden  : 1977-01-24
-showdate_hidden  : 2023-01-24
-To_letters       : Swarupa Damodar
-Date_letter      : January 24
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Sriman Swarupa Damodar das Brahmachary\\
 c/o ISKCON/ Hare Krishna Land\\
 Juhu Beach, Bombay 400 054

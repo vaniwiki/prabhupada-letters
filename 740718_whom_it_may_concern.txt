@@ -9,16 +9,6 @@
 
 ====== Letter to: Whom it may concern ======
 
----- dataentry letters ----
-Recipient_hidden : Whom it may concern
-ListDate_hidden  : 1974-07-18
-showdate_hidden  : 2023-07-18
-To_letters       : Whom it may concern
-Date_letter      : July 18
-Year_letter      : 1974
-Place_letter     : Dallas
-----
-
 To Whom It May Concern:
 
 This is to certify that I as the Founder-Acarya of ISKCON, appoint the following persons as the authorized officers of our Nairobi branch, and only they can represent the Society and conduct the affairs in their respective capacities.

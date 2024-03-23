@@ -9,16 +9,6 @@
 
 ====== Letter to: Sucharu deva ======
 
----- dataentry letters ----
-Recipient_hidden : Sucharu deva
-ListDate_hidden  : 1975-01-06
-showdate_hidden  : 2023-01-06
-To_letters       : Sucharu deva
-Date_letter      : January 6
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Madras
 
 My dear Sucharu deva dasa,

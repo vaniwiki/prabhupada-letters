@@ -9,16 +9,6 @@
 
 ====== Letter to: Sadajeewatlalji ======
 
----- dataentry letters ----
-Recipient_hidden : Sadajeewatlalji
-ListDate_hidden  : 1974-11-20
-showdate_hidden  : 2023-11-20
-To_letters       : Sadajeewatlalji
-Date_letter      : November 20
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Sheth Sri Punjabi Chandu\\
 Halwi Karachiwala\\
 185, Wallkeshwar Road, Teenbatti\\

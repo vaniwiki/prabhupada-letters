@@ -9,16 +9,6 @@
 
 ====== Letter to: Uddhava ======
 
----- dataentry letters ----
-Recipient_hidden : Uddhava
-ListDate_hidden  : 1969-02-27
-showdate_hidden  : 2023-02-27
-To_letters       : Uddhava
-Date_letter      : February 27
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Uddhava,
 
 Please accept my blessings. I am in due receipt of your letter dated February 25, 1969, and I thank you so much for it. Regarding the pictures in __Back To Godhead__ which you are learning to photograph, they will be of all kinds. When possible we will have nice paintings published, and other times there will be photographs of our devotees and their activities.

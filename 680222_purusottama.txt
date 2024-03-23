@@ -9,16 +9,6 @@
 
 ====== Letter to: Purusottama ======
 
----- dataentry letters ----
-Recipient_hidden : Purusottama
-ListDate_hidden  : 1968-02-22
-showdate_hidden  : 2023-02-22
-To_letters       : Purusottama
-Date_letter      : February 22
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Purusottama,
 
 Please accept my blessings. I am in due receipt of your letter dated Feb. 19, 1968. I am glad to understand that everything is very nice in New York Temple, and Krishna is attracting many new devotees lately. The more you sincerely serve Krishna, the more He will send you similar devotees to assist you.

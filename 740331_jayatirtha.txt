@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1974-03-31
-showdate_hidden  : 2023-03-31
-To_letters       : Jayatirtha
-Date_letter      : March 31
-Year_letter      : 1974
-Place_letter     : Bombay.
-----
-
 My dear Jaya tirtha,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 20, 1974. I have noted the contents and duly received receipts for money deposited in the Union Bank.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara , Radhavallabha ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara , Radhavallabha
-ListDate_hidden  : 1976-08-14
-showdate_hidden  : 2023-08-14
-To_letters       : Ramesvara , Radhavallabha
-Date_letter      : August 14
-Year_letter      : 1976
-Place_letter     : Bombay
-----
-
 My dear Ramesvara Maharaja and Radhavallabha das,
 
 Please accept my blessings. I am in due receipt of the package from Los Angeles containing the Vyasa Puja and the latest BBT newsletter and I have found both to be extremely pleasing.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayatirtha ======
 
----- dataentry letters ----
-Recipient_hidden : Jayatirtha
-ListDate_hidden  : 1974-05-05
-showdate_hidden  : 2023-05-05
-To_letters       : Jayatirtha
-Date_letter      : May 5
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Dear Jaya tirtha,
 
 Please accept my blessings. I have received a letter from Atreya Rsi das dated April 18, 1974. In that letter he mentions your name as follows:

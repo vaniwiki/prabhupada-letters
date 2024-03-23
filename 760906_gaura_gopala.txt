@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaura Gopala (Govinda?) ======
 
----- dataentry letters ----
-Recipient_hidden : Gaura Gopala (Govinda?)
-ListDate_hidden  : 1976-09-06
-showdate_hidden  : 2023-09-06
-To_letters       : Gaura Gopala (Govinda?)
-Date_letter      : September 6
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Bhuvaneśvara
 
 My dear Gaura Gopala (Govinda?) Maharaja,

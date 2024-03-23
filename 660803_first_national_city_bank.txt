@@ -9,16 +9,6 @@
 
 ====== Letter to: First National City Bank ======
 
----- dataentry letters ----
-Recipient_hidden : First National City Bank
-ListDate_hidden  : 1966-08-03
-showdate_hidden  : 2023-08-03
-To_letters       : First National City Bank
-Date_letter      : August 3
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Manager\\
 First National City Bank\\
 Grand Street Branch\\

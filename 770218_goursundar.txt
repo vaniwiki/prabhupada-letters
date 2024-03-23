@@ -9,16 +9,6 @@
 
 ====== Letter to: Goursundar ======
 
----- dataentry letters ----
-Recipient_hidden : Goursundar
-ListDate_hidden  : 1977-02-18
-showdate_hidden  : 2023-02-18
-To_letters       : Goursundar
-Date_letter      : February 18
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Box 211\\
 Paau Hau, Hawaii 96775, USA
 

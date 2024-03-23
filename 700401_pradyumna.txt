@@ -9,16 +9,6 @@
 
 ====== Letter to: Pradyumna ======
 
----- dataentry letters ----
-Recipient_hidden : Pradyumna
-ListDate_hidden  : 1970-04-01
-showdate_hidden  : 2023-04-01
-To_letters       : Pradyumna
-Date_letter      : April 1
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Pradyumna,
 
 Please accept my blessings. I have just received one check of contribution from Brahmananda and I understand that you have contributed $500, so I thank you very much for this.

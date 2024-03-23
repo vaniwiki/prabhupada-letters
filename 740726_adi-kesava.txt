@@ -9,16 +9,6 @@
 
 ====== Letter to: Ādi-kesava ======
 
----- dataentry letters ----
-Recipient_hidden : Ādi-kesava
-ListDate_hidden  : 1974-07-26
-showdate_hidden  : 2023-07-26
-To_letters       : Ādi-kesava
-Date_letter      : July 26
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Boston
 
 My dear Ādi Kesava das:

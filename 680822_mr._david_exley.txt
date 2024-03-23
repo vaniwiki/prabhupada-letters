@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. David Exley ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. David Exley
-ListDate_hidden  : 1968-08-22
-showdate_hidden  : 2023-08-22
-To_letters       : Mr. David Exley
-Date_letter      : August 22
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 Mr. David Exley\\
 Chief, NGO Section\\
 External Relations Division\\

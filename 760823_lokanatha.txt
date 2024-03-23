@@ -9,16 +9,6 @@
 
 ====== Letter to: Lokanatha ======
 
----- dataentry letters ----
-Recipient_hidden : Lokanatha
-ListDate_hidden  : 1976-08-23
-showdate_hidden  : 2023-08-23
-To_letters       : Lokanatha
-Date_letter      : August 23
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Vrindaban
 
 My dear Lokanatha Maharaja,

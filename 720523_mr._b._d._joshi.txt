@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. B. D. Joshi ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. B. D. Joshi
-ListDate_hidden  : 1972-05-23
-showdate_hidden  : 2023-05-23
-To_letters       : Mr. B. D. Joshi
-Date_letter      : May 23
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Mr. B.D. Joshi\\
 608 Hagen Blvd.\\
 El Cerrito, California 94520

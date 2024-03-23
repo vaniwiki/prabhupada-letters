@@ -3,17 +3,6 @@
 
 ====== Letter to: B. S. Sharma ======
 
----- dataentry letters ----
-Recipient_hidden : B. S. Sharma
-ListDate_hidden  : 1967-09-09
-showdate_hidden  : 2023-09-09
-To_letters       : B. S. Sharma
-Date_letter      : 9 September
-Year_letter      : 1967
-Place_letter     : Vrindaban
-----
-
-
 Dear Brij Suderji,
 
 Thank you very much for your letter No. D.O.367 P.A./RM/67 D/4/9/67 and have noted the contents carefully. I thank you once more for your kind appreciation of my great mission following the footprints of Lord Chaitanya the great Apostle of world peace and love of Krishna. Lord Chaitanya wanted to preach Krishna Consciousness all over the world and He entrusted the execution of the great movement to all persons who have taken birth as man in the land of Bharatvarsa. So this is purely Indian culture of peace and harmony based on the Bhagavat Geeta and the Srimad Bhagavatam. Please therefore fully cooperate with me and the great movement.
@@ -34,7 +23,6 @@ Thanking you in anticipation for your early decision.
 
 Yours very sincerely,\\
 A.C. Bhaktivedanta Swami
-
 
 Shri Brij Sunder Sharma\\
 Revenue Minister\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Official (for Madhudvisa) ======
 
----- dataentry letters ----
-Recipient_hidden : Official (for Madhudvisa)
-ListDate_hidden  : 1969-03-15
-showdate_hidden  : 2023-03-15
-To_letters       : Official (for Madhudvisa)
-Date_letter      : March 15
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Local Board No. 31\\
 25 Huntington Ave.\\
 Boston, Mass 02116

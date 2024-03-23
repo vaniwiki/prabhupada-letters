@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa, Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa, Yamuna
-ListDate_hidden  : 1972-05-16
-showdate_hidden  : 2023-05-16
-To_letters       : Gurudasa, Yamuna
-Date_letter      : May 16
-Year_letter      : 1972
-Place_letter     : Honolulu
-----
-
 Vrindaban
 
 My dear Gurudasa and Yamuna,

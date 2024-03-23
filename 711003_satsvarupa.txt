@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1971-10-03
-showdate_hidden  : 2023-10-03
-To_letters       : Satsvarupa
-Date_letter      : October 3
-Year_letter      : 1971
-Place_letter     : Nairobi
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I have not heard from you in a long time. I hope you are well and things are going on nicely there at our Dallas center. How are the property transactions going on?

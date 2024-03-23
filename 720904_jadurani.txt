@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1972-09-04
-showdate_hidden  : 2023-09-04
-To_letters       : Jadurani
-Date_letter      : September 4
-Year_letter      : 1972
-Place_letter     : New Vrindaban
-----
-
 New York
 
 My dear Jadurani,

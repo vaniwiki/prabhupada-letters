@@ -9,16 +9,6 @@
 
 ====== Letter to: Nayanabhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Nayanabhirama
-ListDate_hidden  : 1971-02-04
-showdate_hidden  : 2023-02-04
-To_letters       : Nayanabhirama
-Date_letter      : February 4
-Year_letter      : 1971
-Place_letter     : Allahabad
-----
-
 Philadelphia
 
 My dear Nayana Bhirama,

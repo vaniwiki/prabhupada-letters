@@ -9,16 +9,6 @@
 
 ====== Letter to: Radhavallabha ======
 
----- dataentry letters ----
-Recipient_hidden : Radhavallabha
-ListDate_hidden  : 1974-11-03
-showdate_hidden  : 2023-11-03
-To_letters       : Radhavallabha
-Date_letter      : November 3
-Year_letter      : 1974
-Place_letter     : India
-----
-
 Dear Radhavallabha Prabhu:
 
 Please accept my humble obeisances. your letter addressed to Nitai Prabhu dated 25/10/74 has been brought to Srila Prabhupada's attention. Regarding book production, Srila Prabhupada is most concerned that you finish C.C. Ādi:1 as soon as you can and at least by Bhaktisiddhanta Sarasvati Thakura's disappearance day as you have anticipated.

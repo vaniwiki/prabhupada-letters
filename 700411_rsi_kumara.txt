@@ -9,16 +9,6 @@
 
 ====== Letter to: Rsi Kumara ======
 
----- dataentry letters ----
-Recipient_hidden : Rsi Kumara
-ListDate_hidden  : 1970-04-11
-showdate_hidden  : 2023-04-11
-To_letters       : Rsi Kumara
-Date_letter      : April 11
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 New York
 
 My dear Rsi Kumara,

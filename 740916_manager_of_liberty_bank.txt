@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of Liberty Bank ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of Liberty Bank
-ListDate_hidden  : 1974-09-16
-showdate_hidden  : 2023-09-16
-To_letters       : Manager of Liberty Bank
-Date_letter      : September 16
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 The Manager\\
 Liberty Bank\\
 Main Office\\

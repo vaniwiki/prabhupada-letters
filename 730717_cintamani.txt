@@ -9,16 +9,6 @@
 
 ====== Letter to: Cintamani ======
 
----- dataentry letters ----
-Recipient_hidden : Cintamani
-ListDate_hidden  : 1973-07-17
-showdate_hidden  : 2023-07-17
-To_letters       : Cintamani
-Date_letter      : July 17
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 New Vrindaban
 
 Dear Cintamani dasi,

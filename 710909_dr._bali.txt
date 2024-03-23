@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Bali ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Bali
-ListDate_hidden  : 1971-09-09
-showdate_hidden  : 2023-09-09
-To_letters       : Dr. Bali
-Date_letter      : September 9
-Year_letter      : 1971
-Place_letter     : Kenya
-----
-
 My dear Dr. Bali,
 
 Please accept my blessings. I beg to thank you very much for your letter dated 3rd September, 1971 and my blessings are there for you and your good wife. One S. Indian gentleman, Mr. Cheety, came to see my in L.A. when I was there and he has invited me to go to his place. I had promised him that I am going there during my Madras tour in October. Formerly also when I talked with Vaijyantimala, she also said that October would be first class climate for going there. But now the program is changed, so I have no idea about the programs in India.\\

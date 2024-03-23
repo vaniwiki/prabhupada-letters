@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna dasa
-ListDate_hidden  : 1974-04-05
-showdate_hidden  : 2023-04-05
-To_letters       : Krsna dasa
-Date_letter      : April 5
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Stockholm
 
 Dear Krsna das,

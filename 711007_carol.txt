@@ -9,16 +9,6 @@
 
 ====== Letter to: Carol ======
 
----- dataentry letters ----
-Recipient_hidden : Carol
-ListDate_hidden  : 1971-10-07
-showdate_hidden  : 2023-10-07
-To_letters       : Carol
-Date_letter      : October 7
-Year_letter      : 1971
-Place_letter     : Nairobi
-----
-
 London
 
 My dear Carol,

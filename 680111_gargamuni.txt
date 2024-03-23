@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1968-01-11
-showdate_hidden  : 2023-01-11
-To_letters       : Gargamuni
-Date_letter      : January 11
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Gargamuni,
 
 Please accept my blessings. I am in due receipt of your statement regarding Jivanuga, and it is clear that he is crazy. I have already advised Jayananda in this connection that we cannot make the society an asylum for crazy people. It is not our business.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Chaudhuri ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Chaudhuri
-ListDate_hidden  : 1969-02-06
-showdate_hidden  : 2023-02-06
-To_letters       : Dr. Chaudhuri
-Date_letter      : February 6
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 Dear Dr. Chaudhuri,
 
 Please accept my greetings and blessings of Lord Krishna, and offer the same to Srimati Bina Chaudhuri and your sons and daughters. I am so glad to have received your letter dated January 27, 1969, and I have appreciated your comment about my book that it is "without doubt the best presentation so far to the western public of the teachings of Lord Krishna". Actually that was my purpose to write another commentary on the __Bhagavad-gita.__ I think I have explained this matter in my introduction.

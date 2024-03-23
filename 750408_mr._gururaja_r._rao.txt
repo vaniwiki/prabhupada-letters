@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Gururaja R. Rao ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Gururaja R. Rao
-ListDate_hidden  : 1975-04-08
-showdate_hidden  : 2023-04-08
-To_letters       : Mr. Gururaja R. Rao
-Date_letter      : April 8
-Year_letter      : 1975
-Place_letter     : Mayapur
-----
-
 Gururaja R. Rao\\
 1626 PIE XI Blvd.\\
 HIV 2C5\\

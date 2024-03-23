@@ -9,16 +9,6 @@
 
 ====== Letter to: Aksayananda ======
 
----- dataentry letters ----
-Recipient_hidden : Aksayananda
-ListDate_hidden  : 1976-07-05
-showdate_hidden  : 2023-07-05
-To_letters       : Aksayananda
-Date_letter      : July 5
-Year_letter      : 1976
-Place_letter     : Washington D.C.
-----
-
 Vrindaban
 
 My dear Aksayananda Maharaja,

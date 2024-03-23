@@ -9,16 +9,6 @@
 
 ====== Letter to: Rsabhadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Rsabhadeva
-ListDate_hidden  : 1974-12-16
-showdate_hidden  : 2023-12-16
-To_letters       : Rsabhadeva
-Date_letter      : December 16
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Laguna Beach
 
 My dear Rsabhadeva,

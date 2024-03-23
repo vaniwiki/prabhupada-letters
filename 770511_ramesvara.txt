@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1977-05-11
-showdate_hidden  : 2023-05-11
-To_letters       : Ramesvara
-Date_letter      : May 11
-Year_letter      : 1977
-Place_letter     : New Delhi
-----
-
 Hrsikesa
 
 My dear Ramesvara,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1968-01-17
-showdate_hidden  : 2023-01-17
-To_letters       : Satsvarupa
-Date_letter      : January 17
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I have your letter of Jan. 9, 1968 duly in hand, and I thank you very much for it. Yes, I will make plans to appear there on May 1; and before I arrive there on May 1, you can please arrange some lectures in different Universities and Colleges, so that after reaching there I will find all the engagements there.

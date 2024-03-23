@@ -9,16 +9,6 @@
 
 ====== Letter to: Prahladananda ======
 
----- dataentry letters ----
-Recipient_hidden : Prahladananda
-ListDate_hidden  : 1971-06-17
-showdate_hidden  : 2023-06-17
-To_letters       : Prahladananda
-Date_letter      : June 17
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Houston
 
 My dear Prahladananda,

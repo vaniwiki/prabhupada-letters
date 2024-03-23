@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhakta dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Bhakta dasa
-ListDate_hidden  : 1971-06-17
-showdate_hidden  : 2023-06-17
-To_letters       : Bhakta dasa
-Date_letter      : June 17
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 San Diego
 
 My dear Bhakta Das,

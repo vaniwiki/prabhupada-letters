@@ -9,16 +9,6 @@
 
 ====== Letter to: Abhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Abhirama
-ListDate_hidden  : 1972-02-16
-showdate_hidden  : 2023-02-16
-To_letters       : Abhirama
-Date_letter      : February 16
-Year_letter      : 1972
-Place_letter     : Calcutta
-----
-
 Baltimore
 
 My dear Abhirama,

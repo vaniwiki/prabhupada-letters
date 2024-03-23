@@ -9,16 +9,6 @@
 
 ====== Letter to: Sripad Narayana Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : Sripad Narayana Maharaja
-ListDate_hidden  : 1967-07-12
-showdate_hidden  : 2023-07-12
-To_letters       : Sripad Narayana Maharaja
-Date_letter      : July 12
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 International Society for Krsna Consciousness, Inc.\\
 Twenty-Six Second Avenue, New York, N.Y. 10003 \\
 Telephone: 674-7428

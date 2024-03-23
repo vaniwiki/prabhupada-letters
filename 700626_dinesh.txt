@@ -9,16 +9,6 @@
 
 ====== Letter to: Dinesh ======
 
----- dataentry letters ----
-Recipient_hidden : Dinesh
-ListDate_hidden  : 1970-06-26
-showdate_hidden  : 2023-06-26
-To_letters       : Dinesh
-Date_letter      : June 26
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Dinesh,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 12th June, 1970, and noted the contents. I have also received the copy of the letter which you have submitted to the Embassy of India.

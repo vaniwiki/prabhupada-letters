@@ -9,16 +9,6 @@
 
 ====== Letter to: Dinadayadri ======
 
----- dataentry letters ----
-Recipient_hidden : Dinadayadri
-ListDate_hidden  : 1974-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Dinadayadri
-Date_letter      : May 26
-Year_letter      : 1974
-Place_letter     : Rome
-----
-
 Ferndale, Michigan
 
 My dear Dinadayadri,

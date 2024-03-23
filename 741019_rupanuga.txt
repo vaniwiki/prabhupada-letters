@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1974-10-19
-showdate_hidden  : 2023-10-19
-To_letters       : Rupanuga
-Date_letter      : October 19
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Atlanta
 
 My dear Rupanuga das:

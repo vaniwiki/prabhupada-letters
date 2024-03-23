@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Raja Sajid Husain ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Raja Sajid Husain
-ListDate_hidden  : 1976-06-04
-showdate_hidden  : 2023-06-04
-To_letters       : Mr. Raja Sajid Husain
-Date_letter      : June 4
-Year_letter      : 1976
-Place_letter     : Los Angeles
-----
-
 Raja Sajid Husain,\\
 Chairman, Indian Humanist Union,\\
 Kotwara House, Kaisarbagh,\\

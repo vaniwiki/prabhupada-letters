@@ -9,15 +9,6 @@
 
 ====== Letter to: Mahamsa Swami ======
 
----- dataentry letters ----
-Recipient_hidden : Mahamsa Swami
-ListDate_hidden  : 19
-To_letters       : Mahamsa Swami
-Date_letter      : February
-Year_letter      : 1977
-Place_letter     : 
-----
-
 H.H. Mahamsa Swami\\
 Hare Krishna Land Nampally Station road\\
 Hyderbad

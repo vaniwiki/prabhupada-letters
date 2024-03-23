@@ -9,16 +9,6 @@
 
 ====== Letter to: Visvakarma ======
 
----- dataentry letters ----
-Recipient_hidden : Visvakarma
-ListDate_hidden  : 1976-11-19
-showdate_hidden  : 2023-11-19
-To_letters       : Visvakarma
-Date_letter      : November 19
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Toronto
 
 My dear Visvakarma,

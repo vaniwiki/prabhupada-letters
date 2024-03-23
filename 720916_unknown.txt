@@ -9,16 +9,6 @@
 
 ====== Letter to: Unknown ======
 
----- dataentry letters ----
-Recipient_hidden : Unknown
-ListDate_hidden  : 1972-09-16
-showdate_hidden  : 2023-09-16
-To_letters       : Unknown
-Date_letter      : September 16
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 __All Glories to Sri Guru and Gauranga!__
 
 Dear

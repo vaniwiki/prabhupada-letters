@@ -9,16 +9,6 @@
 
 ====== Letter to: Rajendra Sahai ======
 
----- dataentry letters ----
-Recipient_hidden : Rajendra Sahai
-ListDate_hidden  : 1977-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Rajendra Sahai
-Date_letter      : February 21
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Shri Rajendra Sahai\\
 D.G.C. (R.)\\
 Fatehpur, U.P.

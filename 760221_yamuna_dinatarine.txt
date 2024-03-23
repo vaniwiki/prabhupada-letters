@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna, Dinatarine ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna, Dinatarine
-ListDate_hidden  : 1976-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Yamuna, Dinatarine
-Date_letter      : February 21
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Murphy, Oregon
 
 My dear Yamuna and Dinatarine,

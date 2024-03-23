@@ -9,16 +9,6 @@
 
 ====== Letter to: Dasanudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Dasanudasa
-ListDate_hidden  : 1977-05-13
-showdate_hidden  : 2023-05-13
-To_letters       : Dasanudasa
-Date_letter      : May 13
-Year_letter      : 1977
-Place_letter     : Hrsikesa
-----
-
 New Talavan, Mississippi
 
 My dear Dasanudasa,

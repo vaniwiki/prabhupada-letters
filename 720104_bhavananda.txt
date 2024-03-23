@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Bhavananda
-ListDate_hidden  : 1972-01-04
-showdate_hidden  : 2023-01-04
-To_letters       : Bhavananda
-Date_letter      : January 4
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Bhavananda,
 
 Please accept my blessings. I hope that Mayapur festival preparations are going on and I am awaiting news from you. Just now Tamala has received one telegram from you reading:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Manmohini ======
 
----- dataentry letters ----
-Recipient_hidden : Manmohini
-ListDate_hidden  : 1970-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Manmohini
-Date_letter      : February 21
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Daughter Manmohini,
 
 Please accept my blessings. I am in due receipt of your nice letter dated 18 February, 1970, along with your beads for chanting and a pair of lovely flower garlands. Thank you very much.

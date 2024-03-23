@@ -9,16 +9,6 @@
 
 ====== Letter to: Ekayani ======
 
----- dataentry letters ----
-Recipient_hidden : Ekayani
-ListDate_hidden  : 1970-07-25
-showdate_hidden  : 2023-07-25
-To_letters       : Ekayani
-Date_letter      : July 25
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Ekayani Dasi,
 
 Please accept my blessings. I am in due receipt of your encouraging letter dated 19th July, 1970, and noted the contents.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sankara ======
 
----- dataentry letters ----
-Recipient_hidden : Sankara
-ListDate_hidden  : 1971-12-09
-showdate_hidden  : 2023-12-09
-To_letters       : Sankara
-Date_letter      : December 9
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 My dear Sankara,
 
 Please accept my blessings. I think you have written me two letters. Your former letter was also received by me. So far I remember I have replied it. In any case, very soon I shall be going to Calcutta, and there I shall call you and you may remain with me for some time for translating under my direction. Then I shall be able to see how you are translating my books. If you can do it very nicely, then I shall entrust the whole matter to you. This will be a great pleasure for me.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Visnujana ======
 
----- dataentry letters ----
-Recipient_hidden : Visnujana
-ListDate_hidden  : 1971-11-04
-showdate_hidden  : 2023-11-04
-To_letters       : Visnujana
-Date_letter      : November 4
-Year_letter      : 1971
-Place_letter     : Calcutta
-----
-
 My dear Visnujana Maharaja,
 
 Please accept my blessings. I understand from Kirtanananda Maharaja that there is a nice scheme for travelling sankirtana party. So I think that your joining them will be super-excellent scheme and I have my full hearted sanction for your joining the party if you like.

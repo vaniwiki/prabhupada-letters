@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1970-06-14
-showdate_hidden  : 2023-06-14
-To_letters       : Jayapataka
-Date_letter      : June 14
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Chicago
 
 My dear Jayapataka,

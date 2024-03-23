@@ -9,16 +9,6 @@
 
 ====== Letter to: Pradyumna, Satsvarupa, Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Pradyumna, Satsvarupa, Jadurani
-ListDate_hidden  : 1967-11-21
-showdate_hidden  : 2023-11-21
-To_letters       : Pradyumna, Satsvarupa, Jadurani
-Date_letter      : November 21
-Year_letter      : 1967
-Place_letter     : Calcutta
-----
-
 My dear Pradyumna, Satsvarupa and Jadurani,
 
 Please accept my blessings. I have received your letters but have no time to reply them in detail as I am busy making hasty preparations to leave for the USA. I shall arrive on 24th November, 12:45 P.M. San Francisco time.

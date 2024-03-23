@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1969-01-15
-showdate_hidden  : 2023-01-15
-To_letters       : Rupanuga
-Date_letter      : January 15
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Rupanuga,
 
 Please accept my blessings. I was very much anxious to receive your letter since I did not hear from you for a long period. But I always know that you are doing your duty nicely. Recently, Hayagriva came from Columbus, and he remained with me for more than a fortnight. He was assisting me in editing __Srimad-Bhagavatam.__ Now he is married with Syama Dasi and has returned to New Vrindaban with his many responsibilities.

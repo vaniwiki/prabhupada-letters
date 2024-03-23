@@ -9,16 +9,6 @@
 
 ====== Letter to: Vasudeva ======
 
----- dataentry letters ----
-Recipient_hidden : Vasudeva
-ListDate_hidden  : 1977-09-06
-showdate_hidden  : 2023-09-06
-To_letters       : Vasudeva
-Date_letter      : September 6
-Year_letter      : 1977
-Place_letter     : Bhaktivedanta Manor
-----
-
 Lautoka, Fiji
 
 My dear Vasudeva,

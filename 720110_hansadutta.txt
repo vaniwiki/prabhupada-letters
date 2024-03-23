@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1972-01-10
-showdate_hidden  : 2023-01-10
-To_letters       : Hansadutta
-Date_letter      : January 10
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Hamburg
 
 My dear Hansadutta,

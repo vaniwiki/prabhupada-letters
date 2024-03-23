@@ -9,16 +9,6 @@
 
 ====== Letter to: Hrdayananda ======
 
----- dataentry letters ----
-Recipient_hidden : Hrdayananda
-ListDate_hidden  : 1973-05-10
-showdate_hidden  : 2023-05-10
-To_letters       : Hrdayananda
-Date_letter      : May 10
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Hrdayananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 4, 1973. I am very much pleased by the contents.

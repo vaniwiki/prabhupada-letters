@@ -9,16 +9,6 @@
 
 ====== Letter to: Jagadisa ======
 
----- dataentry letters ----
-Recipient_hidden : Jagadisa
-ListDate_hidden  : 1975-09-26
-showdate_hidden  : 2023-09-26
-To_letters       : Jagadisa
-Date_letter      : September 26
-Year_letter      : 1975
-Place_letter     : Ahmedabad
-----
-
 Evanston, Illinois
 
 My dear Jagadisa das:

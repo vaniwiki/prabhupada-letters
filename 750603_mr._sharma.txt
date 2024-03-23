@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Sharma ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Sharma
-ListDate_hidden  : 1975-06-03
-showdate_hidden  : 2023-06-03
-To_letters       : Mr. Sharma
-Date_letter      : June 3
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Vrndavana
 
 My dear Mr. Sharma,

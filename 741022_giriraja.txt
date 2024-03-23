@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraja
-ListDate_hidden  : 1974-10-22
-showdate_hidden  : 2023-10-22
-To_letters       : Giriraja
-Date_letter      : October 22
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Bombay
 
 My dear Giriraja das:

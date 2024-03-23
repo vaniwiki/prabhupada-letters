@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1972-10-25
-showdate_hidden  : 2023-10-25
-To_letters       : Karandhara
-Date_letter      : October 25
-Year_letter      : 1972
-Place_letter     : Vrindaban
-----
-
 Bombay\\
 [To Karandhara]
 

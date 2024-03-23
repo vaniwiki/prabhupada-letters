@@ -9,16 +9,6 @@
 
 ====== Letter to: Balabhadra ======
 
----- dataentry letters ----
-Recipient_hidden : Balabhadra
-ListDate_hidden  : 1973-12-13
-showdate_hidden  : 2023-12-13
-To_letters       : Balabhadra
-Date_letter      : December 13
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Hawaii
 
 My dear Balabhadra Prabhu,

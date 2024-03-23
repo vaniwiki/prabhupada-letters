@@ -9,16 +9,6 @@
 
 ====== Letter to: Uddhava ======
 
----- dataentry letters ----
-Recipient_hidden : Uddhava
-ListDate_hidden  : 1969-02-18
-showdate_hidden  : 2023-02-18
-To_letters       : Uddhava
-Date_letter      : February 18
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 [To Uddhava dasa]
 
 [TEXT MISSING]

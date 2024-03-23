@@ -9,16 +9,6 @@
 
 ====== Letter to: Purusottama ======
 
----- dataentry letters ----
-Recipient_hidden : Purusottama
-ListDate_hidden  : 1969-03-10
-showdate_hidden  : 2023-03-10
-To_letters       : Purusottama
-Date_letter      : March 10
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Purusottam,
 
 Please accept my blessings. I hope you have already received the the tape No. 36, Today I am sending the tape No. 37. You need not send me the typed copies. You can keep them with you.

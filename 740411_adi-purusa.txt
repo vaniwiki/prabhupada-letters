@@ -9,16 +9,6 @@
 
 ====== Letter to: Ādi-purusa ======
 
----- dataentry letters ----
-Recipient_hidden : Ādi-purusa
-ListDate_hidden  : 1974-04-11
-showdate_hidden  : 2023-04-11
-To_letters       : Ādi-purusa
-Date_letter      : April 11
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Gorakhpur
 
 Dear Adipurusa,

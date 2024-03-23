@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of First National City Bank ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of First National City Bank
-ListDate_hidden  : 1970-03-07
-showdate_hidden  : 2023-03-07
-To_letters       : Manager of First National City Bank
-Date_letter      : March 7
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Manager\\
 First National City Bank\\
 686 Broadway near Great Jones Street\\

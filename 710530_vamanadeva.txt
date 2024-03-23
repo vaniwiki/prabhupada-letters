@@ -9,16 +9,6 @@
 
 ====== Letter to: Vamanadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Vamanadeva
-ListDate_hidden  : 1971-05-30
-showdate_hidden  : 2023-05-30
-To_letters       : Vamanadeva
-Date_letter      : May 30
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 St. Louis
 
 My dear Vamanadeva,

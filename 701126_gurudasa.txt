@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1970-11-26
-showdate_hidden  : 2023-11-26
-To_letters       : Gurudasa
-Date_letter      : November 26
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Gurudasa,
 
 Please accept my blessings. I am in due receipt of your letter dated Nov. 24th with enclosures and checks and have gone over them carefully. In the meantime, if there is no very important business in Delhi, you may accept the invitation from Indore and go there. Most probably I shall also go there.

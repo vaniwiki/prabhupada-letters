@@ -9,16 +9,6 @@
 
 ====== Letter to: Dhruvananda ======
 
----- dataentry letters ----
-Recipient_hidden : Dhruvananda
-ListDate_hidden  : 1973-01-04
-showdate_hidden  : 2023-01-04
-To_letters       : Dhruvananda
-Date_letter      : January 4
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 My dear Dhruvananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 17, 1972, and I have noted the contents with care. You have asked me several questions about the deity worship in Los Angeles, so I shall answer them one after another: Your first question, shall Srimati Radharani's feet be showing, the answer is no, they should never be seen. Krsna's feet, however, should be showing.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Dharwadkar ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Dharwadkar
-ListDate_hidden  : 1966-11-26
-showdate_hidden  : 2023-11-26
-To_letters       : Mr. Dharwadkar
-Date_letter      : November 26
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 The Universal Book House\\
 Sita Bhavan, Tulsipipe Road\\
 Dadar, Bombay-28, India.

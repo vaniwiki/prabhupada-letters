@@ -9,16 +9,6 @@
 
 ====== Letter to: George Harrison ======
 
----- dataentry letters ----
-Recipient_hidden : George Harrison
-ListDate_hidden  : 1970-02-16
-showdate_hidden  : 2023-02-16
-To_letters       : George Harrison
-Date_letter      : February 16
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Sriman George Harrison\\
 c/o Apple Record Co.\\
 London\\

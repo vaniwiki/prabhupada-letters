@@ -9,16 +9,6 @@
 
 ====== Letter to: Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Gurudasa
-ListDate_hidden  : 1977-02-18
-showdate_hidden  : 2023-02-18
-To_letters       : Gurudasa
-Date_letter      : February 18
-Year_letter      : 1977
-Place_letter     : Mayapur
-----
-
 To Gurudasa,
 
 I have received your letter dated Feb. 12, and examined the contents. Please accept my blessings. Locks on the door, ask Gaurachand to help. I have just arranged to send him Rs. 50 per month for his lifetime and he will cooperate with us.

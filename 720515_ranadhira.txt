@@ -9,16 +9,6 @@
 
 ====== Letter to: Ranadhira ======
 
----- dataentry letters ----
-Recipient_hidden : Ranadhira
-ListDate_hidden  : 1972-05-15
-showdate_hidden  : 2023-05-15
-To_letters       : Ranadhira
-Date_letter      : May 15
-Year_letter      : 1972
-Place_letter     : Honolulu
-----
-
 Pittsburgh
 
 My dear Ranadhira,

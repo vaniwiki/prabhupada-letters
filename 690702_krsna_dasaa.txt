@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna dasa
-ListDate_hidden  : 1969-07-02
-showdate_hidden  : 2023-07-02
-To_letters       : Krsna dasa
-Date_letter      : July 2
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Krishna Das,
 
 Please accept my blessings. After receiving your letter of July 2nd, as mentioned above, I have been anxiously awaiting to receive the ticket that you say you have sent. Please write immediately as to the position of this ticket as I am much concerned about the situation, (Whether it is lost?). Hope you are well.

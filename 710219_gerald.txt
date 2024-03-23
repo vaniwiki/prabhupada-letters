@@ -9,16 +9,6 @@
 
 ====== Letter to: Gerald ======
 
----- dataentry letters ----
-Recipient_hidden : Gerald
-ListDate_hidden  : 1971-02-19
-showdate_hidden  : 2023-02-19
-To_letters       : Gerald
-Date_letter      : February 19
-Year_letter      : 1971
-Place_letter     : ISKCON Akash Ganga Bldg; 89 Bhulabhai Desai Road; Bombay-26 India
-----
-
 My dear Gerald,
 
 Please accept my blessings. I beg to thank you for your nice letter dated Lachine, 23rd December, 1970. I am travelling all over India just now on preaching tour and Samkirtan, so sometimes my mail is delayed.

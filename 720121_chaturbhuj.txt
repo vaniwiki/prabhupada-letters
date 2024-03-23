@@ -9,16 +9,6 @@
 
 ====== Letter to: Chaturbhuj ======
 
----- dataentry letters ----
-Recipient_hidden : Chaturbhuj
-ListDate_hidden  : 1972-01-21
-showdate_hidden  : 2023-01-21
-To_letters       : Chaturbhuj
-Date_letter      : January 21
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Chaturbhuj,
 
 Please accept my blessings. I am happy to receive your nice letter of January 10, 1972, and I am pleased to note that you are asking very intelligent questions. That is natural position for the neophyte devotee who is sincerely seeking to understand what is the Absolute Truth. So I am very much engladdened to hear that you are very intelligent boy, like your father, and that your whole family is advancing in Krishna Consciousness. May Krishna give you all blessings.

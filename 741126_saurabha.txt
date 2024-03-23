@@ -9,16 +9,6 @@
 
 ====== Letter to: Saurabha ======
 
----- dataentry letters ----
-Recipient_hidden : Saurabha
-ListDate_hidden  : 1974-11-26
-showdate_hidden  : 2023-11-26
-To_letters       : Saurabha
-Date_letter      : November 26
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Vrindaban
 
 My dear Saurabha das:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Rupanuga ======
 
----- dataentry letters ----
-Recipient_hidden : Rupanuga
-ListDate_hidden  : 1968-01-23
-showdate_hidden  : 2023-01-23
-To_letters       : Rupanuga
-Date_letter      : January 23
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Rupanuga,
 
 Please accept my blessings. It is my desire that you may not change your present program for going to Washington. I have advised Brahmananda to send Purusottama to Buffalo. In the meantime, I am also writing one letter to Mr. Goel; the copy of my recent speech on Krishna Consciousness I will send to him. Also, I am sending you one copy of said speech, and it may be published in Back to Godhead. I have also sent this speech to West Germany. Find herewith enclosed copy of letter to Mr. Goel, and speech. Hope you are well.

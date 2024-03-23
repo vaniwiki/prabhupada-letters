@@ -9,16 +9,6 @@
 
 ====== Letter to: Hrsikesa ======
 
----- dataentry letters ----
-Recipient_hidden : Hrsikesa
-ListDate_hidden  : 1969-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Hrsikesa
-Date_letter      : March 18
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Hrsikesa,
 
 Please accept my blessings. I thank you very much for you very nice note enclosed with Hayagriva's letter. I am so glad to learn that you are reading my Bhagavad-gita As It Is with great interest, and I hope if you kindly read my books carefully that all your spiritual desires will be fulfilled. And you are in the right place for doing this, in New Vrindaban, and I shall be happy to meet with you again when I arrive there in May.

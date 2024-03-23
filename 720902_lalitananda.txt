@@ -9,16 +9,6 @@
 
 ====== Letter to: Lalitananda ======
 
----- dataentry letters ----
-Recipient_hidden : Lalitananda
-ListDate_hidden  : 1972-09-02
-showdate_hidden  : 2023-09-02
-To_letters       : Lalitananda
-Date_letter      : September 2
-Year_letter      : 1972
-Place_letter     : New Vrindaban
-----
-
 Kenmore, New York
 
 My dear Lalitananda,

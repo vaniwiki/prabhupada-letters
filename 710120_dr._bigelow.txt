@@ -9,16 +9,6 @@
 
 ====== Letter to: Dr. Bigelow ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Bigelow
-ListDate_hidden  : 1971-01-20
-showdate_hidden  : 2023-01-20
-To_letters       : Dr. Bigelow
-Date_letter      : January 20
-Year_letter      : 1971
-Place_letter     : Allahabad
-----
-
 Dr. Wilfred G. Bigelow\\
 (cardio-vascular surgery unit)\\
 Toronto General Hospital\\

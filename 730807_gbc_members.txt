@@ -9,16 +9,6 @@
 
 ====== Letter to: GBC Members ======
 
----- dataentry letters ----
-Recipient_hidden : GBC Members
-ListDate_hidden  : 1973-08-07
-showdate_hidden  : 2023-08-07
-To_letters       : GBC Members
-Date_letter      : August 7
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 My dear GBC Members,
 
 Please accept my blessings. I find amongst the GBC members that Satsvarupa Maharaja stands first because he submits regularly the report. A sample copy is enclosed herewith. I hope all GBC Members follow in his foot steps.

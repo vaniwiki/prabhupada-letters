@@ -9,16 +9,6 @@
 
 ====== Letter to: Vijitatma ======
 
----- dataentry letters ----
-Recipient_hidden : Vijitatma
-ListDate_hidden  : 1973-03-08
-showdate_hidden  : 2023-03-08
-To_letters       : Vijitatma
-Date_letter      : March 8
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 My dear Vijitatma:
 
 Please accept my blessings. I have received your $100.00 daksina and I thank you very much for it.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna , Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna , Giriraja
-ListDate_hidden  : 1973-07-14
-showdate_hidden  : 2023-07-14
-To_letters       : Tamala Krsna , Giriraja
-Date_letter      : July 14
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 Bombay
 
 Dear Tamala Krsna Maharaja and Giriraja,

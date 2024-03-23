@@ -9,16 +9,6 @@
 
 ====== Letter to: Kuvera, Rebati ======
 
----- dataentry letters ----
-Recipient_hidden : Kuvera, Rebati
-ListDate_hidden  : 1974-07-16
-showdate_hidden  : 2023-07-16
-To_letters       : Kuvera, Rebati
-Date_letter      : July 16
-Year_letter      : 1974
-Place_letter     : Dallas
-----
-
 Los Angeles
 
 My dear Kuvera das and Rebati devi dasi:

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Jamuna
-ListDate_hidden  : 1975-05-11
-showdate_hidden  : 2023-05-11
-To_letters       : Jamuna
-Date_letter      : May 11
-Year_letter      : 1975
-Place_letter     : Perth
-----
-
 Hyderabad
 
 My dear Jamuna devi,

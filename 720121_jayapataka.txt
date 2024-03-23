@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1972-01-21
-showdate_hidden  : 2023-01-21
-To_letters       : Jayapataka
-Date_letter      : January 21
-Year_letter      : 1972
-Place_letter     : Jaipur
-----
-
 My dear Jayapataka,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated, and I have noted the contents carefully. So far the printing of __Gitar Gan__ for which you have sent quotation, you may take other quotations also, and I am flying to Africa tomorrow but I shall return first week in February, so when I return I shall send you the manuscript which I think is now finished by Mr. Cakravarti in Bombay. Of the paper samples, the heavier stock of map litho at 80 grams per square meter is preferred by me, and the cover paper is all right. We have estimated 100 pages, so I suppose the price will be proportionately lesser or greater if we have more or less pages?

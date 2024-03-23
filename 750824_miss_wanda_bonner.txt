@@ -9,16 +9,6 @@
 
 ====== Letter to: Miss Wanda Bonner ======
 
----- dataentry letters ----
-Recipient_hidden : Miss Wanda Bonner
-ListDate_hidden  : 1975-08-24
-showdate_hidden  : 2023-08-24
-To_letters       : Miss Wanda Bonner
-Date_letter      : August 24
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Miss Wanda Bonner\\
 536 Maple St. No. 305\\
 San Diego, Ca. 92103

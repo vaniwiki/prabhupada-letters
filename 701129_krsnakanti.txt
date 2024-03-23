@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsnakanti ======
 
----- dataentry letters ----
-Recipient_hidden : Krsnakanti
-ListDate_hidden  : 1970-11-29
-showdate_hidden  : 2023-11-29
-To_letters       : Krsnakanti
-Date_letter      : November 29
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Krsnakanti,
 
 Please accept my blessings. I am in due receipt of your informative letter dated November 15th, 1970, and noted the contents. I know you are a very qualified and sincere devotee and now Krsna is offering you a nice opportunity to perform responsible devotional service as the president of our Seattle Temple. Please conduct the affairs there very nicely and with great care and Krsna will provide you all facilities for making the center even more attractive and successful.

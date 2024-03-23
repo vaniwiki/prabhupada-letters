@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna, Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna, Gurudasa
-ListDate_hidden  : 1971-08-23
-showdate_hidden  : 2023-08-23
-To_letters       : Tamala Krsna, Gurudasa
-Date_letter      : August 23
-Year_letter      : 1971
-Place_letter     : London
-----
-
 Delhi
 
 My dear Tamala and Gurudasa,

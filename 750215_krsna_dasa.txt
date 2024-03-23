@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna dasa
-ListDate_hidden  : 1975-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Krsna dasa
-Date_letter      : February 15
-Year_letter      : 1975
-Place_letter     : Mexico City
-----
-
 Dallas
 
 My dear Krsna dasi,

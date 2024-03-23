@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayadvaita ======
 
----- dataentry letters ----
-Recipient_hidden : Jayadvaita
-ListDate_hidden  : 1971-07-03
-showdate_hidden  : 2023-07-03
-To_letters       : Jayadvaita
-Date_letter      : July 3
-Year_letter      : 1971
-Place_letter     : Los Angeles
-----
-
 Brooklyn
 
 My dear Jayadvaita,

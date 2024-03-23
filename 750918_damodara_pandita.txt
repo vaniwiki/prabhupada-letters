@@ -9,16 +9,6 @@
 
 ====== Letter to: Damodara Pandita ======
 
----- dataentry letters ----
-Recipient_hidden : Damodara Pandita
-ListDate_hidden  : 1975-09-18
-showdate_hidden  : 2023-09-18
-To_letters       : Damodara Pandita
-Date_letter      : September 18
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 New Vrndavana
 
 My dear Damodara Pandit das,

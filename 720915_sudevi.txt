@@ -9,16 +9,6 @@
 
 ====== Letter to: Sudevi ======
 
----- dataentry letters ----
-Recipient_hidden : Sudevi
-ListDate_hidden  : 1972-09-15
-showdate_hidden  : 2023-09-15
-To_letters       : Sudevi
-Date_letter      : September 15
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Buffalo
 
 My dear Sudevi Dasi,

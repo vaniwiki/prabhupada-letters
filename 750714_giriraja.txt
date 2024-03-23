@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraja
-ListDate_hidden  : 1975-07-14
-showdate_hidden  : 2023-07-14
-To_letters       : Giriraja
-Date_letter      : July 14
-Year_letter      : 1975
-Place_letter     : Philadelphia
-----
-
 Bombay
 
 My dear Giriraja das:

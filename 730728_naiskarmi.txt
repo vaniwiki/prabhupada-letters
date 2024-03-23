@@ -9,16 +9,6 @@
 
 ====== Letter to: Naiskarmi ======
 
----- dataentry letters ----
-Recipient_hidden : Naiskarmi
-ListDate_hidden  : 1973-07-28
-showdate_hidden  : 2023-07-28
-To_letters       : Naiskarmi
-Date_letter      : July 28
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 Evanston, Illinois
 
 My dear Naiskarmi devi dasi,

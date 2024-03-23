@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. R. Van den Tak ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. R. Van den Tak
-ListDate_hidden  : 1975-06-10
-showdate_hidden  : 2023-06-10
-To_letters       : Mr. R. Van den Tak
-Date_letter      : June 10
-Year_letter      : 1975
-Place_letter     : Honolulu
-----
-
 Mr. R. Van den Tak\\
 60 Liverpool St.\\
 Paddington, 2021\\

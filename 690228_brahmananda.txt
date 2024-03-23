@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1969-02-28
-showdate_hidden  : 2023-02-28
-To_letters       : Brahmananda
-Date_letter      : February 29
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 26, 1969, and I have carefully noted the contents. Regarding the distribution of Teachings of Lord Caitanya, the principle will be that 60% will go to the book fund, and the rest will go to you as the distributer. So you may offer to the temples whatever is suitable. But you will be the sole distributer and the book fund will get 60%.

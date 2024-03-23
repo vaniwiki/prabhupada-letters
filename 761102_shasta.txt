@@ -9,16 +9,6 @@
 
 ====== Letter to: Shasta ======
 
----- dataentry letters ----
-Recipient_hidden : Shasta
-ListDate_hidden  : 1976-11-02
-showdate_hidden  : 2023-11-02
-To_letters       : Shasta
-Date_letter      : November 2
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Honolulu
 
 My dear Shasta,

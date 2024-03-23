@@ -9,16 +9,6 @@
 
 ====== Letter to: Hon Pei ======
 
----- dataentry letters ----
-Recipient_hidden : Hon Pei
-ListDate_hidden  : 1973-08-30
-showdate_hidden  : 2023-08-30
-To_letters       : Hon Pei
-Date_letter      : August 30
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 Melbourne
 
 My dear Hon Pei Das,

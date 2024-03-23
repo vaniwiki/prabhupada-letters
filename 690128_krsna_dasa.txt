@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna dasa
-ListDate_hidden  : 1969-01-28
-showdate_hidden  : 2023-01-28
-To_letters       : Krsna dasa
-Date_letter      : January 28
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Krishna Das,
 
 Please accept my blessings. I am in due receipt of your letter of January 22, 1969, and I am very encouraged to learn of your nice activities in Hamburg. I am so pleased to know that Uttama Sloka and yourself are now working in the printer trade, and Sivananda is busily engaged in decorating the temple. Similarly, it is very good that you are holding outside engagements for organizations outside of the temple and you are meeting with interested people. But perhaps the best news of all is that soon we shall have our own press for printing Krishna Consciousness literature in the German language. Our life and soul is kirtana and presenting literature to the public at large, and I can understand that Krishna is dictating to you from within how to carry this out successfully. I think that translation work should be done on such articles that may be included in a German edition of __Back To Godhead,__ as well as my __Introduction to Bhagavad-gita As It Is.__ I am wondering if there are people there who can speak English with you. Please inform me on this matter.

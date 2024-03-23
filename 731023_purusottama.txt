@@ -9,16 +9,6 @@
 
 ====== Letter to: Purusottama ======
 
----- dataentry letters ----
-Recipient_hidden : Purusottama
-ListDate_hidden  : 1973-10-23
-showdate_hidden  : 2023-10-23
-To_letters       : Purusottama
-Date_letter      : October 23
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 My dear Purusottama das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 17, 1973 and have noted the contents. You should know it that without surrender bhakti does not begin. Surrender to Krsna or to His representative is absolutely necessary. I do not know why your understanding of Krsna consciousness is different from that of Madhudvisa Swami's.

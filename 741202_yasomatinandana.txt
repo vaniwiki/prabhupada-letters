@@ -9,16 +9,6 @@
 
 ====== Letter to: Yasomatinandana ======
 
----- dataentry letters ----
-Recipient_hidden : Yasomatinandana
-ListDate_hidden  : 1974-12-02
-showdate_hidden  : 2023-12-02
-To_letters       : Yasomatinandana
-Date_letter      : December 2
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Hyderabad
 
 My dear Yasomatinandana das:

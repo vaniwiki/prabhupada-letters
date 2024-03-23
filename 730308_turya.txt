@@ -9,16 +9,6 @@
 
 ====== Letter to: Turya ======
 
----- dataentry letters ----
-Recipient_hidden : Turya
-ListDate_hidden  : 1973-03-08
-showdate_hidden  : 2023-03-08
-To_letters       : Turya
-Date_letter      : March 8
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 My dear Turya dasa:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated the 29th January 1973 and I have examined the contents carefully. Your project for a Temple sounds all right to me, and even if you don't get that particular building, Radha-Krsna Deities are approved for the present Temple. Of course, I want that you can work out all these kinds of details with Karandhara, your GBC secretary.

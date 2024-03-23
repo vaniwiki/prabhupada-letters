@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhaktijana ======
 
----- dataentry letters ----
-Recipient_hidden : Bhaktijana
-ListDate_hidden  : 1972-09-21
-showdate_hidden  : 2023-09-21
-To_letters       : Bhaktijana
-Date_letter      : September 21
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 New York
 
 My dear Bhaktijana,

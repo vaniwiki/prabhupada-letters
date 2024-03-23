@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1968-08-03
-showdate_hidden  : 2023-08-03
-To_letters       : Gargamuni
-Date_letter      : August 3
-Year_letter      : 1968
-Place_letter     : Montreal
-----
-
 My dear Gargamuni,
 
 Please accept my blessings. I am in due receipt of your letter via New York, dated July 23, 1968. The bicycle accident may be ignored, because even if there is a case against you, you can plead that the man was going, and all of a sudden he turned imbalance, and dashed with my car. So it was his fault, he could not keep balance with the cycle. And as soon as I saw him dashed, I stopped immediately and what could I do more? In India such accidents are never taken seriously by the police, because in busy streets, cycling is prohibited. So your decision not to pay him any money is right. Besides that, if he was to institute a case against you, he should have at once reported the matter to the policy nearby.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1969-04-03
-showdate_hidden  : 2023-04-03
-To_letters       : Brahmananda
-Date_letter      : April 3
-Year_letter      : 1969
-Place_letter     : San Francisco
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 29, 1969, with enclosures. I am glad that you have received the consignment from Calcutta, and when I go to New York, I shall see what is the quality of the khole. Then if it is nice, we shall have to order many kholes like that.

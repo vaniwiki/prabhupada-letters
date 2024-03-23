@@ -9,16 +9,6 @@
 
 ====== Letter to: Krishna Mahesavari ======
 
----- dataentry letters ----
-Recipient_hidden : Krishna Mahesavari
-ListDate_hidden  : 1976-07-11
-showdate_hidden  : 2023-07-11
-To_letters       : Krishna Mahesavari
-Date_letter      : July 11
-Year_letter      : 1976
-Place_letter     : New York
-----
-
 Krishna das Mahesavari,\\
 Son of Lava Pokaar das\\
 Sharma Gali,\\

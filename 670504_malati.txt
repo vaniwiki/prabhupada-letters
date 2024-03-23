@@ -9,16 +9,6 @@
 
 ====== Letter to: Malati ======
 
----- dataentry letters ----
-Recipient_hidden : Malati
-ListDate_hidden  : 1967-05-04
-showdate_hidden  : 2023-05-04
-To_letters       : Malati
-Date_letter      : May 4
-Year_letter      : 1967
-Place_letter     : New York
-----
-
 My dear Malati,
 
 Please accept my blessings. I am in receipt of your letter of the 25th, April 1967, and I am very glad to know the sentiment expressed therein. You are a very sincere girl and your sentiment is also very nice. One should always feel very humble, that will help one to make progress in Krishna Consciousness. So your humble feeling that you are shrouded by illusion is very nice, at the same time your feeling that Krishna Consciousness is so nice that it makes everything easy.

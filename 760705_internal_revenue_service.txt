@@ -9,16 +9,6 @@
 
 ====== Letter to: Internal Revenue Service ======
 
----- dataentry letters ----
-Recipient_hidden : Internal Revenue Service
-ListDate_hidden  : 1976-07-05
-showdate_hidden  : 2023-07-05
-To_letters       : Internal Revenue Service
-Date_letter      : July 5
-Year_letter      : 1976
-Place_letter     : Washington D.C.
-----
-
 Internal Revenue Service\\
 United States of America
 

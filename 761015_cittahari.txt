@@ -9,16 +9,6 @@
 
 ====== Letter to: Cittahari ======
 
----- dataentry letters ----
-Recipient_hidden : Cittahari
-ListDate_hidden  : 1976-10-15
-showdate_hidden  : 2023-10-15
-To_letters       : Cittahari
-Date_letter      : October 15
-Year_letter      : 1976
-Place_letter     : Chandigarh
-----
-
 My dear Cittahari Prabhu,
 
 Please accept my blessings. I am in due receipt of your letter dated 28th September 1976.

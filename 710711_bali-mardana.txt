@@ -9,16 +9,6 @@
 
 ====== Letter to: Bali-mardana ======
 
----- dataentry letters ----
-Recipient_hidden : Bali-mardana
-ListDate_hidden  : 1971-07-11
-showdate_hidden  : 2023-07-11
-To_letters       : Bali-mardana
-Date_letter      : July 11
-Year_letter      : 1971
-Place_letter     : Los Angeles
-----
-
 Kuala Lumpur
 
 My dear Bali-mardana,

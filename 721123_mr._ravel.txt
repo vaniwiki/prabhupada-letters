@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Ravel ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Ravel
-ListDate_hidden  : 1972-11-23
-showdate_hidden  : 2023-11-23
-To_letters       : Mr. Ravel
-Date_letter      : November 23
-Year_letter      : 1972
-Place_letter     : Hyderabad
-----
-
 Mr. V.L. Ravel\\
 Cal-25\\
 22-B School Row

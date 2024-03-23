@@ -9,16 +9,6 @@
 
 ====== Letter to: Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Govinda
-ListDate_hidden  : 1973-04-11
-showdate_hidden  : 2023-04-11
-To_letters       : Govinda
-Date_letter      : April 11
-Year_letter      : 1973
-Place_letter     : New York
-----
-
 My dear Govinda Dasi:
 
 Please accept my blessings. In the past you were sending me the dried banana, so you please resume sending me. The day after tomorrow I am starting for Los Angeles, so I would like to receive some of that dried banana from you.

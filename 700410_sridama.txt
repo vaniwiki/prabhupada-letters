@@ -9,16 +9,6 @@
 
 ====== Letter to: Sridama ======
 
----- dataentry letters ----
-Recipient_hidden : Sridama
-ListDate_hidden  : 1970-04-10
-showdate_hidden  : 2023-04-10
-To_letters       : Sridama
-Date_letter      : April 10
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Providence
 
 My dear Sridama,

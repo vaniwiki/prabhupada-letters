@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Kamalapati Tripathi ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Kamalapati Tripathi
-ListDate_hidden  : 1975-05-07
-showdate_hidden  : 2023-05-07
-To_letters       : Sri Kamalapati Tripathi
-Date_letter      : May 7
-Year_letter      : 1975
-Place_letter     : Perth
-----
-
 Sri Kamalapati Tripathi\\
 Minister of Railways\\
 Government of India, New Delhi

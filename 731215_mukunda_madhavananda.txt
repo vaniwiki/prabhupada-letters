@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda, Madhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda, Madhavananda
-ListDate_hidden  : 1973-12-15
-showdate_hidden  : 2023-12-15
-To_letters       : Mukunda, Madhavananda
-Date_letter      : December 15
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 London
 
 My dear Mukunda and Madhavananda,

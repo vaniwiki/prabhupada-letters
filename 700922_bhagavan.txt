@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhagavan ======
 
----- dataentry letters ----
-Recipient_hidden : Bhagavan
-ListDate_hidden  : 1970-09-22
-showdate_hidden  : 2023-09-22
-To_letters       : Bhagavan
-Date_letter      : September 22
-Year_letter      : 1970
-Place_letter     : Calcutta
-----
-
 My dear Bhagavan das,
 
 Please accept my blessings. I am in due receipt of your letter dated 8/11/70, and I have noted its contents with great hope and enthusiasm. Under the expert leadership of such sincere students as yourself and Rupanuga and Karandhara in the U.S. the GBC is taking on the responsibility that I desired. Similarly in Europe Syamasundara is working hard. So by Krishna's Grace everything is taking shape. Here in India also the work is pushing forward, and daily we are getting reports of support among the influential members of the community. Half of our devotees have just opened up another center on the other side of Calcutta, and last night there were more than 200 persons singing and dancing at our place.

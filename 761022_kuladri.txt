@@ -9,16 +9,6 @@
 
 ====== Letter to: Kuladri ======
 
----- dataentry letters ----
-Recipient_hidden : Kuladri
-ListDate_hidden  : 1976-10-22
-showdate_hidden  : 2023-10-22
-To_letters       : Kuladri
-Date_letter      : October 22
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear Kuladri,
 
 Please accept my blessings. I am in due receipt of your letter dated October 7, 1976 along with a check for $1,111. Thank you very much.

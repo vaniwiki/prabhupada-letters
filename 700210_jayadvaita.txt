@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayadvaita ======
 
----- dataentry letters ----
-Recipient_hidden : Jayadvaita
-ListDate_hidden  : 1970-02-10
-showdate_hidden  : 2023-02-10
-To_letters       : Jayadvaita
-Date_letter      : February 10
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Jayadvaita,
 
 Please accept my blessings. I beg to thank you very much for your letter dated 5 February, 1970. It is very much encouraging to see you are a good and scrutinizing editor. May Krishna bless you.

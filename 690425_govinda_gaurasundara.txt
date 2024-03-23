@@ -9,16 +9,6 @@
 
 ====== Letter to: Govinda, Gaurasundara ======
 
----- dataentry letters ----
-Recipient_hidden : Govinda, Gaurasundara
-ListDate_hidden  : 1969-04-25
-showdate_hidden  : 2023-04-25
-To_letters       : Govinda, Gaurasundara
-Date_letter      : April 25
-Year_letter      : 1969
-Place_letter     : Boston
-----
-
 My dear Govinda Dasi and Gaurasundara,
 
 Please accept my blessings. I am in due receipt of your letters dated April 17, 1969, and I have noted the contents carefully. I am very much anxious that Govinda Dasi has fallen sick. Similarly, I am also from yesterday feeling little uncomfortable on account of backache. I think the constant change of climate in Buffalo has affected my rheumatic tendencies, so today I am not feeling very well. In Buffalo we had very nice meetings, and the students, both boys and girls, were very receptive. I am so glad to learn that your center also is improving. Day by day continue to work seriously and faithfully, and it will surely grow to be a very nice center. I have talked with Jadurani yesterday, and she asked my opinion of her going to Hawaii. I advised her to go as soon as possible, and she has proposed to go there when I leave Boston. She is not very seriously ill, but she feels little ill, and with change of climate I think she will improve without any doubt.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Parvati ======
 
----- dataentry letters ----
-Recipient_hidden : Parvati
-ListDate_hidden  : 1977-02-06
-showdate_hidden  : 2023-02-06
-To_letters       : Parvati
-Date_letter      : February 6
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Srimate Parvati devi dasi\\
 International Society for Krishna Consciousness\\
 P.O. Box 82224 Mombasa, Kenya AFRICA

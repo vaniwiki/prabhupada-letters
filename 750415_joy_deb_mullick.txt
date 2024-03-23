@@ -9,16 +9,6 @@
 
 ====== Letter to: Joy Deb Mullick ======
 
----- dataentry letters ----
-Recipient_hidden : Joy Deb Mullick
-ListDate_hidden  : 1975-04-15
-showdate_hidden  : 2023-04-15
-To_letters       : Joy Deb Mullick
-Date_letter      : April 15
-Year_letter      : 1975
-Place_letter     : New Delhi
-----
-
 Joy Deb Mullick\\
 s/o Late Ratton Lall Mullick\\
 50A, Hari Chose Street\\

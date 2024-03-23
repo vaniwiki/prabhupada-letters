@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1969-02-12
-showdate_hidden  : 2023-02-12
-To_letters       : Satsvarupa
-Date_letter      : February 12
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter dated February 7, 1969, and I have noted the contents. Regarding Jadurani's diet, let her take fruits, vegetables, milk, capatis, and also when she is hungry she may take a little rice and some thin mung dahl. Please keep me informed of her progress.

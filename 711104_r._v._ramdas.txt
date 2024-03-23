@@ -9,16 +9,6 @@
 
 ====== Letter to: R. V. Ramdas ======
 
----- dataentry letters ----
-Recipient_hidden : R. V. Ramdas
-ListDate_hidden  : 1971-11-04
-showdate_hidden  : 2023-11-04
-To_letters       : R. V. Ramdas
-Date_letter      : November 4
-Year_letter      : 1971
-Place_letter     : Calcutta
-----
-
 c/o Vishva Hindu Parishad\\
 16/10 Arya Samaj Road\\
 New Delhi (Korelbag)

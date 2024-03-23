@@ -9,16 +9,6 @@
 
 ====== Letter to: Manager of Punjab National Bank ======
 
----- dataentry letters ----
-Recipient_hidden : Manager of Punjab National Bank
-ListDate_hidden  : 1968-03-01
-showdate_hidden  : 2023-03-01
-To_letters       : Manager of Punjab National Bank
-Date_letter      : March 1
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 Manager\\
 Punjab National Bank, Ltd.\\
 Vrindaban, India

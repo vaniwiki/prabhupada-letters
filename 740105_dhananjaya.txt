@@ -9,16 +9,6 @@
 
 ====== Letter to: Dhananjaya ======
 
----- dataentry letters ----
-Recipient_hidden : Dhananjaya
-ListDate_hidden  : 1974-01-05
-showdate_hidden  : 2023-01-05
-To_letters       : Dhananjaya
-Date_letter      : January 5
-Year_letter      : 1974
-Place_letter     : Los Angeles
-----
-
 Dear Dhananjaya,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated.

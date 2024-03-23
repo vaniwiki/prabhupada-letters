@@ -9,16 +9,6 @@
 
 ====== Letter to: Bon Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : Bon Maharaja
-ListDate_hidden  : 1975-07-07
-showdate_hidden  : 2023-07-07
-To_letters       : Bon Maharaja
-Date_letter      : July 7
-Year_letter      : 1975
-Place_letter     : Evanston
-----
-
 Rector, Institute of Oriental Philosophy\\
 Vrndavana
 

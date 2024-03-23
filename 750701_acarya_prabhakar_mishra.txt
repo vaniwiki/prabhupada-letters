@@ -9,16 +9,6 @@
 
 ====== Letter to: Acarya Prabhakar Mishra ======
 
----- dataentry letters ----
-Recipient_hidden : Acarya Prabhakar Mishra
-ListDate_hidden  : 1975-07-01
-showdate_hidden  : 2023-07-01
-To_letters       : Acarya Prabhakar Mishra
-Date_letter      : July 1
-Year_letter      : 1975
-Place_letter     : Denver
-----
-
 Acarya Prabhakar Mishra\\
 E-91, Kirti Nagar,\\
 New Delhi-15\\

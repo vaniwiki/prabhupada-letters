@@ -9,16 +9,6 @@
 
 ====== Letter to: Visnujana ======
 
----- dataentry letters ----
-Recipient_hidden : Visnujana
-ListDate_hidden  : 1971-01-08
-showdate_hidden  : 2023-01-08
-To_letters       : Visnujana
-Date_letter      : January 8
-Year_letter      : 1971
-Place_letter     : Allahabad
-----
-
 My dear Visnujana Maharaja,
 
 Please accept my blessings. I beg to thank you for your encouraging letter dated 23rd December, 1970. I am very glad to know that things are progressing nicely in Houston. I have seen the flyer and it is nice. Please establish this center firmly just according to our highest principles of devotional service to Krsna.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Karandhara ======
 
----- dataentry letters ----
-Recipient_hidden : Karandhara
-ListDate_hidden  : 1970-09-19
-showdate_hidden  : 2023-09-19
-To_letters       : Karandhara
-Date_letter      : September 19
-Year_letter      : 1970
-Place_letter     : Calcutta
-----
-
 My dear Karandhara,
 
 Please accept my blessings. I am in receipt of your letter dated Sept. 13, 1970, and I congratulate you on the good news of opening the Portland center so successfully, and I am very pleased that things are going on nicely. I received your telegram, and also receipts for three deposits to the BBT at Dai Nippon; and I received your other letters, but on account of Devananda's disposition, I have not been able to reply them. Today I am taking the help of Kirtanananda. Please go on sending the reports.

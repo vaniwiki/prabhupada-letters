@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaura Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Gaura Govinda
-ListDate_hidden  : 1976-12-11
-showdate_hidden  : 2023-12-11
-To_letters       : Gaura Govinda
-Date_letter      : December 11
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 My dear Gaura Govinda,
 
 Please accept my blessings. I am in due receipt of your letter dated 30/11/76.

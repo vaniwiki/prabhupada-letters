@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1969-06-13
-showdate_hidden  : 2023-06-13
-To_letters       : Mukunda
-Date_letter      : June 13
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 My dear Mukunda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated June 7, 1969, as well as another letter signed by you, Syamasundara, Gurudasa and others jointly. It is very gratifying that at last you have got a five-story building, and in the meantime negotiations are continuing for a church. It is very good news and I thank you for your joint invitation.

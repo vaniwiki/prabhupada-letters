@@ -9,16 +9,6 @@
 
 ====== Letter to: Bank of America ======
 
----- dataentry letters ----
-Recipient_hidden : Bank of America
-ListDate_hidden  : 1972-08-15
-showdate_hidden  : 2023-08-15
-To_letters       : Bank of America
-Date_letter      : August 15
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Manager,
 
 Bank of America,

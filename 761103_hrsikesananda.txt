@@ -9,16 +9,6 @@
 
 ====== Letter to: Hrsikesananda ======
 
----- dataentry letters ----
-Recipient_hidden : Hrsikesananda
-ListDate_hidden  : 1976-11-03
-showdate_hidden  : 2023-11-03
-To_letters       : Hrsikesananda
-Date_letter      : November 3
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Kathmandu
 
 My dear Hrsikesananda,

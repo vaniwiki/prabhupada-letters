@@ -9,16 +9,6 @@
 
 ====== Letter to: Dhananjaya ======
 
----- dataentry letters ----
-Recipient_hidden : Dhananjaya
-ListDate_hidden  : 1973-12-23
-showdate_hidden  : 2023-12-23
-To_letters       : Dhananjaya
-Date_letter      : December 23
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Rome
 
 My dear Dhananjaya,

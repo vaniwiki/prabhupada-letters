@@ -9,16 +9,6 @@
 
 ====== Letter to: Mandali Bhadra ======
 
----- dataentry letters ----
-Recipient_hidden : Mandali Bhadra
-ListDate_hidden  : 1972-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : Mandali Bhadra
-Date_letter      : April 2
-Year_letter      : 1972
-Place_letter     : Sydney
-----
-
 Hamburg
 
 My dear Mandali Bhadra,

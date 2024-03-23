@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhrsakapi ======
 
----- dataentry letters ----
-Recipient_hidden : Bhrsakapi
-ListDate_hidden  : 1975-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Bhrsakapi
-Date_letter      : January 16
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Washington, D.C.
 
 My dear Bhrsakapi das,

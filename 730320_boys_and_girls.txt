@@ -9,16 +9,6 @@
 
 ====== Letter to: Boys and girls ======
 
----- dataentry letters ----
-Recipient_hidden : Boys and girls
-ListDate_hidden  : 1973-03-20
-showdate_hidden  : 2023-03-20
-To_letters       : Boys and girls
-Date_letter      : March 20
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Los Angeles
 
 My dear boys and girls, you are working so hard for broadcasting the glories of Lord Krishna's lotus feet and thus my Guru Maharaja will be so pleased upon you. Certainly my Guru Maharaja will bestow His blessings thousand times more than me and that is my satisfaction. All Glories to the assembled devotees.

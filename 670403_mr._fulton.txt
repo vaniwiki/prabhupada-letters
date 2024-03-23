@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Fulton ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Fulton
-ListDate_hidden  : 1967-04-03
-showdate_hidden  : 2023-04-03
-To_letters       : Mr. Fulton
-Date_letter      : April 3
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 Mr. Richard Fulton Inc.\\
 200 West 57th Street\\
 New York N.Y. 10019

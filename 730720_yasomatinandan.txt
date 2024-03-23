@@ -9,16 +9,6 @@
 
 ====== Letter to: Yasomatinandan ======
 
----- dataentry letters ----
-Recipient_hidden : Yasomatinandan
-ListDate_hidden  : 1973-07-20
-showdate_hidden  : 2023-07-20
-To_letters       : Yasomatinandan
-Date_letter      : July 20
-Year_letter      : 1973
-Place_letter     : Herts
-----
-
 Dear Yasomatinandan,
 
 Please accept my blessings. I heard you were transferring to our Los Angeles center but I do not know if you have left our Chicago center yet, so I am sending copies of this letter to both places.

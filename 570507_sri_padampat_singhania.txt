@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Padampat Singhania ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Padampat Singhania
-ListDate_hidden  : 1957-05-07
-showdate_hidden  : 2023-05-07
-To_letters       : Sri Padampat Singhania
-Date_letter      : May 7
-Year_letter      : 1957
-Place_letter     : Kanpur
-----
-
 Sri Padampat Singhania,\\
 Kamla Tower,\\
 __Kanpur__

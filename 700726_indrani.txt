@@ -9,16 +9,6 @@
 
 ====== Letter to: Indrani ======
 
----- dataentry letters ----
-Recipient_hidden : Indrani
-ListDate_hidden  : 1970-07-26
-showdate_hidden  : 2023-07-26
-To_letters       : Indrani
-Date_letter      : July 26
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Daughter Indrani,
 
 Please accept my blessings. I am so glad to receive your letter dated Berlin, 13rd July, 1970, and I am so glad also to learn that you have nicely appreciated our Sankirtana movement and now you are married to one of our devotees, Krsna das.

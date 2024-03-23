@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1973-09-19
-showdate_hidden  : 2023-09-19
-To_letters       : Madhudvisa
-Date_letter      : September 19
-Year_letter      : 1973
-Place_letter     : Stockholm
-----
-
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your zonal report and proposal for purchasing Australian headquarters. You have my full approval for this program.

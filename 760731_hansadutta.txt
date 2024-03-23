@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1976-07-31
-showdate_hidden  : 2023-07-31
-To_letters       : Hansadutta
-Date_letter      : July 31
-Year_letter      : 1976
-Place_letter     : 
-----
-
 Vrindaban
 
 My dear Hansadutta Maharaja;

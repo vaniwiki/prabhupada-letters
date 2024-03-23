@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhaja Hari, Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Bhaja Hari, Mukunda
-ListDate_hidden  : 1976-02-26
-showdate_hidden  : 2023-02-26
-To_letters       : Bhaja Hari, Mukunda
-Date_letter      : February 26
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Bhaktivedanta Manor
 
 My dear Bhaja Hari das and Mukunda das,

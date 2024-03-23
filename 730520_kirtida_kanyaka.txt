@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtida Kanyaka ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtida Kanyaka
-ListDate_hidden  : 1973-05-20
-showdate_hidden  : 2023-05-20
-To_letters       : Kirtida Kanyaka
-Date_letter      : May 20
-Year_letter      : 1973
-Place_letter     : Dallas
-----
-
 Los Angeles
 
 My dear Kirtida Kanyaka,

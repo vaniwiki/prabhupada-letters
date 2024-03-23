@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1972-06-08
-showdate_hidden  : 2023-06-08
-To_letters       : Gargamuni
-Date_letter      : June 8
-Year_letter      : 1972
-Place_letter     : Los Angeles
-----
-
 Bombay
 
 My dear Gargamuni,

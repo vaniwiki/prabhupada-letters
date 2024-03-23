@@ -9,16 +9,6 @@
 
 ====== Letter to: Lilavati ======
 
----- dataentry letters ----
-Recipient_hidden : Lilavati
-ListDate_hidden  : 1974-08-06
-showdate_hidden  : 2023-08-06
-To_letters       : Lilavati
-Date_letter      : August 6
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Geneva
 
 My dear Lilavati devi dasi:

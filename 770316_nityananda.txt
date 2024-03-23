@@ -9,16 +9,6 @@
 
 ====== Letter to: Nityananda ======
 
----- dataentry letters ----
-Recipient_hidden : Nityananda
-ListDate_hidden  : 1977-03-16
-showdate_hidden  : 2023-03-16
-To_letters       : Nityananda
-Date_letter      : March 16
-Year_letter      : 1977
-Place_letter     : Mayapur
-----
-
 My dear Nityananda,
 
 Please accept my blessings. I beg to thank you for your letter dated February 21st, 1977, and I have noted the contents. The New Talavan Review and the brochure are both very nicely done and I thank you for them.

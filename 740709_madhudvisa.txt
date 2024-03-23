@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1974-07-09
-showdate_hidden  : 2023-07-09
-To_letters       : Madhudvisa
-Date_letter      : July 9
-Year_letter      : 1974
-Place_letter     : San Francisco
-----
-
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. After leaving your place I went to Chicago and then San Francisco and in both the places the Rathayatra ceremony was very successfully performed.

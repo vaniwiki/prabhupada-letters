@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Govinda ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Govinda
-ListDate_hidden  : 1972-12-27
-showdate_hidden  : 2023-12-27
-To_letters       : Sri Govinda
-Date_letter      : December 27
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Chicago
 
 My dear Sri Govinda,

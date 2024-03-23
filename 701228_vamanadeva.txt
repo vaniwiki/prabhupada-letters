@@ -9,16 +9,6 @@
 
 ====== Letter to: Vamanadeva ======
 
----- dataentry letters ----
-Recipient_hidden : Vamanadeva
-ListDate_hidden  : 1970-12-28
-showdate_hidden  : 2023-12-28
-To_letters       : Vamanadeva
-Date_letter      : December 28
-Year_letter      : 1970
-Place_letter     : Surat
-----
-
 St. Louis
 
 My dear Vamanadeva,

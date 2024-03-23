@@ -9,16 +9,6 @@
 
 ====== Letter to: Uddhava ======
 
----- dataentry letters ----
-Recipient_hidden : Uddhava
-ListDate_hidden  : 1968-05-03
-showdate_hidden  : 2023-05-03
-To_letters       : Uddhava
-Date_letter      : May 3
-Year_letter      : 1968
-Place_letter     : Boston
-----
-
 My dear Uddhava,
 
 Please accept my blessings. I am just in receipt of your letter forwarded from New York. Please be happy in separation. I am separated from my Guru Maharaja since 1936 but I am always with him so long I work according to his direction. So we should all work together for satisfying Lord Krishna and in that way the feelings of separation will transform into transcendental bliss.

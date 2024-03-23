@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Balmukundji ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Balmukundji
-ListDate_hidden  : 1970-03-15
-showdate_hidden  : 2023-03-15
-To_letters       : Sri Balmukundji
-Date_letter      : March 15
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 London
 
 Dear Sri Balmukundji,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Yamuna ======
 
----- dataentry letters ----
-Recipient_hidden : Yamuna
-ListDate_hidden  : 1969-08-05
-showdate_hidden  : 2023-08-05
-To_letters       : Yamuna
-Date_letter      : August 5
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Yamuna,
 
 Please accept my blessings. I beg to thank you for your letters dated July 16th, 22nd and 27th, and I have noted all of the contents carefully. I have also received some photographs of your Rathayatra Day ceremony, sent to me by Sri Govinda. It appears to be very, very nice, and I am having these photographs reprinted together on one page so I may show the others how nicely you have done it. I have already told Gurudasa something of the glorious affair that was arranged here, and enclosed please find reprinted news articles from the San Francisco papers.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1971-12-03
-showdate_hidden  : 2023-12-03
-To_letters       : Jayapataka
-Date_letter      : December 3
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 My dear Jayapataka,
 
 Please accept my blessings. I am sending Biharilal Prabhu to Calcutta for the purpose of collecting four first-class koles, ten karatalas and a few thousand magazines for taking with him for our Madras program. We distributed 12,000 magazines here in Delhi, so I think 12,000 magazines should be sent to Madras. For payment for the other things Tamala Krishna will pay. You may please assist our Madras party by arranging these items for Biharilal to bring.

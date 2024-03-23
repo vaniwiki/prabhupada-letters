@@ -9,16 +9,6 @@
 
 ====== Letter to: Srutasrava ======
 
----- dataentry letters ----
-Recipient_hidden : Srutasrava
-ListDate_hidden  : 1971-11-17
-showdate_hidden  : 2023-11-17
-To_letters       : Srutasrava
-Date_letter      : November 18
-Year_letter      : 1971
-Place_letter     : Delhi
-----
-
 My dear Srutasrava,
 
 Please accept my blessings. I have instructed Sridama, that if he is willing then the match may take place. However I must caution that we must be careful to avoid so far as possible affection for family based on sense gratification. Be happy in your family life by working cooperatively to please Krishna, and she should be your assistant. We must always feel the grave responsibility of serving Krishna.

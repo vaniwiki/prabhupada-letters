@@ -9,16 +9,6 @@
 
 ====== Letter to: Unknown ======
 
----- dataentry letters ----
-Recipient_hidden : Unknown
-ListDate_hidden  : 1969-10-01
-showdate_hidden  : 2023-10-01
-To_letters       : Unknown
-Date_letter      : October 1
-Year_letter      : 1969
-Place_letter     : Tittenhurst
-----
-
 KRISHNA CONSCIOUSNESS: THE SANKIRTANA MOVEMENT
 
 The International Society for Krishna Consciousness is a bona fide religious society strictly following the principles described in the Vedic scriptures and practiced in India for thousands of years. Our basic beliefs are as follows:

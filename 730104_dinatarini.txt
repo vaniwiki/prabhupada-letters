@@ -9,16 +9,6 @@
 
 ====== Letter to: Dinatarini ======
 
----- dataentry letters ----
-Recipient_hidden : Dinatarini
-ListDate_hidden  : 1973-01-04
-showdate_hidden  : 2023-01-04
-To_letters       : Dinatarini
-Date_letter      : January 4
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 Dallas
 
 My dear Dinatarini Dasi,

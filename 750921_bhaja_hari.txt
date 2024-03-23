@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhaja Hari ======
 
----- dataentry letters ----
-Recipient_hidden : Bhaja Hari
-ListDate_hidden  : 1975-09-21
-showdate_hidden  : 2023-09-21
-To_letters       : Bhaja Hari
-Date_letter      : September 21
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Bhaktivedanta Manor
 
 My dear Bhaja Hari das,

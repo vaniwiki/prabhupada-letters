@@ -9,16 +9,6 @@
 
 ====== Letter to: Cyavana ======
 
----- dataentry letters ----
-Recipient_hidden : Cyavana
-ListDate_hidden  : 1973-03-06
-showdate_hidden  : 2023-03-06
-To_letters       : Cyavana
-Date_letter      : March 6
-Year_letter      : 1973
-Place_letter     : Calcutta
-----
-
 My dear Cyavana:
 
 Please accept my blessings and I beg to acknowledge receipt of your letter dated the 10th of February. There has been some delay in replying because of my travels. I have just arrived here a few days ago and by the 15th I shall be going to Mayapur.

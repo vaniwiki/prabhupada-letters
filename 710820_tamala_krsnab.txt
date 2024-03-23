@@ -9,16 +9,6 @@
 
 ====== Letter to: Tamala Krsna ======
 
----- dataentry letters ----
-Recipient_hidden : Tamala Krsna
-ListDate_hidden  : 1971-08-20
-showdate_hidden  : 2023-08-20
-To_letters       : Tamala Krsna
-Date_letter      : August 20
-Year_letter      : 1971
-Place_letter     : London
-----
-
 My dear Tamala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Janmastami day and have noted the contents carefully. Renovation means for old buildings donated to the society. Such buildings can be renovated from the building fund but not to maintain already purchased or rented buildings. That is to be done as individual expenditure of the temple concerned.

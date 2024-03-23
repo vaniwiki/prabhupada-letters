@@ -9,16 +9,6 @@
 
 ====== Letter to: Uttamasloka ======
 
----- dataentry letters ----
-Recipient_hidden : Uttamasloka
-ListDate_hidden  : 1975-12-11
-showdate_hidden  : 2023-12-11
-To_letters       : Uttamasloka
-Date_letter      : December 11
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Evanston, Illinois
 
 My dear Uttamasloka Prabhu,

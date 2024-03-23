@@ -9,16 +9,6 @@
 
 ====== Letter to: Gerald Sawas ======
 
----- dataentry letters ----
-Recipient_hidden : Gerald Sawas
-ListDate_hidden  : 1972-09-09
-showdate_hidden  : 2023-09-09
-To_letters       : Gerald Sawas
-Date_letter      : September 9
-Year_letter      : 1972
-Place_letter     : Dallas
-----
-
 3384 Mallin Ave.\\
 Long Beach, Calif. 90808
 

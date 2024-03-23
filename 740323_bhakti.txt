@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhakti ======
 
----- dataentry letters ----
-Recipient_hidden : Bhakti
-ListDate_hidden  : 1974-03-23
-showdate_hidden  : 2023-03-23
-To_letters       : Bhakti
-Date_letter      : March 23
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 San Diego
 
 Dear Bhakti das,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Karsan ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Karsan
-ListDate_hidden  : 1976-12-02
-showdate_hidden  : 2023-12-02
-To_letters       : Mr. Karsan
-Date_letter      : December 2
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Dear Mr. Karsan,
 
 Please accept my blessings.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Hansadutta ======
 
----- dataentry letters ----
-Recipient_hidden : Hansadutta
-ListDate_hidden  : 1968-11-30
-showdate_hidden  : 2023-11-30
-To_letters       : Hansadutta
-Date_letter      : November 30
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of the check for $321 Canadian dollars and I thank you very much for it. Just now I am going to send credit to Dai Nippon in Japan for $6,000 so I require some money for the book fund.

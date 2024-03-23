@@ -9,16 +9,6 @@
 
 ====== Letter to: Lilavati ======
 
----- dataentry letters ----
-Recipient_hidden : Lilavati
-ListDate_hidden  : 1970-04-01
-showdate_hidden  : 2023-04-01
-To_letters       : Lilavati
-Date_letter      : April 1
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 London
 
 My dear Lilavati,

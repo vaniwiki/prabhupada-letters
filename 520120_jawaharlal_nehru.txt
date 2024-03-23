@@ -9,16 +9,6 @@
 
 ====== Letter to: Jawaharlal Nehru ======
 
----- dataentry letters ----
-Recipient_hidden : Jawaharlal Nehru
-ListDate_hidden  : 1952-01-20
-showdate_hidden  : 2023-01-20
-To_letters       : Jawaharlal Nehru
-Date_letter      : January 20
-Year_letter      : 1952
-Place_letter     : Allahabad
-----
-
 Pandit Jawaharlal Nehru,\\
 President---All-India National Congress Working Committee.\\
 New Delhi.

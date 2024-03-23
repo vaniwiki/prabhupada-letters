@@ -9,16 +9,6 @@
 
 ====== Letter to: Harinama, Tadit, Bhaktin De Anna ======
 
----- dataentry letters ----
-Recipient_hidden : Harinama, Tadit, Bhaktin De Anna
-ListDate_hidden  : 1975-09-21
-showdate_hidden  : 2023-09-21
-To_letters       : Harinama, Tadit, Bhaktin De Anna
-Date_letter      : September 21
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Srimati Harinama-devi dasi\\
 Srimati Tadit-devi dasi\\
 Bhaktin De Anna\\

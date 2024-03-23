@@ -9,16 +9,6 @@
 
 ====== Letter to: Janis ======
 
----- dataentry letters ----
-Recipient_hidden : Janis
-ListDate_hidden  : 1966-12-10
-showdate_hidden  : 2023-12-10
-To_letters       : Janis
-Date_letter      : December 10
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 Janis Dambergs\\
 311 Saint Louis Square\\
 Montreal, 18, Quebec\\

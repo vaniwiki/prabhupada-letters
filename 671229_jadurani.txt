@@ -9,16 +9,6 @@
 
 ====== Letter to: Jadurani ======
 
----- dataentry letters ----
-Recipient_hidden : Jadurani
-ListDate_hidden  : 1967-12-29
-showdate_hidden  : 2023-12-29
-To_letters       : Jadurani
-Date_letter      : December 29
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Jadurani,
 
 Please accept my blessings. I thank you very much for your letter of Dec. 23(?), 1967, and I am glad to hear you are doing so nicely in Krishna Consciousness.

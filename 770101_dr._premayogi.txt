@@ -9,17 +9,6 @@
 
 ====== Letter to: Dr. Premayogi ======
 
----- dataentry letters ----
-Recipient_hidden : Dr. Premayogi # 
-ListDate_hidden  : 1977-01-01
-showdate_hidden  : 2023-01-01 #
-To_letters       : Dr. Premayogi # 
-Date_letter      : January 1 # 
-Year_letter      : 1977 # 
-Place_letter     : Bombay # 
-----
-
-
 c/o Krishna Balaram Mandir\\
 Chattikara Road\\
 Vrindaban, Mathura dist.\\

@@ -9,16 +9,6 @@
 
 ====== Letter to: Sudama ======
 
----- dataentry letters ----
-Recipient_hidden : Sudama
-ListDate_hidden  : 1974-05-26
-showdate_hidden  : 2023-05-26
-To_letters       : Sudama
-Date_letter      : May 26
-Year_letter      : 1974
-Place_letter     : Rome
-----
-
 Honolulu
 
 My dear Sudama Maharaja,

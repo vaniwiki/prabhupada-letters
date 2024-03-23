@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri K. K. Joshi ======
 
----- dataentry letters ----
-Recipient_hidden : Sri K. K. Joshi
-ListDate_hidden  : 1976-05-09
-showdate_hidden  : 2023-05-09
-To_letters       : Sri K. K. Joshi
-Date_letter      : May 9
-Year_letter      : 1976
-Place_letter     : Honolulu
-----
-
 Sri K.K. Joshi, Secretary\\
 Indian Humanist Union\\
 Kotwara House, Kaisarbagh\\

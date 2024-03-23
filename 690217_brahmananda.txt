@@ -9,16 +9,6 @@
 
 ====== Letter to: Brahmananda ======
 
----- dataentry letters ----
-Recipient_hidden : Brahmananda
-ListDate_hidden  : 1969-02-17
-showdate_hidden  : 2023-02-17
-To_letters       : Brahmananda
-Date_letter      : February 17
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated February 9, and February 10, 1969, as well as today I have received the article which was written by Howard Smith. Regarding the books, __True Conception of Religion__ and __Bhakti Rasamrita Sindhu,__ for __True Conception__ you may send 40 cents per copy to S. Brahmacari, and you may send $2.55 per copy to Swami Bon. As we are printing __Nectar of Devotion,__ this is the summary study of __Bhakti Rasamrita Sindhu,__ there is no need of further ordering this book from India.

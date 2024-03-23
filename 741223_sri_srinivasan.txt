@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Srinivasan ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Srinivasan
-ListDate_hidden  : 1974-12-23
-showdate_hidden  : 2023-12-23
-To_letters       : Sri Srinivasan
-Date_letter      : December 23
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Tiruchy Junction 1, India
 
 Dear Sri Srinivasan,

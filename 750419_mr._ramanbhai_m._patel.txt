@@ -9,16 +9,6 @@
 
 ====== Letter to: Mr. Ramanbhai M. Patel ======
 
----- dataentry letters ----
-Recipient_hidden : Mr. Ramanbhai M. Patel
-ListDate_hidden  : 1975-04-19
-showdate_hidden  : 2023-04-19
-To_letters       : Mr. Ramanbhai M. Patel
-Date_letter      : April 19
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Mr. Ramanbhai M. Patel\\
 1255, Fort St., Apt. #201\\
 Montreal H3H 2B8\\

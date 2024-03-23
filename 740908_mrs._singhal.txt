@@ -9,16 +9,6 @@
 
 ====== Letter to: Mrs. Singhal ======
 
----- dataentry letters ----
-Recipient_hidden : Mrs. Singhal
-ListDate_hidden  : 1974-09-08
-showdate_hidden  : 2023-09-08
-To_letters       : Mrs. Singhal
-Date_letter      : September 8
-Year_letter      : 1974
-Place_letter     : 
-----
-
 113 D.J. Rd.\\
 Ville Parle, W.\\
 Bombay 56

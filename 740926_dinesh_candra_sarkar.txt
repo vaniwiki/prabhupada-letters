@@ -9,16 +9,6 @@
 
 ====== Letter to: Dinesh Candra Sarkar ======
 
----- dataentry letters ----
-Recipient_hidden : Dinesh Candra Sarkar
-ListDate_hidden  : 1974-09-26
-showdate_hidden  : 2023-09-26
-To_letters       : Dinesh Candra Sarkar
-Date_letter      : September 26
-Year_letter      : 1974
-Place_letter     : Calcutta
-----
-
 Hooghly, India
 
 Dear Dinesh Candra Sarkar:

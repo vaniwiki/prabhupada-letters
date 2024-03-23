@@ -9,16 +9,6 @@
 
 ====== Letter to: Nicholas Prokosch ======
 
----- dataentry letters ----
-Recipient_hidden : Nicholas Prokosch
-ListDate_hidden  : 1977-02-01
-showdate_hidden  : 2023-02-01
-To_letters       : Nicholas Prokosch
-Date_letter      : February 1
-Year_letter      : 1977
-Place_letter     : 
-----
-
 Mr. Nikolas Prokosch\\
 62 Wiesbaden, Westendstr 6\\
 West Germany

@@ -9,16 +9,6 @@
 
 ====== Letter to: Markandeya Rsi ======
 
----- dataentry letters ----
-Recipient_hidden : Markandeya Rsi
-ListDate_hidden  : 1974-05-01
-showdate_hidden  : 2023-05-01
-To_letters       : Markandeya Rsi
-Date_letter      : May 1
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Brooklyn
 
 My dear Markandeya Rsi,

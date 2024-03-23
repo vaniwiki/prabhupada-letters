@@ -9,16 +9,6 @@
 
 ====== Letter to: Sudama ======
 
----- dataentry letters ----
-Recipient_hidden : Sudama
-ListDate_hidden  : 1973-12-10
-showdate_hidden  : 2023-12-10
-To_letters       : Sudama
-Date_letter      : December 10
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 Oahu, Hawaii
 
 My dear Sudama das Goswami:

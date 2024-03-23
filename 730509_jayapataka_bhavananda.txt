@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka, Bhavananda ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka, Bhavananda
-ListDate_hidden  : 1973-05-09
-showdate_hidden  : 2023-05-09
-To_letters       : Jayapataka, Bhavananda
-Date_letter      : May 9
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 Mayapur
 
 My dear Jayapataka and Bhavananda,

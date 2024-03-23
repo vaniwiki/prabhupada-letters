@@ -9,16 +9,6 @@
 
 ====== Letter to: Andrea Temple ======
 
----- dataentry letters ----
-Recipient_hidden : Andrea Temple
-ListDate_hidden  : 1968-01-13
-showdate_hidden  : 2023-01-13
-To_letters       : Andrea Temple
-Date_letter      : January 13
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Andrea Temple,
 
 Please accept my blessings. I have received your letter of January 9, 1968, and I thank you very much for it. I have heard from Govinda dasi that you are such a nice girl, and I appreciate your sincere interest in this Krishna Conscious philosophy and this Sankirtana movement of Lord Caitanya. I have also heard how you typed Sri Sri Brahma Samhita and I am very pleased with your sincere service.

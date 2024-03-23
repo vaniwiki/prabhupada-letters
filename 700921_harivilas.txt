@@ -9,16 +9,6 @@
 
 ====== Letter to: Harivilas ======
 
----- dataentry letters ----
-Recipient_hidden : Harivilas
-ListDate_hidden  : 1970-09-21
-showdate_hidden  : 2023-09-21
-To_letters       : Harivilas
-Date_letter      : September 21
-Year_letter      : 1970
-Place_letter     : 37/1 Hindusthan Road; Calcutta-29; India
-----
-
 My dear Harivilas,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 15th, 1970, the contents of which have given me great satisfaction. Sriman Hanuman has already arrived here in Calcutta and from the pictures he has shown me of your temple and devotees I can understand that everything is going on very nicely there.

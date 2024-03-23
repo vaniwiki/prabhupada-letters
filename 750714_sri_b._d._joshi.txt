@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri B. D. Joshi ======
 
----- dataentry letters ----
-Recipient_hidden : Sri B. D. Joshi
-ListDate_hidden  : 1975-07-14
-showdate_hidden  : 2023-07-14
-To_letters       : Sri B. D. Joshi
-Date_letter      : July 14
-Year_letter      : 1975
-Place_letter     : Philadelphia
-----
-
 Sri B.D. Joshi\\
 6608 Hagen Blvd.\\
 El Cerrito, Ca. 94530

@@ -9,16 +9,6 @@
 
 ====== Letter to: Rayarama ======
 
----- dataentry letters ----
-Recipient_hidden : Rayarama
-ListDate_hidden  : 1968-03-23
-showdate_hidden  : 2023-03-23
-To_letters       : Rayarama
-Date_letter      : March 23
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter dated March 20, 1968, and I thank you for it very much. I am happy to hear you have finished Teachings of Lord Caitanya, and it is all turning out very encouraging. Brahmananda has done nicely both the Gita and TLC, now he has to make sales organization and that credit is awaiting him.

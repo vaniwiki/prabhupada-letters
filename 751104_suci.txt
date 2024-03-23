@@ -9,16 +9,6 @@
 
 ====== Letter to: Suci ======
 
----- dataentry letters ----
-Recipient_hidden : Suci
-ListDate_hidden  : 1975-11-04
-showdate_hidden  : 2023-11-04
-To_letters       : Suci
-Date_letter      : November 4
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Nairobi
 
 My dear Suci devi dasi:

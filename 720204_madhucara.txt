@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhucara ======
 
----- dataentry letters ----
-Recipient_hidden : Madhucara
-ListDate_hidden  : 1972-02-04
-showdate_hidden  : 2023-02-04
-To_letters       : Madhucara
-Date_letter      : February 4
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 My dear Madhucara,*
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 1/25/72, and so far we have record, we have not received your letter of 1 1/2 months back containing $5 check; so you may cancel that check and issue another if you wish. As we are always moving about, it is not unusual for the mail to become diverted, sometimes for months.

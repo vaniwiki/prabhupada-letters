@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1967-09-27
-showdate_hidden  : 2023-09-27
-To_letters       : Hayagriva
-Date_letter      : September 27
-Year_letter      : 1967
-Place_letter     : Delhi
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. I thank you for your letter of the 24th instant and have noted the contents. Regarding Gitopanisad I have already informed to send the manuscript one copy to the following address namely

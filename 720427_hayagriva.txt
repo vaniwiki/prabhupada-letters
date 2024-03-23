@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1972-04-27
-showdate_hidden  : 2023-04-27
-To_letters       : Hayagriva
-Date_letter      : April 27
-Year_letter      : 1972
-Place_letter     : Tokyo
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. I am presently in Japan where I am very much encouraged of the response of the Japanese people to our movement. I shall be departing from here to Hawaii on the 6th of May instant and thereafter I shall be coming to Los Angeles on about the 15th of May.

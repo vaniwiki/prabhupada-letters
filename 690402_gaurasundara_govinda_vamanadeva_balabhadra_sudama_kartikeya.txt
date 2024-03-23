@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaurasundara, Govinda, Vamanadeva, Balabhadra, Sudama, Kartikeya ======
 
----- dataentry letters ----
-Recipient_hidden : Gaurasundara, Govinda, Vamanadeva, Balabhadra, Sudama, Kartikeya
-ListDate_hidden  : 1969-04-02
-showdate_hidden  : 2023-04-02
-To_letters       : Gaurasundara, Govinda, Vamanadeva, Balabhadra, Sudama, Kartikeya
-Date_letter      : April 2
-Year_letter      : 1969
-Place_letter     : San Francisco
-----
-
 My dear Gaurasundara, Govinda Dasi, Vamanadeva, Balabhadra, Sudama, and Kartikeya,
 
 Please accept my blessings to all of you. I beg to inform you that I have safely arrived as scheduled in San Francisco, and I am thinking fondly of you all. Cidananda has received one telephone call from Satsvarupa requesting advice as to what should be Jadurani's program, and I have advised that if the doctor wishes Jadurani to go to Hawaii immediately then she should do this. Otherwise she will wait in Boston till after I go there on April 22nd about. So when this matter is decided you will be notified about her arrival there.

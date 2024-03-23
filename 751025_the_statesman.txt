@@ -9,16 +9,6 @@
 
 ====== Letter to: The Statesman ======
 
----- dataentry letters ----
-Recipient_hidden : The Statesman
-ListDate_hidden  : 1975-10-25
-showdate_hidden  : 2023-10-25
-To_letters       : The Statesman
-Date_letter      : October 25
-Year_letter      : 1975
-Place_letter     : Mauritius
-----
-
 "The Statesman,"\\
 Calcutta---1, India\\
 Attn: Advertising Dept.

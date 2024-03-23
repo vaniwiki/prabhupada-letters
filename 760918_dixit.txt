@@ -9,16 +9,6 @@
 
 ====== Letter to: Dixit ======
 
----- dataentry letters ----
-Recipient_hidden : Dixit
-ListDate_hidden  : 1976-09-18
-showdate_hidden  : 2023-09-18
-To_letters       : Dixit
-Date_letter      : September 18
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 My dear Dixit das,
 
 Please accept my blessings. I am in due receipt of your kind letter dated 14th Sept. 1976 and have noted the contents with care. I am very much pleased to understand that although you are now living away from Vrndavana, your mind is here. That is a very good sign. This is the symptom of loving affection for Krishna.

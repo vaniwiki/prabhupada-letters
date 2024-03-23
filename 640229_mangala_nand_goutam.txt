@@ -9,16 +9,6 @@
 
 ====== Letter to: Mangala Nand Goutam ======
 
----- dataentry letters ----
-Recipient_hidden : Mangala Nand Goutam
-ListDate_hidden  : 1964-02-29
-showdate_hidden  : 2023-02-29
-To_letters       : Mangala Nand Goutam
-Date_letter      : February 29
-Year_letter      : 1964
-Place_letter     : Delhi
-----
-
 Sri Mangala Nand Goutam\\
 Editor Rastrapati\\
 Jama Masjid Dispensary\\

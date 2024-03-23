@@ -9,16 +9,6 @@
 
 ====== Letter to: Abhirama ======
 
----- dataentry letters ----
-Recipient_hidden : Abhirama
-ListDate_hidden  : 1971-09-09
-showdate_hidden  : 2023-09-09
-To_letters       : Abhirama
-Date_letter      : September 9
-Year_letter      : 1971
-Place_letter     : Mombassa, Kenya
-----
-
 Baltimore
 
 My dear Abhirama,

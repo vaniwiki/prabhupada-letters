@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike
-ListDate_hidden  : 1971-07-04
-showdate_hidden  : 2023-07-04
-To_letters       : Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike
-Date_letter      : July 4
-Year_letter      : 1971
-Place_letter     : Los Angeles
-----
-
 Cleveland
 
 My dear Sri Govinda, Srilekha, Bob, Leon, Will, Woody and Mike Prabhus.

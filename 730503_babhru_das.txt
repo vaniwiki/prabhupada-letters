@@ -9,16 +9,6 @@
 
 ====== Letter to: Babhru Das ======
 
----- dataentry letters ----
-Recipient_hidden : Babhru Das
-ListDate_hidden  : 1973-05-03
-showdate_hidden  : 2023-05-03
-To_letters       : Babhru Das
-Date_letter      : May 3
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Babhru Das,
 
 Please accept my blessings. I am in due receipt of your letter dated 5,1,73 and have received the dakshina contents contained therein. I am very grateful for your offering of $100 for your second initiation.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Nitai ======
 
----- dataentry letters ----
-Recipient_hidden : Nitai
-ListDate_hidden  : 1975-11-07
-showdate_hidden  : 2023-11-07
-To_letters       : Nitai
-Date_letter      : November 7
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Vrindaban
 
 My dear Nitai das:

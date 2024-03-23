@@ -9,16 +9,6 @@
 
 ====== Letter to: Hariprasada ======
 
----- dataentry letters ----
-Recipient_hidden : Hariprasada
-ListDate_hidden  : 1972-12-23
-showdate_hidden  : 2023-12-23
-To_letters       : Hariprasada
-Date_letter      : December 23
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 Hyderabad
 
 My dear Hariprasadaji,

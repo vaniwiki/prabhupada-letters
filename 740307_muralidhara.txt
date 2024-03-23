@@ -9,16 +9,6 @@
 
 ====== Letter to: Muralidhara ======
 
----- dataentry letters ----
-Recipient_hidden : Muralidhara
-ListDate_hidden  : 1974-03-07
-showdate_hidden  : 2023-03-07
-To_letters       : Muralidhara
-Date_letter      : March 7
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Dear Muralidhara,
 
 Please accept my blessings. I have received your letter sent to Mayapur with a list of questions regarding your painting pictures for my books. The answers are as follows.

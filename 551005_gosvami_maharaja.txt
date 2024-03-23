@@ -9,16 +9,6 @@
 
 ====== Letter to: Gosvami Maharaja ======
 
----- dataentry letters ----
-Recipient_hidden : Gosvami Maharaja
-ListDate_hidden  : 1955-10-05
-showdate_hidden  : 2023-10-05
-To_letters       : Gosvami Maharaja
-Date_letter      : October 5
-Year_letter      : 1955
-Place_letter     : New Delhi
-----
-
 My dear Sripada Gosvami Maharaja,
 
 Kindly accept my humble and respectful dandabats. I am in due receipt of your letter of the %%__ __%% while you're staying at Howrah Gaudiya Math. I hope by the time this letter reaches your hand you might have come back to calcutta. I was anxiously awaiting your articles for October. Today is the 5th and I thought that by the 15th of this month the paper might be be out. So please send the articles per return of post and oblige. I have noted your instruction for reviewing Netaidas Brahmacari's book. The other book is not available from Sri Kesavanadaji.

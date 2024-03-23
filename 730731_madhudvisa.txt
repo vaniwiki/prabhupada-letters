@@ -9,16 +9,6 @@
 
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1973-07-31
-showdate_hidden  : 2023-07-31
-To_letters       : Madhudvisa
-Date_letter      : July 31
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter recommending new Brahmin initiates.\\

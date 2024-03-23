@@ -9,16 +9,6 @@
 
 ====== Letter to: Aksayananda ======
 
----- dataentry letters ----
-Recipient_hidden : Aksayananda
-ListDate_hidden  : 1976-01-06
-showdate_hidden  : 2023-01-06
-To_letters       : Aksayananda
-Date_letter      : January 6
-Year_letter      : 1976
-Place_letter     : Nellore
-----
-
 My dear Aksayananda Maharaja,
 
 Please accept my blessings. I am in due receipt of your letters dated 24th December and 31st December, 1975, and have noted the contents of each carefully.

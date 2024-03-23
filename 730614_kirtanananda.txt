@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1973-06-14
-showdate_hidden  : 2023-06-14
-To_letters       : Kirtanananda
-Date_letter      : June 14
-Year_letter      : 1973
-Place_letter     : Mayapur
-----
-
 New Vrndavana
 
 My dear Kirtanananda Maharaja,

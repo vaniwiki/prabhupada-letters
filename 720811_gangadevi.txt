@@ -9,16 +9,6 @@
 
 ====== Letter to: Gangadevi ======
 
----- dataentry letters ----
-Recipient_hidden : Gangadevi
-ListDate_hidden  : 1972-08-11
-showdate_hidden  : 2023-08-11
-To_letters       : Gangadevi
-Date_letter      : August 11
-Year_letter      : 1972
-Place_letter     : London
-----
-
 Berlin
 
 My dear Gangadevi,

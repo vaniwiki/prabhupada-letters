@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda
-ListDate_hidden  : 1968-09-14
-showdate_hidden  : 2023-09-14
-To_letters       : Mukunda
-Date_letter      : September 14
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 My dear Mukunda,
 
 Please accept my blessings. I am so glad to receive your letter dated Sept. 9, 1968, and I have noted the contents carefully. Previously I received one letter from Syamasundara as well as from Gurudasa. I have replied Syamasundara's letter already and I am subjoining herewith also the reply to Gurudasa.

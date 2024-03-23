@@ -9,16 +9,6 @@
 
 ====== Letter to: Cidananda ======
 
----- dataentry letters ----
-Recipient_hidden : Cidananda
-ListDate_hidden  : 1974-09-07
-showdate_hidden  : 2023-09-07
-To_letters       : Cidananda
-Date_letter      : September 7
-Year_letter      : 1974
-Place_letter     : Vrindaban
-----
-
 Santa Cruz
 
 My dear Cidananda das:

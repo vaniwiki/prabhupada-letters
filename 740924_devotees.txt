@@ -9,16 +9,6 @@
 
 ====== Letter to: Devotees ======
 
----- dataentry letters ----
-Recipient_hidden : Devotees
-ListDate_hidden  : 1974-09-24
-showdate_hidden  : 2023-09-24
-To_letters       : Devotees
-Date_letter      : September 24
-Year_letter      : 1974
-Place_letter     : Calcutta
-----
-
 My dear Devotees:
 
 Please accept my blessings. I thank you very much for your letter received at Vrindaban and your prayers for my health. By your prayers and by your chanting Hare Krishna, and by the grace of Lord Nrsimhadeva I am recovered from the serious illness.

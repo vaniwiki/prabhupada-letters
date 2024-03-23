@@ -9,16 +9,6 @@
 
 ====== Letter to: Satadari ======
 
----- dataentry letters ----
-Recipient_hidden : Satadari
-ListDate_hidden  : 1974-07-07
-showdate_hidden  : 2023-07-07
-To_letters       : Satadari
-Date_letter      : July 7
-Year_letter      : 1974
-Place_letter     : Los Angeles
-----
-
 Los Angeles
 
 My dear Satadari devi dasi:

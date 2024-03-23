@@ -9,16 +9,6 @@
 
 ====== Letter to: A. K. Shivdasani ======
 
----- dataentry letters ----
-Recipient_hidden : A. K. Shivdasani
-ListDate_hidden  : 1974-11-22
-showdate_hidden  : 2023-11-22
-To_letters       : A. K. Shivdasani
-Date_letter      : November 22
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 15E (2, self help co-operative\\
 housing society Ltd.,\\
 St. Francis Road,\\

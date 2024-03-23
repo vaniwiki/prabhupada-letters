@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1968-11-18
-showdate_hidden  : 2023-11-18
-To_letters       : Hayagriva
-Date_letter      : November 18
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 My dear Hayagriva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of Nov. 12, 1968, and I am very much pleased to note the contents. The handbill of Dr. Frog, Ph.D. is very funny, and we should try to fight with these frog philosophers overcrowding all over the world. Your success in kirtana performances in the University campus is also very encouraging.

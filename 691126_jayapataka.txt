@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1969-11-26
-showdate_hidden  : 2023-11-26
-To_letters       : Jayapataka
-Date_letter      : November 26
-Year_letter      : 1969
-Place_letter     : London
-----
-
 My dear Jayapataka,
 
 I beg to acknowledge receipt of your letter of November 6, 1969. Regarding the Prasadam restaurant, if you start this, you should do it only in the temple. Not in another place. People there know about out temple; it is old enough. So if they come at noontime to take Prasadam, that is very nice. I have received the picture drawn by Peetabarana Gaura das Adhikari, and it is very well done. If you see him again, please convey my thanks to him. I shall be returning to USA sometimes in December, and I hope when I arrive in Boston at least some of you in the Montreal temple will be able to come see me at that time.

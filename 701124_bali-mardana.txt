@@ -9,16 +9,6 @@
 
 ====== Letter to: Bali-mardana ======
 
----- dataentry letters ----
-Recipient_hidden : Bali-mardana
-ListDate_hidden  : 1970-11-24
-showdate_hidden  : 2023-11-24
-To_letters       : Bali-mardana
-Date_letter      : November 24
-Year_letter      : 1970
-Place_letter     : Bombay
-----
-
 My dear Bali Mardan,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated November 9th and 11th, 1970.

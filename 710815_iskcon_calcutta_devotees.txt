@@ -9,16 +9,6 @@
 
 ====== Letter to: ISKCON Calcutta devotees ======
 
----- dataentry letters ----
-Recipient_hidden : ISKCON Calcutta devotees
-ListDate_hidden  : 1971-08-15
-showdate_hidden  : 2023-08-15
-To_letters       : ISKCON Calcutta devotees
-Date_letter      : August 15
-Year_letter      : 1971
-Place_letter     : London
-----
-
 TO ISKCON CALCUTTA:
 
 My dear Subaladas Swami, Madhudvisa Swami, Jayapataka Swami, Devananda Swami, Acyutananda Swami, Gargamuni Swami, Bali Mardan, Tamala Krishna, Madri devi, Gurudasa, Yamuna, Elliot, Lala Ram, Dravida, John Griesser, Yasodanandana, Pusta Krishna, Bhanu, Amrtananda, Dinanath, John, Citralekha, Giriraja, etc.

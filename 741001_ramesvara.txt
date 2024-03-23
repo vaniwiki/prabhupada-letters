@@ -9,16 +9,6 @@
 
 ====== Letter to: Ramesvara ======
 
----- dataentry letters ----
-Recipient_hidden : Ramesvara
-ListDate_hidden  : 1974-10-01
-showdate_hidden  : 2023-10-01
-To_letters       : Ramesvara
-Date_letter      : October 1
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Dear Ramesvara Prabhu:
 
 Please accept my humble obeisances at your feet. I am in due receipt of your letter dated September 5, 1974 and have discussed the contents with Srila Prabhupada. The Dollars 5,000 which you have collected for Food Relief may be sent for the construction of the Prasadam Distribution Pavilion here at Mayapur temple. One thousand people will be able to be fed at a time and it will cost Dollars 25,000. Gargamuni Swami has pledged to provide one half of the funds. Hansadutta Prabhu has just sent Dollars 4,000 for Food Relief which will also be used for this project. Please send your money directly to Gargamuni Swami's Calcutta account, with a separate letter to this effect.

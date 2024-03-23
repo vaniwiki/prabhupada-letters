@@ -9,16 +9,6 @@
 
 ====== Letter to: Mathura Prasad Agarwala ======
 
----- dataentry letters ----
-Recipient_hidden : Mathura Prasad Agarwala
-ListDate_hidden  : 1975-04-22
-showdate_hidden  : 2023-04-22
-To_letters       : Mathura Prasad Agarwala
-Date_letter      : April 22
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Proprietor\\
 Mathura Prasad Agarwala\\
 Agarwala Iron Works and\\

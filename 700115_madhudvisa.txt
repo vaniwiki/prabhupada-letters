@@ -1,16 +1,6 @@
 ~~Title:Letter to: Madhudvisa — January 15, 1970~~
 ====== Letter to: Madhudvisa ======
 
----- dataentry letters ----
-Recipient_hidden : Madhudvisa
-ListDate_hidden  : 1970-01-15
-showdate_hidden  : 2023-01-15
-To_letters       : Madhudvisa
-Date_letter      : January 15
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 5 January, 1970 and I am glad to learn that your process of approaching the Supreme is in order. Caitanya Mahaprabhu's philosophy is that we will neither try to become equal with the Lord nor we should attempt to approach Him directly. That will make us successful.

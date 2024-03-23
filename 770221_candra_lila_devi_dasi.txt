@@ -9,16 +9,6 @@
 
 ====== Letter to: Candra lila devi dasi ======
 
----- dataentry letters ----
-Recipient_hidden : Candra lila devi dasi
-ListDate_hidden  : 1977-02-21
-showdate_hidden  : 2023-02-21
-To_letters       : Candra lila devi dasi
-Date_letter      : February 21
-Year_letter      : 1977
-Place_letter     : 
-----
-
 ISKCON New Delhi
 
 Sree Mayapur Dham\\

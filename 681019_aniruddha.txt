@@ -9,16 +9,6 @@
 
 ====== Letter to: Aniruddha ======
 
----- dataentry letters ----
-Recipient_hidden : Aniruddha
-ListDate_hidden  : 1968-10-19
-showdate_hidden  : 2023-10-19
-To_letters       : Aniruddha
-Date_letter      : October 19
-Year_letter      : 1968
-Place_letter     : Seattle
-----
-
 My dear Aniruddha,
 
 Please accept my blessings. I am duly in receipt of your letter of Oct. 16, 1968, from San Francisco. You have asked my permission whether you can stay in San Francisco, but I think your service will be required in Los Angeles. The Sankirtana party is going to Los Angeles very soon, and I shall decide about you when I go there. In the meantime, you stay in San Francisco, and help Cidananda as secretary.

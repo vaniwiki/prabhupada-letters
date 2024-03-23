@@ -9,16 +9,6 @@
 
 ====== Letter to: Giriraja ======
 
----- dataentry letters ----
-Recipient_hidden : Giriraja
-ListDate_hidden  : 1976-12-05
-showdate_hidden  : 2023-12-05
-To_letters       : Giriraja
-Date_letter      : December 5
-Year_letter      : 1976
-Place_letter     : Hyderabad
-----
-
 Bombay
 
 My dear Giriraja,

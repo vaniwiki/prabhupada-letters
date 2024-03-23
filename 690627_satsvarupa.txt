@@ -9,16 +9,6 @@
 
 ====== Letter to: Satsvarupa ======
 
----- dataentry letters ----
-Recipient_hidden : Satsvarupa
-ListDate_hidden  : 1969-06-27
-showdate_hidden  : 2023-06-27
-To_letters       : Satsvarupa
-Date_letter      : June 27
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated June 23, 1969, on which date I have reached here at Los Angeles. Regarding Glen's contribution of $2,000, I may request you to send it to me by return of post. The house contemplated, I don't think is suitable for our purpose. In your country, a house at $19,000, especially in a city like Boston, must not be very large and accommodating. The best thing is to rent a big house if you cannot purchase a big one. But in all cases, I shall prefer a big house which can accommodate our temple and residence quarters. If possible, the book-binding department will be included also. If you purchase a small house, then again you will have to rent some other house for other purposes.

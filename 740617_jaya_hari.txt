@@ -9,16 +9,6 @@
 
 ====== Letter to: Jaya Hari ======
 
----- dataentry letters ----
-Recipient_hidden : Jaya Hari
-ListDate_hidden  : 1974-06-17
-showdate_hidden  : 2023-06-17
-To_letters       : Jaya Hari
-Date_letter      : June 17
-Year_letter      : 1974
-Place_letter     : Frankfurt
-----
-
 London
 
 My dear Jaya Hari,

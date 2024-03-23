@@ -9,16 +9,6 @@
 
 ====== Letter to: Laksmimoni ======
 
----- dataentry letters ----
-Recipient_hidden : Laksmimoni
-ListDate_hidden  : 1975-01-02
-showdate_hidden  : 2023-01-02
-To_letters       : Laksmimoni
-Date_letter      : January 2
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Dallas
 
 My dear Laksmimoni devi,

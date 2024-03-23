@@ -9,16 +9,6 @@
 
 ====== Letter to: Japanese brothers and sisters ======
 
----- dataentry letters ----
-Recipient_hidden : Japanese brothers and sisters
-ListDate_hidden  : 1970-03-10
-showdate_hidden  : 2023-03-10
-To_letters       : Japanese brothers and sisters
-Date_letter      : March 10
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 My dear Japanese brothers and sisters,
 
 Please accept my greetings. It is a great opportunity that Sriman Sudama Das Adhikari, one of my American students, has gone to your country to spread the gospel of Krishna Consciousness under superior order. The original order is from Lord Caitanya Who appeared 484 years ago at Navadvipa, a district in Bengal, India, as Lord Buddha appeared at Gaya, a district in Behar, India. We, the followers of Vedic culture, accept both Lord Buddha and Lord Caitanya as incarnations of God, as both of them are stated to be so in the authorized Vedic scriptures.

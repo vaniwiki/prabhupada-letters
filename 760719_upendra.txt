@@ -9,16 +9,6 @@
 
 ====== Letter to: Upendra ======
 
----- dataentry letters ----
-Recipient_hidden : Upendra
-ListDate_hidden  : 1976-07-19
-showdate_hidden  : 2023-07-19
-To_letters       : Upendra
-Date_letter      : July 19
-Year_letter      : 1976
-Place_letter     : New York
-----
-
 Lautoka, Fiji
 
 My dear Upendra dasa,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayapataka ======
 
----- dataentry letters ----
-Recipient_hidden : Jayapataka
-ListDate_hidden  : 1971-02-23
-showdate_hidden  : 2023-02-23
-To_letters       : Jayapataka
-Date_letter      : February 23
-Year_letter      : 1971
-Place_letter     : Gorakhpur
-----
-
 Calcutta
 
 My dear Jayapataka Maharaja,

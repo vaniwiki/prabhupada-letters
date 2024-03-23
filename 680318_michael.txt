@@ -9,16 +9,6 @@
 
 ====== Letter to: Michael ======
 
----- dataentry letters ----
-Recipient_hidden : Michael
-ListDate_hidden  : 1968-03-18
-showdate_hidden  : 2023-03-18
-To_letters       : Michael
-Date_letter      : March 18
-Year_letter      : 1968
-Place_letter     : San Francisco
-----
-
 My dear Michael,
 
 Please accept my blessings. I am in due receipt of your letter and I thank you very much for it. Yes, by Krishna's Grace all obstacles have been removed. We all prayed to Krishna that your inconveniences may be removed, and by Grace of Krishna, they have all been removed, so we feel very much thankful to the Lord. You just remain fixed up in devotional service, and all impediments that may come will be vanquished by the unlimited potency of the Lord. We should have faith in His Power, His Grace, and His Causeless Mercy,

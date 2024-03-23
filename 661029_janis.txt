@@ -9,16 +9,6 @@
 
 ====== Letter to: Janis ======
 
----- dataentry letters ----
-Recipient_hidden : Janis
-ListDate_hidden  : 1966-10-29
-showdate_hidden  : 2023-10-29
-To_letters       : Janis
-Date_letter      : October 29
-Year_letter      : 1966
-Place_letter     : New York
-----
-
 My dear Janis,
 
 I thank you for your letter of 25th instant and I have noted the contents carefully. I have complete agreement with for the arrangement that you desire to make in connection with the Exhibition at Montreal. Yes we shall go in a batch for performing the Kirtana ceremony both in the exhibition pandal as well as in the University Hall and you can arrange in that way.

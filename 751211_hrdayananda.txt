@@ -9,16 +9,6 @@
 
 ====== Letter to: Hrdayananda ======
 
----- dataentry letters ----
-Recipient_hidden : Hrdayananda
-ListDate_hidden  : 1975-12-11
-showdate_hidden  : 2023-12-11
-To_letters       : Hrdayananda
-Date_letter      : December 11
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 My dear Hrdayananda Swami,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 25, 1975, I have noted the contents carefully.

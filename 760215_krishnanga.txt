@@ -9,16 +9,6 @@
 
 ====== Letter to: Krishnanga ======
 
----- dataentry letters ----
-Recipient_hidden : Krishnanga
-ListDate_hidden  : 1976-02-15
-showdate_hidden  : 2023-02-15
-To_letters       : Krishnanga
-Date_letter      : February 15
-Year_letter      : 1976
-Place_letter     : Mayapur
-----
-
 Vrindaban
 
 My dear Krishnanga devi dasi,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Jayagovinda ======
 
----- dataentry letters ----
-Recipient_hidden : Jayagovinda
-ListDate_hidden  : 1969-03-27
-showdate_hidden  : 2023-03-27
-To_letters       : Jayagovinda
-Date_letter      : March 27
-Year_letter      : 1969
-Place_letter     : Hawaii
-----
-
 My dear Jaya Govinda,
 
 Please accept my blessings. I thank you for your letter of March 17, 1969, and I have received the bank receipt for the money deposited there. I have received one letter from Atma Ram and Sons that they have already dispatched the books to Calcutta and handed over the R.R. receipt to you. but you have not mentioned anything about this. I hope you have the matter handled nicely.

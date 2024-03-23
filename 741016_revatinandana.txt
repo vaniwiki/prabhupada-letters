@@ -9,16 +9,6 @@
 
 ====== Letter to: Revatinandana ======
 
----- dataentry letters ----
-Recipient_hidden : Revatinandana
-ListDate_hidden  : 1974-10-16
-showdate_hidden  : 2023-10-16
-To_letters       : Revatinandana
-Date_letter      : October 16
-Year_letter      : 1974
-Place_letter     : Mayapur
-----
-
 Los Angeles
 
 My dear Revatinandana Swami

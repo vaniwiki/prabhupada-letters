@@ -9,16 +9,6 @@
 
 ====== Letter to: Puri Maharaj ======
 
----- dataentry letters ----
-Recipient_hidden : Puri Maharaj
-ListDate_hidden  : 1972-02-05
-showdate_hidden  : 2023-02-05
-To_letters       : Puri Maharaj
-Date_letter      : February 5
-Year_letter      : 1972
-Place_letter     : Bombay
-----
-
 (handwritten:) replied on 11/2/72
 
 Camp:“Akash Ganga,” 7th floor,

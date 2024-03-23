@@ -9,16 +9,6 @@
 
 ====== Letter to: Krsna dasa ======
 
----- dataentry letters ----
-Recipient_hidden : Krsna dasa
-ListDate_hidden  : 1969-06-13
-showdate_hidden  : 2023-06-13
-To_letters       : Krsna dasa
-Date_letter      : June 13
-Year_letter      : 1969
-Place_letter     : New Vrindaban
-----
-
 My dear Krishna das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated June 6, 1969, and I thank you very much for your submissive feelings. They are just appropriate for an advancing Vaisnava. Please keep yourself in this nice attitude and Krishna will bless you.

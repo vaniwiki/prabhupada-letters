@@ -9,16 +9,6 @@
 
 ====== Letter to: Sama Priya ======
 
----- dataentry letters ----
-Recipient_hidden : Sama Priya
-ListDate_hidden  : 1975-08-16
-showdate_hidden  : 2023-08-16
-To_letters       : Sama Priya
-Date_letter      : August 16
-Year_letter      : 1975
-Place_letter     : Bombay
-----
-
 Boulder Creek, Ca.
 
 My dear Sama Priya devi dasi:

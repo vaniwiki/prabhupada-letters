@@ -9,16 +9,6 @@
 
 ====== Letter to: Gaura Hari ======
 
----- dataentry letters ----
-Recipient_hidden : Gaura Hari
-ListDate_hidden  : 1971-07-09
-showdate_hidden  : 2023-07-09
-To_letters       : Gaura Hari
-Date_letter      : July 9
-Year_letter      : 1971
-Place_letter     : Los Angeles
-----
-
 Victoria, B.C., Canada
 
 My dear Gaura Hari,

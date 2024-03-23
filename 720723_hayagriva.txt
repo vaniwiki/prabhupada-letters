@@ -9,16 +9,6 @@
 
 ====== Letter to: Hayagriva ======
 
----- dataentry letters ----
-Recipient_hidden : Hayagriva
-ListDate_hidden  : 1972-07-23
-showdate_hidden  : 2023-07-23
-To_letters       : Hayagriva
-Date_letter      : july 23
-Year_letter      : 1972
-Place_letter     : Paris
-----
-
 Hayagriva das Adhikary\\
 C/o ISKCON New Vrindaban
 

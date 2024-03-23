@@ -9,16 +9,6 @@
 
 ====== Letter to: Sriman Arjunan ======
 
----- dataentry letters ----
-Recipient_hidden : Sriman Arjunan
-ListDate_hidden  : 1976-06-30
-showdate_hidden  : 2023-06-30
-To_letters       : Sriman Arjunan
-Date_letter      : June 30
-Year_letter      : 1976
-Place_letter     : New Vrindaban
-----
-
 Bombay
 
 My dear Sriman Arjunan,

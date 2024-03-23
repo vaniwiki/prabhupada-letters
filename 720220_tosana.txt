@@ -9,16 +9,6 @@
 
 ====== Letter to: Tosana ======
 
----- dataentry letters ----
-Recipient_hidden : Tosana
-ListDate_hidden  : 1972-02-20
-showdate_hidden  : 2023-02-20
-To_letters       : Tosana
-Date_letter      : February 20
-Year_letter      : 1972
-Place_letter     : Calcutta
-----
-
 My dear Tosana,
 
 Please accept my blessings. I am in due receipt of your letter dated January 4 and I have noted the contents. I am glad to hear that you are always keeping engaged in Krishna's service and chanting Hare Krishna. As you chant, try to hear each word very carefully and always complete your sixteen rounds. Regular and attentive chanting, along with following the four regulative principles will keep one pure. Simply by following these principles and chanting Hare Krishna one can make his life successful and perfect.

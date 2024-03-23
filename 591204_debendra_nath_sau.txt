@@ -3,21 +3,10 @@
 
 ====== Post card to: Debendra Nath Sau ======
 
----- dataentry letters ----
-Recipient_hidden : Debendra Nath Sau
-ListDate_hidden  : 1959-12-04
-showdate_hidden  : 2023-12-04
-To_letters       : Debendra Nath Sau
-Date_letter      : 4 December
-Year_letter      : 1959
-Place_letter     : Ahmedabad
-----
-
 Shri Debendra Nath Sau\\
 (L & L.R. Department)\\
 8, Lyon’s Range\\
 Calcutta; 1
-
 
 My dear Deben,
 

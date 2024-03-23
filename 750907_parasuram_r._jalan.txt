@@ -9,16 +9,6 @@
 
 ====== Letter to: Parasuram R. Jalan ======
 
----- dataentry letters ----
-Recipient_hidden : Parasuram R. Jalan
-ListDate_hidden  : 1975-09-07
-showdate_hidden  : 2023-09-07
-To_letters       : Parasuram R. Jalan
-Date_letter      : September 7
-Year_letter      : 1975
-Place_letter     : Vrindaban
-----
-
 Sri P.R. Jalan\\
 Kunjlal Street\\
 Upper Bazzar\\

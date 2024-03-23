@@ -9,16 +9,6 @@
 
 ====== Letter to: Aniruddha ======
 
----- dataentry letters ----
-Recipient_hidden : Aniruddha
-ListDate_hidden  : 1969-02-04
-showdate_hidden  : 2023-02-04
-To_letters       : Aniruddha
-Date_letter      : February 4
-Year_letter      : 1969
-Place_letter     : Los Angeles
-----
-
 My dear Aniruddha,
 
 Please accept my blessings. I am in due receipt of your letter dated January 29, 1969, and I am pleased to learn that everything is going nicely with full cooperation of all of your godbrothers. Our center of activities is Krishna, and if we are actually Krishna Conscious there will always be full cooperation between ourselves for the satisfaction of Krishna.

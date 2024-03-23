@@ -9,16 +9,6 @@
 
 ====== Letter to: ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others ======
 
----- dataentry letters ----
-Recipient_hidden : ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others
-ListDate_hidden  : 1971-08-15
-showdate_hidden  : 2023-08-15
-To_letters       : ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others
-Date_letter      : August 15
-Year_letter      : 1971
-Place_letter     : London
-----
-
 TO ISKCON LAGUNA BEACH:
 
 My dear Rsabhadeva, Sivani devi, Indumati, Kalyanai, Kapiladev, Richard, Suruchi, Tajh, Dru, David, Vaidyanath, etc.

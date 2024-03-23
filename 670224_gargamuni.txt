@@ -9,16 +9,6 @@
 
 ====== Letter to: Gargamuni ======
 
----- dataentry letters ----
-Recipient_hidden : Gargamuni
-ListDate_hidden  : 1967-02-24
-showdate_hidden  : 2023-02-24
-To_letters       : Gargamuni
-Date_letter      : February 24
-Year_letter      : 1967
-Place_letter     : San Francisco
-----
-
 My dear Gargamuni,
 
 I hope you have duly received my former letter. I have asked the Bank to forward $100.00 to Montreal from my account knowing that you may not have sufficient money in the society's account. Have you transferred the amount to my account.

@@ -9,16 +9,6 @@
 
 ====== Letter to: Cyavana ======
 
----- dataentry letters ----
-Recipient_hidden : Cyavana
-ListDate_hidden  : 1974-11-01
-showdate_hidden  : 2023-11-01
-To_letters       : Cyavana
-Date_letter      : November 1
-Year_letter      : 1974
-Place_letter     : Bombay
-----
-
 Nairobi, Kenya
 
 My dear Cyavana Swami:

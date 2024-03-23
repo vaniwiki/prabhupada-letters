@@ -9,16 +9,6 @@
 
 ====== Letter to: Bhagavan ======
 
----- dataentry letters ----
-Recipient_hidden : Bhagavan
-ListDate_hidden  : 1973-05-18
-showdate_hidden  : 2023-05-18
-To_letters       : Bhagavan
-Date_letter      : May 18
-Year_letter      : 1973
-Place_letter     : Los Angeles
-----
-
 My dear Bhagavan dasa,
 
 Please accept my blessings. I am in due receipt of your letter dated 11/5/73, and I have carefully noted the contents.

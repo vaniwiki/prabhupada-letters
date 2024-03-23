@@ -9,16 +9,6 @@
 
 ====== Letter to: Lance Nally ======
 
----- dataentry letters ----
-Recipient_hidden : Lance Nally
-ListDate_hidden  : 1971-05-01
-showdate_hidden  : 2023-05-01
-To_letters       : Lance Nally
-Date_letter      : May 1
-Year_letter      : 1971
-Place_letter     : Bombay
-----
-
 Lance Nally\\
 702 North 2nd Street\\
 Aberdeen, South Dakota 57401

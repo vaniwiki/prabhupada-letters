@@ -9,16 +9,6 @@
 
 ====== Letter to: George ======
 
----- dataentry letters ----
-Recipient_hidden : George
-ListDate_hidden  : 1973-01-04
-showdate_hidden  : 2023-01-04
-To_letters       : George
-Date_letter      : January 4
-Year_letter      : 1973
-Place_letter     : Bombay
-----
-
 London
 
 My dear George,

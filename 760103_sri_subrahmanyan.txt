@@ -9,16 +9,6 @@
 
 ====== Letter to: Sri Subrahmanyan ======
 
----- dataentry letters ----
-Recipient_hidden : Sri Subrahmanyan
-ListDate_hidden  : 1976-01-03
-showdate_hidden  : 2023-01-03
-To_letters       : Sri Subrahmanyan
-Date_letter      : January 3
-Year_letter      : 1976
-Place_letter     : Nellore
-----
-
 55 North Car Street\\
 Thiruvanai Koil\\
 Trichi Tamilnad, India 620005

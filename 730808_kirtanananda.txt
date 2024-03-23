@@ -9,16 +9,6 @@
 
 ====== Letter to: Kirtanananda ======
 
----- dataentry letters ----
-Recipient_hidden : Kirtanananda
-ListDate_hidden  : 1973-08-08
-showdate_hidden  : 2023-08-08
-To_letters       : Kirtanananda
-Date_letter      : August 8
-Year_letter      : 1973
-Place_letter     : Bhaktivedanta Manor
-----
-
 My dear Kirtanananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your telegram from New York "Festival extended per letter expect Your Grace 23rd, send details"

@@ -3,17 +3,6 @@
 
 ====== Letter to: Pandit Hitsaran Sharma ======
 
----- dataentry letters ----
-Recipient_hidden : Pandit Hitsaran Sharma
-ListDate_hidden  : 1968-01-16
-showdate_hidden  : 2023-01-16
-To_letters       : Pandit Hitsaran Sharma
-Date_letter      : 16 January
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
-
 A. C. BHAKTIVEDANTA SWAMI\\
 Camp: I. S. K. C. O. N. Radha Krishna Temple\\
 5364 W. Pico Blvd., Los Angeles, Cal. 90019
@@ -28,7 +17,6 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-
 
 Pandit Hitsaran Sharma\\
 Radha Press, Main Road\\

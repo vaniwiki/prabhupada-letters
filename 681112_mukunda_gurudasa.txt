@@ -9,16 +9,6 @@
 
 ====== Letter to: Mukunda, Gurudasa ======
 
----- dataentry letters ----
-Recipient_hidden : Mukunda, Gurudasa
-ListDate_hidden  : 1968-11-12
-showdate_hidden  : 2023-11-12
-To_letters       : Mukunda, Gurudasa
-Date_letter      : November 12
-Year_letter      : 1968
-Place_letter     : Los Angeles
-----
-
 London
 
 My dear Mukunda, and My Dear Gurudasa,

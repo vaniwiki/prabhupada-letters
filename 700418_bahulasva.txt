@@ -9,16 +9,6 @@
 
 ====== Letter to: Bahulasva ======
 
----- dataentry letters ----
-Recipient_hidden : Bahulasva
-ListDate_hidden  : 1970-04-18
-showdate_hidden  : 2023-04-18
-To_letters       : Bahulasva
-Date_letter      : April 18
-Year_letter      : 1970
-Place_letter     : Los Angeles
-----
-
 Berkeley
 
 My dear Bahulasva,

@@ -9,16 +9,6 @@
 
 ====== Letter to: Hrdayananda ======
 
----- dataentry letters ----
-Recipient_hidden : Hrdayananda
-ListDate_hidden  : 1976-10-07
-showdate_hidden  : 2023-10-07
-To_letters       : Hrdayananda
-Date_letter      : October 7
-Year_letter      : 1976
-Place_letter     : Vrindaban
-----
-
 Los Angeles
 
 My dear Hrdayananda,
