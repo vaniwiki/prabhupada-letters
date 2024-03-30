@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Letter to: Sri D------ji — January 18, 1971",
-    "h1":"Sri D------ji — January 18, 1971",
-    "title":"Letter to: Sri D------ji — January 18, 1971",
+    "name":"Letter to: Sri D - - - ji — January 18, 1971",
+    "h1":"Sri D - - - ji — January 18, 1971",
+    "title":"Letter to: Sri D - - - ji — January 18, 1971",
     "description":""
 }
 ---
