@@ -1,5 +1,10 @@
-~~bc:Pandit Hitsaran Sharma — San Francisco, 4 January, 1968~~
-~~Title:Letter to: Pandit Hitsaran Sharma — San Francisco, 4 January, 1968~~
+---json
+{
+    "name":"Letter to: Pandit Hitsaran Sharma — January 4, 1968",
+    "h1":"Pandit Hitsaran Sharma — January 4, 1968",
+    "title":"Letter to: Pandit Hitsaran Sharma — January 4, 1968"
+}
+---
 
 ====== Letter to: Pandit Hitsaran Sharma ======
 

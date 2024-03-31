@@ -1,5 +1,10 @@
-~~bc:Satsvarupa — Los Angeles, 16 May, 1973~~
-~~Title:Letter to: Satsvarupa~~
+---json
+{
+    "name":"Letter to: Satsvarupa — Los Angeles, 16 May, 1973",
+    "h1":"Satsvarupa — Los Angeles, 16 May, 1973",
+    "title":"Letter to: Satsvarupa — Los Angeles, 16 May, 1973"
+}
+---
 
 ====== Letter to: Satsvarupa ======
 

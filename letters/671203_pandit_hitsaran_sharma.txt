@@ -1,5 +1,10 @@
-~~bc:Pandit Hitsaran Sharma — Tokyo, 3 December, 1967~~
-~~Title:Letter to: Pandit Hitsaran Sharma~~
+---json
+{
+    "name":"Letter to: Pandit Hitsaran Sharma — Tokyo, 3 December, 1967",
+    "h1":"Pandit Hitsaran Sharma — Tokyo, 3 December, 1967",
+    "title":"Letter to: Pandit Hitsaran Sharma — Tokyo, 3 December, 1967"
+}
+---
 
 ====== Letter to: Pandit Hitsaran Sharma ======
 

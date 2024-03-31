@@ -1,7 +1,12 @@
-~~bc:B. S. Sharma — Vrindaban, 9 September, 1967~~
-~~Title:Letter to: B. S. Sharma~~
+---json
+{
+    "name":"Letter to: B.S. Sharma — Vrindaban, 9 September, 1967",
+    "h1":"B.S. Sharma — Vrindaban, 9 September, 1967",
+    "title":"Letter to: B. S. Sharma — Vrindaban, 9 September, 1967"
+}
+---
 
-====== Letter to: B. S. Sharma ======
+====== Letter to: B.S. Sharma ======
 
 Dear Brij Suderji,
 

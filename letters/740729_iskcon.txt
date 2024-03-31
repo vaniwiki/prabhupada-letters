@@ -1,4 +1,11 @@
-~~Title: Resolution — July 29, 1974~~
+---json
+{
+    "name":"Letter to: Resolution — July 29, 1974",
+    "h1":"Resolution — July 29, 1974",
+    "title":"Letter to: Resolution — July 29, 1974"
+}
+---
+
 ====== Resolution ======
 
 Gandhi Gram Road, Juhu, Bombay 54

@@ -1,6 +1,10 @@
-~~bc: ISKCON Press — August 15, 1971 ~~
-~~Title: Letter to: ISKCON Press — August 15, 1971~~
-~~bc: ISKCON Press — August 15, 1971~~
+---json
+{
+    "name":"Letter to: ISKCON Press — August 15, 1971",
+    "h1":"ISKCON Press — August 15, 1971",
+    "title":"Letter to: ISKCON Press — August 15, 1971"
+}
+---
 
 ====== Letter to: ISKCON Press ======
 

@@ -1,5 +1,10 @@
-~~bc:Hayagriva, Shyamsundar and Haridas — New York, 23 April, 1967~~
-~~Title:Letter to: Hayagriva, Shyamsundar and Haridas~~
+---json
+{
+    "name":"Letter to: Hayagriva, Shyamsundar and Haridas — New York, 23 April, 1967",
+    "h1":"Hayagriva, Shyamsundar and Haridas — New York, 23 April, 1967",
+    "title":"Letter to: Hayagriva, Shyamsundar and Haridas — New York, 23 April, 1967"
+}
+---
 
 ====== Letter to: Hayagriva, Shyamsundar and Haridas ======
 

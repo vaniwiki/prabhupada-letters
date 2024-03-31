@@ -1,5 +1,10 @@
-~~bc:S.S.M. Dave — 17 January, 1968~~
-~~Title:Letter to: S.S.M. Dave — 17 January, 1968~~
+---json
+{
+    "name":"Letter to: S.S.M. Dave — 17 January, 1968",
+    "h1":"S.S.M. Dave — 17 January, 1968",
+    "title":"Letter to: S.S.M. Dave — 17 January, 1968"
+}
+---
 
 ====== Letter to: S.S.M. Dave ======
 

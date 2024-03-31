@@ -1,5 +1,10 @@
-~~bc:Whom it may concern — Montreal, 3 August, 1968~~
-~~Title:Letter to: Whom it may concern~~
+---json
+{
+    "name":"Letter to: Whom it may concern — Montreal, 3 August, 1968",
+    "h1":"Whom it may concern — Montreal, 3 August, 1968",
+    "title":"Letter to: Whom it may concern — Montreal, 3 August, 1968"
+}
+---
 
 ====== Letter to: Whom it may concern ======
 

@@ -1,5 +1,10 @@
-~~bc:B. K. Nehru — Delhi or Vrindaban, 6 September, 1967~~
-~~Title:Letter to: B. K. Nehru~~
+---json
+{
+    "name":"Letter to: B. K. Nehru — Delhi or Vrindaban, 6 September, 1967",
+    "h1":"B. K. Nehru — Delhi or Vrindaban, 6 September, 1967",
+    "title":"Letter to: B. K. Nehru — Delhi or Vrindaban, 6 September, 1967"
+}
+---
 
 ====== Letter to: B. K. Nehru ======
 

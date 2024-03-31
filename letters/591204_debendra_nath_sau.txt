@@ -1,5 +1,9 @@
-~~bc:Debendra Nath Sau — Ahmedabad, 4 December, 1959~~
-~~Title:Post card to: Debendra Nath Sau~~
+---json
+{
+    "name":"Post card to Debendra Nath Sau — Ahmedabad, 4 December, 1959",
+    "title":"Post card to Debendra Nath Sau"
+}
+---
 
 ====== Post card to: Debendra Nath Sau ======
 

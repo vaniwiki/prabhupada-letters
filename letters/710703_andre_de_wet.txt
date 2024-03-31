@@ -1,4 +1,11 @@
-~~Title:Letter to: Andre de Wet — July 3, 1971~~
+---json
+{
+    "name":"Letter to: Andre de Wet — July 3, 1971",
+    "h1":"Andre de Wet — July 3, 1971",
+    "title":"Letter to: Andre de Wet — July 3, 1971"
+}
+---
+
 ====== Letter to: Andre de Wet ======
 
 My dear Andre de Wet,

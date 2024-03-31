@@ -1,5 +1,10 @@
-~~bc:Hitsaran Sharma — Los Angeles, 19 January, 1968~~
-~~Title:Letter to: Hitsaran Sharma~~
+---json
+{
+    "name":"Letter to: Hitsaran Sharma — Los Angeles, 19 January, 1968",
+    "h1":"Hitsaran Sharma — Los Angeles, 19 January, 1968",
+    "title":"Letter to: Hitsaran Sharma — Los Angeles, 19 January, 1968"
+}
+---
 
 ====== Letter to: Hitsaran Sharma ======
 

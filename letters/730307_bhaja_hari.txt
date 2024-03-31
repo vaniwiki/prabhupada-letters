@@ -1,5 +1,10 @@
-~~bc:Bhaja Hari — Calcutta, 7 March, 1973~~
-~~Title:Letter to: Bhaja Hari~~
+---json
+{
+    "name":"Letter to: Bhaja Hari — Calcutta, 7 March, 1973",
+    "h1":"Bhaja Hari — Calcutta, 7 March, 1973",
+    "title":"Letter to: Bhaja Hari — Calcutta, 7 March, 1973"
+}
+---
 
 ====== Letter to: Bhaja Hari ======
 

@@ -1,4 +1,11 @@
-~~Title: Telegram to: Shyamsunder — February 28, 1971~~
+---json
+{
+    "name":"Telegram to: Shyamsunder — February 28, 1971",
+    "h1":"Shyamsunder — February 28, 1971",
+    "title":"Telegram to: Shyamsunder — February 28, 1971"
+}
+---
+
 ====== Telegram to: Shyamsunder ======
 
 INDIAN POSTS AND TELEGRAPHS DEPARTMENT\\

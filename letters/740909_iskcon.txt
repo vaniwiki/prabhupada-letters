@@ -1,4 +1,11 @@
-~~Title: Resolution — September 9, 1974~~
+---json
+{
+    "name":"Resolution — September 9, 1974",
+    "h1":"Resolution — September 9, 1974",
+    "title":"Resolution — September 9, 1974"
+}
+---
+
 ====== Resolution ======
 
 RESOLUTION

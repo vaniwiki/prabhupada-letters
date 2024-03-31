@@ -1,5 +1,10 @@
-~~bc:Mukunda — Vrindaban, 24 August, 1967~~
-~~Title:Letter to: Mukunda~~
+---json
+{
+    "name":"Letter to: Mukunda — Vrindaban, 24 August, 1967",
+    "h1":"Mukunda — Vrindaban, 24 August, 1967",
+    "title":"Letter to: Mukunda — Vrindaban, 24 August, 1967"
+}
+---
 
 ====== Letter to: Mukunda ======
 

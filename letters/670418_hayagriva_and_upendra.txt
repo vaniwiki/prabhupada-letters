@@ -1,5 +1,10 @@
-~~bc:Hayagriva and Upendra — New York, 18 April, 1967~~
-~~Title:Letter to: Hayagriva and Upendra~~
+---json
+{
+    "name":"Letter to: Hayagriva and Upendra — New York, 18 April, 1967",
+    "h1":"Hayagriva and Upendra — New York, 18 April, 1967",
+    "title":"Letter to: Hayagriva and Upendra — New York, 18 April, 1967"
+}
+---
 
 ====== Letter to: Hayagriva and Upendra ======
 

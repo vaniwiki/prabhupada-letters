@@ -1,5 +1,10 @@
-~~bc:Tirtha Maharaj — 26 June 1967~~
-~~Title:Letter to: Tirtha Maharaj~~
+---json
+{
+    "name":"Letter to: Tirtha Maharaj — 26 June 1967",
+    "h1":"Tirtha Maharaj — 26 June 1967",
+    "title":"Letter to: Tirtha Maharaj — 26 June 1967"
+}
+---
 
 ====== Letter to: Tirtha Maharaj — 26 June 1967 ======
 

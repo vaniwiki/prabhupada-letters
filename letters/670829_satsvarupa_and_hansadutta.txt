@@ -1,5 +1,10 @@
-~~bc:Satsvarupa and Hansadutta — Vrindaban, 29 August, 1967~~
-~~Title:Letter to: Satsvarupa and Hansadutta~~
+---json
+{
+    "name":"Letter to: Satsvarupa and Hansadutta — Vrindaban, 29 August, 1967",
+    "h1":"Satsvarupa and Hansadutta — Vrindaban, 29 August, 1967",
+    "title":"Letter to: Satsvarupa and Hansadutta — Vrindaban, 29 August, 1967"
+}
+---
 
 ====== Letter to: Satsvarupa and Hansadutta ======
 

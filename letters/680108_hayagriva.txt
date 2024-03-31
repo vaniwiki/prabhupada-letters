@@ -1,4 +1,11 @@
-~~Title:Letter to: Hayagriva — Los Angeles, 8 January, 1968~~
+---json
+{
+    "name":"Letter to: Hayagriva — Los Angeles, 8 January, 1968",
+    "h1":"Hayagriva — Los Angeles, 8 January, 1968",
+    "title":"Letter to: Hayagriva — Los Angeles, 8 January, 1968"
+}
+---
+
 ====== Letter to: Hayagriva ======
 
 My dear Hayagriva,
