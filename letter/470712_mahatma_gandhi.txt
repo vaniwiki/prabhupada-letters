@@ -10,8 +10,6 @@
 ====== Mahatma Gandhi ======
 
 <card class="letter">
-
-
 Mahatma Gandhijee\\
 Bhangi Colony\\
 New Delhi.
