@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visnujana ======
+====== Visnujana ======
 
+<card class="letter">
 My dear Visnujana Maharaja,
 
 Please accept my blessings. I understand from Kirtanananda Maharaja that there is a nice scheme for travelling sankirtana party. So I think that your joining them will be super-excellent scheme and I have my full hearted sanction for your joining the party if you like.
@@ -17,3 +18,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

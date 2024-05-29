@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated September 28 and October 2, 1972.
@@ -21,3 +22,4 @@ Hoping you are in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uddhava ======
+====== Uddhava ======
 
+<card class="letter">
 [To Uddhava dasa]
 
 [TEXT MISSING]
@@ -17,3 +18,4 @@ Regarding your wish to be married with a Krsna conscious family, that is nice. Y
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

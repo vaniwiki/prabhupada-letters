@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Scindia Steam Navigation Company Ltd ======
+====== Scindia Steam Navigation Company Ltd ======
 
+<card class="letter">
 Deputy Manager,\\
 The Scindia Steam Navigation Company Ltd.\\
 Scindia House, Dougall Road\\
@@ -50,3 +51,4 @@ N.B. Japan is far nearer than U.S.A. and therefore your sacrifice for travel to 
 Thanking you once more.
 
 Yours etc.
+</card>

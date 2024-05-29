@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cyavana ======
+====== Cyavana ======
 
+<card class="letter">
 My dear Cyavana Maharaja:
 
 Please accept my blessings. I have received your letter dated 22 July 1976 and have noted the contents with care.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

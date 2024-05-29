@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Candradevi ======
+====== Candradevi ======
 
+<card class="letter">
 New Orleans
 
 My dear Candradevi dasi:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

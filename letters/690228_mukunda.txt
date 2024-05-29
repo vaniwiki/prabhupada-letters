@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I thank you very much for your letter dated February 23, 1969, and I have noted the contents with much pleasure. I am enclosing herewith the copy of __Easy Journey To Other Planets__*. Also enclosed is some pages of __Isopanisad,__ so you can show them to Mr. Maschler and complete the business for their publication. I was so glad to learn from your letter that you will be able to sell __Back To Godhead__ to the extent of 5,000 copies at least, and please arrange for this.
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 NB; As I am going to Hawaii for the month of March, you may address my mail to Iskcon, 4 Leilani Building, 1649 Kapialani Blvd., Honolulu, Hawaii.\\
 *sent by separate post
+</card>

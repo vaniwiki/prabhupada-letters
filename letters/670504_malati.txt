@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Malati ======
+====== Malati ======
 
+<card class="letter">
 My dear Malati,
 
 Please accept my blessings. I am in receipt of your letter of the 25th, April 1967, and I am very glad to know the sentiment expressed therein. You are a very sincere girl and your sentiment is also very nice. One should always feel very humble, that will help one to make progress in Krishna Consciousness. So your humble feeling that you are shrouded by illusion is very nice, at the same time your feeling that Krishna Consciousness is so nice that it makes everything easy.
@@ -17,3 +18,4 @@ You have desired me to return to San Francisco by the 1st of June. If Krishna wi
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

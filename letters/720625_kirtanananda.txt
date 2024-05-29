@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 New Vrndavana
 
 My dear Kirtanananda,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
+</card>

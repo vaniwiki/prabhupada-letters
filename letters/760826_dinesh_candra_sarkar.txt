@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinesh Candra Sarkar ======
+====== Dinesh Candra Sarkar ======
 
+<card class="letter">
 Dinesh Candra Sarkas\\
 S, Bidya Jagar Rd.\\
 P.O. Nabagram\\
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

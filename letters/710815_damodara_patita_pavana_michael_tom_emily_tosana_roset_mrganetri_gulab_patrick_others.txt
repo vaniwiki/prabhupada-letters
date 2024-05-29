@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara, Patita Pavana, Michael, Tom, Emily, Tosana, Roset, Mrganetri, Gulab, Patrick, others ======
+====== Damodara, Patita Pavana, Michael, Tom, Emily, Tosana, Roset, Mrganetri, Gulab, Patrick, others ======
 
+<card class="letter">
 My dear Damodara, Patita Pavana, Michael, Tom, Emily, Tosan, Roset, Mrganetridevi, Gulab, Patrick, etc.
 
 Please accept my blessings. I beg to thank you very much for your kind feelings of appreciation of my humble service unto you. You are all helping me in pushing forward this mission of Lord Caitanya Mahaprabhu coming down by disciplic succession to my Guru Maharaja. So whatever you have spoken it is simply due to them. I am simply the via media to receive them on behalf of my Guru Maharaja, His Divine Grace Bhaktisiddhanta Sarasvati Goswami Maharaja Prabhupada.
@@ -17,3 +18,4 @@ Hoping this will meet you all in the best of health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

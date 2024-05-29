@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 Tokyo
 
 My dear Sudama,
@@ -29,3 +30,4 @@ A.C. Bhaktivedanta Swami
 *At Gaya Lord Caitanya was initiated by His Spiritual Master, Sri Isvara Puri Maharaja.\\
 N.B. On the 4th January 1971 we are all going to Bombay. From there my party men about 25 will go to Allahabad where the great spiritual fair Ardhakumbla mela will take place. I am reaching Calcutta on the 5th by air plane. There I shall attend an important meeting & then I shall come back to Allahabad & then to Gorakhpur etc. ACB\\
 ACBS/adb
+</card>

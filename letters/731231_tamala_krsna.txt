@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Tamala Krsna Goswami,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:SDG\\
 N.B. Mr. Asnami has phoned that I.T. certificate is obtained. Now what %%_%% further about municipality?
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balabhadra ======
+====== Balabhadra ======
 
+<card class="letter">
 My dear Balabhadra,
 
 Please accept my blessings. I thank you very much for your letter dated May 6th, 1969, and I have noted the contents carefully. I can understand that you are working very nicely and sincerely for helping our movement in Hawaii, and this is very encouraging to me. Please continue with this attitude and surely Krishna will provide you from within the intelligence of how you can serve him in the best way. Regarding your question about maintaining your body nicely, I think that if you follow our regulations of diet, sufficient sleeping, and keep to the prescribed rules of cleanliness, two baths per day,* then you will be able to keep yourself in proper health. Of course disease will always be there at some time while there is this material body, but this we must tolerate and not be very much agitated by. Actually, the Vaisnava who knows that he is not this body, he does not therefore neglect his body, but he takes very nice care so that he may utilize his body in the service of Krishna. Just like a man may know that he is not his car, so he does not therefore neglect his car, but he will take care of it so it will be able to render service to him. So we must take sufficient care to provide our bodies with its demands, but when disease or other necessary inconveniences arrive, we do not become disturbed because such troubles are simply temporary manifestations.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *at least one
+</card>

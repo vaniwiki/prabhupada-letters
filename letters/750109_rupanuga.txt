@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 Brooklyn
 
 My dear Rupanuga das,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Your idea of having the "summer institute" at your farm is nice.\\
 ACBS/ps
+</card>

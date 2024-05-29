@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I am presently in Japan where I am very much encouraged of the response of the Japanese people to our movement. I shall be departing from here to Hawaii on the 6th of May instant and thereafter I shall be coming to Los Angeles on about the 15th of May.
@@ -34,3 +35,4 @@ Moundsville, W. Virginia
 U.S.A.
 
 ACB/kda
+</card>

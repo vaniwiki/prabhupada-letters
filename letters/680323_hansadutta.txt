@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 New York
 
 My dear Hansadutta,
@@ -19,3 +20,4 @@ So far the advertising is concerned, you can follow the example of the enclosed 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

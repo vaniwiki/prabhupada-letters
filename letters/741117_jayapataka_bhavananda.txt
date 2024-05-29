@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka, Bhavananda ======
+====== Jayapataka, Bhavananda ======
 
+<card class="letter">
 Mayapur
 
 My dear Jayapataka and Bhavananda Swami:
@@ -22,3 +23,4 @@ I hope this meets you in good health.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS/bs
+</card>

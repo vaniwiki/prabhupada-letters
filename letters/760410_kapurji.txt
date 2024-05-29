@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kapurji ======
+====== Kapurji ======
 
+<card class="letter">
 Kanpur, India
 
 My dear Kapurji,
@@ -23,3 +24,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

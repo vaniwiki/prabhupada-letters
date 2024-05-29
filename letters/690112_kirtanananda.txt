@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 31, 1968, and I thank you for your good wishes for the new year. Please accept the same from my side.
@@ -25,3 +26,4 @@ May Krishna bless you with long life in executing the idea of our New Vrindaban 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

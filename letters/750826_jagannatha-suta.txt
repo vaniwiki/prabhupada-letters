@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagannatha-suta ======
+====== Jagannatha-suta ======
 
+<card class="letter">
 Los Angeles
 
 My dear Jagannatha Suta das:
@@ -21,3 +22,4 @@ I hope this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

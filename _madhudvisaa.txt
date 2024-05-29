@@ -7,8 +7,10 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 MADHUVISA SWAMI
 
 IF NO MEN AVAILABLE FOR HONG KONG WHATEVER YOU DECIDE IS ALL RIGHT ... A C BHAKTIVEDANTA SWAMI
+</card>

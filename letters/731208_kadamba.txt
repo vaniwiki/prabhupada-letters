@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kadamba ======
+====== Kadamba ======
 
+<card class="letter">
 My dear Kadamba dasi,
 
 Please accept my blessings. I am in receipt of your note and gift of one ring. Just now I am wearing it. Because you have sincerely offered, I must accept on behalf of my Guru Maharaja although I am not worthy.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
+</card>

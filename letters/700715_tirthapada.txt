@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tirthapada ======
+====== Tirthapada ======
 
+<card class="letter">
 Sydney
 
 My dear Tirthapada,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

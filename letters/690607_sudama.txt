@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 My dear Sudama,
 
 All Glories to Sudama das Brahmacari and the Hawaii devotees for their excellent work. I have appreciated so much your letter of June 2, 1969 that I am making copies of this letter to send to different centers to show them how much potency is this Sankirtana Movement. So for the time being as you are working enthusiastically in Hawaii, try to establish a very good center there. There is nice potential there I know, and I think Krishna is already giving impetus for this purpose, because Gaurasundara and Balabhadra have gone to find a nice place on the Hawaii Island. So all of you work conscientiously and jointly, you are all good souls, and you will be successful if you can transform Hawaii into New Navadvipa. Lord Caitanya will shower His blessings and you will be happy, not only in this life, but you will be promoted to Krishna Loka. Concentrate your energies now in Hawaii center, and in the future we shall establish a center in Japan. I think the roar of your Sankirtana in Hawaii will soon be heard in the neighboring places, including Japan and Hong Kong. The ocean is the father-in-law of Visnu, because the Goddess of Fortune, Laksmi, was born by the churning of the ocean. So the Goddess of Fortune, Laksmi, being the daughter of the ocean, the ocean also will help in spreading the glories of the ocean's daughter and son-in-law. So please keep me informed of your activities, and this will engladden me.
@@ -19,3 +20,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

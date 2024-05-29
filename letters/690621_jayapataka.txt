@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I am so glad to receive your letter dated 18 June, 1969, and I have carefully noted the contents. The Rathayatra Festival you will perform from the 20th of July to the 27th of July. The main item is the car, so how will you observe the Festival with out the required car, or ratha. If you want to take the Deities on the shoulders of the devotees, that is also nice. But if you would convey the Deities on a car, that will be very nice. The Festival is the Deities are taken to some river side, if not the seaside, and Montreal has got a very nice river, the St. Lawrence River. The system is that for 8 days the Deities remain on the seaside, and kirtana goes on, prasada is distributed, and people offer flowers, fruits, etc. to the Deities. Then on the 8th day, the Lord returns to His own place. This is the system, and the care is taken in great procession, complete with chanting, flowers, etc. This year Boston is also trying to celebrate the Rathayatra Festival, and if you like, you may open correspondence with Satsvarupa in this connection, and he will help you with further ideas.
@@ -19,3 +20,4 @@ This Monday, June 23rd, I am going to Los Angeles, so you may address future cor
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Madras
 
 [To Giriraja]
 
 YOUR LETTER DECEMBER 31 IF MADRAS BUSINESS IS GOING NICELY DISREGARD TAMALS TELEGRAM REMAIN MADRAS LETTER FOLLOWS---BHAKTIVEDANTA SWAMI---
+</card>

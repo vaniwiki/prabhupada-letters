@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harivilasa ======
+====== Harivilasa ======
 
+<card class="letter">
 Paris
 
 My dear Harivilasa,
@@ -33,3 +34,4 @@ Hope this will meet you in good health.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS:db
+</card>

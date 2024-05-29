@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saurabha ======
+====== Saurabha ======
 
+<card class="letter">
 My dear Saurabha dasa,
 
 Please accept my blessings. I am in due receipt of your letter dated July 5, 1976, and I have noted the contents with care.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

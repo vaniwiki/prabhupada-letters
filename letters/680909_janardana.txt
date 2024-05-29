@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janardana ======
+====== Janardana ======
 
+<card class="letter">
 My dear Janardana,
 
 Please accept my blessings, and I hope you are all doing well in Montreal. And I may inform you that immediately you begin translation work of our Srimad-Bhagavatam in French, as well as Bhagavad-gita as it is, in French, and begin our Back To Godhead in French language printed in the mimeograph machine. So you have got enough engagement; you may not take trouble of attempting Srimad-Bhagavatam. I think this will be done by Hayagriva. You take up the responsibility of translating them into French, and as soon as our press is started, that means Advaita and Uddhava are expert in printing matters, we start our press, and we shall print the French books, the English books, and as many publications as are possible, we shall do. But I hope in the meantime you have talked with Brahmananda that one remittance, $1,655.00, was advised to be dispatched to London. But I have received letter from Syamasundara that he has not received the money. Kindly go to my bank and my account number, V269 A.C. Bhaktivedanta Swami, and you see the manager, why he has not remitted the money. Because the people are in a foreign country, and without money they will be in much difficulty. Kindly do the needful.
@@ -17,3 +18,4 @@ You will be pleased to know that I had no difficulty entering USA, with the Cana
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

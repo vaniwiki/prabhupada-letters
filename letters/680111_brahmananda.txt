@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. Perhaps you know that I have come to L.A. on Saturday last and before coming here, I received one letter from you regarding publishing of Gita. It is understood that the book is going to be published by the month of August and it will be available for us in the month of September 1968. But I have heard nothing from you about the contract which I have sent you back duly signed. I am anxious to know whether Messrs. MacMillan Company has also signed contract and have paid the promised money $1000. I shall be glad if you will enlighten me on this point.
@@ -38,3 +39,4 @@ With salutations to Sri Hari,
 I am yours sincerely,
 
 Hanuman Prasad Poddar
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pusta Krsna ======
+====== Pusta Krsna ======
 
+<card class="letter">
 Johannesburg
 
 My dear Pusta Krishna Swami:
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: Nairobi
+</card>

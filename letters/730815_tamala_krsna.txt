@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Tamala Krishna,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:hda\\
 NB. Mr Pulla Reddy gave us the land as a donation and why he is making now this land as a trust property, why not outright gift land? These are very important points. I have not heard anything from you about Mayapur and Bombay affair. If Mrs. Nair is not definite of selling to us, then what is the purpose of transferring the required money to India. I can transfer the money immediately on hearing from you. I have already written you one letter from Paris.
+</card>

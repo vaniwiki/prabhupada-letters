@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Jayakar ======
+====== Mr. Jayakar ======
 
+<card class="letter">
 Bombay
 
 Dear Mr. Jayakar:
@@ -26,3 +27,4 @@ Faithfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

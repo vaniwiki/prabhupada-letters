@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radhavallabha ======
+====== Radhavallabha ======
 
+<card class="letter">
 My dear Radhavallabha Prabhu,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 27th, 1975 and I have noted the contents carefully. Also, I wish to thank you and all the devotees serving at the BBT for helping to produce these new volumes. Thank you very much.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

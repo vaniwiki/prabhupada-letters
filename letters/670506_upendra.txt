@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I am in due receipt of your letter of May 4, 1967 and I am concerned about your %%__%% for army mobilization. I am enclosing herewith a letter you may present to the authority and as a Divinity Student you must not be sent to the field. Chant Hare Krishna. Krishna will save you. Present our prospectus and all newspaper cuttings. Some new cuttings I am enclosing herewith. Also I would request you to pay the rent on room in which I was staying. The Society is short of %%__%% and therefore you can assure Haridasa, Mukunda and Syamasundara, that hence forward you should take responsibility for the rent of my apartment.
@@ -17,3 +18,4 @@ Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: 4
+</card>

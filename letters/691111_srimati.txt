@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Srimati ======
+====== Srimati ======
 
+<card class="letter">
 My dear Srimati,
 
 Please accept my blessings. I beg to thank you very much for your letter dated October 28, 1969 and have noted the contents with pleasure. I am so glad to learn that with the help of Durlabh and the others you are making progress in our Laguna Beach center. Any new brahmacaris who come with good faith should be helped. We are living in the Kingdom of Maya, so Maya's influence is very great in the material world. It is just like an epidemic. So one has to become immune very carefully by Krishna Consciousness. So you are experienced now in association with devotees, and you are very sincere also. Try to help any newcomers as far as possible.
@@ -17,3 +18,4 @@ Regarding worshiping uninstalled Deities, generally this is not done. But you ca
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

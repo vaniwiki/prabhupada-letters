@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. You will be glad to know that we arrived safely in Moscow and stayed there for five days. There are many younger Muscovites who are very much anxious to join our movement. Unfortunately the government is so strict that it is difficult to take their cooperation for starting a center there. Everything is strictly under government control. Still we are trying to open a center with the help of local men. The city is very big and there are many nice buildings, roads, etc. but life is not very happy. One cannot live according to his own choice. Fruits and vegetables are very scantily supplied. Milk, butter and yogurts are amply available, though.\\
@@ -22,3 +23,4 @@ Please offer my blessings to the others. Hoping this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

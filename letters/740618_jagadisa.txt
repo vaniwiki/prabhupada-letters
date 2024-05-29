@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagadisa ======
+====== Jagadisa ======
 
+<card class="letter">
 Evanston, Illinois
 
 My dear Jagadisa,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

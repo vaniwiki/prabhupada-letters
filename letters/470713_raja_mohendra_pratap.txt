@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Raja Mohendra Pratap ======
+====== Raja Mohendra Pratap ======
 
+<card class="letter">
 Raja Mohendra Pratap\\
 World Federation\\
 Prem MohaVidyalaya\\
@@ -48,3 +49,4 @@ I hope you may agree with me and thus make a combined effort in this direction f
 
 Yours sincerely,\\
 Abhay Charan De
+</card>

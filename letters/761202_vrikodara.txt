@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vrikodara ======
+====== Vrikodara ======
 
+<card class="letter">
 New Orleans
 
 My dear Vrikodara,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

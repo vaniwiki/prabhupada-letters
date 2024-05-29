@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna dasa ======
+====== Krsna dasa ======
 
+<card class="letter">
 My dear Krishna Das,
 
 Please accept my blessings. I am in due receipt of your letter of August 8th, 1969, and I have noted the contents. It is understood that the ticket you have sent to New York was redirected to me here in Los Angeles, but somehow or other it has never arrived here. So you must have this ticket cancelled immediately. Another thing is that the flight on Icelandic Airlines is for 12 hours, and such a long flight is not possible. There is another airlines, Lufthansa Airlines, and their flight from New York to Hamburg is 7 1/2 hours. The fare on this airlines is $252, but I think this will be much better. Anyway, I am awaiting your telegram or your Special Delivery letter saying that you have found an apartment, and myself and Purusottama may go there to Hamburg. Regarding the ticket, I think it will be a better plan to have the New York or the Los Angeles temple put forward the money, and as soon as it is purchased here, you and Mukunda may reimburse them immediately. I understand that you have asked from San Francisco, Los Angeles and New York temples for a loan of $100. That is all right.
@@ -17,3 +18,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

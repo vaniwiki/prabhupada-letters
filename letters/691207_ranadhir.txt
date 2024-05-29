@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ranadhir ======
+====== Ranadhir ======
 
+<card class="letter">
 My Dear Ranadhir, 
 
 Please accept my blessings. I beg to thank you for your letter dated November 23, 1969. I am so pleased to learn of the increased development of New Vrindaban. Please now try to organize a children's school. This is one of our programs in New Vrindaban, and there is Hayagriva, Kirtanananda, Satyabhama, Shama Dasi, Paramananda and yourself. You can form a school committee and get it recognized by the Education Board. Then more children will be sent. There is one small child in Berkeley, and if you so desire, you can ask Hansadutta to send the child in your care.
@@ -21,3 +22,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

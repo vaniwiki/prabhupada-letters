@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balavanta ======
+====== Balavanta ======
 
+<card class="letter">
 Atlanta
 
 Dear Balavanta,
@@ -26,3 +27,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

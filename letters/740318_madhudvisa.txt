@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 Dear Madhudvisa Maharaja,
 
 Please accept my blessings. I have accepted the two Melbourne devotees for initiation as recommended by you and their names are given as follows:
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

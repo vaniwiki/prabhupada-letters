@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I thank you very much for your letter dated July 1, 1969, and I have noted the contents carefully. I am pleased to note that you are diligently going out on Sankirtana everyday, and you are managing the temple affairs nicely. You have requested that some brahmacaris may come out to help you in Montreal, but one problem is that the American boys cannot work in Montreal. This is one hindrance. I shall consult with Tamala Krishna to see if there are any boys available from the Los Angeles temple who may go there, but I do not think that these American boys will be able to hold jobs in Montreal. I am anxious to know what is the position of the French __Back To Godhead.__ I received issue #3 several months ago, but since then there has been no further word about this very important publication. So please inform me what is the situation regarding French __BTG.__ In Germany they are now printing a very beautiful German edition of __BTG,__ and this is very, very pleasing to my Guru Maharaja because He wanted that peoples of all languages may understand this philosophy of Krishna Consciousness. Regarding further tapes of Vedanta Sutra, this has been suspended for the time being, but when I begin again I shall send the tapes to you. Recently we have finished our book, Nectar of Devotion, and now the book, Krishna, is in the process of being written. So when the project of Vedanta Sutra is again taken up I shall inform you.
@@ -19,3 +20,4 @@ Please convey my blessings to the others. I am very pleased that you are working
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri S. N. Nayar ======
+====== Sri S. N. Nayar ======
 
+<card class="letter">
 Sri S. N. Nayar\\
 Delhi
 
@@ -20,3 +21,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

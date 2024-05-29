@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of July 7, 1969, and I have carefully noted the contents. Rather then answering your points now, I think when we meet again in San Francisco Rathayatra Ceremony we shall discuss things. But one thing is that I have a very nice place in mind where yourself and Himavati may go to help start one temple. In Detroit there is one very nice household couple, Bhagavan das and Krishna Bhamini, and I am thinking that you would be ideal to go there and organize the temple as the president and propagate Sankirtana Party. So we shall discuss this at length in San Francisco.
@@ -17,3 +18,4 @@ Please convey my blessings to Himavati and Ananda and the others. I hope this wi
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

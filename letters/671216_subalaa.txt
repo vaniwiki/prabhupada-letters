@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subal das,
 
 Please accept my blessings. I am in due receipt of your letter of 12/14/67 and have noted the contents carefully. I hope in the meantime you have received my letter posted yesterday. I have already advised you that once a center opens it cannot be closed. Therefore my advise is that Srimati Krishna devi may look after the center for a few days during your absence for N.Y. when the things are mature and come back within 2 or 3 days. And for 2 or 3 days Srimati Krishna devi will manage and Krishna will give her all protection, don't worry. I have already given you a business suggestion namely manufacturing incense locally. Once you are successful in this attempt you will get money more than your expectation and spend it for Krishna's service. I hope you will understand me right and do the needful.
@@ -17,3 +18,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mathuresh (Andrew Day), Raghavendu (Martin Lewis), Vijay Laksmi (Jill Lewis) ======
+====== Mathuresh (Andrew Day), Raghavendu (Martin Lewis), Vijay Laksmi (Jill Lewis) ======
 
+<card class="letter">
 My dear Sons and Daughter,
 
 Please accept my blessings. Upon the recommendation of Satsvarupa I have gladly consented to accept all of you as my duly initiated disciples. Your beads have been duly chanted on by me and they are sent under separate post. I have given all of you the spiritual names as follows:
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pdd
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavata ======
+====== Bhagavata ======
 
+<card class="letter">
 Calcutta
 
 My dear Bhagavata das:
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Round about our temple there are many apartment houses constructed. Will you enquire about an apartment not less than three rooms and up to four rooms and find out what is the price and what are the terms.\\
 ACBS/bs
+</card>

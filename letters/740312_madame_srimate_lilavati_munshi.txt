@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madame Srimate Lilavati Munshi ======
+====== Madame Srimate Lilavati Munshi ======
 
+<card class="letter">
 Dear Madame Srimate Lilavati Munshi;
 
 Kindly accept my greetings. When I was in Mayapur I received your invitation letter dated February 26; I received your letter on March 3rd, and was not able to attend, but I thank you very much.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

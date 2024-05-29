@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 Honolulu
 
 My dear Brahmananda Maharaja,
@@ -26,3 +27,4 @@ ACBS/ps\\
 N.B. Madhudvisa Svami has written one letter postponing the installation until May, 1975. Therefore you need not be too much hurried to finish everything by Mid-January anymore. I want to know fully what is the position of Bhaktivedanta Manor (I think it is not good) and Germany. You must analyze these problems very carefully and make frequent reports and I will give you further instructions.
 
 ACBS
+</card>

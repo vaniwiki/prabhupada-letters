@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brisakapi ======
+====== Brisakapi ======
 
+<card class="letter">
 Potomac, Maryland
 
 My dear Brisakapi,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 enc.: one thread and sheet for brahmana initiation.\\
 ACBS/pks
+</card>

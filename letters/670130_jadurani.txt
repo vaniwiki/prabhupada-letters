@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept by blessings. I have heard about your good work although you did not write me. I always remember you as the nicest girl because you are so devoutly engaged in the service of Krishna. I am sure Krishna is pleased on you and He will bestow His blessings upon you. Better you accept Krishna as your Husband and He will never be unfaithful. Mundane husbands and wives never agree with one another. Because in the material world the relations are on the basis of body which is false basically. Under the circumstance how we can have the genuine thing on platform of false existence. Devote yourself therefore 24 hours in the service of Krishna and see how you feel happy in all respects. You are very good girl, because I have heard you chanting while working. It is very good and may Krishna give you more and more enlightenment. I always pray that you may be happy by our Lord's Grace. I shall be glad to hear from you.
 
 Yours ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

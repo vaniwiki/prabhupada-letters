@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 New York
 
 My dear Brahmananda,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am very anxious to deliver the MSS to MacMillan Co & get the Contract signed by them along with check of $1000.00
+</card>

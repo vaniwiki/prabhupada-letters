@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Shyama Dasi ======
+====== Shyama Dasi ======
 
+<card class="letter">
 ISKCON CENTER: 439 Henry Street,\\
 Brooklyn, N.Y.
 
@@ -29,3 +30,4 @@ Priyavrata Das Brahmachary \\
 Srimati Shama Devi Dasi
 
 c/o New Vrindaban
+</card>

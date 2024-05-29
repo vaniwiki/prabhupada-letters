@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. I hope you have by this time received my former letter and the package of lectures for editing. I have received one letter from Janis Dumburges at Montreal proposing a Branch there and he has selected one very nice place for this purpose. He wants two students from New York to help him and four hundred dollars. I wish therefore that you should at once go there for a week or so and if you approve this place and prospect, we can begin a Branch there also. He has asked help for $400.00 in this connection. And if you approve then both New York and San Francisco will contribute each $200.00 and this may be returned by the Montreal Branch later on. I wish that each and every Branch shall keep their independent identity and cooperate keeping the Acarya in the centre. On this principle we can open any number of Branches all over the world. The Ramakrishna mission works on this principle and thus as organization they have done wonderfully.
@@ -21,3 +22,4 @@ Montreal Quebec, Canada.
 The thing is that in April 1967, there will be a great exposition and millions of people will gather there from all parts of the world. We have to prepare literatures both in English and French and have to draw the attention of the university students as our members. Mr. Janis proposes that by end of March 1967 the Branch organization must be completed and by the end of third week of April I shall go there after opening of our New York house (as per present negotiation). I think the idea is good and we shall take the opportunity and for this __I select you__ to go there first and study the prospective situation immediately. I shall be glad to know per return of post about your decision in this connection or if you start immediately on receipt of this letter then you can write me from Montreal.
 
 Neal has not yet arrived here.
+</card>

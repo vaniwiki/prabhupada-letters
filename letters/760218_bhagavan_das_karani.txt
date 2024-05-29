@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavan das Karani ======
+====== Bhagavan das Karani ======
 
+<card class="letter">
 Bhagavan das Karani\\
 c/o Bhatia Brothers\\
 P.O. Box No. 275\\
@@ -32,3 +33,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

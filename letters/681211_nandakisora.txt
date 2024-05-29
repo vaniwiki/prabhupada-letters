@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandakisora ======
+====== Nandakisora ======
 
+<card class="letter">
 My dear Nandakisora,
 
 Please accept my blessings. I beg to acknowledge receipt of your nice letter of December 5, 1968 and thank you very much for this. From your letter I can understand that you are anxious to become householder and this is very good. We require so many householders to set example to others how in Krishna Consciousness we can live peacefully and sanely, even in married life. Also, we require so many Krishna Conscious children to show how nicely and beautify a child can develop when he is following the principles of God Consciousness.
@@ -21,3 +22,4 @@ Please convey my blessings to all devotees there, especially Paramananda, Dayala
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

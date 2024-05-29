@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 Vrindaban
 
 My dear Gurudasa,
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please change the plan of my quarters as suggested by Saurabha & Tamala both of whom just consulted me. I am going to London next Saturday 7th so when I come back next October I may live in Vrindaban in my new quarters. ACBS
+</card>

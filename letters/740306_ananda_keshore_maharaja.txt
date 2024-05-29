@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ananda Keshore Maharaja ======
+====== Ananda Keshore Maharaja ======
 
+<card class="letter">
 Vrindaban
 
 Dear Ananda Keshore Maharaja,
@@ -17,3 +18,4 @@ Please accept my greetings. Your letter dated February 28th, reached me very lat
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

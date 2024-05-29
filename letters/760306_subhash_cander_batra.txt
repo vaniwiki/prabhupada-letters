@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subhash Cander Batra ======
+====== Subhash Cander Batra ======
 
+<card class="letter">
 Subhash Cander Batra,\\
 22 Medina Crescent,\\
 Scarborough,\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

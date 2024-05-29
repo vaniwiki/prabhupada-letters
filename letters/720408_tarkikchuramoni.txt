@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tarkikchuramoni ======
+====== Tarkikchuramoni ======
 
+<card class="letter">
 Pittsburgh
 
 My dear daughter,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
+</card>

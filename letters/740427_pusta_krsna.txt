@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pusta Krsna ======
+====== Pusta Krsna ======
 
+<card class="letter">
 Cape Town, South Africa
 
 Dear Pusta Krsna Maharaja,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 A.C. Bhak/sdg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I am in due receipt of your letter of November 25, 1971, and I have noted the contents carefully. Enclosed please find one copy of Gayatri mantra and one sacred thread duly chanted on for your wife, Mrganetri dasi. Hold a fire yajna and give her Gayatri mantra. Rupanuga has a tape of me reciting Gayatri mantra, so you can get this from him. One thing is that the tape should be heard through earphones into the right ear.
@@ -26,3 +27,4 @@ If you have got clippings from all the Delhi papers reporting about our pandal p
 Thank you for the enclosures. I hope this meets you in good health and cheerful mood,
 
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay
 
 My dear Giriraja,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

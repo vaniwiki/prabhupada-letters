@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhusudana ======
+====== Madhusudana ======
 
+<card class="letter">
 New York
 
 My dear Madhusudana,
@@ -39,3 +40,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. You wanted to to to India. Now there is opportunity. Acyutananda is opening a centre at Kanpur the third important city in India. Rayarama and Brahmananda will shortly start for India. You can also go with them. Ask your parents to pay for the expenses.
+</card>

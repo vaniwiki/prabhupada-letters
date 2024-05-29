@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraj Prabhu ======
+====== Giriraj Prabhu ======
 
+<card class="letter">
 My dear Giriraj Prabhu:
 
 Please accept my humble obeisances at your feet. I am in due receipt of you letter dated September 24, 1974 with enclosed copy of the Income Tax Notice. I have discussed toy letter with His Divine Grace and may reply to the points.
@@ -32,3 +33,4 @@ Brahmananda Swami
 Approved
 
 ACBS
+</card>

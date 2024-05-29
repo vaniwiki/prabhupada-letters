@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bahurupa ======
+====== Bahurupa ======
 
+<card class="letter">
 P.O. Box 2152\\
 Long Beach, CA
 
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/vdd
+</card>

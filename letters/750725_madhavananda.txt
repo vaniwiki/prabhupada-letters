@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhavananda ======
+====== Madhavananda ======
 
+<card class="letter">
 Paris
 
 My dear Madhavananda dasa,
@@ -45,3 +46,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:od
+</card>

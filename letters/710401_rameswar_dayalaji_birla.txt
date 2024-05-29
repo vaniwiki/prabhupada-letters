@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rameswar Dayalaji Birla ======
+====== Rameswar Dayalaji Birla ======
 
+<card class="letter">
 Sri Rameswar Dayalaji Birla\\
 Birla House\\
 Mt. Pleasant Road\\
@@ -24,3 +25,4 @@ Yours in the service of Lord Krishna,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

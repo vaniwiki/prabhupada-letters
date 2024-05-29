@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna dasa ======
+====== Krsna dasa ======
 
+<card class="letter">
 My dear Krishna das,
 
 Please accept my blessings. I am receiving your twigs for washing my teeth very regularly and I thank you very much. What about Krishna's flute you attempted to prepare? I think you can prepare one silver flute and I am inserting measurement. It should be with golden relief work---raised embroidery-like designs---on the body of the flute. The length of the flute may be 5 inches, and it should be 1/4" thick. Now I shall be glad to know what is your credit balance in the bank. It may be that I may call you to go with me to India at any moment.
@@ -17,3 +18,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

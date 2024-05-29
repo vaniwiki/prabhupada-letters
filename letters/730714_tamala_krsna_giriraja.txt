@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna , Giriraja ======
+====== Tamala Krsna , Giriraja ======
 
+<card class="letter">
 Bombay
 
 Dear Tamala Krsna Maharaja and Giriraja,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

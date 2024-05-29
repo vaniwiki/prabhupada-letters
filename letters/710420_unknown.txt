@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Unknown ======
+====== Unknown ======
 
+<card class="letter">
 __SUBJECT MATTER:__ Extension of stay in India for my disciples.
 
 Dear
@@ -21,3 +22,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

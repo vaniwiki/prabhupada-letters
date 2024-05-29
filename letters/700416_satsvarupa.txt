@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 Boston
 
 My dear Satsvarupa,
@@ -28,3 +29,4 @@ P.S. What has happened to the Caitanya Almanac which was to be printed? Brahmana
 P.P.S. My Dear Pradyumna, Please accept my blessings. I have just received KRSNA tape #30. Why are you still putting in "sannyasin" etc? I have written you that the "n"s should be left off e.g. "sannyasi," that is the first case ending should be used.\\
 ACB\\
 ACBS:db
+</card>

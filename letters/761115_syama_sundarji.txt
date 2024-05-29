@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syama Sundarji ======
+====== Syama Sundarji ======
 
+<card class="letter">
 Sri Purusottama Math\\
 Puri
 
@@ -30,3 +31,4 @@ Hoping this will find you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

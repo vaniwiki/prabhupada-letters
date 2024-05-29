@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Bank of Baroda ======
+====== Manager of Bank of Baroda ======
 
+<card class="letter">
 Manager\\
 Bank of Baroda\\
 India Exchange Branch\\
@@ -43,3 +44,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

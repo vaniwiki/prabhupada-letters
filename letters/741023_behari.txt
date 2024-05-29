@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Behari ======
+====== Behari ======
 
+<card class="letter">
 Vrindaban
 
 Dear Behari das:
@@ -22,3 +23,4 @@ Faithfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

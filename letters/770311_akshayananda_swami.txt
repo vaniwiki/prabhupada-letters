@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Akshayananda Swami ======
+====== Akshayananda Swami ======
 
+<card class="letter">
 ISKCON – Vrindaban
 
 Sri Mayapur Chandradoya Mandir,\\
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 ACBS/tkg
 
 N.B. I notice on the letterhead the road is still called Chattikara Road. Why the change has not been made yet? Also what is the position with the Gates?
+</card>

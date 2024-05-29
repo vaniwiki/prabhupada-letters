@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brian Fleming ======
+====== Brian Fleming ======
 
+<card class="letter">
 Glasgow, Scotland
 
 Dear Brian Fleming,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

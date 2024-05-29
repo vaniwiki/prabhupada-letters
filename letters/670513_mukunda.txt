@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 San Francisco
 
 My dear Mukunda,
@@ -34,3 +35,4 @@ N.B. Nandarani has sent a letter to Brahmananda asking back her Typewriter. Did 
 N.B. I have received Balabhadra & expecting Subhadra. In Montreal they are preparing there order so you may not prepare for Montreal but if possible make for Los Angeles.
 
 ACB
+</card>

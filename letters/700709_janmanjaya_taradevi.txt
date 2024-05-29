@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janmanjaya, Taradevi ======
+====== Janmanjaya, Taradevi ======
 
+<card class="letter">
 Atlanta
 
 My dear Janmanjaya and Taradevi,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

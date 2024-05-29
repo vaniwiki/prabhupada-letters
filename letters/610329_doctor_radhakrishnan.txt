@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Doctor Radhakrishnan ======
+====== Doctor Radhakrishnan ======
 
+<card class="letter">
 My dear Doctor Radhakrishnan,
 
 I beg to acknowledge receipt with thanks your letter of the 24th instant and have noted the contents. I have come back from Cuttack on the 26th night.
@@ -33,3 +34,4 @@ Thanking you in anticipation.
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

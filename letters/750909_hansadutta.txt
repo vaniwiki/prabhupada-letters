@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 My dear Hansadutta das:
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. English devotees may be requested to come to India.
+</card>

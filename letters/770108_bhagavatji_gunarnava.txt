@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavatji, Gunarnava ======
+====== Bhagavatji, Gunarnava ======
 
+<card class="letter">
 Vrindaban
 
 My dear Bhagavatji and Gunarnava,
@@ -23,3 +24,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

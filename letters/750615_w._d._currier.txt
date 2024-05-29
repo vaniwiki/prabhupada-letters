@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: W. D. Currier ======
+====== W. D. Currier ======
 
+<card class="letter">
 W. D. Currier, M.D.,\\
 Pasadena, CA
 
@@ -31,3 +32,4 @@ Pasadena, CA
 SIGNED:
 
 A.C. Bhaktivedanta Swami             X sign here
+</card>

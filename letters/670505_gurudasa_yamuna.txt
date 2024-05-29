@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa, Yamuna ======
+====== Gurudasa, Yamuna ======
 
+<card class="letter">
 San Francisco
 
 My dear Guru das and Yamuna,
@@ -21,3 +22,4 @@ Thanking you,
 
 Ever your well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

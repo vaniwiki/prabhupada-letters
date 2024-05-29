@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 Mayapur
 
 My dear Jayapataka Maharaja,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 n.b. Why Prabhu Svarupa das from Haridasapur is now living with us? He was supposed to arrange for the transfer of the land to us, but now no further word? I understand that he is a disciple of Bon Maharaja and he may have ulterior motives; inquire and inform me
+</card>

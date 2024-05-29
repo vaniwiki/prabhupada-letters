@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I am in due receipt of your letter dated 10th July, 1971 and have noted the contents carefully. So far as black and white photographs of paintings, I don't like that idea. How expensive they are doesn't matter but colored photographs should be there only.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

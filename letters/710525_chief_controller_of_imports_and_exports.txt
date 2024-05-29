@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Chief Controller of Imports and Exports ======
+====== Chief Controller of Imports and Exports ======
 
+<card class="letter">
 Chief Controller\\
 Imports and Exports\\
 Udyag Bhavan\\
@@ -26,3 +27,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

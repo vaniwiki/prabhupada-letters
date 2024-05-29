@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 Tokyo
 
 My dear Sudama,
@@ -28,3 +29,4 @@ P.S. At present I am in Surat on the 4th Jan. 71. I am going to Bombay, from the
 ACB
 
 If you so desire the whole Sankirtana party in India may go to Japan as you say there is good prospect.
+</card>

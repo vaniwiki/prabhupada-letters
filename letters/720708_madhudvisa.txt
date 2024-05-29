@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated June 30, 1972, and I have noted the contents. I am very much pleased to see the photos of the Jagannatha cart being made by you in Melbourne, and I can understand that you energy and experience are being put to good use there in Australia. That is the secret to success, utilizing our God-given energy to please Krishna.
@@ -21,3 +22,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

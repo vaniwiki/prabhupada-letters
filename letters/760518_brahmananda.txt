@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 Nairobi
 
 My dear Brahmananda Maharaja,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Abhirama ======
+====== Abhirama ======
 
+<card class="letter">
 My dear Abhirama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 14, 1973. Regarding the initiations, I accept the following as my initiated disciples:
@@ -41,3 +42,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/kda
+</card>

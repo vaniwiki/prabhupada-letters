@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 Bahulasva    Berkeley    Rshi Kumara    New York\\
 Satsvarupa    Boston    Umapati    Paris\\
 Harer Nama    Boulder    Subaladas    Philadelphia\\
@@ -35,3 +36,4 @@ Hope this will meet you in good health, and more when we meet.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

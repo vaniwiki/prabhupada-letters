@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayatirtha ======
+====== Jayatirtha ======
 
+<card class="letter">
 Los Angeles
 
 My dear Jayatirtha das:
@@ -26,3 +27,4 @@ ACBS/bs\\
 N.B. Your following cable is just now received. CD'S EXPIRING NOVEMBER 7 AND NOVEMBER 15 PLEASE ADVISE IF ANY CHANGES DESIRED OTHERWISE THEY WILL AUTOMATICALLY RENEW FOR 119 DAYS -JAYATIRTHA.
 
 So it is all right.
+</card>

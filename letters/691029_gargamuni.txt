@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 17, and October 24, 1969 and have noted the contents carefully. I am glad that you have deposited $2,000 in my savings accounts. Regarding your business and spiritual practices, I give you special permission as follows: You find out of 24 hours at least one hour conveniently for chanting Hare Krishna with great attention, either by the Deities or any place, without being disturbed by anyone else. So you have 23 hours for other things. Now these 23 hours, whatever you do in them, either eating or working or sleeping, you always try to think of Krishna. That will keep you intact of Krishna Consciousness. If one is always careful about falling down and prays to Krishna that he may not fall down on account of greater strength of Maya, then Krishna will give him special protection. This was advised to Arjuna by Krishna Himself. Arjuna was a great fighter, statesman, and at the same time a great devotee. A statesman and military commander has very little time to perform the routine work of devotional service, but Krishna advised him especially to be engaged in his occupational duty, and at the same time always be thinking of Krishna. This is the secret of not being a victim of Maya. Rayarama's case is different. He definitely denied my instructions. I asked him to come to me and live with me, and he definitely denied. So this denial is cause of his temporary suspension of devotional life, but if he has executed devotional service in the past sincerely, I think he cannot go back.
@@ -21,3 +22,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

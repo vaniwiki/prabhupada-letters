@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kisora ======
+====== Kisora ======
 
+<card class="letter">
 Edinburgh, Scotland
 
 My dear Kisora,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

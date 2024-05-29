@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ranadhira ======
+====== Ranadhira ======
 
+<card class="letter">
 Los Angeles
 
 My dear Ranadhira dasa,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

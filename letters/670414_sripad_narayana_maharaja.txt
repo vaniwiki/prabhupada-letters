@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 "Sri Sri Guru Gauranga Jayatho"
 
 By Air Mail Registered Post
@@ -67,3 +68,4 @@ Krpa prarthi\\
 Srila Bhaktivedanta Swami
 
 PS. If it is possible send me tilaka and agarbathi.
+</card>

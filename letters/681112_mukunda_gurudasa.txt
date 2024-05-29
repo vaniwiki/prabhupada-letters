@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda, Gurudasa ======
+====== Mukunda, Gurudasa ======
 
+<card class="letter">
 London
 
 My dear Mukunda, and My Dear Gurudasa,
@@ -19,3 +20,4 @@ Hope you are well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

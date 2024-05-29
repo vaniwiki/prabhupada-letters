@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaura Hari ======
+====== Gaura Hari ======
 
+<card class="letter">
 Victoria, B.C., Canada
 
 My dear Gaura Hari,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

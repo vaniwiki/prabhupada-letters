@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter dated May 13, 1968, and I noted thereof that you are a little bit disappointed. There is no question of disappointment in Krishna Consciousness. We shall try our best---success or no success, we shall depend on Krishna. Now, I do not know what is the position of securing advertisements. If advertisements are also not available, then I think we should go back to our mimeograph machine and put Back to Godhead out regularly. There is no scarcity of material, so we may distribute the message regularly, never mind it is not so highly printed. So far collections is concerned of the sales proceeds of Back To Godhead, I think you can entrust the matter to Gargamuni and Mukunda, and they will be able to distribute and send you back the money.
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 P.S. Hayagriva has my article---Krishna the Charioteer. When you are ready for publication of B.G. I shall send you the same.
 
 ACB
+</card>

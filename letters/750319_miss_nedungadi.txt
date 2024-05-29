@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Miss Nedungadi ======
+====== Miss Nedungadi ======
 
+<card class="letter">
 Calicut---2, Kerala State
 
 My dear Miss Nedungadi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sankarsana (Stephen Bridge), Parasara (Ron), Pulasta (Chris Pinkard) ======
+====== Sankarsana (Stephen Bridge), Parasara (Ron), Pulasta (Chris Pinkard) ======
 
+<card class="letter">
 My dear Sons,
 
 Please accept my blessings. Upon the recommendation of His Grace Visnujana Maharaja I have gladly consented to accept you three as my duly initiated disciples. Your beads are duly chanted on by me and are enclosed herewith. I have given the spiritual names as follows:
@@ -19,3 +20,4 @@ Hoping this will meet you all in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

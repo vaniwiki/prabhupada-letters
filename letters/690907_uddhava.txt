@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uddhava ======
+====== Uddhava ======
 
+<card class="letter">
 My dear Uddhava,
 
 Please accept my blessings. I thank you very much for your letter dated September 2nd, 1969 along with your check for 50 dollars and the velvet covering for my __Bhagavad-gita As It Is,__ so nicely made. Now you are happy with your wife, Lilasukha, and that is also very pleasing to me. Most of my disciples who are preaching are married couples. As such, I hope both you and your wife will continue to help me substantially in the Krishna Consciousness Movement, and Krishna will bless you more and more.
@@ -17,3 +18,4 @@ Thanking you once more for your letter. I hope this will meet you in good health
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

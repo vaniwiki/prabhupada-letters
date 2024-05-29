@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ekayani ======
+====== Ekayani ======
 
+<card class="letter">
 Bronx
 
 My dear Ekayani,
@@ -39,3 +40,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

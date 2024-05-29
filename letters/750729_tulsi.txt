@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tulsi ======
+====== Tulsi ======
 
+<card class="letter">
 Los Angeles
 
 My dear Tulsi das:
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Also initiated are: Dan Richardson---Gopagopisvara dasa and Beatrice Matusow---Bahubhavini devi dasi.\\
 ACBS/bs
+</card>

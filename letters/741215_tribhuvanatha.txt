@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tribhuvanatha ======
+====== Tribhuvanatha ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 My dear Tribhuvanatha,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

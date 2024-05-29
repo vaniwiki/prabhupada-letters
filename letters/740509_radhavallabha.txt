@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radhavallabha ======
+====== Radhavallabha ======
 
+<card class="letter">
 Brooklyn
 
 My dear Radhavallabha,
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

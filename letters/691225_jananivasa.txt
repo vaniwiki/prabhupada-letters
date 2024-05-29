@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jananivasa ======
+====== Jananivasa ======
 
+<card class="letter">
 My dear Jananivasa,
 
 Please accept my blessings. I beg to thank you very much for your letter dated December 9, 1969 and your kind contribution of $25 to our Book Fund. I was very happy to learn that you are very serious about writing an essay entitled "Krsna Consciousness is the Absolute Necessity for Mankind in this Age". If you can write this essay successfully, then it will be very great service to our Movement. One of the qualifications of a Vaisnava is that he is poetic. This means that the Vaisnavas are very much enthusiastic to describe on paper the glories of Lord Krsna and Krsna Consciousness. In our Back To Godhead I am very pleased to see that many of our disciples are becoming eager to record their thoughtful ideas about Krsna Consciousness. This eagerness is one of the symptoms that a devotee is making progress in the matter of spiritual purification. So when your article is completed, please send a copy to me, and I shall read it carefully and then submit it to Back To Godhead for consideration of publishing.
@@ -19,3 +20,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prabhakar ======
+====== Prabhakar ======
 
+<card class="letter">
 New Delhi
 
 My dear Prabhaker,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

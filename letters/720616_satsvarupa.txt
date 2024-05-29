@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I received your letter dated June 15, 1972, and have noted the contents carefully regarding your sannyasi travels. If you require more men and women to teach there at Gurukula, you can send from your jurisdiction as GBC man Central USA zone. You will not be too much involved with local temple management, but for management which will require the larger interests, that will be your responsibility as GBC. So you find out some teachers from your zone and send there. The women are best for teaching small children, especially if they are themselves mothers, and when they become brahmacaris at 5 or 6 years old then they may be instructed by the men. If Stoka Krsna is finding difficulty to manage things then you find out some men to help him from your zone. Let him do all of the organizing and be the authority in charge how everything is running, and let others follow his direction and free him to supervise.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

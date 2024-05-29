@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pranava ======
+====== Pranava ======
 
+<card class="letter">
 Vrndavana
 
 My dear Pranava,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

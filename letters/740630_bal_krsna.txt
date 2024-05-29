@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bal Krsna ======
+====== Bal Krsna ======
 
+<card class="letter">
 Redfern, Australia
 
 Dear Bal Krishna,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

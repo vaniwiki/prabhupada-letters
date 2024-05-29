@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 14 February, 1970, and have noted the contents carefully. I am very glad to know that you have sent the final manuscript of __KRSNA__ book to Brahmananda and that it now reads very well. Thank you very much.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

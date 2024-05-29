@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I am in due receipt of your letter dated 4 May, 1969, and I have noted the contents with much encouragement. Regarding the church, I think you should try for it by all means, and if need be I shall see that the funds which you need will be loaned to you. I have already informed Tamala Krishna that the Los Angeles temple may be called upon to give this loan. So try for it, because such a nice church will be a tremendous boon to our Seattle propaganda activities.
@@ -19,3 +20,4 @@ I hope this will meet you in good health and cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

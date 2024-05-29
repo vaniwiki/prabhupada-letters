@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mario Windisch ======
+====== Mario Windisch ======
 
+<card class="letter">
 Mario Windisch\\
 c/o Barbara Josephson\\
 Pyrolavagen 22/III\\
@@ -33,3 +34,4 @@ Thanking you once more,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

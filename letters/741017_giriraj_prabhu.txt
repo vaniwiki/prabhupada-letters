@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraj Prabhu ======
+====== Giriraj Prabhu ======
 
+<card class="letter">
 Dear Giriraj Prabhu:
 
 Please accept my humble obeisances. I am in do receipt of your registered letter dated October 7, 1974 with enclosed true copy of gift deed and CBI receipt for the fixed deposit certificates. Srila Prabhupad would like to know what is the balance of the Central a/c in American Express Bank. We are expecting that shortly L.A. is to transfer Dollars 40,000.00 in that account, and this money should be kept there until you receive the balance pf that account to date.
@@ -34,3 +35,4 @@ Brahmananda Swami
 Personal Secretary
 
 Approved: ACBS
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. G. G. Godson ======
+====== Dr. G. G. Godson ======
 
+<card class="letter">
 Dr. G.G. Godson\\
 Prem Versha\\
 46 Passey Road\\
@@ -27,3 +28,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

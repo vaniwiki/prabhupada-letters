@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sucandra ======
+====== Sucandra ======
 
+<card class="letter">
 My dear Sucandra,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
+</card>

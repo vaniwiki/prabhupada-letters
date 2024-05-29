@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated the 16th instant addressed to me and Tamala Krsna as along with a Bengali letter from Sagar Maharaja. This morning I have received also your telegram and I have replied as follows; "Reduce the period as they like. Payment in full on vacant possession. Letter follows. A.C. Bhaktivedanta Swami." The idea is that we can arrange to pay them immediately 6.2 lakhs if we get full vacant possession. But I think it is not possible because the tenant cannot vacate within less than six months. We are not interested in realizing the rent from the house; we need the place for our own accommodation. Therefore vacant possession is essential. The best thing will be that let them give us possession of the ground floor and we are prepared to pay them proportionately immediately up to two lakhs of rupees or more. The balance will be paid as early as possible when we get the other two stories vacant---it is up to them. Some arrangements should be made like that.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

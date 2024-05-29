@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rudra ======
+====== Rudra ======
 
+<card class="letter">
 Toronto
 
 My dear Rudra das,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

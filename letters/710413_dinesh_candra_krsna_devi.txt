@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinesh Candra, Krsna Devi ======
+====== Dinesh Candra, Krsna Devi ======
 
+<card class="letter">
 Boston
 
 My dear Dinesh Candra and Krsna Devi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

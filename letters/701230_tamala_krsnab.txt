@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 TAMAL KRISHNA,
 
 NO LETTER FROM YOU VERY MUCH ANXIOUS FOR BOOKS WIRE ACTUAL SITUATION
 
 BHAKTIVEDANTA SWAMI
+</card>

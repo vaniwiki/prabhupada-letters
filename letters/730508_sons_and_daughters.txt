@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sons and daughters ======
+====== Sons and daughters ======
 
+<card class="letter">
 My dear Sons and daughters,
 
 Please accept my blessings. I am in due receipt of your very nice letters and daksina of $650.00.
@@ -42,3 +43,4 @@ Detroit ISKCON\\
 Detroit, Michigan 48214\\
 ACBS/jda
 
+</card>

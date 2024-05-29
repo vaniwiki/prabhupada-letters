@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Charles Frazier Wilson ======
+====== Charles Frazier Wilson ======
 
+<card class="letter">
 Mr. Charles Frazier Wilson\\
 924 Littlefield Building\\
 Austin, Texas 78701\\
@@ -24,3 +25,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

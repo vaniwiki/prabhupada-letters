@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vrindaban Candra ======
+====== Vrindaban Candra ======
 
+<card class="letter">
 Philadelphia
 
 My dear Vrindaban Candra,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/adb\\
 *I shall try to find out in Calcutta when I go there.
+</card>

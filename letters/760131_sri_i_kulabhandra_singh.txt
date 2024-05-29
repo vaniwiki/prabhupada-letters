@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri I Kulabhandra Singh ======
+====== Sri I Kulabhandra Singh ======
 
+<card class="letter">
 Sri I, Kulabhandra Singh\\
 Secretary, Manipur Gita Mandal\\
 Imphal
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. In continuation of yesterday's letter signed by Kirtanananda, I may further inform you that the MacMillan contract is very important. I have already confirmed the terms, and you are herewith authorized to sign on my behalf. If the contract is bona fide, then there is no need of printing the books at my responsibility either in Japan or in India. I shall be satisfied with the commission and shall only be glad to see that the books are being read by hundreds and thousands of men. Whatever profit may be derived from it will be utilized for development of the American House here. I would have been very glad if Hayagriva, yourself, and Rayarama, along with Kirtanananda, would have been present combinedly and give a start to the American House. Negotiations for the plot of land is going on and as soon as it is settled we shall begin the work. Kirtanananda is feeling the warmth of the city a little tediously. For me this warmth is little bracy. Anyway, you try to fructify this contract and it will be a great relief to me. We have already written to Hayagriva to return to N.Y. and deliver the mass. copy over to MacMillan; the balance part of Gitopanisad which is being edited should be finished as soon as possible; and wherever necessary he may consult me by mail. The first three vols. of S.B., completing the first canto, may be published in one vol. without the sanskrit, i.e. only translation and purport. Similarly we can publish the second canto in one vol., and so on, one vol. per canto.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta
+</card>

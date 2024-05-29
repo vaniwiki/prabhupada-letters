@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda Dasi:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 17, 1973 and I thank you for so promptly sending the dried banana. You are always seeing to my comforts and your service in this regard is much appreciated by me. I also thank you for the nice shirts you have made. I am especially pleased to learn that Gaurasundara is opening two centers in Brazil. That is good work.
@@ -30,3 +31,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

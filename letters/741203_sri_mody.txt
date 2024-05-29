@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Mody ======
+====== Sri Mody ======
 
+<card class="letter">
 Harrow, England
 
 Dear Sri Mody:
@@ -24,3 +25,4 @@ ACBS/bs\\
 N.B. Are you visiting India sometime in April 1975? If so kindly let me now where you will stay.
 
 ACBS
+</card>

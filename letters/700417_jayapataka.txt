@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 Toronto
 
 My dear Jayapataka,
@@ -41,3 +42,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

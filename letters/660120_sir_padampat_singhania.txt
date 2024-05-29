@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sir Padampat Singhania ======
+====== Sir Padampat Singhania ======
 
+<card class="letter">
 My dear Sir Padampat,
 
 Please accept my greetings and blessings of Sri Sri Dvarakadhisa Maharaja. With thanks I beg to acknowledge receipt of your kind letter dated 14th January 1966 and I have noted the contents very carefully. The two points of difficulties as shown by you are quite right because without sanction of the Government we cannot proceed a step even in this connection. And as pointed out in my last letter I have full responsibility for this. I was almost certain to get this sanction from our Late Prime Minister Lal Bahadur Shastri who was personally known to me in connection with my publication Srimad-Bhagavatam. He was to come here in America and in New York on the 4th of February next and I arranged for an interview with him by negotiation with the local consulate General. The copy of the letter addressed to our late Prime Minister is also enclosed herewith for your perusal.
@@ -41,3 +42,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami.\\
 Enclosure:Copy of the letter addressed to the Prime Minister of India.\\
 __By air mail.__
+</card>

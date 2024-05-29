@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali-mardana ======
+====== Bali-mardana ======
 
+<card class="letter">
 Brooklyn
 
 Dear Bali Mardan,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

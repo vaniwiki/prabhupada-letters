@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Pandit Hitsaran Sharma ======
+====== Pandit Hitsaran Sharma ======
 
+<card class="letter">
 A. C. BHAKTIVEDANTA SWAMI\\
 Camp: I. S. K. C. O. N. Radha Krishna Temple\\
 5364 W. Pico Blvd., Los Angeles, Cal. 90019
@@ -27,3 +28,4 @@ Pandit Hitsaran Sharma\\
 Radha Press, Main Road\\
 Kailash Nagar\\
 Delhi ; 31, India
+</card>

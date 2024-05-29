@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Paramananda ======
+====== Paramananda ======
 
+<card class="letter">
 My dear Paramananda,
 
 Please accept my blessings. I was so pleased to receive your letter of December 8, 1968 and I have noted the contents with great pleasure. Such attitude of humbleness which you have so nicely expressed along with your very good service attitude is very beautiful and will take you far to advance more and more.
@@ -21,3 +22,4 @@ Please convey my blessings to all others and I hope that you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

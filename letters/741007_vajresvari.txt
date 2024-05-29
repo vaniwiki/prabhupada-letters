@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vajresvari ======
+====== Vajresvari ======
 
+<card class="letter">
 New Vrindaban
 
 My dear Vajresvari devi dasi:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

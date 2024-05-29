@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I beg to thank you for your letter dated July 21, 1969, and I am glad that you have already sent to New York part of the payment of $1,025. It doesn't matter that you could not pay all at a time. You can pay the balance after the 27th. This is all right. So far as the three sets of beads, I did not receive them yet. I do not know to which address the beads were sent. This afternoon I returned from San Francisco where there was a very, very successful Rathayatra Ceremony. There were at least 10,000 people who walked with us to the ocean for a ten mile parade, and everyone was chanting and dancing in ecstasy. Then at the ocean there was grand-scale Prasadam distribution and chanting again on into the evening. Everyone appreciated Krishna Consciousness so much, and it is so encouraging to see how the young boys and girls of the western countries are gradually coming to understand something of this movement.
@@ -25,3 +26,4 @@ Regarding the record you recorded with Mr. Harrison, it is very much encouraging
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

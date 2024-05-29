@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. Please inform me about the purchase of our house in Bombay. Send a telegram to Sydney as follows:
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

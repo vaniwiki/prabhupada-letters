@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. B. J. Murdock ======
+====== Mr. B. J. Murdock ======
 
+<card class="letter">
 Mr. B. J. Murdock\\
 Manager,\\
 Australia and New Zealand Banking Group Ltd.\\
@@ -28,3 +29,4 @@ cc: Tamala Krishna Goswami\\
 Gurukrpa Swami, Upudata,\\
 Vasudeva\\
 ACBS/pks
+</card>

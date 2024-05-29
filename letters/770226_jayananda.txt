@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayananda ======
+====== Jayananda ======
 
+<card class="letter">
 Los Angeles
 
 My dear Jayananda,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

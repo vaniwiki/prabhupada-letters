@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janaki ======
+====== Janaki ======
 
+<card class="letter">
 My dear Janaki,
 
 Please accept my blessings. I have not heard for a long time from you. Previously I received so many letters from you and your sister but nowadays I am not receiving but I am always thinking of you and your good husband. I hope you are all doing well. I have received one letter from Haridasa from Santa Fe. He is willing now to marry and you may arrange for that. Please do remain in Krishna consciousness fully and you will always be happy. I am now almost cured & I wish to return back as soon as I am in receipt of a permanent Visa or immigration Visa which is in the hands of your good husband. I am starting for Calcutta on Monday morning and I shall be glad to hear from you at my Calcutta address. Please convey my blessing to all the boys and girls and I hope to meet them very soon.
@@ -20,3 +21,4 @@ A.C. Bhaktivedanta Swami
 N.B. I am negotiating with a local medal manufacturer. The cost will be about 15 ps per dollar. If you want please send money at least for 15 oz medals for $100.00. The size of the medal will be like the Radha Krishna picture on the Prospectus. One side the picture and the other side the Society's name and the word MEMBER The idea is anyone who will become a member will have this aluminium nice medal glittering like Silver. Please let me know your decision in Calcutta.
 
 A.C. Bhaktivedanta Swami
+</card>

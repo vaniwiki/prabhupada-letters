@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaura Govinda ======
+====== Gaura Govinda ======
 
+<card class="letter">
 Bhuvaneśvara
 
 My dear Gaura Govinda Swami,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

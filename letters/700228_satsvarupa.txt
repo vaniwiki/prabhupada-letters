@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 Boston
 
 My dear Satsvarupa,
@@ -34,3 +35,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. My address %%____%% for my Spiritual Master, may be all printed in the BTG.\\
 ACBS:db
+</card>

@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings & convey the same to Pradyumna & others. I missed your telephone call but I understand that your center is doing well. When I go to New York I shall go to Boston. I understand that Damodara has gone to N.Y. with manuscript of Teachings of Lord Caitanya. I thank you for your sincere service. I pray Krishna for your more & more improvement in Krishna Consciousness.
 
 Your ever well wisher\\
 A.C. Bhaktivedanta Swami
+</card>

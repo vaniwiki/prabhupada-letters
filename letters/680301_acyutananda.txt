@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acyutananda ======
+====== Acyutananda ======
 
+<card class="letter">
 My dear Acyutananda,
 
 Please accept my blessings. I have received your letter addressed to Mukunda and Guru das, in which you write to say that I may send you a telegram sanctioning your return. This means that you have become very much anxious to return back to USA, and I have become very much anxious to return back to USA, and I have also already sanctioned it, in reply to your last letter post-dated Feb. 21. The real thing is that you are feeling alone, and because you are so to say, child, you have become nervous. Otherwise for a preacher there is no difficulty anywhere, irrespective of climate and conditions. I came here in the month of December, and as my country is warmer to you, similarly your country is colder to me. I am also in diseased condition. When I first came to your country I passed through practically all the seasons. I came here in 1965, Sept., and I remained in the Northern portion of your country, namely N.Y., Penn., and Mass., etc., continually from Sept. 1965 to Dec. 1966. And you know how much severe cold is N.Y.; I passed through snow on the N.Y. street, so certainly I wasn't very much in comfortable situation. Still I had the strength of mind, and I continued to stay. Similarly, if you have strength of mind, you can stay always in India even in the most inconvenient condition. Another difficulty is that although you are four already in India, you cannot live together. Ramanuja left the camp as soon as I left you. You do not like Harivilasa. So you are living scattered. That is another difficulty. If you would have lived together with mutual cooperation, there would have been no trouble; but I think that is also not possible.
@@ -22,3 +23,4 @@ When you come back, you can please bring with you 2 lbs. of Triphala, and 2 lbs.
 I hope you are feeling better by this time.
 
 Your ever well-wisher,
+</card>

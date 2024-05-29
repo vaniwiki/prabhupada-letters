@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 Bombay
 
 My dear Madhudvisa Maharaja,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. The ad is all right, provided you can keep all the promises made.
+</card>

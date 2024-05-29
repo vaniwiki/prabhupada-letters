@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings and offer the same to all your Godbrothers for your doing the respective duties nicely. I am in due receipt of the copy of Back to Godhead dated 15th February 1967 and I am glad that it is nicely done. The only defect is that picture which is wrongly put there without asking me. There was no need of interpretations and why you have interpreted the picture as one has to be naked before the Lord to become perfect? We have no interpretation in any one of the verses in the Gita and Srimad-Bhagavatam. They were not fictitious and therefore there is no need of interpretation. Krishna actually took away the dresses of the Gopis and actually He saw the girls naked. There is no interpretation there. The girls of Vrindaban of the same age like Krishna wanted Krishna as their husband. In India the girls are married earlier by ten years at least and thus the girls who were of the same age were married although they wished Krishna as their husband. Krishna fulfilled their wishes by this pastime. Nobody can ask any woman or girl to become naked except the husband. That is the moral etiquette of Vedic culture. Krishna is actually husband of every woman. There was no necessity of formal marriage. But still Krishna played like husband by asking them to become naked. In the spiritual world there is no cohabitation; simply by such emotion in transcendental ecstasy the desire is fulfilled.
@@ -27,3 +28,4 @@ Hope you are all well,
 
 Yours ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

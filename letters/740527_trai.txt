@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trai ======
+====== Trai ======
 
+<card class="letter">
 Boston
 
 My dear Trai das,
@@ -21,3 +22,4 @@ I am enclosing brahmana threads and gayatri mantra for Ādi Kesava das and Vivas
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

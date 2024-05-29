@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager, Central Bank of India ======
+====== Manager, Central Bank of India ======
 
+<card class="letter">
 The Manager,\\
 Central Bank of India,\\
 10 Camac Street,\\
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 Cc: Vrinda Book Co.\\
 ACBS/pks
+</card>

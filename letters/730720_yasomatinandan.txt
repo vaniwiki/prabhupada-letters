@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasomatinandan ======
+====== Yasomatinandan ======
 
+<card class="letter">
 Dear Yasomatinandan,
 
 Please accept my blessings. I heard you were transferring to our Los Angeles center but I do not know if you have left our Chicago center yet, so I am sending copies of this letter to both places.
@@ -28,3 +29,4 @@ ISKCON
 Los Angeles, Ca
 
 ACBS/sdg
+</card>

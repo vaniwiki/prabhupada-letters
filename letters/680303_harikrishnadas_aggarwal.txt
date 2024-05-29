@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harikrishnadas Aggarwal ======
+====== Harikrishnadas Aggarwal ======
 
+<card class="letter">
 Sri Harikrishnadas Aggarwal\\
 Gupta Hills Estate\\
 Bombay-10,\\
@@ -37,3 +38,4 @@ Hope you are well, and awaiting your further reply.
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

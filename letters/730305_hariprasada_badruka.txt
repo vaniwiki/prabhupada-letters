@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hariprasada Badruka ======
+====== Hariprasada Badruka ======
 
+<card class="letter">
 My dear Sriman Hariprasada Badruka:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated the 27th February. I just arrived here the day before yesterday and I am glad to receive your Hyderabad progress report. The Deities mentioned are too expensive. Of course, we cannot collect money without Deity worship. Without Deity worship there is no life, and there must be preaching also.
@@ -19,3 +20,4 @@ I shall be going to Mayapur by the 15th, remaining there up to the 22nd. I hope 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

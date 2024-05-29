@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Shyama Dasi ======
+====== Shyama Dasi ======
 
+<card class="letter">
 My Dear Shama Dasi, 
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 20th August, 1971 and have noted the contents. When I received the letter the envelope had been opened and then stapled closed and some portion of the letter was missing; it came in two parts. I don't know what happened or what part of your letter is missing.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

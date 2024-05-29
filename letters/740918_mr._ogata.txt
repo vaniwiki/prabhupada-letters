@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Ogata ======
+====== Mr. Ogata ======
 
+<card class="letter">
 Mr. Ogata\\
 Overseas Division\\
 Dai Nippon Printing Co. Ltd.\\
@@ -25,3 +26,4 @@ Faithfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

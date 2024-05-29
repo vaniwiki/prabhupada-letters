@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tirtha Maharaja ======
+====== Tirtha Maharaja ======
 
+<card class="letter">
 My dear Tirtha Maharaja,
 
 Kindly accept my humble obeisances. I hope you are in good health and everything is going all right. You will be pleased to know that we are going to install Radha-Krishna Deities in our London temple on the Odansasthi auspicious day, December 14th. This 5-story building temple is situated in the central part of London, very respectable quarters, just a few steps from the British Museum and London University. One local devotee has donated Radha-Krishna Murtis, 42" high, and the installation ceremony will go on for one week. Herewith please find our earnest invitation card for your blessings.
@@ -17,3 +18,4 @@ In this connection I beg to draw your attention to your letter to me dated Febru
 
 Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami
+</card>

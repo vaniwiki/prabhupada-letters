@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I am in receipt of your letter dated 31/1/73. After conferring with my various GBC representatives I have concluded that polygamy must be strictly prohibited in our society. Although it is a Vedic institution still there are so many legal implications. Neither are many of our men fixed up enough to tend for more than one wife. Polygamy will simply increase the sex life and our philosophy is to gradually decrease the sex life till eventually there is no sex life. The policy should be that all the women are given the utmost protection. Women are looking for husbands because they feel unprotected so it is up to the senior members to give all protection to the women.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am in due receipt of your most recent letter and I can see if the T.V. agrees to endorse our books and show them on T.V., this is a good program and it must be continued.
+</card>

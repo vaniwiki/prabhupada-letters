@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. W.H. Wolf-Rottkay ======
+====== Dr. W.H. Wolf-Rottkay ======
 
+<card class="letter">
 Dr. W.H. Wolf-Rottkay\\
 12915 Venice Blvd., Apt. 37\\
 L.A., Ca. 90066
@@ -39,3 +40,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

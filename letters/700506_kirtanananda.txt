@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 3rd May, 1970, and beg to thank you very much for your kind sentiments. Yes, if it is any credit for me, that is what you have written that I tried to give aural reception to the words of my Spiritual Master, Bhaktisiddhanta Sarasvati Goswami Maharaja, and thus I tried to engage my tongue in repeating the same words without any change. Actually I am the most unworthy servant of His Divine Grace because I delayed to execute His order by so many years. But it was better I began late than never, and therefore He has kindly sent to me so many young hearts to cooperate with me in this great Movement. Please therefore continue your good cooperation, and I am sure great things will happen without delay.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

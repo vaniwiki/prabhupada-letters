@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Joy Fulcher ======
+====== Joy Fulcher ======
 
+<card class="letter">
 My dear Joy Fulcher,
 
 Please accept my blessings. I have received your letter dated December 6, 1968 and have considered the contents.
@@ -21,3 +22,4 @@ I hope this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

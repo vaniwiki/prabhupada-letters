@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nara-narayana ======
+====== Nara-narayana ======
 
+<card class="letter">
 My dear Nara Narayana,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 21, 1969, and I thank you very much for it. I have heard many nice reports from various parties complimenting the expert service you are performing in New York with your carpentry and handyman skills. So I am very pleased to hear that Krishna has blessed you with a very nice talent, and you are now using it rightly in Krishna Consciousness.
@@ -21,3 +22,4 @@ Thanking you once more for your letter and important work you are sincerely perf
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

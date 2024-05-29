@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Murari ======
+====== Murari ======
 
+<card class="letter">
 My dear Murari,
 
 Please accept my blessings. While I was in San Francisco you were arranging for going to Hawaii. Now I understand that you have gone to New York, so I do not know whether you have changed your program. If not, I shall be glad to know when you are going to Hawaii. I understand from the letter of Gaurasundara that expert carpenters can get immediately good job there, at least $5.00 per hour. So if you go there, I think there will be no difficulty for you. Anyway, I shall be glad to know your program, whether you are going to Hawaii in the near future or not.
@@ -21,3 +22,4 @@ Please offer my blessings to Lilavati and your daughter. Hope this finds you in 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Liberty Bank ======
+====== Manager of Liberty Bank ======
 
+<card class="letter">
 The Manager\\
 Liberty Bank, Main Branch\\
 Honolulu
@@ -23,3 +24,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

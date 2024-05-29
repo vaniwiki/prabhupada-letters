@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Frederico Lourenco ======
+====== Frederico Lourenco ======
 
+<card class="letter">
 Sintra, Portugal
 
 Dear Frederico Lourenco:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

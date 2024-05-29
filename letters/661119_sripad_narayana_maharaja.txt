@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 "Sri Sri Guru Gauranga Jayatho"
 
 A.C. Bhaktivedanta Swami, 26 Second Avenue \\
@@ -29,3 +30,4 @@ I was very enthusiastic to learn in your previous letter that your help will alw
 
 Yours,\\
 Sri Bhaktivedanta Swami
+</card>

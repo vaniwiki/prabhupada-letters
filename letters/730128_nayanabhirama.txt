@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nayanabhirama ======
+====== Nayanabhirama ======
 
+<card class="letter">
 New York
 
 My dear Nayanabhirama,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bmdg
+</card>

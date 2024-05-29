@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Krsna Devi, Subala ======
+====== Krsna Devi, Subala ======
 
+<card class="letter">
 My dear Krishna Devi and Subala das,
 
 Please accept my blessings. I am glad to learn that you are going to re-open your Santa Fe temple. Please make it a point that once a center is opened should not be closed. I have already given charge of six temples to six boys. You and your husband must take charge of the Santa Fe center and Krishna will bestow all blessings upon you. I shall be very soon one of your guests. Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta, Swami
+</card>

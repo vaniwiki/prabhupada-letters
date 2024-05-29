@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Umapati ======
+====== Umapati ======
 
+<card class="letter">
 My dear Umapati,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Oct. 11, 1968, and I am so glad to note your very nice sentiments. I am so pleased to note that you are getting attraction for Sri Gopalaji, and that will save you from all kinds of opposing elements. I am glad that Sacisuta is living with you and if both of you are feeling some inconvenience, then you are welcome to live with me for some days. I am going to Montreal on the 23rd October, and I shall again start from Montreal to Santa Fe. If you so desire, you can see me in Montreal on the 24th instant, and I shall be glad to know what is your particular difficulty. If Sacisuta is finding difficulty to cope with his God-brothers in the temple, he can travel with the Sankirtana party. That will be very nice. Anyway, both of you may not leave us. Each and everyone of you is very important assistant for me, so do not try to leave us, but try to adjust things as far as possible, but my last request to you both is that if you find such difficulty to live with your God-brothers, you can live with me.
@@ -17,3 +18,4 @@ Hope this will meet you in good health. And thanking you once more for writing m
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

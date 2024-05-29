@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 1, 1971, and I have noted the contents with great pleasure. You have from the very beginning been a very determined and nice servant of Krishna, and just now as I am taking my daily massage, I remember that you also used to massage me. You are a very good boy, thank you very much for helping me.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

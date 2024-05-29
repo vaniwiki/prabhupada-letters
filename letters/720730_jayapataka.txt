@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 Mayapur
 
 My dear Jayapataka,
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 cc: Giriraja/Bombay
+</card>

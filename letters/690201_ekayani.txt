@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ekayani ======
+====== Ekayani ======
 
+<card class="letter">
 My dear Ekayani,
 
 Please accept my blessings. I am in due receipt of your letter (undated), and I thank you very much for it. I am pleased to note that you and your nice sister, Indira Dasi, are making and tending to Lord Jagannatha deities. You should place these deities on sale in Gargamuni's store for selling. In this way, you will make some money for doing your painting work. You should practice developing your good painting skills very thoroughly, and if you are ready, I can send to you many __Bhagavatam__ pictures to do. Jadurani is now sick for some time, and I have asked her to cease all of her activities. There are some paintings lying in Boston, perhaps unfinished, and, if time permits, you can go there with your sister to see them. If Jadurani likes, you can finish up these pictures for the __Krishna__ book. Picture painting is one of our important departments, so please try to become very expert. You should be at least as expert as Jadurani, and that will be a great pleasure for me. Rukmini is also becoming very much expert in her artistic works.
@@ -19,3 +20,4 @@ Please convey my blessings to all of your nice godbrothers and godsisters in New
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

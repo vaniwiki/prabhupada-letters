@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Minister in charge of Immigration ======
+====== Minister in charge of Immigration ======
 
+<card class="letter">
 Minister in charge of Immigration,\\
 Naturalization Department,\\
 Government of Kenya,\\
@@ -42,3 +43,4 @@ International Society for Krsna Consciousness,
 Branches all over the world, numbering 108.\\
 ACBS/skdb\\
 cc: His Holiness Brahmananda Swami, Governing Board Commissioner, Africa.
+</card>

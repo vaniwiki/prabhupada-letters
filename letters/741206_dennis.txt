@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dennis ======
+====== Dennis ======
 
+<card class="letter">
 London
 
 My dear Dennis:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

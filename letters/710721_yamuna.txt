@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna ======
+====== Yamuna ======
 
+<card class="letter">
 Calcutta
 
 My dear Yamuna,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Umapati ======
+====== Umapati ======
 
+<card class="letter">
 My dear Umapati,
 
 Please accept my blessings. I thank you very much for your letter dated Oct. 15. It is so nice & enjoyable. Your appreciation of Krishna Consciousness is much improved by the grace of Krishna---because you are chanting Krishna's Holy names constantly. There are some truths which you have expressed as really sublime, especially the portion where you write to say "even though He Himself is unchanging, His glory will always increase." Krishna's name is Acyuta, unchanging, but He is Bliss although always full, still increases, to increase the blissful existence of the devotee. Please continue to think of Krishna & you will feel more & more the Blissful pleasure transcendental to all material contamination. I am very thankful to you for appreciating my humble service. You will be glad to know that I have already secured a visitor's visa to your country & have asked my travel agent to book my seat on the earliest possible date. I think I shall be in your midst by the middle of Nov. I went to your country with a mission & you all good souls were sent by Krishna to me. So let us cooperatively work together to vigorously spread Krishna Consciousness, to the suffering humanity at large. Your country is great & you are all good sons of America. Spread this knowledge so that America will be still greater in the eyes of the world. Keep this point of view in front of you & all your God-brothers combine together may execute this mission.
@@ -17,3 +18,4 @@ I am very glad to learn from Rayarama's letter that both you & Satyavrata (Mosko
 
 You over well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

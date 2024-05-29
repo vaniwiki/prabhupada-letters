@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I am in due receipt of your letter of Oct. 9. I am very sorry to hear that Kirtanananda is advising you to give up the robes and the flags on the head. Please stop this nescience as I never instructed Kirtanananda to act like that. I am not at all satisfied with this action of Kirtanananda. Kirtanananda has no right to instruct you in that way, without consulting me. People are being attracted to the chanting of Hare Krishna & not to Kirtanananda's devices. Kirtanananda suggested to me when he was here that the Americans do not like the robes & flag. I told him personally if you think that Americans in great numbers will follow you, simply for not having robes & flag, I therefore advised him to drop for a few days in London & test this theory. But he has gone directly to N.Y. & is now causing these disturbances without consulting me. I have not sanctioned these methods. In my opinion, Clean shaved Brahmacharies & Grhasthas in saffron robes look like angels from Baikunta. Translation of prayers into English is good & if somebody dresses like nice American gentleman without any robes, I have no objection; but every one of my disciples must have the flag & marks of tilak on forehead. This is essential. Besides that, nobody should do anything without my sanction.
@@ -21,3 +22,4 @@ Your plan to remain in Boston till March and then start for N.Y. for film opport
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

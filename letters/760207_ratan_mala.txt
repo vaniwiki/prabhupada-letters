@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ratan Mala ======
+====== Ratan Mala ======
 
+<card class="letter">
 New Delhi
 
 My dear Ratan Mala devi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 Please accept blessings. I have received your two letters and they are very nice. By Krishna's Grace, you are doing well and continue the same faithfully. Krishna will give you intelligence for proper guidance. Offer my blessings to Uddhava & Krsna dasa.
 
 Yours ever well wisher\\
 ACB
+</card>

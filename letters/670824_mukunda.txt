@@ -6,11 +6,13 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 Whatever progress I am making, I think it is due to that. I am very glad you are doing your best to open a branch at L. A.
 
 When I return to Delhi I shall enquire of the Gita (Gira) Press there, as you requested. If you have not done so, please send the monthly $10. Also send a few copies of the “Kirtan in the Park” circulars.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

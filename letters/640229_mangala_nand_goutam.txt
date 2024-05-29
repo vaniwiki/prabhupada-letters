@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mangala Nand Goutam ======
+====== Mangala Nand Goutam ======
 
+<card class="letter">
 Sri Mangala Nand Goutam\\
 Editor Rastrapati\\
 Jama Masjid Dispensary\\
@@ -20,3 +21,4 @@ Please receive the following books on sales and return basis in terms of you let
 1 copy Order book No. 23 to 10C.
 
 A.C. Bhaktivedanta Swami
+</card>

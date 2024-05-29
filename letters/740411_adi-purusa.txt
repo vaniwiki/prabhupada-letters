@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ādi-purusa ======
+====== Ādi-purusa ======
 
+<card class="letter">
 Gorakhpur
 
 Dear Adipurusa,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vaikunthanatha ======
+====== Vaikunthanatha ======
 
+<card class="letter">
 My dear Vaikunthanatha,
 
 Please accept my blessings. I have only just now received your letter undated, in which you refer to a decision to be made by the government on October 11 whether or not we shall get a large building on that land.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

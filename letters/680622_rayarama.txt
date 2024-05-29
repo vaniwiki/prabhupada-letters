@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. Just now I have received one letter from one of my God-brothers, whose name is as follows:
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure 1 c.c. letter to Jagannatham
+</card>

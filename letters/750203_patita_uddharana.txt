@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Patita Uddharana ======
+====== Patita Uddharana ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 My dear Patita Uddharana das,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. You can allow the sacrifice in the Manor for Mrs. Mehta, but as with with the weddings, they must pay for the room. (Don't have it in the temple room.) She can bring her own brahmanas.
+</card>

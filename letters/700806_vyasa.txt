@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vyasa ======
+====== Vyasa ======
 
+<card class="letter">
 My dear Sriman Vyasa,
 
 Please accept my blessings. I am in receipt of your letter dated July 14, 1970 and its contents have been carefully noted. Yes, you are correct when you say that for a true devotee of the Supreme Personality of Godhead Lord Sri Krsna theoretical speculations are avoided. Not only is devotional service the simplest way of God realization, as you have agreed, it is clearly pointed out by Lord Krsna in the __Bhagavad-gita__ in every chapter that He can be achieved only by finally engaging directly in devotional service, or bhaktiyoga, the highest stage in yoga practice. In the First Canto, second chapter, verse seven of the __Srimad-Bhagavatam,__ it is clearly stated that by the process of applying devotional service unto the Personality of Godhead Vasudeva (Krsna), the immediate result is that causeless knowledge and detachment follow. Therefore the burden of useless theories can be avoided, simply by following the Sastras.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB:rda
+</card>

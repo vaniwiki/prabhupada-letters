@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rup Ram Sharma ======
+====== Rup Ram Sharma ======
 
+<card class="letter">
 Dear Rup Ram Sharma,
 
 I thank you very much for your invitation card on the occasion of your fortunate girl Anu Karna with Sriman Hari Kantaji. Please convey my blessings to the newly married couple to become Krishna conscious and be happy in life. I am going to Vrindaban next week and I invite you to come to our Krishna Balarama temple, Raman reti Vrindaban.
@@ -17,3 +18,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

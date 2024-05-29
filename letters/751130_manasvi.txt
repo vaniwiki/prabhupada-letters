@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manasvi ======
+====== Manasvi ======
 
+<card class="letter">
 My dear Manasvi Prabhu,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Nov. 18, 1975. Now you are living peacefully with your family, that is good. Best thing is if you continue your employment at the book store, try to sell my books there if possible. Visit the New York temple regularly with your family and try to help them as far as possible, I think you should not attempt to make life members at this time. Maintain your wife and children by working honestly, attend the temple programs as far as possible and in this way live peacefully as a grhastha following the four regulative principles of spiritual life and chant Hare Krishna on beads and at home with family. That will keep you pure.
@@ -19,3 +20,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

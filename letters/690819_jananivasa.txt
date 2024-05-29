@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jananivasa ======
+====== Jananivasa ======
 
+<card class="letter">
 My dear Jananivasa das Brahmacari,
 
 Please accept my blessings. I beg to thank you for your letter dated August 7th, 1969 and your prayer beads. There was some mix-up with these beads, and they have been sent to Krishna Kamini Dasi (Mrs. Jane Cline). Let her keep these beads. I am enclosing herewith another set of beads for you, duly chanted upon by me. Your initiated name is Jananivasa das Brahmacari. You should chant on these beads 16 rounds every day and avoid the following offenses: 1. Blaspheming the Lord's devotee, 2. Considering the Lord and the demigods on the same level, 3. Neglecting the orders of the spiritual master, 4. Minimizing the authority of the Scriptures, 5. Interpreting the Holy Name of God, 6. Committing sin on the strength of chanting, 7. Instructing the glories of the Lord's name to the unfaithful, 8. Comparing the Holy Name with material piety, 9. Inattention while chanting the Holy Name, 10. Attachment to material things while engaged in the practice of chanting. The four basic regulative principles to be followed by all initiated devotees is as follows: no illicit sex life, no intoxication, no meat-eating or fish or eggs, and no gambling. If you will follow all of the above rules very carefully, then surely you will make very nice advancement in Krishna Consciousness and your life will be sublime.
@@ -17,3 +18,4 @@ Actually, one who is Krishna Consciousness is to be understood as the topmost in
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

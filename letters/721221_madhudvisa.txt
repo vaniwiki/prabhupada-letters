@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of you letters dated December 6 and 13, 1972, and I have noted that you have sent two airline tickets for my coming there along with my one assistant. If that is so, where are those tickets sent, with which airline, where to pick them up? I am prepared to come there, as you have made such enthusiastic arrangements, but I shall be holding our Hare Krishna Festival again in Cross Maidan from January 12th to 21st, and after that there are a few programmes in Calcutta, so I may leave from Calcutta round about January 25th or so, go first to Djakarta, then as you suggest me. But one thing is, I must travel at least with two secretaries, Srutakirti and Syamasundara. So you may send three tickets to Bombay, informing us name of airline, etc. But I think your programme is bit strenuous. We should not work strenuously. Whatever can be done easily, that will be better. However, I am prepared to do as you think best, but flying here and there, so many places, that will be little troublesome, what do you think? Better a few programmes with many persons attending of high interest and intelligence, instead of many programmes here and there if there is chance nobody may come. At any rate, I shall be very glad to come there under your invitation to see all those nice boys and girls and how the things are going on. You mention Mohanananda, now he wants to stay there in Sydney. I had requested him to go to Gurukula school because he desired to do it. They very much require a Headmaster there with his experience and enthusiasm, so I do not know if he still wants to do it. Somehow or other our children in Gurukula may not be neglected due to our mismanagement. But we shall discuss further when I come there.
@@ -19,3 +20,4 @@ Hoping this meets you in good health.
 
 Your ever-well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

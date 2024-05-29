@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Chief-Justice Sri M.C. Chagla ======
+====== Chief-Justice Sri M.C. Chagla ======
 
+<card class="letter">
 The Hon'ble Mr. Chief-Justice Sri M.C. Chagla\\
 Chief Justice House,\\
 Harkisan Road,\\
@@ -44,3 +45,4 @@ I have a programme for this job by the order of my spiritual master and I have c
 
 Yours obediently,\\
 A.C. Bhaktivedanta
+</card>

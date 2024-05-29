@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Koumadaki ======
+====== Koumadaki ======
 
+<card class="letter">
 My dear Koumadaki,
 
 Please accept my blessings. I am in due receipt of your letter, undated, and I have noted the contents. Thank you very much for the nice poems you have written. They are very well done, and you can submit them to Iskcon Press for publication in Back to Godhead. I am glad to hear that you and your husband are happy in your work for Iskcon Press. The distribution of our literatures is such an important task, for as more people read these books, more and more the whole world will become auspicious and the degrading influence of this age of Kali will become minimized.
@@ -26,3 +27,4 @@ Your ever well-wisher,
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
+</card>

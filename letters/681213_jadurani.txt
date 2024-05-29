@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I have received your letter of December 9, 1968 and have noted the contents.
@@ -23,3 +24,4 @@ Kindly convey my blessings to Devananda, Saradia and Rukmini. I hope you are all
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

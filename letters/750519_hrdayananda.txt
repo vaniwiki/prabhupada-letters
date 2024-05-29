@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hrdayananda ======
+====== Hrdayananda ======
 
+<card class="letter">
 Caracas
 
 My dear Hrdayananda Goswami,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Thank you for distributing so many books and please continue to print more books with added enthusiasm.\\
 ACBS/ps
+</card>

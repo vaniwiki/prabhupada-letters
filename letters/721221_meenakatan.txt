@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Meenakatan ======
+====== Meenakatan ======
 
+<card class="letter">
 Delhi
 
 My dear Meenakatan,
@@ -19,3 +20,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Nov. 1, 1968, and I am glad to inform you that as directed by you I have sent the 3 letters to the following personalities: Minister in charge of cultural and religious affairs, Mr. Michael Weyl, and Dr. Irvin. The body of the letter is the same as you drafted. Now you can do the needful and inquire whether they have received the letters. I hope very soon you will find out a suitable place in Hamburg and start the temple and if required you can take assistance from Syamasundara, for the Deities. I am glad to learn that Krishna das has got a job in a jewelry shop, similarly both you and Uttama Sloka may also find out some job and immediately take a nice apartment. If storefront is too costly then you can start the center in some apartment and try to invite people there and live together. Regarding your question, about living alone, living alone is a general tendency for a person who wants to get disassociated with the materialistic persons. That is also recommended by the Goswamis in their instructions. It is better to remain alone than to mix with materialistic persons. But this is not applicable when we have the opportunity to get the association of pure devotees. Our program is negative and positive simultaneously. We want to negate the materialistic side and make positive the spiritual side, it is not one sided. If you have no positive standing, negating only will not make you successful. Therefore it is better to remain positively within the society of pure devotees. That is also recommended by the Goswamis. That one should be occupied in activities in the modes of goodness and associate with spiritualistic persons, that will make one's advancement very quick.
@@ -25,3 +26,4 @@ Yes, these your questions are very intelligent questions. Hoping you are all wel
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

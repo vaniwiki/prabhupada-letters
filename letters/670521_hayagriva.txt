@@ -7,8 +7,10 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your letter. I understand that some girls have volunteered to type and therefore you can now get the revised Gitopanisad nicely and correctly typed before it is handed over to the press. I am advising Rayarama to send you the sixth and seventh chapter for editing and I shall take with me the balance for re-editing and Typing. I am reaching San Francisco by the Second week of June 1967. Hope you are well.
+</card>

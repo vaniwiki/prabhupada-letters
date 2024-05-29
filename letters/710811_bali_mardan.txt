@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali Mardan ======
+====== Bali Mardan ======
 
+<card class="letter">
 7 Bury Place\\
 London, W.C. 1\\
 ENGLAND, 11th August, 1971
@@ -30,3 +31,4 @@ ACBS/ADB
 
 Bali Mardan Das Brahmachary\\
 c/o ISKCON Calcutta
+</card>

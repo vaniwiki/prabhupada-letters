@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yeager ======
+====== Yeager ======
 
+<card class="letter">
 Dear Sriman Yeager,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 20, 1969.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB:m
+</card>

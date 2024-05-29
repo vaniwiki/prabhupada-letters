@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay
 
 My dear Giriraja,
@@ -34,3 +35,4 @@ ACB/sda\\
 n.b. Brahmananda has requested some __Krishna Books__ from you, so you may send them immediately with bill.
 
 ACB
+</card>

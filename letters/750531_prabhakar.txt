@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prabhakar ======
+====== Prabhakar ======
 
+<card class="letter">
 New Delhi
 
 My dear Prabhakar,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 N.B. On May 18, 1975 we just opened a very large headquarters in Melbourne, Australia. The festival took place with great pomp and it was a great success. Many outsiders came and took part in the festival. I installed two very large, beautiful Deities, Gaura and Nitai in a very beautiful all-marble temple room. Things are going on very nicely in the western countries.
+</card>

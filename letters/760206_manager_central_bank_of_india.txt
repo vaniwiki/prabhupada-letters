@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager, Central Bank of India ======
+====== Manager, Central Bank of India ======
 
+<card class="letter">
 Manager\\
 Central Bank of India\\
 Camac Street Branch\\
@@ -27,3 +28,4 @@ Your faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhumata ======
+====== Bhumata ======
 
+<card class="letter">
 Cleveland
 
 My dear Bhumata devi dasi,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. I think you may send to Bombay address, but you have to be careful if you are sending money in the mail. You can consult with Satsvarupa Maharaja how best to do this.\\
 ACBS/BS/mdd
+</card>

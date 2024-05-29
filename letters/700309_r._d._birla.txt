@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: R. D. Birla ======
+====== R. D. Birla ======
 
+<card class="letter">
 Sri R. D. Birla\\
 Industry House\\
 Churchgate Reclamation\\
@@ -30,3 +31,4 @@ Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

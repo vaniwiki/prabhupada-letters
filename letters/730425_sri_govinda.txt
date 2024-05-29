@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Govinda ======
+====== Sri Govinda ======
 
+<card class="letter">
 My dear Sri Govinda Das Adhikari:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 24, 1973 with enclosures. Your report has given me unbounded pleasure and I very much appreciate your activities. Your university program has given me much satisfaction, so you try to continue it. Yes, they must appreciate my Bhagavatam because it is nothing business but is a matter of realization.
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 *you have talent to write, please go on writing articles for BTG.
+</card>

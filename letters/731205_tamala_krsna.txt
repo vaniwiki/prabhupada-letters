@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 My dear Tamala Krsna Goswami,
 
 Please accept my blessings. I am in receipt of your letters dated November 29th and 30th. Regarding the refusal of my entrance into Nairobi, no reason has yet been disclosed for the denial. I have written one letter, a copy of which is enclosed herewith, but there has been no reply. You may get the letter published in India. After proceeding to London I heard from Brahmananda Maharaja that on account of the denial of entry a commotion was caused amongst the people so the President of Kenya verbally said he was issuing a letter with permission for myself to enter. I waited in London but it did not come so I proceeded on to Los Angeles. The idea is to curtail the Indian influence in Kenya, either political or religious. That I can understand. Brahmananda Maharaja was allowed but not myself or my secretary. It was a great trouble for me. From Bombay to Nairobi took nine hours, then six hours waiting in the airport and then 9 hours to London. It was a great strain. I rested for three days in London.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
+</card>

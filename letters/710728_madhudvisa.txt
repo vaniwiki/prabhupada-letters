@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 21st July, 1971 and have noted the contents carefully. I am so glad to hear that the gloomy situation mentioned with Tamala has now dissipated. If we keep to our principle of following the regulative principles and chanting of 16 rounds of beads daily, then it is a fact that Krishna will help us in every respect.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. While posting this letter, I'm in due receipt of you letter dated 16th July regarding a new house like a palace on Nepansy Road near the corner of Warden Rd. where a large catholic church stands. You can negotiate for this house with Mr. Chabria. It he thinks that it is worth 20 lacs, then you can consider this point and let me know further details to London address (7, Bury Place, London, W.C.1)
+</card>

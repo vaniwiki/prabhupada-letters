@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayananda ======
+====== Jayananda ======
 
+<card class="letter">
 My dear Jayananda,
 
 Please accept my blessings. I am in due receipt of your letter dated July 3, 1968. I have heard about your successful execution of Rathayatra festival in San Francisco from so many sources. And I am so glad to hear the news. But till now I have not received any newspaper clippings, or photostats of news articles. I am very much anxious to get them.
@@ -23,3 +24,4 @@ Hoping you are all well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

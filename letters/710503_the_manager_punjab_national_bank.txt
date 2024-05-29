@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: The Manager Punjab National Bank ======
+====== The Manager Punjab National Bank ======
 
+<card class="letter">
 The Manager,\\
 Punjab National Bank,\\
 Brabourne Road, Calcutta.
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 Dated 5/3/1971
 
 (official bank stamp and "Received F.D.R.")
+</card>

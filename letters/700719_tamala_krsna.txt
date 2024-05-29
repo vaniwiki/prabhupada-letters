@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Paris
 
 My dear Tamala,
@@ -41,3 +42,4 @@ A.C. Bhaktivedanta Swami
 N. B. I learn from Brahmananda that you are planning to come here and attend the meeting during Janmastami days at New Vrndavana and I am very glad that you are coming.\\
 *very soon four Sannyasis will go to England for this purpose.\\
 ACBS:db
+</card>

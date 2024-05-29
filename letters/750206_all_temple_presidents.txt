@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: All Temple Presidents ======
+====== All Temple Presidents ======
 
+<card class="letter">
 __TO ALL TEMPLE PRESIDENTS__
 
 My dear President,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

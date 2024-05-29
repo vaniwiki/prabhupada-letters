@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Upendra, Krsna dasa ======
+====== Upendra, Krsna dasa ======
 
+<card class="letter">
 My dear Upendra and Krishna Das,
 
 Please accept my blessings. If our Berkeley centre is not going to be fruitful just now, I think you may prepare to go to India where Acyutananda has opened a centre at Kanpur. Gurudasa is in contact with Acyutananda and you can talk with Gurudasa. Our aim of starting a centre in India is to attract Indian youngsters by American devotees. Combined together we shall be able to make a wide circulation of the Krishna Consciousness movement. Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

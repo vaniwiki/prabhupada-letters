@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 My dear Giriraja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 22, 1972, regarding the supply of deity for Chicago centre. I am told that the Bharatapur deity is more than 200 years old and is made of solid silver, and therefore it will be very difficult to get government permission to export it from India. It will be too much trouble, so if nice deities can be gotten from Jaipur as we have done before, that is better.
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vrindaban Candra ======
+====== Vrindaban Candra ======
 
+<card class="letter">
 Los Angeles
 
 My dear Vrindaban Candra,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsnakanti ======
+====== Krsnakanti ======
 
+<card class="letter">
 Seattle
 
 My dear Krsnakanti,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

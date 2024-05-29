@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Hitsaran Sharma ======
+====== Hitsaran Sharma ======
 
+<card class="letter">
 For starting the American branch of ISKCON I am corresponding with the Commissioner of Devastan Department, Rajasthan, Udaipur. I wanted to occupy the Jaipur House in Vrindaban. The last letter I have received from the Commissioner and the reply which I have sent to him, the copies are enclosed herewith; please try to have the Jaipur house at Vrindaban where we can conduct a branch of ISKCON in a scale just suitable for the purpose.
 
 I have also received one letter of appreciation from Sri Hanuman Prasad Poddar. I think if you get a nice place at Krishna Janmabhumi Area (Mathura), these American students will be more enthusiastic. I have already written this fact to Bhaiji and I shall be glad if you also talk with him. The whole idea is full cooperation between the devotees of Krishna can build up a very great project for the good of all human race.
@@ -26,3 +27,4 @@ Delhi-31, India\\
 Enclosure ; 1
 
 P.S. If we can start a nice branch in India, gradually the Indian youngsters, who are so much misled, may follow also the examples of the Americans in Krishna Consciousness.
+</card>

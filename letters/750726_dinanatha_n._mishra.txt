@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinanatha N. Mishra ======
+====== Dinanatha N. Mishra ======
 
+<card class="letter">
 Sriman D.N. Mishra\\
 179, Balarama Dey Street\\
 Calcutta-6
@@ -42,3 +43,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. What is the criminal charge against a public man who decorates himself as D. Lit., D.D. etc?\\
 ACBS/bs
+</card>

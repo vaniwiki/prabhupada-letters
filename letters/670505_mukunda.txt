@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 San Francisco
 
 My dear Mukunda,
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami
 N.B. I learn that in the temple there are sometimes men with no work. This should not be allowed. Every one must be busy with some work in Krishna Consciousness. Idleness is not Krishna Consciousness. Please take care of this omission I shall be glad to hear from you about this.
 
 ACB
+</card>

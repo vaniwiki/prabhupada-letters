@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mrs. Levine ======
+====== Mrs. Levine ======
 
+<card class="letter">
 Dear Mrs. Levine,
 
 Please accept my blessings. I beg to acknowledge receipt of your nice letter of January 5, 1969, along with your husband's note. Please offer my thanks to him.
@@ -21,3 +22,4 @@ Thank you once more for your letters. I hope that you and your husband are both 
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. Regarding your question about the inhabitants of Vrajabhumi or Vrindaban it is to be understood that Vrindaban is the original abode of Lord Krishna as He is the original Personality of Godhead. In that transcendental plane He has His transcendental associates in different exchange of humor. For ourselves when we are in perfect stage of devotional service, we can know our eternal relation with Krishna and as such one of the associates of Lord Krishna becomes our ideal leader. This acceptance of leadership by one of the eternal associates of the Lord is not artificial. Do not therefore try it at present it will be automatically revealed to you in proper time.
@@ -24,3 +25,4 @@ Please ask Rayarama to get back the first chapter of Gitopanisad from the publis
 Ever well wisher,
 
 A.C. Bhaktivedanta Swami
+</card>

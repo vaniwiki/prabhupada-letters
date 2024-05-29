@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your note of Oct. 28, 1968, along with a letter to you from Jaya Govinda. His letter appears not very clear and your remark on Acyutananda's attitude is also notable. You write to say "Rayarama will forward one letter from Parvat Maharaja etc." I have not received any letter from Rayarama. I think both Acyutananda and Jaya Govinda have been poisoned by this Parvat and thus it is useless to request them to work for the society. Neither they have shown any capability till now. Under the circumstances, I think there is no hope of getting any service from these boys regarding our mission.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I have not heard anything from Purusottama about the church center. ACB
+</card>

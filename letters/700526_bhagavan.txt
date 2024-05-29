@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavan ======
+====== Bhagavan ======
 
+<card class="letter">
 Detroit
 
 My dear Bhagavan das,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

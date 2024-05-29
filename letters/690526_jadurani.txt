@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I thank you very much for your letter dated May 9, 1969, and I have noted the contents carefully. Regarding your question about kirtana, practically we are not concerned with the instruments. They are used sometimes to make it sweeter, but if we divert our attention for using the instruments more, that is not good. Generally kirtana is performed with mrdanga and karatalas, but if somebody is expert instrument player, he can be admitted to join Sankirtana. We can accept everything for Krishna's service, but not taking the risk of diverting attention to any other thing which will hinder our Krishna Consciousness. That should be our motto, or principle.
@@ -19,3 +20,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

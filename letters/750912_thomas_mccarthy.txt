@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Thomas McCarthy ======
+====== Thomas McCarthy ======
 
+<card class="letter">
 Mr. Thomas McCarthy\\
 P.O. Box 446\\
 Kapaa, Kauai\\
@@ -24,3 +25,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

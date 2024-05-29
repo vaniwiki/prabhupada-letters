@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. I thank you very much for you letter of March 17, 1969, and I have noted the contents carefully. (along with the letter of March 4th). Yes, I have duly received Hayagriva's letter and I have replied him also, that I shall be coming to New Vrindaban, or Columbus, on or by the 10th of May. I am happy to hear you have a new boy, John Saltzgiver, and you keep him nicely and gradually introduce to him our K.C. philosophy.
@@ -23,3 +24,4 @@ I hope all is well there, and I am very much encouraged by all the nice letters 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

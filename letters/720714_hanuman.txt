@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hanuman ======
+====== Hanuman ======
 
+<card class="letter">
 Managua
 
 My dear Hanuman,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

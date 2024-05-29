@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sukadeva ======
+====== Sukadeva ======
 
+<card class="letter">
 Tucson
 
 My dear Sukadeva,
@@ -28,3 +29,4 @@ P.S. Yes, if Karandhara has recommended it, both you and Narada Muni Das may get
 
 Yes, when I go to L.A. I may visit your temple.\\
 ACBS/adb
+</card>

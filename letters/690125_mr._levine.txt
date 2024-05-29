@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Levine ======
+====== Mr. Levine ======
 
+<card class="letter">
 My dear Mr. Levine,
 
 Please accept my blessings. I am so pleased to read your letter of January 21, 1969 and to learn of your sincere eagerness to serve Krishna in the best capacity of your talents. There is a Sanskrit proverb that says that there is not any better knowledge than to become a musician. Our Krishna Consciousness movement is practically based upon music and dancing. If by your exceptional qualities you can help in this movement, I think you have been sent by Krishna Himself to help me in this connection. I have one nice disciple, Michael Grant (Mukunda das Adhikari) who is a very good composer of Western music. He was earning lots of money in New York as a professional music teacher, but since he has become my disciple he has dedicated his life for propagating this movement along with his wife. I shall be glad if you immediately contact him in London at the following address: 22 Betterton Street, London WC 2, England. I have got a very ambitious program to organize a nice Sankirtana Party both in Oriental and Occidental style, so that we can thus attract all classes of people in the world to Krishna Consciousness. Very nice arrangements are being made in this connection under the leadership of Michael Grant. Please contact him soon. I am also sending him a note about you.
@@ -19,3 +20,4 @@ Please convey my blessings to your wife. I hope this will meet both of you in ve
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

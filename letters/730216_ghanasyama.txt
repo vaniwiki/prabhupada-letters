@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ghanasyama ======
+====== Ghanasyama ======
 
+<card class="letter">
 Los Angeles
 
 My dear Son,
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ms
+</card>

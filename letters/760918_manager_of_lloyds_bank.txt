@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Lloyds Bank ======
+====== Manager of Lloyds Bank ======
 
+<card class="letter">
 The Manager\\
 Lloyds Bank\\
 Southampton Row\\
@@ -27,3 +28,4 @@ yours sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

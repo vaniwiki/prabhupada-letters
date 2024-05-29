@@ -7,9 +7,11 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 Delhi\\
 [To Gurudasa]
 
 STOPPING TWO HOURS DELHI EN ROUTE MOSCOW ALL DEVOTEES MEET AIRPORT SUNDAY MORNING 20TH 730 AI 515 TRY BRING KARAN SINGH OTHER VIPS TO MEET ME NOTIFY SUBAL DAS---BHAKTIVEDANTA SWAMI
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter dated 11th October, 1971 and have noted the contents. I welcome you for your coming back to our society and you are feeling very nicely the association of devotees. Srila Rupa Goswami has described that devotional service can be advanced by six processes. Perhaps you know them. They are as follows: enthusiasm, patience, conviction, following the regulative principles, being honest in one's profession, and in the association of devotees. So this Krishna consciousness society is especially meant for giving people the opportunity to associate with devotees. Devotees means who are following the regulative principles. One cannot be independent and at the same time become a devotee because all devotional activities are based on surrender. So in the association of devotees we learn this important item---how to surrender, but if we keep our independence and try to become devotees, that is not possible.
@@ -25,3 +26,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

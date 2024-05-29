@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gangadevi ======
+====== Gangadevi ======
 
+<card class="letter">
 Berlin
 
 My dear Gangadevi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda/yda
+</card>

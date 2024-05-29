@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Anapurna, Ananda ======
+====== Anapurna, Ananda ======
 
+<card class="letter">
 Vancouver
 
 My dear Anapurna and Ananda das,
@@ -27,3 +28,4 @@ The conclusion is that in my opinion, both of you should legally be married, and
 
 Yours ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

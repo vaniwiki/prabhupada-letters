@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Candravali ======
+====== Candravali ======
 
+<card class="letter">
 Sebastapol, California
 
 My dear Candravali,
@@ -21,3 +22,4 @@ I hope this finds you and your children well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

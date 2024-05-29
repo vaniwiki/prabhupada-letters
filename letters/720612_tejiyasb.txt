@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 My dear Tejiyas,
 
 Please accept my blessings. I am in due reciept of your letter dated June 2, 1972, and I have noted the contents. I am very pleased to hear from you and from Guru das that your preaching work in Delhi is continuing on very nicely and that you are meeting with very good success by making many life members. Actually, this making life members is the certain sign that our preaching work is successful. If somebody pays us, that is almost the same as converting him. So the more life members that you make in Delhi, the more I can understand that your preaching work is very pleasing to Krishna. Krishna is most pleased by His servant who preaches by canvassing others on His behalf.
@@ -21,3 +22,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

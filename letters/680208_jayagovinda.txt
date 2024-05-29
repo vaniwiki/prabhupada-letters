@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayagovinda ======
+====== Jayagovinda ======
 
+<card class="letter">
 New York
 
 My dear Jaya Govinda,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Sent along with Brahmacari
+</card>

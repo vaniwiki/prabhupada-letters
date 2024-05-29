@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhakta Mark ======
+====== Bhakta Mark ======
 
+<card class="letter">
 Brooklyn
 
 My dear Bhakta Mark,
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

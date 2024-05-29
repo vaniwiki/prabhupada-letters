@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 San Francisco
 
 My dear Syamasundara,
@@ -17,3 +18,4 @@ I am so glad to receive your letter dated May 30, 1968, redirected from Boston. 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

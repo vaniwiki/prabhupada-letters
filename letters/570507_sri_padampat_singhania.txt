@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Padampat Singhania ======
+====== Sri Padampat Singhania ======
 
+<card class="letter">
 Sri Padampat Singhania,\\
 Kamla Tower,\\
 __Kanpur__
@@ -40,3 +41,4 @@ Yours sincerely,\\
 Goswami Abhay Charan Bhaktivedanta
 
 Editor---"BACK TO GODHEAD."
+</card>

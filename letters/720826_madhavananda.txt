@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhavananda ======
+====== Madhavananda ======
 
+<card class="letter">
 My dear Madhavananda,
 
 Please accept my blessings. I have received your letter dated August 15th and have noted the contents carefully. I have also looked at the article in Kothari Magazine and it is done very nicely. Thank you very much. I am encouraged to hear that the collecting is going very nicely under your supervision and that you have made 33 Life Members there in Calcutta more. But we shall require huge funds to finish our Mayapur Project, at least Rs./60,000 per month must be collected there, along with donations of kind, such as steel, etc. So if you can assist Jayapataka and the others in this way that is very much appreciated.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

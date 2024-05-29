@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of October 15, 1970, and the contents have given me great encouragement.
@@ -24,3 +25,4 @@ It is my desire that every American boy and girl receive a Krsna Conscious educa
 Regarding marriage, generally the man should be older than the woman. We have not had good experience with marriages when the woman is older. But everything must be done with reference to time, place and circumstance and in your country such a marriage is not uncommon. So if you think the match is good then you may marry them.
 
 [PAGE MISSING]
+</card>

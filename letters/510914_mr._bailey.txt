@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Bailey ======
+====== Mr. Bailey ======
 
+<card class="letter">
 Mr. Daniel Bailey\\
 Information officer\\
 American Reporter,\\
@@ -40,3 +41,4 @@ Thanking you in anticipation,
 
 Yours truly,\\
 Abhay Caranaravinda Bhaktivedanta
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vrndavana Vilasini ======
+====== Vrndavana Vilasini ======
 
+<card class="letter">
 Los Angeles
 
 My dear Vrndavana Vilasini,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

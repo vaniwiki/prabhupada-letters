@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pancadravida ======
+====== Pancadravida ======
 
+<card class="letter">
 My dear Pancadravida Swami,
 
 Please accept my blessings. I am in receipt of your letter dated Jan. 9th and am very pleased to note your book distribution results in Latin America. I am always thinking of Caracas temple. Although I went there once, it has given me some impression. Now I am an old man, and am depending on you to carry on our mission more enthusiastically. The seed is already there. Now water it and let it grow and fruit will come out, fruit of love of Godhead, and you will all enjoy, even in this material world. Just try to give shape to the instructions of Caitanya Mahaprabhu. Pritivite ache yata nagaradi grama, sarvatra pracara haibe mora nama. "My name will be spread in every nook and corner of every town and village of the world." That is your duty, and you are one of the foremost workers.
@@ -19,3 +20,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

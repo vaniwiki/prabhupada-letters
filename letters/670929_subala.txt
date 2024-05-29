@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala,
 
 Please accept my blessings. I am in due receipt of your letter of the 13rd instant as also the press report dated 17th instant and I am so pleased to have them. You have nicely done some service to the Lord by opening this grand branch and certainly Krishna will bestow upon you His blessings. Krishna Consciousness is a transcendental science which can be revealed to a sincere devotee who is prepared to render service to the Lord. Krishna Consciousness is not achieved by dry arguments or by academic qualifications. Our senses are all blunt in the matter of receiving transcendental subject matter, but they are purified in due course of time by constant engagement in the service of the Lord. So yours and Krishna Devi's sincere effort to open a branch in Santa Fe is crowned with success by the Grace of the Lord.
@@ -23,3 +24,4 @@ The article in the paper New Mexican is very nicely written and I offer my since
 So far as my health is concerned, I feel that I am now fit to return to your country. You can send me now an official invitation letter with guarantee for my maintenance and expenditure on printed stationery, and not only you, but also all the centers would send me such invitation so that they may be used for getting my permanent visa. Kirtanananda and Acyutananda went to the American Embassy and it was learnt that such letter are required for getting a permanent visa.
 
 The lecture as it appears in the picture seems to be very nice and I shall be very glad to know it's capacity to hold attendants. I am also glad to hear that you are carving Jagannatha Subhadra for the temple. If your temple accommodation is suitable then I shall install Sri Sri Radha Krishna Vigraha when I return back to the states. There are some Mrdangas in New York and you can get them for playing in your temple. The last line of your letter is very pleasing to me and I am happy to learn this temple is going to be the most important than all others. Please work for it and I shall join you very soon by the end of October 1967.
+</card>

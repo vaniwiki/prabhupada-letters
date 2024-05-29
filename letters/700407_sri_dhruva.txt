@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Dhruva ======
+====== Sri Dhruva ======
 
+<card class="letter">
 Sri R. C. Dhruva\\
 Secretary to Sri R. D. Birla\\
 Industry House\\
@@ -33,3 +34,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda ======
+====== Brahmananda, Hayagriva, Tamala Krsna, Umapati, Dayananda ======
 
+<card class="letter">
 My dear Brahmananda, Hayagriva, Tamala Krishna, Umapati, Dayananda,
 
 Please accept my blessings. Enclosed you will find the copy of a letter received by me from the draft board. Please read over it and decide what is to be done. You can consult together on this matter and get whatever information is required by them. And let me know in your next letter about the matter.
@@ -20,3 +21,4 @@ A.C. Bhaktivedanta Swami
 
 CC: New York, Los Angeles, New Vrindaban\\
 P.S. I think I will have to reply to the Draft board by next week.
+</card>

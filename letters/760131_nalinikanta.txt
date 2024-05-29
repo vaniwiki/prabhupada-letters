@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nalinikanta ======
+====== Nalinikanta ======
 
+<card class="letter">
 Phoenix
 
 My dear Nalinikanta,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

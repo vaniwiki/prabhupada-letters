@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Successful business means it will improve in volume. Suppose you require 50 assistants then where we have got so much men. At that time we have to employ outsiders. Suppose we increase our sales of books very nice then we have take help of outsiders for binding. We cannot expect that all our men may become bookbinders. Our Krishna Consciousness program must be executed. ACB
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Suresh Candra ======
+====== Dr. Suresh Candra ======
 
+<card class="letter">
 West Bengal
 
 Dear Dr. Suresh Candra,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

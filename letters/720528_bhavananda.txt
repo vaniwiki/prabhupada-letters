@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhavananda ======
+====== Bhavananda ======
 
+<card class="letter">
 Calcutta
 
 My dear Bhavananda,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I think that Malati, Sarasvati, and Srimati are coming there to Calcutta. Why not these girls can assist your wife in worshiping the Deities?\\
 ACB/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara ======
+====== Ramesvara ======
 
+<card class="letter">
 My dear Ramesvara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 27, 1972, and with great happiness I have read your figures of amount of books sold during three-day period, December 22-24, 1972. It is scarcely believable that more than 17,100 books could have been sold by one temple in three days! That indicates to me that people are at last becoming little serious about this Krsna Consciousness movement in your country. Otherwise, why they should buy our books? But they can see that our boys and girls, devotees, are so much sincere and serious to distribute the message of Krsna consciousness, they are at once struck by seeing them and therefore they appreciate and purchase. This is unique in the world. Perhaps we are the only sincere persons on this whole planet. At least our books are not to be seen anywhere else.
@@ -21,3 +22,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

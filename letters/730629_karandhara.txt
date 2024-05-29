@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 P.S. If you have received 3 checks for deposit in my a/c.
+</card>

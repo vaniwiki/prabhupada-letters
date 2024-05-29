@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Sudhi Kumar Dutta ======
+====== Sri Sudhi Kumar Dutta ======
 
+<card class="letter">
 Sri Sudhi Kumar Dutta\\
 Calcutta
 
@@ -20,3 +21,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

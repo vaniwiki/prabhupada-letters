@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harer Nama ======
+====== Harer Nama ======
 
+<card class="letter">
 My dear Harer Nama,
 
 Please accept my blessings. I am in due receipt of your letter, undated, and thank you so much for it. Yes, your place is very nice, don't try to change it, but try to improve it. Better try to have Sankirtana and get one mrdanga from New York by paying them, and in this way try to improve the attendance of the temple. Your ideas you mention are very good. Try to search out jobs, and eventually if you can establish your own means of income that will be very nice.
@@ -17,3 +18,4 @@ Please keep me informed at least once in a fortnight of your progress there, and
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

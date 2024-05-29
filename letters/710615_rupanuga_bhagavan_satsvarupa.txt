@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga, Bhagavan, Satsvarupa ======
+====== Rupanuga, Bhagavan, Satsvarupa ======
 
+<card class="letter">
 Brooklyn
 
 My dear Rupanuga, Bhagavan das, and Satsvarupa,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda dasi,
 
 Please accept my blessings. I thank you very much for your letter dated January 3, 1970. I am so much engladdened that you are so anxious to get me in house and make my headquarters there. The proposal is very nice because I have got experience from the help of your husband and yourself how both of you are serviceable in my activities. You are very good secretary and your husband is good editor, so to keep myself under your care will certainly be a great boon. The only thing I am considering about staying in the mainland because the devotees in different centers here can see me if required more quickly then they can do so in Hawaii. So the things are not yet settled up. I am staying here in a house for which they are paying $600 rent. I think so much expenditure will be a kind of luxury for me because I am a Sannyasi, but at the same time a house like this is necessary for me because it is suitable for my working. Anyway, in the next summer, I have been invited to go to Japan and when it is fixed up, I shall start a little earlier and break my journey in Honolulu to stay with you for some days and see things practically.
@@ -19,3 +20,4 @@ I am in correspondence with United Shipping and will let you know in due course 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

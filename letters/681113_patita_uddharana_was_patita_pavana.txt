@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Patita Uddharana (was Patita Pavana) ======
+====== Patita Uddharana (was Patita Pavana) ======
 
+<card class="letter">
 My dear Patita Pavana, now, Patita Uddharana,
 
 Please accept my blessings. I am in due receipt of your letter, and thank you very much for it. That you are chanting and reading with great delight is very good. Please continue this practice and the delight will continue to increase the more you increase sincerity. I understand also that your family is now reading Back To Godhead, and this is also very good. Just try to explain this philosophy to them, and convince them in this way.
@@ -19,3 +20,4 @@ I hope you are all well, and just continue and try to make the temple there very
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

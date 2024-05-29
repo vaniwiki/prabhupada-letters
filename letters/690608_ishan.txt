@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ishan ======
+====== Ishan ======
 
+<card class="letter">
 CENTER NEW VRINDABAN \\
 RD 3, Moundsville, West Virginia
 
@@ -20,3 +21,4 @@ Please convey my blessings to your good wife, Bibhavati. I hope this will meet y
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

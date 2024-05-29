@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I think with Sai's money in 10,000/$ denominations four bills you have to come to India. Syamasundara will write to you.\\
 ACBS:ds
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ksirodakasayi ======
+====== Ksirodakasayi ======
 
+<card class="letter">
 Delhi
 
 My dear Ksirodakasayi,
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 *(Gwalior Tank Branch) Gwalior Tank Bombay, Central Bank of India\\
 P.S. One devotee Dharmavira is offering one apartment in his possession in Patel Nagar. Gurudasa is returning soon to occupy the place. I think you can live there and work cooperatively.\\
 ACBS/sda
+</card>

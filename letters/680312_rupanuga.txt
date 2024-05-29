@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 Buffalo
 
 My dear Rupanuga,
@@ -35,3 +36,4 @@ Thanking you once more for your very excellent work there, and hoping you are we
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

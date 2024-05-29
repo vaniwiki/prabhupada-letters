@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Smita Krishna ======
+====== Smita Krishna ======
 
+<card class="letter">
 ISKCON – ALMVIKS GARD – 153 00 JARNA – SWEDEN / FAX No: (46) 755-520 06\\ 
 7, Bury Place\\ 
 London, W.C. 1; ENGLAND
@@ -31,3 +32,4 @@ A.C. Bhaktivedanta Swami
 ACBS/adb
 
 c/o ISKCON Hamburg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Chairman of Municipal Committee of Vindavan ======
+====== Chairman of Municipal Committee of Vindavan ======
 
+<card class="letter">
 The Chairman, Municipal Committee,\\
 Vrindaban, U.P.
 
@@ -29,3 +30,4 @@ Thanking you in anticipation. In the meantime I beg to remain,
 
 Yours Sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

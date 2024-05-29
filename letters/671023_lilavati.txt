@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lilavati ======
+====== Lilavati ======
 
+<card class="letter">
 My dear Lilavati,
 
 Please accept my blessings. I'm just in receipt of your letter. Your child should be named Subhadra, the name that you have already chosen, this is nice. Regarding the horoscope, it is a nice idea and if I meet a good astrologer I shall try to get one for your little child. I'm glad that you have sent me the exact time and date of birth, this will help.
@@ -16,3 +17,4 @@ Please accept my blessings. I'm just in receipt of your letter. Your child shoul
 N.B. I have purchased one Tambura for you costing Rs 106/- from Dwarkin & Sons. They have allowed me 20% discount (special) on the price. This Tambura is going to be booked by air cargo tomorrow by Ramanuja. The charges will be too much. But hence forward you can order directly to M/S Dwarkin & son, 8/2 Esplanade East, Calcutta-1. The price is Rs 125/- Less 20% and there will be no sale tax charges if you send the amount by Bank draft in dollar direct to the firm. The will pack & ship the instruments by surface which will be very cheap. Always order in the ISKCON Stationery which are printed with my name.
 
 ACB
+</card>

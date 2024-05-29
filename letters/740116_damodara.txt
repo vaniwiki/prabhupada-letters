@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 3, 1974.
@@ -28,3 +29,4 @@ Your political preaching is encouraging to me. We should expose before the publi
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

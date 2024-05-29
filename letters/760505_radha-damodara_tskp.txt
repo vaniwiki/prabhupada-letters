@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radha-Damodara TSKP ======
+====== Radha-Damodara TSKP ======
 
+<card class="letter">
 New York\\
 Radha-Damodara TSKP
 
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

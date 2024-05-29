@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 London
 
 My dear Gurudasa,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *Did she accept your invitation? Did she come to dine with you? If not how you can expect any co-operation with them?
+</card>

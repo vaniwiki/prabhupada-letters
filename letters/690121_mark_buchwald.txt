@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mark Buchwald ======
+====== Mark Buchwald ======
 
+<card class="letter">
 My dear Mark Buchwald,
 
 Please accept my blessings. I thank you very much for your nice letter of January 19, 1969, and I have carefully read the contents. You have stated that you have spent twenty two years of my life in the darkness of ignorance, and actually until any person has come to the standard of Krishna Consciousness he is supposed to be considered as being covered by ignorance. There are different degrees of ignorance however, and to come to the highest perfectional platform of knowledge is to surrender fully to the Lotus Feet of Krishna.
@@ -19,3 +20,4 @@ You have also consulted me for advice about some of your personal problems, and 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

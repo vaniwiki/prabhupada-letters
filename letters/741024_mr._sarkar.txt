@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Sarkar ======
+====== Mr. Sarkar ======
 
+<card class="letter">
 @to: Mr. Sarkar
 @place: Mayapur
 @date: October 24
@@ -26,3 +27,4 @@ Faithfully yours,
 Brahmananda Swami
 
 Seen: ACBS
+</card>

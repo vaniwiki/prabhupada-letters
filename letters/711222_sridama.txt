@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sridama ======
+====== Sridama ======
 
+<card class="letter">
 My dear Sridama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 10, 1971, and I have noted the contents with great pleasure. I am especially very very pleased that you are getting that large church for our Miami center. All over the world we are getting more respectable and we are getting big big houses for our Radha Krishna Temples, but if yours is the biggest, then I must certainly come there and see it. If the weather is good, then why I should come there and spend some time for my translating work? I think this will be my last tour---now let me go on translating, that is my real work. I am so much encouraged by reports everywhere that our Movement is getting good results, especially that MacMillan Co. has agreed to print our __Bhagavad-gita As It Is,__ so I think my work is now finished, let me write. I have built the skyscraper skeleton, now you all intelligent American and European boys and girls fill in the spaces nicely in good taste. Do not deviate from our high standard. That will mean great dishonor to me. Push on in your preaching work as I have shown you, remain pure, enthusiastic, and optimistic, and Krishna will favor you with all good results and benedictions.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

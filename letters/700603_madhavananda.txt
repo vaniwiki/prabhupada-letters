@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhavananda ======
+====== Madhavananda ======
 
+<card class="letter">
 My dear Madhavananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your nice and encouraging letter dated 18th May, along with your gift a check for $150 in appreciation for your initiation, and thank you you so very much for this.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

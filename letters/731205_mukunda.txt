@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I have arrived safely in Los Angeles by Krsna's Grace and everything here is going nicely.
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:Kda\\
 N.B. What about my visas and bank references?
+</card>

@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Hitsaran Sharma ======
+====== Hitsaran Sharma ======
 
+<card class="letter">
 I have written one letter to Sri Syt. Jaidayal Dalmiaji yesterday, requesting him to be the President of our ISKCON branch in India. I hope you will read the letter and do the needful. I mentioned therein also the publication of the monthly magazine named “Krishna Consciousness,” as he has assured you to think over the matter. I hope he will accept the Presidency of the Indian branch. Here in the States, we have got different Presidents in different branches; I am the principle director of the institution, but the management is done independently by the President, Secretary and Treasurer in each branch. So, for our India branch also, we will have to organize in that way. I am expecting your next letter with details of the Indian branch. I have offered your good wishes to all my students here, and they are so pleased to have your good wishes. In our New York center, I have already advised the Secretary to send you all paper cuttings and propaganda, and I am going to advise all other Secretaries as advised by you.
 
 In conclusion, I beg to request once more to arrange for the printing without any mistakes, and expedite the printing work as speedily as possible. Please let me know the reaction of Dalmiaji on my letter sent yesterday. Hope you are well.
@@ -19,3 +20,4 @@ Enclosures: 2
 
 Radha Press; Gandhi Nagar\\
 Delhi 31, India
+</card>

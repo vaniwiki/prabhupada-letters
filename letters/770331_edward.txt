@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Edward ======
+====== Edward ======
 
+<card class="letter">
 New York
 
 My dear Edward,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

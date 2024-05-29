@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhavi Lata ======
+====== Madhavi Lata ======
 
+<card class="letter">
 My dear Madhavi Lata,
 
 Please accept my blessings. I am so much pleased to receive your nice letter of June 11, 1968, all full with humility and love and very nice sentiments. Your simplicity is a great asset for Krishna Consciousness. Krishna is very kind to the meek and simple, so dullness of the material world and consciousness about Krishna go well together. Too much intelligence in material activities are detraction from Krishna Consciousness. Better to remain dull and simple as you are, and thus make advancement in Krishna Consciousness. There is a nice story about Bharata Maharaja, who remained just like a dullard, in order to avoid material association. And he was known as Jada Bharata, but when he was tested, Maharaja Rohugan found him highly advanced in Krishna Consciousness, and became his disciple.
@@ -23,3 +24,4 @@ Hoping you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syndicate Bank ======
+====== Syndicate Bank ======
 
+<card class="letter">
 Syndicate Bank, Brindaban Branch
 
 We the undersigned, A.C. Bhaktivedanta Swami, Brahmananda Swami and Gurudas Adhikary, put the following documents in the Safty Deposit Locker No. 196 of Syindicate Bank, Vrindaban.
@@ -32,3 +33,4 @@ Brahmananda Swami
 Gurudas Adhikary
 
 ACBS/bs
+</card>

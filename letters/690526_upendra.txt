@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I thank you very much for your letter dated 14 May, 1969, and I have carefully noted the contents. Also I have received your check, and I am so pleased that you are so regular in sending it. Regarding your decision to wait until you are more able to handle it before purchasing the church, that is good idea. Try to cooperate with Tamala Krishna as far as possible in preparing for the Rathayatra Festival. Tamala is now managing all the Western Coast centers, so please help him to make the Festival a grand success. But I think that for at least two or three days you must come to San Francisco for Rathayatra. You are one of our old members, so when you come for a few days someone else may stay there to run the temple in your absence. I am very pleased to note that you are holding kirtana programs regularly, and your propaganda efforts are going nicely. Try to propagate Sankirtana as much as possible. This should be our life and soul. In Ohio we held two big meetings, and each one was very satisfactory.
@@ -17,3 +18,4 @@ Please convey my blessings to the others. I hope this will meet you in good heal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

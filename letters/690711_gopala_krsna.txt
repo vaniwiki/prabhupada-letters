@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 My dear Gopala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of July 4, 1969 with the check for $50, and I thank you very much for this. I am very glad to learn that your father will be glad to do something for our Krishna Consciousness Movement, and I am expecting his reply with great interest. When you go to India, as you asked me for something to do, and also as you have an inclination to construct a temple somewhere in India, I would request you to consider if you can construct a temple at the birthplace of Lord Caitanya Mahaprabhu. My disciple, Acyutananda, is already there in search after a suitable land for developing an American home for the Krishna Conscious devotees, and when you go to India, if you cooperate with him, it will be a grand success. He is alone there, and when you go you will be two, and maybe another two American disciples may go there so jointly you can develop a nice center for the foreign students who may go to visit the holy birthplace of Caitanya Mahaprabhu. I think if you can organize it nicely there, maybe some other Americans may come and contribute for a nice temple. So keep these things in your mind. It is a hint for your work in India, and you can think this scheme over conveniently.
@@ -17,3 +18,4 @@ In the Montreal temple Jayapataka is in charge, and I hope you are also cooperat
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

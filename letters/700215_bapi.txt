@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bapi ======
+====== Bapi ======
 
+<card class="letter">
 West Bengal
 
 My dear Bapi,
@@ -31,3 +32,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS: db
+</card>

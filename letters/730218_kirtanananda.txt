@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. I am in due receipt of your letter dated January 20th. and February first along with your enclosed plans of the Radha Govindaji Temple in New Vrindaban. From these plans everything seems to be in order except the domes are making the temple look like a mosque. Therefore you please eliminate these domes and consult the Mayapur plan which can be obtained by writing Calcutta for design of the domes. The Deities should be facing East. If you are laying the foundation stone to this temple there is a ceremony which you can observe. First you may have one fire ceremony with four Brahmins surrounding the fire, reading from Bhagavad-gita, Nectar of Devotion, Srimad-Bhagavatam and Teachings of Lord Caitanya. This reading should go on during the entire ceremony. You may also dig one pit about 15 feet deep and have one golden Ananta form prepared, about two inches, put at the bottom of the pit. All during this, Kirtana should be going on. And then five types of various items should be placed in the pit, 5 types of jewels, 5 types of metals, 5 types of fruit, 5 types of grains, 5 types of amrta, like this different panca. These all should be carried down the ladder by the various Brahmins, and as they put each one at the bottom of the pit, the various fruits, flowers, etc. all of the Brahmins should one by one climb to the bottom of the pit and make their offering and chant the first verse of Gayatri Mantra. After this, you may lay some bricks down on top of everything and then begin to fill up the pit with dirt again. When the pit is filled up with dirt again you may put one foundation stone on top of the pit and this pit should be located at the exact corner of the Temple building. The idea of this is that the entire building will be resting on the hoods of the Ananta snake, and this is very auspicious. After this program you may have several days of Kirtana and feasting.
@@ -19,3 +20,4 @@ I am here in Australia now and things are going very well. I will be returning t
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

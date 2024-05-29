@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balabhadra ======
+====== Balabhadra ======
 
+<card class="letter">
 My dear Balabhadra,
 
 Please accept my blessings. I thank you very much for your letter (undated), and I have noted the contents with pleasure. Your description of the parade with 55,000 people viewing is very much encouraging, and it is clear that Krishna is giving you nice opportunities for spreading the Sankirtana Movement throughout Hawaii. Send pictures of your activities in this parade and your other activities to Hayagriva for being printed in Back To Godhead. I appreciate very much that you are a thoughtful, intelligent boy, and you have got Krishna's Grace undoubtedly. Your good Godbrothers and Godsisters also speak highly of you, so continue to develop as you are doing and Krishna will surely be very pleased upon you. I am praying to Krishna for your long life and service.
@@ -17,3 +18,4 @@ Thanking you once more for your letter. I hope this will meet you in good health
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

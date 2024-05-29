@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I hope this time you have received the goods from India Jaladuta in good condition.
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. Yesterday I have sent 3 tapes. Ask Satsvarupa to do the needful.
+</card>

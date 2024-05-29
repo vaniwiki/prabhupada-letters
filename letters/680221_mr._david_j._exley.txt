@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. David J. Exley ======
+====== Mr. David J. Exley ======
 
+<card class="letter">
 David Exley\\
 Chief NGO Section\\
 External Affairs Office\\
@@ -33,3 +34,4 @@ Thanking you once more for your interest in %%___%% Krishna Consciousness moveme
 Sincerely yours,
 
 A.C. Bhaktivedanta Swami
+</card>

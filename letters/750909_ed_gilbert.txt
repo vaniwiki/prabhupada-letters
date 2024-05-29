@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ed Gilbert ======
+====== Ed Gilbert ======
 
+<card class="letter">
 Mr. Ed Gilbert\\
 3101 West End Ave.\\
 No. C4B\\
@@ -28,3 +29,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

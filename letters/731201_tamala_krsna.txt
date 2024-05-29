@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Dear Tamala Krsna Goswami,
 
 Please accept my blessings. After stopping in London and New York, we have now safely arrived in Los Angeles.
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/kda\\
 c.c. Tejiyas das Adhikari
+</card>

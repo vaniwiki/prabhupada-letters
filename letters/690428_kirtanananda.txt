@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 95 Glenville Avenue\\
 Allston, Mass. 02134
 
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: 1
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I'm very glad to inform you that we have reached Malaysia very shortly, that on my arrival there was nice meeting, and then we have come outside the city. Yesterday I was very busy all day.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

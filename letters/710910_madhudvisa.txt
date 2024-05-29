@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. You will be interested to know that this evening I will be going to Kenya, East Africa. The Mombassa address is given above. Some program has been fixed up there, and I have consented to go there for some time.
@@ -19,3 +20,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

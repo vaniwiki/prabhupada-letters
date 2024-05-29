@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Murti (Bill Walsh), Mahati (Sue Walsh), Adhideva (Hayden Larsen) ======
+====== Murti (Bill Walsh), Mahati (Sue Walsh), Adhideva (Hayden Larsen) ======
 
+<card class="letter">
 My dear Sons and Daughters,
 
 Please accept my blessings. Upon the recommendation of Sri Galim I have gladly consented to accept all of you as my duly initiated disciples. Your beads have been duly chanted by me and they are sent under separate post. I have given you the spiritual names as follows
@@ -25,3 +26,4 @@ Hoping this will meet all of you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

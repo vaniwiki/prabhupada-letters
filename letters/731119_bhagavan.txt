@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavan ======
+====== Bhagavan ======
 
+<card class="letter">
 Paris
 
 My dear Bhagavan Das:
@@ -43,3 +44,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

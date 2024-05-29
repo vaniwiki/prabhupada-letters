@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Anuradha ======
+====== Anuradha ======
 
+<card class="letter">
 My dear Anuradha,
 
 Please accept my blessings. I am in due receipt of your letter of January 14, 1969, and I have carefully noted the contents. I am so glad to learn that you and %%___%% are well and comfortable in San Francisco. I think that your child is very nice, and Krishna has given him a great opportunity to perfect himself in spiritual life because He has placed him under the care of a mother who is a sincere devotee. Try to help him grow up peacefully in Krishna Consciousness, and Krishna will certainly smile upon you for your efforts. I am well aware that you are a good, sincere soul, so continue in this way and surely your life will be successful.
@@ -19,3 +20,4 @@ The term Devi Dasi may be used for either married or unmarried female devotees. 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

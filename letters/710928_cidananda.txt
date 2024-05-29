@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cidananda ======
+====== Cidananda ======
 
+<card class="letter">
 My dear Cidananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated 12th and 15th September, 1971 respectively and have noted the contents. I am so glad to hear how you are doing well. I am always thinking of you and praying to Krishna when you will be relieved and join us again. But in any circumstance simply go on chanting Hare Krishna Mahamantra and think of Krishna always.
@@ -21,3 +22,4 @@ Hoping this will find you in rapidly improving health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

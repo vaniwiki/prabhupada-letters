@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Anangamanjari (Elaine) ======
+====== Anangamanjari (Elaine) ======
 
+<card class="letter">
 Gainesville
 
 My dear Anangamanjari Devi Dasi (Elaine),
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I am in due receipt of your letter dated September 13rd, 1969, and I am so glad to learn that you will not fight with Brahmananda. __Brahma__ means "the Great", so even if you fight, then it will be physically impossible to come out victorious. But one thing I see is that you are coming out victorious in the matter of sales organization of the books. In one of the letters of Brahmananda I understand that the book selling organization there is not very satisfactory. Therefore, I am very much glad to read the circular letter issued to the temple presidents, and I shall be glad to know how you are getting response. The methods you have adopted to approach reviewers and convince them to review our books, how much this attempt has been successful? Reviewing is the only way for pushing on any publication. Somehow or other we have to organize the sales of our books and literature. Otherwise, what is the use of starting the press? The press must work on continuously, and we shall produce immense literature. If the press goes on nicely, I shall be able to give you material for publishing a book every two months. We have got so much material for Krishna Consciousness Movement. In your last letter I understood that you are collecting at least $70 to $80 weekly by selling books. That is a great service to the society.
@@ -19,3 +20,4 @@ I am pleased to note your attitude regarding business. Our policy is nirbandhe k
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sukadeva ======
+====== Sukadeva ======
 
+<card class="letter">
 Seattle
 
 Dear Sukadeva,
@@ -33,3 +34,4 @@ A.C. Bhaktivedanta Swami
 
 Send beads to Satsvarupa Maharaja---Dallas for chanting\\
 ACBS/sdg
+</card>

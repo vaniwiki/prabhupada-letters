@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 26 Second Avenue\\
 Apartment B I R\\
 New York 10003\\
@@ -26,3 +27,4 @@ Send it to them with the train receipt, and forward it by registered post with a
 The preaching work is going on very well here. Someone wrote an article in the newspaper saying that, "In America people had the idea that God had either died or gotten lost, but Bhaktivedanta Swami, within three months, has explained to the atheist sampradaya that God is existing within Hari-kirtana." This is all a glorification of Srila Bhaktisiddhanta Sarasvati Prabhupada and is fulfilling his desire with vijaya vaijayanti" (victory flag and garland.) I am very insignificant, so whichever way he is guiding me, I am doing that. Write to me soon and make me happy.
 
 A.C. Bhaktivedanta Swami
+</card>

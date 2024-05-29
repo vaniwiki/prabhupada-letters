@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Surendra Babu ======
+====== Surendra Babu ======
 
+<card class="letter">
 Calcutta
 
 My dear Surendra Babu,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prabhusvarupa ======
+====== Prabhusvarupa ======
 
+<card class="letter">
 Haridasapur
 
 My dear Prabhusvarupa Das,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 very soon I shall go to Bombay and send you the new plan.\\
 ACBS/jda
+</card>

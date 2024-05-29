@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vasudeva ======
+====== Vasudeva ======
 
+<card class="letter">
 Berlin
 
 My dear Vasudeva,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 My sincere blessings for your nice son.
+</card>

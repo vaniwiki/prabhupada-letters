@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Laksmimoni ======
+====== Laksmimoni ======
 
+<card class="letter">
 Dallas
 
 My dear Laksmimoni devi:
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

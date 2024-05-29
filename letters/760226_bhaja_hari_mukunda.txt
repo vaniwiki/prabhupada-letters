@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhaja Hari, Mukunda ======
+====== Bhaja Hari, Mukunda ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 My dear Bhaja Hari das and Mukunda das,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

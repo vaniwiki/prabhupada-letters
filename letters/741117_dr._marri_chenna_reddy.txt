@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Marri Chenna Reddy ======
+====== Dr. Marri Chenna Reddy ======
 
+<card class="letter">
 His Excellency Dr. Marri Chenna Reddy\\
 Governor of U.P.\\
 Raj Bhavan, Lucknow
@@ -26,3 +27,4 @@ I hope this meets you in good health.
 Your ever well wisher,\\
 Sd. A.C. Bhaktivedanta Swami\\
 ACBS/bs
+</card>

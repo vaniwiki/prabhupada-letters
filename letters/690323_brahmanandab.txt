@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter of March 19, 1969, and I have noted the contents carefully. Yes, you can accept the class on the 8th instant in the City College. I am going to S.F. on the 31st, so on receipt of your passage money, I shall start on the 7th April, reaching N.Y. sometimes in the evening. And I shall be glad to meet the people from the New College while I am there, as well as Seton Hall College. I would like $100 per lecture.
@@ -20,3 +21,4 @@ Regarding Brijbasi printing our books: I do not think they can compete with the 
 Yes, we must set up our society as a school as best we can---I have already sent you letter. Please formulate the whole curriculum because we have to immediately submit to the Draft department and if this is accepted that will be great gain for our society. "Bhakti-sastri" is awarded after extensive study of Bhagavad-gita, Easy Journey, and Nectar of Devotion. "Bhakti-vaibhava" is awarded after study of Vedanta-sutra and Srimad-Bhagavatam on a preliminary basis; and "Bhaktivedanta" the highest title, is awarded after extensive study of Caitanya-caritamrta. (TLC)
 
 [PAGE MISSING]
+</card>

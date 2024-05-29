@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 My dear Tamala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 17, 1969, and I am so glad to learn that your presence in San Francisco has not only settled up the tension, but also has improved the conditions. Krishna is gradually giving you power to serve Him and more nicely, and thus you are one of the future strong pillars of the society. Your idea of training preachers in Los Angeles and my staying there is already approved. Most probably, if I do not go to Europe, I shall return there by the end of June. In the meantime I shall be glad to know what is the position of your finding out a better place. I do not know whether or not Kartikeya has arrived there yet in San Francisco, but it is understood that he has left Hawaii.
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 P.S. How TLC selling?
 
 I have just now received your most recent letter, and I thank you very much for it. The most important point is about the lawyer, and I think you may take advantage of his service if you think he will actually grant us the desired status in Los Angeles. I am very pleased with your schemes for spreading Krishna Consciousness on the West Coast, and I think you should manage organization of our propaganda work on the West Coast. I am sending by separate post a very excellent picture which Muralidhara may paint and which may be used for the next Festival, Dadibhanda. Hope you are well. ACB
+</card>

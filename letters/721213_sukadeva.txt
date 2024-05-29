@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sukadeva ======
+====== Sukadeva ======
 
+<card class="letter">
 Seattle
 
 My dear Sukadeva,
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 ACBS/sda
 
 Handwritten: Sukadeva- Kindly xerox and distribute copies of this letter to all temple presidents, GBC, sannyasis, etc. O.K.? SDA
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Professor Stillson Judah ======
+====== Professor Stillson Judah ======
 
+<card class="letter">
 Professor Stillson Judah\\
 Librarian and Professor of the History of Religions\\
 Graduate Theological Union Library\\
@@ -29,3 +30,4 @@ Yours very sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

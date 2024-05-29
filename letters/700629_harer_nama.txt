@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harer Nama ======
+====== Harer Nama ======
 
+<card class="letter">
 My dear Harer Nama,
 
 Please accept my blessings. I hope everything is going on well in your center.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

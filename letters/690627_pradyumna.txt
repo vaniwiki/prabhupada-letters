@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I am in due receipt of your letter of June 25, 1969, and I beg to confirm herewith my approval of your going ahead for arranging for the Bodoni Book type face as I have already instructed you. Please inform me when the negotiations are completed.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

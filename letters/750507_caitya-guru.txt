@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Caitya-guru ======
+====== Caitya-guru ======
 
+<card class="letter">
 Nairobi
 
 My dear Caityaguru dasa,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

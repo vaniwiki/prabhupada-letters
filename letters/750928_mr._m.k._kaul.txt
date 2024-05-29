@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. M.K. Kaul ======
+====== Mr. M.K. Kaul ======
 
+<card class="letter">
 Mr. M.K. Kaul, M.A. B. Comm.\\
 Development Officer\\
 New India Assurance Co. Ltd.\\
@@ -26,3 +27,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

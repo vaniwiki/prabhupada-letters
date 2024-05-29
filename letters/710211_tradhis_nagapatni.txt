@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tradhis, Nagapatni ======
+====== Tradhis, Nagapatni ======
 
+<card class="letter">
 My dear Sriman Tradhis and my dear daughter Nagapatni Devi Dasi,
 
 Please both accept my blessings. I am in due receipt of your letter dated nil from our Los Angeles New Dvaraka Temple, and I am very glad that you have come to join our family of Krsna which is the original eternal, blissful family of all living souls as parts and parcels of the Supreme Personality of Godhead Krsna. It is so much pleasing to me that you and many, many young boys and girls are finding that Krsna or Govinda is the only source of satisfaction and joyfulness for all living entities. Everyone is anxious after longevity and sense happiness, but they are all bewildered and frustrated until by the Grace of Lord Caitanya Mahaprabhu they come into this Sankirtana Movement which is the only right way for easily reviving our desired life of eternal bliss.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

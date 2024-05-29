@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Parvati ======
+====== Parvati ======
 
+<card class="letter">
 Mombassa
 
 My dear Parvati,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

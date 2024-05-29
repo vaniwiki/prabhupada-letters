@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Agent, Central Bank of India ======
+====== Agent, Central Bank of India ======
 
+<card class="letter">
 The Agent\\
 Central Bank of India\\
 Camac Street\\
@@ -29,3 +30,4 @@ Faithfully yours,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I am in due receipt of your letter dated July 2, 1968, describing very briefly and emotionally about the nice success of our Rathayatra festival. When Gargamuni came here the other day he also described it so nicely and now you can understand the specimen of transcendental pleasure in which the human society as a whole can take part and realize transcendental bliss. The Car Festival was very simple. After all, it is a car with 4 wheels, but it attracted the people so enthusiastically because there was His Lordship, the Jagannatha. Atheistic people may call it that the Jagannatha Murti was made of wood, and the car was also made of wood, but the spiritual bliss can be exacted from anything, simply in Krishna Consciousness. Even accepting the whole affair as wooden, a Krishna Consciousness person can understand that wood is nothing but display of Krishna's energy. So it is the Krishna Consciousness energy that gives us transcendental bliss, just like it is the electric energy passing through copper cable which gives us electric light and heat. Simply the Krishna Consciousness electric energy can immediately be attractive by developing our sense of Krishna Consciousness, which I am sure you are experiencing gradually how easily it can be done. Now, it may be mentioned in this connection that India's electric energy of Krishna Consciousness is gradually developing in your country, and prior to this movement, anyone who came to this country from India to give the American people spiritual enlightenment, simply speculated on the mental platform. In the Bhagavad-gita it is clearly said that devotional service which is called Rajayoga, or the king of all yoga systems, is transcendental and very pleasing to perform. (I have received one letter from Dayananda also, and the reply is sent herewith, about his improved realization of Krishna Consciousness.)
@@ -23,3 +24,4 @@ Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

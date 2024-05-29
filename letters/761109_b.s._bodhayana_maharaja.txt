@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: B.S. Bodhayana Maharaja ======
+====== B.S. Bodhayana Maharaja ======
 
+<card class="letter">
 Mayapur
 
 My dear B.S. Bodhayana Maharaja,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. I am expecting to go to Mayapur in January\\
 ACBS/jda
+</card>

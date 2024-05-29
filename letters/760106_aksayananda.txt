@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aksayananda ======
+====== Aksayananda ======
 
+<card class="letter">
 My dear Aksayananda Maharaja,
 
 Please accept my blessings. I am in due receipt of your letters dated 24th December and 31st December, 1975, and have noted the contents of each carefully.
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

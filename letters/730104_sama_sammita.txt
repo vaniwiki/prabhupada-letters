@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sama, Sammita ======
+====== Sama, Sammita ======
 
+<card class="letter">
 Baltimore
 
 My dear Sama and Sammita Dasi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

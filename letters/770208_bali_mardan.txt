@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali Mardan ======
+====== Bali Mardan ======
 
+<card class="letter">
 ISKCON, P.O. 170 Box, Alexandria, N.S.W.
 
 P.O. Sree Dham Mayapur\\
@@ -28,3 +29,4 @@ Hoping this finds you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

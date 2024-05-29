@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: ISKCON Detroit, Sons and Daughters ======
+====== ISKCON Detroit, Sons and Daughters ======
 
+<card class="letter">
 TO ISKCON DETROIT:
 
 My dear Sons and Daughters,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

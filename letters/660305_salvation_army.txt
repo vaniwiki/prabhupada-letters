@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Salvation Army ======
+====== Salvation Army ======
 
+<card class="letter">
 Secretary\\
 National Head Quarter of\\
 The Salvation Army\\
@@ -32,3 +33,4 @@ Thanking you in anticipation for an early reply,
 Yours sincerely in the service of the Lord,\\
 A.C. Bhaktivedanta Swami.\\
 Enclosure: 1
+</card>

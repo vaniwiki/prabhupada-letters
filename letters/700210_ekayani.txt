@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ekayani ======
+====== Ekayani ======
 
+<card class="letter">
 c/o Mendoza\\
 Bronx, N.Y.
 
@@ -42,3 +43,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

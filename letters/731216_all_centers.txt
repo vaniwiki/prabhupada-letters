@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: All Centers ======
+====== All Centers ======
 
+<card class="letter">
 Memo to All Centers
 
 Repeatedly Srila Prabhupada says, "I only want my disciples to take this Movement seriously."
@@ -42,3 +43,4 @@ Karandhara das Adhikari\\
 APPROVED: A.C. Bhaktivedanta\\
 Swami\\
 KDA:kdd
+</card>

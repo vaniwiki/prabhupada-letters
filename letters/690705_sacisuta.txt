@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sacisuta ======
+====== Sacisuta ======
 
+<card class="letter">
 My dear Sacisuta,
 
 Please accept my blessings. I thank you very much for your letter dated June 23, 1969, and I have carefully gone over the contents. I am so pleased to learn that you are feeling very nicely in Buffalo temple and you are working hard and sincerely to push on this sublime movement of Krishna Consciousness. Regarding your question about marriage, the thing is that as I am a sannyasi, I am not concerned with family life, but because I want to see my disciples very happy in Krishna Consciousness, therefore, those who are feeling some sexual disturbance are requested by me to get themselves married. Another principle is that those who are brahmacaris, they should sacrifice all of their income and collection for the Krishna Consciousness Movement, whereas those who are married should work, earning money as much as possible, and at least 50% should be spent for the Krishna Consciousness Movement. So we have no objection for allowing you to get married, but it is up to you to consider if you will work hard and earn money both for Krishna and for your family. You cannot get married, and at the same time do not earn money. Of course, by preaching Sankirtana Movement, if you are satisfied with a small income, that is also nice. I think that your God-brother, Rupanuga is an ideal householder, and you should try to follow him.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

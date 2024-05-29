@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Malati ======
+====== Malati ======
 
+<card class="letter">
 My dear Malati,
 
 Please accept my blessings. I thank you very much for your nice letter of Nov. 15, 1968, and I have noted the contents with great satisfaction. Your humble sentiments are very nice exposed herein, and your sincere desire to serve the Lord is the real perfection of life.
@@ -17,3 +18,4 @@ You have asked if I found it difficult to carry on devotional service when in my
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

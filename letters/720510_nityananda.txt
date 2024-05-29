@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nityananda ======
+====== Nityananda ======
 
+<card class="letter">
 New Orleans
 
 My dear Nityananda,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/nkd\\
 P.S. Satsvarupa has got a tape of me reciting gayatri mantra, so you can get that from him, and hold the fire yajna for all three boys. One thing is that the tape should be heard through earphones into the right ear.
+</card>

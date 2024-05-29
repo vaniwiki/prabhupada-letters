@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Swami Sahajananda ======
+====== Swami Sahajananda ======
 
+<card class="letter">
 His Holiness Swami Sahajananda,\\
 Divine Life Society of South Africa,\\
 P.O. Box 19069,\\
@@ -40,3 +41,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I have recently seen a copy of a letter that Karandhara Prabhu has sent to all centers regarding payments of the __Back to Godhead__ and Book Funds dated July 9, 1972. Karandhara has informed me that you are apparently an offender in the connection of being tardy in payments to my BTG and Book Fund. This is not good. We are trying to push on this movement on many fronts, one of the most important being the production and distribution of our Krsna Conscious literature for the upliftment of mankind. My Guru Maharaja particularly gave me this assignment. Please assist me to your best capacity in this regards.
@@ -19,3 +20,4 @@ Hoping this meets you well in Krsna Consciousness.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

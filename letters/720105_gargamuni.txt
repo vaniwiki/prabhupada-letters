@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 Vrindaban
 
 My dear Gargamuni Maharaja,
@@ -28,3 +29,4 @@ ACBS:tkd\\
 N.B. I have received one letter from the %%__%% Ksirodakasayi Prabhu, agreeing to give %%__%%
 
 ACB
+</card>

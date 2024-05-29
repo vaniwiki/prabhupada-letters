@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sankara ======
+====== Sankara ======
 
+<card class="letter">
 My dear Sankara,
 
 Please accept my blessings. I think you have written me two letters. Your former letter was also received by me. So far I remember I have replied it. In any case, very soon I shall be going to Calcutta, and there I shall call you and you may remain with me for some time for translating under my direction. Then I shall be able to see how you are translating my books. If you can do it very nicely, then I shall entrust the whole matter to you. This will be a great pleasure for me.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 n.b. if you have desire to begin immediately translating one book, then you may request Jayapataka or Revatinandana or any of my disciples at Calcutta branch to hand over to you whatever book you shall require for beginning translating. Take "Easy Journey to Other Planets" first.
+</card>

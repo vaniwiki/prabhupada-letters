@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayadeva ======
+====== Jayadeva ======
 
+<card class="letter">
 My dear Jayadeva,
 
 Please accept my blessings. I beg to thank you very much for your kindly remembering me on Vyasa Puja birthday, and I have appreciated your warm sentiments with great satisfaction. I am very much encouraged by your progress in Krsna Consciousness. Now go on in this way always striving to please Krsna and you will fell yourself becoming more and more happy. That I want.
@@ -17,3 +18,4 @@ Thank you once again.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

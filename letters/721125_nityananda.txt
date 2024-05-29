@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nityananda ======
+====== Nityananda ======
 
+<card class="letter">
 My dear Nityananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 12, 1972, and I have noted the contents with care. I am forwarding the copy of your letter, along with my reply, to Satsvarupa in Dallas. I think he is the GBC man in that zone, and he is the best man to come there immediately and see what is the situation and do the needful. Of course I do not know what are the facts, but I have seen that you have done very nicely there, so far I know. And no one has made complaint to me. So maybe there is a little fighting amongst yourselves, that is natural, but you are advanced disciple, don't be disturbed by these things. Actually I want that householders shall manage in the temples, because they have got propensity to manage things and they want to take responsibility and they will not go away. Brahmacari, householder, it doesn't matter, but householders are doing nicely all over the world, why the others shall resent householders in your temple? That is not reason. This attitude of changing this, changing that, if there is some small thing to make it something very great, changing the leaders three every week---these things are going on, I know. This is not at all good attitude, that if by adjustment, this and that, changing everything, I may create the perfect combination and everything will be all right. I am more impressed if someone has opened one centre and that he has stayed there tightly and developed nicely, not going away whimsically. So you have been leader at New Orleans temple for long time, you are the pioneer there, so why you should be whimsically discharged? Only the GBC man shall be able to make these changes, not any so-called secret meeting of devotees. Why they have misunderstood these things? If they have objection they must lodge it with their GBC, and differences must be discussed openly amongst ourselves, not secret meetings. We are Vaisnava devotees, not politicians. So these things must be stopped, plotting. Your merit stands far above theirs, you have done some tangible work to please me by spreading this Krishna Consciousness message in New Orleans, that is the test. Let them do something first, then we shall see what is their criticism. Simply criticizing and no work, that is the business of inferior men. So do not be disturbed by them, go on with your work, increasing more and more. Never mind the jackals howl.
@@ -20,3 +21,4 @@ A.C. Bhaktivedanta Swami
 
 cc: Satsvarupa/Dallas\\
 ACBS/sda
+</card>

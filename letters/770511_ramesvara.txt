@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara ======
+====== Ramesvara ======
 
+<card class="letter">
 Hrsikesa
 
 My dear Ramesvara,
@@ -41,3 +42,4 @@ His Holiness Ramesvara Swami
 c/o ISKCON Los Angeles
 
 ACBS/tkg
+</card>

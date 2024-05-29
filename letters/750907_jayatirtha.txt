@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayatirtha ======
+====== Jayatirtha ======
 
+<card class="letter">
 Los Angeles
 
 My dear Jayatirtha das,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Devotees of ISKCON Rome ======
+====== Devotees of ISKCON Rome ======
 
+<card class="letter">
 Rome
 
 My dear devotees of ISKCON Rome,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

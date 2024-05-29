@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Siddha Svarupananda ======
+====== Siddha Svarupananda ======
 
+<card class="letter">
 Laguna Beach
 
 My dear Siddha Svarupananda,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

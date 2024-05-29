@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Glendon Tremaine ======
+====== Glendon Tremaine ======
 
+<card class="letter">
 Glendon Tremaine\\
 Tremain, Shenk, Stroud, Wright & Roberts\\
 Suite 1414, 606 So. Olive St.\\
@@ -25,3 +26,4 @@ Sincerely yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/pda
+</card>

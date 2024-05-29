@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radha Krishna Dhawan ======
+====== Radha Krishna Dhawan ======
 
+<card class="letter">
 Radha Krishan Dhawan\\
 Concord Housing Society\\
 1st Plot---10th N.S. Rd.\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

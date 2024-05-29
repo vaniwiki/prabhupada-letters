@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 26 Second Avenue\\
 Apartment BIR\\
 New York 10003 USA
@@ -27,3 +28,4 @@ What happened to Vinoda Kumara's passport? I have written him a separate letter,
 Vasamvad\\
 (Gratefully),\\
 A.C Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Purusottama ======
+====== Purusottama ======
 
+<card class="letter">
 My dear Purusottama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 31, 1968 along with the letter from the Methodist Church. I suspected in the beginning that they would not allow us to work with freedom and, therefore, in spite of their promise to enter into lease agreement I wanted to clear up the situation. Now they have shown their real face so don't feel sorry for this. We know very well what is the world situation. It is my personal opinion that at the present moment except for a few persons, practically there is no man in the world who is strictly religionist, Hindu, Moslem, Christian, Buddhist.
@@ -23,3 +24,4 @@ Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
 
 P.S. Two original letters, returned herewith.
+</card>

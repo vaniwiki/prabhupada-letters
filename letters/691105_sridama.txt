@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sridama ======
+====== Sridama ======
 
+<card class="letter">
 My dear Sridama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 29, 1969 from Philadelphia along with your check for $642, and I thank you very much for your kind contribution. I am surprised to know that the actual collection was $1,750 and the doctors and lawyers, etc. have taken more than $1,000. Anyway, something is better than nothing. Whatever we have got will be used for Krishna's service. Yes, I always remember you for your kind personal attention upon me, and most probably, if you are not engaged otherwise, I shall call you when I return back to the States.
@@ -17,3 +18,4 @@ I hope this will find you in good health. Please keep yourself always chanting r
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

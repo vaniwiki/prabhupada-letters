@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dixit ======
+====== Dixit ======
 
+<card class="letter">
 Bombay
 
 My dear Dixit das,
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
+</card>

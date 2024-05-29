@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gunagrahi ======
+====== Gunagrahi ======
 
+<card class="letter">
 Buffalo
 
 My dear Gunagrahi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pdd
+</card>

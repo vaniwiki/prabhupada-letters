@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Rameshchandra Lalidji ======
+====== Mr. Rameshchandra Lalidji ======
 
+<card class="letter">
 Dear Mr. Rameshchandra Lalidji:
 
 Please accept my blessings. I have received a report of the progress of Hyderabad. I am pleased to note that the construction has already started and the columns have come up to beam level. I appreciate very much your interest in propagating the teaching of the Bhagavad-gita, and it is because of the assistance of men like you that we are constructing a temple in Hyderabad.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

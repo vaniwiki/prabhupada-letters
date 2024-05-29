@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 26 Second Avenue # B1\\
 New York, NY 10003 USA\\
 May 17, 1967
@@ -29,3 +30,4 @@ If, as a music master, he wants to stay here independently, his room rent, food 
 
 Yours,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sumati Morarjee ======
+====== Sumati Morarjee ======
 
+<card class="letter">
 Madam Sumati Morarji Baisaheba,
 
 Please accept my greetings. I hope everything is going well with you. You will be pleased to know that this year two of my books have been published. They are as follows
@@ -23,3 +24,4 @@ I have the greatest pleasure to present to you the first one sending by separate
 
 Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami
+</card>

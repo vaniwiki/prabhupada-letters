@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:hda
 
+</card>

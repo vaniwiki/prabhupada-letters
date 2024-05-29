@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Atreya Rsi ======
+====== Atreya Rsi ======
 
+<card class="letter">
 Tehran
 
 My dear Atreya Rsi,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
+</card>

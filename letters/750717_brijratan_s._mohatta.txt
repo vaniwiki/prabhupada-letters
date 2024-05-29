@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brijratan S. Mohatta ======
+====== Brijratan S. Mohatta ======
 
+<card class="letter">
 Brijratan S. Mohatta\\
 Mustafa Building\\
 Sir P. Mehta Road\\
@@ -24,3 +25,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Alanatha ======
+====== Alanatha ======
 
+<card class="letter">
 Stockholm
 
 My dear Alanatha das:
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

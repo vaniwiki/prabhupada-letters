@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rukmini ======
+====== Rukmini ======
 
+<card class="letter">
 My dear Rukmini,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 16, 1968 and I thank you very much for it.
@@ -23,3 +24,4 @@ So please continue to engage yourself in Krishna's service very sincerely and I 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

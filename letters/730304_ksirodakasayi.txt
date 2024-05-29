@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ksirodakasayi ======
+====== Ksirodakasayi ======
 
+<card class="letter">
 My dear Ksirodakasayi:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated the 20th February and have examined the contents with care. I am glad to hear of your successful engagements and the photographs are very nice. It is good that you have invited the other devotees for such a program. Let them come, and combine together in cooperation, not to be aloof. There are always some factions, everywhere in this world we find so many factions. But we must, in Krsna consciousness, do the needful and cooperate. So, I am very glad to see your activities and you please continue to keep up the good work.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/rdg
+</card>

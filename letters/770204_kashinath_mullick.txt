@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kashinath Mullick ======
+====== Kashinath Mullick ======
 
+<card class="letter">
 Sri Kashinath Mullick\\
 President, Srimat Udharan Dutta Thakur Samity\\
 39 Jatindra Mohan Avenue,\\
@@ -27,3 +28,4 @@ Yours Sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

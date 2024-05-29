@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 Honolulu
 
 Dear Govinda dasi,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

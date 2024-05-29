@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sacisuta ======
+====== Sacisuta ======
 
+<card class="letter">
 My dear Sacisuta,
 
 Please accept my blessings. I am in due receipt of your letter dated August 9, 1968, and I can understand your problem.
@@ -19,3 +20,4 @@ The Boston center is also very important, because there are many students and Bo
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

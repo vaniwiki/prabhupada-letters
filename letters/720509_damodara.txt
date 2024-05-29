@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 19, 1972, and I have noted the contents. Regarding the high school programmes, this is very good opportunity to introduce our movement and try also to introduce our cheap editions of Krishna Book. Every student will be interested to read it. I think the whole set can be purchased for $2. Some way or other these books should be introduced to the understanding of the mass of people, specially these students. There are religion classes in schools, the authorities should be approached with the books so they will recommend __Bhagavad-gita__ and Krishna Book especially. At least there are no such books throughout the whole world, God is nicely explained. The authorities must implement God consciousness among the people, otherwise they are going to hell, and our books only introduce God so clearly that they must be introduced. At least nobody can tell so much about God as we can.
@@ -19,3 +20,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

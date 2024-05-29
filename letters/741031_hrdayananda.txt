@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hrdayananda ======
+====== Hrdayananda ======
 
+<card class="letter">
 Mexico City
 
 My dear Hrdayananda das Goswami:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My Dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your letter of January 5, 1972, along with Outline and Introduction to your proposed book. I don't think this will be a very good proposal for book. Our process is not mechanical, so that anyone, simply by following 108 steps can attain Absolute Pleasure. It is not like that. One only has to surrender to Krishna, a very simple one-step matter. Why confuse and complicate. Krishna Consciousness process is not to be presented in this way as mechanical achievement, at least we find no evidence from previous scriptures to support such technique. So I do not approve of this book.
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

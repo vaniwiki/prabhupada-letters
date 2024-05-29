@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Batu Gopala ======
+====== Batu Gopala ======
 
+<card class="letter">
 Cleveland
 
 My dear Batu Gopala dasa,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

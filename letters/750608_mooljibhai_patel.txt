@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mooljibhai Patel ======
+====== Mooljibhai Patel ======
 
+<card class="letter">
 Grant Hotel\\
 Oakland, California
 
@@ -20,3 +21,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

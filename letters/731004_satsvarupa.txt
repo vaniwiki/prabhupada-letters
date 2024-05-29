@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your report for Central USA dated September 25th and I have noted the contents with great satisfaction. Your reports are coming more regularly than any other GBC and from them I can understand that things are developing very steadily under your supervision.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkg
+</card>

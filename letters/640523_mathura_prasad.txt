@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mathura Prasad ======
+====== Mathura Prasad ======
 
+<card class="letter">
 My dear Mathura Prasad ji,
 
 I beg to thank you for your kind cooperation in the matter of Bhagavatam Mission. I shall try to see the Hathras gentleman of whom you have given me the name and the address. Kindly send me some more addresses of gentlemen so that I shall send them the books and other necessary papers to convince them about the importance of the work I have undertaken. After seeing the Hathras gentleman I shall go Delhi and from there I shall send you some sets books and other literatures to you per Railway parcel and then I shall again go to Agra from Delhi to secure some members of the League of Devotees which is a registered society possessing certificate of exemption of income tax to receive donations.
@@ -30,3 +31,4 @@ Awaiting your early reply,
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

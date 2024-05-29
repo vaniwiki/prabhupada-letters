@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 London
 
 My dear Karandhara,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 cc: Iskcon Hamburg\\
 ACBS/sda
+</card>

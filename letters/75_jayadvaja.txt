@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayadvaja ======
+====== Jayadvaja ======
 
+<card class="letter">
 My dear Jayadvaja das,
 
 Please accept my blessings. Your name is not Jaya Dharma but Jayadvaja das. Please chant 16 rounds and follow the 4 regulative principles.
@@ -17,3 +18,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

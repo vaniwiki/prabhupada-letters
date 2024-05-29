@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Touati Lakhdar ======
+====== Touati Lakhdar ======
 
+<card class="letter">
 Frankfurt
 
 Dear Touati Lakhdar,
@@ -21,3 +22,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

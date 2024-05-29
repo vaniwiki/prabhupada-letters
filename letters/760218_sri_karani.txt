@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Karani ======
+====== Sri Karani ======
 
+<card class="letter">
 My dear Sri Karani,
 
 Please accept my blessings. I beg to acknowledge receipt of two checks, one for U.S. $8,000.00 and the other for U.S. $4,000.00 from you and your brother. I thank you very much.
@@ -21,3 +22,4 @@ I hope this meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

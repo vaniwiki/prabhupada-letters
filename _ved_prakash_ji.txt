@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ved Prakash ji ======
+====== Ved Prakash ji ======
 
+<card class="letter">
 My dear Ved Prakash ji,
 
 On Sunday morning 29/6/58, when you were speaking I was very glad to note that you have studied the whole question of social and spiritual upliftment of mankind in a very broader sense. I was also glad to note that your study is deeper than many of the so-called Sannyasis who take the shelter of yellow robe for solving the question of bread problem. And because you are a critical student of everything, I am sure that you will appreciate the teaching of Lord Caitanya when you hear them patiently and scrutinize the same by all practical tests.
@@ -23,3 +24,4 @@ Lord Caitanya's movement still awaits for being preached all over the world. And
 
 Thanking you in anticipation.\\
 Yours Sincerely.
+</card>

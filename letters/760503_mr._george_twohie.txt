@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. George Twohie ======
+====== Mr. George Twohie ======
 
+<card class="letter">
 Mr. George Twohie,\\
 State Department,\\
 Washington, D.C.
@@ -23,3 +24,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

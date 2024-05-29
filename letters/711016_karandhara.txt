@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 My dear Karandhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your telegram reading as follows: SUGGEST THAT WE PUBLISH SIMULTANEOUSLY ALONG WITH THE TEN THOUSAND MOROCCO BOUND GITAS TEN THOUSAND PAPERBACK EDITIONS FOR LOWER PRICE RANGE CONSUMER MARKET AND FIVE THOUSAND HARDCOVER GITAS FOR LIBRARIES LETTER TO FOLLOW.; I fully approve of this suggestion.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

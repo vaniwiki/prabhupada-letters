@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda,
 
 Your absence from New York is not advisable while I am not there. Therefore I have postponed your journey to Montreal. Please take care of the bill of Lading for clearing the Mrdangas. I think the ship Jaladuta must be reaching New York by this time. Please do the needful and clear the valuable goods. Hope you are all well.
 
 Yours ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

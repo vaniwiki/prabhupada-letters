@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. W.H. Wolf-Rottkay ======
+====== Dr. W.H. Wolf-Rottkay ======
 
+<card class="letter">
 My dear Dr. W.H. Wolf-Rottkay,
 
 Please accept my blessings. I am in receipt of your letter dated September 27th and October 3, 1976, I have noted the contents carefully.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hds
+</card>

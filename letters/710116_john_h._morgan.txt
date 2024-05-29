@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: John H. Morgan ======
+====== John H. Morgan ======
 
+<card class="letter">
 Toronto
 
 My dear John H. Morgan,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I was so much happy to receive your letter Nov. 21, 1967, on my arrival. I hope in the meantime you have received my letter from Calcutta. I also hope you might have received some pictures which were sent from Calcutta. If you can, send one offset copy of the horses and chariot of Arjuna. Govinda dasi may draw a small picture of the same chariot for printing on the front page of Back to Godhead.
@@ -25,3 +26,4 @@ Hope you are well.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

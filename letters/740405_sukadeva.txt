@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sukadeva ======
+====== Sukadeva ======
 
+<card class="letter">
 Seattle
 
 Dear Sukadeva,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

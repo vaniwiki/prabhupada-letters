@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni Maharaja,
 
 Please accept my blessings. I hope everything is going on well with your preaching activities in Florida state. I have not heard from you in a few weeks, but through Brahmananda Maharaja I learn that you are moving to different cities and preaching our Krsna consciousness in each place.
@@ -23,3 +24,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

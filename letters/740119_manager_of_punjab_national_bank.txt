@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Punjab National Bank ======
+====== Manager of Punjab National Bank ======
 
+<card class="letter">
 Manager, Punjab National Bank\\
 Vrindaban Branch\\
 Sahji's Temple\\
@@ -27,3 +28,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami\\
 ACBS/sdg\\
 N.B. Please find enclosed copy of Money Transfer Order
+</card>

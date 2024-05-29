@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: The Manager Syndicate Bank ======
+====== The Manager Syndicate Bank ======
 
+<card class="letter">
 Syndicate Bank\\
 Vrindaban Branch\\
 Dist. Mathura, U.P.\\
@@ -30,3 +31,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

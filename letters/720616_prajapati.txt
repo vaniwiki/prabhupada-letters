@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prajapati ======
+====== Prajapati ======
 
+<card class="letter">
 My dear Prajapati,
 
 Please accept my blessings. I beg to acknowledge your letter of June 6, 1972 and I have noted the contents. It is very nice to hear that all the activities are going on with full enthusiasm there in Boston. Upon your recommendation, enclosed please find one letter for initiates as well as 4 copies of gayatri mantra and 3 sacred threads duly chanted by me. Four beads also duly chanted by me have been sent by separate post. Hold a fire yajna and give gayatri mantra to Brhatratha, Cediraja, Somadasa, and Sarmistha dasi. Rupanuga has got a tape of me reciting gayatri mantra, so you can get this from him. One thing is that the tape should be heard through earphones into the right ear. So the fire yajna can be held for all 8 devotees.
@@ -16,3 +17,4 @@ Please accept my blessings. I beg to acknowledge your letter of June 6, 1972 and
 Regarding your questions, we should not take any stock of rumors which may come, that is not our process to act upon rumors. We hear from the authorized sources, and then our hearing is perfect. So you are the leader of big temple, you should know these things and avoid them, and instruct the other students there to stick to whatever is mentioned in our books and try to understand that subject matter from every angle of vision, without trying to adulterate by adding anything rumor. Our preaching must be based upon the subject matter from books and nothing outside of them. The actual fact is that worshiping the Deity and chanting the glories of the Lord are both within the nine processes of devotional service recommended by Rupa Goswami. Besides chanting and hearing and remembering there are six other recommended activities in devotional service. So if we are able to practice even only one of these activities perfectly, the result will be the same. Or we may execute more than one, we may execute several or even all nine activities in devotional service, but even if we execute one perfectly we shall be completely successful in devotional service. So there is no question that one activity is more important than another or that Deity worship is more important than Sankirtana, but one individual may be able to perform one activity more satisfactorily than another, so to him that activity will be more important. But in general we cannot say that any of the nine processes is more important than the others, except that if hearing, chanting and remembering are there, that is the most vital consideration for the general class of men in this age. Service to the Deities, as you are asking me, begins whenever you remember Them and offer all your services by remembering at the same time. All activities, words, everything should be offered as service to the Deities, and this offering with remembering will gradually increase as you practice it.
 
 ACB
+</card>

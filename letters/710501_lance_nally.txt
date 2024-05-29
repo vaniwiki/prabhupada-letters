@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lance Nally ======
+====== Lance Nally ======
 
+<card class="letter">
 Lance Nally\\
 702 North 2nd Street\\
 Aberdeen, South Dakota 57401
@@ -23,3 +24,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Ballavh ======
+====== Sri Ballavh ======
 
+<card class="letter">
 Taipei, Taiwan
 
 My dear Sri Ballavh,
@@ -23,3 +24,4 @@ In any case do not abandon the regulative principles and be certain to always ch
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

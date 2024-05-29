@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nolen ======
+====== Nolen ======
 
+<card class="letter">
 Sriman Nolen Brahmacary\\
 New Vrndavan\\
 RD 3 Moundsville, WV 26041\\
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS: ds
+</card>

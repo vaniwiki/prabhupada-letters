@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radha-sarana ======
+====== Radha-sarana ======
 
+<card class="letter">
 My dear Radha-Sarana,
 
 Please accept my blessings. I beg to thank you for your letter dated April 4, 1977.
@@ -26,3 +27,4 @@ I hope this meets you well.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

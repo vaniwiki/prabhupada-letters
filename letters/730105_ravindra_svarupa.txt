@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ravindra Svarupa ======
+====== Ravindra Svarupa ======
 
+<card class="letter">
 [To Ravindra Svarupa]
 
 [PAGE MISSING]
@@ -21,3 +22,4 @@ Hoping this meets you in good health,
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

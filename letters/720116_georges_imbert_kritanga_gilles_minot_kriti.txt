@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Georges Imbert, Kritanga, Gilles Minot, Kriti ======
+====== Georges Imbert, Kritanga, Gilles Minot, Kriti ======
 
+<card class="letter">
 My dear Sons,
 
 Please accept my blessings. Upon the recommendation of Dhananjaya I have gladly consented to accept both of you as my duly initiated disciples. Your beads have been duly chanted by me and they are sent under separate post. I have given you the spiritual names as follows:
@@ -23,3 +24,4 @@ I hope this will meet you both in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

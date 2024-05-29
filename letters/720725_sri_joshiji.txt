@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Joshiji ======
+====== Sri Joshiji ======
 
+<card class="letter">
 My dear Sri Joshiji,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 15, 1972, and I have noted the contents with great interest. From London now I am staying in Paris, and from here I shall go to Amsterdam and then to Edinburgh, again to London, and from there I shall go to Nairobi for installing Radha-Krishna deities in our own temple there. Your letter under reply gives me great pleasure when I understand from your childhood you are a great devotee of Lord Krishna, and now in your old age you are still anxious to preach the doctrine of Lord Krishna, namely, to surrender to the Supreme Personality of Godhead.
@@ -18,3 +19,4 @@ Actually, the whole world requires to understand the Bhagavad-gita As It Is. Alt
 We have already got our land in Bombay, in Vrindaban, as well as in Navadvipa. Gradually, we can open a centre in each and every important city of India. I shall request you to think over this proposition very seriously and make some tangible program, then when you return to India in October, by that time I shall be there also, and jointly we can do something tangible in India also. I shall be very glad to hear from you your reaction on this proposition. Thank you very much.
 
 A.C. Bhaktivedanta Swami
+</card>

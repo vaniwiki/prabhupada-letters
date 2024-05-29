@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda Dasi,
 
 Please accept my blessings. I beg to acknowledge receipt of your nice letter dated April 1, 1969, and I have noted the contents with pleasure. Your humble sentiments are very nicely expressed and I thank you for them. I have already written to Jivananda and Harsarani, and they are inclined to go to New Vrindaban but I have advised them to go to Hawaii after spending a short period in San Francisco training up the devotees there in Deity worship and Sankirtana Party. So you may correspond with them to make more definite arrangements. From Sudama's letter I can understand that some people are coming to your kirtanas, so try your best to develop your center and Krishna will surely help you. We have not brought your __Srimad-Bhagavatam__ here, but when I get opportunity, I will send you one volume one.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Barbara Eady ======
+====== Barbara Eady ======
 
+<card class="letter">
 My dear Barbara Eady,
 
 Please accept my blessings. I am in receipt of your letter undated.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

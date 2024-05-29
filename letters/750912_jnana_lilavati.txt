@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jnana, Lilavati ======
+====== Jnana, Lilavati ======
 
+<card class="letter">
 Kilifi, Kenya
 
 My dear Jnana das and Lilavati devi dasi:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

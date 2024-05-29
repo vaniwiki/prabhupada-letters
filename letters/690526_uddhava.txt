@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uddhava ======
+====== Uddhava ======
 
+<card class="letter">
 My dear Uddhava,
 
 Please accept my blessings. I thank you very much for your letter dated May 14, 1969, and I have noted the contents carefully. You have asked about where you will get the money for bookbinding equipment, and I think you may take it from the money you are saving. In Boston you told me the cost will be around $3,300, but why is it now $4,000? Anyway, the printing must be done first class, and with first class paper. Never mind it is $4,000. The important thing is it is done very nicely. The example will be our __TLC.__ For composing I think Rayarama has not given you the right time. It must be ready within one and a half months after the machine is there. By rough calculation, one can compose at least 10 pages per day, so for 400 pages it takes utmost 40-45 days. Anyway, I shall very soon give you the composed pages, so you may become serious for printing work. And you shall be in charge of these printing matters.
@@ -19,3 +20,4 @@ Regarding your marriage, if Lilasukha is ready, then any day you can come here w
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

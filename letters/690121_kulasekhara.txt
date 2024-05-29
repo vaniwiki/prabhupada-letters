@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kulasekhara ======
+====== Kulasekhara ======
 
+<card class="letter">
 My dear Kulasekhara,
 
 Please accept my blessings. I am in due receipt of your letter of January 16, 1969, and I am so pleased to know that once again you are staying at the temple in Montreal. In this age no one is able to remain aloof from the general human society. Therefore one need not go into the forest in a secluded place to try to make spiritual advancement. Much better idea is that one associate with devotees in the Krishna Consciousness Centres; this will bring better spiritual results than living in the forest. Krishna Consciousness is possible when one is in association of devotees. alone it is more difficult. Please therefore try to keep yourself always in contact with the Montreal devotees. There is no need to go away. That is not very good. If you will have any problems or questions you may write to me and I will help you as far as possible.
@@ -17,3 +18,4 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

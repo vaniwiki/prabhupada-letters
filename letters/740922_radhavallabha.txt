@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radhavallabha ======
+====== Radhavallabha ======
 
+<card class="letter">
 Brooklyn
 
 My dear Radhavallabha Das:
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 CC: Bali Mardan, N.Y.; Hansadutta, London, Ramesvara, L.A.
+</card>

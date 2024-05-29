@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Radhavallabha ======
+====== Radhavallabha ======
 
+<card class="letter">
 Los Angeles\\
 [To Radhavallabha das]
 
 THANK YOU BE BLESSED MY GURU MAHARAJ WILL BE VERY MUCH PLEASED UPON YOU AND ALL OTHER WORKERS ON THE HOLY OCCASION OF HIS DISAPPEARANCE DAY
 
 A C BHAKTIVEDANTA SWAMI
+</card>

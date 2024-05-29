@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 Tokyo
 
 My dear Sudama,
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 ACBS:dm\\
 P.S. If you have already arranged for my apartment then you can send me telegram immediately & I shall cancel Hawaii program.\\
 ACB
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dasarha ======
+====== Dasarha ======
 
+<card class="letter">
 My dear Dasarha,
 
 Please accept my blessings. I have received your letter dated February 4, 1972, and I have noted the contents carefully. I am very glad to see that everything is going very nicely there in Wilmington as per the enclosed newspaper clippings, and I am much pleased that you are wholeheartedly engaging yourself in this way, and in this way you will help to save the whole world from the most dangerous position and at the same time achieve yourself the topmost perfection of life.
@@ -28,3 +29,4 @@ Wilmington, Delaware\\
 U.S. A. 19802\\
 ACBS/sda
 
+</card>

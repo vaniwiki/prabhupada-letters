@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter and check for 1111.00 dollars.
@@ -19,3 +20,4 @@ I hope this letter will meet you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 My dear Tamala,
 
 Please accept my blessings. Replying your letter dated 13rd. Just received late as yesterday evening. I beg to reply as follows:---I agree to purchase Mr. Mohta's house. The condition mentioned by you appears to be little hazardous. I wish that we may get full vacant possession immediately and we pay the full amount all cash down. If they can not give us full vacant possession immediately then let them give us the full possession of the 1st & 2nd floor on monthly rental basis at Rs 1,500.00. Then we immediately vacate our present house and move in from May 1st, 1971. We live there as temporary tenant say up to 31st December 1971 and as soon as they are prepared to give us full possession of the house we pay the full price settled say Rs 650,000.00. This will be clear transaction for both of us. If not please do the needful.
@@ -21,3 +22,4 @@ Regarding Mayapur, I have sent you the Power of Attorney as desired by you as we
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 6, 1969 and the new issue of __BTG.__ I am pleased to learn that the house transaction is finished, and I shall be glad if you send a copy of the conveyance deed to the London address, where I am going the day after tomorrow. The purchasing transaction has been done on Janmastami Day, and this is also a great occasion. Regarding your anxieties how to pay the rent, etc., in the winter season, I think Krishna will provide with sufficient press work and some of the boys may work also. In this way we have to manage. Your remark that Advaita may have to do a lot of commercial work to help the temple during the winter is right. Whenever there is spare time we can earn money by outside work. We shall fully utilize the press facilities in various ways. My suggestion to meet the business men is to convince responsible men of your country to understand the importance of this Krishna Consciousness Movement and how we are molding the character of younger generation by giving them peaceful home, philosophy of life, artistic sense, musical entertainment, nutritious foods: and above all these, we are giving them spiritual enlightenment, which is never to be found elsewhere throughout the whole world. Every gentleman in your country is anxious about their children, and gradually if the richer section of the people or the government cooperates with us, we can expand this movement for total welfare of the younger generation. This calculation is only one side of the picture: The other side of the picture means the solution of the eternal problem. Even though people in general may not be able to understand it, the fact is there. So in winter season this propaganda may be done. Some very responsible man may be selected to preside over a meeting, either in the temple or in some rented private hall, if the meeting is to be very big. In this way we can try to invite the so-called important people of the society and try to convince them about the importance of this movement.
@@ -25,3 +26,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

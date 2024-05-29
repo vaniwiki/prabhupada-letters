@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rocana ======
+====== Rocana ======
 
+<card class="letter">
 Bridesville, Canada
 
 My dear Rochana das:
@@ -32,3 +33,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

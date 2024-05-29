@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 22, and I have carefully noted the contents. Regarding the church building, from Mr. Worley's letter I can understand that the tone is acceptance, not rejection. Now as I have told you before, if out of the $30,000 you can collect at least $10,000 from the local devotees, then the balance $20,000 can be arranged from the bank. That is my responsibility, and I shall do it. Now it is up to you to collect $10,000. So upon hearing from you whether or not you are able to collect $10,000. So upon hearing from you whether or not you are able to collect the money in connection with Mr. Brahma, Mr. Ghosh and other Indian gentlemen, then we can negotiate further in this matter. Mr. Worley has said that the assessed value is 45% of the value and he has advanced the argument that for Franklyn County tax purposes, the value was assessed as around $59,000. But in our case there is no question of tax. So without tax the assessment of the city authorities is correct. Anyway, I shall talk with them seriously if you give me assurance you can arrange for the $10,000. For the balance I shall arrange; rest assured.
@@ -19,3 +20,4 @@ Please convey my blessings to the other devotees there. I hope this will meet yo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

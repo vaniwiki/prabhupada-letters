@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tribhuvanatha ======
+====== Tribhuvanatha ======
 
+<card class="letter">
 My dear Tribhuvanatha,
 
 Please accept my blessings, I beg to acknowledge receipt of your nice letter dated 13rd June, 1970, and just the other day I have received your package containing gifts of conchshell, sandalwood incense, orange socks and flowers as well as your beads for initiation. I beg to thank you for all these nice presentation and they are all being appropriately employed.
@@ -23,3 +24,4 @@ Hope this will meet you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

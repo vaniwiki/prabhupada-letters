@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balai ======
+====== Balai ======
 
+<card class="letter">
 New York
 
 My dear Balai,
@@ -25,3 +26,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

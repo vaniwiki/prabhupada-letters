@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Ajita Kumar Chatterjee ======
+====== Sri Ajita Kumar Chatterjee ======
 
+<card class="letter">
 Sri Ajita Kumar Chatterjee\\
 Calcutta
 
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

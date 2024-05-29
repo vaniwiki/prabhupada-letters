@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Andrew Parco ======
+====== Andrew Parco ======
 
+<card class="letter">
 My dear Andrew Parco
 
 I beg to thank you for your letter dated Oct. 4. 1972. If you are actually very much eager to search out God, you should know that logic and argument cannot help you because the opposing elements may be better logicians and may convert your decision by better logical arguments. So far books are concerned, they are differently described for different types of men and a philosopher. So we cannot decide either from the books or by philosophical speculation or by argument and logic. So the best thing is that you find out yourself who you think is the right person in the matter of science of God.
@@ -19,3 +20,4 @@ I wish that you may follow this principle and be happy.
 
 Yours Sincerely,\\
 A.C. Bhaktivedanta Swami.
+</card>

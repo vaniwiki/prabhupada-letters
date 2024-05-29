@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vasudeva ======
+====== Vasudeva ======
 
+<card class="letter">
 My dear Vasudeva das;
 
 Please accept my blessings. I am in due receipt of the undated joint letter from you and Upendra dasa and have noted the contents with care. Regarding the situation in Fiji, it is necessary that we come to a proper understanding as to the status of the land and the organization of ISKCON Fiji itself. The first point is that the governing board of ISKCON may have yourself and your brother as members, but must also have the GBC for the zone, Gurukrpa Swami, the GBC Chairman, Tamala Krsna Goswami , and Upendra das as members. The second point is that after ISKCON has been organized in the above way the land which the temple is being constructed on must be leased to ISKCON Fiji with a 99 year unconditional lease with option to renew which I shall approve.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

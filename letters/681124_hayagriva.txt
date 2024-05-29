@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. Just yesterday I received your tape. I could not however play it immediately because the tape recorder that Govinda Dasi has wasn't big enough to hold the tape. So this morning I got Dayananda's larger tape recorder and heard with great enjoyment your speech and kirtana. Myself, Purusottama, Kartikeya and Govinda Dasi joined with your kirtana clapping and we enjoyed transcendental bliss. Thank you very much for your endeavor and all blessings of Thakura Bhaktivinode and Bhaktisiddhanta Sarasvati will be bestowed upon you because you are trying to push on their life long mission. Thakura Bhaktivinode, in the year of my birth, first attempted to introduce these missionary activities in McGill University and the same attempt is being renovated by your combined efforts. I am sure that Lord Caitanya and His eternal Associates, Bhaktivinode Thakura and Bhaktisiddhanta Sarisvati, will be pleased to bestow their mercy upon you. Please try to continue this attempt and I am sure you shall be successful. I shall keep this tape for a few days more and then return it to you. I hope you have received my previous letters.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

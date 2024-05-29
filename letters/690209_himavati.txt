@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Himavati ======
+====== Himavati ======
 
+<card class="letter">
 My dear Himavati,
 
 Please accept my blessings. I thank you so much for your letter of January 30, 1969. I am glad to know that you are anxious to begin tending the Deities in grand style and fashion. Before I instruct you further in this matter, please send me a detailed list of what worshiping methods you are now performing. Let me know how you are conducting temple worship now from morning till night. I hope this will meet you in good health and cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

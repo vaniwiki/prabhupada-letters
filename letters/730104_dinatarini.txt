@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinatarini ======
+====== Dinatarini ======
 
+<card class="letter">
 Dallas
 
 My dear Dinatarini Dasi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

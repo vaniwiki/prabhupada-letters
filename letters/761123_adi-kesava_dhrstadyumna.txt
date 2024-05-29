@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ādi-kesava, Dhrstadyumna ======
+====== Ādi-kesava, Dhrstadyumna ======
 
+<card class="letter">
 New York
 
 My dear Ādi Kesava and Dhrstadyumna,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

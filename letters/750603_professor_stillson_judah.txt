@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Professor Stillson Judah ======
+====== Professor Stillson Judah ======
 
+<card class="letter">
 My dear Professor Stillson Judah,
 
 Please accept my humble greeting and blessings of Lord Krishna. Since I have come to Honolulu from Melbourne, I got the opportunity to read your nice book "Hare Krishna and the Counterculture" with profound interest. I am also very much obliged to you as you have shown to me so much mercy, even by illustrating my photograph instead of your goodness. The presentation has been done just fit for ready by all scholars and educationists. If you so permit I can ask my assistants to publish some important extracts from your work in our magazine BTG for benefit of all our readers. Besides that we can sell your book also along with our other books by arrangement. I don't know what is exactly your address and therefore I am dispatching this letter through my disciple Sriman Jayananda Adhikari. I shall be very glad to meet you again when I go to the mainland. You have taken so much pain for writing this book and I thank you very much again & again. May Lord Krishna bless you more & more.
@@ -16,3 +17,4 @@ Please accept my humble greeting and blessings of Lord Krishna. Since I have com
 Yours very sincerely
 
 N.B. I take this opportunity to present you one chapter of my translation of Caitanya Caritamrta under the caption __L.C. in Five Features__
+</card>

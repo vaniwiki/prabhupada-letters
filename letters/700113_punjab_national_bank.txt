@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Punjab National Bank ======
+====== Punjab National Bank ======
 
+<card class="letter">
 Punjab National Bank\\
 P.O. Vrindaban (Mathura)\\
 U.P., India\\
@@ -28,3 +29,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

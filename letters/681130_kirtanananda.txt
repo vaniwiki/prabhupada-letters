@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. I thank you very much for your letter of Nov. 7, 1968, and I have duly noted the contents with great satisfaction. It is very good news that so many students are attending your kirtana programs in Columbus, and I think this will develop into a very prosperous center very soon.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please offer my blessings to Dr. Henderson. He is our old friend and let us join together to spread K.C. all over the world. ACB
+</card>

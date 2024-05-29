@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhusudana ======
+====== Madhusudana ======
 
+<card class="letter">
 My dear Madhusudana,
 
 Please accept my blessings. I beg to thank you very much for your letter dated 24th June, 1970, with your check for $200, for which I think you and your good wife, Kancanbala. This kind of letter is very encouraging to me because there is enclosure of a nice check. So we have to pay immediately some bills of ISKCON Press as well as Dai Nippon, so it will be very much helpful.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

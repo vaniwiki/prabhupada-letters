@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bon Maharaja ======
+====== Bon Maharaja ======
 
+<card class="letter">
 His Holiness Swami B.H. Bon Maharaja,\\
 D.Lit., I.Ph.D., D.D., D.D.,\\
 D.Theos., D. AEH.\\
@@ -38,3 +39,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

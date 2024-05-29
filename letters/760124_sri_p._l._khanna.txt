@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri P. L. Khanna ======
+====== Sri P. L. Khanna ======
 
+<card class="letter">
 Sri P.L. Khanna\\
 Calcutta
 
@@ -22,3 +23,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

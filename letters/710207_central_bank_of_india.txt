@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Central Bank of India ======
+====== Central Bank of India ======
 
+<card class="letter">
 Central Bank of India,\\
 Calcutta
 
@@ -37,3 +38,4 @@ Central Bank of India
 Camac Street Branch
 
 Calcutta-16
+</card>

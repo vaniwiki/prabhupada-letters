@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tripurari ======
+====== Tripurari ======
 
+<card class="letter">
 Evanston, Illinois
 
 My dear Tripurari dasa:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayatirtha ======
+====== Jayatirtha ======
 
+<card class="letter">
 Dear Jayatirtha,
 
 Please accept my blessings. I have received your recent letters of April 16 and April 25 and have noted the contents.
@@ -31,3 +32,4 @@ A.C. Bhaktivedanta Swami
 P.S. I want the monthly interest from the Union Bank to go to account 668 at the Punjab National Bank, Vrindaban, called "ISKCON Mayapur-Vrindaban Trust Fund". At present they are sending the interest to the account number 6112. "A.C. Bhaktivedanta Swami". So please go to the Union Bank and find out how this change may be brought about and let me know.
 
 Also I am enclosing a check for $21.00 (twenty one dollars) which I have received here. I want you to deposit this for me in the Union Bank, ISKCON MVT, and the savings deposit slip is enclosed.
+</card>

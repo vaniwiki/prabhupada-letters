@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sukadeva 2 ======
+====== Sukadeva 2 ======
 
+<card class="letter">
 My dear Sukadeva das,
 
 I beg to acknowledge receipt of your letter dated 1/8/73, and I have noted the contents with satisfaction. Thank you very much for your kind sentiments. This attitude of serving first the spiritual master is the correct one, for only by the mercy of the spiritual master can one obtain the mercy of Krsna. Just as we sing every morning yasya prasadad bhagavad-prasado yasya prasada na gatih kuto 'pi, in this way the disciple advances more and more in understanding God. So if you simply execute with full faith the instructions that I have already given you, then you will see so many people will be sent by Krsna to become devotees because of your sincerity. So as you are my appointed leader, you must also see that the others are following very strictly the regulative principles like chanting 16 rounds, reading my books regularly, rising early for mangala aratrika, these things will keep us purified for advancing more and more in Krsna Consciousness.
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ABCS/bmdg\\
 Sukadeva das Adhikary, Seattle ISKCON
+</card>

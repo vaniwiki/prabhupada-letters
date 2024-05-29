@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Carl E. Maxwell-Payne ======
+====== Carl E. Maxwell-Payne ======
 
+<card class="letter">
 Carl E. Maxwell-Payne\\
 William Alfred White Inc.\\
 513 Avenue of the Americans\\
@@ -30,3 +31,4 @@ If there is sale contract, my students here and in New york will be able to rais
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala,
 
 Please accept my blessings. I am in due reciept of your letter of April 30, 1968, and noted the contents. So your duty as you are doing, even nobody is coming in morning, Lord Jagannatha will hear your kirtana, because we are always in company with the Lord of the Universe. But I think Krishna has sent you one nice boy to help you. Please try to convince him rightly about the philosophy of Krishna consciousness and read Srimad-Bhagavatam and other literatures, from Back to Godhead, and I think this boy will be helpful to your activities there.
@@ -19,3 +20,4 @@ Hoping you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

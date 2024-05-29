@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visnujana ======
+====== Visnujana ======
 
+<card class="letter">
 My dear Visnujana Maharaja,
 
 Please accept my blessings. I beg to thank you for your encouraging letter dated 23rd December, 1970. I am very glad to know that things are progressing nicely in Houston. I have seen the flyer and it is nice. Please establish this center firmly just according to our highest principles of devotional service to Krsna.
@@ -25,3 +26,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

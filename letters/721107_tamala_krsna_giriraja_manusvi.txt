@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna, Giriraja, Manusvi ======
+====== Tamala Krsna, Giriraja, Manusvi ======
 
+<card class="letter">
 Bombay
 
 My dear Tamala Krishna, Giriraja, and Manusvi,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tusta Krsna ======
+====== Tusta Krsna ======
 
+<card class="letter">
 Byron's Bay, Australia
 
 My dear Tusta Krishna,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Punjab National Bank ======
+====== Manager of Punjab National Bank ======
 
+<card class="letter">
 To:\\
 The Manager\\
 The Punjab National Bank, Ltd.\\
@@ -36,3 +37,4 @@ Syamasundara das Adhikari
 
 Secretary\\
 ACBS/sda
+</card>

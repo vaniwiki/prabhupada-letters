@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Makhanlal ======
+====== Makhanlal ======
 
+<card class="letter">
 My dear Makhanlal,
 
 Please accept my blessings. I am in receipt of your letter dated December 4, 1973. Regarding the $100.00 check, send a copy of the cancelled check, both sides, to Karandhara for examination.
@@ -43,3 +44,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
+</card>

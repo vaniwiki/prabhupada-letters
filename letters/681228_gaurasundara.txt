@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaurasundara ======
+====== Gaurasundara ======
 
+<card class="letter">
 My dear Gaurasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 24, 1968 and I have noted the contents with pleasure.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Govinda Dasi is preparing herself for going %%___%%, to you at Hawaii.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satish Kumar Varma ======
+====== Satish Kumar Varma ======
 
+<card class="letter">
 Satish Kumar Varma\\
 c/o Jagdamba Chhavikala Ksetra\\
 Bagla Marg, Hathras\\
@@ -29,3 +30,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

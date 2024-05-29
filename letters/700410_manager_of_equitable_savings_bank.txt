@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Equitable Savings Bank ======
+====== Manager of Equitable Savings Bank ======
 
+<card class="letter">
 Manager\\
 Equitable Savings Bank\\
 Fairfax and Beverly Boulevard\\
@@ -31,3 +32,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

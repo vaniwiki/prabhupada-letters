@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pariksit ======
+====== Pariksit ======
 
+<card class="letter">
 Brooklyn
 
 My dear Pariksit dasa:
@@ -31,3 +32,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

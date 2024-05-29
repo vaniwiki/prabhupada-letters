@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali-mardana ======
+====== Bali-mardana ======
 
+<card class="letter">
 Penang
 
 My dear Bali-mardana,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am also in due receipt of your letter from Penang of 4/23/71.
+</card>

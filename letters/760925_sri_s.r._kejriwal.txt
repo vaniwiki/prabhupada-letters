@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri S. R. Kejriwal ======
+====== Sri S. R. Kejriwal ======
 
+<card class="letter">
 Sri S. R. Kejriwal\\
 Kejriwal House, __Dorbhanga__
 
@@ -23,3 +24,4 @@ Your well-wisher,
 A.C. Bhaktivedanta Swami
 
 ACBS/as
+</card>

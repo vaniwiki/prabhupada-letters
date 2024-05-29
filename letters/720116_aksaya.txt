@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Aksaya ======
+====== Aksaya ======
 
+<card class="letter">
 My dear Aksoja,
 
 Please accept my blessings. I am in due receipt of your letter of 14th December, 1971, and I am happy to accept you for Gayatri mantra. One copy of Gayatri mantra and one sacred thread duly chanted by me have been sent under separate post. Hold a fire yajna and your president, Dhananjaya, can give you Gayatri mantra. Hansadutta and Dayananda have copies of tapes of me reciting Gayatri mantra, so you can get it from one of them. One thing is that the tape should be heard through earphones into the right ear. So the fire yajna can be held for all three devotees.
 
 It seems there has been some confusion about the spelling of your name. The above spelling is correct.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayadeva ======
+====== Jayadeva ======
 
+<card class="letter">
 My dear Jayadeva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 1, 1972, and I have noted the contents. Krishna's plan becomes very easy for us when we follow Krishna's orders, otherwise, we are following Maya's plan and become frustrated at every step. Following Krishna's orders means chanting daily 16 rounds, following the four rules and regulations, rising early, associating with devotees, like that. Unless these principles are followed, we cannot expect Krishna's protection.
@@ -19,3 +20,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 Berlin
 
 My dear Sivananda,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pdd
+</card>

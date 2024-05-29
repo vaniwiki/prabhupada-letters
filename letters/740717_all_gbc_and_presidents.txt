@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: All GBC and Presidents ======
+====== All GBC and Presidents ======
 
+<card class="letter">
 MEMO TO ALL CENTERS
 
 To all GBC and Presidents:
@@ -23,3 +24,4 @@ Your servant,\\
 Brahmananda Swami\\
 Approved:\\
 A.C. Bhaktivedanta Swami
+</card>

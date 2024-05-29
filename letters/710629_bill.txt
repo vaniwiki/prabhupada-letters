@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bill ======
+====== Bill ======
 
+<card class="letter">
 Gainesville, Florida
 
 My dear Bill,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hrdayananda ======
+====== Hrdayananda ======
 
+<card class="letter">
 Dear Hrdayananda Maharaja,
 
 Please accept my blessings. I was pleased to appoint you as GBC of South America in the hope that you will organize the printing and distribution of my literature there, on the scale of the U.S. and European Zones. I have been informed there is a very good chance for spreading Krishna Consciousness in South America.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated 12/27/67, along with the MacMillan Co. agreement form. Prior to this letter I have received your other two letters, but I was expecting this letter, so I did not reply your prior letters earlier. I am sending herewith the agreement duly signed by me. Regarding Mr. Alan Watts introduction, I may inform you if the books will sell nicely by Mr. Watts introduction I do not mind his nonsense. The other gentleman Professor Edward Dimmock of the University of Chicago who is a student of Vaisnavism is willing to give some introduction. But you say he is not well known. For me, either Professor Dimmock or Mr. Watts both are nonsense. Now for selling purpose, if you think Mr. Watts is nice, I have no objection. I give you full power of attorney in this connection. Whoever you like like you can accept.
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please deliver MSS. to M/s M&Co. as much as already complete.
+</card>

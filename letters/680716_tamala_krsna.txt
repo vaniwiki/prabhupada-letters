@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 San Francisco
 
 My dear Tamala Krishna,
@@ -21,3 +22,4 @@ Hope you all are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

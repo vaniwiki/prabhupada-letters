@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Muralidhara ======
+====== Muralidhara ======
 
+<card class="letter">
 Brooklyn
 
 My dear Muralidhara,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Mittra ======
+====== Mr. Mittra ======
 
+<card class="letter">
 Messrs United Shipping Corp.\\
 1402 Old China Bazar Street\\
 Room 18\\
@@ -20,3 +21,4 @@ Please refer to my last letter. It is understood that from my New York office fi
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

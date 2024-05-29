@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Caitanya ======
+====== Caitanya ======
 
+<card class="letter">
 My dear Caitanya Devi Dasi,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 30th August, 1971, and have noted the contents. Yes, Krishna has saved you from such a serious position. So now you should feel very much obliged to Krishna and chant Hare Krishna Mantra more enthusiastically. It is a fact that Krishna has saved you. Yamaraja couldn't touch you because you are Krishna conscious. So now it is your duty to raise your children in Krishna consciousness also. The names you have fixed up for them are all right. There is no need of changing. So be very serious to raise these two girls to be Krishna Conscious and Krishna will surely bless you more and more.
@@ -17,3 +18,4 @@ Please offer my blessings to your good husband Kanupriya and newly arrived child
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 Tittenhurst Park, \\
 Tittenhurst House, \\
 Ascot, Berkshire, ENGLAND
@@ -21,3 +22,4 @@ Please offer my blessings to the others. I hope this will meet you all in good h
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

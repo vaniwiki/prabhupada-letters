@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rsabhadeva ======
+====== Rsabhadeva ======
 
+<card class="letter">
 Laguna Beach
 
 My dear Rsabhadeva,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I have just received your letters dated 20th and 24th May, 1971 respectively along with a check for $10.00. I am so glad to accept both Yamuna and Sanaka as my duly initiated disciples. Their beads and letters follow. You have my full blessings for marriage to Yamuna.\\
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhutatma, Kesava ======
+====== Bhutatma, Kesava ======
 
+<card class="letter">
 San Francisco
 
 My dear Bhutatma and Kesava,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Just received your letter of 9/28 protesting the 50%, %%_____%% the above. They __must__ give 50% or get out!
+</card>

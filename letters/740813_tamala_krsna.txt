@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Ann Arbor, Michigan
 
 My dear Tamala Krishna Maharaja,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. We have to plan our activities in such a way that we become stronger, not weaker. Physically I am becoming weak, so you boys become stronger. Also, at Mayapur they are wanting money and grains, so what are you doing about this?\\
 ACBS/bs
+</card>

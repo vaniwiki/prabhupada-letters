@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 My dear Tamala,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 13 March, 1970, and noted the contents with great satisfaction. I received one similar letter from London, and I have sent the reply to Gurudasa, and the copy is enclosed herewith so that all of you may follow the same instructions and open hundreds of Temples in Europe combinedly.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

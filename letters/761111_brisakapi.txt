@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brisakapi ======
+====== Brisakapi ======
 
+<card class="letter">
 Potomac, Maryland
 
 Dear Brisakapi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

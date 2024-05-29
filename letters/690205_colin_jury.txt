@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Colin Jury ======
+====== Colin Jury ======
 
+<card class="letter">
 London
 
 My dear Colin Jury,
@@ -17,3 +18,4 @@ I thank you for your letter which was sent along with Yamuna's. I am pleased to 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 Brooklyn
 
 My dear Kirtanananda Swami:
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 *The right thing is that only twice initiated brahmana disciples cook in the temple.\\
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayagovinda ======
+====== Jayagovinda ======
 
+<card class="letter">
 My dear Jaya Govinda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 14th instant, and I am very happy to learn how both you and your good wife are determined to be more and more dependent on Krsna. That should be your mode of life, and that will advance you to success. Always think of Krsna, always hear of Krsna and always speak of Krsna and nothing else, no idle talkings. Both your wife and yourself are Krsna Conscious so you will have good opportunity to be always engaged in Krsna Consciousness.
@@ -29,3 +30,4 @@ Hope this will meet you both in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

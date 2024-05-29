@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I'm in due receipt of your letter dated Sept. 21. I understand from your letter that you received one consignment of pictures from Brijbasi of Bombay. Did you order these pictures or were they sent of their own accord? From New York we placed an order last April, to their Delhi office the Delhi branch says that the order is forwarded to Bombay for execution. Please inform N.Y. that you have received the pictures. I think the picture you have must belong to the N.Y. branch. So far as musical instruments are concerned I don't think it is worthwhile. Shipping charges and packing and duty come to more than that one could purchase in the states. To send one tamboura by air the total price would come to $163 and by ship 110. If you wish to purchase 20 items at a time then you can get trade shipping rates. Please send my blessings to all the boys and girls in San Francisco.
@@ -17,3 +18,4 @@ Your ever wellwisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. I am going to Calcutta next week and I may see there how the business is possible.
+</card>

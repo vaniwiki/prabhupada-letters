@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavatananda ======
+====== Bhagavatananda ======
 
+<card class="letter">
 My dear Bhagavatananda,
 
 Please accept my blessings. I have received your letter from Pittsburgh dated July 3, 1972, and I have noted the contents carefully. One thing is, our process of Krishna Consciousness, if it is followed with determination and enthusiasm, automatically it has the effect of fixing us, body, mind and soul, to the Lotus Feet of Lord Krishna, so that all sorts of fluctuations of the material nature, all sorts of difficulties and discrepancies of life are easily withstood. But first you have to agree to understand the process and follow it scrupulously. That is wanting. If I only think I know something, that is mental platform of accept/reject, and any knowledge gathered from the mental platform is like that, tottering and precarious, and it can be immediately rejected at any time.
@@ -21,3 +22,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

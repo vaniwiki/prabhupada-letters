@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Executive Senior Editor of Los Angeles Times ======
+====== Executive Senior Editor of Los Angeles Times ======
 
+<card class="letter">
 Executive Senior Editor\\
 Los Angeles Times\\
 Times Mirror Sq.\\
@@ -31,3 +32,4 @@ cc: to J.F. Staal\\
 Professor of philosophy and Near Eastern Languages\\
 University of California\\
 Berkeley
+</card>

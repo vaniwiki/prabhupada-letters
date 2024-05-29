@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Y. G. Naik ======
+====== Dr. Y. G. Naik ======
 
+<card class="letter">
 Dr. Y. G. Naik, M.Sc., Ph.D.\\
 Retired Principal, Gujarat College,\\
 66 Hemdeep, Sharda Society\\
@@ -49,3 +50,4 @@ Sincerely yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

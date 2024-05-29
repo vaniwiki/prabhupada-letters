@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Alan Ginsberg ======
+====== Alan Ginsberg ======
 
+<card class="letter">
 My dear Mr. Ginsberg,
 
 Please accept my blessings. I was much aggrieved to hear the news of your accident and I was very anxious to learn that you are lying now in the hospital. I hope that you are progressing nicely but in any condition I request that you continue to chant the Maha Mantra, Hare Krishna. Here is a chance for you to chant Hare Krishna exclusively in the hospital bed.
@@ -19,3 +20,4 @@ I am forwarding this letter through Rupanuga and I shall be glad to hear about y
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

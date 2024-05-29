@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rajamohan (Kelly Cristoph), Gauramohan (Rodney Purcell), Kumkum (Kathy) ======
+====== Rajamohan (Kelly Cristoph), Gauramohan (Rodney Purcell), Kumkum (Kathy) ======
 
+<card class="letter">
 Dallas
 
 My dear Sons and Daughter,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

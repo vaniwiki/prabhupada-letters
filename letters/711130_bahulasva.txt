@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bahulasva ======
+====== Bahulasva ======
 
+<card class="letter">
 My dear Bahulasva,
 
 Please accept my blessings. I have received your letter of November 15, 1971, and I am very much pleased that our Chicago center is doing very nicely under your supervision. You may request the Prof. E. Dimac and Prof. Van Buitenin to review and write a forward for our __Bhagavad-gita As It Is.__ That is very nice. I am very glad that you understand the importance of these books. Let us try to distribute them far and wide, as many as possible, and that is solid spiritual information or real preaching work. We stand on our Krishna philosophy, and because it has the full potency of Krishna Himself, there is no limit to the effect it will have upon the world if we remain sincere and convinced for spreading this philosophy purely. I like your idea to publish many small books especially meant for the layman class. ISKCON Press has just printed "Topmost Yoga" and "Easy Journey", and you may order these from them. I have written and spoken ample stock for such articles and essays. Now it is up to our editors in N.Y. to select and publish them. Actually it was my original idea that our press should print many smaller books by the millions, but that they are not doing. Instead they talk of expanding more and more, but they cannot produce any big books. So you may approach Bhagavan das and Rupanuga with your suggestions for books, and among yourselves you just chalk out some practical plan.
@@ -23,3 +24,4 @@ I hope this meets you, your good wife, and your sons, Yamal and Arjuna, in good 
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

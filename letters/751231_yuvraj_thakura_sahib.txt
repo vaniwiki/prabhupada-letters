@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yuvraj Thakura Sahib ======
+====== Yuvraj Thakura Sahib ======
 
+<card class="letter">
 Sri Yuvraj Thakura Sahib,\\
 Sanand Palace,\\
 P.O. Sanand, Dist Ahmedabad,\\
@@ -26,3 +27,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

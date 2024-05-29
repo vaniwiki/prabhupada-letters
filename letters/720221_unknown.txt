@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Unknown ======
+====== Unknown ======
 
+<card class="letter">
 There is a Bengali proverb "When you pay the price it becomes purified", just like if I purchase something and it is unclean in so many ways, but, because I have paid, it becomes purified.
 
 I hope this will find you both in good health and happy mood.
@@ -17,3 +18,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

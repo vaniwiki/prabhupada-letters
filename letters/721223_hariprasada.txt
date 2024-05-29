@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hariprasada ======
+====== Hariprasada ======
 
+<card class="letter">
 Hyderabad
 
 My dear Hariprasadaji,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

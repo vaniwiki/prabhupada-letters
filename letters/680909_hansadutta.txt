@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings, and I hope you are doing well there. And Himavati is helping you very nicely. You will be pleased to know that here the Sankirtana party, led by Tamala Krishna, is doing very nicely. I understand that within two months they have collected $1500.00, and people are taking this Krishna Consciousness Kirtana very nicely. They go every day to the business quarter and the respectable persons they are appreciating that they are very sincere and pure. So it is very encouraging. I think similar things you can organize in Montreal. We have to improve so many things.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. If my stationery has gone there please redirect them here.
+</card>

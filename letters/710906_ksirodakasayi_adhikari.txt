@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ksirodakasayi Adhikari ======
+====== Ksirodakasayi Adhikari ======
 
+<card class="letter">
 London
 
 Dear Sir:
@@ -27,3 +28,4 @@ Syamasundara Das Adhikari
 
 Secretary\\
 ACBS/adb
+</card>

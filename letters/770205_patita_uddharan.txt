@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Patita Uddharan ======
+====== Patita Uddharan ======
 
+<card class="letter">
 Mayapur
 
 Dear Patita Uddharan,
@@ -28,3 +29,4 @@ Sriman Patit Uddharan das B.\\
 Hare Krishna Land, Juhu, Bombay
 
 ACBS/sdg
+</card>

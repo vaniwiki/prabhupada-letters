@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda dasi:
 
 Please accept my blessings and I beg to acknowledge receipt of your letter dated the 24th February 1973.
@@ -21,3 +22,4 @@ I hope this meets you in good health and spirits.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visvambhara ======
+====== Visvambhara ======
 
+<card class="letter">
 My dear Visvambhara das,
 
 Please accept my blessings. I wrote you one letter regarding the translation work of Nrsimhavallabha Goswami and sons. I have not received any reply from you although I am very much anxious to know the result.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

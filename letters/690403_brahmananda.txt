@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 29, 1969, with enclosures. I am glad that you have received the consignment from Calcutta, and when I go to New York, I shall see what is the quality of the khole. Then if it is nice, we shall have to order many kholes like that.
@@ -21,3 +22,4 @@ I hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

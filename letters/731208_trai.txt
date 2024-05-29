@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trai ======
+====== Trai ======
 
+<card class="letter">
 My dear Trai das,
 
 Please accept my blessings. I am in receipt of your letter dated December 2, 1973. Thank you very much for pushing on our book distribution program so enthusiastically. Kindly offer all the devotees there my deepest gratitude for their wonderful service in this connection. I understand from Karandhara that you are one of the most staunch supporters and workers for distributing our books and I assure you that it is the highest service to my Guru Maharaja. Thank you very much.
@@ -28,3 +29,4 @@ I hope this meets you well.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

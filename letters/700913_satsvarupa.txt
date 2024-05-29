@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated August 30th and September 4th 1970 and it appears that the arrangement for distributing books in the libraries of schools, colleges and universities as well as public libraries is very satisfactory. Do everything conscientiously and Krsna will give you all necessary intelligence.
@@ -27,3 +28,4 @@ I hope this will meet you in good health and please offer my blessings to Srimat
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

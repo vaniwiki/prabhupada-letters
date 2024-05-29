@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Doug Russell ======
+====== Doug Russell ======
 
+<card class="letter">
 My dear Doug Russell,
 
 Please accept my blessings. Upon the recommendation of Rsabhadeva Das I am accepting you as my initiated disciple. Your spiritual name is now Asurakula Nasana Dasa, the servant of the killer of the descendants of the asuras. Krishna, He killed so many demons, so in this age of demoniac tendency, we may not kill the demons like Krishna did it, but we can kill the demoniac tendency. How is that? By this Sankirtana weapon. That is the specific contribution by Lord Caitanya, Krishna Himself, in this Kali yuga. So I am informed that you are the Sankirtana leader for Laguna Beach temple, so you should very enthusiastically lead the Sankirtana party, and in this way you will very successfully kill the demoniac tendency of the rascals.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

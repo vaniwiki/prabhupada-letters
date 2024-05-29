@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated 9th September 1968, and have noted the contents carefully. And specifically about the business transaction of Messrs. MacMillan through Mr. Wade. Now, after reading your letter under reply very carefully, I have decided to take 5000 copies from them, provided they give us 50%, not 47%. Then we shall take delivery of the books in three installments; first, two thousand copies; second, two thousand copies; and, again, one thousand copies. And as promised by them, they must give us 60 days sight for payment for each consignment. And we shall give them bank reference. I think this will be nice arrangement.
@@ -31,3 +32,4 @@ Hope this will cover all your enquires and you will do the needful. By the by, I
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

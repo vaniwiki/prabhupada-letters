@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Punja ======
+====== Mr. Punja ======
 
+<card class="letter">
 Lautoka, Fiji
 
 My dear Mr. Punja,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Please make the ticket one-way and if possible via Sydney.\\
 ACBS/ps
+</card>

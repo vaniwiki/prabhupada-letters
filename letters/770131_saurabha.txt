@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saurabha ======
+====== Saurabha ======
 
+<card class="letter">
 Sriman Saurabha das Adhikary\\
 Hare Krishna Land\\
 Juhu Road, Juhu Bombay
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

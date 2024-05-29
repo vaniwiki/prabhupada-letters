@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Punjab National Bank ======
+====== Manager of Punjab National Bank ======
 
+<card class="letter">
 Manager,\\
 Punjab National Bank\\
 Vrindaban Branch\\
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 Founder-Acarya, of International
 
 Society for Krishna Consciousness, Inc. ACBS/sdg
+</card>

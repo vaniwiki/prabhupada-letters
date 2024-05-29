@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hit Sharanji ======
+====== Hit Sharanji ======
 
+<card class="letter">
 Scindia House\\
 New Delhi
 
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

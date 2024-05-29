@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Mohan Masundar ======
+====== Sri Mohan Masundar ======
 
+<card class="letter">
 Sri Mohan Masundar\\
 402/1a Netaji Subhas Candra Bose Rd.\\
 Calcutta-47
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

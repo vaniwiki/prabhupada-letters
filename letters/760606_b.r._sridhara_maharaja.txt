@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: B.R. Sridhara Maharaja ======
+====== B.R. Sridhara Maharaja ======
 
+<card class="letter">
 Navadvipa
 
 My dear Sripada B.R. Sridhara Maharaja,
@@ -24,3 +25,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

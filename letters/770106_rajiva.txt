@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rajiva ======
+====== Rajiva ======
 
+<card class="letter">
 Delhi
 
 My dear Rajiva,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

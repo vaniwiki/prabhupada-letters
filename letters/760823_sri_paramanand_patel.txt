@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Paramanand Patel ======
+====== Sri Paramanand Patel ======
 
+<card class="letter">
 Sriman Paramanand Patel\\
 c/o Yoga Vidyalaya Ashram\\
 Rajnandjaon M.P.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

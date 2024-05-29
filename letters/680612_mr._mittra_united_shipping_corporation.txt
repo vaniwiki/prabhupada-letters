@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Mittra, United Shipping Corporation ======
+====== Mr. Mittra, United Shipping Corporation ======
 
+<card class="letter">
 Mr. Mittra\\
 UNITED SHIPPING CORPORATION\\
 14/2, Old China Bazar Street,\\
@@ -21,3 +22,4 @@ I am in due receipt of your letter dated June 5, 1968, and have noted the conten
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

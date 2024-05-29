@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yogescandra ======
+====== Yogescandra ======
 
+<card class="letter">
 New York
 
 My dear Yogescandra Prabhu,
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

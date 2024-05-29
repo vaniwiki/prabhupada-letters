@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna ======
+====== Yamuna ======
 
+<card class="letter">
 My dear Yamuna,
 
 Please accept my blessings. I am so much pleased to receive your letter dated Hrsikesa 22, 484 Caitanya Era and I am so glad to learn that our London Temple is very, very well managed under your supervision. Kindly continue this standard of Temple management---that will make me very happy.
@@ -27,3 +28,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

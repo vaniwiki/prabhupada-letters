@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mike Gabbard ======
+====== Mike Gabbard ======
 
+<card class="letter">
 Mr. Mike Gabbard\\
 P.O. Box B\\
 Pago Pago, American Samoa 96799
@@ -24,3 +25,4 @@ Your idea for starting a Krsna Conscious center in American Samoa is very good, 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

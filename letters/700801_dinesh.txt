@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinesh ======
+====== Dinesh ======
 
+<card class="letter">
 New York
 
 My dear Dinesh,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayagovinda ======
+====== Jayagovinda ======
 
+<card class="letter">
 Hamburg
 
 My dear Jaya Govinda,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

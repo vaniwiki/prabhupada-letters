@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 Delhi
 
 My dear Tejiyas,
@@ -26,3 +27,4 @@ ACBS/sda\\
 n.b. I think that if no one is there to help you at present moment, and no one can be spared from Bombay due to Cross Maidan pandal work, then you may come Bombay along with Puranjana and work here, then after the program is finished in Bombay, say about January 22nd, you may return to Delhi with a full party of strong men selected by you from the men in Bombay. But if there is urgent business, you may remain there and we shall make other arrangement as you suggest.
 
 ACBS
+</card>

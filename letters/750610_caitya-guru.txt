@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Caitya-guru ======
+====== Caitya-guru ======
 
+<card class="letter">
 Nairobi
 
 My dear Caityaguru dasa,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 Will you kindly let me know what Guru Nanakji has said about Lord Krishna and Lord Rama in his Granth Sahib? How we can cooperate with the sikh community?\\
 ACBS/ps
+</card>

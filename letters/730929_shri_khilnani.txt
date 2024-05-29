@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Shri Khilnani ======
+====== Shri Khilnani ======
 
+<card class="letter">
 Dear Shri Khilnani:
 
 Please accept my greetings. I beg to acknowledge receipt of your letter dated 25.9.73 and I have immediately informed the man in charge in Paris to suspend the marriage. the copy of the letter to Bhagavan Das, the man in charge, is sent herewith.
@@ -32,3 +33,4 @@ cc: Bhagavan Das, ISKCON, 14 Le Sueur, Paris 16, France
 ACBS/ds
 
 At a meeting for Janmastami in London I was present, and the Indian High Commissioner His Excellency Shri Rasagotra came to our temple amongst many thousands of Indians and Englishmen. If required you can inquire from him how this movement is going on in the Western countries.
+</card>

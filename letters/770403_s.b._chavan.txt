@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: S.B. Chavan ======
+====== S.B. Chavan ======
 
+<card class="letter">
 Chief Minister of Maharashtra\\
 Sachivalaya, Bombay
 
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

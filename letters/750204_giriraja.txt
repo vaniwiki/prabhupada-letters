@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay
 
 My dear Giriraja das,
@@ -27,3 +28,4 @@ Hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Svami
+</card>

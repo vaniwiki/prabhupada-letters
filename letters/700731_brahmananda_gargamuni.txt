@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda , Gargamuni ======
+====== Brahmananda , Gargamuni ======
 
+<card class="letter">
 My dear Brahmananda Maharaja and Gargamuni Maharaja,
 
 Please accept my blessings. I am in due receipt of your two nice letters along with xerox copy of press meeting. Satsvarupa has sent me the original signed copy and I have replied him separately.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

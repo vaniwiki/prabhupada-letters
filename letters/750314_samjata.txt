@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Samjata ======
+====== Samjata ======
 
+<card class="letter">
 Melbourne
 
 My dear Samjata,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 Los Angeles
 
 My dear Aniruddha,
@@ -23,3 +24,4 @@ Regarding the Radha Krishna statues, for the time being, suspend it. Keep Them d
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

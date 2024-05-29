@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Raj Kapoor ======
+====== Sri Raj Kapoor ======
 
+<card class="letter">
 Sri Raj Kapoor\\
 R.K. Films & Studios\\
 Tromby Road,\\
@@ -28,3 +29,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

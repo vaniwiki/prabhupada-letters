@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 San Francisco
 
 My dear Mukunda,
@@ -21,3 +22,4 @@ Hoping you are all well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

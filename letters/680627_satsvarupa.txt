@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 Allston, Mass.
 
 My dear Satsvarupa,
@@ -21,3 +22,4 @@ Please convey my blessings to Jadurani, Madhavi Lata, and Devananda. You are all
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

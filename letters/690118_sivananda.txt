@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda Prabhu,
 
 Please accept blessings. I have noted your scheme for a greater Sankirtana party in Germany. Your ambition will certainly be fulfilled, but wait till Krishna gives you the adequate chance. You require more men and wait till that time.
 
 A.C.B.
+</card>

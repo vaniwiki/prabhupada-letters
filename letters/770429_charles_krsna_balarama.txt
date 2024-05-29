@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Charles (Krsna Balarama) ======
+====== Charles (Krsna Balarama) ======
 
+<card class="letter">
 My dear Charles, (Krishna Balarama das)
 
 Please accept my blessings. I beg to thank you for your very nice letter dated 18th April, 1977.\\
@@ -27,3 +28,4 @@ Your letter is so nice that I have asked that it be published in our Back to God
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

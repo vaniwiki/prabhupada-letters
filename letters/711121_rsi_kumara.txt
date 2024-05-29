@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rsi Kumara ======
+====== Rsi Kumara ======
 
+<card class="letter">
 My dear Rsi Kumar,
 
 Please accept my blessings. I beg to acknowledge receipt or your letter dated 17-11-71. Your desire not to come to Delhi at the present moment is very much appreciated by me. So far our service is concerned it is not limited to any particular place, but when it is required to be fixed up in a place for a certain reason, it is better to stick without any change of mind. I think your presence in Bombay is needed.
@@ -21,3 +22,4 @@ I hope this finds you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

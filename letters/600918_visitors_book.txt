@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visitors’ Book ======
+====== Visitors’ Book ======
 
+<card class="letter">
 [From the Visitors' Book]\\
 SRI SRI RADHA KRISHNA TEMPLE\\
 2430 Chippi Wada Kalan
@@ -29,3 +30,4 @@ I am in the service of the Lord\\
 A.C. Bhaktivedanta Swami
 
 Editor, Author, & Preacher in Transcendental Science
+</card>

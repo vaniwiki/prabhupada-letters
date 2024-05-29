@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Yadavananda ======
+====== Yadavananda ======
 
+<card class="letter">
 My dear Yadavananda,
 
 Please accept my blessings. I am in due receipt of your letter dated November 25, 1969 along with your beads. I have chanted one round upon these beads, and I am pleased to accept you as my disciple. Your initiated name is Yadavananda, which means He who gives pleasure to the Yadu dynasty. This is Krishna, and you are Yadavananda __das,__ the servant of Yadavananda. Except for persons who are in Krishna Consciousness, everyone is to one degree or another the servant of Maya, or illusion. The purpose of our society for Krishna Consciousness is to train people in the science of breaking their servitorship to maya and re-establishing their relationship with Krishna as His loving servitor. When we act in this position of Krishna's servitor very soon we understand that this is our natural, constitutional position, and thus we regain our constitutional qualities of eternity, bliss and knowledge. Actually these qualities are always there, but now they have been covered up by material contamination. But as Lord Caitanya has recommended, by this process of Sankirtana which we are propagating throughout the world the heart will very soon become cleansed of all such material misgivings. Therefore, you should arrange your schedule in such a way that at every minute of every day you will be chanting Hare Krishna or serving Lord Krishna in some other way. This will make you advance very swiftly, and Gaurasundara will be very helpful in giving you instruction in this connection. You should chant at least 16 rounds on your beads every day, and avoid the ten offenses to chanting. The four basic regulative restrictions for initiated disciples are that we do not indulge in 1) illicit sex-life, 2) intoxication, 3) meat-eating, and 4) gambling. When you have any questions you should immediately consult Gaurasundara or some other elder Godbrother or sister, or else you are always welcome to question me directly. It is my duty to guide you as far as possible. I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

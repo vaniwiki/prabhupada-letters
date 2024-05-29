@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Robert Keene ======
+====== Mr. Robert Keene ======
 
+<card class="letter">
 1529 Alton Drive,\\
 Akron,\\
 Ohio 44313
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

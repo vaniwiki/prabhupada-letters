@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayadvaita ======
+====== Jayadvaita ======
 
+<card class="letter">
 Brooklyn
 
 My dear Jayadvaita,
@@ -36,3 +37,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

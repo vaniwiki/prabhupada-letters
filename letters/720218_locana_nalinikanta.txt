@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Locana, Nalinikanta ======
+====== Locana, Nalinikanta ======
 
+<card class="letter">
 Berkeley
 
 My dear Locana das, Nalinikanta, and all the boys and girls at Berkeley Center,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

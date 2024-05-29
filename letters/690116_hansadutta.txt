@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of January 12, 1969, and I have carefully noted the contents.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 NB: Enclosed is a speech which was delivered by me by means of tape recorder in a meeting held in London center with many important guests. Please hand it over to Janardana for translation into French and printing in the French edition of __Back To Godhead.__
+</card>

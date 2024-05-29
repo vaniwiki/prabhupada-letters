@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dina Bandhu ======
+====== Dina Bandhu ======
 
+<card class="letter">
 My dear Dina Bandhu dasa,
 
 Please accept my blessings. I am in due receipt of your letter dated Sept. 25, 1975 with enclosed daksina and I thank you very much. So far as name for Portland Yatra is concerned, you may call it Manipur.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

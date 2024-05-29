@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda Maharaja,
 
 Please accept my blessings. I am in receipt of your letter of November 3, 1971. Yes, you may take the 32" brass deities, along with throne and paraphernalia on your tour of many states, and in this way try very nicely to reveal to everyone everywhere you go the ecstasy of __arcana__ worship.
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda
 
+</card>

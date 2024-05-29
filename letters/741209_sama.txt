@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sama ======
+====== Sama ======
 
+<card class="letter">
 Glyndon, Maryland
 
 My dear Sama das Adhikari:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

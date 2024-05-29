@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara Maharaja ======
+====== Damodara Maharaja ======
 
+<card class="letter">
 My dear Sripada Damodara Maharaja,
 
 Please accept my humble obeisances. I am in due receipt of your letter dated 8th April, 1970, which was addressed to my New York office. I am so sorry to learn that there is a sort of conspiracy by some of our God-brothers as not to give me a place at Mayapur. I do not wish to argue on this point, but according to your advice I have already sent a telegram to Acyutananda Brahmacari and an urgent letter also requesting him to purchase the land of Jabed Ali almost a fortnight ago, but I have received no reply til now.
@@ -21,3 +22,4 @@ Hope this will meet you in good health.
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 The record which you have sent singing Sri Ram, Jaya Ram, Jaya Jaya Ram, and other Kirtana is really a new turn and we have enjoyed the record so nicely. This Narada Muni song is in your country tune and I think it will attract many more of common man to join the Kirtana so you should practice this standard Kirtana more conveniently so that during your Rathayatra festival you can have this singing with the procession.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Also inform Jayananda I have received his letter and the difficulties of life may come as seasonal changes but we should not be disturbed by all those difficulties. Our process is to chant and that process will gradually clear everything in due course. There is nothing to be disrupted---you should go on with your work with enthusiasm and everything will be solved. We are on the sound footing of Krishna Consciousness.
+</card>

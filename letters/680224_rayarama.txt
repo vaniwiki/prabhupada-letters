@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. Your letter dated Feb. 21st, duly in hand, both yourself and Brahmananda are to be thanked on behalf of Lord Krishna for your tireless endeavor to get the manuscript of Bhagavad-gita ready and for this grand work Krishna will certainly bestow His blessings upon you both. I thank you very much that you are taking care of Lord Caitanya's Teachings and get it ready for publishing as soon as possible. Regarding India, I have received letter from Acyutananda yesterday which is not very encouraging. The man who was negotiating for a nice house appears to be a con man. So, I have advised him not to open a center at Kanpur at present. So, you may not be hasty immediately for starting to India. In the meantime, I am negotiating also with Hitsaranji. He is a little busy now a days on account of two marriage ceremonies. His boss is a big industrialist and he is going to get his son and grandson married very recently. He is writing a letter that he is going to write me details after he is free from the responsibility of the marriage. Regarding buying a small printing shop, I am not very much optimistic. If you can organize a regular press for printing all our magazines and books and engage all our boys and girls in the press work that will be nice proposal, but if you purchase a small printing work where I understand even Back to Godhead cannot be published, what is the use of that press. Better we are negotiating with Hitsaranji and if we are able to open a nice center in India we shall purchase some machine from America and start a press there. In India the labor is cheaper extensively than in America. My idea is that if we are able to have a nice branch in India we can do the printing works nicely under your supervision. But, if you can start a full fledged press in N.Y. that will be still more better. A full fledged press means we must have two typographic machines at least and engage some of the girls for composition and the boys may be engaged in printing and machine manipulating. That will be a great success. If Mr. Kallman purchases a big machine for printing our books, then it will be very much helpful. I cannot advise you to purchase a small printing press because that will not help us. The same energy can be transferred to India when we are in possession of a bigger house. There is every possibility of Sharma's help in our publishing power, but that is not yet settled. As soon as I hear from him favorably I shall ask you to make direct correspondence with him. I am just waiting his favorable next reply.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: 1
+</card>

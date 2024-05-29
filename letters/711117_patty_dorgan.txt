@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Patty Dorgan ======
+====== Patty Dorgan ======
 
+<card class="letter">
 My dear Patty Dorgan,
 
 Please accept my blessings. I have received your very nice letter of October 4, 1971, and I have appreciated the contents.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

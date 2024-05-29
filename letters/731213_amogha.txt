@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Amogha ======
+====== Amogha ======
 
+<card class="letter">
 Melbourne
 
 My dear Amogha,
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
+</card>

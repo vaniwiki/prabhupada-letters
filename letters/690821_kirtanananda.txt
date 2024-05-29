@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 1975 So. La Cienega Blvd. \\
 Los Angeles, Cal. 90034
 
@@ -22,3 +23,4 @@ Please convey my blessings to the others. I hope this will meet you in good heal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

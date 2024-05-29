@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I thank you for your Vyasa Pujah Homage Telegram reading as follows received yesterday morning!
@@ -41,3 +42,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I have received no letter from you to Tokyo-address.
+</card>

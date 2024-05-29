@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prthu ======
+====== Prthu ======
 
+<card class="letter">
 My Dear Son, (Prthu Das)
 
 Please accept my blessings. Upon the recommendation of Sivananda I have gladly consented to accept you as my duly initiated disciple. Your beads have been duly chanted by me and they are sent by separate post. I have given you the spiritual name of Prthu dasa Brahmacari. King Prthu was the ideal ruler of the citizens, so you should also set the example of ideal person and spread this ideal very widely to all the citizens of your country.
@@ -19,3 +20,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

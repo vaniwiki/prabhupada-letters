@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhakta dasa ======
+====== Bhakta dasa ======
 
+<card class="letter">
 San Diego
 
 Dear Bhakta das,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

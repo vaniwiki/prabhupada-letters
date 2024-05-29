@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtiraja das Adhikary ======
+====== Kirtiraja das Adhikary ======
 
+<card class="letter">
 Kirtiraja das Adhikary\\
 BBT\\
 3764 Watseka Avenue\\
@@ -32,3 +33,4 @@ Personal Secretary\\
 Approved: ACBS\\
 (Initialed by Prabhupada)
 
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 New Vrindaban
 
 My dear Kirtanananda Maharaja,
@@ -36,3 +37,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. Our Isopanisad is now published. This excellent book of God-Consciousness should be introduced as study book for school and college students because it is so nicely explained about God-Consciousness. Any sincere gentleman serious about knowing God-Consciousness must read this book. A little education will make every one aware what is meant by God. It is a challenge to the atheists, agnostic, skeptics and gross materialists. Please get this book in quantities from Boston and try to introduce it. ACB\\
 ACBS:db
+</card>

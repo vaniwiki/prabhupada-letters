@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sacimata ======
+====== Sacimata ======
 
+<card class="letter">
 West Germany
 
 My dear Sacimata,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

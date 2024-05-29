@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Rathindranath Ganguly ======
+====== Sri Rathindranath Ganguly ======
 
+<card class="letter">
 Sri Rathindranath Ganguly\\
 13 E. Dr. N. L. Bhattacarya Rd.\\
 P.O. Srampus\\
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 
 *Here you can stay with me at least for a month and we can chalk out a programme.\\
 ACBS/hs
+</card>

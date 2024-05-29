@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudas Prabhu ======
+====== Gurudas Prabhu ======
 
+<card class="letter">
 Dear Gurudas Prabhu:
 
 Please accept my humble obeisances. Your letter to Srila Prabhupad dated October 3, 1974 in transit has been received. Srila Prabhupad affirms that he never gave you permission to leave India, but only to leave Vrindaban. You left without informing me of you intentions. Now you are asking for him to write a letter so you can collect money. But what about the monies you have already received? Where is the account? So far I know you have received from Murtidas Dollars 4,000.00; from Nanda Kumar 1700.00; from Srila Prabhupad before he left India Rs. 60,000/-, and from Karandhar Rs. 40,000/-. You must present the account of how these monies were spent before getting any facility for collecting additional funds. As GBC I must request you not to try to collect any money until you account for this money.
@@ -26,3 +27,4 @@ Personal Secretary, GBC
 -/bs
 
 Approved: ACBS
+</card>

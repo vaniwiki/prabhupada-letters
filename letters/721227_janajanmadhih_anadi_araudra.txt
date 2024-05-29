@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen) ======
+====== Janajanmadhih (Jeffrey Balawajder), Anadi (Alann Hayes), Araudra (Auda Gen) ======
 
+<card class="letter">
 Boston
 
 My dear Sons and Daughter,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

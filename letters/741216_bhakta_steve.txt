@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhakta Steve ======
+====== Bhakta Steve ======
 
+<card class="letter">
 San Francisco
 
 My dear Bhakta Steve,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

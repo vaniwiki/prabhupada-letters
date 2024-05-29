@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Carol ======
+====== Carol ======
 
+<card class="letter">
 My dear Carol,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of June 7, 1973 and I have carefully noted the contents.
@@ -28,3 +29,4 @@ ISKCON Gurukula
 Dallas, Texas
 
 ACBS/sdg
+</card>

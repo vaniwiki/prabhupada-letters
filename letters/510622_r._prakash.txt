@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: R. Prakash ======
+====== R. Prakash ======
 
+<card class="letter">
 Sri R. Prakash M.A.\\
 Officer in charge for Social Upliftment & Prohibition\\
 Department N.P. Excise,\\
@@ -92,3 +93,4 @@ Exhibition:-
 (5) Two %%___%%\\
 (6) Memorandum of association\\
 (7) Magazines %%__%% etc.
+</card>

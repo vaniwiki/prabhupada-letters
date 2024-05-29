@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yadunandana ======
+====== Yadunandana ======
 
+<card class="letter">
 New York
 
 My dear Yadunandana das Brahmacari,
@@ -19,3 +20,4 @@ Please follow the regulations and chant 16 rounds daily, at least, without any o
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

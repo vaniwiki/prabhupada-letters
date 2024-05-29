@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I am in due receipt of your letter dated Nov. 7, 1968, and I very much appreciate your sincere endeavor for preaching our Krishna Consciousness movement. I have received one letter from Dr. Athvale whom you met in Amsterdam, and he was so much pleased with your behavior and talk that he has been induced to see me at Los Angeles. A qualified disciple increases the importance of the Spiritual Master. So I find in you some good qualities. You think yourself as very humble but you appreciate the services of your God-brothers and I am very much pleased on your such behavior. I have received the news cutting. This is also very nice attempt, and by your sincere endeavor you have now got a nice house to stay free of charges till it is sold. So all this encourages me that you are doing your best, and Krishna will bless you for your noble attempt.
@@ -22,3 +23,4 @@ I hope his meets you in good health, along with Janaki, and Malati and Syamasund
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

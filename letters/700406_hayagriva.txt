@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 Sriman Hayagriva Das Adhikary \\
 ISKCON Temple\\
 318 East 20th Avenue\\
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

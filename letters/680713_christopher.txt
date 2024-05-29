@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Christopher ======
+====== Christopher ======
 
+<card class="letter">
 Santa Fe
 
 My dear Christopher,
@@ -31,3 +32,4 @@ Thanking you once more, and hope you are well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

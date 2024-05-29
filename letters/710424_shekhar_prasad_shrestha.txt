@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Shekhar Prasad Shrestha ======
+====== Shekhar Prasad Shrestha ======
 
+<card class="letter">
 Sriman Shekhar Prasad Shrestha\\
 1/111 Dharan Bazar\\
 Koshi Anchal\\
@@ -32,3 +33,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter dated July 16, as well as July 30, 1968, together through Vaikunthanatha dasa. The press cuttings were nice. Pictures appeared to be very attractive, and it is learned that it is the biggest daily paper in New England. So it is good publicity. Janmastami is to be performed on the 16th of August, and the next day is my Birthday. The feasting should be held on the 17th, so that you can finish two festivals in one---namely, Nandotsava and Vyasapuja (Spiritual Master's Birthday).
@@ -29,3 +30,4 @@ Hope you are all well, and that Jadurani is feeling little better, and she must 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

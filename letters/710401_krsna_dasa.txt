@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna dasa ======
+====== Krsna dasa ======
 
+<card class="letter">
 Hamburg
 
 My dear Krsna dasa,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

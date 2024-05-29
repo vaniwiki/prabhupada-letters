@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jennifer Lynne Davis ======
+====== Jennifer Lynne Davis ======
 
+<card class="letter">
 Los Angeles
 
 Bhakti Jennifer Lynne Davis\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

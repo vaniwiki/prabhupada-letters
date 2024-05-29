@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Amrita Patrika Newspaper ======
+====== Amrita Patrika Newspaper ======
 
+<card class="letter">
 "Amrita Patrika" Newspaper\\
 Calcutta, India\\
 Attn: Advertising Dept.
@@ -25,3 +26,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

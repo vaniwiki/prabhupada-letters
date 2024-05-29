@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I am in due receipt of your two letters; one dated July 8, 1969 and one dated July 18, 1969. Both of your letters were delivered to me by special air mail. Unfortunately I could not reply you earlier because I was waiting for the help of others. Anyway, I have signed the certificate and sent it to New York for counter signature of the president, entitling you as __Bhakti-sastri.__ The certificate was finally made a little hastily, so the printing is not to my full satisfaction. I have asked Aravinda to make a nicer copy, and if you like, we can give you this nicer copy later on. You remark that in New Vrindaban the capacity is lacking for taking care of the children. If you can organize a higher level school of theology under your care, I shall very much appreciate it. In Los Angeles, although the place is nice, it is already almost congested.
@@ -25,3 +26,4 @@ Please offer my blessings to the others. I hope this will meet you all in good h
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

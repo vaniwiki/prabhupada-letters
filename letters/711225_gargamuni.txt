@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni Maharaja,
 
 Please accept my blessings. I have replied your letter this morning; perhaps you have received it already. Now in the meantime we have received an important letter form Cox and Kings and a copy is sent herewith.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
+</card>

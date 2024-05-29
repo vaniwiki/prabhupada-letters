@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara Prabhu ======
+====== Ramesvara Prabhu ======
 
+<card class="letter">
 Los Angeles
 
 My dear Ramesvara Prabhu,
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

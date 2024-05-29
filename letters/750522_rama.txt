@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rama ======
+====== Rama ======
 
+<card class="letter">
 Melbourne
 
 My dear Rama dasa,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

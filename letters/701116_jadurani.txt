@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Daughter Jadurani,
 
 Please accept my blessings. I am in due receipt of your two letters dated October 31st and November 11th, 1970.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

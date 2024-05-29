@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 12th, 1971. Unfortunately, it did not contain the two Krishna Book samples as I believe you sent them to Madras. But that does not matter, I have understood from your letter the point you wanted to make. Krishna Book should be published with the American University students in mind. Brahmananda can not send money out of Africa, so there is no need of printing a special African edition. Instead a few copies may be sent to him and he can arrange to have them copied and printed there with the Book Fund money that is in Africa. Then he can adjust the size of the book according to the African book market. So I also agree that Krishna Book of 16 color prints plus 6x9 will be very nice.
@@ -22,3 +23,4 @@ Hoping this meets you in the best of health.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS:tkd
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna, Palika ======
+====== Yamuna, Palika ======
 
+<card class="letter">
 My dear Yamuna devi & Palika devi dasis,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of Dec. 9, 1971 & of your letters hand-delivered by Dravida das from Vrindaban. I am very glad to learn that you are both recovering your physical health & enjoying the transcendental atmosphere of Vrindaban city. I've now come to Bombay, so wherever you remain you don't forget our routine work and hold kirtana at least twice daily, morning & evening. Kirtana is our life & soul, so we must be very concerned to have it no matter where we are and no matter what circumstances are there.
@@ -25,3 +26,4 @@ I hope this will meet you both in good health & cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

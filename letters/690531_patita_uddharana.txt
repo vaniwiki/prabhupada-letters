@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Patita Uddharana ======
+====== Patita Uddharana ======
 
+<card class="letter">
 My dear Patita Uddharana,
 
 Please accept my blessings. I thank you very much for your letter post-dated May 27, 1969, and I have noted the contents with pleasure. I am pleased to note that through your influence your family is gradually taking to this sublime process of Krishna Consciousness. This is the proof of how the presence of one devotee will have an uplifting effect upon all of the people he comes in contact with, whether family members or acquaintances. I am very pleased also to note your appreciation for our __Bhagavad-gita As It Is,__ and I want that all of my students will understand this book very nicely. This will be a great asset to our preaching activities.
@@ -19,3 +20,4 @@ Please convey my blessings to the other devotees there with you. I hope this wil
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

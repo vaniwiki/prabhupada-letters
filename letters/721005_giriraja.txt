@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay
 
 My dear Giriraja,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pda\\
 P.S. Vrndavana address is Radha-Damodara Temple, Sevakunj, Vrndavana, Mathura (U.P.)
+</card>

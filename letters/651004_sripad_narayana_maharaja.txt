@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 c/o Gopal P. Agarwal\\
 415 North Main Street Apt 111\\
 BUTLER, Pennsylvania, U.S.A.
@@ -36,3 +37,4 @@ It is very expensive here. One room I found in the YMCA has a weekly rent of fif
 Today in New York, the Pope came. On television, everyone saw this. Television is an amazing thing. Just staying in one room, they can watch how the whole world is going on, and how they are all corresponding with each other. "The days are passed in vain work and the nighttimes in sleep." Here people are generally non-vegetarian. Without meat they can't eat anything. I have been taking muri (puffed rice) and peanuts with mustard oil. Somewhere I found mustard oil. Everything is available, but the price is so high. I purchased two hundred and fifty grams of mustard oil for five rupees. I had to travel to a shop twenty miles distant to get it. If you want to come to this country, reply to me.
 
 Swami Maharaja
+</card>

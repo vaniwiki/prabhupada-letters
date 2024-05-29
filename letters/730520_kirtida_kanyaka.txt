@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtida Kanyaka ======
+====== Kirtida Kanyaka ======
 
+<card class="letter">
 Los Angeles
 
 My dear Kirtida Kanyaka,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

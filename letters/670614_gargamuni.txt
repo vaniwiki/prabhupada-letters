@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I am in due receipt of your letter dated June 12 1967 and I am glad that you are being assisted by an accountant friend. I quite appreciate your endeavor, and I think the process suggested by your friend in keeping account will save much of your time. I'm glad that you are figuring trial balance every day. This is very nice. I shall be glad to see one of such trial balance---how you are doing.
@@ -17,3 +18,4 @@ So far my health is concerned, I am improving daily, but due to my weakness some
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

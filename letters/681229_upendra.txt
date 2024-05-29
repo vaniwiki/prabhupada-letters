@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I have received the copy of the article printed in the University District Herald, and I thank you very much for your nice efforts in publicizing your temple activities. You will be glad to know that just yesterday, in the Los Angeles Times there was publication of my opinion about the moon planet excursion. Such work with the local newspapers as you are nicely doing is very good. Try to agitate as far as possible our activities. Always be engaged so that maya will not disturb you. Chant Hare Krishna as many times during the day as you are able. Occupy your time in deity worship in full cooperation with Gajendra das and there will be no disturbance. As more articles are printed about your activities please continue to send them, it is encouraging to see how you are working nicely. I hope this finds you all in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

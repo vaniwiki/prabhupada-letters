@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandarani ======
+====== Nandarani ======
 
+<card class="letter">
 Los Angeles
 
 My dear Nandarani,
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 ACBS/adb\\
 P.S.I have duly received the %%__ __%%\\
 ACB
+</card>

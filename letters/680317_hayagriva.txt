@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I thank you very much for your letter dated March 9, 1968. I have come back to San Francisco on the 8th March, and while I was in Los Angeles for two months, I received the balance portion of Bhagavad-gita edited by you. I am expecting the foreword also, but I can understand that it was not yet dispatched. So, when it is prepared you can send it to me here in S.F. I am so glad to understand that you are missing the atmosphere of S.F. which you so nicely enjoyed last year, and similarly, I am also missing your company which I enjoyed last year here. Whenever I go to the class, I remember you, how joyfully you were chanting in the Temple, and whistling the bugle so nicely. Whenever I see the cornet lying idle because nobody can play on this particular instrument, I remember Hayagriva Brahmacari immediately.
@@ -27,3 +28,4 @@ I think all this news will keep you alert in Krishna Consciousness and I shall e
 
 I am Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

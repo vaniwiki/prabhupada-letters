@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 Allston, Massachusetts
 
 My dear Satsvarupa,
@@ -25,3 +26,4 @@ Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

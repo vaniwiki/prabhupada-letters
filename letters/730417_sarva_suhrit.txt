@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sarva Suhrit ======
+====== Sarva Suhrit ======
 
+<card class="letter">
 My dear Sarva Suhrit Dasa:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated and one letter from your wife dated 4.12.73 requesting sacred thread and mahamantra initiation respectively. I am expecting to go to London, and at that time I will personally initiate both of you. In the meantime you should both strictly follow the principles. This is our strength. It is not sufficient for us to just chant 16 rounds, but we must endeavor to chant offenselessly 16 rounds. Even we must be always chanting Hare Krsna, why only 16 rounds. So you are a good boy, but you just do everything carefully, never forgetting Krsna for a moment, and everything will come out for you successfully.
@@ -19,3 +20,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ratanshi Morarji Khatau ======
+====== Ratanshi Morarji Khatau ======
 
+<card class="letter">
 __Per. Registered Post with A/D.__\\
 Sri Ratanshi Morarji Khatau,\\
 Organizer of Bhagavata week (22-7-58 to 28-7-58)\\
@@ -30,3 +31,4 @@ Yours faithfully,\\
 A.C. B.
 
 Enclosure-1.
+</card>

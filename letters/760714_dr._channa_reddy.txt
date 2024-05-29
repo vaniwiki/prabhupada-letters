@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Channa Reddy ======
+====== Dr. Channa Reddy ======
 
+<card class="letter">
 340 W. 55th Street,\\
 New York, N.Y. 10019,\\
 U.S.A.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

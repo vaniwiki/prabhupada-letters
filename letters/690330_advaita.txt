@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Advaita ======
+====== Advaita ======
 
+<card class="letter">
 My dear Advaita,
 
 Please accept my blessings. I am in due receipt of your kind letter of March 25, 1969. And I have noted the contents all carefully. So far BTG, for the time being, it will be printed in Japan, so we do not require an extra hand for that purpose. At first we shall print just our books, and then if successful, we shall take to printing to the extent of 5000 copies of BTG per month. So take estimate for printing and binding machines for books only, maybe one or two a year, and save money as much as possible as it will be required to purchase the machines.
@@ -17,3 +18,4 @@ We shall talk further on all these matters when I arrive there in N.Y., and unti
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

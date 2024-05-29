@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Joy Deb Mullick ======
+====== Joy Deb Mullick ======
 
+<card class="letter">
 Joy Deb Mullick\\
 s/o Late Ratton Lall Mullick\\
 50A, Hari Chose Street\\
@@ -22,3 +23,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

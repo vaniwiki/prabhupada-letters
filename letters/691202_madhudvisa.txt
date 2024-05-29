@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your recent letter along with the posters and Sankirtana Party card. They are very nice. But this poster should never be distributed in hand. They may simple be distributed on walls. I am very pleased to learn that you are confident of obtaining the new house. It is good credit for you that since you have gone there the San Francisco branch is going to purchase one house. You nicely arrange for that. Krishna will be very much pleased upon you. Please endeavor in that way for Krishna's service. I am glad to learn that you have collected $1,400 on the Peace March there. The New York temple and all the other East Coast temples had a similar Peace March in Washington D.C. where they collected very nicely and gave to my Book Fund a contribution of $3,000. Regarding your scheme for holding a dance for collecting money, that is nice. But the devotees should not remain there after the chanting, if this is possible. Some may remain if required, but the majority may go away. I have received Jayananda's letter explaining the mistake by the bank. Please thank him for this letter. There are so many nice Vaisnavas in our San Francisco temple, so surely Krishna will bestow His blessings upon you all.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Here the Deity installation Radha-Krishna 24" high will take place from 14th to 21st Dec. 1969.
+</card>

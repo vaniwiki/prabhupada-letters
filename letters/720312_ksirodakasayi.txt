@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Ksirodakasayi ======
+====== Ksirodakasayi ======
 
+<card class="letter">
 To Ksirodakasayi:
 
 Proceed Vrindaban immediately. Await instructions.
 
 Bhaktivedanta Swami.
+</card>

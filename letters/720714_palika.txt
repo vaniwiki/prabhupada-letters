@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Palika ======
+====== Palika ======
 
+<card class="letter">
 My dear Palika,
 
 Please accept my blessings. I am in due receipt of your letter dated July 4, 1972, and I am very much pleased to hear that all the preparation for Rathayatra Festival are very nice. Regarding the Jagannatha deities, They can be placed on the altar, that is sufficient.
@@ -17,3 +18,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

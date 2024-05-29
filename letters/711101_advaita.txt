@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Advaita ======
+====== Advaita ======
 
+<card class="letter">
 My dear Advaita,
 
 Please accept my blessings. I beg to acknowledge receipt of your report of Press activities dated 7th October, 1971 and have noted the contents. Also I have received "Answers By Citing the Lord's Version" and it has come out very nice. The new binding procedure is also very good. In some pages there are printing discrepancies.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

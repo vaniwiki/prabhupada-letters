@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Navayogendra ======
+====== Navayogendra ======
 
+<card class="letter">
 Sri Devanandana Gaudiya Math\\
 Navadvipa
 
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 ACBS:dm\\
 N.B. Please offer my obeisances to Srimad Narayana Maharaja. I have not heard from him in a long time. Please request hm to find out a large piece of land perhaps with a house, between Mathura and Vrndavana, for purchasing.\\
 A.C.B.S.
+</card>

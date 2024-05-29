@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 Mayapur
 
 My dear Jayapataka,
@@ -30,3 +31,4 @@ ACBS:sda\\
 n.b. Composed matter of Gitar Gan should be sent to me as early as possible.
 
 ACBS
+</card>

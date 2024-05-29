@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Carlos Bismark ======
+====== Carlos Bismark ======
 
+<card class="letter">
 Carlos Bismark\\
 Bagiio City R.P. Philippines
 
@@ -24,3 +25,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

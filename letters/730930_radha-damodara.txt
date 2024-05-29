@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radha-Damodara ======
+====== Radha-Damodara ======
 
+<card class="letter">
 My dear Radha Damodara,
 
 Please accept my blessings. I beg to thank you for the very nice button you have sent me. Preaching work is our main business as this picture on the button shows. I pray that Krsna blesses you with all strength and intelligence to guide the Sankirtana movement ahead in Denver.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkg
+</card>

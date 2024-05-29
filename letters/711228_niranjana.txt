@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Niranjana ======
+====== Niranjana ======
 
+<card class="letter">
 My dear Niranjana Das,
 
 Please accept my blessings. I have duly received your letter to me dated 13 December, 1971. I am now in Bombay at the following address:
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS;tkd
+</card>

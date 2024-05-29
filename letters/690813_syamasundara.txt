@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 5th, 1969 and have noted the contents. When I first heard that the wheels of the car collapsed it was so great a shock to me that the whole day I was sick and morose, and now after receiving this letter and your pictures I am very much enlivened. The car was on the road and the photo is taken with a multitude of people. That is your success and as a result of this collapse you have got now the sympathy of the Indian community as well as all the people of London---so much so that next year you can timely and conveniently erect three cars like that.
@@ -27,3 +28,4 @@ Please offer my blessings to your wife and child. I hope this will meet you in g
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

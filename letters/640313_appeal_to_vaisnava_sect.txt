@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Appeal to Vaisnava Sect ======
+====== Appeal to Vaisnava Sect ======
 
+<card class="letter">
 __AN APPEAL TO THE VAISNAVA SECT AND SPECIALLY TO THE VALLABHA SAMPRADAYA OF BOMBAY AND GUJARAT.__\\
 INSERT SANSKRIT HERE
 
@@ -19,3 +20,4 @@ I am therefore appealing to the Vallabha Vaisnavites specifically to help me in 
 A.C. Bhaktivedanta Swami
 
 Enclosure :-One review by the Adyar Library Bulletin
+</card>

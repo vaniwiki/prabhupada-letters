@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayananda, Kartikeya, Syama, Dorothy, Visnujana, Dan, Tom, Russell, Michael, Krsna Devi, others ======
+====== Jayananda, Kartikeya, Syama, Dorothy, Visnujana, Dan, Tom, Russell, Michael, Krsna Devi, others ======
 
+<card class="letter">
 San Francisco
 
 My dear Jayananda, Kartikeya, Syama dasi, Dorothy, Visnujana, Dan, Tom, Russell, Michael, Krishna devi, and all my sons and daughters in San Francisco,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. Please send my stationery (like this sheet), which is lying with you there, if you have not yet done so, as we will be needing it very soon.
+</card>

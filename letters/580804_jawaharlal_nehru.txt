@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jawaharlal Nehru ======
+====== Jawaharlal Nehru ======
 
+<card class="letter">
 Pandit Sri Jawaharlal Nehru,\\
 Prime Minister of India,\\
 New Delhi-2
@@ -38,3 +39,4 @@ A.C. B.
 
 __Private letter per registered post__\\
 Enclosure:-1.
+</card>

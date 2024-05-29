@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Advaita ======
+====== Advaita ======
 
+<card class="letter">
 My dear Advaita das
 
 Please accept my blessings. I am in due receipt of your letter dated November 20, 1967.
@@ -19,3 +20,4 @@ Hope you are well.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri K. C. Kapur ======
+====== Sri K. C. Kapur ======
 
+<card class="letter">
 Sri K.C. Kapur\\
 Kanpur
 
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

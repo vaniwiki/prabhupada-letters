@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagadisa ======
+====== Jagadisa ======
 
+<card class="letter">
 Dallas
 
 My dear Jagadisa dasa:
@@ -31,3 +32,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

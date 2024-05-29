@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Raktaka ======
+====== Raktaka ======
 
+<card class="letter">
 My dear Raktaka,
 
 Please accept my blessings. I thank you very much for your letter of May 26, 1969, sent along with your beads. I have duly chanted upon these beads and have initiated you as my disciple. Your spiritual name is Raktaka das Brahmacari. Raktaka is a cowherd boyfriend of Krishna. I am very pleased that you have become very attracted to and serious about this Krishna Consciousness Movement. As you continue to follow the regulative principles and thereby as you continue to advance in your understanding of Krishna Consciousness, you will find that your attraction for Krishna and spiritual life will increase more and more. The main regulative principles for brahmacari life are four in number, and they are 1) no illicit sexual connections, 2) no intoxication, including coffee, tea and cigarettes, 3) no nonvegetarian diet, and 4) no gambling. So if you will follow these principles, chant 16 rounds each day upon your beads, avoid the ten offenses which Hansadutta will give to you, and help propagate this chanting of Hare Krishna as far as possible, then you will see your life becoming more and more sublime. From your letter I can understand that you are an intelligent boy, so now you may make the best use of your intelligence in perfecting your life in Krishna Consciousness. Please continue to be very serious about this endeavor, and surely Krishna will give you all facilities for serving Him nicely. If you have any further questions you should ask Hansadutta, or if you like, I am always ready to help you in whichever way I can.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

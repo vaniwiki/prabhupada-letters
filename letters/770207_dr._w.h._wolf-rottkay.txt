@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. W.H. Wolf-Rottkay ======
+====== Dr. W.H. Wolf-Rottkay ======
 
+<card class="letter">
 12915 Venice Blvd. Apt 37 L.A., Ca.
 
 P.O. Sree Dham Mayapur\\
@@ -24,3 +25,4 @@ Your good friend Swarupa Damodar has been with me recently, and we are going to 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Turiya (Alice Coltrane) ======
+====== Turiya (Alice Coltrane) ======
 
+<card class="letter">
 Turiya (Alice Coltrane)\\
 c/o Ramesvara Swami\\
 ISKCON\\
@@ -47,3 +48,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

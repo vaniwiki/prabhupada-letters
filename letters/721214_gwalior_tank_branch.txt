@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gwalior Tank Branch ======
+====== Gwalior Tank Branch ======
 
+<card class="letter">
 Dear sir,
 
 Re. Our Account No. 14538
@@ -25,3 +26,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

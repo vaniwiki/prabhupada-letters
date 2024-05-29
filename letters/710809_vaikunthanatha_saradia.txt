@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vaikunthanatha, Saradia ======
+====== Vaikunthanatha, Saradia ======
 
+<card class="letter">
 Trinidad
 
 My dear Vaikunthanatha and Saradia,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

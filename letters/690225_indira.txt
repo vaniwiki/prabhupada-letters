@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Indira ======
+====== Indira ======
 
+<card class="letter">
 My dear Indira,
 
 Please accept my blessings. I am in due receipt of your letter dated February 14, 1969, along with the very nice pictures you have sent to me. I thank you very much for this and I am always very pleased with your sincere efforts to serve Krishna.
@@ -19,3 +20,4 @@ I hope this will meet you in very good health and cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

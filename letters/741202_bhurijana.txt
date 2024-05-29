@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhurijana ======
+====== Bhurijana ======
 
+<card class="letter">
 Melbourne
 
 My dear Bhurijana das:
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagadisa ======
+====== Jagadisa ======
 
+<card class="letter">
 My dear Jagadisa,
 
 Please accept my blessings. Enclosed please find your prayer beads which I have chanted one round upon and initiated you with. Your spiritual name is Jagadisa das Brahmacari. Jagadisa means Lord Jagannatha, the Lord of the Universe.
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 P.S. I have not heard anything from Rupanuga since a long time.
 
 ACB
+</card>

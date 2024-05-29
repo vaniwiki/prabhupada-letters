@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jay Krishna Thakura ======
+====== Jay Krishna Thakura ======
 
+<card class="letter">
 Sriman Jaya Krishna Thakura B.Se., Ll.B\\
 3 Locket Road\\
 Wealdstone\\
@@ -28,3 +29,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I have arranged to start for India tomorrow by Air India, and Kirtanananda is accompanying me. Krishna willing, we shall reach Delhi next Monday morning.
@@ -21,3 +22,4 @@ I shall let you know my arrival news from India. Hope this will find you all rig
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

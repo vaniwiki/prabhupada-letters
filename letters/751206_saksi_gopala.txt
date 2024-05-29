@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saksi Gopala ======
+====== Saksi Gopala ======
 
+<card class="letter">
 My dear Saksi Gopala Prabhu,
 
 Please accept my blessings. I beg to acknowledge receipt of your nicely decorated letter. Thank you very much. From your letter it appears that you are a little confused. This means that the consciousness is not clear, __brahma-bhutah prasannatma, na socati na kanksati__ [[books:bg:18:54|(Bg. 18.54)]], the clear stage of consciousness is free from hankering and lamentation. As long as we are on the material platform, bodily conception of life we will hanker for so many things required for material supremacy. Therefore to clear this cloudy consciousness Caitanya Mahaprabhu recommended that one should simply chant the Holy name of God sincerely and hear it with attention. To chant dance, take prasadam and be happy. Marriage is not recommended. Are you prepared to get a job, live outside the temple in apartment, provide the wife with bangles saris and sex? Better you concentrate on this chanting and hearing process, teach others and give them prasadam. So you and Bhumadeva are doing this already, now be steady and increase it more and more. Hansadutta will guide you in this engagement, he is there to help you execute your program.
@@ -19,3 +20,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

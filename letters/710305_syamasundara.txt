@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 Bombay
 
 My dear Syamasundara,
@@ -20,3 +21,4 @@ Hoping you are all well.
 A.C. Bhaktivedanta Swami
 
 P.S. Why have you not sent the Articles of Association of the society? It is very urgent. Please send immediately. Also please send 25 copies of the membership information pamphlets. ACB
+</card>

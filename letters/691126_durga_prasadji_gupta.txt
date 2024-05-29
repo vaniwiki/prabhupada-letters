@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Durga Prasadji Gupta ======
+====== Durga Prasadji Gupta ======
 
+<card class="letter">
 Sri Durga Prasadji Gupta, Asst. Manager\\
 GITA PRESS\\
 P.O. Gita Press, Gorakhpur\\
@@ -20,3 +21,4 @@ Sri Jayadayal Dalmia has requested me to send you our edition of __Bhagavad-gita
 
 Yours truly,\\
 A.C. Bhaktivedanta Swami
+</card>

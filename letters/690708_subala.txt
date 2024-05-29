@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala das,
 
 Please accept my blessings hundreds upon hundreds of times for your successful attempt. I appreciate your service very much. Now organize the center in Philadelphia very nicely as you have got a good place, and it will be my pleasure to visit whenever there is an opportunity. Now you will have good assistance in the persons of Lalita Kumar and Gopinatha, and if you require more men, you can ask Tamala Krishna and he will help you. The LA center is now specially meant for training devotees and dispatching them in different centers wherever they are required. So open correspondence with Tamala Krishna, and I also will tell him to assist you as far as possible.
@@ -17,3 +18,4 @@ Regarding your arrest by the police, it was Krishna's desire, so that it is now 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Ranadhir ======
+====== Ranadhir ======
 
+<card class="letter">
 My dear Ranadhir das,
 
 Please accept my blessings. I thank you very much for your long letter of Nov. 15, and I have noted the contents with great care. Yes, I have duly chanted on your beads, and they are sent herewith, and your spiritual name is now Sriman Ranadhir das Brahmachary. Ranadhir is name of Krishna, meaning One Who is very sober, very undisturbed and cool-headed in executing fighting, warfare. You can see from Bhagavad Gita how Krishna is very undisturbed in the midst of the fighting, simply giving instructions do this or do that, but not affected by the clamor of the warfare.
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *Consult with Hayagriva in this matter & do the needful.
+</card>

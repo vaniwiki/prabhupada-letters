@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nityananda ======
+====== Nityananda ======
 
+<card class="letter">
 My dear Nityananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 3, 1971, and I am very happy to hear that you have got a new son to raise as a great devotee of Krishna. You may call him Bhakta Vimal Das. So long as a devotee is not initiated he should have Bhakta before his name, if he is a male, Bhaktin if she is a girl.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

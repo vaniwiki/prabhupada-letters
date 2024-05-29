@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 23rd, 1969 with enclosures. I shall keep the letter of Mr. Manu Vora in my file. The composition which you have sent me, although it is incomplete, it appears to be nice. I do not find any mistake in the composition, but sometimes you have spelled Caitanya as Caitanya, and sometimes you have spelled it Caitanya. so why there should be two different spellings? On page #3 you will find this difference. Otherwise, I do not find any difficulty. Regarding __Isopanisad,__ I have no books here with me, so I cannot actually refer to the book what is Mantra #9. This is the difficulty of editorial work. I do not know in the absence of the book how I can help you. But the way of English synonyms given by you on page #3, under heading "Sri Isopanisad English Synonyms, Invocation and Mantras I-V" is set up very nicely. If you follow this principle throughout in all our books, it will be very, very nice, super-excellent work. But if you sometimes refer me on my touring program, it will be difficult for me. Of course, after my return from Europe I am sitting down tight for book work, and then it will not be very difficult job for me if you refer any sentence for correction. In the meantime, I think you are doing nicely. Just pray Krishna and do your best.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. In every page the name of the book over the left page and the subject matter on the head of the right page must be mentioned.
+</card>

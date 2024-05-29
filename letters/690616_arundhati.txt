@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Arundhati ======
+====== Arundhati ======
 
+<card class="letter">
 My dear Arundhati,
 
 Please accept my blessings. I am in due receipt of your letter dated June 11, 1969, and I have noted the contents carefully. Regarding your question about offering Prasadam, whatever is offered to the Deity actually it goes through the Spiritual Master. The Spiritual Master offers to Lord Caitanya, and Lord Caitanya offers it to Krishna. Then Radha Krishna eats, or Jagannatha eats, then Caitanya Mahaprabhu eats, then the Spiritual Master eats, and it becomes Mahaprasadam. So when you offer something, you think like that and chant the Gayatri mantra, and then everything is complete. At last, ring the bell, take out the plate and wipe the place where the plate was kept.
@@ -23,3 +24,4 @@ Please convey my blessings to Jaya Gopala and the others. I hope this will meet 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

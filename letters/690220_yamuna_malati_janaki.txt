@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Yamuna, Malati, Janaki ======
+====== Yamuna, Malati, Janaki ======
 
+<card class="letter">
 My dear little mothers, Yamuna, Malati, Janaki,
 
 Please accept my blessings. I lost my mother when I was only 14 years old. So I didn't get much of my mother's affection in my childhood. But in my old age, Krishna has given me so many young mothers to take care of me. Another mother Govinda Dasi is there in Hawaii. She is always asking me to go there. So I will go there within this month. But my one appeal is to my fathers and mothers
 
 [TEXT MISSING]
+</card>

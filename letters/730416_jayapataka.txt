@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka Maharaja:
 
 Please accept my blessings. With regard to the Mayapur house I may suggest that you make one roof garden. On the top of the house you can put soil of six inches and then plant so many tulsi plants and nice bushes. I like garden very much. Just like here in Los Angeles Temple they have made one very nice garden for me and I sit there every evening. So you please also make a first class Mayapur garden.
@@ -20,3 +21,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 Please report how far the construction is completed.
+</card>

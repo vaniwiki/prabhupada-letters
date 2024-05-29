@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia ======
+====== Mr. Himtsinh J. Bhatia, Mrs. Manjula H. Bhatia ======
 
+<card class="letter">
 Sri Himtsinh J. Bhatia and\\
 Srimati Manjula H. Bhatia\\
 P.O. Box 82855\\
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

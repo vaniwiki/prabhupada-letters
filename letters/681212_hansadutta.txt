@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I am in due receipt of your letters of December 4th and December 7th, 1968 and also I have received the beautiful first edition of Back To Godhead in the French language. This is a great joy to me to see such publication being printed so nicely and my heartfelt thanks are due to Janardana, Dayala Nitai, Vaikunthanatha, yourself and your wife, along with all the others who have helped to make this publication come so expertly. Such French edition was my great ambition and now that you have achieved success, I request you all to improve it continually so the French speaking people will have opportunity to take advantage of our Krishna Consciousness movement.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Improve the Prasadam program as nicely as possible.
+</card>

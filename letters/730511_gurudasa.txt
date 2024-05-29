@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 Vrindaban
 
 My dear Gurudasa,
@@ -25,3 +26,4 @@ Hoping this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

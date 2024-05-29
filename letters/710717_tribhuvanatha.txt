@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tribhuvanatha ======
+====== Tribhuvanatha ======
 
+<card class="letter">
 London
 
 My dear Tribhuvanatha,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

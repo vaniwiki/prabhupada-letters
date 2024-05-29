@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 26, 1969, and I have carefully noted the contents. I am very pleased to learn that the entire first canto should be completely edited by March 8th, and I am also glad to hear that your Lord Caitanya play is at last completed. From what I have gone through of this play I could see that it is very well done, simply it is a little prolonged. Otherwise it is very nice. I hope that when we start our own press we shall get this book printed.
@@ -33,3 +34,4 @@ A.C. Bhaktivedanta Swami
 P.S. You know Dr. Haridasa Chondhery of San Francisco. He writes as follows:---"I am delightful to receive your affectionate gift of 'The Bhagavad-gita As It Is.' Whenever I find some time, I read a little from it. __The book is without doubt the best presentation so far to the western public of the teachings of Lord Krishna__---the standpoint of the Vaisnava tradition of India . . . etc."
 
 Actually it is so. Now we have to make some propaganda work to convince the different colleges and universities to read this real form of B.G. to the Western Public.
+</card>

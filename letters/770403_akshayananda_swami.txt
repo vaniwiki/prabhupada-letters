@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Akshayananda Swami ======
+====== Akshayananda Swami ======
 
+<card class="letter">
 ISKCON – Vrindaban
 
 Hare Krishna Land\\
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

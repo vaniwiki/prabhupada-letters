@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara Prabhu,
 
 Please accept my humble dandabats. I understand from a letter of Upendra Brahmacari in Seattle that you have inquired about me from him after your return from Vrindaban. I welcome your suggestion to open a branch of our Iskcon society in Bombay, and you want to help me in this connection. There are two of my disciples in Vrindaban. I do not know if you met them while you were there, and I am awaiting for their letters because one of them was recently advised to go to our German center in Hamburg. Please, therefore, let me know of your suggestions how to open a branch of our Iskcon society in Bombay. If it is possible to get a place free of charge for holding kirtana and discussing on the __Bhagavad-gita__ in some quarter where there are mostly English-speaking people, that will be very much convenient. So if you can find out some suitable place for holding English classes along with short kirtanas please let me know immediately. While expecting your good suggestions of what to do in this matter I am also thinking of it and will let you know in my next letter.
@@ -19,3 +20,4 @@ Regarding the mrdangas, certainly you have already given me some quotations but 
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
+</card>

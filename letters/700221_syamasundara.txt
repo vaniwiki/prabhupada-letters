@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 London
 
 My dear Syamasundara,
@@ -42,3 +43,4 @@ A.C. Bhaktivedanta Swami
 
 *This ceremony you can observe by bathing a small deity on the day participated by all devotees. But there is no need of closing the temple for fifteen days. ACB\\
 ACBS:db
+</card>

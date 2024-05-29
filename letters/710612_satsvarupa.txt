@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to thank you very much for your letter dated 28th May, 1971 and have noted the contents. You should know that you are always with me. I am always thinking of you and your service. So there is no question of you being separated from me at any time. And you will be glad to know that very soon I am coming to Boston for installing the Deities. Recently I am in Bombay and will be leaving for Moscow on the 20th instant. I shall remain there for five days and from there go Paris and London, where I will participate in the Rathayatra festival.
@@ -29,3 +30,4 @@ Please offer my blessings to the others there. Hoping this will meet you in good
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

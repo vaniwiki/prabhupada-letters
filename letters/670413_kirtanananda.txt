@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 IHA YASYA HARER DASYE KARMANA MANASA VACHA.\\
 MIKHILESVAPYAVASTHASU JIVAN MUKTA SA UCYATE,\\
 by work, words & mind.
@@ -37,3 +38,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosures: 7
+</card>

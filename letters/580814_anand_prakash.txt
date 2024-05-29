@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Anand Prakash ======
+====== Anand Prakash ======
 
+<card class="letter">
 Sri Anand Prakash,\\
 c/o Rai Sahib Madho Ram & Sons,\\
 Nai Sarak,\\
@@ -33,3 +34,4 @@ I wish that a personality like you may accept the head man ship of this institut
 I hope you will take the matter very seriously and do some practical service for the satisfaction of the Lord.
 
 Yours faithfully,
+</card>

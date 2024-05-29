@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: B. N. Jariwala ======
+====== B. N. Jariwala ======
 
+<card class="letter">
 Sri B. N. Jariwala\\
 Windsor Hotel\\
 20 6th Street\\
@@ -26,3 +27,4 @@ I thank you very much once more for your nice letter, and appreciation of my act
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

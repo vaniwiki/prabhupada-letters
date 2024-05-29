@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uddhava ======
+====== Uddhava ======
 
+<card class="letter">
 My dear Uddhava,
 
 Please accept my blessings. I am in due receipt of your letter dated February 25, 1969, and I thank you so much for it. Regarding the pictures in __Back To Godhead__ which you are learning to photograph, they will be of all kinds. When possible we will have nice paintings published, and other times there will be photographs of our devotees and their activities.
@@ -23,3 +24,4 @@ Thanking you again for your nice letter. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

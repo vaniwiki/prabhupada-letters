@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurukrpa ======
+====== Gurukrpa ======
 
+<card class="letter">
 Tokyo
 
 My dear Gurukrpa Swami:
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

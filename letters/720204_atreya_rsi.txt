@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Atreya Rsi ======
+====== Atreya Rsi ======
 
+<card class="letter">
 My dear Atreya Rsi,
 
 Please accept my blessings. I am in due receipt of your very nice letter of January 10, 1972, and I am very much pleased by the sentiments expressed therein. It is not so much that because there may be some faults in our godbrothers and godsisters, or because there may be some mismanagement or lack of cooperation, that this is due to being impersonalists, no. It is the nature of the living condition to always have some fault. Even in the Spiritual World there is some fault and envy---sometimes the Gopis will quarrel over Krishna's favor, and once Krishna was so much attracted to Radharani that by mistake he tried to milk the bull instead of the cow, and sometimes when the Gopis used to put on their dress and make-up for seeing Krishna, they would be too much hasty and smear kumkum and mascara in the wrong places and their ornaments and dresses would appear as if small children had been trying to dress themselves and they were not very expert, like that. There are so many examples. But it is not the same as material fault or material envy, it is transcendental because it is all based on Krishna. Sometimes when one Gopi would serve Krishna very nicely, the others would say, Oh, she has done so nicely, now let me do better for pleasing Krishna. That is envy, but it is transcendental, without malice. So we shall not expect that anywhere there is any Utopia. Rather, __that__ is impersonalism. People should not expect that even in the Krishna Consciousness Society there will be Utopia. Because devotees are persons, therefore there will always be some lacking---but the difference is that their lacking, because they have given up everything to serve Krishna---money, jobs, reputation, wealth, big educations, everything---their lackings have become transcendental because, despite everything they may do, their topmost intention is to serve Krishna. "One who is engaged in devotional service, despite the most abominable action, is to be considered saintly because he is rightly situated." The devotees of Krishna are the most exalted persons on this planet, better than kings, all of them, so we should always remember that and, like the bumblebee, always look for the nectar or the best qualities of a person. Not like the utopians, who are like the flies who always go to the open sores or find the faults in a person, and because they cannot find any utopia, or because they cannot find anyone without faults, they want to become void, merge, nothing---they think that is utopia, to become void of personality. So if there is sometimes slight disagreements between devotees, it is not due to impersonalism, but it is because they are persons, and such disagreements should not be taken very seriously. The devotee is always pessimistic about the material world, but he is very optimistic about the spiritual life; so in this way, you should consider that anyone engaged in Krishna's service is always the best person.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:sda
+</card>

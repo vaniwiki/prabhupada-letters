@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cidananda ======
+====== Cidananda ======
 
+<card class="letter">
 Santa Cruz
 
 My dear Cidananda das:
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs/hdb\\
 P.S. If you can remain a Brahmacari that is the best way of life.
+</card>

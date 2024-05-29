@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 8th January, 1971 and have noted the contents. Yes, you may like to know that I shall be returning to the U.S.A. by the first week of April. There are so many devotees who have been recommended for initiations by the temple presidents. So when I return I shall initiate them all. At that time, Nolen Prabhu may also become initiated by me. He certainly sounds qualified. Please offer him my blessings and thank him very much for his very kind letter enclosed along with yours.
@@ -19,3 +20,4 @@ Please offer my blessings to Tosana Krsna, Patita Pavana, Nolen, Rot, Robert, Ro
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

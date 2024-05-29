@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Adi Kesava Swami ======
+====== Adi Kesava Swami ======
 
+<card class="letter">
 ISKCON\\
 340 W. 55th Street\\
 New York City 10009 USA
@@ -26,3 +27,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

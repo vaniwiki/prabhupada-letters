@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayasri ======
+====== Jayasri ======
 
+<card class="letter">
 My dear Jayasri Dasi,
 
 Please accept my blessings. I thank you very much for your letter of May 5th, 1969, sent along with your beads, and I have duly chanted upon them and initiated you as my student. Your name, Jayasri Dasi, means victory, and if you will simply continue to develop your Krishna Consciousness by following the rules and regulations, then surely your life will be very victorious in defeating all contaminations of the material world and in returning back to Home, back to Godhead in the Spiritual Kingdom. Our process is to faithfully follow the rules of no illicit sex-life, no meat-eating, no intoxication, and no gambling. Also we should chant at least 16 rounds each day, trying to avoid the ten offenses. You have very nice association with your godbrothers and godsisters there with you in Hawaii, and you should help them to propagate our movement in that area. So consult with Gaurasundara and Govinda, and there will be ample engagement for you in this connection. When any questions or difficulties arise, you may consult with them there, or if you like, I am always at your service to help in any way that I can. So now you have great opportunity to make perfection of your life, and my request to you is to be very serious always about this and Krishna will give you all facilities for advancement.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

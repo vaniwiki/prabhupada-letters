@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Unknown ======
+====== Unknown ======
 
+<card class="letter">
 ISKCON RADHA KRISHNA TEMPLES AT: 411-B W. Water Street, Santa Fe, New Mexico; 26 Second Avenue, New York, N.Y.; 95 Glenville Avenue, Allston, Mass.; 3720 Park Avenue, Montreal, Quebec, Canada; 5364 W. Pico Blvd., Los Angeles, Cal.: c/o Mr. Lal Goel; 53 Englewood Avenue, Buffalo, New York, 14214; Acyutananda Brahmacari; c/o radha Press; 993/3 Main Road/ Gandhi Nagar; Delhi 31, India; Atlantic City (send copy to Brahmananda and he will forward it to Atlantic City, as we have not got their address.)
 
 Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

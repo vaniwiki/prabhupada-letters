@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsnanandini ======
+====== Krsnanandini ======
 
+<card class="letter">
 Cleveland
 
 My dear Krsnanandini devi dasi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

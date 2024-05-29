@@ -8,6 +8,7 @@
 
 ====== Resolution ======
 
+<card class="letter">
 Gandhi Gram Road, Juhu, Bombay 54
 
 RESOLUTION
@@ -22,3 +23,4 @@ At the meeting of the members of the Bureau of the International Society for Kri
 A.C. Bhaktivedanta Swami\\
 \\
 Gurudas Adhikari
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Pillai ======
+====== Sri Pillai ======
 
+<card class="letter">
 ABC Model House\\
 Bombay
 
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

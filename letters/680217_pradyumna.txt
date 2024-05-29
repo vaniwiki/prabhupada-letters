@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I have received the transliteration of Brahma Samhita and also your letter of February 14, 1968. I am very much pleased with the nice job you have done.
@@ -20,3 +21,4 @@ Regarding the book list: "Lord Gauranga" by S.K. Ghose and Veder Panchaya by Bon
 I am glad to know that you are working hard to expand the Krishna Consciousness propaganda in Boston. I may say that this practical devotion is the secret to understanding the Sastras. My Guru Maharaja used to say that for one who is not engaged in devotional service, reading all the books is simply like licking the outside of the honey jar. One who thinks the books is the thing is content in this way. But we should learn the secret to open the jar and taste the honey. In this way, if we can simply understand one book, or one sloka, the perfection is there. Lord Caitanya warned about reading too many books, although I see in America this is very popular to get volumes and volumes of books and not understand one. Anyway by sincerely working by carefully executing the instructions of the Spiritual Master, you will be all successful by Krishna's Grace. I am always praying to Krishna for your advancement in Krishna Consciousness, all of you, sincere souls. Hope you are all well.
 
 Your ever well-wisher,
+</card>

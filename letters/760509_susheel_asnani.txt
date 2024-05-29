@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Susheel Asnani ======
+====== Susheel Asnani ======
 
+<card class="letter">
 Bombay
 
 My dear Sriman Susheel Asnani,
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 n.b. Please find one U.S. postage stamp enclosed for your son.
+</card>

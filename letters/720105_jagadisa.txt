@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagadisa ======
+====== Jagadisa ======
 
+<card class="letter">
 My dear Jagadisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 20th, 1971.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
+</card>

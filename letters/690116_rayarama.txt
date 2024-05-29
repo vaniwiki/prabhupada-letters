@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter of January 10, 1969, and I have noted the contents with care. I am so glad to hear that you were enjoying your visit in Los Angeles last week, and you should know that I was similarly very glad to have you here with me. As you are sick with the flu now, I think it best that you do not exert yourself by working too much strenuously but rather you rest as much as possible until you are feeling better.
@@ -20,3 +21,4 @@ Thanking you once more for your letter. I hope this finds you improving in your 
 A.C. Bhaktivedanta Swami
 
 * I have received one letter from Jaya Govinda which suggests that he and Acyutananda are being poisoned like Hrsikesa. Will you send me the last letter of Jaya Govinda which you have said is not very good. Will you send it to me? ACB
+</card>

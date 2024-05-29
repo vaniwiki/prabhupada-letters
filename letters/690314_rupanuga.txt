@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated the third of March, 1969, and I think I shall be able to go to your center from Boston. There is an important engagement in Boston on the 24th April, and perhaps next on the 29th and I think after finishing these I can go to your place. So you can fix up your program in consultation with Satsvarupa. The idea of inviting everyone to Sankirtana in a larger meeting hall is very good. Instead of attending small groups of meeting, we can arrange to assemble them at one place---that will be less laborious and more convenient for us.
@@ -39,3 +40,4 @@ I hope this meets you all in good health, and I shall be looking forward to seei
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

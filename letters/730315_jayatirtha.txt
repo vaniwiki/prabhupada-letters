@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayatirtha ======
+====== Jayatirtha ======
 
+<card class="letter">
 My dear Jayatirtha,
 
 Please accept my blessings. I beg to acknowledge of your letter dated March 7th.
@@ -29,3 +30,4 @@ Hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

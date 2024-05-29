@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 [To Tamala Krsna]\\
 Bombay
 
 ARRIVING AIR INDIA FLIGHT 108 3.25 AM SATURDAY 15th:
 
 BHAKTIVEDANTA SWAMI
+</card>

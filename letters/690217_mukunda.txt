@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I thank you for your letter dated February 10, 1969, and I am very glad to learn that your Sankirtana Party is taking shape, and you hope to inaugurate the on the streets program in a few weeks. Now you should also start program for selling our __Back To Godheads__ along with the Sankirtana as Tamala Krishna is doing here. Along with Sankirtana Party, they are selling daily not less than 100 copies. Sometimes the sale is 120-30 copies. Besides that, Purusottama is distributing __Back To Godhead__ to some distributer in Los Angeles. My next program is to distribute at least 20,000 copies of Back To Godhead from four centers, namely New York, London, Los Angeles, and San Francisco. So each of these centers will contribute $750 and they will get 5,000 copies free delivery to destination. That means they will get the copies at 15 cents each, and the price fixed up will be 50 cents. So even by wholesale distribution the centers will get at least 30 cents per copy, and that means a 15 cents profit. If all the 5,000 copies are not sold, then we shall distribute the remaining copies to schools, colleges, libraries, institutions, etc. free of charges. This propaganda has to begin __immediately.__ Please let me know your opinion. Los Angeles has already agreed, and I am very much encouraged. I hope you will also agree and encourage me. So on receipt of your confirmation, I shall immediately arrange for printing 20,000 copies beginning from the latest April, 1969.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I have just received one letter from Gurudasa but have received no copy of the Police order.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prthu Putra ======
+====== Prthu Putra ======
 
+<card class="letter">
 Vrndavana
 
 Dear Prthu Putra Maharaja,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

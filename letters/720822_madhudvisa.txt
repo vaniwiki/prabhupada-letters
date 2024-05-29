@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I am in due receipt of your note along with the letter of Sriman Des Louragan, and upon your recommendation, I have gladly consented to accept him as my duly initiated disciple, and to give him Gayatri mantra also. His beads have been duly chanted by me and they have been sent under separate post. Now you can hold a fire yajna for these two boys and give gayatri mantra to Des (Gaura Sakti das). Show him how to count on the finger divisions, and then hang the thread over his shoulder in the proper way, after he has repeated, word for word, the mantra as I intone it on the tape. The tape should be heard through earphones into the right ear.
@@ -17,3 +18,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

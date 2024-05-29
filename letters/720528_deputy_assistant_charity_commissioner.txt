@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Deputy/Assistant Charity Commissioner ======
+====== Deputy/Assistant Charity Commissioner ======
 
+<card class="letter">
 The Deputy/Assistant Charity Commissioner,\\
 Greater Bombay Region,\\
 BOMBAY-1.
@@ -19,3 +20,4 @@ Sri Giriraja Das Brahmacari our Co-trustee has applied for the registration of T
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami
+</card>

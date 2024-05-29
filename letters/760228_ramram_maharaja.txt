@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: RamRam Maharaja ======
+====== RamRam Maharaja ======
 
+<card class="letter">
 Sanskrit Vidyapith\\
 Ajmer, Rajasthan
 
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/dda\\
 cc Gopala Krishna das
+</card>

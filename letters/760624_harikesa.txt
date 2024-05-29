@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harikesa ======
+====== Harikesa ======
 
+<card class="letter">
 Frankfurt
 
 My dear Harikesa Maharaja,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 n.b. when there is such language difficulty as was found in Yugoslavia in that press interview, then we should not give interview. Stop all this bad practice. No interpretation. Otherwise what is the use?
+</card>

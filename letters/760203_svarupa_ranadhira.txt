@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Svarupa, Ranadhira ======
+====== Svarupa, Ranadhira ======
 
+<card class="letter">
 Los Angeles
 
 My dear Svarupa and Ranadhira,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. The large blow-ups of the reviews are most important.\\
 ACBS/tkg
+</card>

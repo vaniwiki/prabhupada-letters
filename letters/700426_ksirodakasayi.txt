@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Ksirodakasayi ======
+====== Ksirodakasayi ======
 
+<card class="letter">
 My dear Ksirodakasayi,
 
 Please accept my blessings. Since a long time I have not heard from you. I hope you are well in Krishna Consciousness. Please let me know what you are doing. I am anxiously awaiting your reply.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

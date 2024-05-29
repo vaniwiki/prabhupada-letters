@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nara-narayana ======
+====== Nara-narayana ======
 
+<card class="letter">
 Boston
 
 My dear Nara Narayana,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Catur Murti ======
+====== Catur Murti ======
 
+<card class="letter">
 My dear Catur Murti das,
 
 Please accept my blessings. I am in due receipt of your letter dated 6th August 1976 and your very nice donation. Your desire to please me is very pleasing and your preaching program in Spain sounds very nice. Please push on this movement in the Spanish and Portuguese languages with great enthusiasm and certainly Krsna will bless you for taking so much trouble to preach His glories. A Vaisnava always feels himself incapable to repay his debt to his spiritual master therefore he works very hard in order to try and repay that debt. He knows that without the mercy of the spiritual master one cannot preach this Krsna consciousness and therefore he always tries to act in such a way that he may please his guru. Please continue in this way and keep very strictly the regulative principles and chanting the prescribed number of rounds on the beads and you will clear the way for success in your preaching work.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/yd
+</card>

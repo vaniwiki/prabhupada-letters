@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Punjab National Bank ======
+====== Punjab National Bank ======
 
+<card class="letter">
 Resolution
 
 At the meeting of the members of the Bureau of the International Society for Krishna Consciousness held at their Head Office at the Hare Krishna Land, Juhu, Bombay on the 19th November, 1974, the following resolved:
@@ -24,3 +25,4 @@ Brahmananda Swami
 Datted this 19th Day of November, 1974
 
 -/bs
+</card>

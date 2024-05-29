@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nrhari ======
+====== Nrhari ======
 
+<card class="letter">
 My dear Nrhari Das,
 
 Please accept my blessings. I am in due reciept of your letter dated September 27th, 1974 from San Diego. I have also received the photograph of your new son Mahaprabhu Das and he appears to be very nice so keep him carefully and raise him in Krishna Consciousness and your life will be successful. I am forwarding your letter to Hrdayananda Swami. The contents of your letter are very complicated and I hope that he can settle this matter peacefully. It appears that you do not have to pay back these debts, anyway you should all work this out amongst yourselves.
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. I understand that you are translating "Bhagavad-gita As it Is". Please continue this work and Krishna will bless you. I want to see that my literature is widely distributed. In Spanish language there is great scope for distributing our literature and preaching to the people of South America\\
 ACBS/BS/vdd
+</card>

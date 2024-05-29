@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Elaine ======
+====== Elaine ======
 
+<card class="letter">
 Dallas
 
 Dear Elaine,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

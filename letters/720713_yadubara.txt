@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yadubara ======
+====== Yadubara ======
 
+<card class="letter">
 Bombay
 
 My dear Yadubara,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

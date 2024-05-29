@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of The Bank of Baroda ======
+====== Manager of The Bank of Baroda ======
 
+<card class="letter">
 Manager\\
 The Bank of Baroda\\
 Chandni Chowk\\
@@ -23,3 +24,4 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/pdb
+</card>

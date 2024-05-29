@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I am in due receipt of your letter of November 20th and it has given me great satisfaction to see how the London center is progressing nicely. All six of my disciples which I have sent to London are very sincere servants of Krishna and you simply remember to continue in this way and your activities will continue to bring nice results. When we remember always to have unflinching faith in the spiritual master and the message of Krishna then automatically we become free from the attacking Maya. In the material concept also everyone is trying to avoid the onslaughts of Maya but with no success. To the sincere devotee, however, this ocean of maya is easily crossed by the cool breeze of Krishna's Grace. So this is our business, to submit to Krishna's desire to have us back with Him in the eternal sky of Krishna Loka. And when we are determined in this way we become transcendental to the so-called hardships of place and circumstance.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. The names you have suggested as floating members, are welcome.
+</card>

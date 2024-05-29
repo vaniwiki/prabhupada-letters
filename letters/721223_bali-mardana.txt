@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali-mardana ======
+====== Bali-mardana ======
 
+<card class="letter">
 New York
 
 My dear Bali Mardan,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 *So please do not touch this fund. This is required for M.V. Trust immediately.
+</card>

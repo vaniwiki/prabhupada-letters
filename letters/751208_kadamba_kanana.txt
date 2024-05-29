@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kadamba Kanana ======
+====== Kadamba Kanana ======
 
+<card class="letter">
 San Francisco
 
 My dear Kadamba Kanana Prabhu,
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

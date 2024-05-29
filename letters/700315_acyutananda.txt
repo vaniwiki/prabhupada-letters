@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acyutananda ======
+====== Acyutananda ======
 
+<card class="letter">
 My dear Acyutananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 10 March, 1970. In the meantime I have received the package of badailaich very timely. Devananda told me that there was only one pod balance, so it arrived very timely. Thank you very much.
@@ -41,3 +42,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I am in due receipt of your letter dated January 29, 1969, and I am pleased to learn that everything is going nicely with full cooperation of all of your godbrothers. Our center of activities is Krishna, and if we are actually Krishna Conscious there will always be full cooperation between ourselves for the satisfaction of Krishna.
@@ -25,3 +26,4 @@ Thanking you again for your letter. I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ghanasyama ======
+====== Ghanasyama ======
 
+<card class="letter">
 Los Angeles
 
 My dear Ghanasyama das,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

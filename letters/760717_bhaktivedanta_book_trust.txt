@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhaktivedanta Book Trust ======
+====== Bhaktivedanta Book Trust ======
 
+<card class="letter">
 Bhaktivedanta Book Trust,\\
 Bombay
 
@@ -30,3 +31,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

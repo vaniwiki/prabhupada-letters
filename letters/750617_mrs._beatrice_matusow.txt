@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mrs. Beatrice Matusow ======
+====== Mrs. Beatrice Matusow ======
 
+<card class="letter">
 Beatrice Matusow\\
 4542 Lehus St.\\
 Kapaa, Kauai, Hi. 96746
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

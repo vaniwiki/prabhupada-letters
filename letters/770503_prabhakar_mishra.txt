@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prabhakar Mishra ======
+====== Prabhakar Mishra ======
 
+<card class="letter">
 Sri Prabhakar Mishra, \\
 F-91, Kirtinagar, \\
 New Delhi-15
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

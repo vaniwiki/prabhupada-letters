@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Arundhati ======
+====== Arundhati ======
 
+<card class="letter">
 My dear Arundhati,
 
 Please accept my blessings. I thank you so much for your letter dated February 13, 1969, and I have noted the contents with much pleasure. Your tears at kirtana are a good sign, and it shows that Krishna is pleased upon you. So remain in this status and chant nicely. You will see you will be more and more graced by His Lordship.
@@ -21,3 +22,4 @@ Please convey my blessings to your godbrothers and godsisters with you. I hope t
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

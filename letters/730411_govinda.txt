@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda Dasi:
 
 Please accept my blessings. In the past you were sending me the dried banana, so you please resume sending me. The day after tomorrow I am starting for Los Angeles, so I would like to receive some of that dried banana from you.
@@ -19,3 +20,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

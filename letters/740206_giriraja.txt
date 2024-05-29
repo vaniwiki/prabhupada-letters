@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay\\
 [To Giriraja]
 
 DISPATCH BIRLAS FIFTY THOUSAND IMMEDIATELY TO PUNJAB BANK MOTI BAGH BRANCH NEW DELHI IN FAVOR OF VRINDABAN CONSTRUCTION ACCOUNT.\\
 BHAKTIVEDANTA SWAMI
+</card>

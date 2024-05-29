@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jaya Gopala ======
+====== Jaya Gopala ======
 
+<card class="letter">
 Columbus, Ohio
 
 My dear Jaya Gopala,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

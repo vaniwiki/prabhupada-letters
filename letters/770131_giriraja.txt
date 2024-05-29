@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay
 
 Dear Giriraja,
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. I have received a letter from the Bombay secretary, Aditya dasi, requesting me to sign a number of legal forms for the bank. Neither you or Gopala Krsna have even signed or initialled an approval, so how can I sign these forms? If you actually want me to sign them please write me your approval with regular signature.\\
 ACBS:sdg
+</card>

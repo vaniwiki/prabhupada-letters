@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Palika ======
+====== Palika ======
 
+<card class="letter">
 My dear Palika dasi,
 
 Please accept my blessings. I am in due receipt of your letters of 17th and 25th March, 1972, and shall answer as follows: 1. There is no question of bathing Caitanya deity. Of course He is bathed many times daily by Hare Krishna Mantra, but for bathing of such deities requires Salagrama Sila, and I have not introduced yet, but I shall do so later. Of course you should always cleanse Him with dry or damp cloth from time to time, but no daily bathing process is recommended by me for the time being. 2. You may dress Him in the same manner as Lord Krishna. 3. Deities should be changed in early morning, after mangala arati, before noon offering, and before Sundara arati They should be put on Their fine dress. 4. The Govardhana rock should be returned to Mt. Govardhana as soon as possible. I am very glad that you are doing such a nice service by worshiping Radharani and Krishna so nicely and giving Them so many nice clothes and ornaments and taking such nice care, so now I am very much relieved to know everything is going well in Calcutta during my absence. Now you make Mayapur into a gorgeous palace for Radha and Krishna, and I shall come there immediately and sit down there permanently to stay by Them.
@@ -19,3 +20,4 @@ Your ever well-wisher.\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please have my Bengali book Gitar Gan composed by some printer there in Calcutta in the next two or three days, and immediately send it to ISKCON Tokyo. I will correct it personally and hand it over to Dai Nippon for printing. I have asked Jayapataka Maharaja to do this, but he has not done anything yet, so you do it immediately and please do not delay. Books are being sent to our branches in India from Japan, at no cost to you. You may sell them and use the profits for our building funds, 50%, and book fund, 50%. I do not know if we may require the COP permission, so you may inquire this from Gurudasa.
+</card>

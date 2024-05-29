@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagat-guru ======
+====== Jagat-guru ======
 
+<card class="letter">
 Bombay
 
 Dear Jagat Guru Maharaja,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:sdg
+</card>

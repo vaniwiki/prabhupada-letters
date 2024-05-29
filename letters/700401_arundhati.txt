@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Arundhati ======
+====== Arundhati ======
 
+<card class="letter">
 My dear Arundhati,
 
 Please accept my blessings. I am in due receipt of your letter dated "nil."
@@ -23,3 +24,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

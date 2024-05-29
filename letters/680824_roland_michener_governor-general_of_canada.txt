@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Roland Michener (Governor-General of Canada) ======
+====== Roland Michener (Governor-General of Canada) ======
 
+<card class="letter">
 His Excellency the Right Honorable Roland Michener\\
 Governor-General of Canada\\
 Government House\\
@@ -32,3 +33,4 @@ Thanking Your Excellency in anticipation of your kind reply, I remain,
 
 Yours truly,\\
 A.C. Bhaktivedanta Swami
+</card>

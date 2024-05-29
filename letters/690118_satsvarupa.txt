@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter of January 11, 1969 and have carefully noted the contents. From this letter I can understand that texts number 6 and 7 are missing in the manuscript of the third canto which you have in Boston. The original manuscript is in New York, and when I go there, maybe in April, I will find this for you. In the meantime, you may skip four pages for these missing texts and continue numbering after skipping four numbers which will be filled in latter. Convey my blessings to the three girls who are newly staying at the Boston temple, namely Joy Fulcher, Arlene Warmbrand and Rita. I hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

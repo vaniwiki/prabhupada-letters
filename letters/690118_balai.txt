@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balai ======
+====== Balai ======
 
+<card class="letter">
 My dear Balai,
 
 Please accept my blessings. It was a great pleasure to receive your letter of January 14, 1969. I hope that by the Grace of Krishna you will have a very nice child next month, and my blessings are always there.
@@ -17,3 +18,4 @@ You have wished me to live until all of my publications are finished, and I than
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

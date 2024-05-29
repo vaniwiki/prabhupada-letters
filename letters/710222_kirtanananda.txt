@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 His Grace Kirtanananda Swami; \\
 c/o New Vrindaban; R.D. 3\\
 Moundsville, W.Va. 26041
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:adb
+</card>

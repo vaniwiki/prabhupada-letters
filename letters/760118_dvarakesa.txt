@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dvarakesa ======
+====== Dvarakesa ======
 
+<card class="letter">
 Sweden
 
 My dear Dvarakesa,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

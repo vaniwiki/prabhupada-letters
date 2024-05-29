@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 New Vrndavana
 
 My dear Kirtanananda Maharaja,
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. On top of the towers on the temple, you should make Visnu's colus (or cakra) and a flag.\\
 ACBS/jda
+</card>

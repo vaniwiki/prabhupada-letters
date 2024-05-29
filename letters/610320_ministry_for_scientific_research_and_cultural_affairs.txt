@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ministry for Scientific Research and Cultural Affairs ======
+====== Ministry for Scientific Research and Cultural Affairs ======
 
+<card class="letter">
 The Secretary\\
 Ministry for Scientific Research and Cultural Affairs\\
 Government of India, New Delhi.
@@ -35,3 +36,4 @@ Awaiting your early reply and thanking you in anticipation.
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Turya ======
+====== Turya ======
 
+<card class="letter">
 My dear Turya das,
 
 Please accept my blessings. I am in due receipt of your letter of May 29, 1969, sent along with your beads, and I have duly chanted upon them and have initiated you as my disciple. Your spiritual name is Turya das and this means transcendental. So you are the servant of the Transcendental Lord, Krishna, and when one serves the Transcendental Lord, he also becomes completely transcendental to the laws and contaminations of material nature. In material life, everyone is bound up tightly by the laws of karma, and there is no question of transcending these laws by any material means. The modern civilization is trying to transcend the pangs of material life, namely birth, death, old age and diseases, by advancement of material knowledge, but actually this advancement is only binding them more tightly into the material concept of life. So thus there is no freedom from or transcending of these material miseries. But one who comes to the intelligence to understand that rather than serving the cause of material advancement, he should serve the cause of Krishna, then such person becomes transcendental to the stringent laws of karma. Krishna instructs us in __Bhagavad-gita__ that one who serves Him in loving devotional service is delivered fully from all material contamination.
@@ -19,3 +20,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

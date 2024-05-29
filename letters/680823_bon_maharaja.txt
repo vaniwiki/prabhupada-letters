@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bon Maharaja ======
+====== Bon Maharaja ======
 
+<card class="letter">
 Vrndaban, India
 
 My dear Sripada Bon Maharaja,
@@ -16,3 +17,4 @@ My dear Sripada Bon Maharaja,
 kindly accept my humble dandabats. I beg to inform you that many of my American disciples have become seriously interested in the philosophy of Krishna Conscious. They want to come to Vrindaban to study the Krishna philosophy as authorized by explained by the Gosvamis and specifically by Jiva Goswami in his six Sandarbha. Some of them are U. s of U.S.A. and Canadian universities. I beg to inquire what facilities you can offer them if they come in India for such studies. I may also inform you that my disciples are not from rich community of America. Most of them are whole time worker in my society. But they have sincerely developed Krishna Conscious by the recommended process of Lord Caitanya. You will be glad to know that they have been able to draw the attention of the Ambassador of India and Consul General in N.Y. by their Krishna Conscious activities. I hope you will cooperate for their further advancement in their search of Krishna Conscious philosophy.
 
 Yours Sincerely,
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna, Mukunda, Syamasundara ======
+====== Yamuna, Mukunda, Syamasundara ======
 
+<card class="letter">
 London
 
 My dear Yamuna, Mukunda, and Syamasundara,
@@ -27,3 +28,4 @@ Hoping you are all well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta
+</card>

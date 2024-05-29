@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Parmanand Patel ======
+====== Parmanand Patel ======
 
+<card class="letter">
 Sriman Parmanand Patel\\
 Asst. Eng. Division Office\\
 Madhya Pradesh Electricity Board\\
@@ -40,3 +41,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saurabha ======
+====== Saurabha ======
 
+<card class="letter">
 My dear Saurabha das:
 
 Please accept my blessings. I may inform you that the Governor of U.P. has accepted the invitation to become Chief Guest at our temple opening. Now many big men will come. So we have to arrange very nicely for their accommodation. The Governor will require a special apartment for his staying.
@@ -21,3 +22,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

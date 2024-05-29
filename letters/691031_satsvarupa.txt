@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 28, 1969 with enclosures. The pamphlet sermon is not unfavorable. It is indirectly favorable because in that pamphlet the writer has admitted that the Christian church is waning and people are seeking after some new type of religion. That he has admitted. He says "Suppose the Christian church is waning, suppose even that in 10 years it will have gone out of existence. What then?" So these Christian priest are already feeling the pulse of their religious principles, and they are not very much hopeful. He writes another place that a woman being asked by her friend why she was not coming to church, the woman replied, "Oh, we don't go to church anymore." So far as we are concerned, he has admitted that the boy whom he spoke with was soft-spoken and polite. He seemed intelligent and had obviously been well brought up. In another place he says "What interested me most however was that here was a boy who was obviously religiously inclined. He was trying to find God and was trying to help other people find God, and he had taken up his post in front of a Christian church to preach Krsna." Don't you think that indirectly he is feeling the effect of our preaching work and his whole pamphlet is written as if he is afraid of the Krsna cult, which is spreading like wildfire? So we shall not be at all discouraged by such writings. Rather we should take the real fact that people are actually hankering after the real type of religion.
@@ -23,3 +24,4 @@ I hope this meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tirtha Maharaja ======
+====== Tirtha Maharaja ======
 
+<card class="letter">
 Pujaniya Srila Tirtha Maharaja,
 
 Kindly accept respectful obeisances at your lotus feet. Since I have come to the United States of America I had several correspondence with Sripada Govinda Maharaja. While I was in Calcutta at that time as well as in our different exchange of letters there was some hint from Sripada Govinda Maharaja, I should work in cooperation with your holiness and in my last letter I have already expressed my readiness to cooperate with your holiness and I had to ask from Govinda Maharaja as to the basic principle of that cooperation. Before I took Sannyasa perhaps you will remember it that I proposed to join you if my publications were taken up. But some how or other it was not possible and we missed the chance.
@@ -22,3 +23,4 @@ I am here and see here a good field for work but I am alone without men and mone
 If you agree to cooperate with me as I have suggested above, then I shall extend my Visa period. My present Visa period ends by the end of this November. But if I receive your confirmation immediately then I shall extend my Visa period otherwise I shall return to India. Immediately I want some good assistants to work with me. They must be educated and able to talk in English as also read Sanskrit nicely. For preaching here two languages English and Sanskrit will be very much appreciated. I think under your leadership every camp of our god brothers should supply a man good for this purpose and they must agree to work under my direction. If that is possible then you will see how our beloved Srila Prabhupada will be satisfied on all of us. I think we shall all forget now the past fratricidal war and now come forward for a good cause. If they are not agreeable then do it yourself and I am at your service. Please therefore consider this and let me know by wire if you are agreeable. Otherwise I shall not extend my visa period but I shall return to India without being able to do anything tangible at my first tour. Hope you will take this matter as very urgent and let me know your decision by immediate return of post or by wire to my above address and oblige. Hope you are all well and thanking you in anticipation.
 
 Yours obediently.
+</card>

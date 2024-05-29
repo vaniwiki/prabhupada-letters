@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Reserve Bank of India ======
+====== Reserve Bank of India ======
 
+<card class="letter">
 Chief Controller of Foreign Exchange\\
 Reserve Bank of India\\
 New Delhi
@@ -25,3 +26,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

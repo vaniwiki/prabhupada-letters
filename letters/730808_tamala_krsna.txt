@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Tamala Krishna,
@@ -46,3 +47,4 @@ A.C. Bhaktivedanta Swami
 
 enclosure\\
 ACBS:hda
+</card>

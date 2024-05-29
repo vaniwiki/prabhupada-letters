@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yadubara ======
+====== Yadubara ======
 
+<card class="letter">
 Bombay
 
 My dear Yadubara,
@@ -34,3 +35,4 @@ No. 36 Jayalakshmipuram
 V.V. Mohalla,
 
 Mysore-12, S. India
+</card>

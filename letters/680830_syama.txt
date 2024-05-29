@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syama ======
+====== Syama ======
 
+<card class="letter">
 My dear Syama dasi
 
 Please accept my blessings. I thank you very much for your kind letter dated August 27, 1968, and I am glad to hear about successful Sankirtana party's activities in Los Angeles. You will be glad to know that very soon I am going to San Francisco, maybe by the end of the first week of September.
@@ -19,3 +20,4 @@ Thank you very much for your letter, hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara ======
+====== Ramesvara ======
 
+<card class="letter">
 My dear Ramesvara Maharaja,
 
 Please accept my blessings. Please find enclosed one bank draft 1-8/210, 4 (number 262) for the amount of U.S. dollars 1,737.00 (one thousand seven hundred and thirty seven). This is for deposit in the Bank of America on favor of ISKCON Mayapur-Vrindaban Fund a/c no. 6004-07143. Kindly send me the deposit slip when the transaction is completed.
@@ -19,3 +20,4 @@ Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
 
 Delivered by hand. Received, signed by Ramesvara Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna, Subala, Gurudasa, Bhavananda ======
+====== Tamala Krsna, Subala, Gurudasa, Bhavananda ======
 
+<card class="letter">
 Vrindaban
 
 My dear Tamala Krishna, Subala, Gurudasa, and Bhavananda,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

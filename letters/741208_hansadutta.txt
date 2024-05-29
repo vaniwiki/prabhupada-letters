@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Brooklyn
 
 My dear Hansadutta das:
@@ -39,3 +40,4 @@ A.C. Bhaktivedanta Swami
 ACBS/bs\\
 \\
 N.B. I have received reports from Madhavananda, Bhagavata das and others that the number of devotees at the Manor has decreased. This is not a good sign. Why has this happened? I am planning to reach Honolulu by December 20th.
+</card>

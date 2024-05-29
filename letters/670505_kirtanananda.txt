@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 Montreal
 
 My dear Kirtanananda,
@@ -27,3 +28,4 @@ NOTE: If you want to come here for 2 or 3 days it will be a very welcome suggest
 Hayagriva wants to hear from you. He wants that you should join his Editorial Department but he will only use you for Iskcon Bullets of which he is very fond of.
 
 ACB
+</card>

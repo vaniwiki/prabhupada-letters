@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter dated May 9, 1969, and in the meantime, I have also received letters from Yamuna, Gurudasa, as well as one letter from Mataji Syamadevi in Hindi. She has written that she wishes for me to go there immediately. In your letter you write to say that you can wait until you find a suitable place where all can be accommodated. This means that you are not living in one place, and from your letter it appears that you are scattered in different places.
@@ -19,3 +20,4 @@ Here in your country all the branches are doing very nicely, and this New Vrinda
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

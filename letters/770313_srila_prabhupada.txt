@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Srila Prabhupada ======
+====== Srila Prabhupada ======
 
+<card class="letter">
 Dearest Srila Prabhupada,
 
 Let me first offer my fallen head under the petal-soft soles of your lotus feet, where I hope it will eternally remain. Out of pure causeless mercy and kindness you have given this coarse, gross materialist a taste of real pleasure derived from the ocean of devotional service to the Supreme Lord Sri Krsna and His eternal consort, Srimati Radharani. For that extraordinary gift I shall always be grateful and I beg you for the benediction that I shall never leave the service of your lotus feet. All glories to Your Divine Grace, the all-blissful Personality of servitor Godhead, and all glories to those most fortunate souls who are engaged by you in their real business of devotional service. I roll in the dust of their lotus feet!
@@ -30,3 +31,4 @@ Jaya, all glories to you Srila Prabhupada, the full moon of devotion to Sri Krsn
 I beg to remain always licking up the dust of your lotus feet.
 
 Hari Sauri das.
+</card>

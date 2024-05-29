@@ -8,6 +8,7 @@
 
 ====== Resolution ======
 
+<card class="letter">
 RESOLUTION
 
 At the meeting of the members of the Bureau of the International Society for Krishna Consciousness held at their Head Office at the Hare Krishna Land, Gandhi Gram Road, Juhu, Bombay on the 9th September, 1974, the following was resolved:
@@ -23,3 +24,4 @@ Attest
 A.C. Bhaktivedanta Swami\\
 \\
 Gurudas Adhikary
+</card>

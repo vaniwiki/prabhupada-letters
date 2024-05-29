@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 11th, and I have noted the contents. Enclosed please find one photograph of the Radha-Krishna throne, so you may begin constructing it as soon as possible. When the Radha-Krishna Deities are installed, you may turn your main attention to Them, rather than to the Lord Jagannatha Deities. You continue to keep Jagannatha nicely though, and sometimes change His dress. So far as your having already ordered instruments from India, that is all right. Regarding your question about the verse in the prayers to the Spiritual Master, the Spiritual Master is one of the associates of Krishna. The prayers offered by Visvanatha Cakravarti to his Spiritual Master have a special significance. His Spiritual Master was one of the assistant __gopis,__ so the prayer was offered like that. On the whole, the Spiritual Master is an agent of Krishna. But either He is assistant to the __gopis__ or assistant to the cowherds boys, He is on the level of Krishna. That is the verdict of all scriptures. Krishna is worshipable God and the Spiritual Master is worshipper God. The exact words are __sebya__ (worshipable) and __sebak__ (worshipper).
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I have just now received your letter of September 23rd along with the check. Thank you.
+</card>

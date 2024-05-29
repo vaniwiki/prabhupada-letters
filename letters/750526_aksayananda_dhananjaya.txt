@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aksayananda, Dhananjaya ======
+====== Aksayananda, Dhananjaya ======
 
+<card class="letter">
 Vrndavana
 
 My dear Aksayananda Swami and Dhananjaya,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. I am very glad to hear that Pradyumna is teaching English and that the classes are going on. Please continue this.\\
 ACBS/ps
+</card>

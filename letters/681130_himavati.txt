@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Himavati ======
+====== Himavati ======
 
+<card class="letter">
 My dear Himavati,
 
 Please accept my blessings. Yesterday my deities were dressed with the clothing you made and it appears so nice. I do not know whether you have time to make similarly a few other sets. It will be very nice. I know that you are the most expert in making dresses than all others so therefore I request you that you may make at least two or three sets of dresses as you have already made.
@@ -17,3 +18,4 @@ I hope that everything is well with you.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

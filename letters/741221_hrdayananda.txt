@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hrdayananda ======
+====== Hrdayananda ======
 
+<card class="letter">
 Mexico City
 
 My dear Hrdayananda Maharaja,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

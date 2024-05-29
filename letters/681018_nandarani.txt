@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandarani ======
+====== Nandarani ======
 
+<card class="letter">
 My dear Nandarani,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Oct. 13, 1968. I am so glad to learn that you appreciate my mission in the United States as without any rival. Actually this is a fact, because I am presenting nothing manufactured by me. I am presenting the genuine thing as it was given by Lord Krishna Himself, or Lord Caitanya Himself, approved by the Great Acaryas, so the activities which we have adopted, Krishna Consciousness, it is authorized and in the disciplic succession from Krishna directly. I am trying to live in your country permanently, and I have already applied for my permanent visa at Montreal, and they have called me for interview on the 25th Oct. 1968, so I am going there on the 23rd instant, and I will see the Consulate General there on the 25th. So if I get my permanent visa, certainly I shall try to live in your country and spread this unique message of Krishna Consciousness with your good assistance.
@@ -25,3 +26,4 @@ Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
 
 P.S. I have just received one letter from Aniruddha who is now staying in San Francisco, and he has asked my permission to stay there, and I am therefore advising him to stay there at least for the time being or if you want him to assist him you can call him back.
+</card>

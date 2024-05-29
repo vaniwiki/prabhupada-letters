@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. I am in receipt of your letter dated December 11, 1973. Thank you for the comprehensive report of our Australian theater of ISKCON. I am glad that things are going nicely and that you have settled up the New Zealand affair. Depend on Krsna and He will give you good intelligence. I am pleased that you are managing things so nicely.
@@ -21,3 +22,4 @@ I hope this meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Muralidhara ======
+====== Muralidhara ======
 
+<card class="letter">
 My dear Muralidhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated, but I know this letter was received a few days ago, and I could not reply earlier on account of heavy pressure of so many letters. Anyway I may inform you it does not matter that you cannot paint one picture daily, but you go on doing it as many pictures as you can finish in a month or in a week. Do it nicely and I don't press upon you. But the idea is that I wanted so many pictures from Srimad-Bhagavatam but I wish that some of my disciples, either individually or collectively may produce at least half a dozen pictures daily. Anyway I think Krishna will give you strength more and more. Do not stop your work, go on painting as far as possible.
@@ -21,3 +22,4 @@ Thanking you once more for writing me,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

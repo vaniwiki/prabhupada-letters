@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Murari ======
+====== Murari ======
 
+<card class="letter">
 My dear Murari Das,
 
 I am so glad to see your letter dated 7-19-67. Both Kirtanananda and myself reached safely on 14 July at Midnight, after undergoing customs etc., we took shelter at our temple in Delhi at about 3:00 a.m. Still we could not sleep all night. Due to that, I became indisposed and was obliged to stay there for three or four extra days. I have now come to Vrindaban on the 31st., and am staying at the Radha Damodara Temple. You have inquired about the import of Murari Das: Murari is another name for Krishna; therefore one who is pledged to become the servant of Krishna is called Murari Das. I am so glad you are playing music for Krishna. It is a great service of your talent. Anyone's special talent should be engaged in the service of the Lord, and thereby becomes successful in his life. I think that you can go on playing on your guitar and make it successful for Krishna kirtana. You do not require to learn freshly about sitar. We are not meant for learning something new for the service of the Lord; but we have to engage whatever talents we have already got. Our life is short but any type of education is great and long; so the best part of valor is to utilize properly whatever qualifications we have got for the service of the Lord. If you think still that you want a sitar, I will request you to make correspondence with Messrs Dwarkin and Sons, Esplanade Calcutta.
@@ -17,3 +18,4 @@ Please convey my blessing to Lilavati, who is so sincere in the service of the L
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

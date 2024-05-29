@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: B.S. Sharma ======
+====== B.S. Sharma ======
 
+<card class="letter">
 Dear Brij Suderji,
 
 Thank you very much for your letter No. D.O.367 P.A./RM/67 D/4/9/67 and have noted the contents carefully. I thank you once more for your kind appreciation of my great mission following the footprints of Lord Chaitanya the great Apostle of world peace and love of Krishna. Lord Chaitanya wanted to preach Krishna Consciousness all over the world and He entrusted the execution of the great movement to all persons who have taken birth as man in the land of Bharatvarsa. So this is purely Indian culture of peace and harmony based on the Bhagavat Geeta and the Srimad Bhagavatam. Please therefore fully cooperate with me and the great movement.
@@ -33,3 +34,4 @@ Shri Brij Sunder Sharma\\
 Revenue Minister\\
 Government of Rajastan\\
 Jaipur. Rajasthan.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. A few days ago I received one letter from you in which you desired to send me one manuscript for Nimai Sannyas drama, written by some Mr. Chatterji. Generally these dramas are sentimentalism. Those who are devotees of Lord Caitanya, they do not discuss much about the Lord's renouncing the householder life, but there are certain persons who floodlight the renouncement of Lord Caitanya in a materialistic sentimental way. I have seen such drama, written by Mr. Diliproy, and that was nearly nonsense. Sri Caitanya Mahaprabhu decided to accept this renounced order of life in a moment, and the business was finished in a day. But these people, in order to create a scene, they adulterate the Lord's renouncement in so many ways. so I guess in the drama of Mr. Chatterji similar such things may be included. Any drama or book written by unauthorized persons should not be indulged in. (In this connection I may mention that I have seen one copy of "Narada Pancaratra" sent here from San Francisco, and it is not good. Please stop circulation of this book, which is not authorized.) A pure devotee is always free from the four principle restrictions, and he has a tilaka on his forehead. At least these symptoms indicate one's purity in Krishna Consciousness. If one is not following these principles, he is not considered to be a pure devotee.
@@ -19,3 +20,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

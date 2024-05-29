@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Kamalapati Tripathi ======
+====== Sri Kamalapati Tripathi ======
 
+<card class="letter">
 Sri Kamalapati Tripathi\\
 Minister of Railways\\
 Government of India, New Delhi
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

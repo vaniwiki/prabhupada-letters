@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rsabhadeva ======
+====== Rsabhadeva ======
 
+<card class="letter">
 My dear Rsabhadeva,
 
 Please accept my blessings. I beg to thank you for your encouraging letter dated October 1st, 1970, and your appreciations of devotional service in Krsna Consciousness are very nice.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

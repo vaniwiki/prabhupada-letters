@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: GBC Godbrothers ======
+====== GBC Godbrothers ======
 
+<card class="letter">
 Dear GBC Godbrothers:
 
 Please accept our humble obeisances. Srila Prabhupada has become very disturbed at the news that Hansadutta Prabhu has closed the Edinburgh temple without consulting Srila Prabhupada and has asked us to issue the following memo.
@@ -25,3 +26,4 @@ Approved    Signed\\
 A.C. Bhaktivedanta Swami    Brahmananda Swami\\
 Bali Mardan das\\
 Bhagavan das
+</card>

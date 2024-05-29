@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Bank of Baroda ======
+====== Manager of Bank of Baroda ======
 
+<card class="letter">
 Manager\\
 Bank of Baroda (Calcutta Branch)\\
 P.O. Box No. 313\\
@@ -29,3 +30,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

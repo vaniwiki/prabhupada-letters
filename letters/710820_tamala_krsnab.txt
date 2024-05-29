@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 My dear Tamala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Janmastami day and have noted the contents carefully. Renovation means for old buildings donated to the society. Such buildings can be renovated from the building fund but not to maintain already purchased or rented buildings. That is to be done as individual expenditure of the temple concerned.
@@ -29,3 +30,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

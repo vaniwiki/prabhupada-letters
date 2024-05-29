@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Revatinandana ======
+====== Revatinandana ======
 
+<card class="letter">
 My dear Revatinandana Maharaja,
 
 Please accept my blessings. I am in due receipt of your letter dated Sept. 19, 1975 and I have noted the contents carefully. It is best that you travel with Visnujana Maharaja and Tamala Krsna Goswami. Our mission is a continued effort and we need not give up the association of devotees simply because there is a difference of opinion how to preach our philosophy. If your conviction is strong and evidential, then try to convince them of your ideas for spreading Krsna Consciousness. Our principle is to simply repeat what we have in our books. But, it is very dangerous to live outside the association of devotees. If you must live a more solitary life for some time, then you can go to our temple in Mayapur or Vrindaban, and they can give one small room there and you can chant and read. I can advise the temple authorities there to permit you to do so without disturbance. In either case you can take boiled vegetables, boiled rice, a little milk, once a day, and this is very easily digestible. I am also taking like this. Living outside the association of devotees is dangerous and unnecessary. You must, however, give up the association of Jamadagni and Kanupriya. Their company will not be beneficial to your Krsna consciousness.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

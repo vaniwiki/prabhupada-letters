@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Miss Wanda Bonner ======
+====== Miss Wanda Bonner ======
 
+<card class="letter">
 Miss Wanda Bonner\\
 536 Maple St. No. 305\\
 San Diego, Ca. 92103
@@ -25,3 +26,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

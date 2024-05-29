@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Santosh Kumar Pyne ======
+====== Sri Santosh Kumar Pyne ======
 
+<card class="letter">
 Sri Santosh Kumar Pyne\\
 Daspara Maiden Daspara\\
 Chursurah, Dist. Hooghly\\
@@ -25,3 +26,4 @@ I am yours sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

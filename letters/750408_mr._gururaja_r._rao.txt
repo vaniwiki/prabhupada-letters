@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Gururaja R. Rao ======
+====== Mr. Gururaja R. Rao ======
 
+<card class="letter">
 Gururaja R. Rao\\
 1626 PIE XI Blvd.\\
 HIV 2C5\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

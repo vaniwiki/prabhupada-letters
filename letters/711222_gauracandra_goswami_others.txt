@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gauracandra Goswami, others ======
+====== Gauracandra Goswami, others ======
 
+<card class="letter">
 Sri Gauracandra Goswami and others\\
 Sri Sri Radha Damodara Temple,\\
 Seva Kunj,\\
@@ -32,3 +33,4 @@ Regarding management of Sri Sri Radha Damodara Temple, I beg to inform you that 
 
 I can arrange for Radha Damodara Temple worship very nicely, namely at least 50 devotees will be offered prasadam daily, including two times refreshment and two meals. The disciples will remain with me. They will have daily chanting and reciting scriptures very nicely, which will attract hundreds of persons during the performances.\\
 [PAGE MISSING]
+</card>

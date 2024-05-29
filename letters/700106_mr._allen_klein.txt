@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Allen Klein ======
+====== Mr. Allen Klein ======
 
+<card class="letter">
 Mr. Allen Klein\\
 Legal Advisor of Mr. George Harrison\\
 1700 Broadway\\
@@ -24,3 +25,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ddb
+</card>

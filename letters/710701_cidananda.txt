@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cidananda ======
+====== Cidananda ======
 
+<card class="letter">
 My dear Cidananda,
 
 Please accept my blessings. I am in due receipt of your two letters dated 24th June, 1971 and undated respectively, and have noted the contents.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

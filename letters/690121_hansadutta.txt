@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 18, 1969, and I have carefully noted the contents. Regarding the house, you must know that it is in a residential area, and I don't know if you can get a license for a temple there. In the present temple, there is no temple license but we have freedom to chant and dance as we like. However, if we chant and dance in this new house I am wondering if the neighbors will not object.
@@ -23,3 +24,4 @@ Please convey my blessings to the others. I hope this meets you all in good heal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

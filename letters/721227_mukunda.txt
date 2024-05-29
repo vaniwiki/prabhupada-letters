@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 Kelso, Washington
 
 My dear Mukunda,
@@ -27,3 +28,4 @@ Hoping this meets you and your nice wife, Janaki, in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

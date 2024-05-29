@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 61 Second Avenue\\
 New York, NY 10003
 
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 Enclosure: 2
 
 P.S. I am going to Buffalo on Friday 18th.
+</card>

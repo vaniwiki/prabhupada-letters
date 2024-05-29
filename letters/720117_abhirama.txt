@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Abhirama ======
+====== Abhirama ======
 
+<card class="letter">
 Baltimore
 
 My dear Abhirama,
@@ -21,3 +22,4 @@ I hope this will meet you in good health and happy mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Naiskarmi ======
+====== Naiskarmi ======
 
+<card class="letter">
 Evanston, Illinois
 
 My dear Naiskarmi devi dasi,
@@ -19,3 +20,4 @@ I hope you are well.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

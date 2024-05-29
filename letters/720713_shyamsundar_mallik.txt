@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Shyamsundar Mallik ======
+====== Shyamsundar Mallik ======
 
+<card class="letter">
 Shyamsundar Mallik\\
 155/A Mahatma Gandhi Road\\
 Calcutta-7, India
@@ -23,3 +24,4 @@ Hoping this will meet you in the best of health.
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sumati Morarjee ======
+====== Sumati Morarjee ======
 
+<card class="letter">
 Madame Sumati Morarji Baisaheba,
 
 I thank you very much for your letter of the 22nd instant and have noted the contents.
@@ -23,3 +24,4 @@ I consider your good self as one of the associates of Srimati Radharani Lord Kri
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

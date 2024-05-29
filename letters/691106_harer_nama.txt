@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harer Nama ======
+====== Harer Nama ======
 
+<card class="letter">
 My dear Harer Nama,
 
 Please accept my blessings. I beg to thank you very much for your letter dated November 3, 1969 and have noted the contents with pleasure. For some time I have been anxious to hear from you, and now that you have written I am encouraged to learn of your nice activities in Colorado. I am pleased also that Bhavananda, Palika Dasi and Prabhavati Dasi are all working so sincerely and steadfastly to promote this Sankirtana Movement, and surely Caitanya Mahaprabhu will bestow His full blessings upon all of you. This is a qualification of activities in Krishna Consciousness that if one renders even a small amount of sincere devotional service, Krishna becomes obliged to elevate such person; and what to speak of one whose entire life and soul has been dedicated to Krishna's service. So continue to push on as you are now doing and as far as possible distribute our books and magazines. Now that our press is ready in Boston, we have more than one dozen books which are ready to be printed, so with your help I wish to overflood the marketplaces with our literatures. Now people are reading all kinds of nonsense books, and thus their reading capacity is helping to pave their way through the circles of birth and death. If they will simply take to reading this transcendental literature we are presenting, the same reading capacity will elevate them to the highest perfection of spiritual life. So this is very important task we are doing, and all of you push forward in Colorado with increased enthusiasm.
@@ -17,3 +18,4 @@ Here in London things are going on nicely, and at all of our meetings, hundreds 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 San Francisco
 
 My dear Mukunda,
@@ -19,3 +20,4 @@ I shall be glad to hear from you. Please convey my blessings to Janaki and other
 
 Your ever well wisher\\
 A.C. Bhaktivedanta Swami
+</card>

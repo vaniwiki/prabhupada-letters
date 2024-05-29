@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radheswarananda Goswami ======
+====== Radheswarananda Goswami ======
 
+<card class="letter">
 Goswami Radheswarananda\\
 c/o H.K. Ajudia, Advocate\\
 At-Jam-Jodhpur 360530\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

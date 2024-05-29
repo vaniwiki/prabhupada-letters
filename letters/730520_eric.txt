@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Eric ======
+====== Eric ======
 
+<card class="letter">
 400 18th Avenue East\\
 Seattle, Washington
 
@@ -25,3 +26,4 @@ I hope this meets you in good health.
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
 
+</card>

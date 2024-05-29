@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Bank of Baroda ======
+====== Manager of Bank of Baroda ======
 
+<card class="letter">
 Manager, Bank of Baroda\\
 Bombay-20 BR
 
@@ -23,3 +24,4 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

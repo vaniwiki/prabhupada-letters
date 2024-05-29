@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 New York
 
 My dear Sudama,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

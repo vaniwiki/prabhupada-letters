@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 London
 
 My dear Mukunda,
@@ -38,3 +39,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I have not as yet received payment from George for my Krishna book. Please let me know what happens\\
 ACBS:db
+</card>

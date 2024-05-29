@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Birendra Kisora Roy ======
+====== Sri Birendra Kisora Roy ======
 
+<card class="letter">
 Sri Birendra Kisora Roy\\
 Calcutta
 
@@ -22,3 +23,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

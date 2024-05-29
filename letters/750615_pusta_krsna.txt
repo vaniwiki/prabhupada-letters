@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pusta Krsna ======
+====== Pusta Krsna ======
 
+<card class="letter">
 Johannesburg, South Africa
 
 My dear Pusta Krishna Swami,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. One travel agent in New Delhi has told us that two of her clients (American) were going to Johannesburg with visa, sufficient funds onward ticket, passport, etc., and due to some change all of the sudden in the Government, they were thrown into jail, and the next day, they were sent, at their own expense out of the country. The travel agent said that it could be even more severe for an Indian citizen, so, if there is any risk, it is not a very good idea. So, you should find out if there any risk at all and then let me know at my Los Angeles address. ACBS\\
 ACBS/ps
+</card>

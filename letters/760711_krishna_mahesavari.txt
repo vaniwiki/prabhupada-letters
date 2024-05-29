@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krishna Mahesavari ======
+====== Krishna Mahesavari ======
 
+<card class="letter">
 Krishna das Mahesavari,\\
 Son of Lava Pokaar das\\
 Sharma Gali,\\
@@ -34,3 +35,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

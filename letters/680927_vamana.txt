@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Vamana ======
+====== Vamana ======
 
+<card class="letter">
 My dear Vamana dasa,
 
 Please accept my blessings. I see that you are feeling not well. I advise you therefore to come and live with me so that you can be freed from the doubts. I hope you are chanting regularly at least 16 rounds. Sometimes Maya disturbs us but that does not mean any serious drawback. So if you feel too much uneasy, you can come and live with me for some time, and everything will be set up. I hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 New York
 
 My dear Sudama,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 n.b. Regarding Muralidhara's sketch for __Teachings of Lord Caitanya,__ it is all right as it is, you may inform him. A.C.B.S.
+</card>

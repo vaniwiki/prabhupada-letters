@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mandakini ======
+====== Mandakini ======
 
+<card class="letter">
 London
 
 My dear Daughter Mandakini,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. Mandakini is the name of the river flowing through the heavenly planets. On this planet this river is known as Ganges. This water was kindly let down into this universe by the lotus foot of Krishna in His incarnation as Vamana.
+</card>

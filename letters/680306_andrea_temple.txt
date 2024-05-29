@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Andrea Temple ======
+====== Andrea Temple ======
 
+<card class="letter">
 Andrea Temple\\
 c/o General Delivery\\
 Freeport, Grand Bahama Island\\
@@ -36,3 +37,4 @@ ACB
 My next address\\
 c/o ISKCON Radha Krishna Temple\\
 518 Frederick St. San Francisco, Calif. 94117
+</card>

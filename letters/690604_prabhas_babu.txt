@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prabhas Babu ======
+====== Prabhas Babu ======
 
+<card class="letter">
 UNITED SHIPPING CORPORATION\\
 14/2 Old China Bazar Street,\\
 Room #13\\
@@ -50,3 +51,4 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/pdb
+</card>

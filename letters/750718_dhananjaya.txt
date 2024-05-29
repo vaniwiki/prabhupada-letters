@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dhananjaya ======
+====== Dhananjaya ======
 
+<card class="letter">
 Vrindaban
 
 My dear Dhananjaya das:
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 N.B. You should go see Swami Bon Maharaja and ask if he has replied to my last letter to him, a copy of which is enclosed. You should take a copy of his reply and send it to me c/o Los Angeles address.\\
 ACBS\\
 ACBS/bs
+</card>

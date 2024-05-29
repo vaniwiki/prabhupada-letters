@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 My dear Sudama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of January 21, 1972, and I am especially glad that Karandhara is there and that you are working conjointly to print many books. that is my greatest pleasure, to see books being printed and distributed profusely. Without books, how can our preaching go on? I will be very glad if you can print __Bhagavad-gita As It Is__ in Japanese version, and that will be sufficient to convince many Japanese boys and girls to become devotees of Krishna. You are learning Japanese language, that's all right, but it will be better for our preaching and translating work if the local boys and girls can perform such work, instead of us wasting so much time by learning difficult languages. So if you spend your time to engage many native persons to translate for us, and train them up in our Krishna philosophy at the same time, that will be a better use of our time; but if you think it is necessary in order to establish this Movement that you learn Japanese language, then it is all right, but generally I do not think it is absolutely necessary. If you can find some boys who speak English, and if you can engage them for translating and teach them our philosophy by holding classes, then that is better. We cannot become very good preachers in such difficult language, even if we spend years to learn, but if we take a few weeks to train some local men in Krishna Consciousness philosophy, then they can preach like anything, leaving us free time to organize and manage everything properly. In this way, we shall expand very rapidly.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

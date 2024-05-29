@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 My dear Gopala Krishna,
 
 Please accept my blessings. I beg to thank you very much for your letter dated July 26, 1969, and I have noted the contents carefully. Regarding your future settlement in India, You can work in any big city like Bombay or Delhi, because without living in a big city you cannot have a good job. You can also try Calcutta. Calcutta is also a very big industrial city, and if you are posted there, it will be easier for you to look after the Mayapur-contemplated temple. But it does not matter whether you are situated in Bombay, Calcutta or Delhi; wherever is suitable you can accept.
@@ -19,3 +20,4 @@ Regarding distribution of BTG or my publications, I welcome your floating a comp
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

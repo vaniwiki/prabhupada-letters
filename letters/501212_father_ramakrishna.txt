@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Father Ramakrishna ======
+====== Father Ramakrishna ======
 
+<card class="letter">
 Sriman Ram Krishna Dey\\
 c/o Day Bannernut Co.\\
 Waterloo St.-Cal.
@@ -23,3 +24,4 @@ My life was miserable due to my family affairs and you have come to rescue me fr
 
 Yours affectionately,\\
 Abhay Charan De.
+</card>

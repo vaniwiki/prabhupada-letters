@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala,
 
 Please accept my blessings. I was just thinking about you since you departed from this place and was anxious to get your letter, and I am very glad to receive it. By Krishna's Grace you are finding everything favorable, and I hope gradually you will find the atmosphere more favorable. I understand in New York it is still raining and little cold, therefore I am extending my stay here in San Francisco, for a few days more. We had many engagements in radio and television and similarly we are going to have more similar engagements. Here the kirtana performances are going on, as nicely, and people are taking interest in them.
@@ -21,3 +22,4 @@ Thanking you once more.
 
 Your ever well-wisher,\\
 ACB
+</card>

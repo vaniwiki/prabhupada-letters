@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pancananda ======
+====== Pancananda ======
 
+<card class="letter">
 Denver
 
 My dear Pancananda das,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

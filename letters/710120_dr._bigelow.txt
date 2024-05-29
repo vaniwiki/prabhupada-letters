@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Bigelow ======
+====== Dr. Bigelow ======
 
+<card class="letter">
 Dr. Wilfred G. Bigelow\\
 (cardio-vascular surgery unit)\\
 Toronto General Hospital\\
@@ -37,3 +38,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

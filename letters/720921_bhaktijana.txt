@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhaktijana ======
+====== Bhaktijana ======
 
+<card class="letter">
 New York
 
 My dear Bhaktijana,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

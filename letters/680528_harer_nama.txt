@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harer Nama ======
+====== Harer Nama ======
 
+<card class="letter">
 My dear Harer Nama,
 
 Please accept my blessings. I am in due receipt of your letter dated May 24, 1968, along with the news article published in the Daily Californian, p.9, on Wednesday May 22, 1968. The pictures and the statement are very appropriate and I hope this article will attract the attention of many students.
@@ -22,3 +23,4 @@ I think a copy of the Daily Californian in which the article has appeared may be
 I am going to Montreal, sometimes next week after June 2nd. So you can write me letters at the Montreal address as follows: ISKCON RADHA KRISHNA TEMPLE; 3720 Park Avenue; Montreal 18, Quebec, Canada. Also, please send copies of the news article to our different centers, the addresses are as follows:
 
 [PAGE MISSING]
+</card>

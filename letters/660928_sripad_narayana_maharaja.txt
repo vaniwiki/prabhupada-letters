@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 "Sri Sri Guru Gauranga Jayatho"
 
 By Air Mail Registered Post
@@ -57,3 +58,4 @@ P.S. There is no need for any professional mrdanga player. If there is any good 
 Enclosure-One check # : 0055445 for Rs 1500/- (rupees fifteen hundred)\\
 ACB report
 
+</card>

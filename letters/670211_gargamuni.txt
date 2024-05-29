@@ -7,8 +7,10 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 I am anxious to hear from you about the clogging of the tapes in dictaphone. Please ask the supplier why it is clogging at the end say from .25 to .30 situation. How to solve this problem. Please let me know. I have now only one tape with me and what about the others. I shall be glad to hear from you.
+</card>

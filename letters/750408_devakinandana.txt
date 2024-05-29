@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Devakinandana ======
+====== Devakinandana ======
 
+<card class="letter">
 Brooklyn
 
 My dear Devakinandana dasa,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

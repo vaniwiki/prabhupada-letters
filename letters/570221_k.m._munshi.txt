@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: K. M. Munshi ======
+====== K. M. Munshi ======
 
+<card class="letter">
 Sri K.M. Munshi,\\
 Governor of Uttar Pradesh,\\
 Raj Bhavan, __LUCKNOW.__
@@ -29,3 +30,4 @@ Om Tat Sat.
 
 Yours truly,\\
 A.C. Bhaktivedanta
+</card>

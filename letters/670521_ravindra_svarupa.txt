@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ravindra Svarupa ======
+====== Ravindra Svarupa ======
 
+<card class="letter">
 My dear Ravindra Svarupa,
 
 Please accept my blessings. I am very glad to learn that you are doing your best and your good wife is helping you nicely. I have received her letter but I am sorry that I could not reply this good girl. I very much appreciate her feelings and specially the hand writing. So you have very nice qualified girl as your life's companion and I bless you all that you peacefully carry out the message of Krishna Consciousness to the needy men of the world. I am glad to learn that you are in touch with the council for A summer of Love. Please try to convince them that this movement of Krishna Consciousness is the only remedy for treatment for the diseased condition of human society. The basic principle of disease is Godlessness and this movement is approved method for reviving God consciousness. So let the leaders take this movement more seriously and it will actually relieve the suffering humanity and specially the youths who are out to search out something spiritual. The youth of America who are so searching I am very much sympathetic with them and their qualification of detachment to the material advancement of civilization will alone help them to advance in Krishna or God consciousness. If they patiently hear me I am sure they will be convinced as you have been. So before my arrival you may make some arrangement so that I can speak to the greatest number of people and I am sure they will appreciate my presentation. Hope this will find you all well. Please convey my blessing to Sriman Devakinandana Brahmacari and others.
@@ -17,3 +18,4 @@ Yours ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: one design for Syamasundara for carving.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to thank you for your letter dated August 18th, 1969. I was very much anxious to receive your letter, but I did not know that you stopped writing me on account of the memo issued a few days ago. The memo was circulated just to minimize correspondence in minor affairs. I think in ordinary administration the presidents of different centers may consult amongst themselves and make certain general procedures by mutual agreement. But when there is some more important factor, that must be referred to me. I did not mean by the memo that you shall stop correspondence. If you understood like that, then I say that you can send me every day one letter, and it will be welcome. We are now growing in size, therefore, for general administration if you will act conjointly amongst the presidents, that will be a great relief for me. Besides that, you are doing editorial work of my books so you have to correspond directly with me. I never meant that about editorial work also being referred to Brahmananda. I understand that you had some meeting amongst the East Coast presidents of the centers, and I shall be glad to know how you decided to work. I have not heard anything about your joint decision.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Tell Brahmananda that press %%__%% at New Vrindaban is most impractical at the present moment, because there is transport difficulty. For the time being first of all organize the Boston center very nicely & then we shall divert our attention elsewhere. We cannot diffuse our attention in many things all at a time.
+</card>

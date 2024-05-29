@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I am in due receipt of your letter dated 11, and 13 Sept. 1968, and I have noted the contents carefully. Regarding Christopher Fynn: I have chanted his beads and am sending herewith; please find. He is a nice boy. You and your wife should guide him in the matter of further progress and his spiritual name, I have fixed up, Cintamani das Brahmacari. Regarding your press: If Cintamani das is settled to remain in Montreal, then you can start the press, a small press immediately. I think you should wait and see how Cintamani das is settled up there. Because if you purchase press, and if he goes away to England, then the investment will for nothing. I do not think that is advisable immediately. You continue to publish Back to Godhead in French language, in the mimeograph machine, and when you feel confident that it is going on, and Cintamani das is fixed up then it will great success for us to start a small press in Montreal. Regarding Peet Aarola: I have seen the picture, and it is a good idea that he wants to be initiated, and so you can send his also. I shall initiate him, because he is painting Radha-Krishna pictures. Let him render some service to Krishna. And if possible, try to open a branch in New Brunswick. It will be a great pleasure for me. I am glad that Kulasekhara has come back. I think he cannot go from our society because he has already rendered some service to Krishna. So Krishna is not going to leave him at any cost. So treat him nicely so that he can be fixed up there. And his attention should be in the matter of painting. That's a very nice idea. Please offer my blessings to him, and treat him very well. So far Mrigendra das is concerned, he will also come back; don't worry. Recently I have received letter from Sivananda; the prospect in Berlin is very bright. And two students from San Francisco are going on the 28th to Berlin, and I am asking Acyutananda and Jaya Govinda to come back and join him in Berlin. Similarly I have received report from London; they are having regular kirtanas and feasts, although not in our own temple, but in different places.
@@ -19,3 +20,4 @@ Regarding Deity worship: It is very much essential and in this connection you ca
 
 Your ever well-wisher,\\
 A.C. B.
+</card>

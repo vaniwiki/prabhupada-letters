@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hari-sauri ======
+====== Hari-sauri ======
 
+<card class="letter">
 Melbourne
 
 My dear Hari Sauri,
@@ -35,3 +36,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

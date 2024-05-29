@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I have not heard anything from you in long time what is the situation with publication of our Back To Godhead. So I am anxious to know when it will be again published, and if it can be regularly printed, even on our mimeograph machine. It is too much important that it must be distributed regularly, as it is the backbone of our mission. So, even it is not printed very expensively and highly, still, it must be distributed even in mimeograph copy. And then in future we can print it very nicely, when there is the money there to do it. So please see to it, and please let me know the position by return of post as soon as possible.
@@ -17,3 +18,4 @@ I hope you are well there, and delivering your nice lectures for all to hear and
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brojendra Nandan Goswami ======
+====== Brojendra Nandan Goswami ======
 
+<card class="letter">
 c/o ISKCON Vrindaban
 
 Hare Krishna Land\\
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

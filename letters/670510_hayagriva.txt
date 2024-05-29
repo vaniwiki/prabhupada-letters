@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 Sriman Hayagriva Brahmachary\\
 518 Frederick Street\\
 San Francisco, California 94117
@@ -40,3 +41,4 @@ Awaiting your early reply and early compliance. Hope you are all well. With my b
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

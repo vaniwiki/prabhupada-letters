@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gatravan ======
+====== Gatravan ======
 
+<card class="letter">
 Daytona Beach
 
 My dear Gatravan das;
@@ -26,3 +27,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/hdb
+</card>

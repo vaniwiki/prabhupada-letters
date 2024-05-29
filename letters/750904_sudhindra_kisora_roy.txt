@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudhindra Kisora Roy ======
+====== Sudhindra Kisora Roy ======
 
+<card class="letter">
 Calcutta
 
 Dear Sudhindra Kisora Roy;
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/hdb
+</card>

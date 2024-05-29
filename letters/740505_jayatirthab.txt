@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayatirtha ======
+====== Jayatirtha ======
 
+<card class="letter">
 Dear Jaya tirtha,
 
 Please accept my blessings. I have received a letter from Atreya Rsi das dated April 18, 1974. In that letter he mentions your name as follows:
@@ -19,3 +20,4 @@ This report is inaccurate and very dangerous and it has concerned me very much. 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

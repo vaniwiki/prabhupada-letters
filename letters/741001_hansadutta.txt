@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Frankfurt
 
 My dear Hansadutta das:
@@ -42,3 +43,4 @@ A.C. Bhaktivedanta Swami
 
 cc: Bhaktivedanta Manor\\
 ACBS/bs
+</card>

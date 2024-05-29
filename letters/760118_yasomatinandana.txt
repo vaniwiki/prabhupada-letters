@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasomatinandana ======
+====== Yasomatinandana ======
 
+<card class="letter">
 New Zealand
 
 My dear Yashomatinandan,
@@ -40,3 +41,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

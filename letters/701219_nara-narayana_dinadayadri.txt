@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nara-narayana, Dinadayadri ======
+====== Nara-narayana, Dinadayadri ======
 
+<card class="letter">
 New Vrindaban
 
 My dear Nara Narayana and Dinadayadri,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

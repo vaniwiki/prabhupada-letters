@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rukmini ======
+====== Rukmini ======
 
+<card class="letter">
 My dear Rukmini,
 
 Please accept my blessings. I am in due receipt of your letter dated January 23, 1969, and also I have seen your wonderful portrait of my Guru Maharaja. This picture is a great joy to me, and it is now hanging in my room in the temple where I may always gaze upon it. I thank you so much for your sincere service, and i am very much encouraged that you are already a nice artist, and what to speak of the improvements you will make with further practice.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. While Jadurani is sick you can continue the work slowly. There is no rush you can paint pictures slowly but surely very nice.
+</card>

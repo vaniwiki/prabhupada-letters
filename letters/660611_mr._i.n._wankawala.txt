@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. I. N. Wankawala ======
+====== Mr. I. N. Wankawala ======
 
+<card class="letter">
 Sri I. N. Wankawala\\
 Scindia Steam Navigation Co Ltd\\
 Central Bank Buildings,\\
@@ -31,3 +32,4 @@ Hope you are well and awaiting your early reply.
 
 Yours sincerely\\
 A.C. Bhaktivedanta Swami.
+</card>

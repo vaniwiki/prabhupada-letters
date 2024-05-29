@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara ======
+====== Ramesvara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Ramesvara Das:
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
+</card>

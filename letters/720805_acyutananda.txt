@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acyutananda ======
+====== Acyutananda ======
 
+<card class="letter">
 Vrindaban
 
 My dear Acyutananda,
@@ -23,3 +24,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

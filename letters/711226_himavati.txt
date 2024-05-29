@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Himavati ======
+====== Himavati ======
 
+<card class="letter">
 Hamburg
 
 My dear Himavati,
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 n.b. Why Hansadutta does not write me? Offer my blessings to my beloved son.\\
 ACBS/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinanatha Misra ======
+====== Dinanatha Misra ======
 
+<card class="letter">
 Dinanatha Misra, M.A.B.L. Pleader\\
 Somewhere in the junction of\\
 Chittaranjan Ave. and Balarama De St.\\
@@ -26,3 +27,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

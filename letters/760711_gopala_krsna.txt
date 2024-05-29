@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 My dear Gopala Krishna das,
 
 Please accept my blessings. I am in due receipt of your letter dated June 26, 1976 with enclosed photos of the New Delhi Temple. So many people are coming to the New Delhi Temple because of the nice Deity worship. This is very good. Keep the standard of Deity worship very nicely.
@@ -35,3 +36,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

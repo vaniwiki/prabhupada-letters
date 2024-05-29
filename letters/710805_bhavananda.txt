@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhavananda ======
+====== Bhavananda ======
 
+<card class="letter">
 Brooklyn
 
 My dear Bhavananda,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/adb\\
 cc: Karandhara; c/o ISKCON L.A.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtiraja, Haripuja ======
+====== Kirtiraja, Haripuja ======
 
+<card class="letter">
 My dear Son Kirtiraja dasa and Daughter Haripuja dasi:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 12, 1973 with enclosed daksina of $100.00. I am very pleased with your activities, how you are leading householder life, Krishna conscious. This ideal I want to show your countrymen is only possible on the Krishna conscious platform. You remain steady on this platform, and this will be your benefit.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

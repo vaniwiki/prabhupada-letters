@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I have not heard from you in a long time. Please let me know how many life members you are making, if any and what is the situation concerning the negotiation for the Vrindaban house. If it is favorable, then you can remain in Delhi for some time and send back to Bombay the three Brahmacari boys who are staying with you. If there is no possibility of getting that house, then all of you can immediately return to Bombay. Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

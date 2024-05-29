@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Sept. 16, 1968, and I think everything is going well with you, both. Yes, from the very beginning you just revise Srimad-Bhagavatam and now we shall print 12 volumes, for 12 cantos, under different names, each canto. That scheme will be nice. Regarding encroachment by Maya: There is every possibility, at every time, because we are living in the kingdom of Maya. Her influence upon us is very strong, but as indicated in the Bhagavad-gita, 7th chapter, that in spite of her very great influence over the living entities, a living entity as soon as he fully surrenders unto Krishna, the influence of Maya will no more act upon him. This is a fact. So the more we become stronger in our Krishna Consciousness, the more Maya is aloof from us.
@@ -19,3 +20,4 @@ If you can write a nice short article, inviting the hippies, to take to Krishna 
 
 Yours ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

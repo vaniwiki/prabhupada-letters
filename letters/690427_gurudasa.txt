@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 London
 
 My dear Gurudasa,
@@ -23,3 +24,4 @@ Please inform Yamuna that I have received her nice certificates, and her letter 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

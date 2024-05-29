@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cyavana ======
+====== Cyavana ======
 
+<card class="letter">
 My dear Cyavana:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 22nd 1973 and I have examined the contents carefully.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
+</card>

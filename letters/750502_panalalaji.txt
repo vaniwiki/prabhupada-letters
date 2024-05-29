@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Panalalaji ======
+====== Panalalaji ======
 
+<card class="letter">
 Hyderabad
 
 Dear Panalalaji,
@@ -21,3 +22,4 @@ I hope this meets you in good health. Thanking you in anticipation.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

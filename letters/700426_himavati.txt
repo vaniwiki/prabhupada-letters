@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Himavati ======
+====== Himavati ======
 
+<card class="letter">
 Hamburg
 
 My dear Himavati,
@@ -35,3 +36,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

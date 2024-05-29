@@ -7,9 +7,11 @@
 }
 ---
 
-====== Letter to: Hrdayananda ======
+====== Hrdayananda ======
 
+<card class="letter">
 Atlanta\\
 [To Hrdayananda]
 
 "Especially I am so much pleased to hear that you are travelling with a few men to each and every college campus to preach. That is wonderful news. Now try to build up and develop that programme to perfection, so that simply by hearing and seeing you the students will want to come forward to join this great movement. And distribute books, as many as you can---and I think you can distribute many millions of books alone, that Krishna will help you do."
+</card>

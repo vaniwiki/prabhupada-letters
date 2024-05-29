@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 My dear Karandhara:
 
 Please accept my blessings and I beg to acknowledge receipt of your letter dated the 22nd March.
@@ -25,3 +26,4 @@ I hope this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

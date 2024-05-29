@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I am trying to go back to your country as soon as possible. Hope you are well.
 
 Bhaktivedanta, Swami
+</card>

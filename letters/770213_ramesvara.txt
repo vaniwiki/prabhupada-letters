@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara ======
+====== Ramesvara ======
 
+<card class="letter">
 Dear Ramesvara Maharaja,
 
 Please accept my blessings.
@@ -17,3 +18,4 @@ I have received a very favorable testimony of our Movement from the President of
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

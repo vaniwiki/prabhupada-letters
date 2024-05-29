@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sally ======
+====== Sally ======
 
+<card class="letter">
 My dear daughter Sally,
 
 I beg to thank you for your kind letter of the 16th instant and I have noted the contents carefully. I am glad to learn that you had been to your parents house for a few days and now you have returned home. I am still more glad to learn that you are going to observe the third birthday of Miss Kamala Agarwal on Saturday next. On this occasion I should have presented her some ornaments but as I am a Sannyasi I can simply offer my blessing for her long life and good prosperity. She cannot now read otherwise at least I should have presented a set of my books. But you set aside one set of my books for her future reading when she will grow up a beautiful and educated girls with full god consciousness. I am obliged to your good daughter for awarding me a good degree as __SWAMI JESUS__ which is actually a great honour for me. Some time the Lord speaks through innocent child and I take this honour as sent by Lord Jesus through an innocent child free from all formalities of the current society. Lord Jesus preached the message of God and I have taken up the same mission, and it would be a good luck for me if I can follow the foot prints of Lord Jesus who preached the message of God in spite of all persecution. Lord Jesus is a living example how one has to suffer in this material world simply for the matter of preaching the message of God. In Bhagavatam also there is another example like Lord Jesus. He is Prahlada Maharaja a boy of five years old but because he was a great devotee of God and preaching the message of God among his little class mates, his atheist father tried to kill him. So the atheist class of men are always inimical to the devotees of God even though such devotee happens to be the atheist's son like Prahlada.
@@ -20,3 +21,4 @@ You can send me $40/- and it will help me going over California. I have decided 
 I hope you are all enjoying good health and with my blessings for you all, I am
 
 Yours affectionately,
+</card>

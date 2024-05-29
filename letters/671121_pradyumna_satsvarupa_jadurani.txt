@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna, Satsvarupa, Jadurani ======
+====== Pradyumna, Satsvarupa, Jadurani ======
 
+<card class="letter">
 My dear Pradyumna, Satsvarupa and Jadurani,
 
 Please accept my blessings. I have received your letters but have no time to reply them in detail as I am busy making hasty preparations to leave for the USA. I shall arrive on 24th November, 12:45 P.M. San Francisco time.
@@ -19,3 +20,4 @@ Jadurani---I am very glad that you want to kill the non-devotees. You should, ho
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

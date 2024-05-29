@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tripurari ======
+====== Tripurari ======
 
+<card class="letter">
 New York
 
 My dear Tripurari,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 *It is overmaterialistic.\\
 ACBS/jda
+</card>

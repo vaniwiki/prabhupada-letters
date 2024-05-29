@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurukrpa ======
+====== Gurukrpa ======
 
+<card class="letter">
 Melbourne
 
 My dear Gurukrpa Maharaja,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Alfred Ford ======
+====== Alfred Ford ======
 
+<card class="letter">
 Teton Village, Wyoming
 
 My dear Sriman Alfred Ford:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

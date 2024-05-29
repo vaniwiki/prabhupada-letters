@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kulasekhara ======
+====== Kulasekhara ======
 
+<card class="letter">
 Cardiff, Wales
 
 My dear Kulasekhara,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

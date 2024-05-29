@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Galim ======
+====== Sri Galim ======
 
+<card class="letter">
 My dear Sri Galim das,
 
 Please accept my blessings. I am in due receipt of your letter dated November 7, 1971, and I am encouraged to note that things are going on nicely at Austin center under your supervision. I have seen the photo-slides sent by Hayden Larson and William Walsh and they are first-class. Please give them all facilities to finish this work nicely. If Bill Prabhu holds a university post, then that is a very important position for spreading Krishna Consciousness and he should try to keep it as long as it will be beneficial in that way. My Guru Maharaja used to say that anything material, if it is used in the service of Krishna, it is a mistake to give it up.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ballabhi ======
+====== Ballabhi ======
 
+<card class="letter">
 San Francisco
 
 My dear Ballabhi,
@@ -25,3 +26,4 @@ If you try to follow my instruction you will feel that my body is in your presen
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

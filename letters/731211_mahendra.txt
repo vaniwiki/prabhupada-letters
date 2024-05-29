@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mahendra ======
+====== Mahendra ======
 
+<card class="letter">
 Pittsburgh
 
 My dear Mahendra,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
+</card>

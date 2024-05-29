@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Unknown ======
+====== Unknown ======
 
+<card class="letter">
 Buenos Aires
 
 RECEIVED REPORTS OF DISTURBANCE BY HANUMAN HRDAYANANDA SWAMI MUST BE OBEYED HE IS MY REPRESENTATIVE DO NOT MAKE UNNECESSARY AGITATION CHANT HARE KRISHNA
 
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aksayananda ======
+====== Aksayananda ======
 
+<card class="letter">
 Vrindaban
 
 My dear Aksayananda Maharaja,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Please let me know how "mukut" department is going to be managed? Who is the manager and what is the management scheme?\\
 ACBS/tkg
+</card>

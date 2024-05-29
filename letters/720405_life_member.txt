@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Life Member ======
+====== Life Member ======
 
+<card class="letter">
 Dear Life Member,
 
 Please accept my greetings.
@@ -42,3 +43,4 @@ The phenomenal growth of ISKCON reflects a basic worldwide need for the type of 
 ISKCON is creating men of character. Students are required to follow strictly the regulative principles of Vedic life: 1) No illicit sex-life (i.e. outside of marriage); 2) No intoxicants, including coffee, tea, cigarettes, drugs; 3) No gambling; 4) Vegetarian diet.
 
 At present, members of the Society are teaching accredited courses at Ohio State University, University of Florida, University of California at Berkeley, University of Buffalo (NY), and University of Washington.
+</card>

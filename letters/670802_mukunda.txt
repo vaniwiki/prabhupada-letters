@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 San Francisco
 
 My dear Mukunda,
@@ -19,3 +20,4 @@ Vinod Kumar who was supposed to reach U.S.A. on visitor's Visa is not granted th
 
 Your ever well wisher\\
 A.C. Bhaktivedanta Swami
+</card>

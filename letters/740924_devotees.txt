@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Devotees ======
+====== Devotees ======
 
+<card class="letter">
 My dear Devotees:
 
 Please accept my blessings. I thank you very much for your letter received at Vrindaban and your prayers for my health. By your prayers and by your chanting Hare Krishna, and by the grace of Lord Nrsimhadeva I am recovered from the serious illness.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

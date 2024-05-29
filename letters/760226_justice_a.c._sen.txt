@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Justice A.C. Sen ======
+====== Justice A.C. Sen ======
 
+<card class="letter">
 Justice A.C. Sen\\
 Calcutta
 
@@ -22,3 +23,4 @@ We will then have an opportunity to present you with Krishna conscious books lik
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami
+</card>

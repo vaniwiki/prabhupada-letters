@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Naranarayan ======
+====== Naranarayan ======
 
+<card class="letter">
 Sriman Naranarayan Das Adhikary\\
 c/o ISKCON Pittsburg\\
 4514 Plummer St.\\
@@ -32,3 +33,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

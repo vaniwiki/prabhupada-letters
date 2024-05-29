@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I am in due receipt of your letter dated 8th May, 1970, and I have seen the synonyms of Brahma Samhita verses. It appears that it is nicely done, but if I have to see it scrutinizingly, it will take some time.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

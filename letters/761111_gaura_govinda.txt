@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaura Govinda ======
+====== Gaura Govinda ======
 
+<card class="letter">
 Calcutta
 
 My dear Gaura Govinda,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

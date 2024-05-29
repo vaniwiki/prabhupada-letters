@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I thank you very much for your letter dated March 15, 1969, with enclosures. Regarding L.A. consignment:* It has nothing to do with your business. I have already advised them to send their bill separately and the payment also will be made separately. It has nothing to do with your transaction. You just complete your transaction with them about balance money due from them. This is the idea.
@@ -31,3 +32,4 @@ A.C. Bhaktivedanta Swami
 If Dai Nippon is not very definite about printing my books neither it is possible for being published by MacMillan Co., then the next alternative is to start our own Press. And you organize the sales.
 
 Enclosed one letter for %%__%% Please hand it over to her. By the end of the month I shall go to S.F. & by the 7th of next month I shall go to N.Y.
+</card>

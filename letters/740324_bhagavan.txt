@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavan ======
+====== Bhagavan ======
 
+<card class="letter">
 Dear Bhagavan das,
 
 Please accept my blessings. I have received the names of the devotees recommended by you for first initiation, and upon your word I have accepted them as my disciples. There new spiritual names are as follows.
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

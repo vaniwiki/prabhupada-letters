@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Gopala Krishna das:
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 *Please ask him to write and report
+</card>

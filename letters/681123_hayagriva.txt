@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your letter dated November 19, and have noted the contents. I am very much pleased by your renewed and serious efforts to help me in my service to my Guru Maharaja. Please continue in this attitude and Krishna will save you, you need have no doubt.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please try to finish up 1st and 2nd Cantos of Bhagavatam as soon as possible.
+</card>

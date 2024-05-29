@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I am very much anxious to know how is your present condition of health. Please let me know if you are improving or if there is some disturbance still. We should always remember that our body is not for sense gratification; it is for Krishna's service only. And to render very good sound service to Krishna we should not neglect the upkeep of the body. We learn from an instance of Sanatana Goswami. He was sometimes very much sick on account of eczema, and he was therefore sometimes bleeding. But whenever Lord Caitanya met Sanatana Goswami, He used to embrace him in spite of Sanatana's request for Him not to touch him. Because of this. Sanatana Goswami later on decided to commit suicide so Lord Caitanya would not embrace him in his bloody condition. This plan was understood by Lord Caitanya, and He called Sanatana Goswami and said to him, "you have decided to end this body, but don't you know that this body belongs to Krishna? You have already dedicated your body to Krishna so how can you decide to end it?" So you must not neglect the upkeep of your body. This is the lesson we get from Lord Caitanya and Sanatana Goswami. Try to take care of your health in the best possible way.
@@ -21,3 +22,4 @@ I hope this will meet you in improving health and cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

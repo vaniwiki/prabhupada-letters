@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaura Govinda ======
+====== Gaura Govinda ======
 
+<card class="letter">
 Hyderabad
 
 My dear Gaura Govinda Swami,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

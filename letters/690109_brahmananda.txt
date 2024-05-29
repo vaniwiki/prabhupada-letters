@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 4, 1969, and I have carefully noted the contents.
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. So far United Shipping Corporation is concerned, please let me know if their previous accounts are cleared off nicely. If their dealings are alright you can order them regularly & may open letter of credit. ACB
+</card>

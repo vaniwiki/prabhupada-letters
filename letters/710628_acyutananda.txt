@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acyutananda ======
+====== Acyutananda ======
 
+<card class="letter">
 Mayapur
 
 My dear Acyutananda Maharaja,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

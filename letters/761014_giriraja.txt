@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 My dear Giriraja Prabhu,
 
 Please accept my blessings. I am in receipt of your letter dated 8/10/76 and have noted the contents carefully.
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hds
+</card>

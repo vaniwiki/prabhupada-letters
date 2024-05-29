@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: HareKrishna Aggarwal ======
+====== HareKrishna Aggarwal ======
 
+<card class="letter">
 Sri HareKrishna Aggarwal\\
 177 Prem Kutia\\
 Marine Drive, Bombay\\
@@ -68,3 +69,4 @@ Thanking you in anticipation for an early reply.
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami, Acarya
+</card>

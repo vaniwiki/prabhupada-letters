@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Buro ======
+====== Buro ======
 
+<card class="letter">
 A.C. Bhaktivedanta Swami\\
 Camp Bombay July 28, 1965
 
@@ -32,3 +33,4 @@ Please, therefore, see me at the station at the above scheduled time If you howe
 
 Yours affectionately,\\
 [Prabhupada's Signature]
+</card>

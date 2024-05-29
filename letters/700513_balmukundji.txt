@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balmukundji ======
+====== Balmukundji ======
 
+<card class="letter">
 My dear Balmukundji,
 
 Please accept my blessings. I am in due receipt of your letter dated the 6th instant, and noted the contents.
@@ -30,3 +31,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

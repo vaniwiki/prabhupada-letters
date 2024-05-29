@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayanta ======
+====== Jayanta ======
 
+<card class="letter">
 Jayanta Dasa\\
 c/o ISKCON Nairobi
 
@@ -46,3 +47,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

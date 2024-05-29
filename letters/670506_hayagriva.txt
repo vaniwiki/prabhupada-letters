@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. You have nicely done %%____%% Lord Caitanya Drama 1st Act. It is nicely done literature but when playing you will have to make it cut short otherwise it will take too long a time. I have given it over to Rayarama for reading.
@@ -17,3 +18,4 @@ Rayarama has arranged for a press. We can now work our own press. So Back To God
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

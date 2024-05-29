@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vijayadvaja ======
+====== Vijayadvaja ======
 
+<card class="letter">
 Lautoka
 
 My dear Vijayadvaja,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

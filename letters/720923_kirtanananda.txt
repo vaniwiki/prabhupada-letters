@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. Thank you very much for your letter from New Vrndavana dated 19 September 1972 along with the box of sandesh. The sandesh was the first class sandesh I have tasted in your country, you have mastered the art perfectly well, thank you very much. I am happy to hear that your program in New Vrndavana has been very successful, and for my part I was very much pleased to attend this year. Now I can understand that this Bhagavata-dharma discourse can be held anywhere all over the world and people will come in large numbers such great distance and under all kinds of hardships just to hear our discourse. That is very encouraging to me, now you are __sannyasis__ and GBC men and I leave it to you to hold this __Bhagavata-dharma__ discourse and Hare Krsna festival all over your country widely, and this will be the success of our movement. You are experienced devotee, and you know how to do things well, so kindly train the others and distribute your experience widely, and organize. If such festivals can be held in different places continuously then my dream will be fulfilled. Your program for traveling to the colleges is nice, try to sell as many of our books and literatures as possible and lecture to all the students what is the real purpose of their education of life. If students become interested, they may come to New Vrndavana and stay with you for some time, and you can instruct them in our philosophy. Gradually try to develop that place, there is immense potential and immense land for development. I saw so much land, but there were no men working the land or raising crops. That is our purpose for keeping so much land, to utilize it in the service of Krsna. So next year you can raise so many kinds of fruits and vegetables there and keep cows, and that will be the ideal Krsna Conscious community of living.
@@ -21,3 +22,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: First National City Bank ======
+====== First National City Bank ======
 
+<card class="letter">
 First National City Bank\\
 Grand Street Branch\\
 Grand Street and Bowery\\
@@ -23,3 +24,4 @@ Kindly transfer from my above mentioned account $3,500 to the Bank of America (P
 
 Yours Truly,\\
 A.C. Bhaktivedanta Swami.
+</card>

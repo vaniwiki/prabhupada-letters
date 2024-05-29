@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Puri Maharaj ======
+====== Puri Maharaj ======
 
+<card class="letter">
 “Akash Ganga”
 
 89 Warden Road
@@ -29,3 +30,4 @@ Sri Krishna Nagar,\\
 Visakhapatnam-2.
 
 ACBS:tkd 
+</card>

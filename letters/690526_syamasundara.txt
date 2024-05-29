@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I am very pleased to read your letter dated May 21, 1969. Your anxiety for my health may not be increased, because I am keeping quite fit nowadays. There was a little backache in Boston for two or three days, but now I am walking in this hilly tract up and down. So don't be anxious. There about 16 centers now, so we have to take care of at least 16 centers daily. Otherwise, how these branches can be conducted? But gradually I am trying to divide the responsibility to departmental heads. I am so glad that you are trying so strenuously for success of our London Yatra program. I am sure our London program will be very successful because you are all sincere workers. In our Krishna Consciousness Movement, anyone who has got full blessings and confidence of the Spiritual Master, and therefore Krishna, his success is sure. In the __Caitanya Caritamrta__ it is said "__guru krsna krpaya paya bhakti lata bija__ [[books:cc:madhya:19:151|(Cc. Madhya 19.151)]]."
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am starting a formal school here in N.V. and your daughter grows, she can be sent here. ACB
+</card>

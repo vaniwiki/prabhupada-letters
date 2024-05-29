@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harer Nama ======
+====== Harer Nama ======
 
+<card class="letter">
 Boulder
 
 My dear Harer Nama,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 N.B.---Regarding Professor Srivastava, please encourage him to participate in understanding our movement, and show him our literatures.---ACBS\\
 ACBS:db
+</card>

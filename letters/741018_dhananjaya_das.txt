@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dhananjaya das ======
+====== Dhananjaya das ======
 
+<card class="letter">
 My dear Dhananjaya das:
 
 Please accept my blessings. I am in due receipt of your letter dated October 15, 1974 with two bank receipts enclosed. I have noted the contents and am very pleased with the progress going on there. Things are going on. That I wanted. The classes and program must continue. That is the life of the temple. Everyone must attend the morning and evening program, otherwise it will be a dead temple.
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 ACBS/bs
 
 Enc:1
+</card>

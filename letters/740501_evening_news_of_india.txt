@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Evening News of India ======
+====== Evening News of India ======
 
+<card class="letter">
 Advertiser\\
 Box 25854\\
 Evening News of India\\
@@ -22,3 +23,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

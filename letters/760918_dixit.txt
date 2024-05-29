@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dixit ======
+====== Dixit ======
 
+<card class="letter">
 My dear Dixit das,
 
 Please accept my blessings. I am in due receipt of your kind letter dated 14th Sept. 1976 and have noted the contents with care. I am very much pleased to understand that although you are now living away from Vrndavana, your mind is here. That is a very good sign. This is the symptom of loving affection for Krishna.
@@ -29,3 +30,4 @@ So think over these matters. You are experienced and if you take up the charge o
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

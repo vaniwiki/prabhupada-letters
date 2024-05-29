@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 13rd June, 1971 and have noted the contents. Just yesterday I arrived in Moscow, and we are staying in a very nice hotel. On the whole, this is a very nice city (the best in Europe); it is very neat and clean. We are trying to arrange, through the embassy some talks on our philosophy, and I will let you know what happens. On the 25th instant I will go to Paris, stay for one day, and fly directly to San Francisco for Rathayatra. Then I will go to London for their Rathayatra on 4th July. Shortly thereafter, I will return to N.Y.C. All mail can go to L.A.
@@ -21,3 +22,4 @@ Please offer my blessings to the others. Hoping this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dayananda ======
+====== Dayananda ======
 
+<card class="letter">
 London
 
 My dear Dayananda,
@@ -29,3 +30,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

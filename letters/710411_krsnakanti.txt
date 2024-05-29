@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsnakanti ======
+====== Krsnakanti ======
 
+<card class="letter">
 My dear Krsnakanti,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated 7th and 21st February, 1971 respectively and have noted the contents carefully. You ask that you become strong enough to fearlessly preach Krishna Consciousness. Yes, I know that you have got Krishna's blessings. Therefore you are strong enough to go on preaching and as you do so your strength will increase more and more. I am very pleased with your service from the very beginning. Please go on in this way and push on the cause of our mission.
@@ -25,3 +26,4 @@ Please offer my blessings to the others. Hoping this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

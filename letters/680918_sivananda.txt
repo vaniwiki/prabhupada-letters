@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 Berlin
 
 My dear Sivananda,
@@ -36,3 +37,4 @@ Mukunda das Adhikari
 London S.E. 24
 
 England
+</card>

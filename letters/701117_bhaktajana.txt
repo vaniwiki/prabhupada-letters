@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhaktajana ======
+====== Bhaktajana ======
 
+<card class="letter">
 My dear Bhaktajan,
 
 Please accept my blessings. I am so glad to hear from you after a very long time. It is my pleasure that you have come to stay with us in our New York Temple. I do not think you are any more able to leave Krsna because He does not let anyone go away who has once come forward in His service.
@@ -35,3 +36,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

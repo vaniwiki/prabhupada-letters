@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vamanadeva ======
+====== Vamanadeva ======
 
+<card class="letter">
 My dear Vamanadeva Das Adhikari:
 
 Please accept my blessings. I beg to acknowledge receipt of your offering of $20.00 and thank you very much. I understand that you are now in London for helping to make our new place there a nice temple. So I will be very pleased if you make this English house into first class temple for Lord Krishna. London is very important center, so you do the work nicely.
@@ -20,3 +21,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs
 
+</card>

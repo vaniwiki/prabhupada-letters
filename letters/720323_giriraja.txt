@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Calcutta
 
 My dear Giriraja,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 *latest by the 27th March 1972\\
 ACBS/sda
+</card>

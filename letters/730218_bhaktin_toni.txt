@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhaktin Toni ======
+====== Bhaktin Toni ======
 
+<card class="letter">
 Los Angeles
 
 My dear Bhaktin Toni,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ms
+</card>

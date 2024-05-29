@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sirs ======
+====== Sirs ======
 
+<card class="letter">
 Names of the Executive members of the Delhi section of the League of Devotees.
 
 (1) Rai Bahadur Pandit Narain Das, 21 Pusha Road, N. Delhi\\
@@ -51,3 +52,4 @@ To %%__%% of the following immediately\\
 (3) Japa Appeal (English & Hindi)\\
 (4) Membership forms (English & Hindi)\\
 (5) Rubber Stamps
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala,
 
 Please accept my blessings, I am in due reciept of your letter dated May 9, 1968. It is very nice that Hal Pappa is coming to our temple. Please hand over the enclosed letter which I write to him out of my natural affection for him. I think if he joins with you you will feet more encouraged in the service of the Lord.
@@ -17,3 +18,4 @@ I thank you one more for your endeavors in the service of the Lord, and We must 
 
 Your ever well-wisher,\\
 ACB
+</card>

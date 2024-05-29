@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sir Alistair Hardy ======
+====== Sir Alistair Hardy ======
 
+<card class="letter">
 Sir Alister Hardy, F.R.S.\\
 Religious experience research unit\\
 Manchester College\\
@@ -56,3 +57,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

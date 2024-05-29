@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sarvamangala ======
+====== Sarvamangala ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 My dear Sarvamangala devi dasi:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

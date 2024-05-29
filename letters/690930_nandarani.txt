@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandarani ======
+====== Nandarani ======
 
+<card class="letter">
 My dear Nandarani,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 19th, 1969, and I am so glad to learn that the activities in Los Angeles temple are going very nicely. The first day I arrived we had talks about two hours with the Beatles, but because they are materially very rich, it is little difficult for them to understand Krishna Consciousness philosophy. In the __Bhagavad-gita,__ perhaps you have read, it is said there that those who are too much addicted to materialistic way of sense gratification, they cannot put their faith in Krishna Consciousness. Anyway, whatever they are helping, that is welcome. Their record is selling nicely, and George Harrison is more inclined to our movement. Now he is not in London, because his mother is very ill and he has gone to Liverpool. I am living in the guest house of Mr. Lennon. He has spared a very nice temple house here where we hold our kirtanas, since our own temple house in London proper is under renovation.
@@ -17,3 +18,4 @@ I am so glad to learn that Candramukhi is getting Krishna Consciousness from the
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

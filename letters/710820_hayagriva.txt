@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. You happen to be a member of the GBC. So whatever you want to do or whatever ideas you want to introduce in the management of our society, please write in a letter and distribute the copies to all the GBC members along with one copy to me also. Then collect the opinions of each and every GBC member and if the majority supports the idea then it should be taken as a fact for being carried out by our society. The majority vote and my opinion should be taken. When the majority opinion is present, my opinion will be yes or no. In most cases it will be yes, unless it is grievously against our principles.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

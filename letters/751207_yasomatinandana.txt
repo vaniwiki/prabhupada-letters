@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasomatinandana ======
+====== Yasomatinandana ======
 
+<card class="letter">
 Ahmedabad
 
 My dear Yasomatinandana Prabhu,
@@ -19,3 +20,4 @@ Anyway he is going there, work with him cooperatively and everything will be suc
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

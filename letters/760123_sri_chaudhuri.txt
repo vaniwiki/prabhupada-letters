@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Chaudhuri ======
+====== Sri Chaudhuri ======
 
+<card class="letter">
 Department of Development and Planning\\
 Government of West Bengal\\
 Raj Bhavan, Calcutta
@@ -25,3 +26,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

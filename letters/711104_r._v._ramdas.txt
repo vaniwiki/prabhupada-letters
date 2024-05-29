@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: R. V. Ramdas ======
+====== R. V. Ramdas ======
 
+<card class="letter">
 c/o Vishva Hindu Parishad\\
 16/10 Arya Samaj Road\\
 New Delhi (Korelbag)
@@ -25,3 +26,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

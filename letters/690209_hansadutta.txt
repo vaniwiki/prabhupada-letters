@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I am in due receipt of your letter of January 30, 1969, and I have noted the contents carefully. I am pleased to note that you are seeing into obtaining a dictaphone for helping me in preparing so many Krishna Consciousness literatures. The maker of my present dictaphone is Grundig, and it is an Embassy de Jur, Sterorette. This model was purchased by Hayagriva in New York for $190 by cash payment, but it can be had by installment payment at a higher price. So you may do the needful in this matter.
@@ -27,3 +28,4 @@ Kindly convey my blessings to the other devotees in your temple. I am awaiting y
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

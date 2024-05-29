@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acyutananda, Yasodanandana ======
+====== Acyutananda, Yasodanandana ======
 
+<card class="letter">
 Hyderabad
 
 My dear Acyutananda Swami and Yasodanandana Swami,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. I am going to Delhi. I am arranging to start a Krsna-Arjuna temple at Kuruksetra where B.G. was spoken. ACBS.\\
 ACBS/BS/mdd
+</card>

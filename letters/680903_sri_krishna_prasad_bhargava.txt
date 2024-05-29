@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Krishna Prasad Bhargava ======
+====== Sri Krishna Prasad Bhargava ======
 
+<card class="letter">
 Sri Krishna Prasad Bhargava\\
 G. G. Industries\\
 Agra, India
@@ -25,3 +26,4 @@ I hope this will find you in good health, and thanking you in anticipation.
 
 Yours very sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

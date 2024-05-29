@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 27, 1968 along with one very beautiful picture by Jadurani. I am so pleased to see this wonderful portrait and please convey my hearty thanks to Jadurani for her fine endeavors.
@@ -21,3 +22,4 @@ I hope that you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

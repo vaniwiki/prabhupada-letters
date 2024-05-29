@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nayanabhirama ======
+====== Nayanabhirama ======
 
+<card class="letter">
 My dear Nayana Bhirama,
 
 Please accept my blessings. I am in due receipt of your letter dated 21st November, 1970 and have noted the contents carefully.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

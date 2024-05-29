@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satadari ======
+====== Satadari ======
 
+<card class="letter">
 Los Angeles
 
 My dear Satadari devi dasi:
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

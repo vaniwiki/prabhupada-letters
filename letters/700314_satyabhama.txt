@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satyabhama ======
+====== Satyabhama ======
 
+<card class="letter">
 New Vrindaban
 
 My dear Satyabhama,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

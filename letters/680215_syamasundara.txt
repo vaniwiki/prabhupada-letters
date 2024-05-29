@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I am in receipt of your letter with designs of the throne. I am so glad that somebody has donated sufficient funds to construct the throne. Your design appears to be very nice, nicer than the design which I gave you drawn by Gaurasundara; but the former design was made with the proposal of covering it with silver foils. To make it less expensive because the whole thing has to be covered by silver foils, I made it plainer. But your design is not so plain, it is gorgeous and if it is covered with silver foils it will be still more gorgeous. My point is: with this design or former design, it does not matter, but it must be covered, major portion, with silver foil. I am glad to hear that someone is going to donate sufficiently for this throne. Now you make your own choice which one will be suitable for our purpose. If the friend who wants to donate is willing to pay any amount of expenditure, then your design is very nice. You do it nicely for the service of Sri Sri Radha Krishna. But the silver covering must be very prominent.
@@ -17,3 +18,4 @@ I am returning the design as requested. I am feeling well so don't worry about m
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

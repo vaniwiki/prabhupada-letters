@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nityananda ======
+====== Nityananda ======
 
+<card class="letter">
 New Orleans
 
 My dear Nityananda das,
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

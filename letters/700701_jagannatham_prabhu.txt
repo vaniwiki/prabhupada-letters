@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagannatham Prabhu ======
+====== Jagannatham Prabhu ======
 
+<card class="letter">
 Y. Jagannatham\\
 Bombay
 
@@ -26,3 +27,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

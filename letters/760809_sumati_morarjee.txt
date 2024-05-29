@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sumati Morarjee ======
+====== Sumati Morarjee ======
 
+<card class="letter">
 Bombay
 
 Madame Sumati Morarji,
@@ -39,3 +40,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

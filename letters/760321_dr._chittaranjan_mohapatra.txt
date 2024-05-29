@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Chittaranjan Mohapatra ======
+====== Dr. Chittaranjan Mohapatra ======
 
+<card class="letter">
 Dr. Chittaranjan Mohapatra,\\
 Krishna Youth Club\\
 Jasotikiri, Akhuapada,\\
@@ -32,3 +33,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

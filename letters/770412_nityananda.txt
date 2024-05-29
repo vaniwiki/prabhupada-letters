@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nityananda ======
+====== Nityananda ======
 
+<card class="letter">
 New Talavan, Mississippi
 
 My dear Nityananda:
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
+</card>

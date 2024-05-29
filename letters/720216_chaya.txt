@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Chaya ======
+====== Chaya ======
 
+<card class="letter">
 My dear Chaya dasi,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 29, 1972, and I have noted the contents. Complete separation from the boys is not necessary for girls at such young age, so I don't require that they must be educated separately, only that they should live separately. What do they know of boy or girl at such young age? There was one question by a little girl like Sarasvati to her father: "Father, when you were young were you a boy or a girl?" So when they are grown up, at about 10 to 12 years old, then you can make separate departments for teaching also. But while they are so young, although they must live in separate boys and girls quarters, they may be educated sometimes together, there is no such restriction that little girls should not have association with little boys, not until they are grown up.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

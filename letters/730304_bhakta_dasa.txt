@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhakta dasa ======
+====== Bhakta dasa ======
 
+<card class="letter">
 My dear Bhakta das:
 
 Please accept my blessings. I beg to acknowledge receipt of your encouraging letter dated the 20th February. Just yesterday I have arrived here in Calcutta, and by the end of the week expect to go to Mayapur where are having a grand celebration on the Appearance Day of Lord Caitanya Mahaprabhu.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
+</card>

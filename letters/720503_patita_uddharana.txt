@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Patita Uddharana ======
+====== Patita Uddharana ======
 
+<card class="letter">
 Detroit
 
 My dear Patita Uddharana,
@@ -17,3 +18,4 @@ Please accept my blessings. I beg to acknowledge receipt of your letter dated Ap
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

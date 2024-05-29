@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jugalkishore Birla ======
+====== Jugalkishore Birla ======
 
+<card class="letter">
 Sri Jugalkishore Birla,\\
 Birla House,\\
 Albukark Road,\\
@@ -60,3 +61,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta
 
 Founder Secretary.
+</card>

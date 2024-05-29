@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vijitatma ======
+====== Vijitatma ======
 
+<card class="letter">
 My dear Vijitatma:
 
 Please accept my blessings. I have received your $100.00 daksina and I thank you very much for it.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
+</card>

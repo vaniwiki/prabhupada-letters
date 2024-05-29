@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aticandra ======
+====== Aticandra ======
 
+<card class="letter">
 Los Angeles
 
 My dear Aticandra dasi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

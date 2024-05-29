@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dayananda, Nandarani ======
+====== Dayananda, Nandarani ======
 
+<card class="letter">
 Los Angeles
 
 My dear Dayananda and Nandarani,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS
+</card>

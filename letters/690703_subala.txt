@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala das,
 
 Please accept my blessings. I thank you very much for your letter dated June 25, 1969, and I am pleased to note the contents. By Krishna's blessings surely you will find a nice place soon, and your enthusiasm for Krishna's service will be fulfilled. Srila Rupa Goswami has recommended six principles for advancement in Krishna Consciousness: enthusiasm, patience, conviction of success, executing the regulative principles, honest endeavor, and association with devotees. So these six principles you try to follow very rigidly, and wherever you go you will be successful. I am confident that Krishna will help you, because two centers, Los Angeles and Santa Fe, were given start by you, and they are still existing. But this time, Philadelphia, you should not leave half finished. Philadelphia is a very nice place, one of the most important places in your country, so try to stick there, and all facilities will be given to you by Krishna.
@@ -17,3 +18,4 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

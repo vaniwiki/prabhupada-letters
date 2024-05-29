@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Guru Datta Sharma ======
+====== Guru Datta Sharma ======
 
+<card class="letter">
 Guru Datta Sharma\\
 BEAWAR (Dist. Ajmer)\\
 Rajasthan 305901
@@ -25,3 +26,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

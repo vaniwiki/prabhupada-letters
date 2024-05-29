@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 22nd March, 1971 and have noted the contents carefully. You say that Bhagavatam printing is going on, but what about Bhagavad-gita As It Is? Some San Francisco Indian friends promised to pay $20,000, for this. So somehow get this money and manage to print Bhagavad-gita as quickly as possible, without stopping. Best thing is to get Bhagavad-gita printed on our own press, some soft bound and some hard bound, regularly sewn. Now in N.Y. we have got large space. If required we can increase by another press, but try to get all our books printed on our own press.
@@ -20,3 +21,4 @@ What GBC man from India has written that GBC member should be "disentangled from
 So far as "youth work" is concerned, it can be taken up, but our process must be followed strictly. Anyone may come but our process must remain the same. The men are expected to shave their heads and wear robes; they must attend classes, read our books, chant 16 rounds, attend arati, go for street Sankirtana, take prasadam only, etc. To have any separate institution apart from the temple, that we cannot do. Everything must be within the scope of our activities, then this "youth problem" can be solved. Our process is proven as the only effective means. If the government or any other organization gives up a place, then we can train up such youth in our own way and surely they will come out sane. That place given will be a temple. So the process remains the same, except on a larger scale. Not that there is a separate division of ISKCON to handle youth problem, but that we have a bigger temple to accommodate them is all, and then the people will see practically how we are doing the highest welfare work.
 
 [PAGE MISSING]
+</card>

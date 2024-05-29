@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ekayani ======
+====== Ekayani ======
 
+<card class="letter">
 My dear Ekayani Dasi,
 
 Please accept my blessings. I am in due receipt of your encouraging letter dated 19th July, 1970, and noted the contents.
@@ -39,3 +40,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:dm
+</card>

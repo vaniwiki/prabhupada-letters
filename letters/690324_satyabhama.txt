@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satyabhama ======
+====== Satyabhama ======
 
+<card class="letter">
 My dear Satyabhama,
 
 Please accept my blessings. I am in due receipt of your very nice letter of March 16, and I thank you very much for it. I am happy to hear that you and your good husband are living peacefully at New Vrindaban and executing Krishna Consciousness. This is very nice, and is a good example for others. In the Western countries there is practically no real family life, and we have to show good example of Krishna Consciousness family life, and others will be attracted to follow your examples. This is my idea.
@@ -25,3 +26,4 @@ I hope you are feeling happy and in good health executing Krishna Consciousness.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

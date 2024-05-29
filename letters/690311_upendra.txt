@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I thank you very much for your letter of March 5, 1969, and I have noted the contents carefully. Yes, a new man may commit blunders in the beginning, but that does not mean we may be too impatient with him. After all, training means the man does not know, so you should train him nicely. A Vaisnava is expected to be humbler than the blade of grass, so when you train some new man you should not get agitated with him. After all, we are preachers, and we do not expect our audience or candidates completely respondent to our call. If everyone is trained then what is the use of our preaching. I receive daily so many odd letters, still we have to reply them properly. So you are in charge of the Seattle branch. You should try to develop and manage this temple as your life interest. Don't be flickering, thinking of going here and there. Whatever charge given from Krishna through the medium of Spiritual Master you should be carrying out very faithfully. I have come to your country in this old age with this interest. We should not mind where we are kept or where we have to discharge our duties. But we should accept and do them nicely.
@@ -26,3 +27,4 @@ Please convey my blessings to all there, and I hope you are well.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: All ISKCON Temple Presidents ======
+====== All ISKCON Temple Presidents ======
 
+<card class="letter">
 MEMO TO ALL ISKCON TEMPLE PRESIDENTS:
 
 My dear %%___%%
@@ -35,3 +36,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

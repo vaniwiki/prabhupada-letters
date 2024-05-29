@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bank of Baroda ======
+====== Bank of Baroda ======
 
+<card class="letter">
 Agent\\
 Bank of Baroda\\
 Reclamation Branch\\
@@ -44,3 +45,4 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

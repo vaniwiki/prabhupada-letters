@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sir ======
+====== Sir ======
 
+<card class="letter">
 (?) Khanna Aban Villa,\\
 Santacruz East\\
 Bombay-55 INDIA
@@ -21,3 +22,4 @@ Besides this, even if one is initiated into brahmanahood it does not mean that h
 
 Sincerely yours,\\
 A.C. Bhaktivedanta Swami
+</card>

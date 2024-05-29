@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:ds\\
 Please send the RED nickel-cadmium battery charging cable for the UHER and an earphone also. They must be purchased and sent as soon as possible.
+</card>

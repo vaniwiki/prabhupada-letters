@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Devananda ======
+====== Devananda ======
 
+<card class="letter">
 1975 So. La Cienega Blvd. \\
 Los Angeles, Cal. 90034
 
@@ -20,3 +21,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Dave ======
+====== Dr. Dave ======
 
+<card class="letter">
 Ahmedabad
 
 Dear Dr. Dave,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/as
+</card>

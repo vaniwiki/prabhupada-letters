@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhavananda ======
+====== Madhavananda ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 My dear Madhavananda,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:SDG\\
 cc: Niranjana das Brahmacari
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Jim Doody ======
+====== Mr. Jim Doody ======
 
+<card class="letter">
 Dear Mr. Jim Doody,
 
 Please accept my blessings. I am very glad to read your letter of February 3, 1969, and I am also glad to learn of your very sincere desire to serve Krishna. Surely He will save you. Material entanglement is no problem; if Krishna was not so powerful that He can easily undo our material entanglement then there would be no need to follow the path of Krishna Consciousness. Krishna has given His instruction in the Bhagavad-gita that one should simply surrender unto Him, and immediately He takes charge of solving all of the problems of life. So if you decide to surrender unto Krishna, and if you are sincere of purpose, there is no problem of your life. Material entanglement is not a new thing for you. Everyone who is in this material world has got material problems. Who hasn't got the problem of birth? Who hasn't got the problem of death? Who hasn't got the problem of old age? And who hasn't got the problem of disease? Nobody can escape these problems, so everyone in this material world is entangled. The difference is only of varieties of types of entanglement.
@@ -23,3 +24,4 @@ Please convey my blessings to the others there. I was so glad to talk with them 
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

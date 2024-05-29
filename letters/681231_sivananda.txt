@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I am in due receipt of your very long letter dated December 23, 1968 which explains the whole situation that you are undergoing. First of all, I must inform you that Vamanadeva's advice that first you should make a move and then consult your spiritual master is most unauthorized. A disciple should not do anything without asking first his Spiritual Master. It is said in __Srimad-Bhagavatam__ that a brahmacari should beg and collect things and then deliver them to his Spiritual Master, and when the Spiritual Master will ask him to come and take prasadam he will do so. If one day the Spiritual Master forgets to call a brahmacari to participate in the lunch, he should rather fast that day than take food out of his own accord. Of course I do not mean to impose upon you such strictures, but the purport is that a brahmacari should not do anything without being directed by the Spiritual Master. I know that you are sincere devotee and a faithful brahmacari, but still you should not do anything without consenting me. If Vamanadeva gave such unauthorized counsel, he did not do right. Anyway, I have carefully read the contents of your letter and I can understand your mental situation. Your scheme is all right, your mother has some financial strength and you want to be in her confidence to get the money engaged in the Krishna Consciousness Movement. That's a good scheme, but unfortunately we do not get financial help by our schemes, but should always depend upon the Causeless Mercy of Lord Krishna.
@@ -19,3 +20,4 @@ So far as your mother's money, Krishna will arrange to deliver it in due time. B
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I thank you very much for your letter dated June 11, 1968, and noted the contents. Your sentiments expressed in this letter are transcendentally relished. Certainly you are mine and I am Krishna's, therefore you are also Krishna's. In the Krishna Consciousness activities that is the process. By following the disciplic succession, beginning from Krishna, everything becomes ultimately connected with Krishna. And Krishna being absolute, anything connected with Him becomes absolute, without any duality of concept like in the material world. In the material world, it is called illusion because everyone thinks I or my. But in the spiritual world, everything is Krishna. We being part and parcel of Krishna, when we surrender fully unto Krishna with sincerity of purpose, through the transparent via media of the spiritual master. One who thinks himself as Krishna's, he is non-different from Krishna. So the attitude which you are mentioning is the Grace of Krishna, and I wish by His Lordship's Mercy you will continue this aptitude of becoming more and more progressed in Krishna Consciousness. Thank you very much for thinking in such a nice way.
@@ -17,3 +18,4 @@ Regarding the press, recently I have received one letter from Rayarama which I a
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

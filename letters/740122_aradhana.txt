@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aradhana ======
+====== Aradhana ======
 
+<card class="letter">
 Montreuil, France
 
 Dear Aradhana,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

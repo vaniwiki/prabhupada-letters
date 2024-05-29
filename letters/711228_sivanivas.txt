@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivanivas ======
+====== Sivanivas ======
 
+<card class="letter">
 Santa Barbara
 
 My dear Sivanivas,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

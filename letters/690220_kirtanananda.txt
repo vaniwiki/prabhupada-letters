@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 18, 1969. I thank you very much for your inviting me to New Vrindaban, but, considering the local climate as presented by you I think I shall postpone it until the end of April. I am enclosing here reply to the letter of Hayagriva and Syama devi.
@@ -21,3 +22,4 @@ A.C. Bhaktivedanta Swami
 P.S. Is it possible to get your insurance money for clearing debts? Then why not show some debt & get the money.
 
 I am thinking of going to Hawaii by the end of this month!
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Punjab National Bank ======
+====== Manager of Punjab National Bank ======
 
+<card class="letter">
 Manager\\
 Punjab National Bank\\
 P.O. Vrndavana\\
@@ -26,3 +27,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

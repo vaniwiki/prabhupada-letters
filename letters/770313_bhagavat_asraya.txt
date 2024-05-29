@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavat Asraya ======
+====== Bhagavat Asraya ======
 
+<card class="letter">
 New Delhi
 
 My dear Bhagavat Asraya,
@@ -23,3 +24,4 @@ I hope this meets you in the best of health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

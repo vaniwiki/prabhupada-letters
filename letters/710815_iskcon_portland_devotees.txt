@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: ISKCON Portland, Danavir, Trilochana, Visnu, Kamsari, Kamala, Traidas, Pramada, others ======
+====== ISKCON Portland, Danavir, Trilochana, Visnu, Kamsari, Kamala, Traidas, Pramada, others ======
 
+<card class="letter">
 TO ISKCON PORTLAND:
 
 My dear Danavir, Trilochana, Visnu das, Kamsari, Kamala, Traidas, Pramada, etc.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

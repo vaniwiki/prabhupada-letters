@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: S. C. Mukherjee ======
+====== S. C. Mukherjee ======
 
+<card class="letter">
 Sri S.C. Mukherjee\\
 B/2 Kiron Sankara Roy Road\\
 Calcutta-1
@@ -21,3 +22,4 @@ Hoping this will meet you in good health.
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

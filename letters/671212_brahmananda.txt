@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of Your letter Dec. 2, 1967 with great pleasure. I am so glad to learn that we are receiving orders for our records from far distant places. It is all Krishna's mercy. You will be pleased to know that I have purchased my ticket for New York via Tokyo and San Francisco. I am starting tomorrow morning at nine-thirty. By evening reaching Tokyo via Bangkok and Hong Kong. I shall rest 24 hours in Tokyo and on the 14th at night, I am starting for San Francisco. By local time I am reaching San Francisco on the same day, the 14th at 12:45 p.m. by P.A.A. 846. Yesterday I have sent one telegram to this effect, and I hope I shall reach there safely as scheduled. I am so glad to learn that Satyavrata and yourself are trying to get the teachings of Lord Caitanya published. You do not know how pleased I am to hear this news. When one book is published I think I have conquered an empire. So try to publish as many books as possible and that will enhance the beauty and prestige of our society. The Ramakrishna mission has nothing to say substantial but because they have money and have published so many rubbish literatures they have become very cheaply popular. You can just imagine how much powerful our society will become when we have as many substantial literatures published. We should not only publish in English but also in other important languages such as French and German.
@@ -19,3 +20,4 @@ I am already in negotiations with the government of Rajasthan for securing one p
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta, Swami
+</card>

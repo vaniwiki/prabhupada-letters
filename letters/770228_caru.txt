@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Caru ======
+====== Caru ======
 
+<card class="letter">
 Berkeley
 
 Dear Caru,
@@ -23,3 +24,4 @@ I have accepted Mother Debbie for first initiation and her spiritual name is Div
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

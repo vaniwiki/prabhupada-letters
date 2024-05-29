@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivaram ======
+====== Sivaram ======
 
+<card class="letter">
 Sriman Sivaram das Brahmachary\\
 ISKCON 216 Ridgewood Avenue\\
 Minneapolis, Minn. USA 55403
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

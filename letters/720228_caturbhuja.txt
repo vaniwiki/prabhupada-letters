@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Caturbhuja ======
+====== Caturbhuja ======
 
+<card class="letter">
 My dear Caturbhuja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated, and I have noted the contents carefully. Thank you very much for your questions. You enquire about the mode of goodness, and why such people do not worship Krishna. Actually, this is not the final stage, one has to go further ahead to suddha sattva. In the material mode of goodness there are sometimes tinges of the modes of passion and ignorance, but in the suddha sattva stage there is only pure love of God or pure mode of goodness, that is the difference.
@@ -26,3 +27,4 @@ I hope this will meet you in good health and happy mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

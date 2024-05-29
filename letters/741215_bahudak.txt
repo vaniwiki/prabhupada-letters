@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bahudak ======
+====== Bahudak ======
 
+<card class="letter">
 Bridesville, Canada
 
 My dear Bahudak,
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 N.B. Also I have accepted Partha, Uttama, %%__%%, Bhadra for 2nd initiation---threads enclosed.
+</card>

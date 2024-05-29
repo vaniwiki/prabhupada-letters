@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala,
 
 Please accept my blessings. I am in due reciept of your letter of June 10th, 1968, and noted the contents carefully. Yes, you can have the band play there in the temple as you are in great need of money to carry on there. When we are in need of money to carry on Krishna's work, then we can resort to whatever means there is available. So long it is always for Krishna and never for personal sense gratification. So you can try to get some money in that way.
@@ -17,3 +18,4 @@ You can observe Rathayatra Festival there on 27th june. Hope you are well.
 
 Your ever well-wisher,\\
 ACB
+</card>

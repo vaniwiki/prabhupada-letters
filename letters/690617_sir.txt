@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sir ======
+====== Sir ======
 
+<card class="letter">
 Dear Sir:
 
 RE: S.B. a/c __2913__ with you
@@ -20,3 +21,4 @@ Please acknowledge receipt to my following address: ISKCON, 1975 South La Cieneg
 Sincerely,
 
 A.C. Bhaktivedanta Swami
+</card>

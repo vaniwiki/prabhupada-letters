@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated 21st and 23rd February, 1971, respectively. I have also received the newspaper clipping showing Hrdayananda's wedding and it is very nice. So far as him taking over the management of Boston temple, that is all right. All department heads should train an assistant so that in their absence, work may not suffer but go on continuously. However, why do you want to divorce yourself entirely from management of Boston temple? Do you think that is necessary?
@@ -22,3 +23,4 @@ Yes, it is my desire that Isana and his wife and child stay there in Boston temp
 So far as helping youth cases, they should live with us. We cannot devote separate time for them. That is not possible. If anyone desires to be treated, he must live with us. Before admitting him, we must see that he is not a mad man and will not create a disturbance. If he lives with us and sees how
 
 [PAGE MISSING]
+</card>

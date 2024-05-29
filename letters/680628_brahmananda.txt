@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter of 6/25/68, of Mr. Kallman catastrophe. When I first came from San Francisco to New York, and when you informed me about the prospective business with Mr. Kallman, I was so much doubtful about the success of the plan. And therefore I hesitated. Anyway, whatever is done is done, now try to separate from this botheration without breaking our good friendship with Mr. Kallman. Caitanya Mahaprabhu especially warned His devotees to deal with worldly minded men. Therefore according to Vedic principles, only the Brahmacaris, the Vanaprasthas, and the Sannyasis are recommended to take to Krishna Consciousness seriously or to get free from the problem of earning money. The Grhasthas are supposed to support the 3 sections of the society. Anyway, the best source of our income should be by accepting contributions from the sympathetic public, and selling our own books and literature. That is also a sort of business, but it doesn't matter. And if we do business we must do it independently, without any assistance from outsiders. We can take help from outside in the matter of monetary help, either by contribution or by loan, but not to enter into transactions with outsiders. Because their aim of life is different from ours.
@@ -27,3 +28,4 @@ In Santa Fe they want incense. So if the incense consignment from India (as I do
 Kirtanananda is in W. Virginia and he invites 100 Brahmacaris there. I don't how would you like this idea of when we have got 100 Brahmacaris.
 
 ACB
+</card>

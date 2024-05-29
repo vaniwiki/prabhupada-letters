@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 9, 1969, and I have noted the contents with pleasure. I am instructing Tamala Krishna in Los Angeles to allow Jaya Gopala come to join you immediately, so I think this will be of great help to your work there. I was in San Francisco and there were three meetings there in the University campuses, and each and every one of these meetings were very successful. About 200 students in each meeting were dancing and enjoying with us. So gradually we have to organize the students to our movement, and your work so far has my approval in this connection.
@@ -19,3 +20,4 @@ Hope this finds you in good health and cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

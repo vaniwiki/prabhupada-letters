@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sukadeva 1 ======
+====== Sukadeva 1 ======
 
+<card class="letter">
 Dear Sukadeva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 4, 1974 and I have examined the contents.
@@ -24,3 +25,4 @@ ACBS/sdg\\
 400 18th Ave. E.\\
 Seattle, Washington 98112
 
+</card>

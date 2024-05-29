@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 "Sri Sri Guru Gauranga Jayatho"
 
 A.C Bhaktivedanta Swami\\
@@ -22,3 +23,4 @@ The general people are all intoxicated and loafers. It is very popular here to i
 
 Yours,\\
 Srila Bhaktivedanta Swami
+</card>

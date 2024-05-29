@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 My dear Tamala,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 15 February, 1970, and noted the contents carefully. My first request to you is to take from Mr. Goyl, the gentleman who donated the Sri Murtis, the address of the manufacturer or supplier of the Murtis. I know that the Murtis were supplied from Jaipur, India, but I do not know the address of the supplier. So please take it from him and please send it to me immediately.
@@ -31,3 +32,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

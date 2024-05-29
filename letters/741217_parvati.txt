@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Parvati ======
+====== Parvati ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 My dear Parvati,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

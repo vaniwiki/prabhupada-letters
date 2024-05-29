@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagadisa ======
+====== Jagadisa ======
 
+<card class="letter">
 My dear Jagadisa,
 
 Please accept my blessings. I beg to thank you so much for your letter (undated) and your contribution of 150 dollars to my book fund. I also take the opportunity now to thank you for the nice poem you submitted and which was printed in the Vyasa Puja booklet. I am pleased to learn that you have gone with your wife, Laksmimoni, to Detroit, and you are now working conjointly with Bhagavan das and Krishna Bhamini. You are both very nice householder couples, so work together in cooperative spirit, following the example you have seen in our other Krishna Consciousness centers. I can understand that Krishna is giving you encouragement to increase the strength of Detroit center because you write to say that there is a big article to be printed in the largest Detroit paper and you have already arranged for two university courses. This is very encouraging news, and please forward a copy of the article to me when it is printed. You should try now to obtain permission for chanting on the streets. This will greatly enhance your activities there in every respect. Sankirtana is our very life and soul, so try to take permission from the authorities as soon as possible. I understand that you are a very sincere soul, and surely Krishna will show His favor upon you.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 PS: I have received the Janmastami Day examinations from your center but there were no fees enclosed. I assume they are coming by separate post.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali Mardan ======
+====== Bali Mardan ======
 
+<card class="letter">
 My dear Bali Mardan,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 11,1969, and I take it as practical proposal to open our Samkirtan Movement activities in Tokyo. Actually, the mission of our representative who were sent to Japan was for opening a branch in Tokyo, but at that time you could not find out suitable place to stay in Tokyo. Now at the present moment, if it is possible to open our branch in Tokyo, it is very welcome. My Guru Maharaja, Bhakti Siddhanta Saraswati Goswami Maharaj, was always enthusiastic in opening the centers in busy cities. Our centers are not practically secluded ashrams for so-called peaceful meditation. We are for activities and fighting like the battle of Kurukshetra. Chatianya Mahaprabhu’s mission is to awaken the sleeping humanity under the spell of Maya. He says, “My dear human beings, please get up from this slumber and make the best use of the opportunity of your human life.” We have come in this material world in this human form of life not to enjoy deep sleep in the form of false activities of political, social, industrial and similar business which will be finished like a dream at night. All these things are actually the mire of daydream. So Chaitanya Mahaprabhu says that He has brought this Hare Krishna Maha Mantra for dispelling the spell of Maya. Everyone should take up this opportunity and be benedicted. So not only in Tokyo, in all parts of the world we must have our centers in the most busy quarters. So I take your proposal as God-sent, and if it is possible to open a center in the busy section of Tokyo, that is very nice.
@@ -20,3 +21,4 @@ Please offer my blessings to Sudama and Chintamoni. I hope this will meet all of
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
+</card>

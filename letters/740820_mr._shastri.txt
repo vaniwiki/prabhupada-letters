@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Shastri ======
+====== Mr. Shastri ======
 
+<card class="letter">
 P. Damodara Shastri\\
 Dairy House 1st Floor\\
 Sevasi, Baroda, Gujarat
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
+</card>

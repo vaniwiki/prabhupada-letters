@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 Brooklyn
 
 My dear Syamasundara,
@@ -38,3 +39,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 c.c. to London
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 Bombay
 
 My dear Gargamuni,
@@ -32,3 +33,4 @@ n.b. Syamasundara has just shown me your letter %%____%% and I agree that these 
 I am just now in receipt of your letter dated 7th June, %%___%% (can understand that it is best thing for you to travel as %%___%% posing, and that is actually the duty of the Sannyasi, to %%___%% widely and preach. So you can go to Gujarat and other %%___%% Krishna is doing.
 
 ACBS
+</card>

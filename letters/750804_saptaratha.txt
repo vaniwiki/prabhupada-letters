@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saptaratha ======
+====== Saptaratha ======
 
+<card class="letter">
 Buffalo
 
 My dear Saptaratha das:
@@ -20,3 +21,4 @@ I hope this meets you in good health.
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS/bs
+</card>

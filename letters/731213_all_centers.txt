@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: All Centers ======
+====== All Centers ======
 
+<card class="letter">
 ALL GLORIES TO\\
 SRI GURU AND GAURANGA!
 
@@ -34,3 +35,4 @@ Karandhara das Adhikari\\
 /kdd\\
 APPROVED: __ACBS__\\
 His Divine Grace A.C. Bhaktivedanta Swami
+</card>

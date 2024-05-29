@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali Mardan ======
+====== Bali Mardan ======
 
+<card class="letter">
 1975 So. La Cienega Blvd.\\
 Los Angeles, Cal. 90034
 
@@ -39,3 +40,4 @@ Sriman Bali Mardan Das Brahmachary\\
 ISKCON Temple\\
 26 Horderns Place\\
 Potts Point NSW 2011
+</card>

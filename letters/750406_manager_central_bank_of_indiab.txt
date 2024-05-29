@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager, Central Bank of India ======
+====== Manager, Central Bank of India ======
 
+<card class="letter">
 Camac St. Branch, Calcutta
 
 P.O. Sree Mayapur Dham\\
@@ -24,3 +25,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

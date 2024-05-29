@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 6-16, 2-chome, Ohhashi\\
 Meguro-ku, Tokyo, Japan
 
@@ -28,3 +29,4 @@ Offer my blessings to Srimati Shama Dasi, all-blissful Samba, and all other devo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dayananda ======
+====== Dayananda ======
 
+<card class="letter">
 Los Angeles
 
 My dear Dayananda,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 cc: Kesava das/SF
+</card>

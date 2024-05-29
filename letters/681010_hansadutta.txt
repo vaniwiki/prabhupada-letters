@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings, and offer the same to Himavati and all other boys and girls in the temple. I sent one letter to you on the 1st Oct., but it appears that you have not received it, because there is no mention of this letter. I am therefore enclosing the copy of the letter herewith. I shall be much pleased if you see the house No. 722 Sherbrooke Street. And give me your report in terms of my letter as per copy enclosed herewith. This is very essential.
@@ -28,3 +29,4 @@ P.S. I have received one letter from the Consulate General of the United States 
 
 You can see in this connection one young gentleman Mr. Peter R. Jones U.S. Vice-Consul and he will help you.\\
 Enclosure 3
+</card>

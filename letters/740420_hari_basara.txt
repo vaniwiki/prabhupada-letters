@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hari basara ======
+====== Hari basara ======
 
+<card class="letter">
 Spokane, Washington
 
 Dear Hari basara,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

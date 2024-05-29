@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay
 
 My dear Giriraja dasa,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Send some book-catalogs to Vrinda Book Co. 30/1b College Row Calcutta---9\\
 ACBS/pks
+</card>

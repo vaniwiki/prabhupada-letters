@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda, Colin Jury ======
+====== Mukunda, Colin Jury ======
 
+<card class="letter">
 My dear Mukunda and Colin Jury,
 
 Please accept my blessings. I am in due receipt of your joint letters dated February 3, 1969. Pending your searching out a suitable temple-house, immediately rent a suitable apartment for me from the 1st of March, 1969, and on hearing from you, I shall start for London by the end of this month. When I go there I am sure I shall find out a suitable temple-house. Please let me know your decision on this matter so that I may prepare for my London-Yatra.
@@ -17,3 +18,4 @@ Offer my blessings to all of my beloved sons and daughters who are so kind and a
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

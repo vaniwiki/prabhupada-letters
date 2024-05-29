@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda dasi,
 
 Please accept my blessings. Sudama Goswami has relayed to me the news of his conversation with you recently. We require just now huge sums of money for our projects in India so I request that you send the check for $20,000.00 to me in Los Angeles by registered post.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
+</card>

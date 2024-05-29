@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I am in due receipt of your telegram from Melbourne dated December 26, 1972, and I have replied it by my cable as follows: "Immediately send c/o Bombay three tickets, February 1st, Calcutta Australasia, remaining entire February." So you may do the needful and send the three airline tickets for myself, Srutakirti, and Syamasundara here to my above-mentioned Bombay address, or wire them to the airlines office directly in Bombay city. The airlines office in Bombay may notify Syamasundara at 362963. My plan is to remain here in Bombay until January 23rd for holding our second Hare Krishna Festival in the Cross Maidan. I think last time you were one of the leaders of that first Hare Krsna Festival, so you know how much important occasion that will be. Already there are many banners all over the city advertising this movement as the world's greatest spiritual culture movement. We had just completed our pandal program at Ahmedabad, and it was also very very successful. From Bombay we shall fly to Calcutta for about nine days' time and we may give some programs there also. So I want to proceed from Calcutta to Australia or wherever you suggest on that side. We shall be able to leave on February 1st morning. And you may arrange the program in Australia and New Zealand for the duration of February month. Around the 1st March I shall have to return to Mayapur for holding our celebration of Lord Caitanya Mahaprabhu's appearance day in early March. So you may plan in that way.
@@ -19,3 +20,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

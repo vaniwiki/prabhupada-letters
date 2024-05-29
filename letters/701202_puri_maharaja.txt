@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Puri Maharaja ======
+====== Puri Maharaja ======
 
+<card class="letter">
 My dear Puri Maharaja,
 
 Please accept my humble obeisances. I am in due receipt of your letter dated on November 24, 1970. Perhaps you are my only Godbrother who has appreciated my humble service to the cause of Guru Gauranga. All my other Godbrothers are very much envious, as I can understand from their behavior.
@@ -27,3 +28,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 PTO
+</card>

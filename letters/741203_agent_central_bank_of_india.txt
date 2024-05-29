@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Agent, Central Bank of India ======
+====== Agent, Central Bank of India ======
 
+<card class="letter">
 The Agent\\
 Central Bank of India\\
 Camac Street Branch\\
@@ -35,3 +36,4 @@ A.C. Bhaktivedanta Swami
 
 Enc: 1 Deposit Receipt & 1 check.\\
 ACBS/bs
+</card>

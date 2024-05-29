@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 New Delhi
 
 My dear Tejiyas das:
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. You should check with the authorities that we can get an import license for importing printing paper in an equivalent amount to all the foreign exchange we have sent to India. We can print the books there, and many will be exported to Africa, U.K., Fiji, etc.\\
 ACBS/bs
+</card>

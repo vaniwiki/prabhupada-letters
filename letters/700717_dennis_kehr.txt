@@ -7,8 +7,10 @@
 }
 ---
 
-====== Letter to: Dennis Kehr ======
+====== Dennis Kehr ======
 
+<card class="letter">
 [To Dennis Kehr]
 
 I think you are very sincere boy, so please follow the regulative principles strictly and chant your rounds of Hare Krsna faithfully. Attend the arati ceremony and take prasada and work hard in the service of Krsna and you will surely experience the bliss of the perfection of life in Krsna consciousness.
+</card>

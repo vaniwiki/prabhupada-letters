@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cittahari ======
+====== Cittahari ======
 
+<card class="letter">
 My dear Cittahari,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 15, 1973.\\
@@ -18,3 +19,4 @@ I hope this letter meets you well.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

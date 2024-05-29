@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Hamburg
 
 My dear Hansadutta,
@@ -27,3 +28,4 @@ Hope this will meet you in good health and happy mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

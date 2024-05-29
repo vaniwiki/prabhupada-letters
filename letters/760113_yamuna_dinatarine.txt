@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna, Dinatarine ======
+====== Yamuna, Dinatarine ======
 
+<card class="letter">
 My dear Yamuna and Dinatarine,
 
 Please accept my blessings. I beg to thank you for your letter dated December 24th, 1976.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

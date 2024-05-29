@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Los Angeles
 
 Dear Karandhara,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I shall return to L.A. by September.\\
 ACBS/sdg
+</card>

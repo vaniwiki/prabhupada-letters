@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mangal Chandra Moulic ======
+====== Mangal Chandra Moulic ======
 
+<card class="letter">
 Sri Mangal Chandra Moulic\\
 Principal, Dr. B.R. Ambedkar College\\
 P.O. Betai, Dist Nadia
@@ -24,3 +25,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

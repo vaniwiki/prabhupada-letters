@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa, Uddhava ======
+====== Satsvarupa, Uddhava ======
 
+<card class="letter">
 Boston
 
 My dear Satsvarupa and Uddhava,
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I think the wrongly printed pictures may be cancelled and fresh printing should be done. If not, it will create a very bad impression of our Press management.\\
 ACBS:dm
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I thank you very much for your letter dated April 29, 1969, and I have carefully noted the contents. I think that you may delete the two clauses if you think it will be helpful in having our society recognized in London. I understand that there is new hope now for getting a nice temple there, so I will await the results with interest. I think that there is no necessity for Isana das and his wife to go there now, because it will not be very good if they have to live apart from the others.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Tomorrow morning I am going to Columbus (Ohio)
+</card>

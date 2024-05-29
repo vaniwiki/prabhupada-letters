@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Augusto, Romeo ======
+====== Augusto, Romeo ======
 
+<card class="letter">
 Rio, Brazil
 
 My dear Augusto and Romeo,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

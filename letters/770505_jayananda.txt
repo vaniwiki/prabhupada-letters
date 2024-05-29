@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayananda ======
+====== Jayananda ======
 
+<card class="letter">
 My dear Jayananda,
 
 Please accept my blessings.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

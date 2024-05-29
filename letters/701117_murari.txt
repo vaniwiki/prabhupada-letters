@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Murari ======
+====== Murari ======
 
+<card class="letter">
 My dear Murari,
 
 Please accept my blessings. I have received your letter of 27th October, 1970, along with that of Sriman Alan Haiste, and have noted the contents carefully.
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:sda.
+</card>

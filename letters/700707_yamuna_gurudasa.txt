@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna, Gurudasa ======
+====== Yamuna, Gurudasa ======
 
+<card class="letter">
 London
 
 My dear Yamuna,
@@ -32,3 +33,4 @@ Note to Gurudasa:\\
 My dear Gurudasa: Please accept blessings. I have duly received your recent letter. Reply will follow. In the meantime I have written one letter to Ksirodakasayi about visiting India next year. Please let me know what arrangement is being made for this.
 
 A.C.B.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Deoji, Upendra ======
+====== Deoji, Upendra ======
 
+<card class="letter">
 Lautoka, Fiji
 
 My dear Deoji, (and Upendra das)
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

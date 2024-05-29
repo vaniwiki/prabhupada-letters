@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. R. N. Vyasa ======
+====== Dr. R. N. Vyasa ======
 
+<card class="letter">
 Dr. R. N. Vyasa\\
 Indore
 
@@ -34,3 +35,4 @@ Yours very sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

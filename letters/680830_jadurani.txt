@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I am so glad to receive your letter after a long time. I am glad that you are taking proper care of your health, and I wish Krishna may bless you for your long life and good work. You will be pleased to know that I am proceeding to New York tomorrow afternoon, at 4:30 p.m. reaching there at 5:50. And if possible I shall remain there for one week before starting for San Francisco. The San Francisco devotees especially some of the Indian residents, who have taken interest in our temple, since the Rathayatra festival was performed, they are very much anxious to see me, and they have proposed to cooperate fully with our movement. So I think I should go there and encourage them. So I am going there by the end of the first week of September. I have noted down the description of the paintings that you have recently done, and I hope in the meantime Saradia has reached under your care. This girl is very innocent, and nice student; please try to keep her under your care, at least for one year. Then I shall get her married with Vaikunthanatha das Brahmacari. She is also good typist, and if possible she can help the typewriting work and assist Satsvarupa. And I hope everything is going there well, and shall be glad to hear from you at the New York address.
@@ -17,3 +18,4 @@ Hope you are now in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

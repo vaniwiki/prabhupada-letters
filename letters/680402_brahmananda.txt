@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letters dated march 20, 25, 26, and I thank you very much for them. I am glad to hear that the lawyer and psychiatrist are going to help with Advaita, and I am praying Krishna for his safety. We are awaiting to receive the judge's statement, and when we secure it, I shall send it to you.
@@ -29,3 +30,4 @@ Hoping you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

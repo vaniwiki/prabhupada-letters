@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hanuman, Amogha ======
+====== Hanuman, Amogha ======
 
+<card class="letter">
 Djakarta, Indonesia
 
 My dear Hanuman and Amogha,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
+</card>

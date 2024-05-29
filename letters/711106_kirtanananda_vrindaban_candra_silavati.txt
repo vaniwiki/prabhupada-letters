@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda , Vrindaban Candra, Silavati ======
+====== Kirtanananda , Vrindaban Candra, Silavati ======
 
+<card class="letter">
 My dear Kirtanananda Maharaja, Vrindaban Candra, and Silavati,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters just now received by me here in Calcutta and describing your plans for travelling Sankirtana party, and it is very much encouraging news for me. Silavati Prabhu said that this was her long cherished dream. It has been mine also. If there were three or four such travelling parties, it would be a grand scale propaganda. So do it with great enthusiasm and surely you will have the blessings of Caitanya Mahaprabhu. And wherever you go, if there is good response you can try and open a center there. This is first class scheme and surely will be "The greatest show on earth."
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

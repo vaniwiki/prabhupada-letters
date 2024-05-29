@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I have already written to Purusottama about TLC consignment and probably you might have received letter from him by now. Regarding Dai Nippon negotiation, I never told you to stop such negotiation and I do not know why you should be disturbed by seeing my letter to Advaita. If Dai Nippon negotiation is successful you can make contract as you think best. My suggestion to Advaita was that in case of Dai Nippon negotiation not being successful, then we shall give attention for starting our own press. On the whole, if Dai Nippon agrees to our printing work, I have already written to you that is very nice, but in case they do not agree then we must consider our own press, as that is the only alternative.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *Please consult with Dindayal and fix my program by mutual agreement.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I have your letter of Jan. 9, 1968 duly in hand, and I thank you very much for it. Yes, I will make plans to appear there on May 1; and before I arrive there on May 1, you can please arrange some lectures in different Universities and Colleges, so that after reaching there I will find all the engagements there.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Today I have also received one letter of 16th & a tape. I have also sent another tape. ACB
+</card>

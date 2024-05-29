@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Amogha, Hanuman, others ======
+====== Amogha, Hanuman, others ======
 
+<card class="letter">
 Kuala Lumpur, Malaysia
 
 My dear Amogha, Hanuman, etc.
@@ -21,3 +22,4 @@ Hoping this will meet you all in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

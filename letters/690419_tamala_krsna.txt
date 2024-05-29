@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 My dear Tamala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 12, 1969, and I have noted the contents with pleasure. I am glad to learn that two new boys, Robb and Kelly, have moved into your temple. Also, it is good news that you now have a weekly course in the University there. Regarding the draft lawyer, I have enclosed the circular which I am sending out to the temples.
@@ -21,3 +22,4 @@ A.C. Bhaktivedanta Swami
 NB: I have received the twigs which you have sent to the Buffalo temple, and please continue to send them regularly while I am on the East Coast.
 
 I have also received the checks both for me and Brahmananda. Please consult Mr. Greene and let me know how shall I reply the letter.
+</card>

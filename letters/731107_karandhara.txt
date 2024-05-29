@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Karandhara Das:
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 N.B. I have received the two bank slips for $298.20 and $200.00 Also enclosed is one letter to Tusta Krsna.
+</card>

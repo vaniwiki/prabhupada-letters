@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Tamala Krishna Goswami:
@@ -20,3 +21,4 @@ I hope this meets you in good health.
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS/bs
+</card>

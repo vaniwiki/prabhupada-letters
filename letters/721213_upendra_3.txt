@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra 3 ======
+====== Upendra 3 ======
 
+<card class="letter">
 19, Douglas Street,\\
 Milton, (Brisbane),\\
 Queensland, Australia 4064
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda
 
+</card>

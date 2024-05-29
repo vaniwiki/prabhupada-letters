@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ranadhir ======
+====== Ranadhir ======
 
+<card class="letter">
 Tittenhurst Park \\
 Tittenhurst House\\
 Ascot, Berkshire, ENGLAND
@@ -21,3 +22,4 @@ Things are coming along nicely in London, and last week we were granted permissi
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

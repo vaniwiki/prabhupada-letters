@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: My Beloved Disciples at New Vrndavana ======
+====== My Beloved Disciples at New Vrndavana ======
 
+<card class="letter">
 My Beloved Disciples\\
 At New Vrndavana\\
 RD 3, Moundsville, WV 26041, USA
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

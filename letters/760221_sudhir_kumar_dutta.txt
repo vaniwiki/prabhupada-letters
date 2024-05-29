@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudhir Kumar Dutta ======
+====== Sudhir Kumar Dutta ======
 
+<card class="letter">
 Sudhir Kumar Dutta\\
 Calcutta
 
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

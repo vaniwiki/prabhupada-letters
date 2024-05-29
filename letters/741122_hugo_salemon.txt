@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hugo Salemon ======
+====== Hugo Salemon ======
 
+<card class="letter">
 Balistraat,\\
 1 Amsterdam OOST
 
@@ -22,3 +23,4 @@ Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/vdd
+</card>

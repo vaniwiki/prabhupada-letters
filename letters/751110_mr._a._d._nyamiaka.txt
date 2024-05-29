@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. A. D. Nyamiaka ======
+====== Mr. A. D. Nyamiaka ======
 
+<card class="letter">
 Mr. A. D. Nyamiaka\\
 District Commissioner Office\\
 P.O. Box 29\\
@@ -27,3 +28,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

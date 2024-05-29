@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Carl Lange ======
+====== Carl Lange ======
 
+<card class="letter">
 Dear Carl Lange,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 9, 1969 along with your money order for $50. I thank you very much for your contribution towards my book fund. My next publication is going to be __Nectar of Devotion__ and a paperback edition of __Teachings of Lord Caitanya.__ I thank you very much for your appreciation of our Krishna Consciousness Movement. Except for the Krishna Consciousness Movement, any other attempt for spiritual realization, such as drugs, voidness, impersonalism, bodily exercises of Hatha Yoga, etc.---they are all something like unconsciousness under some super-intoxicant. Srila Rupa Goswami has given a very nice example in this connection. He says that a conditioned soul remains in the slumber of unconsciousness just like a patient bitten by a poisonous snake. In India there is a class of snake-charmers and physicians who treat snake-bitten persons with a particular type of jungle herbs. This treatment is to bring the herb near the nostrils of the patient for being smelled, and then the patient comes back to consciousness and finds relief from the snake bite effect. In our conditioned life we are bitten by so many types of Maya snakes, and more and more we are put into unconsciousness of mind without any hope of eternal life. Krishna Consciousness is the only herb for such Maya snake-bite condition. So our duty is very responsible. We have to awaken so many snake-bitten patients under the spell of Maya. A sincere soul like you will be a great help in this movement of Krishna Consciousness. I am glad that you are reading our __Bhagavad-gita As It Is__ and __Teachings of Lord Caitanya.__ You will get much enlightenment from them. Also you should read __Back To Godhead__ and __Srimad-Bhagavatam,__ and surely your life will be sublime. In the future we expect you to be a great preacher of this movement to the world.
@@ -17,3 +18,4 @@ I am glad to learn that you are coming to San Francisco for the Rathayatra Cerem
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

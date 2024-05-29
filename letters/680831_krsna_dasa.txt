@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna dasa ======
+====== Krsna dasa ======
 
+<card class="letter">
 My dear Krishna Das,
 
 Please accept by blessings. I beg to acknowledge receipt of your letter of 8.25.68 and I am so pleased to look in you a Divine Spirit for preaching the K.C. movement. It is very welcome. So if you go to Germany and join Sivananda there who is already there, you can immediately open correspondence with him, his address being as follows.
@@ -33,3 +34,4 @@ W. Berlin, Germany.
 I am enclosing here with the letter which I have received from. Please keep this letter carefully and return me when I go to San Francisco.
 
 ACB
+</card>

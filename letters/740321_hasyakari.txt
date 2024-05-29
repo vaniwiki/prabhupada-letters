@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hasyakari ======
+====== Hasyakari ======
 
+<card class="letter">
 ISKCON Buffalo
 
 Dear Hasyakari,
@@ -30,3 +31,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

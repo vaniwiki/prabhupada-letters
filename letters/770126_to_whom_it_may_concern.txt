@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: To Whom It May Concern ======
+====== To Whom It May Concern ======
 
+<card class="letter">
 Nayapalli,\\
 Bhubaneswara, 12,\\
 Orissa, Dist. Puri,\\
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami\\
 Founder-Acarya, ISKCON
 
 ACBS/sdg
+</card>

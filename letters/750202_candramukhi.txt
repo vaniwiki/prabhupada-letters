@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Candramukhi ======
+====== Candramukhi ======
 
+<card class="letter">
 Dallas
 
 My dear Candramukhi devi dasi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

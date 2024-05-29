@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurukrpa ======
+====== Gurukrpa ======
 
+<card class="letter">
 Tokyo
 
 My dear Gurukrpa Swami,
@@ -36,3 +37,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 *The Japanese bank pays dollars in exchange of yen. I %%_ __%%
+</card>

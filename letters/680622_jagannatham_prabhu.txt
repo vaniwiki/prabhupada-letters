@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagannatham Prabhu ======
+====== Jagannatham Prabhu ======
 
+<card class="letter">
 Dear Jagannatham Prabhu,
 
 Please accept my respectful obeisances at your lotus feet. I am so glad to receive your letter after a long time. I think I met you sometimes in the year of 1950, in Madras Gaudiya Math, when I went with Tirtha Maharaja to attend the Janmastami Festival. I know you are a sincere servant of Srila Prabhupada and you have done excellent service while He was present before us, and you have done similarly even after His Disappearance. I am very glad to learn that your children are well situated, but you are very much anxious to get them in touch with Krishna Consciousness. You know very well that jadavidya is the opulence of maya. So naturally, your children being well educated in jadavidya, are reluctant to receive enlightenment in Krishna Consciousness. But there is nothing to be disappointed, because they are your children; they have got the initiative seeds in them, and someday it will fructify. Don't worry about them; Krishna will put them in right line in due course.
@@ -23,3 +24,4 @@ Hoping you are well,
 
 Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami
+</card>

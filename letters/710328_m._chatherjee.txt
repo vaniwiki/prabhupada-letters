@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: M. Chatherjee ======
+====== M. Chatherjee ======
 
+<card class="letter">
 Sri M. Chatherjee\\
 Vandana Flat 16, 3d floor\\
 9th Road T.P.S. IV\\
@@ -26,3 +27,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

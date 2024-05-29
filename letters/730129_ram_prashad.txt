@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ram Prashad ======
+====== Ram Prashad ======
 
+<card class="letter">
 Ram Prashad\\
 232, Sector 20-A\\
 Chandigarh
@@ -27,3 +28,4 @@ Hoping this meets you well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

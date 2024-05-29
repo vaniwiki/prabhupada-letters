@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Charles Gold ======
+====== Charles Gold ======
 
+<card class="letter">
 Brooklyn
 
 Dear Charles Gold,
@@ -19,3 +20,4 @@ Krsna Consciousness is based on perfect information received from Krsna in Vedic
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

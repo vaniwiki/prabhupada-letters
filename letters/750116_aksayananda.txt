@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aksayananda ======
+====== Aksayananda ======
 
+<card class="letter">
 Madras
 
 My dear Aksayananda Svami,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

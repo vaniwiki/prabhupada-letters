@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Unknown ======
+====== Unknown ======
 
+<card class="letter">
 Society for Krishna Consciousness, establishing various centres all over the world to propagate Krishna Consciousness, and the Leasor being the major Sevait of Radha Damodara Temple and being of religious bent or mind, inherently as Sevait and Devotee of Lord Krishna, both the Leasee and the Leasor have with open heart agreed to the following terms and conditions of the Lease Agreement as follows:
 
 (1) The Lease Agreement is for the part of the Temple covered by the renovated house as in the plan annexed hereto for the purpose of occupation by the Leasee:
@@ -44,3 +45,4 @@ Length from North to South:\\
 Boundary, etc.
 
 *If this Lease-agreement is however cancelled as it is mentioned in clause no (7) then the Leasee notwithstanding will continue to occupy the two rooms nos .. and .. as marked in the site-plan and will pay rent as usual rupees five per month as at present.
+</card>

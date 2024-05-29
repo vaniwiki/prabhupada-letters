@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 7, 1969, and I have noted the contents. Regarding Narottama das, our policy should be to keep members as much as possible. We should not flatly say "You must leave." That is not our policy. If he comes to Los Angeles to see me, I shall speak with him to find out what is his difficulty. So far as that meeting you are invited to, it is not very important. Our stress should always be on Sankirtana Party. These "yoga" societies are useless. If you do go, you should not eat their food. We cannot eat anything not offered to Krishna, and we cannot offer anything to Krishna which is not cooked by a devotee. I hope this will clear up the matter for you. Regarding Dayala Nitai, I am instructing Umapati to send him from Los Angeles translated essays and articles for printing in French __BTG,__ so Dayala Nitai will now have more time for going on Sankirtana Party. You have asked about a quote from __Bhagavad-gita As It Is,__ and the statement is that the material energy is Brahman, not Brahma. Brahman means spirit. Brahma is the first living entity in the universe, and their is no "n" at the end of his name.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am enclosing some copies of a recent book review which was printed in a Hawaii newspaper. You should approach the local papers there and try to induce them to similarly review our books. Also you approach the local bookstores with this review and try to arrange for them to carry our Krishna Consciousness literature.
+</card>

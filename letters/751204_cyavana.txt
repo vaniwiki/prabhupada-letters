@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cyavana ======
+====== Cyavana ======
 
+<card class="letter">
 Addis Ababa, Ethiopia
 
 My dear Cyavana Maharaja,
@@ -19,3 +20,4 @@ I hope this letter finds you well.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasomatinandan ======
+====== Yasomatinandan ======
 
+<card class="letter">
 Sriman Yasomatinandan das Adhikari\\
 c/o ISKCON Ahmedabad
 
@@ -30,3 +31,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

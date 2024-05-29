@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Malati ======
+====== Malati ======
 
+<card class="letter">
 London
 
 My dear Malati,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

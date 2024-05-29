@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Devi ======
+====== Devi ======
 
+<card class="letter">
 Miami
 
 My dear Daughter Devi Dasi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

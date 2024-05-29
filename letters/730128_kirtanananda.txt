@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda Swami,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 10 January 1973, and I have noted the contents with great pleasure. I can see that Krsna is giving you more and more facility for developing this New Vrindaban scheme. So this is very nice. I am very pleased that you have acquired some more cows. In Mayapur also we have some cows now. So you are the manager there, and in cooperation with the GBC men it is up to you to see that everything is developed very very nicely and that all the land is utilized properly, not that it is sitting going to waste. So once you are utilizing everything very nicely, then you may increase more and more as you like. So consult with the GBC and you may decide whether it is worthwhile to purchase more land at this time.
@@ -20,3 +21,4 @@ Regarding your recommendations for second initiation, they may be given the sacr
 We have just completed one very nice pandal program in Bombay, and every day thousands of people were gathering to hear the sannyasis preach in our "Questions and Answers" booth. Sometimes the people were staying past 12:00 in the evening to hear your American sannyasis preach this Krsna conscious philosophy. . So we have got good audience for resounding the message of Caitanya Mahaprabhu all over the world. I am going on 2nd February to Melbourne, Australia, and then shall be returning to Mayapur for the appearance day of Caitanya Mahaprabhu.
 
 [PAGE MISSING]
+</card>

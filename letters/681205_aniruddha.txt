@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I have received your letter dated Nov. 30, 1968 and I thank you for the report of progress at your temple.
@@ -23,3 +24,4 @@ I hope this meets you in good health. Please also convey my blessings to the oth
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

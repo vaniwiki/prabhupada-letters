@@ -7,9 +7,11 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Bombay\\
 [To Tamala Krishna]
 
 WE MUST HAVE LAND ACCORDING PURCHASE AGREEMENT LETTER FOLLOWS---BHAKTIVEDANTA SWAMI
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Frankfurt
 
 My dear Hansadutta das:
@@ -40,3 +41,4 @@ N.B. Do not instigate anything with them from our side. It is not necessary to c
 If for some reason you have to vacate, then you can say we are constructing our another place. Anyway, you depend on Krishna. We do not depend upon anyone other than Krishna.
 
 ACBS
+</card>

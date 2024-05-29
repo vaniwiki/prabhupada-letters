@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prabhus Babu ======
+====== Prabhus Babu ======
 
+<card class="letter">
 UNITED SHIPPING CORPORATION\\
 14/2 Old China Bazar Street (Block 18)\\
 Calcutta-1, INDIA\\
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pdb\\
 encl: Invoice in triplicate
+</card>

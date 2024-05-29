@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 My dear Gopala Krishna das,
 
 Please accept my blessings. I thank you very much for your letter dated August 30th, 1969 with enclosure of your money order check for one hundred dollars Canadian. Another check for fifty-five dollars for my book fund was not enclosed. I think you are sending it by separate mail. If you have not sent it as yet, you can deposit it in The Canadian Imperial Bank of Commerce at Sherbrooke and Aylmer Branch. I have got a savings account there under A.C. Bhaktivedanta Swami. You can find out the number from the teller, deposit there, and send me the receipt. I am so glad to read the portion of your letter where you say "I would have continued to live in ignorance and darkness, thinking I would have known how to approach God." At the present moment, the modern education has taught everyone either not to think of God or everyone can think of God in his own way. The result is people have become Godless atheists. So to approach a bona fide Spiritual Master and to understand the science of God from him is the Vedic way of understanding. Even Lord Krishna, Lord Caitanya, and what to speak of other acaryas, all of them accepted a Spiritual Master, even if some of them were incarnations of God. The Vedic way of receiving knowledge is called __avaroha,__ against __aroha.__ __Aroha__ means to try to understand God by one's own effort, and __avaroha__ means to understand God by disciplic succession. Therefore we find in Vedic instruction that one must approach a bona fide Spiritual Master to learn that transcendental subject.
@@ -23,3 +24,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

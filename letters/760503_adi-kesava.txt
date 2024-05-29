@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ādi-kesava ======
+====== Ādi-kesava ======
 
+<card class="letter">
 New York
 
 My dear Ādi Kesava Maharaja,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 n.b. Please enclose one "Krishna Consciousness is Authorized" and one copy of the letter from Kenneth Keating to Gurudasa (if available) when you present the application to the State Department official in Washington.
+</card>

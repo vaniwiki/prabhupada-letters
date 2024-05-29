@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prthu Putra ======
+====== Prthu Putra ======
 
+<card class="letter">
 Cairo
 
 My dear Prthu Putra,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

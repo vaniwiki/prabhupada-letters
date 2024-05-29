@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I am in due receipt of your letter dated August 15th, 1969, and I have noted the contents. Regarding the persons who have been "throwing the I-Ching," this cannot go on in our temples of Krishna Consciousness. This is to be considered as gambling, and it must be strictly prohibited. So if these boys will come to Los Angeles to follow the discipline as it is practiced here, that will be the best thing. Otherwise, they may not cause this disturbance in our temples. So both of these boys, whoever they are, should come immediately to Los Angeles to be trained up nicely in Krishna Consciousness. Unless one agrees to follow all of our principles, he may not be allowed to live at the temple. This must be our policy.
@@ -21,3 +22,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

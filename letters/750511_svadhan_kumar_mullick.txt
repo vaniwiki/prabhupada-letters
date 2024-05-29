@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Svadhan Kumar Mullick ======
+====== Svadhan Kumar Mullick ======
 
+<card class="letter">
 Svadhan Kumar Mullick\\
 Calcutta
 
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

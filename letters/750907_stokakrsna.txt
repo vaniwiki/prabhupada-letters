@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Stokakrsna ======
+====== Stokakrsna ======
 
+<card class="letter">
 Spiritual Sky\\
 Culver City
 
@@ -23,3 +24,4 @@ Your ever-wellwisher,
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

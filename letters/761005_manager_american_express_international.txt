@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager, American Express International ======
+====== Manager, American Express International ======
 
+<card class="letter">
 The Manager,\\
 American Express\\
 International Banking Corporation,\\
@@ -50,3 +51,4 @@ A.C. Bhaktivedanta Swami\\
 (c.c. ISKCON Calcutta)\\
 Encl. 3x cheqs + notification note\\
 ACBS/as
+</card>

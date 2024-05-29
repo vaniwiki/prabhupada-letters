@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Professor Kotovsky ======
+====== Professor Kotovsky ======
 
+<card class="letter">
 My dear Professor Kotovsky,
 
 Please accept my greetings. It was a great pleasure to talk with you on Tuesday and I hope you will kindly read the chapter of __Srimad-Bhagavatam__ which I left with you. From your book __Soviet Studies of India__ I understand that academician Mr. A. P. Baranrikov completed a great translation, working the matter of Tulsidas's __Ramayana__ into Russian. Srimad-Bhagavatam is the ripe, mature fruit of the Vedic knowledge, and Tulsidas's __Ramayana__ (Ramacharitmanasa) is but a partial representative of Srimad-Bhagavatam. The real Ramayana is Valmiki's Ramayana. Tulsidas was a devotee of Lord Rama and he has given his thoughts in his book Ramayana. But the real original thoughts and ideas are in Srimad-Bhagavatam. I have already given you a sample copy of my translation of __Srimad-Bhagavatam__ (one chapter only) and there are many hundreds of chapters like that. I think some of you should translate this great book of knowledge into Russian and it will be a great contribution. I am fully prepared to cooperate with you. India has very many authorized transcendental literatures for the benefit of the whole world. I am glad to note on page 72 of your book that "They (the Soviet scholars) regard the ancient literary heritage of India notes a petrified miracle of bygone times but as a living and growing tradition that exerts a fruitful influence on present-day literature and remains an inexhaustible source of literary and cultural development of contemporary India."
@@ -27,3 +28,4 @@ I hope this is meeting you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

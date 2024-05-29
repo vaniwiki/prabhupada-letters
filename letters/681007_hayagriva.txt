@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your letter dated October 2, 1968, and I am very much pleased to learn that you have secured a very good apartment of 5 rooms, and it is very near to your office. I have received one letter from Pradyumna as well as Kirtanananda Maharaja, from New Vrindaban, and I am enclosing herewith the replies of Pradyumna's letter; I hope he has be this time come to you.
@@ -31,3 +32,4 @@ Hope this will find you in good health. I am sure by the Grace of Krishna you sh
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govardhan 2 ======
+====== Govardhan 2 ======
 
+<card class="letter">
 My dear Govardhan,
 
 Please accept my blessings. I am in due receipt of your letter dated May 3, 1973.
@@ -30,3 +31,4 @@ ISKCON Detroit\\
 Detroit, Michigan 48214\\
 ACBS/jda
 
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Professor S. C. Chakravarti ======
+====== Professor S. C. Chakravarti ======
 
+<card class="letter">
 Sri Professor S.C. Chakravarti,\\
 D. Litt.\\
 Bolpur, India
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

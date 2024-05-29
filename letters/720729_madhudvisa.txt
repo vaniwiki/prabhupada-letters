@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 19, 1972. One thing is, I have just received on July 25, 1972, the following telegram from Mohanananda; "Obeisances I am not offended mismanaging book fund Madhudvisa Swami is responsible why must I receive blame against my wishes." I do not know what is the meaning of this telegram, therefore kindly send me the full explanation. It does not sound well that there is quarreling.
@@ -22,3 +23,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

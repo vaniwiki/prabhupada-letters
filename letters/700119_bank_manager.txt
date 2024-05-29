@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bank Manager ======
+====== Bank Manager ======
 
+<card class="letter">
 Manager\\
 Canadian Imperial Bank of Commerce\\
 Sherbrooke and Aylmer\\
@@ -31,3 +32,4 @@ A. C. Bhaktivedanta Swami
 ACBS:db
 
 Incl. – Pass Book
+</card>

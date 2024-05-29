@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Shyama Dasi ======
+====== Shyama Dasi ======
 
+<card class="letter">
 Srimati Shyama Dasi \\
 4154 E. Shan Drive \\
 Mobile, AL
@@ -30,3 +31,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS: db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: V.V. Mirashi ======
+====== V.V. Mirashi ======
 
+<card class="letter">
 Shri V.V. Mirashi\\
 Retired Professor of Sanskrit\\
 Vidarbha Samshodhan Mandal,\\
@@ -27,3 +28,4 @@ Your faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

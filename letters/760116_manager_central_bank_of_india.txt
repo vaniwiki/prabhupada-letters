@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Manager, Central Bank of India ======
+====== Manager, Central Bank of India ======
 
+<card class="letter">
 [Hand written]
 
 Please to Sulaxmana Dey Rupees Two thousand only and debit my S.B. a/c 831 Rs 2000/-
 
 A.C. Bhaktivedanta Swami
+</card>

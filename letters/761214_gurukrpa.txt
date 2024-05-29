@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurukrpa ======
+====== Gurukrpa ======
 
+<card class="letter">
 Honolulu
 
 My dear Gurukrpa,
@@ -31,3 +32,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

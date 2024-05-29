@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara ======
+====== Ramesvara ======
 
+<card class="letter">
 My dear Ramesvara Maharaja,
 
 Please accept my blessings. I herewith enclose three cheques for deposit in the Bank of America, ISKCON Mayapur-Vrindaban Fund, a/c # 6004-07143, in Los Angeles. The details are as follows:
@@ -36,3 +37,4 @@ Enclosed: 3 checks
 Hand delivered to Ramesvara Swami:
 
 Received by, signed by Ramesvara Swami
+</card>

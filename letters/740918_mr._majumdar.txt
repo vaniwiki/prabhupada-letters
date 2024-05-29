@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Majumdar ======
+====== Mr. Majumdar ======
 
+<card class="letter">
 Calcutta
 
 Dear Mr. Majumdar:
@@ -25,3 +26,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

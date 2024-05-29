@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 I hope you have duly received my former letter. I have asked the Bank to forward $100.00 to Montreal from my account knowing that you may not have sufficient money in the society's account. Have you transferred the amount to my account.
 
 I am very much anxious to know if the goods from India Mrdanga etc have been already received by you. Please let me know as soon as you receive them. Hope you are all well. With my blessings.
+</card>

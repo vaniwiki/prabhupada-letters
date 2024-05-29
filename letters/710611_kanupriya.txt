@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kanupriya ======
+====== Kanupriya ======
 
+<card class="letter">
 My dear Kanupriya,
 
 Please accept my blessings. I thank you very much for your letter dated 26 Madhusudana, 485 Caitanya Era and I have noted the contents carefully. It is so much encouraging to hear how nicely things are going on there in Trinidad and Guyana also. And the people are appreciating the purity of our teachings. Gradually they will appreciate such teachings more and more, simply if we stick to our principles. Still there is much demigod puja, but you should quote from Bhagavad-gita that Krishna, the Supreme Personality of Godhead, says that less intelligent men worship the demigods and the result of such worship is not permanent. Krishna Consciousness is permanent, and the living entities are also permanent. So instead of wasting their time worshiping the demigods, everyone should take to Krishna Consciousness.
@@ -23,3 +24,4 @@ Please offer my blessings to Vaikunthanatha and Saradia and ask them to write me
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

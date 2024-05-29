@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala,
 
 Please accept my blessings. I thank you very much for your letter of August 14th, 1969. You have got some good souls assisting you, and that is a good sign. Please take care of these boys and keep them fixed up in Krishna Consciousness. In our lifetime, if we can fix up at least one soul in Krishna Consciousness, Krishna immediately recognizes the service. The spell of Maya is very strong, and to save a living entity from such clutches is the greatest service to the humanity. Please go on with your work with enthusiasm and faith in Krishna. He will give you all assistance. When I go to New York I shall like that both you and Chris may come to see me there.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

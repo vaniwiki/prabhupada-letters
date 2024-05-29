@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 My dear Tejyas,
 
 Please accept my blessings. With reference to your telephonic conversation with Bhagavata das, enclosed please find one check for Rs 23,000.00 (Rupees twenty three thousand only) in favor of the Punjab National Bank. I think you require this check for purchasing iron. But you have not mentioned for what purpose. Please acknowledge receipt and let me know for what purpose it has been used.
@@ -17,3 +18,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

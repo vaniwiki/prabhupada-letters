@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna ======
+====== Yamuna ======
 
+<card class="letter">
 London
 
 My dear Yamuna,
@@ -17,3 +18,4 @@ Please accept my blessings. Just on the point of posting this letter I have rece
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

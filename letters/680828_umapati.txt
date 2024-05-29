@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Umapati ======
+====== Umapati ======
 
+<card class="letter">
 My dear Umapati,
 
 Please accept my blessings. You will be glad to know that I am starting for New York on the 31st instant at 4:30 p.m., and reaching New York at 5:50. I wish to meet Satyavrata; if he does not like to come to our temple, then I wish to go there to his place. Please arrange for this sometimes on Sunday.
@@ -19,3 +20,4 @@ Hope this will meet you in good health, and more when we meet.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

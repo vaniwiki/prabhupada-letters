@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna Kanti ======
+====== Krsna Kanti ======
 
+<card class="letter">
 Los Angeles
 
 My dear Krsna Kanti,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka, Bhavananda ======
+====== Jayapataka, Bhavananda ======
 
+<card class="letter">
 My dear Jayapataka and Bhavananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated 5, Madhava, 485, and January 4, 1972, and I am very pleased that all the programs are going on nicely, such as land purchase, Mayapur project, deity worship, etc. And I thank you very much for the Yellow Fever Certificate. I shall be leaving for Africa on the 24th morning, returning probably by February 1st. I have sent the airline ticket for Aravinda to return to USA. Make sure he gets it safely.
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 n.b. So far the house is concerned, don't worry. Stay where you are and continue to send him rent money. If he refuses to accept it, then lodge the money with the rent court. Even if he tries to take us to court it will take years, so there is no immediate danger. If you pay rent regularly on or before the 15th of succeeding month, then there is no law in the world which can move you an inch forever. So unless we have our own place in Calcutta we cannot vacate the house.
 
 ACB
+</card>

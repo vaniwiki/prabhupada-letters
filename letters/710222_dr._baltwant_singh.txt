@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Baltwant Singh ======
+====== Dr. Baltwant Singh ======
 
+<card class="letter">
 Dear Dr. Baltwant Singh,
 
 Please accept my greetings. I beg to acknowledge receipt of your kind letter No. 2/2/3 dated 22nd January, 1971. I thank you very much for your kind invitation to our organization for visiting your place. Since a very long time I was thinking of going to your place but there was no opportunity to do so. Now as our movement is spreading all over the world and I am working at present in India, two of my disciples, husband and wife, have already gone to Trinidad. They are somewhere in Frederick Street in Trinidad. The couple's names are Vaikunthanatha Das Adhikari and Saradia Devi Dasi and they are now at present in the Port-of-Spain. I'm enclosing herein one picture of the couple. If possible you can open correspondence with them. If you find difficulty then you can refer this matter to Hayagriva Das Adhikari; c/o New Vrindaban; R.D. 3; Moundsville, W. Virginia; U.S.A. He will help you with their address. You can arrange to call this couple, Vaikunthanatha and Saradia, and after their arrival it may be possible if so requested, to send more men by suitable arrangement. I am interested to open many centers all over the world and if you help us in this matter for opening a center in Guyana, it will be a great service to the society.
@@ -19,3 +20,4 @@ Hoping this will meet you in good health.
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

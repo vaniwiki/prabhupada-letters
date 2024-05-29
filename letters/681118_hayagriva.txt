@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of Nov. 12, 1968, and I am very much pleased to note the contents. The handbill of Dr. Frog, Ph.D. is very funny, and we should try to fight with these frog philosophers overcrowding all over the world. Your success in kirtana performances in the University campus is also very encouraging.
@@ -29,3 +30,4 @@ A.C. Bhaktivedanta Swami
 P.S. I would like to know whether if two young boys come there, if you can take charge of them as teacher for them. They are very nice young Krishna Conscious boys, and their mother is very much in favor of them being trained up in our philosophy. They are between 10 and 12 years about. By teaching I mean teaching them The Teachings of Lord Caitanya, Bhagavad-gita, and Srimad-Bhagavatam, not preliminary education; preliminary education they already know. Please let me know about this.
 
 ACB
+</card>

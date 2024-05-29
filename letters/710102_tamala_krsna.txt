@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Calcutta
 
 My dear Tamala Krishna,
@@ -28,3 +29,4 @@ ACBS:ds\\
 P.S. Regarding Hamilton house, if we are certain that the tenant will vacate just after one & half year, then we can purchase the house. If there is no such certainty then it will be risky job.
 
 ACB
+</card>

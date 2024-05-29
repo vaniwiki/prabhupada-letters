@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bishambhar ======
+====== Bishambhar ======
 
+<card class="letter">
 Vrindaban
 
 My dear Bishambhar,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

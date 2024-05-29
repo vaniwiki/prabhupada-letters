@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kuladri ======
+====== Kuladri ======
 
+<card class="letter">
 New Vrindaban
 
 My dear Kuladri,
@@ -40,3 +41,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
+</card>

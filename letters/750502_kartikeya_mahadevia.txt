@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kartikeya Mahadevia ======
+====== Kartikeya Mahadevia ======
 
+<card class="letter">
 Karatiey Mahadevia\\
 A-11 Sea Pace Park\\
 Bhulabhai Desai Road\\
@@ -26,3 +27,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

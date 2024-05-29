@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Patty Dorgan ======
+====== Patty Dorgan ======
 
+<card class="letter">
 Kenmore, New York
 
 My dear Patty Dorgan,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

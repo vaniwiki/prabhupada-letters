@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Atreya Rsi ======
+====== Atreya Rsi ======
 
+<card class="letter">
 New York
 
 My dear Atreya Rsi,
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 * The Secretary may secure food grains and powder milk from U.S.A Government for distribution to the poor people in India for expanding Seva-Puja department in the matter of "Prasad" distribution.
 
 ACB
+</card>

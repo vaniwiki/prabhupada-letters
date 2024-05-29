@@ -7,9 +7,11 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay\\
 [To Giriraja]
 
 HAS CONVEYANCE DEED BEEN SIGNED IF NOT FINISH IMMEDIATELY AND WIRE DETAILS---BHAKTIVEDANTA SWAMI
+</card>

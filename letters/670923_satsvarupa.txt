@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 Boston
 
 My dear Satsvarupa,
@@ -16,3 +17,4 @@ My dear Satsvarupa,
 Please accept my blessings. I received many letters from you and some I have replied. I don't know whether I've replied all your points. I'll be glad to hear from you about the progress of the Boston center. So far as my health is concerned, definitely I've improved because I am now cooking and typing. I think I will be returning by the end of October. Please send a letter of invitation stating that my presence is urgently required in the States. This will help enormously in obtaining my permanent visa. I must produce concrete evidence of the necessity of my presence in America for this visa status.
 
 AB
+</card>

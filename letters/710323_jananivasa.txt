@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jananivasa ======
+====== Jananivasa ======
 
+<card class="letter">
 My dear Jananivasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 19th February, 1971 and have noted the contents carefully. I am so glad to note how things are steadily improving there in Columbus center, with new devotees coming, and that you are about to acquire a new temple in the busiest quarter of town. That is very encouraging. Maitahili Devi is coming from L.A. to act as poojari. So make the Deities and temple gorgeously situated so that the people will sure to be attracted. Because you are sincerely working, Krishna is giving you facility for improvement. So develop the temple nicely.
@@ -27,3 +28,4 @@ ACBS/adb
 Sriman Jananivasa Das Brahmachary\\
 318 E. Twentieth Avenue\\
 Columbus, Ohio 43201
+</card>

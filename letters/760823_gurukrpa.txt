@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurukrpa ======
+====== Gurukrpa ======
 
+<card class="letter">
 My dear Gurukrpa Maharaja,
 
 Please accept my blessings. During discussions with Jayapataka and Gargamuni Maharaja's regarding the construction of the present new guest house in Mayapur, they informed me that 9,70,000.00 rupees are required to finish the project.
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 nb---If you have already done business with their bank in Calcutta, then you can send the funds directly, otherwise, if you do not know the details of their account, then you can transfer the funds to my account at the American Express International Banking Corp. Calcutta, in my name, account no. 5416.\\
 cc: 4 c/o Sydney, Tokyo, Hong Kong, & Hawaii\\
 ACBS/hs
+</card>

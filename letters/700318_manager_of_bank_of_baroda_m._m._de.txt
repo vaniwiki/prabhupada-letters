@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Bank of Baroda, M. M. De ======
+====== Manager of Bank of Baroda, M. M. De ======
 
+<card class="letter">
 Manager\\
 Bank of Baroda (Calcutta Branch)\\
 P.O. Box No. 313\\
@@ -41,3 +42,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

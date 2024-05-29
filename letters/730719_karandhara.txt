@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 My dear Karandhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 12, 1973 and I have carefully studied the contents.
@@ -45,3 +46,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

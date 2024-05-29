@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: G.L. Nanda ======
+====== G.L. Nanda ======
 
+<card class="letter">
 Sri G.L. Nanda\\
 5, Tughlak Road\\
 New Delhi-11, INDIA
@@ -81,3 +82,4 @@ ACBS/ps
 cc: Dr. Channa Reddy, Governor of U.P. \\
 Kamalapati Tripathi, Central Railway Minster\\
 Brahmananda Reddy, Central Home Minister
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva, Pradyumna ======
+====== Hayagriva, Pradyumna ======
 
+<card class="letter">
 My dear Hayagriva and Pradyumna,
 
 Please accept my blessings. I thank you very much for sending me the poster with pictures of Mr. Ginsberg and myself. It is very nicely done. Now on that I shall lead the kirtana. I shall first of all chant, and our devotees should respond as usual. And with the devotees Mr. Ginsberg will also be amongst our devotees, and the public will be requested to follow this response. In this way there shall be kirtana performance for at least half an hour. For our men I want four mrdangas and twelve karatalas or cymbals. If Kirtanananda can play the harmonium melodiously along with the chanting, it will be nice. If somebody can play the tamboura, that will be still more nice. But they should be rhythmically played. So I do not know how many devotees are there or how many mrdangas are there, but we will require four mrdangas. If this is deficient now in men or mrdangas, then you should arrange for that by calling New York men and Buffalo men. Recently I have made one record in Los Angeles, so in trying to train our men in that rhythm is not difficult. Just arrange for sixteen men; four mrdangas, harmonium, tamboura, and the rest playing karatalas. If we can perform kirtana following the recently made recording, it will be marvelous. The summary is that you should make the above preparations for when the advertised meeting is held.
@@ -21,3 +22,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

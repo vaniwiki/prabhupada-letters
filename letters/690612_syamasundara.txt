@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of June 5, 1969, and with great joy I understand that at last you have secured one nice house which can accommodate twenty or thirty people. I have immediately asked Trivikrama das Brahmacari of Buffalo to go there, and he is sending Mukunda one telegram confirming this. I am also advising Vibhavati and Isana das to go there. Next I shall try to find out some other brahmacaris to go there as you require immediately some men for your great endeavor. You write to say you are too much strained in various ways, but by your such activities, Krishna will be very much pleased. I think because Krishna is pleased, therefore you have got at last a very nice place. I was planning to go to Los Angeles because Tamala Krishna and others are insisting that I attend the Rathayatra Festival that they are performing very pompously in San Francisco. They have secured a wonderful hall at the beach where the festival will be held and the proprietor of the hall has donated the hall for one week's use. They have received promises from many persons contributing grains, fruits and flowers for holding huge prasadam distribution. It is understood that the hall has a kitchen with twenty burners, and it will easily accommodate 5,000 people. So I have not said anything to them yet unless I hear from you finally, but you may know that I am quite fit to go to London as soon as you can arrange for my arrival there.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please inform Mukunda that I have received his letter of the 7th June. ACB
+</card>

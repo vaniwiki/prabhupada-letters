@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtika ======
+====== Kirtika ======
 
+<card class="letter">
 My dear Kirtika dasi,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of January 15, 1972, and I have noted the contents. Regarding your question whether husband and wife should live together in the temple, according to temple rules they should not live together in the temple. It does not give a good impression for brahmacaris and sannyasis. It is better if the grhasthas have a separate asrama, just like in Los Angeles the married disciples rent rooms together in one apartment house near the temple and live there separately, and in this way no one is disturbed, neither the brahmacaris are disturbed by householder life, nor the grhasthas are disturbed by brahmacaris. This is the best system, and if you and your good husband require to live together to advance nicely in Krishna Consciousness, that is very good proposal, but you should try to model the arrangement after the Los Angeles temple, and you should live separately, men and women, if you live in the temple itself.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

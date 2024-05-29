@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gajendra ======
+====== Gajendra ======
 
+<card class="letter">
 Seattle
 
 My dear Gajendra das,
@@ -41,3 +42,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

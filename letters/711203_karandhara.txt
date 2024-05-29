@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 My dear Karandhara,
 
 Please accept my blessings. I am in due receipt of your letter of November 13, 1971, in which you have recommended that Sriman Howard Sorgen and Srimate Jo An McNamara be accepted by me as my disciples. I am very glad to accept them as my initiated students, and I have given their spiritual names as Ganga Narayana das and Jaga Mohini dasi respectively. Now you must guide them very nicely in Krishna Consciousness, because you are a veteran devotee and practically speaking the future of our Krishna Conscious Society rests in the hands of my older disciples. Give them all facility to perfect their lives by protecting them and instructing them nicely, that is now the duty of my senior disciples.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

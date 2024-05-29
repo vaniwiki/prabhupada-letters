@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 Boston
 
 My dear Pradyumna,
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Regarding point #2: you can put the present name "Solapura" and then in parenthesis (Sailapura).\\
 ACBS:db
+</card>

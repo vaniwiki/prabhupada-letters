@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of January 14, 1969, and I have carefully noted the contents. In my previous letter to you I inquired about the invoice sent by United Shipping Corp., but I have received no information about this from you. Please inform me in this connection in your next letter. I want to know whether the %%________%% from them $250.00?
@@ -35,3 +36,4 @@ Please keep me informed on the above points. I hope this finds you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

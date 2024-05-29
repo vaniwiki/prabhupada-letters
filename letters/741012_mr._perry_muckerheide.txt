@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Perry Muckerheide ======
+====== Mr. Perry Muckerheide ======
 
+<card class="letter">
 Mr. Perry Muckerheide\\
 9520 Del Grove Drive\\
 Beverly Hills, CA 90210
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

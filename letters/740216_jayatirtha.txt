@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayatirtha ======
+====== Jayatirtha ======
 
+<card class="letter">
 Dear Jayatirtha,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 4, 1974.
@@ -17,3 +18,4 @@ It is very reassuring for me that all our most important affairs located in worl
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

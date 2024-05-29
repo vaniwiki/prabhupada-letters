@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radha Krsna ======
+====== Radha Krsna ======
 
+<card class="letter">
 Columbia
 
 My dear Radha Krsna dasa,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 Enclosures: Six sacred threads for Akilapatit dasa, Agnipuja dasa, Lilanatha dasa, Mrgesa dasa, Rayaram dasa, and Harigada dasa, and six gayatri mantra sheets.\\
 ACBS/tks
+</card>

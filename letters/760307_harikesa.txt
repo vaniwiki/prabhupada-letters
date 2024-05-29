@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harikesa ======
+====== Harikesa ======
 
+<card class="letter">
 Frankfurt
 
 My dear Harikesa Maharaja,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

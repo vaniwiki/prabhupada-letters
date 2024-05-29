@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. K. C. Nigam ======
+====== Mr. K. C. Nigam ======
 
+<card class="letter">
 Sri K. C. Nigam\\
 Convenor-All India Spiritual Conference\\
 108/119 Durgadevi Road\\
@@ -32,3 +33,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

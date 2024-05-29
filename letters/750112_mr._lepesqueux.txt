@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Lepesqueux ======
+====== Mr. Lepesqueux ======
 
+<card class="letter">
 France
 
 My dear Mr. Lepesqueux,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

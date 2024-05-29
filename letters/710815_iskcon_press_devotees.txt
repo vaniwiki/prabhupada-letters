@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: ISKCON Press ======
+====== ISKCON Press ======
 
+<card class="letter">
 TO ISKCON PRESS:
 
 My dear Advaita, Uddhava, Jayadvaita, Sita Ram, Meenakatam, Vilasini, Tusita, Bhargava, Bharadraja, Murlidhara, Kuladri, Kirtimati, Yugalakisora, Nara devi, Lilasuka, Jadurani, Usik, Gadadhara, Mamata devi, Nitai, Sumahat, Bimala, Anandini, Lynn, Candanacarya, Kasturika, Madhusudana, Charori, Navadvipa, Madhupuri, Tapas, Puspabana, Palika, Kancanbala, Pompa, Vidarbhasuta, Pradyumna, Jagannatha Suta, etc.
@@ -20,3 +21,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

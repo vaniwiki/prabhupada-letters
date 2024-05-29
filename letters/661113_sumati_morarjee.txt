@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sumati Morarjee ======
+====== Sumati Morarjee ======
 
+<card class="letter">
 Madame Sumati Morarji Bai Saheba,
 
 Please accept my greetings, and I hope everything is well with you.
@@ -31,3 +32,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta, Swami
 
 enclosures: 3
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harikesa Swami ======
+====== Harikesa Swami ======
 
+<card class="letter">
 **Second part of above letter**
 
 Wolfgang - Varanga-dasa\\
@@ -32,3 +33,4 @@ ISKCON\\
 uber Konigstein/Ts\\
 West Germany\\
 ACBS/sdg
+</card>

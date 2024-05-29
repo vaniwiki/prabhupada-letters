@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayatirtha, Sudama ======
+====== Jayatirtha, Sudama ======
 
+<card class="letter">
 My dear Jayatirtha and Sudama Goswami:
 
 Please accept my blessings. I am writing you because I have not received any letter from either of you regarding the banking business with Liberty Bank, Honolulu. I am very much anxious to know about this banking affair, so why are you not informing me anything? I have sent them my passbook and a withdrawal slip to pay Dollars 35,000.00 to Bank of America Branch 600, Los Angeles. I have also written Bank of America to transfer the amount to Punjab National Bank, New Delhi with special instructions to transfer the amount to Punjab National Bank, Vrindaban Branch, Account No. 668.
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: Jayatirtha, Los Angeles; Sudama Goswami, Honolulu
+</card>

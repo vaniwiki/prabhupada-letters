@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gandharva ======
+====== Gandharva ======
 
+<card class="letter">
 Seattle
 
 My dear Gandharva dasa:
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

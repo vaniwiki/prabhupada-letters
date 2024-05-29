@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Paramananda ======
+====== Paramananda ======
 
+<card class="letter">
 New Vrndavana
 
 My dear Paramananda,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. [TEXT UNCLEAR] ACBS:db
+</card>

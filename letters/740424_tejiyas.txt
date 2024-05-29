@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 New Delhi
 
 Dear Tejyas,
@@ -28,3 +29,4 @@ ACBS/sdg\\
 Enclosures: 7 checks & 2 = 9\\
 requisition slip\\
 (Enclosures handwritten)
+</card>

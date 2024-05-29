@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Hamburg
 
 My dear Hansadutta,
@@ -32,3 +33,4 @@ ACBS/sda\\
 n.b. I have just now received one letter which has described your GBC meeting of nine men in New York, and I have cabled Rupanuga the following message: "GBC Meeting irregular. My strong disapproval, Make no changes. Inform others. Letter follows." So you can understand that I am very much perplexed why you have done these things without consulting me in the matter. If every time someone feels something they call for changing everything, then all that I have done will very quickly be lost. so for the time being there shall be no such changes as you have arranged, until I study the matter thoroughly.\\
 ACBS.\\
 cc. Bali Mardan/Rupanuga
+</card>

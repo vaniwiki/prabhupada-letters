@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta , Kirtanananda , Acyutananda ======
+====== Hansadutta , Kirtanananda , Acyutananda ======
 
+<card class="letter">
 Calcutta
 
 My dear Hansadutta, Kirtanananda and Acyutananda Maharajas,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

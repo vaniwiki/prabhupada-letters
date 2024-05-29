@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hrdayananda ======
+====== Hrdayananda ======
 
+<card class="letter">
 Los Angeles
 
 My dear Hrdayananda Maharaja,
@@ -29,3 +30,4 @@ A.C. Bhaktivedanta Swami
 ACBS/ps\\
 copy sent to Mexico City\\
 n.b. Our arrival date in Mexico City should be a little after mid-Jan. As soon as exact dates are fixed up you will be cabled immediately.
+</card>

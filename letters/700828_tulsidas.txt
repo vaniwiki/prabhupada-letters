@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tulsidas ======
+====== Tulsidas ======
 
+<card class="letter">
 San Diego
 
 My dear Tulsidas,
@@ -23,3 +24,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

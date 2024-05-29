@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated Feb. 24, along with two copies of letters, one from Purusottama das Brahmacari at Vrindaban, another from Teen Activity Center of Kings. This letter from the Activity Center is very hopeful for our Kirtana propaganda. I am very much ambitious for leading a Kirtana party, especially all over your state, and Europe. Hansadutta is trying to organize this party. If you can move with this Kirtana party, say a batch of 12 to 15 heads, all over the States, as well as Europe, I am sure we will be more popular than the so-called yogi Maharishi Mahesa. I have received another letter from Acyutananda in which it appears that he is not fixed up in staying in India. He is very seriously thinking of coming back, and this is very disappointing. If he comes back then our dream of opening a center in India is not very encouraging, because Kirtanananda came back, Ramanuja has joined with the Buddhist camp, and Acyutananda at the beginning showed very encouraging hopes, but that is gradually vanishing, and he is eager to come back. The other two boys living with Bon Maharaja, they are not very much hopeful, especially Harivilasa. I have heard about him lots of things from Ramanuja and Acyutananda, and you have written about him that he is little fanatical. Under the circumstances, how it is possible to combine them together and open a branch in India? If I would have been there, I could manage, but I am here. I do not think Rayarama may prepare to go to India at the present moment. When I return to New York, we shall consult together and do the needful. In the meantime, let us consolidate our energy for bringing the books.
@@ -24,3 +25,4 @@ I am glad to understand that Lord Jagannatha is being repaired, and after this h
 Your ever well-wisher,
 
 N.B. You have asked about the printing of Srimad-Bhagavatam. The printing of the next 3 volumes has already begun in India. But if it is possible to print it here, then, as you know, we have got 50 or so more volumes, and they can be printed here if it can be arranged. But the next 3 volumes have already begun being printed in India, and I have sent you the specimen copy of printing. If printing of Bhagavatam is done here and a Kirtana party is organized then I shall never go back to India. I shall stay here in your good care till my death. Hansadutta will help me in establishing a New Vrindaban in the West. Please inform Hansadutta that I have received his encouraging letter: I am glad to learn that Sriman Umapati is coming to see me. He is heartily welcome. Kindly care of the shipping affairs from India.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Dear Karandhara Prabhu:
 
 Please accept my humble obeisances. I have received your letter with enclosure dated August 21, 1974 and presented your proposal to Srila Prabhupada of his writing a memo to the negligent temples. The following was his reply:
@@ -24,3 +25,4 @@ I hope this meets you in good health.
 Your servant,\\
 Brahmananda Swami\\
 Personal Secretary
+</card>

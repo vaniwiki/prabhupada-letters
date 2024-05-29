@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Caru ======
+====== Caru ======
 
+<card class="letter">
 Melbourne
 
 My dear Caru das,
@@ -19,3 +20,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

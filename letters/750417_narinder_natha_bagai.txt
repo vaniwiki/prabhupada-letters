@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Narinder Natha Bagai ======
+====== Narinder Natha Bagai ======
 
+<card class="letter">
 Narinder Natha Bagai\\
 1185, Sector 18C\\
 Chandigarh, Punjab
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

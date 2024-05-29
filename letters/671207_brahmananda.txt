@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I'm in due receipt of your letter of Nov. 30, and I duly appreciate your program for European tour, as well as coming to India for doing business. Actually we are experiencing Indian business dealing as not very prompt. The best thing is therefore to purchase goods ourselves from the firm, pack and book it all ourselves. SS Brijbasi has taken so much time for nothing, they do not even reply letters, but on the other hand they have promptly delivered Mukunda's order, this means that business managing is not regular. You can send the copy of the letter to Acyutananda in which they have acknowledged payment. Acyutananda and Ramanuja will return to Vrindaban next week and I am starting for Japan on Sun or Mon __positively.__ I shall try to get some Friends there and also try to meet Prof Rudolf Stein in Hawaii.
@@ -19,3 +20,4 @@ Regarding beautifying the temple, we should always know that every place is temp
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

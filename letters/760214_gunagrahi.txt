@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gunagrahi ======
+====== Gunagrahi ======
 
+<card class="letter">
 San Diego
 
 My dear Gunagrahi das,
@@ -32,3 +33,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

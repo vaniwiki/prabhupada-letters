@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pannalal Bansilalji ======
+====== Pannalal Bansilalji ======
 
+<card class="letter">
 Hyderabad
 
 My dear Pannalal Bansilalji:
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: Giriraja das, Bombay
+</card>

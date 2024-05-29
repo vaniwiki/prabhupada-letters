@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda, Advaita ======
+====== Brahmananda, Advaita ======
 
+<card class="letter">
 My dear Brahmananda and Advaita,
 
 Please accept my blessings. As you have probably heard by now, in Boston they have a big house which they are purchasing, and they are anxious to have more devotees move there. My idea is that you may immediately make plans to start our printing department in Boston now. There are two large halls in their house, and one of them may be utilized as the printing department's. I have already written to Satsvarupa to invite Advaita, Vaikunthanatha, and their wives to go to Boston for beginning this operation, and similarly, the others may go now or when they are required. The first project will be to print __Teachings of Lord Caitanya__ in soft cover edition. So instead of spending money to have this printed outside, we can utilize the money for starting our own press in Boston. You may contact Satsvarupa immediately to make definite arrangements in this connection.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

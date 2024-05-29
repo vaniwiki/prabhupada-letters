@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 15, and December 17, 1968. I have carefully noted the contents of both of these.
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami
 
 NB: So far as you performing the marriage ceremony in exchange for a nice rug, the idea is alright and if you request I will send you instructions.\\
 Enclosures.
+</card>

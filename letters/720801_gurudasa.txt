@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 Vrindaban
 
 My dear Gurudasa,
@@ -29,3 +30,4 @@ A.C. Bhaktivedanta Swami
 ACBS/sda\\
 *n.b. Kindly deliver over to Gauracandra Goswami the sum of Rs. 751/. Only as settlement of all old due donation, and take receipt and send to me. ACBS.\\
 n.b. The Delhi deities have arrived safely. Presently we are looking for a large temple in London to install them, and I shall remain in London until we have got something.
+</card>

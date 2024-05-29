@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Patita Uddharana ======
+====== Patita Uddharana ======
 
+<card class="letter">
 Indre, France
 
 My dear Patita Uddharana das,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 n.b. her address in Nairobi is: Srimati Shaktimati, P.O. Box 41770, Nairobi, Kenya, East Africa.\\
 ACBS/pks
+</card>

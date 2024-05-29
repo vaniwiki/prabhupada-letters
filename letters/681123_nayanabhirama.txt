@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nayanabhirama ======
+====== Nayanabhirama ======
 
+<card class="letter">
 My dear Nayana Bhirama,
 
 Please accept my blessings. Regarding your article in Back To Godhead about Ayurvedic Medicine, I do not think this is very worthwhile endeavor. You have shown nice ability for writing so it will be more appreciated if you continue to study Srimad-Bhagavatam and Bhagavad-gita and express the same by your assimilation. We have enough Krishna Consciousness matters to discuss so there is no need of wasting time with such topics as Ayurvedic Medicine.
@@ -17,3 +18,4 @@ Hope this finds you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

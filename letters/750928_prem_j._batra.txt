@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prem J. Batra ======
+====== Prem J. Batra ======
 
+<card class="letter">
 Prem J. Batra\\
 Ruparel College, Sr. B.A.\\
 Matunga, Bombay 400 016
@@ -35,3 +36,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lilasukha ======
+====== Lilasukha ======
 
+<card class="letter">
 My dear Lilasukha Dasi,
 
 Please accept my blessings. Your letter of Nov. 26, 1967, received along with your beads. I have sanctified your beads last evening when I initiated two other boys Cidananda and Krishna das. I am very glad to know that you are realizing Krishna Consciousness. The more you chant, the more you will realize.
@@ -17,3 +18,4 @@ I think Krishna has brought me again in your country for the purpose of training
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Laksmimoni ======
+====== Laksmimoni ======
 
+<card class="letter">
 My dear Laksmimoni,
 
 Please accept my blessings. I thank you very much for your letter dated July 5, 1969, sent along with your chanting beads and one letter from Sriman Jagadisa das Brahmacari. I have duly chanted upon your beads, and your initiated name is Laksmimoni Dasi. Laksmimoni is the Goddess of Fortune, and she is always to be found serving at Krishna's Lotus Feet. Although the Goddess of Fortune is very restless and does not like to stay in one place for very long time, she is always finding new wonderful things in serving Krishna's Lotus Feet so that she never thinks of leaving Him. This is actually the position of Krishna Consciousness that when we get some taste of rendering sublime loving service to the Lord, no more do we have any taste for any other engagements. So as initiated student you should chant 16 rounds on your beads daily, avoiding the ten kinds of offenses which Rupanuga will explain to you. You must follow the four regulative principles; namely no illicit sex life, no intoxication, no meat-eating, and no gambling.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *sent soon by separate post
+</card>

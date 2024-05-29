@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhusudana ======
+====== Madhusudana ======
 
+<card class="letter">
 New York
 
 My dear Madhusudana,
@@ -23,3 +24,4 @@ My dear boy, lecturing for Krishna has nothing to do with this body. If I would 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhavananda ======
+====== Bhavananda ======
 
+<card class="letter">
 My dear Bhavananda,
 
 Please accept my blessings. I hope that Mayapur festival preparations are going on and I am awaiting news from you. Just now Tamala has received one telegram from you reading:
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
+</card>

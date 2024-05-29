@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Resolution ======
+====== Resolution ======
 
+<card class="letter">
 __BHAKTIVEDANTA BOOK TRUST RESOLUTION__
 
 The written resignation of Kelly Gifford Smith (Karandhara das Adhikari) is hereby accepted by the trustees of the Bhaktivedanta Book Trust.
@@ -22,3 +23,4 @@ September, 1974;
 A.C. Bhaktivedanta Swami
 
 William Berke (Bali Mardan das Adhikari)
+</card>

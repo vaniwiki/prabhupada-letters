@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jeffrey Hickey ======
+====== Jeffrey Hickey ======
 
+<card class="letter">
 My dear Jeffrey Hickey,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of November 28, in which you request to be initiated as my student. I have noted by your letter that already you are progressing nicely by associating with devotees and chanting 22 rounds daily so there is no more any need to wait. You may send to my Los Angles address your chanting beads so that you may receive initiation.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please order Brahmananda to send you books for selling. I have Dai Nippon $6000.00 dollars---TLC now we must sell them to get money for the next publication __Nectar of Devotion__ (400 pages).
+</card>

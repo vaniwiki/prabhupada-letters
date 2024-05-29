@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prity Ghose ======
+====== Prity Ghose ======
 
+<card class="letter">
 Sri Prity Ghose\\
 Sangeet Kala Kendra\\
 27/B Gray Street\\
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. My joy has no bounds when I received your calendar so nicely imagined. Now I think Krishna has selected the right person for our propaganda department---Sriman Rayarama Brahmacari! A sincere worker is always recognized by Krishna. I do not know how shall I thank you, but I am confident of my future hopes in the sincere students like you, Brahmananda and others; & now if I die I will die blissful, the work will go on.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure-1
+</card>

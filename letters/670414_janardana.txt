@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janardana ======
+====== Janardana ======
 
+<card class="letter">
 My dear Janardana,
 
 Please accept my blessings. I hope you have duly received the note sent for your grandmother. Although we have spent $500.00 till now for my permanent Visa, our Lawyer is not yet successful. He does not advise me to cross the borders of U.S.A. otherwise the Visa which is now extended to February 1969, will be cancelled. And I cannot return to U.S.A. It is very difficult to deal with these lawyers. Now if it is possible for me to have Canadian Visa as Kirtanananda has suggested in his letter under reply and which you have also confirmed that it can be done, then please do it immediately and I can start for Montreal never mind it is cancelled here. You will find herewith two certificates of my bona fides in the matter of my becoming the teacher of Caitanya Cult. I have got my books also. So if I am appointed as teacher I think the whole problem is solved.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: 3 & 1 Letter from N.Y.U.
+</card>

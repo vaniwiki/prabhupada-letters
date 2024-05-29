@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna dasa ======
+====== Krsna dasa ======
 
+<card class="letter">
 My dear Krishna das,
 
 Please accept my blessings. I am so glad to receive your letter dated December 17, 1969 with enclosure of $15, for which I thank you very much. You have signed your name as Krishna das naradhama, but actually, one who is Krishna das is Narottama. But a Krishna das can deliver all naradhamas. I am always very much pleased with your humble attitude, and a Vaisnava devotee of Lord Caitanya always thinks himself as naradhama, the lowest of mankind; although he is narottama, the best of the mankind.
@@ -23,3 +24,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

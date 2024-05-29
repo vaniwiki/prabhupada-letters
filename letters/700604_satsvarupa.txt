@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 Boston
 
 My dear Satsvarupa,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. With further reference to question five, in both the Bible and the Koran it is always recommended to be engaged always in __kirtana__ or glorifying the Supreme Lord. __Kirtana__ means to glorify the Lord by your vibration. In the churches there is always singing of praise and glories of the Lord and there is preaching naturally also. Mohammedans actually have singing kirtana publicly. This I have seen in India that they were holding kirtana with drum accompaniment.\\
 ACBS:db
+</card>

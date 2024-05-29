@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ambarisa ======
+====== Ambarisa ======
 
+<card class="letter">
 Boston
 
 My dear Ambarisa das,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

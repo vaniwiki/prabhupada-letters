@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasomatisuta ======
+====== Yasomatisuta ======
 
+<card class="letter">
 Hong Kong
 
 My dear Yasomatisuta das,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

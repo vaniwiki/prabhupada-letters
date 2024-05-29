@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Markandeya Rsi ======
+====== Markandeya Rsi ======
 
+<card class="letter">
 Brooklyn
 
 My dear Markandeya Rsi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

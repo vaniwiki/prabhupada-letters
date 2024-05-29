@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna Vilasini ======
+====== Krsna Vilasini ======
 
+<card class="letter">
 Los Angeles
 
 My dear Krsna Vilasini devi dasi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

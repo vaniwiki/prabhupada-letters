@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter, one undated, and the others dated July 12th and 14th, 1969. Regarding the house on 43rd Street, I think you have made the correct decision in not taking this place during the summer because now you have so much Sankirtana activities to devote your energy to, and things are improving gradually as you are now performing your activities. So now you devote your time to Sankirtana Party and the Book Department. I have been taking price quotations from various printers in Los Angeles, and it does not look very hopeful at all that they will be able to compete with our other prices from New York, so as you have requested to be in charge of all aspects of our book publication, I think you are very qualified for this, so please do it very nicely with the help of the others. Regarding your plan for advertising membership in BTG, that is nice. I do not see how we can insist that all members must follow the four regulative principles, but this is certainly our recommendation to anyone who is serious about pursuing Krishna Consciousness.
@@ -21,3 +22,4 @@ Please convey my blessings to the others, I hope this will meet you in good heal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

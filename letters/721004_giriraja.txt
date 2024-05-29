@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay
 
 My dear Giriraja,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 n.b. Syamasundara is in London now for settling up the London house, and he will fly to Bombay very soon on his way to meet me in Delhi, so why not take his help to finish this business?\\
 ACBS/sda
+</card>

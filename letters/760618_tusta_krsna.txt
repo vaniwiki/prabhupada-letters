@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tusta Krsna ======
+====== Tusta Krsna ======
 
+<card class="letter">
 Auckland, New Zealand
 
 My dear Tusta Krsna Swami,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

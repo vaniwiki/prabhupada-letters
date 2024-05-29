@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cidananda ======
+====== Cidananda ======
 
+<card class="letter">
 My dear Cidananda,
 
 Please accept my blessings. It is a great pleasure to receive your letter dated October 7, 1969, and I am so glad to read it that you have got a nice place for starting our temple. I do not know what is the length and breadth of the space, but a throne of Radha Krishna may be made exactly on the pattern of Los Angeles, and the sample picture is sent herewith for your guidance. When everything is completed we shall install a 24" high Radha-Krishna Pair and make it exactly decorated like the Los Angeles temple. Ananda is a very silent worker and sincere devotee, and I am glad that two other brahmacaris, Ravindra and Rudra das, are also there to accompany you on the Sankirtana Party everyday. You are an experienced devotee, and I hope in your presence now Vancouver temple will come out very successful. I passed through Vancouver while coming from Seattle to Montreal, but I never saw the city. Now I hope while we install Radha-Krishna Murtis there I may see the nice city of Vancouver. Our method of establishing a flourishing center will continue to be the same. This is standard and successful. Please keep me informed about your center.
@@ -19,3 +20,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

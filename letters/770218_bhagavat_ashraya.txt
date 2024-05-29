@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavat Ashraya ======
+====== Bhagavat Ashraya ======
 
+<card class="letter">
 ISKCON\\
 21-A Feroze Gandhi Road,\\
 Lajpat Nagar III,\\
@@ -30,3 +31,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

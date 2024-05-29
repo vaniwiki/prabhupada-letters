@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Svarupa ======
+====== Svarupa ======
 
+<card class="letter">
 Brooklyn
 
 My dear Svarupa,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACS/adb
+</card>

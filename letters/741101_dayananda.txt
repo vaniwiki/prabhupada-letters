@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dayananda ======
+====== Dayananda ======
 
+<card class="letter">
 Dallas
 
 My dear Dayananda das:
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

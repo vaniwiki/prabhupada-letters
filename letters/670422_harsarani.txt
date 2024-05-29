@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Harsarani ======
+====== Harsarani ======
 
+<card class="letter">
 My dear Srimati Harsarani,
 
 Please accept my blessings. I have duly received your bags for the beads and thank you very much. I hope you are %%__%% Kirtana nicely and feeling transcendental happiness. Please offer my blessings to all the boys and girls. Hope to hear from you.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

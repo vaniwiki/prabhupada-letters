@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Doctor Currier ======
+====== Doctor Currier ======
 
+<card class="letter">
 Gobernador Tiburcio, Montiel No. 45\\
 San Miguel, Mexico 18, D.F.\\
 W.D. Currier, M.D., Inc.\\
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

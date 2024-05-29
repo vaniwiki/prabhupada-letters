@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lilavati ======
+====== Lilavati ======
 
+<card class="letter">
 My dear Lilavati,
 
 Please accept my blessings. As for your questions you have asked for clarification in the KRSNA Book when Maha Visnu says to Krsna and Arjuna that you are my incarnations in my appearance as Nara-Narayana. So you are asking how this can be so. The answer is when Krsna comes all the incarnations are within him. Actually this is a very intricate question. So not be so concerned about it now. When you become more advanced you will be able to realize these things.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 Sriman Hayagriva das Adhikary\\
 ISKCON New Vrindaban\\
 R.D. 3, Moundsville, West Virginia.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS: tkd
+</card>

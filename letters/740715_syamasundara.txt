@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara Prabhu,
 
 Please accept my blessings. I do not know where your address is, still I am writing this letter to you for urgent business matter. The philosophy discourses we had years ago is now lying without any utility, so all your Godbrothers are very much anxious to publish it.
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:rdb
+</card>

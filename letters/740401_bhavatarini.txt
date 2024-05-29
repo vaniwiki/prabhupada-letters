@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhavatarini ======
+====== Bhavatarini ======
 
+<card class="letter">
 Dear Bhavatarani;
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of March 24, 1974, and I have noted the contents.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *or Liberty Bank, Honolulu where I have a/c
+</card>

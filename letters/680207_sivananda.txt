@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I hope you are continuing to study Bengali. I shall be glad to know how much progress you have made by this time. Hope you are well.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

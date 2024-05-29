@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhurijana ======
+====== Bhurijana ======
 
+<card class="letter">
 My dear Bhurijana,
 
 Please accept my blessings. I beg to thank you for your very nice and encouraging letter dated March 30, 1969. I am pleased to learn of the success which you and Tosana Krishna are having in your new center. It is all very encouraging to me. I think that your proposal to have me come to North Carolina is very nice, and if it can be arranged, I will surely do this. I shall be in Columbus by the 10th of May, and if you think that my going to your place will be nice, then you can arrange to receive me from Columbus to your place. So if it is possible, please let me know your tentative program. The program may be fixed some time after the 15th of May, and your tentative program may be informed to me at the New York address.
@@ -17,3 +18,4 @@ I hope this will meet the both of you in good health and cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krishnanga ======
+====== Krishnanga ======
 
+<card class="letter">
 Vrindaban
 
 My dear Krishnanga devi dasi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

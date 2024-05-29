@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Krishna Panditji ======
+====== Sri Krishna Panditji ======
 
+<card class="letter">
 __TRUE COPY of Letter under separate post with Gramophone Record AND A CHEQUE FOR RS 50/-__
 
 My dear Sri Krishna Panditji,
@@ -36,3 +37,4 @@ The above letter was to be posted by air mail. But my students have posted it al
 
 Yours etc.\\
 A.C. Bhaktivedanta Swami
+</card>

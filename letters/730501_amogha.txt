@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Amogha ======
+====== Amogha ======
 
+<card class="letter">
 Brisbane, Australia
 
 My dear Amogha das Adhikari:
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

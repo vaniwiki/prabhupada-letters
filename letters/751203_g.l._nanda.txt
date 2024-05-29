@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: G.L. Nanda ======
+====== G.L. Nanda ======
 
+<card class="letter">
 Sriman Gulzari Lal Nanda\\
 5, Tuglak Road,\\
 New Delhi 110011
@@ -26,3 +27,4 @@ Your sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/had
+</card>

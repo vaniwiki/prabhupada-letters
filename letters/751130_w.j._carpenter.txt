@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: W.J. Carpenter ======
+====== W.J. Carpenter ======
 
+<card class="letter">
 My dear W.J. Carpenter,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated nil.
@@ -23,3 +24,4 @@ I hope this letter finds you well.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

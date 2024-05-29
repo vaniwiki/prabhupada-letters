@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brother ======
+====== Brother ======
 
+<card class="letter">
 My dear Brother,
 
 Please excuse me if I have offended you by calling you my dear Brother. Actually you are my dear brother and when you know me you shall be pleased that I have called you as such.
@@ -46,3 +47,4 @@ For the League of Devotees,
 Abhay Charanarvinda Bhaktivedanta
 
 Secretary.
+</card>

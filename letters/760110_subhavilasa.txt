@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subhavilasa ======
+====== Subhavilasa ======
 
+<card class="letter">
 My dear SubhaVilasa,
 
 Please accept my blessings. I received your letter and I gave it to my secretary with instructions to reply it.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

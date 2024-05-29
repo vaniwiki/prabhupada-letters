@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaudiya Mission ======
+====== Gaudiya Mission ======
 
+<card class="letter">
 GAUDIYA MISSION\\
 Reg. Office: Sri Gaudiya Math\\
 P.O. Baghbazar,\\
@@ -28,3 +29,4 @@ Thanking you in anticipation for your early reply.
 Sincerely yours,
 
 A.C. Bhaktivedanta Swami
+</card>

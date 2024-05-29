@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Taksya ======
+====== Taksya ======
 
+<card class="letter">
 Trinidad
 
 My dear Taksya das,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

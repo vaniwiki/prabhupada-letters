@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yadunandana ======
+====== Yadunandana ======
 
+<card class="letter">
 Dallas
 
 My dear Yadunandan dasa,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

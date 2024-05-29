@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vasudevaya, others ======
+====== Vasudevaya, others ======
 
+<card class="letter">
 East Cleveland
 
 My dear Vasudevaya dasi and others,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

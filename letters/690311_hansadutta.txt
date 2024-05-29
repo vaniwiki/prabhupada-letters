@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I am in due receipt of your letter of Feb. 28, 1969, and I am very much surprised that other nonsense magazines are being published by Dayala Nitai, and Janardana says it is in my knowledge! I am very much surprised to hear this. Enclosed I am forwarding one letter to Dayala Nitai, and how it is that without your knowledge these things are being done? Certainly it must be disturbing to you---it is disturbing to me also!
@@ -21,3 +22,4 @@ I shall soon return to the mainland and I plan to go to New York the first week 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

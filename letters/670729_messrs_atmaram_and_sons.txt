@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Messrs Atmaram and Sons ======
+====== Messrs Atmaram and Sons ======
 
+<card class="letter">
 Messrs Atmaram and Sons\\
 English Department\\
 Kashmiri Gate\\
@@ -26,3 +27,4 @@ Thanking you.
 Sincerely yours,
 
 A.C. Bhaktivedanta Swami
+</card>

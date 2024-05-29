@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Umapati ======
+====== Umapati ======
 
+<card class="letter">
 My dear Umapati,
 
 Please accept by blessings. I beg to acknowledge receipt of your letter dated June 12, 1969, and I have noted the contents. You could not secure till now a good job, but that does not mean you shall return to New York. Keep yourself in San Francisco for some time more, and if there is no favorable response, then you may go to Paris where there is contemplation of opening a center. This will be settled up, say after a month. Till then you remain either in San Francisco or Los Angeles, and then decide. I think there is a great plan of Krishna that you should not get suitable service till now. It may be that you are required for preaching work 100%. So depend on Krishna, chant Hare Krishna, and everything will work out. I am leaving for Los Angeles on June 23rd, so I am sure I will see you before long.
@@ -17,3 +18,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

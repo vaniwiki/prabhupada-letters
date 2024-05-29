@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Meenakatan ======
+====== Meenakatan ======
 
+<card class="letter">
 Toronto
 
 My dear Meenakatan,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:hda\\
 N.B. Regarding your Problem; you should know by now that if you break one of the four regulative principles then you cannot advance. Advancement is possible only by sincere chanting of the Holy Name. So what can I say, you chant and be determined not to engage in this sinful activity again. But there is no use in writing to me that you are doing something sinful and then you continue to do it on some plea. Stop sinful life and be Krishna Conscious, that's all.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jahnava ======
+====== Jahnava ======
 
+<card class="letter">
 My dear Jahnava Dasi
 
 Please accept my blessings, and the blessings of my Guru Maharaja. I am very pleased to now accept you as my disciple, and your spiritual name is Jahnava Dasi. Janava Devi was the consort energy of Lord Nityananda. This process of Krishna Consciousness is offered to every one, but only one out of many thousands of people will accept it. Therefore you should be very serious about perfecting your life in Krishna Consciousness, and thereby becoming qualified to enter into the Kingdom of God, Goloka Vrindaban. So please receive these beads, duly chanted upon by me, and chant at least 16 rounds daily and follow all of the regulative principles. Take assistance from your godbrothers and godsisters there, and engage yourself purely in the business of Krishna Consciousness. This will bring all success to you. You can be certain of this.
@@ -17,3 +18,4 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

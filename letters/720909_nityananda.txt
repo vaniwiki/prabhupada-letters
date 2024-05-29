@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nityananda ======
+====== Nityananda ======
 
+<card class="letter">
 My dear Nityananda and ISKCON New Orleans;
 
 Please accept my blessings. I beg to thank you very much for your kindly remembering me on Vyas Puja birthday, and I have duly received your gift of $50.00, and I have appreciated your warm sentiments with great satisfaction. I am very much encouraged by your programs in Krsna Consciousness. Now go on in this way always striving to please Krsna and you will feel yourself becoming happy more and more. That I want. Thank you once again,
@@ -19,3 +20,4 @@ A.C. Bhaktivedanta Swami
 ISKCON New Orleans
 
 ACBS/sdg
+</card>

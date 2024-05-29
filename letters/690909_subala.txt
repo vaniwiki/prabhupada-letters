@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala,
 
 Please accept my blessings. I beg to thank you very much for your letter of September 2nd, 1969, sent along with a contribution of 100 dollars for my book fund. I am pleased to learn that Sridama and Rohini Devi are there with you in Philadelphia. Sridama is nicely trained for Sankirtana activities so he will be a great boon to your center. He is a very good boy, and I am always grateful to him for the nice personal service he rendered to me while I was in Los Angeles. On Vyasa Puja Day, the Vyasa Puja booklet was read aloud in the ceremony at the temple, and your article was very much appreciated by all. This Thursday I am going to London, so future correspondence may be addressed to me there.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I shall be glad to hear from Sridama also.
+</card>

@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Santi (Sandy Van Horn), Vinode Vani (Debra Perry), Giridhari (Geoffrey Perry) ======
+====== Santi (Sandy Van Horn), Vinode Vani (Debra Perry), Giridhari (Geoffrey Perry) ======
 
+<card class="letter">
 Houston
 
 My dear Sons and Daughters,
@@ -27,3 +28,4 @@ Your ever wel%%_ ______%%
 C. Bh%%_______ ______%%
 
 ACB/sda
+</card>

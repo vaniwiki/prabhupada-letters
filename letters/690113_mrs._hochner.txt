@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mrs. Hochner ======
+====== Mrs. Hochner ======
 
+<card class="letter">
 Dear Mrs. Hochner,
 
 Please accept my New Year's greetings. I am so pleased to accept your token of good will and the sounding Haribol with needlework. This cloth is so nice that I have hung it in my room in front of me so that I can see Haribol and remember you always.
@@ -19,3 +20,4 @@ My endeavors might be sincere, but without their cooperation I could not have ex
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Parvati ======
+====== Parvati ======
 
+<card class="letter">
 Srimate Parvati devi dasi\\
 International Society for Krishna Consciousness\\
 P.O. Box 82224 Mombasa, Kenya AFRICA
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

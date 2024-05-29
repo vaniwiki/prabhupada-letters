@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krpasindhu (Rick Holtzman) ======
+====== Krpasindhu (Rick Holtzman) ======
 
+<card class="letter">
 Toronto
 
 My dear Krpasindhu (Rick Holtzman),
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

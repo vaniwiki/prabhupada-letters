@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your zonal report and proposal for purchasing Australian headquarters. You have my full approval for this program.
@@ -19,3 +20,4 @@ I hope this letter meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

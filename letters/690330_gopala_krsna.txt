@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 My dear Gopala Krishna,
 
 Please accept my blessings. I beg to thank you for your letter of March 21, along with a check for $75, Canadian, and I thank you very much for this contribution for the Deity. And also I am very much obliged to you that you are going to send me another lot of $250 for my book fund. Yes, my Guru Maharaja advised me to give more stress on publication work so most probably I shall try to concentrate my energy in this department very shortly. Perhaps you know that we are going to print BTG every month 20,000 copies, and maybe very soon we shall increase to 50,000 copies. If you kindly help me in distributing these books and literature, it will be a very great help for my missionary activities. You are working as sales organizer so you can think up this sales organization side by side, and if possible try to help. My next scheme is to develop the New Vrindaban scheme, and I require there millions of dollars. Immediately I have got about $25,000 worth of books or more. If you think of how to organize sales, then we can promote more and more books, and with the profit thereof, we can spend in so many departments. The people of the Western country, they are fond of reading books and by propaganda work we have to change their taste and divert them from reading all worldly literatures, to transcendental literature. Please think of this carefully and let me know if you can help. You write to say that these days the educated class of people have rejected devotional service---and it is their misfortune. This means they are not being educated; rather they are being degraded. According to the verdict of Srimad-Bhagavatam, if one is not devotee, then he has no good qualifications, and if one is simply devotee, it is to be supposed that he has got all the good qualities. For the present you do not try to have a small temple in your house, because I know that you are not strictly vegetarian. I do not know whether now you are also strictly vegetarian, but unless you become so, don't try to have a small temple in your house as proposed by you. The four principles which we ask our students to follow, namely, restraining illicit sex life, etc., must be the basic principles of spiritual life. I am glad that you are preparing for your exam, and after that, please try to move the Indian papers, how Krishna consciousness movement is improving and flourishing here in USA, while the Indian boys and girls have rejected it. Illustrated Weekly of India had sometimes back published our article (maybe Dec. 21, 1967), so if you remind them, and send them more articles and photos, they will surely be glad to print them on receipt of them.
@@ -21,3 +22,4 @@ A.C. Bhaktivedanta Swami
 P.S Please contact Bal Samant by correspondence. His address is with Jayapataka Brahmacari. Also let me his address in India.
 
 ACB
+</card>

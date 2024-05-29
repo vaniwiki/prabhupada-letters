@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Viswesha Tirtha Swami ======
+====== Sri Viswesha Tirtha Swami ======
 
+<card class="letter">
 Karnataka
 
 Dear Sri Viswesha Tirtha Swami ji
@@ -26,3 +27,4 @@ This Sanatana Dharma pracara is the real path followed by all pure acaryas such 
 I hope this meets you in good health.
 
 A.C. Bhaktivedanta Swami
+</card>

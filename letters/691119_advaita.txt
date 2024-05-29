@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Advaita ======
+====== Advaita ======
 
+<card class="letter">
 My dear Advaita,
 
 Please accept my blessings. I thank you very much for your ketter dated November 17, 1969 with two enclosures of paper samples. So far as the paper for colored pictures, 80 lbs., and dust jacket, 100 lbs., I think it is quite suitable. But so far as the papers for the inside of the book, the paper which you have indicated, 50 lbs., is not suitable. It must be either 60 or 70 lbs. If 70 lbs. is too costly, then 60 lbs. is tolerable. But the paper must be white just like __TLC.__ The samples you have sent are not so nice a white color. So far as the other estimates, I think they are all right. The total expenditure submitted by you, $7,939---or say $8,000, is acceptable. The size as you have mentioned, 6 3/4 x 9 1/2, is also all right, and the pictures 48 in number and pages 352 is also all right. The quality of binding, get-up, texture, etc. is like __TLC,__ so you can arrange for its printing immediately.
@@ -17,3 +18,4 @@ I am very sorry to learn that our press is lying idle, and your remark in this c
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

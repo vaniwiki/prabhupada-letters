@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sucandra ======
+====== Sucandra ======
 
+<card class="letter">
 My dear Sucandra,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 3rd, 1969, and I am very glad to learn that you are feeling very strongly for Jesus Christ. You have already mentioned the exemplary character of Lord Jesus Christ that he sacrificed everything for God. This example should be taken. The process should be to follow the example, not to imitate the exact activities. For example, Lord Jesus Christ wanted to preach amongst some persons who were practically against the principle of accepting God as the Supreme, and the result was that these people crucified him. At the present moment, the world situation is more dangerous than before. People have become actually Godless. So if you follow the footsteps of Lord Jesus Christ to preach God-consciousness against Godlessness and dedicate your life in that way, that will be the real purpose of following Jesus Christ. Lord Jesus Christ revealed that he was the son of God, and Krishna revealed that He is God Himself, the Supreme Father of all living entities. So if you dedicate your life to the service of Krishna, the Supreme Father, don't you think that Lord Jesus Christ will be pleased with this? At the present moment we have to preach in an enlightened society. So Krishna Consciousness has got inexhaustible treasurehouse of philosophy, logic and science to convince people about God-consciousness. So if you are actually serious about following the footsteps of Lord Jesus Christ, you should take advantage of the great philosophical background of this Krishna Consciousness Movement and make people God-conscious, dedicating your life. One should try to make progress. One should not try to remain satisfied at a point which awaits further advancement. For example, the Commandment says "Thou shalt not kill". This means one should be non-violent. This is a good principle, but in the actual field, for want of sufficient knowledge, even this Commandment is being misinterpreted and misused. In the __Bhagavad-gita__ you will find there are 20 items for advancing in knowledge. Perhaps you have read in the 13rd Chapter. Out of the 20 items, this non-violence items is one. But devotional service is so potent, that if one is engaged in devotional service to Krishna, automatically all good qualifications are there. Thus, from the practical point of view you can see the distinction between our disciples and any other group of religious faith. We do not indulge in illicit sex-life, which includes not to covet with another's wife or daughter; We do not eat meat, and that means automatically we are non-violent. We do not indulge in intoxication, and that means we are sane in considering things in their true perspective.
@@ -21,3 +22,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Karan-Singh ======
+====== Dr. Karan-Singh ======
 
+<card class="letter">
 New Delhi
 
 My dear Dr. Karan-Singh,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 cc: Gurudasa Adhikari, Vrndavana ISKCON
+</card>

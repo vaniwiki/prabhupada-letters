@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayagovinda ======
+====== Jayagovinda ======
 
+<card class="letter">
 My dear Jaya Govinda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 4th, 1969, and I have noted the contents carefully. Regarding your accepting a job in the Graphics profession, I think you can accept this job because it is paying, as well as you can get experience in the profession. So as Krishna Das has advised you, I confirm it. Regarding your meeting with the Ram Krishna Mission man, you write to say that he has advised you how you should work combinedly with the Maharishi group in Hamburg, and he has said that our goals are actually the same. I do not know how our goals are actually the same. Our goal is Krishna, and we are preaching the gospel of Krishna, __Bhagavad-gita__ as it is. In the __Bhagavad-gita__ the point is stressed to concentrate on Krishna only, and the highest perfection of yoga process is to realize Krishna both externally and internally. We are teaching to vibrate the transcendental chanting of "Krishna" because in that way, by hearing the sound vibration of Krishna, we can see everything as diverse extension of Krishna's external energy. And because we think of Krishna always in all our activities, therefore, internally we are 24 hours in meditation with Krishna. I don't think the Maharishi group or the Ram Krishna Mission is teaching like that. So how can it be accepted that our goal is actually the same?
@@ -16,3 +17,4 @@ Please accept my blessings. I beg to acknowledge receipt of your letter dated Au
 Accepting that Krishna is everything, what is aimed by the Ram Krishna Mission or by the Maharishi group is also Krishna; but Krishna says that although everything is expansion of Himself, He is not in everything. Exactly like in our material experience we can understand that everything is ultimately produced of sunshine, but that does not mean everything is sunshine. Rather, other things cover the sunshine and creates a shadow. The Ram Krishna Mission or the Maharishi's activities are nothing but expanded energy of Krishna, but by such work Krishna is covered. Therefore it is called Maya. Maya has no separate existence beyond Krishna, but when there is Maya, Krishna is covered. Exactly like cloud is nothing but creation of the sunshine---the cloud has no independent existence---but whenever there is a cloud in the sky the sunshine becomes covered. Therefore it is Maya. Maya means things which have no existence independent of Godhead, but its business is to cover Godhead. Similarly, either the Ram Krishna Mission or Maharishi's group, they have no existence independent of Krishna, but their activities are just like the cloud covering Krishna. Actually, they never directly preach Krishna Consciousness. On the other hand, they do something to cover Krishna Consciousness. So although water is generated from fire, we cannot pour on water when the fire is blazing. We cannot adulterate Krishna Consciousness with the Ram Krishna Mission or with anything else. We must present Krishna Consciousness in its pure form, as it is adv
 
 [TEXT MISSING]
+</card>

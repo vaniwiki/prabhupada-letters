@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsnakatha ======
+====== Krsnakatha ======
 
+<card class="letter">
 Toronto
 
 My dear Krsnakatha Das,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/vdd
+</card>

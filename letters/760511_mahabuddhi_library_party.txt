@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mahabuddhi, Library Party ======
+====== Mahabuddhi, Library Party ======
 
+<card class="letter">
 Bombay
 
 My dear Mahabuddhi and Library Party,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 n.b. what books do you give with a standing order? Please list them.\\
 ACBS/pks
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayadvaita ======
+====== Jayadvaita ======
 
+<card class="letter">
 My dear Jayadvaita,
 
 Please accept my blessings. I am in due receipt of your letter dated 10th July, 1971 and have noted the contents. Also I have received the laid-out sheets for tapes no. 1 & 2 and they are very well done. Thank you very much. I was so much pleased to see that already the tapes were edited and laid out and this is encouraging me to translate more and more. You can give Ch. 8 of S.B. canto 4 the title "Dhruva Maharaja enters the forest to meet the Lord".
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

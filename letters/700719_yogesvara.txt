@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yogesvara ======
+====== Yogesvara ======
 
+<card class="letter">
 London
 
 My dear Yogesvara,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 *God means all-attractive Krsna.\\
 ACBS:db
+</card>

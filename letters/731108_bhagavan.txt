@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavan ======
+====== Bhagavan ======
 
+<card class="letter">
 Paris
 
 My dear Bhagavan Das:
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: Hansadutta, ISKCON, Heidelberg.
+</card>

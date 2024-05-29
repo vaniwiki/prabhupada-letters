@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ben ======
+====== Ben ======
 
+<card class="letter">
 My dear Sriman Ben,
 
 Please accept my blessings. I beg to thank you very much for your humble letter dated September 20th, 1970. I am presently staying in Bombay. Since arriving in India I have been extensively travelling and preaching our Sankirtana Movement to all parts of the country. There is good reception also for our Society here. From other countries all over the world I am receiving daily reports and thanks how everything is going on in Krsna Consciousness nicely. Our Movement has now become truly international Society.
@@ -21,3 +22,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

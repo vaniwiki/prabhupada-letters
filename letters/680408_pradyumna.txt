@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I am in due receipt of your letter dated April 2, 1968, and I hope by this time you have been checked by the doctor. I shall be glad to know how you are making progress, and I am anxious that you are still feeling pains. I am glad to know that proper care is being taken, and you are not going up any stairs, that is very nice. Your endeavors to learn Sanskrit is very encouraging. We want somebody in our society to know Sanskrit well enough for reading, not to be a great scholar, but just enough as needed.
@@ -21,3 +22,4 @@ A.C. Bhaktivedanta Swami
 P.S. Did you send a copy of Bhagavatam transliteration to India as advised by me previously?
 
 ACB
+</card>

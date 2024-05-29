@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I have not heard anything from you in about a fortnight, and I am anxious to hear how you are doing there. It may be there is some mail delay due to my leaving Seattle for Santa Fe, and then coming here to Los Angeles, California. You can write to me at the above address, my residential apartment. And you will be pleased to know that I am now accepted by the USA immigration department as permanent resident, with option to apply for citizenship.
@@ -19,3 +20,4 @@ Hope you are all well, and I shall be expecting to hear from you by return of po
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: John Darsinos ======
+====== John Darsinos ======
 
+<card class="letter">
 My dear John Darsinos,
 
 Please accept my blessings. I have read your letter (undated) and am very pleased that you are appreciating this movement of Krishna Consciousness. Please continue this attitude of appreciation for Krishna's mercy and your life will be successful with no doubt.
@@ -17,3 +18,4 @@ In answer to your question about the importance of initiation, it is to be under
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

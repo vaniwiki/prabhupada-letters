@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 Los Angeles
 
 My dear Aniruddha,
@@ -25,3 +26,4 @@ If Dayananda has left for Florida, please send me his address there. Hope you ar
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

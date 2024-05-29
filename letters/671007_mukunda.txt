@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. Your letter dated 30th September 1967 duly in hand. I understand that you are all very anxious to know about me. By the Grace of Lord Krishna I am now 90% well although the basic difficulty namely that I cannot walk very long distance is there. While sitting on my seat I do not feel anything abnormal; even nowadays I can type letters. I am eating also more than what I was eating in the states. On the whole I am now fit to go back to your country.
@@ -20,3 +21,4 @@ The record player which you gave me at the Stinson Beach is lost. It is stolen b
 The pictures which you have received from S.S. Brijbasi & Sons, belong to the New York center. They sent the order and paid $125.00 for the price. If you want to keep the pictures then your establishment must send $125.00 to me so that I can arrange to send another consignment for New York.
 
 ACB
+</card>

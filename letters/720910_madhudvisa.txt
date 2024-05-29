@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. Regarding the recommendation for Ambika dasi to take second initiation from me, yes, you may give her. Enclosed find one copy of Gayatri mantra. Now hold a yajna, teach her how to count on the finger divisions, then play the Gayatri mantra tape through the right ear. Have her repeat along with my vibration word by word and then give her Gayatri mantra as usual. This Gayatri mantra function should be held amongst the devotees only.
@@ -17,3 +18,4 @@ Hoping this meets you in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

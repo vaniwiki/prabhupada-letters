@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janardana ======
+====== Janardana ======
 
+<card class="letter">
 Montreal
 
 My dear Janardana,
@@ -27,3 +28,4 @@ I expected to meet you here in New York by this time, but I do not see any indic
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

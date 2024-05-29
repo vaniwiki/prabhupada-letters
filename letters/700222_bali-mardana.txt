@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali-mardana ======
+====== Bali-mardana ======
 
+<card class="letter">
 My dear Bali Mardan,
 
 Please accept my blessings. I beg to acknowledge receipt of your very encouraging letter dated 18 February, 1970, and I have noted the contents carefully. It is also very much pleasing that you have liked the company of Upendra, and both of you combined together will surely carry successfully our Australian Yatra.
@@ -27,3 +28,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

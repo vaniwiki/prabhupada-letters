@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 His Grace Kirtanananda Swami \\
 c/o Dr. R.P. Rao, Reader in Chemistry \\
 University of Gorakhpur\\
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 ACBS:adb
 
 Hand written: * As also your letter dated 21 Nov, 1970. You may return to New Vrindaban and engage your full energy to develop our scheme there. May Krishna protect you always. ACB
+</card>

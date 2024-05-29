@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Puri Maharajji ======
+====== Puri Maharajji ======
 
+<card class="letter">
 B-11 Sea Face Park,
 
 50 B. Desai Road,
@@ -35,3 +36,4 @@ Aryapuram-Rajahmundry-1,
 E. Godavari (A.P.)
 
 ACBS/sda
+</card>

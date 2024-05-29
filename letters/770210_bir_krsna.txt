@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bir Krsna ======
+====== Bir Krsna ======
 
+<card class="letter">
 Caracas
 
 Dear Bir Krsna,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

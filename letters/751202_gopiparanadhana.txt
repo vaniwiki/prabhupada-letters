@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopiparanadhana ======
+====== Gopiparanadhana ======
 
+<card class="letter">
 My dear Gopiparanadhana Prabhu,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 20, 1975. Yes! You have done it very nicely. I thank you very much, so immediately it can be printed in BTG and then later on it can be published in book form. I thank you very much for your sincere efforts, please continue to work sincerely and Krishna will bless you more and more.
@@ -20,3 +21,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/hda\\
 Carbon copy: Satsvarupa Goswami
+</card>

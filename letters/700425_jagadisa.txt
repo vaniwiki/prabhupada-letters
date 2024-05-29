@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagadisa ======
+====== Jagadisa ======
 
+<card class="letter">
 My dear Jagadisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 20th April, 1970, along with a Canadian money order for $278, and thank you very much for this.
@@ -27,3 +28,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

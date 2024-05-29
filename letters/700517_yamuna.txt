@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna ======
+====== Yamuna ======
 
+<card class="letter">
 My dear Yamuna,
 
 Please accept my blessings. I am in due receipt of your very nice letter dated 8th May, 1970, and noted the contents with interest. Thank you for your determination. For the way in which I am trying to expand I require so many sincere assistants.
@@ -29,3 +30,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

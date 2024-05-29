@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balabhadra ======
+====== Balabhadra ======
 
+<card class="letter">
 Captain Cook, Hawaii
 
 My dear Balbhadra das,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

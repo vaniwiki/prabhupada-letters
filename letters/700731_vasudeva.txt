@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vasudeva ======
+====== Vasudeva ======
 
+<card class="letter">
 Hamburg
 
 My dear Vasudeva,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

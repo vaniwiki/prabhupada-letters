@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Members of the family of Hirjibhai Gelabhai Baba ======
+====== Members of the family of Hirjibhai Gelabhai Baba ======
 
+<card class="letter">
 To the members of the family of Hirjibhai Gelabhai Baba.\\
 Respected ladies and gentlemen of the family:
 
@@ -19,3 +20,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/dda\\
 cc: Damji Devji
+</card>

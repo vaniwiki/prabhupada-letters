@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cyavana ======
+====== Cyavana ======
 
+<card class="letter">
 Santiago, Chile
 
 Dear Cyavana Maharaja,
@@ -21,3 +22,4 @@ Please go on and try to establish something substantial there and develop it. He
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

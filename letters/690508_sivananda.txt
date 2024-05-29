@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 26, 1969, and I have carefully noted the contents. You have mentioned that you may be interested in marriage, and if you think that you should marry, there is no question of living as an artificial brahmacari. Regarding your wish to open a center in the United States, first of all you have to establish the center firmly in Germany by leading the Sankirtana Party. Now Jaya Govinda is there, he is a very nice and competent boy, and soon the German couple are coming, so when you are all assembled and the __Back To Godhead__ is coming regularly, then you can attempt another center. Practically it is your credit that you went to Germany and first began our movement there. So now it is your duty to help establish it more strongly. Most probably, if I go to London, I shall go to your place also. So then I shall decide if you can go to Chicago or any other place in the USA. In the USA we have so many centers, and now we want to open at least three or four centers in Germany and at least half a dozen centers in England.
@@ -17,3 +18,4 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

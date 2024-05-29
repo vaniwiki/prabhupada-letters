@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandarani, Unknown ======
+====== Nandarani, Unknown ======
 
+<card class="letter">
 OM
 
 3) What is the real meaning of Omkara?
@@ -22,3 +23,4 @@ The answers are all right and you directly write him. Also invite him to questio
 ACBS
 
 P.S. Krsna has made all living entities perfect and therefore every living entity has independence. Misuse of independence is the cause of imperfection. Living entity being minute there is always a chance of misuse of his independence. This is unavoidable because that is the meaning of independence.
+</card>

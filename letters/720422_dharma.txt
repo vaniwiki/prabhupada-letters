@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dharma ======
+====== Dharma ======
 
+<card class="letter">
 Gainesville
 
 My dear Dharma,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
+</card>

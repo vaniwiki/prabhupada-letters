@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Dennany ======
+====== Mr. Dennany ======
 
+<card class="letter">
 Mr. Dennany\\
 8653 South 2nd St.\\
 Mattawan, Miami, Fla. 49071
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

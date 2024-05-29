@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 New Delhi
 
 My dear Tejyas,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 *Did you take any receipt of the application to the office?
+</card>

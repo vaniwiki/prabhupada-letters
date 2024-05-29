@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter dated March 9. So far the ideas for San Francisco or India are concerned, they are dropped for the time being. Better the press idea be fulfilled in N.Y. I have got a greater attachment for N.Y. than any other city of your country. You better stick to N.U. for the time being and do your money making schemes. The India plan will be fructified when I return there.
@@ -20,3 +21,4 @@ With reference to the boys holding kirtanas independently, our propaganda should
 Hope you are well.
 
 P.S. No feasting in the evening of Caitanya's birthday. Fasting all day till evening moon rise. Then take Prasadam like Ekadasi. Next day you can have full swing feasting. On the birthday if can take a procession of Kirtana on the street it is very nice.
+</card>

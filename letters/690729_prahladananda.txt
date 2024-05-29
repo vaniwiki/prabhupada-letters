@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prahladananda ======
+====== Prahladananda ======
 
+<card class="letter">
 My dear Prahladananda,
 
 Please accept my blessings. I am in due receipt of your letter dated July 21, 1969, and I have noted the contents carefully. I am very pleased to learn that you have been nicely assisting Rupanuga, and now the Buffalo center is gradually becoming very successful. It is very encouraging. It is a fact that wherever we go, if we simply let the people hear our chanting and if we repeat what we have heard from the bona fide Spiritual Master, then surely many, many sincere souls will become attracted to our movement. This is because Krishna Consciousness is lying dormant in every living entity, just like fire is dormant within a match. If we simply strike the match, then the fire within will come in blazing light. Our method of striking the match is Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare. This vibration is sufficient to awaken the sleeping spirit soul to the fact that Krishna is there, and if we try to remember Him always and spread His message of __Bhagavad-gita,__ then our life becomes perfect and we are perfectly executing our position as part and parcel of the Lord. So if you let all the residents of Buffalo hear the sound of Hare Krishna and read our literatures, then there will be the greatest all-around benefit. This past weekend in San Francisco there was a gigantic Rathayatra Ceremony just on the order of the one held at Jagannatha Puri, and at least 10,000 people were chanting and dancing along with us in full transcendental ecstasy. The boys and girls of America are generally good souls, that is why they have taken birth in such a nice country, and now they should make perfect all of their opulences by engaging everything in Krishna Consciousness. This will be the finishing touch for all the nice qualities found in the American people. In New York I understand that they have sold 3,000 copies of __BTG__ in just two weeks, and I understand that in Buffalo you are also selling __BTG__ very nicely. So please continue in this way and your success in life is assured. As Krishna sees that you are working very seriously to bring His other children back to the Spiritual Kingdom, then He will become very pleased and will bestow all blessings upon you. Krishna is never ungrateful for our efforts to serve Him, rest assured. Regarding your question about Bhava Shakti developing into Prema, this is covered in our book, __Nectar of Devotion,__ and there is no necessity for you to trouble yourself over such advanced topics at the present time.
@@ -17,3 +18,4 @@ Please convey my blessings to the others. I hope this will meet you in good heal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

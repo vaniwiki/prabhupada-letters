@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Bali ======
+====== Dr. Bali ======
 
+<card class="letter">
 My dear Dr. Bali,
 
 Please accept my blessings, and offer the same to your good wife Vijantimala. I am in due receipt of your letter dated 18th August, 1971 and have noted the contents.
@@ -21,3 +22,4 @@ Thanking you once more for your letter.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

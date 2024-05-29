@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 My dear Karandhara das,
 
 Please accept my blessings. While in India last it was brought to my attention that our Sriman Hayagriva das has become deviated from the four basic principles which I have given to all my students for adherence to when they are first initiated. I do not know why he is living in such a way but I feel that he must be brought back to the standard immediately. So I am requesting you as my Governing Board Commissioners to help me bring him back to the standard. He has very good talent, but he is spending it by living such an unrestricted life.
@@ -21,3 +22,4 @@ Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ms
+</card>

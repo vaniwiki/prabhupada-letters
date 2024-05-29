@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Guptaji ======
+====== Sri Guptaji ======
 
+<card class="letter">
 Sri Raj Kumar Gupta\\
 Chandigarh
 
@@ -20,3 +21,4 @@ Krishna Consciousness movement is trying to save the people in general, religion
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

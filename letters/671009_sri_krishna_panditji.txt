@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Krishna Panditji ======
+====== Sri Krishna Panditji ======
 
+<card class="letter">
 All Glory to Sri Guru & Gauranga
 
 My dear Sri Krishna Panditji,
@@ -23,3 +24,4 @@ Please accept my greetings. I am leaving for Calcutta today as it was already se
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
+</card>

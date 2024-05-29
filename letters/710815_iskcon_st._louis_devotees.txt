@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: ISKCON St. Louis, Vamanadeva, Sharon, Badarinarayana, Judy, Pamela, John, Nancy, Cathy, Stuart, Eugene, Michael, Jayne, Richard, Mahamaya, Barry, Baladeva, Indira, Jagannatha, others ======
+====== ISKCON St. Louis, Vamanadeva, Sharon, Badarinarayana, Judy, Pamela, John, Nancy, Cathy, Stuart, Eugene, Michael, Jayne, Richard, Mahamaya, Barry, Baladeva, Indira, Jagannatha, others ======
 
+<card class="letter">
 TO ISKCON ST. LOUIS:
 
 My dear Vamanadeva, Sharon, Badrinarayana, Judy, Pamela, John, Nancy, Cathy, Stuart, Eugene, Michael, Jayne, Richard, Mahamaya, Barry, Baladeva., Indira, Jagannatha, etc.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

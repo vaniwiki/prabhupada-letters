@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sacimata ======
+====== Sacimata ======
 
+<card class="letter">
 Frankfurt
 
 My dear Sacimata dasi,
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

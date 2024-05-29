@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Von Paul Reed ======
+====== Von Paul Reed ======
 
+<card class="letter">
 My dear Von Paul Reed,
 
 Please accept my blessings. I thank you for your letter dated 15th December, 1971. I am very pleased that you and your family have decided to join our Krishna consciousness movement seriously, and I thank you also for the daksina you have sent.
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. Sometimes it so happens that we have to suffer for our past sinful activities. But because we have taken to Krishna Consciousness and serving Krishna, we should know that any suffering we have to bear have been far reduced by the mercy of the Lord. Suffering must be there so long as we are conditioned in this material world, but for the devotees the suffering is minimized compared to that of the nondevotees. We have to tolerate any difficulties which come up, and somehow go on with our chanting, reading and routine work.\\
 ACBS:tkd
+</card>

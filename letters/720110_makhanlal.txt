@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Makhanlal ======
+====== Makhanlal ======
 
+<card class="letter">
 My dear Makhanlal,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 29th November, 1971, and I have noted the content with great pleasure. Below find one letter for initiates, please. Because you have recommended, I am happy to accept them as my duly initiated disciples. Seven beads, two copies of Gayatri mantra and two sacred threads, duly chanted on by me, have been sent under separate post. Hold a fire yajna and give Gayatri mantra to Tulasi Manjari and Rukma. I think you have got a tape of me reciting Gayatri mantra. One thing is that the tape should be heard through earphones into the right ear. So the fire yajna can be held for all nine devotees.
@@ -21,3 +22,4 @@ I hope this will meet you in good health and cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

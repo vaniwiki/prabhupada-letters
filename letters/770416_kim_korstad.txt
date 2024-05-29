@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kim Korstad ======
+====== Kim Korstad ======
 
+<card class="letter">
 Kim Korstad,\\
 2622 Third Avenue So.,\\
 Apt. #3, Minneapolis, Minn. 55408 USA
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

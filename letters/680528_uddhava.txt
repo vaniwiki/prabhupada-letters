@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uddhava ======
+====== Uddhava ======
 
+<card class="letter">
 My dear Uddhava,
 
 Please accept my blessings. I thank you very much for your letter of May 24, 1968, and have noted the contents carefully. Sambhu is the principle by which the Lord impregnates the material Nature with the seeds of living entities. Durga is expansion of internal energy and Radharani is the quintessence of Internal Energy. In that sense Durga is expansion of Radharani. Brahma is the father of Rudra or Sambhu, therefore Brahma is the original creature for creation. Generally Sambhu is the creator of many many demons. Demons are therefore mostly worshippers of Lord Siva.
@@ -17,3 +18,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

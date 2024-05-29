@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radhavallabha ======
+====== Radhavallabha ======
 
+<card class="letter">
 My dear Radhavallabha,
 
 Please accept my blessings. I beg to thank you for your letter dated March 29, 1977.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
+</card>

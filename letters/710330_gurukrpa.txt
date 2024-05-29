@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurukrpa (Gregg Gottfried) ======
+====== Gurukrpa (Gregg Gottfried) ======
 
+<card class="letter">
 Berkeley
 
 My dear Gurukrpa, (Gregg Gottfried)
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Candanacarya, Bharadraja ======
+====== Candanacarya, Bharadraja ======
 
+<card class="letter">
 Boston
 
 My dear Candanacarya and Bharadraja,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

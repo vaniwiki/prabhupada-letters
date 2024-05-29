@@ -6,8 +6,9 @@
 }
 ---
 
-====== Telegram to: Tamal Krishna ======
+====== Tamal Krishna ======
 
+<card class="letter">
 INDIAN POSTS AND TELEGRAPHS DEPARTMENT\\
 TELEGRAM\\
 TAMAL ISKCON\\
@@ -16,3 +17,4 @@ TAMAL ISKCON\\
 ACKNOWLEDGE RECEIPT FRIST CHEQUE BEFORE SECOND SENT SEND DETAILS MAYAPUR.
 
 BHAKTIVEDANTA
+</card>

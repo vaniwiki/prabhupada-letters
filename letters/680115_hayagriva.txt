@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your letter dated January 10, 1968; it is very nice. I do not find any basical difference of philosophy. From the very beginning I have always preached that basically we have no difference between the Christians, the Mohammedans, the Hindus, or the Buddhists, the four principal religionists in the world. But there is a class, Impersonalists, whom we consider as atheists. The atheists directly say there is no God, and the Impersonalists say there may be God, but He has no form. It is indirectly saying that there is no God. I am very glad to read in your letter a nice line, "My main concern is seeing Him constantly in my daily life, that is, to constantly remember Him and not to forget Him." This is actually Krishna Consciousness. We can remember Krishna in every moment. We can remember Krishna while taking a glass of water because the taste of water is Krishna. We can remember Krishna as soon as we see the sunlight in the morning, because the sunlight is a reflection of Krishna's Bodily Effulgence. Similarly, as soon as we see moonlight in the evening we remember Krishna because moonlight is also reflection of sunlight. Similarly, when we hear any sound we can remember Krishna because sound is Krishna, and the most perfect sound, transcendental, is Hare Krishna, which we have to chant 24 hours. So there is no scope of forgetting Krishna at any moment of our life provided we practice in that way. The society for Krishna Consciousness is meant for preaching this philosophy throughout the world and I was very happy to receive your cooperation and I am still hopeful that the philosophy of Bhagavad-gita as Science of God can be preached by you and all your God-brothers.
@@ -25,3 +26,4 @@ I shall be glad to hear from you how Kirtanananda is recovering from injuries of
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

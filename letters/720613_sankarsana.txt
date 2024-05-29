@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sankarsana ======
+====== Sankarsana ======
 
+<card class="letter">
 Dallas
 
 My dear Sankarsana,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
+</card>

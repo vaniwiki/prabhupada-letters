@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda Maharaja,
 
 Please accept my blessings. I am in due receipt of your letter dated October 18th, 1974, with your recommendations for first and second initiations. The following are those who I have accepted as my disciples and they are to be given the Hare Nama Initiation. Their names are as follows. Jerry Boy---Janakisa Dasa. Bill Jones---Bimbadhara Dasa. Cris Hall---Krpamaya Dasa.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/vdd
+</card>

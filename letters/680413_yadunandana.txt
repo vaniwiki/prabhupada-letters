@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yadunandana ======
+====== Yadunandana ======
 
+<card class="letter">
 Allston, MA
 
 My dear Yadunandana,
@@ -37,3 +38,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please inform Pradyumna that I have duly received the transliteration of B.S. Many thanks. ACB
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am just in receipt of your airmail special delivery letter dated September 26, 1968, and I am very much pleased to know that the students of different universities in Boston are taking some interest in our missionary activities. You write to say that it appears the students are more discontented than ever and are openly stating that they do not have any solution to their discontent with the present civilization. It is very good opportunity therefore for presenting our manifesto, on the basis of Bhagavad-gita As It Is, and Teachings of Lord Caitanya. These books are also coming out very soon, by the end of next month. If there is good opportunity for agitating the student community in Boston, I must take advantage of the opportune moment if actually they are eager to know about it. I am sure they will appreciate the techniques of our movement if they patiently hear for some time. If they are ready to spare such time, I am prepared to deliver lectures on the Bhagavad-gita As It Is, as well as Teachings of Lord Caitanya, once in a week in different colleges and universities. But I shall appreciate their genuine desire if I am invited directly---so that I can know they are actually eager about it. In that case, I can cancel all my engagements in the western part of your country, and may spare one to two months in Boston for executing this urgent and important work. The thing is that if they are serious, they must hear the philosophy for some time, and I am prepared to spare my time for this purpose. So I shall be glad to hear from you further in this matter, and then I shall chalk out my program.
@@ -19,3 +20,4 @@ Hope you are all well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janis ======
+====== Janis ======
 
+<card class="letter">
 Janis Dambergs\\
 311 Saint Louis Square\\
 Montreal, 18, Quebec\\
@@ -43,3 +44,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: 1
+</card>

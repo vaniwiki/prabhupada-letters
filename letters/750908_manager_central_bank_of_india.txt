@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager, Central Bank of India ======
+====== Manager, Central Bank of India ======
 
+<card class="letter">
 State Bank of India\\
 Vrindaban Branch\\
 Att: The Manager
@@ -35,3 +36,4 @@ Encs:\\
 1 Bank Check L 5114481\\
 1 International Money Order 036618137\\
 RECEIVED ON BEHALF OF STATE BANK OF INDIA, VRINDABAN BRANCH; September 8, 1975
+</card>

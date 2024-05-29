@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Turya Shramy Maharaja ======
+====== Turya Shramy Maharaja ======
 
+<card class="letter">
 His Holiness Swami\\
 B.S. Turya Shramy Maharaja\\
 Sri Radha Gobinda Gaudiya Math\\
@@ -43,3 +44,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandarani, Dayananda ======
+====== Nandarani, Dayananda ======
 
+<card class="letter">
 My dear Nandarani and Dayananda,
 
 Please accept my blessings. I am very pleased to receive your letters of April 23, 1968, and I am very thankful to you for your nice sentiments. You are very intelligent and nice boy and girl, and trying to understand Krishna Consciousness, and I can simply pray that you shall try to understand more and more about this transcendental science, and whenever possible, try to talk about Krishna Consciousness to your friends or whomever you may meet. Simply by this attempt you will get superior strength and knowledge about Krishna Consciousness. It doesn't matter whether a man is convinced or not, but your sincere attempts to convince others will help you progress. Nandarani is very intelligent girl, both of you execute nicely and try to bring up your daughter in the same spirit, and live nicely in Krishna Consciousness.
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 N.B. No, I think there is not any good English version of Mahabharata but very soon, we shall have the Bhagavad-gita, and the Teachings of Lord Caitanya, and you can enjoy reading them; they should be ready by September.
 
 There is one small pocket edition published by Bharatiya Bhavan Bombay-7.
+</card>

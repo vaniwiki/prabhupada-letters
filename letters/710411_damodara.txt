@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 11th February, 1971 and have noted the contents. Yes, Washington D.C. is very good location for the site of East coast Rathayatra festival. So go ahead as planned and do it nicely. I do not know whether I shall be present at that time, but if Lord Jagannatha desires, then I shall be there without a doubt. The point is that recently there is contemplation going on for me to go to Australia and then Russia, so my return to U.S.A. may be somewhat delayed. Here in India things are going on very nicely also. We just completed one grand Sankirtana festival entitled "Bhagavata Dharma Discourses, a Hare Krishna Festival" in which 25,000 to 30,000 people were attending daily for eleven days for lecture, arati, kirtana and prasadam distribution. It was a grand success and we should be establishing our permanent center here in Bombay very soon.
@@ -19,3 +20,4 @@ Please offer my blessings to the others. Hoping this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

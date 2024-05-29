@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 I am in due receipt of your affectionate letter dated April 26, 1967. Thank you very much. Please accept my blessings and I also thank you very much for your sandalwood book marker. It is wonderful. Everyone appreciated this present and I am keeping it very carefully. I am glad that you are changing your office time and you shall have more time to perform kirtana. I am glad that you have mentioned the first stanza of Prayer to Spiritual Master. I think you know the meaning of this stanza. The meaning of this stanza is that, this world is just like forest fire and spiritual master is just like the cloud on the sky, therefore as the forest fire can be extinguished only by water from the sky, similarly, one can be peaceful and elevated in spiritual consciousness or Krishna Consciousness only by the mercy of a bona fide Spiritual Master.
@@ -17,3 +18,4 @@ The process which you are following is very nice. Your humbleness and sincerity 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta, Swami
+</card>

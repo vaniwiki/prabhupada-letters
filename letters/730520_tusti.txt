@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tusti ======
+====== Tusti ======
 
+<card class="letter">
 Los Angeles
 
 My dear Tusti dasi,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

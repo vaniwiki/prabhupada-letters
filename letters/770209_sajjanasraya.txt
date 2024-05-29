@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sajjanasraya ======
+====== Sajjanasraya ======
 
+<card class="letter">
 Sriman Sajjanasraya das bramachari\\
 Sri Krishna Balarama Mandir\\
 Vrindaban, Mathura U.P.
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 ACBS/sdg
 
 N.B. Please bring information from [indistinct] ananda about construction work of both Gurukul and Gats. ACBS.
+</card>

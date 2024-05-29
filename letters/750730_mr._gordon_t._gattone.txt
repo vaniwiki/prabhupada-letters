@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Gordon T. Gattone ======
+====== Mr. Gordon T. Gattone ======
 
+<card class="letter">
 Mr. Gordon T. Gattone\\
 Art-Craft Associates\\
 114 Evergreen Ave.\\
@@ -26,3 +27,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

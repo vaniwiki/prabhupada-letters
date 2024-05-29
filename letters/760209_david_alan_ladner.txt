@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: David Alan Ladner ======
+====== David Alan Ladner ======
 
+<card class="letter">
 Berkeley
 
 My dear David Alan Ladner,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

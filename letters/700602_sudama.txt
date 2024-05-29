@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 My dear Sudama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 29th May, 1970, and I am very glad to know that your preaching work is going on nicely. Please take advantage of the stall at the San Francisco Pavilion, and try to distribute the "Peace Formula" literature which you have sent to me as well as the card which you have also sent to me. Your plan to distribute French, German and English editions of BTG from the pavilions of those countries is very good idea.
@@ -27,3 +28,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

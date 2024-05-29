@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Indira (Iris Mendoza), Ekayani (Esther Mendoza) ======
+====== Indira (Iris Mendoza), Ekayani (Esther Mendoza) ======
 
+<card class="letter">
 My dear Indira dasi (Iris Mendoza) and My Dear Ekayani dasi (Esther Mendoza),
 
 Please accept my blessings. I am in due receipt of your letters and I am very glad to note the contents. I can understand that you have considerably advanced in Krishna Consciousness because your heart is simple. Girls and women are generally very soft hearted and they take things very easily, but then there is also chance of being misled. So you chant the Holy Name of Krishna and Krishna will keep you from being misled.
@@ -27,3 +28,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

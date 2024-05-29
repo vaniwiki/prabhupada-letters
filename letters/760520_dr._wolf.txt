@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Wolf ======
+====== Dr. Wolf ======
 
+<card class="letter">
 Atlanta
 
 My dear Dr. Wolf,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

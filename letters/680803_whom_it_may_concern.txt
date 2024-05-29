@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Whom it may concern ======
+====== Whom it may concern ======
 
+<card class="letter">
 To whom it may concern:
 
 This is to state that Sriman Shivanandadas Brahmachary (Samuel Groom Greer) is an initiated disciple of His Divine Grace A.C. Bhaktivedanta Swami and member of the International Society for Krishna Consciousness, Inc. which has branches throughout the world and Headquarters in New York, U. S. A.
@@ -19,3 +20,4 @@ Acharya
 
 Janardan das Adhikary (Janis Dambergs)\\
 President
+</card>

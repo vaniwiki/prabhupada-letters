@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa, Hrdayananda ======
+====== Satsvarupa, Hrdayananda ======
 
+<card class="letter">
 Dallas
 
 My dear Satsvarupa and Hrdayananda,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

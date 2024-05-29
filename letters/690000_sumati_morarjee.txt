@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sumati Morarjee ======
+====== Sumati Morarjee ======
 
+<card class="letter">
 To Sumati Morarji
 
 International Society for Prevention of Cruelty to Animals, in London, I shall try to see if there is any similar society here. But one thing I can suggest as you have asked me to give a thought to this problem, that Goseva, according to our Vedic injunction, is specially entrusted to the mercantile community. Of course, during the Hindu government in India, the kings were mostly Vaisnavas like Maharaja Pariksit, and he at once caught the Black man Kali who was attempting to kill a cow. But those days are no more. Neither there is a king like Maharaja Pariksit, nor the present government of India is inclined to give protection to the cows. But the mercantile community, specially the Gujaratis and the Marwaris are undoubtedly rich in India, and I do not know why such mercantile communities do not open large-scale dairy farms. That will certainly give actual protection to the cows. From Bhagavad-gita we understand that the Vaisya community is specially responsible for giving protection to the cows as much as the ksatriya kings are responsible for giving protection to the citizens of the state. As such, if you can organize-and I believe you can do so, because by Grace of Krishna, you are in good position amongst the mercantile community---big dairy farms with large pasturing grounds, then the problem of milk supply and cow protection will automatically be done. I do not know how much you will appreciate my this suggestion, but if you can do such organization, it will be a great service to the country and to the animals, and to this cause of Krishna Consciousness. If you be serious on this point then I can help you with all of my possible energies.
@@ -21,3 +22,4 @@ Thanking you in anticipation and awaiting your early reply,
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

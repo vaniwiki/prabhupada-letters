@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: M. M. Malhotra ======
+====== M. M. Malhotra ======
 
+<card class="letter">
 Sri M.M. Malhotra\\
 Ministry of Scientific Research and Cultural Affairs.\\
 Government of India\\
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 Per registered post\\
 With A/D.\\
 Enclosure:-1
+</card>

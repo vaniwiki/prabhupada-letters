@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I thank you very much for your letter of 1/29/68. Yes, I very much approve of Mr. Kallman's idea for the book on "Transcendental Meditation." Rayarama has begun work on it already, and probably he will bring it back to N.Y. with him. Mukunda talked to Ravi Sankara and he said he is too busy with recordings and movies, etc.
@@ -23,3 +24,4 @@ Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

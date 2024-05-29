@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani dasi,
 
 Please accept my blessings. I have received your letter of February 4, 1972, and I shall answer your questions as follows:
@@ -50,3 +51,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 n.b. Suzanne Brezinski has requested initiation, but Rupanuga has not sanctioned. Ask him this point.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna dasa ======
+====== Krsna dasa ======
 
+<card class="letter">
 My dear Krishna das,
 
 Please accept my blessings. I thank you very much for your letter of Nov. 14, 1968, and I have noted the contents with great satisfaction. It is all very much encouraging to me. Your humble attitude of service is noteworthy, and this will help you more and more in advancing your Krishna Consciousness.
@@ -26,3 +27,4 @@ So far Uttama Sloka's draft situation, by the time needed I shall give him certi
 So, Krishna is so kind that He is giving you all financial facilities also to start the Hamburg center as perfectly as possible. And I shall await your invitation with great interest. And I hope this meets you all in good health.
 
 Your ever well-wisher,
+</card>

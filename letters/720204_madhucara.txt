@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhucara ======
+====== Madhucara ======
 
+<card class="letter">
 My dear Madhucara,*
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 1/25/72, and so far we have record, we have not received your letter of 1 1/2 months back containing $5 check; so you may cancel that check and issue another if you wish. As we are always moving about, it is not unusual for the mail to become diverted, sometimes for months.
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 *Madhukara
+</card>

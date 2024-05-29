@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Nov. 7, and I am very glad to know that you are working in San Francisco equally with the same enthusiasm as I saw you here when I was in Los Angeles last year. Perhaps you have heard it that for the time being we have no temple. The landlord in Hollywood Blvd. did not like our devotees to stay there, and he returned $450 so that we would move our articles there from the storefront. So the Deities are here in my apartment, so I do not know how we shall find out a suitable place. And when there is a nice suitable place for our temple, then I shall consider whether you are to come back. For the mean time, you work in San Francisco, and try to organize sales of our Back To Godhead as many as possible. I have not heard anything from Cidananda since a long time, and I hope he along with the other devotees are all well. I understand that on the average you are collecting $22 a day, so this is nice, just go on trying to increase.
@@ -29,3 +30,4 @@ Hope you are all well, and please keep me informed on the progress of the temple
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

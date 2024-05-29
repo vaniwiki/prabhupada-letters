@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trai ======
+====== Trai ======
 
+<card class="letter">
 My dear Trai,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 30, 1973.
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 (Beads may be sent to Kirtanananda Swami for chanting upon.)
+</card>

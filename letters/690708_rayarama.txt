@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 3, 1969, and I have noted the contents. So I am glad to learn that your program is to do some work independently, and at the same time to do work for our Krishna Consciousness Movement. This formula I have already accepted, and I have given you permission according to your leaning. If possible, then try to give the results of your work to Krishna. We do not disapprove of any activities of the world provided the result is given to Krishna. That is the whole instruction of the __Bhagavad-gita.__ You have learned this philosophy for so many years, so try to execute it to your best capacity. So far as I am concerned, I have accepted you as my disciple and you have accepted me as your spiritual father. This relationship cannot be ended anymore. It is eternal. So it will be my duty always to pray to Krishna for your further and further improvement in Krishna Consciousness, so you should go on serving this movement to your best capacity. So far as your coming here, if you get money you can come by the 16th or 17th of July as you have stated, and then return to New York, that is all right. But I am scheduled to go to San Francisco by the 25th, and after finishing the Rathayatra Ceremony, in all probability I will be going to Germany. I understand that Krishna Das has already sent my ticket from New York to Luxembourg, but I have not received it as yet. Probably it is on the way. So my going to Germany is fixed. If you think that when you come for one week we shall be able to finish up the whole book, then take the trouble to come here. Purusottama has sent the most part of the remaining manuscript to Jayadvaita for typing fair copies, and try to finish it as soon as possible.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: one note from Tamala Krishna
+</card>

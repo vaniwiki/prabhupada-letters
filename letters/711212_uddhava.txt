@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uddhava ======
+====== Uddhava ======
 
+<card class="letter">
 My dear Uddhava,
 
 Please accept my blessings. I beg to acknowledge of your letter of November 13, 1971, just now received by me, along with a box of very nice slides. Thank you very very much for the color slides. I am very much satisfied with all of my disciples who have worked so hard on these paintings for Srimad-Bhagavatam. In fact, I think there is no other art existing which can in any way match them. They are truly transcendental to every mundane conception of art anywhere, and I can understand that Krishna is giving you all good guidance from within, because you have shown Him that you are all such sincere boys and girls. I have got good news from Rupanuga that MacMillan Co. will be printing our __Bhagavad-gita As It Is,__ so why not they should print our __Srimad-Bhagavatam__ as well? These color illustrations are not found so nicely in any other publications but ours, so we are unique in this way. Now go on producing them profusely, along with all kinds of nice photo displays, slide shows, advertisements, etc., for public propaganda, and the public will note that Krishna Consciousness, yes, it must be very nice thing. I am very much pleased by your wonderful cooperation in spreading this Krishna Consciousness Movement. Actually, this Movement is full with wonderful form, color, activities, everything. So now you go on in this way, and simply by your desiring to paint and photograph His attractive features, Krishna will give you all benedictions, please know it for certain. Thank you very much for assisting me in this way.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

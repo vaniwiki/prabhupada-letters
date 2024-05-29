@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 Suva, Fiji
 
 My dear Upendra,
@@ -28,3 +29,4 @@ P.S. Sometime back I dispatched one tape to you by registered book post air. I d
 
 ACBS\\
 ACBS:ds
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cyavana ======
+====== Cyavana ======
 
+<card class="letter">
 c/o John G. Milner\\
 Coral Springs
 
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

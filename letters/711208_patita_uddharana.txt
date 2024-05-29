@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Patita Uddharana ======
+====== Patita Uddharana ======
 
+<card class="letter">
 My dear Patita Uddharana,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of November 24, 1971, and I have noted the contents. I am pleased to see that routine work is going on nicely in Columbus center under your supervision. This routine work, such as chanting, speaking, rising early, cleaning, cooking and offering prasadam, arati, reading books---these activities are the backbone of our Society, and if we practice them nicely in a regulative manner, then our whole program will be successful. If we become slack or neglect these things, then everything else we may try will fail. So it is very important that you keep your standards very high in these activities, then your preaching will be strong. Preaching is our real business, preaching and distributing books. If your preaching work is strong, then your management of temple affairs will also become automatically very strong. Just like if the head wills it, the hand will move. Preaching is like the head of our KC Society---if the head is removed, the whole body dies. Managing is the hands, which work nicely if the head is healthy. If the hands are removed, the body will not die, but it will be crippled. So preaching is more important than management, but both must be there if the whole body is to operate nicely.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

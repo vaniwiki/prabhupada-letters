@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aditya Sarkar ======
+====== Aditya Sarkar ======
 
+<card class="letter">
 New Delhi
 
 My dear Sri Aditya Sarkar,
@@ -21,3 +22,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

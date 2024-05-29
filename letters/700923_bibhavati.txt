@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bibhavati ======
+====== Bibhavati ======
 
+<card class="letter">
 CAMP: 37/1 Hindusthan Road; Calcutta-29; India
 
 My Dear Bibhavati, 
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 ACBS:ds
 
 p.t.o.
+</card>

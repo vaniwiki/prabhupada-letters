@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trivikrama ======
+====== Trivikrama ======
 
+<card class="letter">
 Japan
 
 My dear Trivikrama Swami,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 cc: Gurukrpa Swami, Melbourne
+</card>

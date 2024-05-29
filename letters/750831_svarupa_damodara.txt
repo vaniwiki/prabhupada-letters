@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Svarupa Damodara ======
+====== Svarupa Damodara ======
 
+<card class="letter">
 Atlanta
 
 My dear Svarupa Damodara das:
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. The negotiation with Bon Maharaja is not very feasible. It is too much encumberous. So if it possible, you start the Institute in USA. Do you think it is possible here in India or in USA?\\
 ACBS/bs
+</card>

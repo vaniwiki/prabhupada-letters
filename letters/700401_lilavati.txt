@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lilavati ======
+====== Lilavati ======
 
+<card class="letter">
 London
 
 My dear Lilavati,
@@ -25,3 +26,4 @@ Hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

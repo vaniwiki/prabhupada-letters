@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I thank you very much for sending me the latest copy of Back to Godhead, which is so nicely decorated and painted. My special thanks are due to Jaya Govinda who---who has so nicely sketched the story of the Grand Procession. I think in each and every issue a similar story-sketch may be printed, and it will be very interesting for the American reading public. It is interesting and thought provoking. Therefore, the more we print such sketch-stories, it will be greater in appreciation.
@@ -16,3 +17,4 @@ Please accept my blessings. I thank you very much for sending me the latest copy
 You wanted to write me after sending the picture at the following address.: Syamasundara, Mullick, 155/A Mahatma Gandhi Road, Calcutta-7, India,. Hope you are well. Please let me know if you have sent the picture in India as above mentioned.
 
 Your ever well-wisher
+</card>

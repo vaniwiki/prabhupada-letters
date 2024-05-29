@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sacimata ======
+====== Sacimata ======
 
+<card class="letter">
 Munich
 
 Dear Sacimata devi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

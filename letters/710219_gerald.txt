@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gerald ======
+====== Gerald ======
 
+<card class="letter">
 My dear Gerald,
 
 Please accept my blessings. I beg to thank you for your nice letter dated Lachine, 23rd December, 1970. I am travelling all over India just now on preaching tour and Samkirtan, so sometimes my mail is delayed.
@@ -28,3 +29,4 @@ Gerald Stabile\\
 2995 rue Provost\\
 Lachine, 600, P.Q.\\
 Canada
+</card>

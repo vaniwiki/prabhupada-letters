@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Citsukhananda ======
+====== Citsukhananda ======
 
+<card class="letter">
 My dear Citsukhananda,
 
 Please accept my blessings. We have received your letter dated April 26 1972, and noted the contents. I do not think I shall require special visa for going there for one or two weeks, an ordinary tourist visa will suffice. I shall be reaching Los Angeles about the 20th of May, 1972, and from there we shall make further plans and get visas for going to Mexico later.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

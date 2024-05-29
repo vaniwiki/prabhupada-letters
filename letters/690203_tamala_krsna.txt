@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Paris
 
 ATTENTION TAMAL KRISHNA
@@ -16,3 +17,4 @@ ATTENTION TAMAL KRISHNA
 YOUR LETTER 26TH JULY COME LOS ANGELES IMMEDIATELY
 
 A C BHAKTIVEDANTA SWAMI
+</card>

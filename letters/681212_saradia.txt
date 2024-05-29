@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saradia ======
+====== Saradia ======
 
+<card class="letter">
 My dear Saradia,
 
 Please accept my blessings. I am in due receipt of your recent letter and I have noted the contents with pleasure. Your kind thoughts which you expressed are very nice and encouraging to me. Also you have asked some intelligent questions and I am answering them here.
@@ -21,3 +22,4 @@ Regarding your third question, both incidents are correct. I hope these shall an
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 4, 1969, and there are three important subject matters of which you have tried to get my opinion. I may inform you that they are all very nice proposals. So far as the building is concerned, if you can manage for the money, immediately try to purchase it as Satsvarupa has done in Boston. Similarly, regarding the land, it is also a very attractive proposal. If the land is not rocky and there is sufficient open space for pasturing ground so that we may keep cows all the year round, then it is a very nice proposal. Tamala Krishna told me about such land, and he is very hopeful about getting our men in that quarter (California). So you can try for it, and if possible please let me know what is the actual situation of the land. Regarding my accepting a teaching position in Berkeley University, which is said to be the finest University in the United States, this is also a nice proposal. Actually, I want to have such position for some time in order to attract the University students. But one thing must be noted that I will not be free to take the class between 11 am and 5 pm. If that is possible, you can negotiate for such post. If actually I get such post, naturally I will have to live in Berkeley. And as you say the climate is nice there, there will be no difficulty.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. You will soon have Radha-Krishna Murtis. More pairs of them will reach L.A. very soon & one of them for you.
+</card>

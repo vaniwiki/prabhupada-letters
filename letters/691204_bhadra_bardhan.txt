@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhadra Bardhan ======
+====== Bhadra Bardhan ======
 
+<card class="letter">
 My dear Bhadra Bardhan,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 23, 1969 and have noted the contents. I am pleased to learn that the Columbus center is improving gradually and now you have begun to perform plays for the guests at the Sunday feasts. In one way or another you should always be engaged in Krishna Consciousness. This will protect you from the onslaughts of the material nature. Regarding your question about items being used in Krishna's service becoming spiritual, you should understand it that anything which will remind one of Krishna is spiritual, and anything which will make one forget Krishna is material. Actually, everything is of spiritual nature because everything is coming from the Ultimate Source, Krishna. But when something is offered to the Lord or when it is used in His service, then it resumes its spiritual quality because it will remind one of Krishna. Therefore, even though such object may not have consciousness, it will act as spiritual. It is just like when an iron rod is put into the fire: the rod has not actually become fire, but it will act in just the same way as fire.
@@ -19,3 +20,4 @@ Please offer my blessings to Jaya Gopala and the others. I hope this will meet y
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

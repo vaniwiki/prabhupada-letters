@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter dated 16th August, 1971 and have noted the contents. Also I have received your tape recording and have listened to the marriage institution very nicely. So far your questions:
@@ -18,3 +19,4 @@ In the vedic ceremony the paraphernalia required for the sacrificial ceremony in
 The criss-cross pattern is simply decoration. After mopping the floor nicely, this kind of painting with colored rice powder is still prevailing in Hindu families of S. India. It is called __alipna,__ or in other words after cleansing the rooms and floors such kind of auspicious paintings are done every morning or in every ceremony. In Bhagavad-gita is is said that they are part and parcel of religious life. In most cases these engagements are meant for the women. Women must be engaged otherwise they will be inclined to think of sex only. They are called __kamini.__ Unless there is sufficient engagement their only thoughts will be concentrated on sex. As men are engaged in devotional service, similarly women are engaged in ritualistic engagements so that household life becomes very auspicious. These things are at the present moment impossible to perform regularly. Lord Caitanya therefore recommended Harer nama iva kevalam. Practically also we see our students being engaged in chanting Hare Krishna Mantra keeping free of all contamination. The vedic system takes especially care of women from illicit sex life. Illicit sex life is so dangerous that it produces unwanted children who create hellish life as described in Bhagavad-gita. In this age, all over the world, the sex indulgence is being unrestricted and religious principles are not being followed. The population is increasing with unwanted children like hippies. So these systems are very scientific but it is very
 
 [PAGE MISSING]
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayasacinandana ======
+====== Jayasacinandana ======
 
+<card class="letter">
 Mayapur
 
 My dear Jayasacinandana,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

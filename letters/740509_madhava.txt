@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhava ======
+====== Madhava ======
 
+<card class="letter">
 Paris
 
 My dear Madhava devi,
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

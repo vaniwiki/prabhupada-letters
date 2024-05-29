@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janardana ======
+====== Janardana ======
 
+<card class="letter">
 My dear Janardana,
 
 Please accept my blessings. I have read with great interest the copy of your letter, and I am so glad to learn that you are feeling more and more Krishna Conscious. So far the stories are concerned, the Vedic literatures are full of instructive stories for the spiritual advancement of the human society. Because the less intelligent class of men, like women, mercantile people, and laborers, want to hear stories, for them the Vedic idea or concept was explained in 18 Puranas and the Mahabharata. If I get good assistance I can overflood your country with stories so nice and instructive.
@@ -19,3 +20,4 @@ I am leaving this evening with Kirtanananda, and shall write you on arrival.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

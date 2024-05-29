@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I am in receipt of your letter dated Sept. 5, 1970, and the essay "THE SPIRITUAL MASTER: EMISSARY OF THE SUPREME PERSON" enclosed therein. I have read it, and am glad that you have understood the matter so thoroughly, and have now substantiated your conclusions with so much scriptural proof. Actually, that is our method of preaching, simply to repeat the message as it is coming down from higher authority. Here in Calcutta everything is going nicely. Hundreds of people join in our Sankirtana Party daily in downtown Calcutta, and I am confident that this mission of Lord Caitanya's will be successful if only we continue to push on this great movement, without any personal motivation. Hope this finds you and your good wife and child in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

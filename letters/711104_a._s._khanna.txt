@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: A. S. Khanna ======
+====== A. S. Khanna ======
 
+<card class="letter">
 Aban Villa\\
 Santacruz East\\
 Bombay-55
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

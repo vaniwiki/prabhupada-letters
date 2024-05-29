@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mahapurusa ======
+====== Mahapurusa ======
 
+<card class="letter">
 My dear Mahapurusa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 2, 1969, and I am pleased to note the contents. I thank you very much for your appreciation of __Bhagavad-gita As It Is.__ I think you may have already heard that in January of 1970 we will be holding an examination among all of our students on this book, and those who will pass shall be awarded with the title of Bhakti-sastri. With these examinations I wish to encourage all my disciples to very carefully learn this philosophy of Krishna Consciousness because there is so many preachers who will be required to bring this message to all of the corners of the earth. Caitanya Mahaprabhu has predicted that this movement of Krishna Consciousness will one day be spread into every village and town, and everywhere there will be found chanting of Hare Krishna. So you are an intelligent boy, and please continue to study our books carefully, finish all of your chanting of rounds, and help out in your temple as much as possible. These items will give you all preparation to render very valuable service to Lord Caitanya's mission.
@@ -19,3 +20,4 @@ Please convey my blessings to the others there. I hope this will meet you in goo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavan ======
+====== Bhagavan ======
 
+<card class="letter">
 My dear Bhagavan das,
 
 Please accept my blessings and offer the same to all the devotees of Detroit. While I was in Boston, you presented me a set of original Sanskrit Srimad-Bhagavatam with your affectionate letter signed by all the devotees. It was a great opportunity in the Boston Temple and I enjoyed the days very much with your company. Please try to develop your center likewise. In Boston always 50 to 100s of devotees chanting, dancing and engaged in Krishna conscious business. That is the aim of our Krishna Consciousness Movement. We do not want stopping the natural instincts of the living entities. We simply want them to be dovetailed in Krishna's service. Your country is fortunate enough by the grace of Goddess of Fortune. Goddess of Fortune or Laksmi Devi is eternally engaged in service of the Lord. Therefore, the favor of Goddess of Fortune which is bestowed upon the American people may be fully engaged in Krishna's service. That will be a finishing touch to this material advancement. If people do not take to Krishna and simply want to utilize the Goddess of Fortune for sense gratification as it was the policy of the demons like Ravana and Hiranyakasipu, then the finishing touch will certainly culminate in releasing the nuclear weapon exactly like Ravana was vanquished by such policy. I have every hope on you as well as your wife and associates. Please organize your center in such way that the local people may take advantage of the great boon that we want to give them.
@@ -17,3 +18,4 @@ In your previous letter, you proposed to get some tapes from me for transcriptio
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

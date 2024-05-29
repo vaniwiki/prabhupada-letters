@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Central Bank of India ======
+====== Central Bank of India ======
 
+<card class="letter">
 Central Bank of India,\\
 Calcutta
 
@@ -34,3 +35,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami,
 
 Founder-Acarya
+</card>

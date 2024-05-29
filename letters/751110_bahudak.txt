@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bahudak ======
+====== Bahudak ======
 
+<card class="letter">
 Vancouver
 
 My dear Bahudak das,
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

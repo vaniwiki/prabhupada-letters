@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 Sriman Kirtanananda Maharaja\\
 New Vrndavana\\
 RD 3, Moundsville, WV 26041, U.S.A.
@@ -35,3 +36,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

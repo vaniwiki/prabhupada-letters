@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri B. D. Joshi ======
+====== Sri B. D. Joshi ======
 
+<card class="letter">
 Sri B.D. Joshi\\
 6608 Hagen Blvd.\\
 El Cerrito, Ca. 94530
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

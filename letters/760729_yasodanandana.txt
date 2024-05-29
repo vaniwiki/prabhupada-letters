@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasodanandana ======
+====== Yasodanandana ======
 
+<card class="letter">
 My dear Yasodanandana Swami:
 
 Please accept my blessings. I am in due receipt of your letter dated 17 July 1976 and have noted the contents. In regards to your point on the brahmanas being dispersed all over the world, Rsabhadeva's sons were both brahmanas and ksatriyas and were throughout the world. The sons of Nava Yogendra were the brahmanas and another son's progeny were the ksatriyas. So continue this preaching work more and more.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

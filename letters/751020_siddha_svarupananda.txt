@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Siddha Svarupananda ======
+====== Siddha Svarupananda ======
 
+<card class="letter">
 Haiku, Hawaii
 
 My dear Siddha Svarupa Ananda Maharaja,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

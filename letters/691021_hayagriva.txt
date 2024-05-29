@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 Tittenhurst Park \\
 Tittenhurst House, \\
 Ascot, Berkshire, ENGLAND
@@ -25,3 +26,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

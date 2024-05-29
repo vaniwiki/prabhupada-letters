@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kasturika ======
+====== Kasturika ======
 
+<card class="letter">
 My dear Daughter Kasturikadevi Dasi (Janet Armano),
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 13th April, 1970, and now I have just received your new set of beads. Thank you very much for your nice letter.
@@ -30,3 +31,4 @@ ISKCON Temple\\
 61 Second Avenue\\
 N.Y.C., N.Y. 10003
 
+</card>

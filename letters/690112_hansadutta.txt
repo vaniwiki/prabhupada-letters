@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 9, 1969. Krishna is pleased upon you so that He is responding to your sincere service. In the __Bhagavad-gita__ the Lord says that He responds proportionately along with the degree of surrender to Him by the devotee. So the spiritual progress that you are making now is duly being responded to by Krishna. Of course it is the duty of the teacher to instruct his pupil rightly, but to pass the examination with a degree and merit depends upon the student himself. But the teacher is always happy when he sees one of his students has surpassed the capacity of the teacher also. That is an occasion of great jubilation. Please therefore prosecute your Hare Krishna vibrations along with your good wife, and certainly Krishna will see that all of your attempts will be successful.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I have duly replied separately Mrs. & Mr. Levine and hope they have received my letter by this time. I have agreed to initiate them & you can do the needful. ACB
+</card>

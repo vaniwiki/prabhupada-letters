@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna Devi, Dinesh Candra ======
+====== Krsna Devi, Dinesh Candra ======
 
+<card class="letter">
 My dear Krishna devi and Dinesh Candra das,
 
 Please accept my blessings. I am in due receipt of your letter of Sept. 24, 1968, and have noted the contents carefully. Yes, you can accept this proposal without any hesitation and get the loan from him. For service of Krishna sometimes we may agree to act in a way which may not be very agreeable to us. But in all cases, please do not agree to accept meat. Avoid such undesirable action very tactfully.
@@ -17,3 +18,4 @@ Hope you are both well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

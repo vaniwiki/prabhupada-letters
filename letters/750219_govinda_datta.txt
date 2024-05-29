@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda Datta ======
+====== Govinda Datta ======
 
+<card class="letter">
 Calcutta
 
 My dear Govinda Datta,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

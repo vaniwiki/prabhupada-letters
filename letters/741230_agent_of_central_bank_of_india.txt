@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Agent of Central Bank of India ======
+====== Agent of Central Bank of India ======
 
+<card class="letter">
 The Agent of Central Bank of India\\
 Camac Street Branch\\
 Calcutta
@@ -23,3 +24,4 @@ Faithfully yours,
 
 A.C. Bhaktivedanta Svami\\
 ACBS/ps
+</card>

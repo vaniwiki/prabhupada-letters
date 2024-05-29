@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 My dear Tejiyas das,
 
 Please accept my blessings. I have five days ago safely arrived here in Los Angeles by the Grace of Krsna.
@@ -31,3 +32,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/Kda
+</card>

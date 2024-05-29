@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Anangamanjari ======
+====== Anangamanjari ======
 
+<card class="letter">
 Bombay
 
 My dear Anangamanjari,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

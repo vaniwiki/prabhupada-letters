@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kanupriya ======
+====== Kanupriya ======
 
+<card class="letter">
 My dear Kanupriya das Brahmacari,
 
 Please accept my blessings. I am in due receipt of your letter of January 9, 1969, and I am pleased to send herewith your beads duly chanted upon by me. Your spiritual name is Kanupriya das Brahmacari. Kanu means Krishna, and priya means dear, so Kanupriya means one who is very dear to Krishna.
@@ -21,3 +22,4 @@ Try to help in our Krishna Consciousness activities, and whenever you feel the n
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Hrdayananda ======
+====== Hrdayananda ======
 
+<card class="letter">
 Houston\\
 [To Hrdayananda]
 
 . . . But one thing is, we are observing here in Europe many, many hippies have become so disgusted with material life but they are also now so much degraded that they will not hear our philosophy, simply mocking. So our devotees may become very much learned to remove their doubts and become very much fixed up in Krishna Consciousness, but so far preaching to the general public, especially the hippie class, it is better not to preach very much philosophy, just somehow or other get them to chant Hare Krishna mantra, and if some of them are curious to learn something they may purchase one of our books. Only if they chant with us, that will help them.
 
 . . . Sannyasi must be independent and not rely upon temples to pay his expensive travelling costs, simply he must take Krishna's mercy whenever and wherever it is offered.
+</card>

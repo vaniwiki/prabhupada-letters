@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acharya Omkar Giri ======
+====== Acharya Omkar Giri ======
 
+<card class="letter">
 Mahant, Beni Madhav Temple, \\
 Lecturer, Dhana, \\
 Sagar, M.P.
@@ -33,3 +34,4 @@ A.C. Bhaktivedanta Swami
 c.c. Allahabad
 
 ACBS/tkg
+</card>

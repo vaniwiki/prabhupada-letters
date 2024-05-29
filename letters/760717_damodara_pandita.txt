@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara Pandita ======
+====== Damodara Pandita ======
 
+<card class="letter">
 New Vrindaban
 
 My dear Damodara Pandita,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

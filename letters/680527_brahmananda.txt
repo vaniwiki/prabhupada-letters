@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 New York
 
 My dear Brahmananda,
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Let me know what you have done with Dai Nippon, United Shipping Corporation & Dwarkin if possible send the copies of letters addressed to them, ACB
+</card>

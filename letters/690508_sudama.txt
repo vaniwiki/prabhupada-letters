@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 My dear Sudama,
 
 Please accept my blessings. I am in due receipt of your two letters, sent Special Delivery, dated May 5th and May 6th, 1969. I was very much anxious for Kartikeya after receiving the first letter, so now that he is somewhat improved, try to protect him. He is a very nice boy, but sometimes he gets crazy. You should treat him as your younger brother and with kindness. In the meantime, if he wants to go to the New York center, then he can go there, and Brahmananda can take care of him. Or if he wants to go to New Vrindaban, I will be going there soon, and he will be glad to remain with me as usual. But try to keep him from getting upset. I do not know why he becomes at intervals like that. I can only pray that Krishna will save him from this upsetting business.
@@ -19,3 +20,4 @@ Please convey my blessings to the others. I hope this will meet you in good heal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

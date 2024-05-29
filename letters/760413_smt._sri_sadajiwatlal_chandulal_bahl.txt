@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Smt. & Sri Sadajiwatlal Chandulal Bahl ======
+====== Smt. & Sri Sadajiwatlal Chandulal Bahl ======
 
+<card class="letter">
 Bombay
 
 My dear Smt. and Sri Sadajiwatlal Chandulal Bahl,
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 ACBS/pks
 
 I am going to Australia on the 18th.
+</card>

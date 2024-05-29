@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 My dear Tamala Krishna Goswami:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated %%_%% from Bhopal and also one forwarded to me from London with enclosures dated April 11, 1973. I am so pleased to learn of the successful preaching; now go on in this way. If possible in Kanpur there is one man ready to receive you. You can open correspondence. In this way you visit all the important cities and you will get thousands and thousands of life members. We can organize in each and every factory of Mr. Birla Sankirtana Movement and in this way can save the country from Communist tendency if a big man like Birla cooperates with us.
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

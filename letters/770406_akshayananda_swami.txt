@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Akshayananda Swami ======
+====== Akshayananda Swami ======
 
+<card class="letter">
 c/o ISKCON Vrindavan
 
 His Holiness Akshayananda Swami\\
@@ -33,3 +34,4 @@ A.C. Bhaktivedanta Swami
 ACBS/tkg
 
 By Hand Del. Smara Hari
+</card>

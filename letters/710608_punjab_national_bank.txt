@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Punjab National Bank ======
+====== Punjab National Bank ======
 
+<card class="letter">
 The Punjab National Bank\\
 Calcutta
 
@@ -25,3 +26,4 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

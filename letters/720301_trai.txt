@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trai ======
+====== Trai ======
 
+<card class="letter">
 My dear Trai Das,
 
 Please accept my blessings. I am in due receipt of your letter dated February 15, 1972, and I am very much pleased that you have assumed the president's post for Berkeley centre. That is one of our most important branches especially because it is located just in a very large university area, well known in your country as a famous seat of learning. So now it will be very important to flood Berkeley city with our books and literatures, because if we can convince the intelligent class of men of our Krishna philosophy then our success for changing the position of your country and the rest of the world from a very dangerous condition is assured. Just see that our routine programme such as rising early, cleansing, reading books chanting, street Sankirtana, deity worship, and so on, if these items of regular programme are maintained to the highest standard and not neglected for anything, then everything else we try for will come out successful without fail. So you are now big officer, and I think Krishna has favored you by this position, because now you will be forced to always be the best example of KC person and be very very responsible, because you must make sure that all the devotees in your temple are always satisfied as far as possible by being happy in spiritual life.
@@ -19,3 +20,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

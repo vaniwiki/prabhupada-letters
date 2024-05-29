@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Ram Kumar ======
+====== Sri Ram Kumar ======
 
+<card class="letter">
 Sri Ram Kumar\\
 Magistrate and Tehsildar\\
 P.O. Bassi (Dt. Jaipur)
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

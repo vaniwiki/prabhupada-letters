@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayananda ======
+====== Jayananda ======
 
+<card class="letter">
 My dear Jayananda
 
 Please accept my blessings. I am in due receipt of your letter dated August 12, 1968 and I have noted the contents. I am as much anxious to go to San Francisco as you are always anxious get me to San Francisco, and receive me there. But immediately I never said to Pradyumna that I can go to San Francisco, so immediately do not arrange for renting any apartment, because I am contemplating on going to Vancouver. It is not yet settled, but there is chance of my going there and I wish to go to San Francisco from there. Yes I have inquired from Govinda dasi that she and her husband can utilize the half ticket facility, so when I settle to go, certainly I shall ask you to send me the necessary money and I am so pleased that you are always ready to send us the required money and return back to San Francisco. In the meantime, please go on as usual, and I am so pleased to learn that the Patels are taking great interest in our temple affairs. Please convey by blessings to all the boys and girls there.
@@ -23,3 +24,4 @@ Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My Dear Hayagriva, 
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated November 25th and 30th, 1969. That things are improving in New Vrindaban is very encouraging to me. The collection in Washington was $4,200, and out of that $1,200 was for expenditures. So the balance $3,000 I have received for my Book Fund. I think for us to publish all of the books which are ready now it will cost not less than $100,000, even without any charges for labor or for the establishment: simply for the cost of materials. So I shall expect contributions from all centers as far as possible for my Book Fund.
@@ -21,3 +22,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

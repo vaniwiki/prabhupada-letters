@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Steve ======
+====== Steve ======
 
+<card class="letter">
 My dear Steve,
 
 Please accept my blessings. I thank you very much for your letter, and I understand from your one simple question that you are now serious about perfecting your life in Krishna Consciousness. You have asked me to tell you everything that you should know, and this, of course, is a great subject matter. We now have published several books which delve deeply into the topic of the Absolute Truth, so you should read them very carefully, and gradually the knowledge will become revealed to you. The first book you should study carefully is the __Bhagavad-gita As It Is.__ The sum and substance of __Bhagavad-gita__ is that we should surrender ourselves wholly and completely upon the Lotus Feet of Krishna. When one is not Krishna Consciousness, then he is Maya conscious, or in illusion. Just like when one is not in light, he is sure to be in darkness. Because absence of light means darkness. Similarly, to be forgetful of Krishna means one is in Maya, the darkness of ignorance. Just like when you turn away from the sun, you see the darkness of your shadow; but when you turn your face to the sun, then there is no question of a shadow. The whole principle of spiritual life is to turn our attention back to Krishna, and thus immediately be freed from all entanglements of Maya. There is no necessity to practice the various yogic postures, pressing the nose, and there is no need of becoming a great learned scholar to advance in spiritual life. Simply we have to turn our attention back to the Lotus Feet of Krishna, and then all spiritual perfection is automatically there.
@@ -17,3 +18,4 @@ The process of turning to Krishna you are seeing practically everyday because yo
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trivikrama ======
+====== Trivikrama ======
 
+<card class="letter">
 My dear Trivikrama Maharaja,
 
 Please accept my blessings. Replying your letter dated December 17th, 1975, I beg to inform you that until the next meeting of the GBC no new arrangements can be made. Now Gurukrpa Maharaja is being sent to Japan, and as he is already the GBC, you both should work cooperatively. That is the best thing. After all, it is all Krishna's business; there is no personal considerations. When you all come to the Mayapur festival, at that time all suggestions will be heard and the needful will be done.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

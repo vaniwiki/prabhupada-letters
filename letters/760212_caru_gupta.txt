@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Caru Gupta ======
+====== Caru Gupta ======
 
+<card class="letter">
 Auckland
 
 My dear Caru Gupta das,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/dda\\
 P.S. The name Mrnalini means lotus.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Atendriya (Andy Wiernsz), Bahusira (Bill Oliverson), Jitamitra (Judy Jones), Maharha (Mary St. John), Omkara (Oksana Olenczuk), Vajasana (Vicky Burt) ======
+====== Atendriya (Andy Wiernsz), Bahusira (Bill Oliverson), Jitamitra (Judy Jones), Maharha (Mary St. John), Omkara (Oksana Olenczuk), Vajasana (Vicky Burt) ======
 
+<card class="letter">
 New York
 
 My dear Sons and Daughters,
@@ -37,3 +38,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

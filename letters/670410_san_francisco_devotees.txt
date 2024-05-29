@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: San Francisco devotees ======
+====== San Francisco devotees ======
 
+<card class="letter">
 My dear Janaki Devi, Haridasa, Mukunda Das, Syamasundara Malati Devi, Hayagriva Das, Harsarani Devi, Devakinandana, Lilavati, Ravindra Svarupa, Haladhara Dasi, Upendra, Subala Das, Krishna Devi, Dayananda, Nandarani, Jayananda, Ballabhi Dasi, Syamadasi, Ramanuja Yamuna Devi, Gurudasa, Yogamaya, Mr. Mathews, and all other devotees and friends,
 
 Please accept my hearty greetings and blessings. I am so much obliged to you for your devotion and affection for me. I thought of you all throughout my journey from Francisco to New York and I was praying to Lord Krishna for your more and more advancement in Krishna Consciousness. On my arrival here I was received by hundreds of devotees and friends although Mr. Ginsberg was out of the town. One young professor from India first greeted me and told me that Swamiji you are doing here real work whereas others who have come from India, have simply formed some groups of old lady students without any real information of Indian original culture. Any way the reception in New York was very good organized by our students here and there was distribution of varieties of Prasadam to about 100 men in the temple. I was not least tired and after landing from the air ship although there was some blockade in my ear still I continued meeting for three hours. I am now very well although I am feeling your great separation. Please continue Kirtana as usual with devotion and you will make more and more advancement in Krishna consciousness. Hope you are all well and I beg to remain.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

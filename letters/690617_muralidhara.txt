@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Muralidhara ======
+====== Muralidhara ======
 
+<card class="letter">
 My dear Muralidhara,
 
 Please accept my blessings. I am in due receipt of your letter dated June 12, 1969, and I have noted the contents. I have also seen your Krishna-Balarama picture and it is very nice. These pictures you are drawing for our Festivals in Los Angeles may be nicely colored and photographed and sent to Brahmananda for publication in __BTG.__ The __Bhagavatam__ picture you have already done is already arranged for publication on the front page, and in the absence of Jadurani's paintings, I shall require your work for so many pictures in __BTG.__
@@ -17,3 +18,4 @@ I am enclosing a list of the special Krishna Consciousness holidays to be celebr
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

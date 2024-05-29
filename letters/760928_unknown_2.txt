@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: unknown 2 ======
+====== unknown 2 ======
 
+<card class="letter">
 Bhagavan Shri Krishna Chaitanya foretold, "The singing of My name is sure to be spread in every village and in every town throughout the world." In order to materialize this divine saying both Shri Shri Bhaktivinode Thakur and Prabhupada Shri Shri Bhakti Siddhanta Sarasvati Goswami tried their best and under their direction even at the old age of 70, I started for America. There, for a full one year I had to experience great difficulties in my single handed mission on this account, and at last at New York with the help of a few friends, we were successful to have the International Society for Krishna Consciousness (ISKCON) already formed during my stay there, registered in 1966 under the Local Government Rules. The intention was that the men of that continent may easily grasp the teachings as well as advice of Shri Chaitanya Mahaprabhu.
 
 With the grace of Shri Chaitanya Mahaprabhu by and by ISKCON's 40 temples in America's important cities were constructed and throughout Europe in England, France, Germany, Italy and in Melbourne and Sydney in Australia, New Zealand, Auckland, Africa, Canada and Tehran and other places as well in the world all total of 102 such centres of ISKCON for distribution of Krishna cult were established. Amongst all these the very big temples in London, New York, Los Angeles, and Detroit can be specially mentioned. In these temples the minimum number of devotees attached is 50 and maximum 250 and they are engaged to distribute Krishna hymns leading an austentious life. Everywhere the Deity of Radha and Krishna is being worshiped. From India a large number of renowned persons frequently visit these temples throughout the world and they have made remarks to the effect that in each and every temple arrangements for daily worship and functions relating thereto are remarkably done smoothly and methodically. The artistic way of make up in all respects are exceptionally good and for all these a lot of expenses made towards everything are unparallel. The devotees attached to these temples out of natural devotion frequently visit to have a glance of the holy birthplace of Shri Chaitanya Mahaprabhu at Mayapur, Navadvipa, and that of Shri Krishna at Mathura and His lila-ksetra at Vrndavana, and that they do so in thousands.
@@ -26,3 +27,4 @@ Founder Acharya ISKCON (all over the world)
 
 Vrindaban 28/9/76
 
+</card>

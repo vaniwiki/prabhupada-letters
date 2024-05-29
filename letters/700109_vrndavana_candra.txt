@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vrndavana Candra ======
+====== Vrndavana Candra ======
 
+<card class="letter">
 Philadelphia
 
 My dear Vrndavana Candra,
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

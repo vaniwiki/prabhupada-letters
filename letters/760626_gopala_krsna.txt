@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Gopala Krsna das,
@@ -34,3 +35,4 @@ A.C. Bhaktivedanta Swami
 
 n.b. enclosed you will find some copies of reviews sent to us by Mahabuddhi's library party. They are very important reviews and they can be used in dealing with that Mrs. Kochar. I wanted to bring this rascal women in the public eyes, that she is worthless and still she is posted in a responsible position.\\
 cc: Vrindaban
+</card>

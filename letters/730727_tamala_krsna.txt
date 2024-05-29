@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Tamala Krishna Maharaja,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 ACBS/hda\\
 As we are in possession of the land we must fully utilize it for our purpose. We must therefore hold Sankirtana Festival immediately and arrangement must be done with the help of all Hindu leaders like %%__%%, %%__%% etc.\\
 ACBS
+</card>

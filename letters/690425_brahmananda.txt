@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. Advaita and his press contemporaries have agreed to pay me 10,000 per year for the printing of my books. So you can print at least two books, 5,000 copies each by that money. I hope you have by now settled something with Dai Nippon, and if they have agreed, you can hand over the Second Canto, __Srimad-Bhagavatam__ immediately. There is one copy of __Caitanya Caritamrta__ (No. 18) which is received from Calcutta with Bengali titles. This may immediately be sent to Gaurasundara by mail. You will find it on the shelf in my room. It is understood that MacMillan Company was to pay some hundreds of dollars to Gaurasundara for his design, so I do not know whether they have already paid or not. Anyway, you can immediately send him the above-mentioned book, and the price may be paid from his pay from MacMillan. I am awaiting your letter describing your progress with Dai Nippon.
@@ -17,3 +18,4 @@ Hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

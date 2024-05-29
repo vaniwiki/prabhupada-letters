@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Indira Gandhi ======
+====== Indira Gandhi ======
 
+<card class="letter">
 Srimati Indira Gandhi\\
 Prime Minister of India
 
@@ -31,3 +32,4 @@ Thanking you once more for giving us the opportunity to see you in this connecti
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaurasundara ======
+====== Gaurasundara ======
 
+<card class="letter">
 My dear Gaurasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 1 October, 1969, and I am so glad to hear from you. You write that you have sent me some letters recently and also the examination papers, but I have received no such letters or papers. I have asked Tamala Krishna to keep the test papers that were sent to him in Los Angeles there with him to save postage, so if you have sent the papers there, I shall see them when I return to the USA. Otherwise, I do not know where these papers are; perhaps it is lost in the mail. In that case you should notify the bank to stop the check for $75.08. I am very pleased to learn that you have now moved to Honolulu into a very good section. Now if you can purchase a house as you have described your plan to do so, that will be very, very good. In Boston they have purchased one house, and the monthly payments of $1,000 are depending upon their sales of __BTG.__ So if you can arrange for sales of __BTG__ and our other literatures, that will be of great assistance for you in purchasing the house. The best news you have written is that Govinda Dasi is improving in health now. She is a very nice girl, and I want that in the Name of Lord Krishna both of you work together for propagating Krishna Consciousness. Krishna will always help you in this and bestow His all blessings upon you. Please ask Govinda Dasi to write to me sometime, because I have not heard from her for many days now.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Our Japan center is opened. So on my way to Japan I must drop at Honolulu.
+</card>

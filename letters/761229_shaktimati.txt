@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Shaktimati ======
+====== Shaktimati ======
 
+<card class="letter">
 Carlgary, Canada
 
 My dear Shaktimati,
@@ -25,3 +26,4 @@ Hoping this will find you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

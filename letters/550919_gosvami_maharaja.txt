@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gosvami Maharaja ======
+====== Gosvami Maharaja ======
 
+<card class="letter">
 My dear Sripada Gosvami Maharaja,
 
 Please accept my respectful obeisances. I hope in the meantime you have received my last letter. This day I had been to the office of the Director of Postal Service along with our friend Sri Horendra Natha Shome and Sripada Akincana Maharaja. Some of the would be customers whose addresses were given for registration denied to be our paid subscribers and this was against the registration certificate. We had some talks with the Asst. Director who was a perfect gentleman. Heron Babu being one of them he told that he is also a customer. When he wrote in black and white his version the Director agreed to register it and I am glad to inform you this day our "Sri Sajjanatoshani Patrik" is registered in the postal department as a monthly newspaper under registration __No. D797.__ Just on the way I dropped in at the Kapoor Art Press and I gave him the No. for printing on the cover. Our posting date has been fixed up on the 26th and 27th inst. I do not know if the press will be able to finish the job by that date. I have already given him the pressure and I shall see that it is duly published by the above date and posted. If not then we will have to make another application for changing the date of posting.
@@ -19,3 +20,4 @@ I hope by the time this letter reaches you you have had returned from Navadvipa.
 
 Yours affectionately,\\
 A.C. Bhaktivedanta
+</card>

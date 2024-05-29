@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: All Temple Presidents, G.B.C. and Sannyasis ======
+====== All Temple Presidents, G.B.C. and Sannyasis ======
 
+<card class="letter">
 59 Muller Street,\\
 Yeoville, Johannesburg,\\
 South Africa
@@ -34,3 +35,4 @@ Approved:
 ACBS
 
 (initialed by hand)
+</card>

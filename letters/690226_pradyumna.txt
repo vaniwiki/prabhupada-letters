@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 19, 1969, and I am pleased that you are doing very nicely in your center. The pictures which you have sent are also very nice. I am going to New York by the first of April or by the end of March. From there I shall go to your side, Columbus and New Vrindaban.
@@ -23,3 +24,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

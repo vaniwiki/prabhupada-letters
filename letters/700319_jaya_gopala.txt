@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Jaya Gopala ======
+====== Jaya Gopala ======
 
+<card class="letter">
 My dear Jaya Gopala,
 
 Please accept my blessings. I have not heard from you since a long time. I hope you are doing well. You are a very sincere worker, and Krishna will bless you. I will be glad to hear from you.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

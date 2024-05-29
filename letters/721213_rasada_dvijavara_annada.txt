@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rasada (Rick Joaquim), Dvijavara (David), Annada (Anita) ======
+====== Rasada (Rick Joaquim), Dvijavara (David), Annada (Anita) ======
 
+<card class="letter">
 Paris
 
 My dear Sons and Daughter,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mokika, Kardama Muni, Vaisnavananda ======
+====== Mokika, Kardama Muni, Vaisnavananda ======
 
+<card class="letter">
 My dear Mokika dasa, Kardama Muni dasa, and Vaisnavananda dasa,
 
 Please accept my blessings. I am in due receipt of your letter dated August 6 and enclosed daksina and I thank you very much.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

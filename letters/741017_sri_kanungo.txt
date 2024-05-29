@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Kanungo ======
+====== Sri Kanungo ======
 
+<card class="letter">
 Calcutta
 
 Dear Sri Kanungo:
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 N.B. Please come as soon as possible.
+</card>

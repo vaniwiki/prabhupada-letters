@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagajivana ======
+====== Jagajivana ======
 
+<card class="letter">
 Sao Paulo, Brazil
 
 My dear Jagajivan das,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

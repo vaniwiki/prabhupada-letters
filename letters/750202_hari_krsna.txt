@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hari Krsna ======
+====== Hari Krsna ======
 
+<card class="letter">
 Amsterdam
 
 My dear Hari Krishna Das,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

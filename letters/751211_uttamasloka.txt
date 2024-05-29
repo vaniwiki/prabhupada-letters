@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uttamasloka ======
+====== Uttamasloka ======
 
+<card class="letter">
 Evanston, Illinois
 
 My dear Uttamasloka Prabhu,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

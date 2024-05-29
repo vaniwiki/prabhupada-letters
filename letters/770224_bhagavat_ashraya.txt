@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhagavat Ashraya ======
+====== Bhagavat Ashraya ======
 
+<card class="letter">
 ISKCON – New Delhi
 
 Sri Mayapur Chandradoya Mandir,\\
@@ -35,3 +36,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

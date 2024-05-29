@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Doc Dockstader, Shari Dockstader ======
+====== Doc Dockstader, Shari Dockstader ======
 
+<card class="letter">
 Doc and Shari Dockstader\\
 340 Manzanita Ave.\\
 Boulder Creek, Ca. 95006
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

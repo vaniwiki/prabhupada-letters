@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pavanadeva ======
+====== Pavanadeva ======
 
+<card class="letter">
 Coconut Grove, Miami
 
 My dear Pavanadeva dasa,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

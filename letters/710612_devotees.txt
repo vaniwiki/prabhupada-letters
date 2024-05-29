@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: London devotees ======
+====== London devotees ======
 
+<card class="letter">
 London
 
 __TO:__ Mukunda, Nara Narayana, Jeffrey Coker, Lan, Mandakini, Aditi, Tribhuvanatha, Jaya Hari, Sananda Kumara, Vivienne, Neville Carr, Nicolas, Charlie, Serena, Rancor, Pratajas, Phillip, Jill, Nigel, James Gavin Statt, Devadatta, Draupadi, Dhruvananda, Devaki, John, Jim, Greg, Jaya Jagadisa, John.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

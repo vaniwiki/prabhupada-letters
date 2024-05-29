@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rishikumara ======
+====== Rishikumara ======
 
+<card class="letter">
 To Rishikumar
 
 (cont.) .., for Krishna's service. This can be dovetailed when we are actually very sincere servant of Lord Krishna. So always try to follow this principle and there will be no scarcity in your campaign of Krishna Consciousness.
@@ -19,3 +20,4 @@ Hope this will meet you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jawaharlal Nehru ======
+====== Jawaharlal Nehru ======
 
+<card class="letter">
 Pandit Jawaharlal Nehru,\\
 President---All-India National Congress Working Committee.\\
 New Delhi.
@@ -69,3 +70,4 @@ As an humble disciple of Om Visnupada Sri Srimad Bhaktisiddhanta Sarasvati Goswa
 Awaiting your reply with interest,
 
 Yours Sincerely,
+</card>

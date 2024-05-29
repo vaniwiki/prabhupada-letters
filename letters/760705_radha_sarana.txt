@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radha Sarana ======
+====== Radha Sarana ======
 
+<card class="letter">
 Santa Domingo
 
 Dear Radha Sarana dasa,
@@ -39,3 +40,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

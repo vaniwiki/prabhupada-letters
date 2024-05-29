@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mohanananda ======
+====== Mohanananda ======
 
+<card class="letter">
 My dear Mohanananda,
 
 I beg to acknowledge your letter undated and I am answering your questions as follows: You inquire why, if the devotee is struggling very hard to be free of the clutches of Maya, then how can he not be interested in such liberation? That is a contradiction. The devotee is not interested in liberation, but in serving; as such, the devotee is already liberated. So liberation is not very important business---it doesn't matter if he is liberated or nonliberated. The idea is that nobody should serve Krishna with motive, even up to liberation, he should serve for service sake. Liberation from Maya means engaging himself in the service of the Lord. So one should strive to become a servant of the Supreme, and in that position he is automatically liberated and free from the clutches of Maya, so when it is said that one should strive to be free from the clutches of Maya, it is simply another way of saying one should strive to be a servant of the Lord, not that being free from Maya is the goal of striving, but that the serving is the goal of striving. Liberation is the constitutional position of the living entity, and that constitutional position is that the Lord is great and that the living entity is subordinate & servant of the Lord. So one should try to extricate himself from the clutches of Maya in order to regain his healthy, normal condition as the servant of Krishna, not just to get himself liberated. But once in this service, he is liberated already. Try to understand.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

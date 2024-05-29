@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan ======
+====== Alex, Bob, Drdhavrata, Gupta, Rsabhadeva, Stan ======
 
+<card class="letter">
 Prasadam Distributing International\\
 4350 Von Karman---Penthouse\\
 Newport Beach, California U.S.A.
@@ -21,3 +22,4 @@ I have also heard that you are making plans for a very large order of my books f
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

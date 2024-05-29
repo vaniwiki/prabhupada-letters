@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaura Govinda ======
+====== Gaura Govinda ======
 
+<card class="letter">
 Bhuvaneśvara
 
 My dear Gaura Govinda,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 *Some Oriya scholar may be engaged to translate our books under your check to expedite printing work.\\
 ACBS/jda
+</card>

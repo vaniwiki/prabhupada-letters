@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: ISKCON Temple Presidents ======
+====== ISKCON Temple Presidents ======
 
+<card class="letter">
 Nayapalli, Bhubaneswara\\
 Orissa, Dist. Puri, INDIA
 
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhavananda, Aravinda, Pradyumna, Patita Uddharana ======
+====== Bhavananda, Aravinda, Pradyumna, Patita Uddharana ======
 
+<card class="letter">
 Boston
 
 My dear Bhavananda, Aravinda, Pradyumna and Patita Uddharana,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta Das Adhikari:
 
 Please accept my blessings. I am in due receipt of your letter dated April 7, 1973 and am pleased to accept the following boys and girls as my initiated disciples: Ram Mohan Das (Reiner); Jnanavigraha Das (Joachim); Tirthada Das (Thomas); Hrimati Dasi (Helga); Santimati Dasi (Ulla); Durgama Das (Dario); Premchand Das (Werner); Kamaksi Dasi (Karin); Uktal Das (Ulfert); Atmavidya Das (Axel); Gobhata Das (Gerhart); Ama Das (Amin); Ramgati Das (Ronald);---and Nikhilananda Das (Niko); and Vaidyanath Das (Erland), these two boys I have already informed their names in reply to a letter from the Hamburg temple. Beads may be sent to Revatinandana Swami.
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 N.B. The dictaphone I left there for repairing may be kept in London after it is repaired.
+</card>

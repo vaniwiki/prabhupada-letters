@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Omkara ======
+====== Omkara ======
 
+<card class="letter">
 Sriman Omkar\\
 New O.K. Press\\
 Churiwalla, Delhi-6, INDIA
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Muralidhara, Jadurani, Artists ======
+====== Muralidhara, Jadurani, Artists ======
 
+<card class="letter">
 Brooklyn
 
 My dear Muralidhara, Jadurani and artists of the art department,
@@ -39,3 +40,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

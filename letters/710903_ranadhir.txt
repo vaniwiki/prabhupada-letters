@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ranadhir ======
+====== Ranadhir ======
 
+<card class="letter">
 Sriman Ranadhir Das Adhikary\\
 c/o New Vrindaban
 
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

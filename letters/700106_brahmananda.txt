@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. Since I have come here, I have not heard anything from you. Hope you are doing well along with all other devotees. I heard from Gargamuni that you have received some letter from the draft board accepting our society as religious. I am anxious to see the letter.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ddb
+</card>

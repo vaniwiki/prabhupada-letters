@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 30, 1969 with enclosures. I will keep the court documents in your file. Regarding BTG printing, I have already written to Brahmananda that this must be printed in our own press. So far as my books are concerned, I think there are materials for at least ten books which are ready for printing. Now all the manuscripts are with you. So now the editorial department is under you and Hayagriva, and you combinedly please get my books printed, one after another. I think the following management will be nice: I shall pay the book printing price; actual cost plus 10% maintenance charges. Then after the books are printed you will distribute them proportionately to different centers, and they will remit the price directly to me. Purusottama will keep accounts for that so that the responsibility will be lighter on your side. Besides that, if the books are distributed immediately after printing, without payment at first, the centers will be encouraged to stock them and sell them. I have consulted on this matter with Purusottama, and he says that the idea is right. Now you can give me your own opinion also. But continually all the __Bhagavatams, Krishna, Nectar of Devotion,__ etc. must be published. After printing, some of them may be made softbound and some may be made hardbound, according to demand.
@@ -19,3 +20,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

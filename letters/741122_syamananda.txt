@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamananda ======
+====== Syamananda ======
 
+<card class="letter">
 Dr. L.L. Das,\\
 Rhada Bazar,\\
 Navadvipa,\\
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/vdd
+</card>

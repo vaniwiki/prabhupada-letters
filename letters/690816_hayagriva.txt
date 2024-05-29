@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 1975 So. La Cienega Blvd.\\
 Los Angeles, Cal. 90034
 
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I have received Kirtanananda's sandesh. It is very very very nice. \\
 Thanks. * sent next time
+</card>

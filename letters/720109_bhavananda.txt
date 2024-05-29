@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhavananda ======
+====== Bhavananda ======
 
+<card class="letter">
 My dear Bhavananda:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 24, 1972 and have noted the contents carefully. Things here are going on very nicely. Enclosed is one clipping. Last night at the festival meeting one government official spoke very highly of my movement and everyone was very pleased.
@@ -28,3 +29,4 @@ Your ever well wisher,
 A.C. Bhaktivedanta Swami
 
 cc: Tamal Krishna Maharaj, c/o Jaipur-
+</card>

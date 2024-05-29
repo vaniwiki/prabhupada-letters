@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinanatha ======
+====== Dinanatha ======
 
+<card class="letter">
 Calcutta
 
 My dear Dinanatha,
@@ -35,3 +36,4 @@ Yours very sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ASCBS/ps
+</card>

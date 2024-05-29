@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter (dated Oct. 10) & I've also received Kirtanananda's letter. From different centers of our society the news of the activities of Kirtanananda is giving me too much pain. From Rayarama's letter it is clear that Kirtanananda has not rightly understood Krishna Consciousness philosophy & it appears that he does not know the difference between impersonal & personal features of Krishna. The best thing will be to prohibit him to speak in any of our functions or meetings. It is clear that he has become crazy & he should once more be sent to Bellevue. He was in Bellevue before & with great difficulty & with the help of Mr. Ginsberg we got him out. But it appears that he has developed his madness again, therefore if he is not sent to Bellevue then at least he should be stopped from speaking such nonsense. It is clear from his activities that he has been attacked by maya; he is a victim. We shall pray to Krishna for his recovery but we cannot allow him to speak on my behalf. I am trying to return as soon as possible & when I return everything will be all right. Hope you are well.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

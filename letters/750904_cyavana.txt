@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cyavana ======
+====== Cyavana ======
 
+<card class="letter">
 Nairobi
 
 My dear Cyavana Swami:
@@ -37,3 +38,4 @@ N.B. Now I have decided that I must come to Africa. So my visa for South Africa 
 ACBS\\
 I shall decide later on.\\
 ACBS/bs
+</card>

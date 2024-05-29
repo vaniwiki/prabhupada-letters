@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vijaya ======
+====== Vijaya ======
 
+<card class="letter">
 Lautoka, Fiji
 
 My dear Vijaya das,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

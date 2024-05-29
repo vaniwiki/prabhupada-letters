@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Citsukhananda ======
+====== Citsukhananda ======
 
+<card class="letter">
 Trinidad
 
 My dear Citsukhananda das:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

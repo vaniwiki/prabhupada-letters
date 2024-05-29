@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lokananda, Ramesvarai ======
+====== Lokananda, Ramesvarai ======
 
+<card class="letter">
 Amsterdam
 
 My dear Lokananda das, and Ramesvarai dasi,
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

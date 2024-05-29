@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Niranjana ======
+====== Niranjana ======
 
+<card class="letter">
 Glasgow
 
 My dear Niranjana dasa,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

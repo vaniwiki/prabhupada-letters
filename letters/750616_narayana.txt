@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Narayana ======
+====== Narayana ======
 
+<card class="letter">
 San Jose, Costa Rica
 
 My dear Narayana dasa,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

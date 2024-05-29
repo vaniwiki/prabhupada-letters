@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayananda, Trai, Rsabhadeva ======
+====== Jayananda, Trai, Rsabhadeva ======
 
+<card class="letter">
 San Francisco
 
 My dear Jayananda, Trai, and Rsabhadeva,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

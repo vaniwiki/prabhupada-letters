@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kulasekhara ======
+====== Kulasekhara ======
 
+<card class="letter">
 My dear Kulasekhara,
 
 Please accept my blessings and offer the same to your good wife, Visakha Dasi. I am in due receipt of your letter dated October 21, 1969 and have noted the contents carefully. In a new place sometimes one feels loneliness, but gradually this subsides. But this feeling is not very good for a Krishna Conscious devotee. When she has got her husband for companionship, what is the use of your wife desiring some female companionship? If this is available, that is good. If not, she should be satisfied with her natural companion and together execute Krishna Consciousness. If Vrndavanesvari is unable to come there, then Visakha may go to see her. Besides that there is also Mandali Bhadra's mother. Also, I understand that there is one very nice girl who is coming to the temple often, so she may try to help this girl become elevated to Krishna Consciousness. These feelings of loneliness are simply temporary manifestations due to past conditioning, and we should try to concentrate our attention to our eternal friendship with Krishna. That will relieve us of all such botherations. So both of you depend on Krishna and try more and more to serve Him nicely by spreading Krishna Consciousness. As you are both very sincere devotees, surely He will bestow His Grace upon you for this.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

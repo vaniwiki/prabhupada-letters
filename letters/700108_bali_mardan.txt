@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali Mardan ======
+====== Bali Mardan ======
 
+<card class="letter">
 My dear Bali Mardan,
 
 Please accept my blessings. I was in due receipt of your letter and two price quotations while I was in London, but, because I was busy in so many engagements, I could not reply you earlier. The price quotation from Dia Nippon is accepted, but as soon as I make arrangement for the money I shall confirm it and send the manuscript. In the meantime, I learn that you are going to Australia and you have already got the visa to Sydney. You want to take with you Upendra, and I have advised him to follow you. Both you and Sudama went to Japan, now Sudama has taken charge of Tokyo center, and if you take charge of Sydney center, it will give me the greatest pleasure. My ambition is to open centers as many as possible. At least, I want to see that centers are opened in very important places. Now you have seen how practically our students are opening centers here and there. All the new centers recently opened in California and central states are improving very much. I have received one letter from Bamanadev from St. Louis. It is very much encouraging. I now you are very sincere Krishna conscious preacher and Krishna will surely help you in your great adventure. So by this work not only you will be blessed by Krishna, which is a spiritual gift, but also your name will be recorded in the history of the Krishna Consciousness Movement, which I am sure is to grow to the largest volume of expansion. I shall always pray for your long life for preaching work in the service of the Lord. Thank you very much.
@@ -22,3 +23,4 @@ Sriman Bali Mardan\\
 6-16, 2-chome, ohhashi\\
 Meguro-Ku, Tokyo\\
 Japan
+</card>

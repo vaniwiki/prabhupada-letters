@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pranaba ======
+====== Pranaba ======
 
+<card class="letter">
 Sriman Pranaba das\\
 ISKCON, 4544 Laclede\\
 St. Louis, Mo.63108USA
@@ -26,3 +27,4 @@ But as a public statement you may say we are part of the Hindu dharma. It is act
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

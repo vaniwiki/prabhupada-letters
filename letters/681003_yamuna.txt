@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna ======
+====== Yamuna ======
 
+<card class="letter">
 My dear Yamuna devi,
 
 Please accept my blessings. I am in due receipt of your nice letter of 9/27/68, London yatra, and it is so much encouraging to me. Your appreciation is so nice, of Srimad Bhagavad-gita and Teachings of Lord Caitanya, and please continue to study and preach in this way to all you meet. I am very happy to learn that you are going to various homes and lecture halls, and holding kirtana and delivering lectures from these transcendental literatures. This is very nice. And if you continue in this way, gradually so many people will be attracted, and our London center will be very soon successful. I have received also your handbills, and they are also very nice. All this good news is very much encouraging to me, and I thank you all six sincere souls for carrying on this mission so enthusiastically.
@@ -21,3 +22,4 @@ I hope you are all well, and I am always looking forward to hearing your good re
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

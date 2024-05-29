@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lalitananda ======
+====== Lalitananda ======
 
+<card class="letter">
 My dear Lalitananda dasa,
 
 Please accept my blessings. I am in due receipt of your letter dated May 13rd, 1975 and have noted the contents. I am very sorry that you have taken to homosex. It will not help you advance in your attempt for spiritual life. In fact, it will only hamper your advancement. I do not know why you have taken to such abominable activities. What can I say? Anyway, try to render whatever service you can to Krishna. Even though you are in a very degraded condition Krishna, being pleased with your service attitude, can pick you up from your fallen state. You should stop this homosex immediately. It is illicit sex, otherwise, your chances of advancing in spiritual life are nil. Show Krishna you are serious, if you are.
@@ -17,3 +18,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

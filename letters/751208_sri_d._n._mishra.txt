@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri D. N. Mishra ======
+====== Sri D. N. Mishra ======
 
+<card class="letter">
 Sri D.N. Mishra M.A., B.L. Advocate\\
 179 Balarama Dey Street,\\
 Calcutta---6
@@ -26,3 +27,4 @@ Sincerely yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pope Paul VI ======
+====== Pope Paul VI ======
 
+<card class="letter">
 His Holiness The Pope, Paul VI\\
 Vicar of Jesus Christ\\
 State of Vatican City\\
@@ -34,3 +35,4 @@ I do not wish to prolong the body of this letter further, but if you think that 
 
 Yours in the service of the Lord,\\
 ACB
+</card>

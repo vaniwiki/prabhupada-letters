@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 10, 1970. I asked you to work four hours just to give you not very much strain because I found you weaker than I saw you before. On the whole you can work conscientiously so that you may not feel tired due to your weakness. So sometimes if you go with Sankirtana Party that will be a nice relaxation. So for each and every time you do not write to me but use your best discretion and do everything easily and without strain. That is my advice.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

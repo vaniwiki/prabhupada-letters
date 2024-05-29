@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 Bombay
 
 My dear Syamasundara,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. Please send at least 25 membership information pamphlets here immediately.\\
 ACBS/adb
+</card>

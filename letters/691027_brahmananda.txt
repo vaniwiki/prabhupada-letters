@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated October 18, and October 20, 1969. Regarding Isopanisad, enclosed please find the glossary that Satsvarupa has sent to me for making corrections. From now on all of our writings should be presented in the scholarly manner, so all spelling and diacritic marks must be done correctly. I have already sent you the corrected page which you sent me and now the glossary is also corrected. I do not think there is any necessity for any dedication on Isopanisad because it is a small book. Regarding the number of __BTG__ which you print during the winter months, that must be decided amongst yourselves. Similarly you should decide about what is to be done with the North Carolina center. I have no objection if they move to some other place. Perhaps they will require some other nicely trained brahmacari to give them assistance either in North Carolina or some other place. So decide amongst yourselves what is to be done and do the needful. This is management. You have asked about the management of our society, and the position is that management should be done in such a way that people may not break away. That is the first business of management. I have already explained the matter to you and Tamala, so you do it consulting amongst yourselves, gradually coming to the general governing body for managing the whole affairs. At the present moment whatever you are doing is all right. Regarding New Vrindaban, the society does not require to invest now. Kirtanananda is managing. That is all right. So far as Rayarama is concerned, let us wait till he satisfies his Mayic business.
@@ -17,3 +18,4 @@ The poem sent by Acyutananda is nice. It is enclosed herewith and you may publis
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

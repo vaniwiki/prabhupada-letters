@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dhrstaketu ======
+====== Dhrstaketu ======
 
+<card class="letter">
 Brooklyn
 
 My dear Dhrstaketu Das:
@@ -37,3 +38,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

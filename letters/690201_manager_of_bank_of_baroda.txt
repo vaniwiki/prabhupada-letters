@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Bank of Baroda ======
+====== Manager of Bank of Baroda ======
 
+<card class="letter">
 Manager\\
 Bank of Baroda Ltd.\\
 Indian Exchange\\
@@ -23,3 +24,4 @@ Please transfer Rs 500 to the State Bank of India, Strand Road, Calcutta-1, INDI
 Sincerely,
 
 A.C. Bhaktivedanta Swami
+</card>

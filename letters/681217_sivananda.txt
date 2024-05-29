@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I have just received your letter dated December 14, 1968 and I have noted the contents with some surprise.
@@ -17,3 +18,4 @@ You have written that you will soon be leaving Hamburg and this news has caused 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

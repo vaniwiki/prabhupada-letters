@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 New York
 
 My dear Tamala Krishna,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 *Note: this has been informed to Brahmananda\\
 ACBS/as
+</card>

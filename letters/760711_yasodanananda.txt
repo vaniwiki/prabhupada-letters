@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasodanananda ======
+====== Yasodanananda ======
 
+<card class="letter">
 Hyderabad
 
 My dear Yasodananandan Maharaja,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

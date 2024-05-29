@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sushil K. Arora ======
+====== Sushil K. Arora ======
 
+<card class="letter">
 Mr. Sushil K. Arora\\
 % Lotus\\
 PO Box 761, Station A\\
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I am in due receipt of your letter dated Oct. 20, 1968, and I understand that you are beginning to learn Sanskrit grammar which I think will be a great difficult task for you in these late hours of life. It is very nice to hear that Dr. Singh will conduct a special course of Panini's grammar. But our immediate task is to prepare the transliteration and correction of the 1st Canto for next publication. But if you have to do the same after learning Sanskrit grammar, it will take a long time to finish it. I have not heard anything how far yourself and Hayagriva combinedly finishing the editing of the 1st Canto which we are going to print next. If you can learn Sanskrit grammar conveniently it is very nice. But the mode of teaching in the schools and colleges are so slow that it will not be practical to learn Sanskrit grammar there and then prepare our transliteration. Of course, the grammar helps in analyzing the combined words, but I think it will take a very long time.
@@ -19,3 +20,4 @@ Hope you are both well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

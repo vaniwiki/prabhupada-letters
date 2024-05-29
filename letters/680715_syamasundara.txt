@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 San Francisco
 
 My dear Syamasundara,
@@ -23,3 +24,4 @@ Please convey my blessings to your good wife Malati, and to your new daughter, M
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

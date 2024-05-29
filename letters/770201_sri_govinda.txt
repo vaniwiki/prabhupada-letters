@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Govinda ======
+====== Sri Govinda ======
 
+<card class="letter">
 Dear Sri Govinda,
 
 Please accept my blessings. I am in receipt of your letter of January 20, and I have examined the contents.
@@ -24,3 +25,4 @@ Sri Govinda das\\
 3764 Watseka Ave.\\
 Los Angeles, California 90034\\
 ACBS/sdg
+</card>

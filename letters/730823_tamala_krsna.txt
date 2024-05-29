@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Tamala Krishna,
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. I have received one complaint from Indian devotee at Mayapur Prabharupa Das Brahmacari that he is mal treated by our American devotees. Kindly inquire into this matter and do the needful. Either Indian or foreign whoever joins us they are not under any obligation, our only tie is Love of Godhead. It should be our definite policy that nobody is ill treated that he may go away. We recruit a person to join us after spending gallons of blood. Everyone comes for reformation, you cannot expect everyone to be perfect, rather it is our duty to make everyone perfect as far as possible. So we shall be very much cautious and careful in this connection.
+</card>

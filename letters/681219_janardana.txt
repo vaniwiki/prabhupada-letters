@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janardana ======
+====== Janardana ======
 
+<card class="letter">
 My dear Janardana,
 
 Please accept my blessings. I beg to thank you for your letter of December 11, 1968. I have already acknowledged receipt of the French Back To Godhead and I have sent my hearty thanks for you all. May Krishna bless you to advance this attempt far and wide.
@@ -27,3 +28,4 @@ Please try for your Ph.D. very seriously and I am sure that Krishna will certain
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

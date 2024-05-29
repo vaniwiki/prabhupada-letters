@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: M. N. De ======
+====== M. N. De ======
 
+<card class="letter">
 Calcutta
 
 My dear M.N. De,
@@ -23,3 +24,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

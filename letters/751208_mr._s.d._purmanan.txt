@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. S.D. Purmanan ======
+====== Mr. S.D. Purmanan ======
 
+<card class="letter">
 Mr. S.D. Purmanan\\
 Central training institute\\
 for instructors\\
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

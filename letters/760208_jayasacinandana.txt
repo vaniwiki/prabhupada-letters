@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayasacinandana ======
+====== Jayasacinandana ======
 
+<card class="letter">
 Los Angeles
 
 My dear Jayasacinandana,
@@ -36,3 +37,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/DDA/nd
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali-mardana ======
+====== Bali-mardana ======
 
+<card class="letter">
 My dear Bali Mardan,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated November 9th and 11th, 1970.
@@ -25,3 +26,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

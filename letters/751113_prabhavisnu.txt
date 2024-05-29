@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prabhavisnu ======
+====== Prabhavisnu ======
 
+<card class="letter">
 London
 
 My dear Prabhavisnu das,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd\\
 Encs.
+</card>

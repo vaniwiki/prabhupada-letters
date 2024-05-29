@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Registrar of Joint Stock Companies ======
+====== Registrar of Joint Stock Companies ======
 
+<card class="letter">
 The Registrar of Joint Stock Companies\\
 Uttar Pradesh---Lucknow.
 
@@ -34,3 +35,4 @@ Yours faithfully---\\
 A.C. Bhaktivedanta
 
 Enclosures---3.
+</card>

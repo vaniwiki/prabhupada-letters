@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hanuman Prasad Poddar ======
+====== Hanuman Prasad Poddar ======
 
+<card class="letter">
 Gita Press\\
 Gorakhpur, India
 
@@ -29,3 +30,4 @@ Besides that, many of my students are eager to go to India, but I have no place 
 By separate air mail I am sending several news articles, out of which my talks with Dr. J.F. Staal, Professor of Philosophy and of South Asian Languages, University of California, Berkeley, will be very much interesting to you. So we are gradually being appreciated by all classes of men. The above picture is our newly purchased building as I informed you before.
 
 A.C. B.S.
+</card>

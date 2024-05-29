@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Tripathi ======
+====== Sri Tripathi ======
 
+<card class="letter">
 Lucknow
 
 Dear Sri Tripathi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

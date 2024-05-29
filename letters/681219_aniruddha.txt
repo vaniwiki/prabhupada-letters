@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I am in due receipt of your letter of December 17, 1968 and I thank you so much for it. From this letter I can see that you are taking serious interest in the welfare of Girish and this is very nice. You are quite right in your estimation that engagement in Krishna's service will help him to progress more and more. And keeping him engaged will similarly keep you engaged so I can see that there is all round benefit for you both. I do not think that at this time it will be necessary for you to obtain a teacher's certificate. You have so many other important duties to perform in your center. Also, I understand that in West Virginia that the qualification for being teacher is simply that one has graduated from high school so there will be no necessity of such teacher's certificate. Before long we are hoping to obtain a schooling program in New Vrindaban where our boys may be trained up in the principles of Krishna Consciousness as well as reading, writing and arithmetic. In Los Angeles, Visnujan is taking care of Birbhadra and this boy is also doing very nicely. Certainly this boy is very good soul to be in contact with Krishna Consciousness even at such an early age so be patient with him and I think that he will continue to progress very nicely.
@@ -19,3 +20,4 @@ Please convey my blessings to all others at your temple. I hope that you are all
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

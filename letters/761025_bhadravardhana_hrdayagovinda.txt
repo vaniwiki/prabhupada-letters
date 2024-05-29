@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhadravardhana, Hrdayagovinda ======
+====== Bhadravardhana, Hrdayagovinda ======
 
+<card class="letter">
 My dear Bhadravardhana and Hrdayagovinda,
 
 Please accept my blessings. I am in receipt of your letter dated October 1, 1976 along with a check for $350. Thank you very much.
@@ -19,3 +20,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

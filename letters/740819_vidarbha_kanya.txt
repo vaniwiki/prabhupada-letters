@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vidarbha Kanya ======
+====== Vidarbha Kanya ======
 
+<card class="letter">
 Wilingford, Pennsylvania
 
 My dear Vidarbha Kanya dasi
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
+</card>

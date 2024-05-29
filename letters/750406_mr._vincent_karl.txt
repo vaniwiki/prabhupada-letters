@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Vincent Karl ======
+====== Mr. Vincent Karl ======
 
+<card class="letter">
 Mr. Vincent Karl\\
 c/o SOL Press\\
 Box 239, Van Brunt Station\\
@@ -26,3 +27,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

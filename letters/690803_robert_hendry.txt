@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Robert Hendry ======
+====== Robert Hendry ======
 
+<card class="letter">
 My dear Robert Hendry,
 
 Please accept my blessings. I beg to thank you for your nice letter dated July 13, 1969, but mailed on July 29th, and now it is in hand. I can understand from your letter that you are a quite fit soldier for fighting with Maya. Our Krishna Consciousness Movement is a declaration of war against the activities of Maya. The real description of Maya is given in a Vedic literature called __Markandeya Purana__ in the chapter __Candika.__ Candika is another name of the external energy called Maya. This Candika is described there as the Goddess who is putting all conditioned souls in darkness. In this material world, every living entity is under the spell of this Candika, almost asleep in darkness of knowledge. Every living entity is part and parcel spirit soul, but in contact with Maya it has developed different types of consciousness, represented by varieties of bodies, beginning from the aquatics and going to the bodies of demigods in higher planets. These different grades of bodies are developing in terms of life. When the consciousness comes to the point of Krishna, the Supreme Personality of Godhead, then life becomes perfect in its original condition. Therefore, in a sense this Krishna Consciousness Movement is declaring war against Candika, who has kept the living entities under her spell. Candika's first spell is to make us identify ourselves with these material conditions. Just like a living entity, because he is born and brought up in American condition, he thinks himself as American, similarly, others are thinking they are Indians, or Canadians, or French and so on. Actually, one is none of these material designations, but he is pure Krishna Consciousness, now covered by the spell of Candika's energy, or the material energy.
@@ -25,3 +26,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

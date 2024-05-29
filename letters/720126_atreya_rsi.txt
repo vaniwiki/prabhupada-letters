@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Atreya Rsi ======
+====== Atreya Rsi ======
 
+<card class="letter">
 Brooklyn
 
 Dear Atreya Rsi Das,
@@ -23,3 +24,4 @@ You may adopt this principle, that whatever conditions increases your facility t
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

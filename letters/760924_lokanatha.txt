@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lokanatha ======
+====== Lokanatha ======
 
+<card class="letter">
 Delhi
 
 My dear Lokanatha,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa, Yamuna ======
+====== Gurudasa, Yamuna ======
 
+<card class="letter">
 Dear Guru das & Yamuna devi,
 
 Be good boy and girl and always chant the HARE KRISHNA mantra and you will be so pleased with the result.
@@ -17,3 +18,4 @@ Yamuna you are little better than Janaki but don't get puffed up and be good to 
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balai ======
+====== Balai ======
 
+<card class="letter">
 My dear Balai Dasi,
 
 Please accept my blessings. I beg to thank you very much for your very nice letter along with some pictures of your daughter Nandini Dasi. I am so glad to see that you are raising your daughter in Krsna consciousness and that is your duty as conscientious mother to give the child proper education in spiritual living.
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 *Why not ask your daughter to contribute to my book fund whatever she collects.\\
 ACBS
+</card>

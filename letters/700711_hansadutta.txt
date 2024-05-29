@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Hamburg
 
 My dear Hansadutta,
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 *Neither I have heard anything how you have performed Rathayatra in London.\\
 ACBS:db
+</card>

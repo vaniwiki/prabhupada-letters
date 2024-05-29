@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jaya Mazo ======
+====== Jaya Mazo ======
 
+<card class="letter">
 Jaya Mazo\\
 600 East 21 Street\\
 Brooklyn, New York, 11226.
@@ -23,3 +24,4 @@ I thank you very much for your appreciation of my disciples in N.Y. and you will
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

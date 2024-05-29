@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Isanadas ======
+====== Isanadas ======
 
+<card class="letter">
 My dear Isanadas,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 25, 1969, and I have noted the contents with pleasure. I am pleased that you are taking serious interest in helping us spread this sublime movement of Lord Caitanya to the Western World, which has such urgent need of this knowledge. Regarding your idea of going to London before they obtain a temple, I do not think this will be the best thing because already they are scattered there, living separately, and they are inconvenienced. I have asked them to occupy a building and assured them of guarantee of payment. If the building is occupied, then by June I shall also go there, and then you will be welcome there. But without having a temple there I do not think it will be very much beneficial. Now you are helping the Montreal temple, and that is nice.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 NB: Your suggestion of sending me a report of your daily activities is very nice, and you may do it.
+</card>

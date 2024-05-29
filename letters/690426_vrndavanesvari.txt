@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vrndavanesvari ======
+====== Vrndavanesvari ======
 
+<card class="letter">
 My dear Vrndavanesvari,
 
 Please accept my blessings. I am so pleased to receive your letter dated April 18, 1969 here in Boston. I am glad to learn that little Muradvaja is now become recovered from the fever he experienced in Los Angeles, and I am also glad to learn that Mandali Bhadra has already begun the translation work. It is Krishna's desire that we should meet together and cooperate for the cause of Krishna Consciousness movement which is so badly needed throughout the world. You and your husband are quite competent to take up this responsibility and your little child, Muradvaja, is a great hope for our future activities. He is fortunate boy to have such nice father and mother, and if you can raise him properly for this purpose, you shall all be benefited from the spiritual standpoint. I am glad that Ananda is executing the Krishna Consciousness movement there in Vancouver very intelligently with determination and sincerity. Please offer him my blessings, as well as to your husband and child.
@@ -21,3 +22,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

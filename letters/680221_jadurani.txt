@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I have received your letter dated Feb. 14, 1968, and I am happy to hear all the good news from our fine art department. I think I have already given you instructions in this regard. In my opinion your guiding the girls working under you for painting is very important, and if this business doesn't suffer, you can think of going to S.F. for organizing the asrama. If all the Brahmacarini's gather together and work under your guidance, at any place, I will prefer that proposition. If the majority of the girls are in N.Y., why not have the other Brahmacarini's from S.F. go there and work under your direction, either in N.Y. or in Boston, as it is best. Hope you are well. For the time being drop the idea of going to S.F. better concentrate your energy in organizing the artist girls under your care. The Brahmacarinis at S.F. may be called at N.Y. or Boston.
 
 Your ever well-wisher,
+</card>

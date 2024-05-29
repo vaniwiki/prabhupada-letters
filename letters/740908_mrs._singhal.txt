@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mrs. Singhal ======
+====== Mrs. Singhal ======
 
+<card class="letter">
 113 D.J. Rd.\\
 Ville Parle, W.\\
 Bombay 56
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/hdb
+</card>

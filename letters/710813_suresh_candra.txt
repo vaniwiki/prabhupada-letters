@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Suresh Candra ======
+====== Suresh Candra ======
 
+<card class="letter">
 Sri Suresh Candra\\
 District Administrative Office\\
 Vreoden Hoop\\
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

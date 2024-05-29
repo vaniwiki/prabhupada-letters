@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Delhi
 
 My dear Hansadutta das,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 *At least keep 7 Bury Place London, as our London office\\
 ACBS/dda
+</card>

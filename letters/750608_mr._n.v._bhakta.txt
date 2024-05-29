@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. N.V. Bhakta ======
+====== Mr. N.V. Bhakta ======
 
+<card class="letter">
 N.V. Bhakta\\
 Box 130, Nelola\\
 Zambia, Africa
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

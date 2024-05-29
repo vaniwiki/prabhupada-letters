@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Hayagriva, Shyamsundar and Haridas ======
+====== Hayagriva, Shyamsundar and Haridas ======
 
+<card class="letter">
 There is possibility of opening two more branches one in Baltimore and the other in Boston. Brahmananda, Rayrama and Mahapurusa three boys have already gone to Boston last night to see the situation and we shall have to act according to situation. In Baltimore one gentleman namely John De Priest is attracted with our movement and he proposes that somebody in Baltimore may give some land to build temple there. Let us see how Krishna desires in this respect. I shall be glad hear from you about your opinion for purchasing the varitype machine. We are prepared to purchase the machine immediately on hearing from you. Please send me the address of Jayananda. I have not heard from him as well as from Haridas and Shyamsunder. I hope all of them are doing well. Herewith I am writing some notes to Sriman Shyamsunder and returning one dishonored check please find.
 
 Over. -2-
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: One check returned by the Bank.
+</card>

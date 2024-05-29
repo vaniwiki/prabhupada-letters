@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder ======
+====== Nalinikanta Roy, Panchu Gopal Paul, Swarup, Govinda Tarafder, Bijoy Kumar Pramanik, Gopal Chandra Mandal, Gour Chandra Mandal, Surendra Nath Mandal, Mani Lal Mandal, Kartick Chandra Mandal, Balai Chandra Mandal, Dharani Dhar, Debaki Dulal Datta, Gour Kishore Majumder ======
 
+<card class="letter">
 Nalini Kanta Roy    Sri Panchu Gopal Paul,\\
 Gopal Nagar, Bangaon,   Village Matiganj,\\
 District 24-Parganas,    P.O. Matiganj,\\
@@ -44,3 +45,4 @@ I hope that this meets you in good health,
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami
+</card>

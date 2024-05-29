@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated June 10 1967. Yes it is due to your prayers that this time my life has been saved. Your appreciation of the movement is very keen and interesting. Actually I was also attracted by my Guru Maharaja when he convinced me that God lives and we can live with Him. I find the same conviction in you and it has given me so great pleasure. Yes, it is the greatest discovery. Human society under the spell of illusion is doing things, each on his own responsibility and they are becoming entangled in material existence. This is the greatest blunder in human society. They have not only forgotten God but they've declared openly that God is dead. This declaration of the foolish human society is the greatest blunder in life. I therefore appreciate your conviction and I am still more glad that you are determined to progagate this message to the world at large. I am sure you can do this because all of you are determined to propagate this message to the world at large. I am sure you can do this because all of you who have come to me are sincere soul and you have understood the inner force of Krishna Consciousness. Please try to propagate this new movement combinedly.
@@ -17,3 +18,4 @@ I have already explained to Satsvarupa that for the present I may return to Indi
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

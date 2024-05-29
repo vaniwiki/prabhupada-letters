@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Jagadisa Bhardawaj ======
+====== Dr. Jagadisa Bhardawaj ======
 
+<card class="letter">
 Dr. Jagadisa Bhardawaj, M.A., Ph. D.\\
 Professor Hindi Division\\
 Atmaram Sanatana Dharma College\\
@@ -36,3 +37,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna ======
+====== Yamuna ======
 
+<card class="letter">
 My dear Yamuna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 3rd August, 1971 and have noted the contents. So far going to Africa is concerned, I have answered that point in the enclosed letter to Gurudas. It is not advisable at this time.
@@ -28,3 +29,4 @@ ACBS/adb
 Yamuna Devi Dasi
 
 c/o ISKCON Calcutta
+</card>

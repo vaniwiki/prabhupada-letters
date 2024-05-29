@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Hunter ======
+====== Mr. Hunter ======
 
+<card class="letter">
 Houston
 
 Dear Mr. Hunter,
@@ -27,3 +28,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

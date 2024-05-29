@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhogilal Patel ======
+====== Bhogilal Patel ======
 
+<card class="letter">
 Bombay
 
 My dear Bhogilal Patel:
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

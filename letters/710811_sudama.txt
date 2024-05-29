@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 My dear Sudama,
 
 Please accept my blessings. I am in due receipt of your letter dated 4th August, 1971 and have noted the contents. I am very glad to hear that Kartikeya Swami has changed his mind and is wanting to preach also. If he can go to South America that will be very nice. And he should take to preaching very seriously. A sannyasa should be strong minded, not childish.
@@ -16,3 +17,4 @@ Please accept my blessings. I am in due receipt of your letter dated 4th August,
 On 10th July, 1971 I sent you one letter in which there was an enclosure to be forwarded to Seiko watch manufacturers in Tokyo, but as of yet I have
 
 [PAGE MISSING]
+</card>

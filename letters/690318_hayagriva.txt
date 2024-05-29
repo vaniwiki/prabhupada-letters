@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your nice long letter of March 12, 1969, and have noted the contents carefully. I hope by Krishna's Grace all will work out nicely with your job arrangements. I am glad to learn that your yoga society is going on nicely. Regarding Pradyumna: I shall write to him in this connection, and when I come there in May, I shall see the situation and make the suitable arrangements as necessary.
@@ -31,3 +32,4 @@ I hope you are all well, and please convey my blessings to Syama dasi, and all t
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

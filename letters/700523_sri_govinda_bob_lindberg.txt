@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Govinda (Bob Lindberg) ======
+====== Sri Govinda (Bob Lindberg) ======
 
+<card class="letter">
 Detroit
 
 My dear Sri Govinda Das (Bob Lindberg),
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:db\\
 P.S. I am enclosing herewith one sheet listing the standard practices for a devotee and also the qualifications of a devotee.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sumati Morarjee ======
+====== Sumati Morarjee ======
 
+<card class="letter">
 Madam Sumati Morarji Baisaheba,
 
 Please accept my greeting and blessing of Lord Bala Krishna. I hope by the Grace of Lord Sri Krishna everything well with you.
@@ -27,3 +28,4 @@ In India when I started for America, your goodness promised to reply my letter r
 
 Yours sincerely in the Service of the Lord.\\
 A.C. Bhaktivedanta Swami
+</card>

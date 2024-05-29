@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Ghosh ======
+====== Dr. Ghosh ======
 
+<card class="letter">
 Gyan Bhawan\\
 22, Minto Road\\
 Allahabad 211002
@@ -35,3 +36,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

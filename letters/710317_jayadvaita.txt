@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayadvaita ======
+====== Jayadvaita ======
 
+<card class="letter">
 My dear Jayadvaita,
 
 Please accept my blessings. I am in due receipt of your letter dated 21st February, 1971 and noted the contents carefully. I do not know what may have happened to the letter dated 9th January, 1971, but I have not received it.
@@ -25,3 +26,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

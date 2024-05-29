@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda Dasi,
 
 Please accept my blessings. I hope that by now you have received the reply to your letter which you mailed just after your arrival in Hawaii.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Have you received any news from Jaya Govinda. His latest letter received yesterday is very disappointing. He has not mentioned about the murtis. Please remind him again. He appears to be on the path of Maya. ACB
+</card>

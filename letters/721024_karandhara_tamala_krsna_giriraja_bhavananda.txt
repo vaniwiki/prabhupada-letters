@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara, Tamala Krsna, Giriraja, Bhavananda ======
+====== Karandhara, Tamala Krsna, Giriraja, Bhavananda ======
 
+<card class="letter">
 My dear Karandhara, Tamala Krishna, Giriraja, and Bhavananda,
 
 Please accept my blessings. I am just now in receipt of your letter dated October 20, 1972, and Visakha dasi has just arrived and has told that you have not received any letter from me, and that you have sent several telegrams and letters. I have not received all of them I think. I received one express letter from the four of you dated Oct. 16th on Oct. 20th, four days from posting. Your letter dated Oct. 19th was received by me however on Oct. 21st, and just now I have received the letter of Oct. 20th. Enclosed find the copy of my letter of 20th.
@@ -35,3 +36,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

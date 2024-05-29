@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dorothy Scott ======
+====== Dorothy Scott ======
 
+<card class="letter">
 Dorothy Scott\\
 19 Willow Way\\
 Didsbury, Manchester 20\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

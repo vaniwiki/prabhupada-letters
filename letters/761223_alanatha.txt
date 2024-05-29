@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Alanatha ======
+====== Alanatha ======
 
+<card class="letter">
 My dear Alanatha,
 
 Please accept my blessings. I am in due receipt of your letter dated nil along with two copies of the second volume of the Portuguese Srimad-Bhagavatam. It is very nice.
@@ -23,3 +24,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

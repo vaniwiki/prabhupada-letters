@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Punjab National Bank ======
+====== Punjab National Bank ======
 
+<card class="letter">
 Punjab National Bank,\\
 Vrindaban Branch,\\
 Vrindaban Dist. Mathura,\\
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 ACBS/hda\\
 cc. Sri Vishwambar Dayala,\\
 General supervisor.
+</card>

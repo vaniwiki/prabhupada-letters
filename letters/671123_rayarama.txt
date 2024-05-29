@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter Nov. 19, 1967 and I am sending by air mail the purports of verses 16-28 of the Ninth chapter. Please set them nicely and at the end if you add the general purport which you have written, I have no objections. My return to your country is already settled. My ticket was booked for starting on 23rd Nov. but due to certain political strike my starting has been held up. I think that everything will be alright by the end of this week and I may start by Monday next via Japan.
@@ -17,3 +18,4 @@ You may not write anything to Miss Bowtell. I think she will not be helpful in o
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

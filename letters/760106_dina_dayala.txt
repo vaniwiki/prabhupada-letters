@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dina Dayala ======
+====== Dina Dayala ======
 
+<card class="letter">
 My dear Dina Dayala,
 
 Please accept my blessings. I beg to thank you for your letter dated December 12, 1975, giving a report of your preaching in Greece.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

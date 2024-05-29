@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhavananda ======
+====== Bhavananda ======
 
+<card class="letter">
 My dear Bhavananda,
 
 Please accept my blessings. Just now Syamasundara has gone to Delhi for some meetings with important government ministers. So presently I cannot send the airline ticket for Aravinda, because Syamasundara has kept it somewhere. So as soon as he returns which should be within a few days, then the ticket will be immediately sent to Calcutta.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Whether a duplicate of my yellow fever card can be obtained. I will be going to Nairobi by the 24th of January and shall require it again when I return. Acyutananda knows the hospital where it can be obtained. %%___%% many times for the duplicate certificate.
+</card>

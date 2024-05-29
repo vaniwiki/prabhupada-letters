@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -35,3 +36,4 @@ ACBS:hda\\
 N.B. Syamasundara Prabhu is still unable to pay because the things are not sold yet. Let us wait & see.
 
 In the investment a/c they do not receive less than $100.00 at a time.
+</card>

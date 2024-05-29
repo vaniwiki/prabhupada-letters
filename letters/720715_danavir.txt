@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Danavir ======
+====== Danavir ======
 
+<card class="letter">
 Portland
 
 My dear Danavir,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

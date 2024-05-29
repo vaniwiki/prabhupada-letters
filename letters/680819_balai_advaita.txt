@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balai, Advaita ======
+====== Balai, Advaita ======
 
+<card class="letter">
 My dear Balai dasi and Advaita das,
 
 Please accept my blessings. It was so kind of you that you have sent me a Birthday cake, and you will be pleased to know that Govinda dasi and her husband Gaurasundara, decorated the bread with nice different kinds of candles, and it was offered to Krishna and then I enjoyed the bread, part of it, and the rest was distributed to the devotees. It was very nice. The other day they performed my Birthday Anniversary, very decently, there were good gathering and people appreciated. And before that, there was Janmastami, at night all the Indians here, they joined and they contributed also liberally. So here the news are very good, as you have in NY and the London party they are proceeding to NY today and will reach there and stay for a few days, and then will go to London. Give them hearty send-off and good wishes.
@@ -21,3 +22,4 @@ Thanking you once more for sending me the nice letter and cake and offer my bles
 
 Your ever well-wisher,\\
 ACB
+</card>

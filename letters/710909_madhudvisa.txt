@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. Enclosed please find a copy of my letter to Dr. Bali regarding the program in Madras. There is no need of you going there immediately to see that house in Madras.
@@ -18,3 +19,4 @@ Please offer my blessings to the others. Hoping this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

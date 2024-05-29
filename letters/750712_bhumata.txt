@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhumata ======
+====== Bhumata ======
 
+<card class="letter">
 Cleveland
 
 My dear Bhumata devi dasi:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

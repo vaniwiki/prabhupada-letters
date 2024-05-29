@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hladini (Linda) ======
+====== Hladini (Linda) ======
 
+<card class="letter">
 Detroit
 
 My dear Daughter Hladini Dasi (Linda),
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

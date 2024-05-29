@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kapiladev ======
+====== Kapiladev ======
 
+<card class="letter">
 My dear Kapiladev,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 18, 1969 and have carefully noted the contents. It doesn't matter that you were unable to remain in Vancouver because now you are serving Krishna in the Seattle temple. This is the meaning of transcendental. The devotee of Krishna is beyond the touch of time and space because these are simply external features. The only concern of Krishna's devotee is to serve Krishna to the highest level of perfection in whichever situation Krishna wishes him to remain.
@@ -19,3 +20,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

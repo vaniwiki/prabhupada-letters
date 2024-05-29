@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 My dear Giriraja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 14, 1969, and I have noted the contents carefully. When Lord Caitanya was discussing with Ramananda Roy "who is the best educated man," the answer was that a person who is in Krishna Consciousness is the topmost educated man. Similarly, Prahlada Maharaja stated before his father that one who has taken to Krishna Consciousness, he is supposed to be the best educated man. In __Srimad-Bhagavatam__ also it is said that unless a man is Krishna Conscious, his external advancement of knowledge has no value. On the other hand, any person who is on the platform of Krishna Consciousness is supposed to have acquired all the good qualities of the demigods. So your present engagement is very nice; neither I think that you can be better educated in the universities. Practically we find that in your country there are so many big universities, and the government arranges for educating the entire population, but still the hippies are coming out from the educational institutions. It is understood that in some of the big universities the entire student body has turned to be hippies. Of course the hippy philosophy is nice in the sense that they have been disgusted with the materialistic way of life. Therefore they want to renounce this stereotyped way of life. Unfortunately, they have no good leader, neither they have information that there is another beautiful life in Krishna Consciousness.
@@ -19,3 +20,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

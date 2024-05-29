@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 My dear Sudama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 19, 1969, and I have noted the contents carefully. I understand that Kartikeya has left for San Francisco, and there is no grudge. I hope in the association of the devotees there, he will feel jolly, and his moroseness will be cleared off. So far as you are concerned, I do not think living alone in Honolulu will be very good. If there is possibility of your living in the temple along with the other devotees, then live there. Otherwise you may also return, either in Los Angeles or San Francisco. You can work anywhere because you have got abilities, and from anywhere you can start for Tokyo. So for going to Tokyo it is not very much necessary that you have to remain in Honolulu alone. I do not advise any of my disciples to live alone; that is not good. If Vamanadeva would have lived with you, that would also have been better. So live in the temple, or with Vamanadeva, or else go to Los Angeles or San Francisco. When the time is mature, Krishna will help you to go to Tokyo with some other devotees. We shall see later on.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

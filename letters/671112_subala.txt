@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala,
 
 Please accept my blessings. I am in due receipt of your letter dated Nov. 4. I am very soon coming to San Francisco. I will let you know the exact date sometime next week. In Krishna Consciousness there is variety but there is no discord. We may fight with one another on the point of serving but that is not a discord. We must stick to the service of the Lord very seriously & that will help us make progress. In this connection I have written one letter, to Brahmananda the portion in which you may be interested is sub-joined herein.
@@ -17,3 +18,4 @@ Please accept my blessings. I am in due receipt of your letter dated Nov. 4. I a
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

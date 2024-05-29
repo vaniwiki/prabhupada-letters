@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jairamdas Kuthiala Yatri ======
+====== Jairamdas Kuthiala Yatri ======
 
+<card class="letter">
 Sri Jairamdas Kuthiala Yatri\\
 c/o Sadhu Ashram, 23-D\\
 Chandigarh
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

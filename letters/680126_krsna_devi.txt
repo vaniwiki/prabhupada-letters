@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna Devi ======
+====== Krsna Devi ======
 
+<card class="letter">
 My dear Daughter Krsna devi,
 
 Please accept my blessings. Thank you very much for your letter postdated Jan 25, 1968, and I thank you very much for your proposal to come here and see me. I shall be so glad to see you and Danny personally as soon as possible. I requested you take charge of the Santa Fe Center because you were doing the job very nicely, and I still hope that your presence there will solve all the problems recently created. Mistakes there may be in our life, but if we stick to Krsna Consciousness, Krsna will surely put us on the right path. Your husband Sriman Subala das is living with me very peacefully, and he is carving Radha and Krsna, from hard wood. So this life of material existence is just like hard wood and if we can carve Krsna out of it, that is the success of our life.
@@ -17,3 +18,4 @@ So, at any circumstances you must not forget Krsna. I love you at my heart and t
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Central Bank of India ======
+====== Manager of Central Bank of India ======
 
+<card class="letter">
 Manager, Central Bank of India\\
 Bombay-26
 
@@ -21,3 +22,4 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

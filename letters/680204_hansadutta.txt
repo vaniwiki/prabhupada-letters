@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 New York
 
 My dear Hansadutta,
@@ -21,3 +22,4 @@ I am glad that Purusottama is trying to get our Society recognized in the U.N. a
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

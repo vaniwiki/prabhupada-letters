@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visvanatha Babu ======
+====== Visvanatha Babu ======
 
+<card class="letter">
 Sri Visvanatha Das\\
 Chief Minister of Orissa,\\
 Bhuvaneśvara\\
@@ -32,3 +33,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
+</card>

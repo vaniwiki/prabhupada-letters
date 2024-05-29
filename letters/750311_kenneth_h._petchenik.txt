@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kenneth H. Petchenik ======
+====== Kenneth H. Petchenik ======
 
+<card class="letter">
 Kenneth H. Petchenik\\
 President, Who's Who in America\\
 200 East Ohio Street\\
@@ -25,3 +26,4 @@ I hope this meets you in good health.
 Yours faithfully,\\
 A.C. Bhaktivedanta Svami\\
 ACBS/ps
+</card>

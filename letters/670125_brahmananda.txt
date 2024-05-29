@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 I am in due receipt of your letter of the 21st instant and later on yesterday I have received five tapes in good condition out of which I have sent today two tapes duly recorded. So long am here I shall send you two tapes duly recorded every day and similarly you also send me two tapes daily so that there will be no difficulty.
@@ -54,3 +55,4 @@ Please reply this letter point by point and let me know the progress of the hous
 Yours ever well wisher,\\
 A.C. Bhaktivedanta Swami.\\
 Enclosure check for $10.00
+</card>

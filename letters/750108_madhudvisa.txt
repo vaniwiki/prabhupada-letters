@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 Melbourne
 
 My dear Madhudvisa Svami,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 Enc: 4 sacred threads and mantra sheet\\
 ACBS/ps
+</card>

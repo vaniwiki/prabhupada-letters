@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: All Devotees ======
+====== All Devotees ======
 
+<card class="letter">
 ALL GLORIES TO SRI GURU AND GAURANGA\\
 MEMO TO ALL DEVOTEES\\
 RE: NEW VRINDABAN
@@ -38,3 +39,4 @@ Approved . . .
 Signed . . .
 
 Brahmananda das Brahmacari
+</card>

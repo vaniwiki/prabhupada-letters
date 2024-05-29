@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to thank you for your letter of 29th September 1967 and have noted the contents very carefully. The letter which you have enclosed therein to facilitate my permanent Visa appears to be nice but if an invitation or provisional appointment as lecturer is possible, I think that will be still nicer.
@@ -36,3 +37,4 @@ I am always aspiring after returning at your care and overload you with typewrit
 
 Your ever wellwisher\\
 A.C. Bhaktivedanta Swami
+</card>

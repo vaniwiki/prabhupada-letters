@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. You will be glad to know that after the petty trouble in Calcutta and the city being normal, I have today booked my ticket for San Francisco via Tokyo. I am starting on Wednesday morning (Dec. 13) reaching Tokyo the same day. I shall rest there for 24 hours and then start for San Francisco arriving at 12:45 p.m. on Dec. 14 by flight PAA 846. I have got one general introduction letter from the mayor of Calcutta and it may be that I shall be meeting important people there.
@@ -17,3 +18,4 @@ You will be glad to know that I have arranged with Messrs. Dwarkin & Son, 8/2 Es
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

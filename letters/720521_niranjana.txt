@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Niranjana ======
+====== Niranjana ======
 
+<card class="letter">
 Varanasi
 
 My dear Niranjana,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
+</card>

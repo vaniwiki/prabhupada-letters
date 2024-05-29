@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhadravardhana ======
+====== Bhadravardhana ======
 
+<card class="letter">
 ISKCON\\
 22334 Stuart St.\\
 Berkeley, California 94705
@@ -24,3 +25,4 @@ What I have heard of your compilation of my “Analysis” is well done. It is a
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

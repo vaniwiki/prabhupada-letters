@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mrs. Perera ======
+====== Mrs. Perera ======
 
+<card class="letter">
 Melbourne
 
 My dear Mrs. Perera,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

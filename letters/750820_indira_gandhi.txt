@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Indira Gandhi ======
+====== Indira Gandhi ======
 
+<card class="letter">
 Srimati Indira Gandhi\\
 Prime Minister of India\\
 Parliament House\\
@@ -50,3 +51,4 @@ POINTS TO BE PRESENTED TO PRIME MINISTER INDIRA GANDHI
 5. The young Indian men are not joining our movement. So for conducting all this business we require 50-100 men, foreigners who are trained up. We have no business to take part in politics. We are bringing money from our country outside India. Practically we do not eat by spending India's money. We are therefore requesting to allow our men to work on this mission to distribute prasad without any expenditure from India's side. Even for our own subsistence we shall bring money from abroad, and the bank will certify.
 
 6. If we take to politics we can be asked to leave, but we are only interested in this movement of welfare activities. On this basis we ask for 50-100 men.
+</card>

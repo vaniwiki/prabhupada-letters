@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 My dear Giriraja,
 
 Please accept my blessings. I beg to enclose herewith one letter I have received from your father which will speak for itself. From this letter it appears that you are a good scholar and there is very good background in your educational career. So if you wish to make progress further in your educational career, that will be a nice asset for our Krishna Consciousness Movement. You have a taste for psychology and divinity studies, and this is very nice. Of course, our Krishna Consciousness Movement is on the line of divinity, and we have got so many books about the science of divinity. Unfortunately these books are not yet on the university curriculum, but if you take your post-graduate studies in divinity by comparative study, then in the future we shall be able to present the philosophy of Krishna Consciousness in comparison to other theological presentations. Actually, we are teaching the science of God; we are teaching how to develop our dormant propensity to love God. Being parts and parcels of the Supreme, we have got an eternal affinity to love God. Unfortunately, by our contact with matter we have practically forgotten that we are eternally related with God. In our Krishna Consciousness philosophy there is no question of sectarian views. Krishna Consciousness is the post-graduate study of all religious conceptions of the world. I like the idea that you should make a thorough study of all theological schools, and in the future if you can explain our Krishna Consciousness Movement as the post-graduate presentation of all theological theses, then it will be a great accomplishment. You are a grown-up boy and intelligent also, so you make your position clear and do the needful.
@@ -17,3 +18,4 @@ I hope this will find you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

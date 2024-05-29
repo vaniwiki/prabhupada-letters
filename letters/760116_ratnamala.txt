@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ratnamala ======
+====== Ratnamala ======
 
+<card class="letter">
 New Delhi
 
 My dear Ratnamala devi,
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

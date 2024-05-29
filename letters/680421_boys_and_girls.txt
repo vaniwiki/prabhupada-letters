@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Boys and Girls ======
+====== Boys and Girls ======
 
+<card class="letter">
 My dear Boys and Girls:
 
 Please accept my blessings and my message unto you is that this Krishna Consciousness movement in your country is the greatest boon to you all. Please take full advantage of this movement and be successful within this life. Everyone of us had to pass through many millions of years in the chain of evolutionary process from aquatic to plant life. from plant to reptile life, then to the species of birds, beasts, uncivilized human beings and now this is the golden opportunity with these nice American bodies. You have high intelligence, opulences, birth in the families of the rich nation. Use this opportunity for making life successful and go back to Krishna, back to Home. It is a very scientific movement authorized by the Vedas and accepted by all great acaryas. I think the boy Terry is God-sent. In his past life he must have cultivated this science of Krishna Consciousness and therefore he has automatically been attracted with this movement and who knows if all the boys and girls joining me were not born by the Supreme Will of Krishna just to help me in this great task of distributing Krishna Consciousness in the Western World specifically. I am always at your service and whenever you shall call me I shall come to your place and enjoy your good company. Please try to open a center there as soon as possible. I have instructed Terry about this. Please cooperate with him and chant Hare Krishna and open a center there.
 
 Ever your well-wisher,
+</card>

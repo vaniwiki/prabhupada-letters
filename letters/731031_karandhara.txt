@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Karandhara Das:
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 Please read the articles contributed by my godbrother Sri Dr. B.L. Kapur. How they are liked by our readers?
+</card>

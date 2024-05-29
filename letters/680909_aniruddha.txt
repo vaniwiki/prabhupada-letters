@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 30, 1968, and noted the contents carefully. I have already written one letter to Balarama, as you gave me his address. Regarding Barry Major, I think I have already replied his letter from New York, and I am asking him to see me in San Francisco. You will be glad to know that just yesterday I have come to San Francisco, at 3:00 local time yesterday afternoon. And here the Indians are very willing to cooperate with our temple activities. Regarding minor boys who want to be trained by us; as Brahmacari. It is a very nice opportunity to train such young boys, but there legal implication. Now, our society is a registered, recognized religious society. So we can consult some lawyer whether such religious institution where we are teaching specifically how to become moral in character. We are teaching them prohibition of 4 principle sinful activities, and we are teaching them God consciousness. Whether we can teach such minor boys as Brahmacaris and training them. I am very sorry that these people do not want to see their sons develop high character and knowledge in God consciousness, but they want to push them in the stereotyped way of materialistic life. But even we are prepared to help them, if the legal implications are there, what can we do? You can however encourage the boy as he is making progress, but he may have to wait for initiation because he is not still habituated to give up meat-eating. Any person trying to serve Krishna sincerely, certainly Krishna will give him all opportunity to overcome the difficulties.
@@ -21,3 +22,4 @@ In the meantime, I have received letter from Syamasundara in London, and the pro
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

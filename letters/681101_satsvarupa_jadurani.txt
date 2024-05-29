@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa, Jadurani ======
+====== Satsvarupa, Jadurani ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter of Oct. 28, 1968, along with Jadurani's. There is some difficulty of our temple here, therefore my return address is given to my residential apartment, as above. So you can write me letters to this address. I hope the enclosed statement of certificate of your being an ordained Brahmin will help you.
@@ -32,3 +33,4 @@ Hoping you are in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

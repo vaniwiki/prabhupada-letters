@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Sept. 13, 1970, and I have noted the contents carefully and with pleasure. I am especially pleased to note your fresh enthusiasm after your recent visit to the States, and also your statement that there is renewed determination and fresh enthusiasm in all of the temples you have visited. That is very encouraging to me, and if the GBC continues to work in this way there will be no difficulty in the future.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ks
+</card>

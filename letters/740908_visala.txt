@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visala ======
+====== Visala ======
 
+<card class="letter">
 Vrindaban
 
 My dear Visala das:
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/hdb
+</card>

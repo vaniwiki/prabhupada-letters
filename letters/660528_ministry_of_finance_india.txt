@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ministry of Finance (India) ======
+====== Ministry of Finance (India) ======
 
+<card class="letter">
 Ministry of Finance\\
 Department of Economic Affairs\\
 Government Of India\\
@@ -46,3 +47,4 @@ Thanking you in anticipation,
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami.
+</card>

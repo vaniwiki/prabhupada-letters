@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Bishnu Prasad Mukherjee ======
+====== Dr. Bishnu Prasad Mukherjee ======
 
+<card class="letter">
 Bishnu Prasad Mukherjee,\\
 Department of Pharmacology,\\
 Harvard University,\\
@@ -27,3 +28,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

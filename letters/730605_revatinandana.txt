@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Revatinandana ======
+====== Revatinandana ======
 
+<card class="letter">
 My dear Revatinandana,
 
 Please accept my blessings. I am in due receipt of your letter dated 29-5-73, and accompanying essay, and have noted the contents carefully.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

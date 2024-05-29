@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Loan Agreement ======
+====== Loan Agreement ======
 
+<card class="letter">
 __LOAN AGREEMENT__
 
 I, A.C. Bhaktivedanta Swami, Founder Acarya of the International Society for Krishna Consciousness, have decided to give a loan not to exceed Rs. 800,000/- (Rupees Eight Lakhs only) for the purpose of completing the construction of the Bhaktivedanta Swami Gurukula Ashram. The Management of ISKCON Vrindaban whose signatures appear below, agree on their part to repay this loan in full plus 10% interest not later than June 30th, 1978.
@@ -28,3 +29,4 @@ Sri Bishambhar Dayala
 Gunarnava das Adhikari
 
 Jagadisa das Adhikari
+</card>

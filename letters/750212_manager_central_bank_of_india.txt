@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager, Central Bank of India ======
+====== Manager, Central Bank of India ======
 
+<card class="letter">
 Central Bank of India, Head Office\\
 Mahatma Gandhi Rd.\\
 Fort, Bombay 400 001, INDIA
@@ -24,3 +25,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

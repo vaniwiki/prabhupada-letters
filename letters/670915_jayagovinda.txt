@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Jayagovinda ======
+====== Jayagovinda ======
 
+<card class="letter">
 My dear Jayagovinda,
 
 I understand that the draft board is also disturbing you. It is also disturbing to me, but we have no other recourse than Krishna. Do your best to serve Krishna and he will give you required intelligence to cope with disturbing situations. Kirtanananda is to return to NY soon and I will have to spend $600 somehow or other, so anyway Krishna will arrange.
 
 NB It is expected that one gentleman Dr. Dalmia a prominent Indian business man who is now touring in the U.S. may visit our temple in N.Y. and other centers. If he goes therefore, please try to receive him properly and inform him about our preaching work and our paintings and Lord Jagannatha deity there, offer him some prasa-\\
 [TEXT MISSING]
+</card>

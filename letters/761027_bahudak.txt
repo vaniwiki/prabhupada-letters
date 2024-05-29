@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bahudak ======
+====== Bahudak ======
 
+<card class="letter">
 My dear Bahudak,
 
 Please accept my blessings. I am in receipt of your request for initiations.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

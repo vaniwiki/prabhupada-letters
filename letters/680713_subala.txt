@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala das,
 
 Please accept my blessings. I am in due receipt of your letter of July 11, 1968, and it appears that things are not very happy there, in spite of Woomapati's presence. How is it that you do not get any work? Woomapati knows some technical work. Is there only work in the restaurants, and there is no other work?
@@ -17,3 +18,4 @@ Another boy, Christopher Fynn, may be going there very soon. And this letter cov
 
 Your ever well-wisher,\\
 A.C.B.
+</card>

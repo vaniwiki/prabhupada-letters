@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kancanbala ======
+====== Kancanbala ======
 
+<card class="letter">
 My dear Kancanbala,
 
 Please accept my blessings. I thank you so much for your letter dated February 10, 1969, and I have noted the contents with pleasure. I am pleased to note that you are painting nicely, so go on improving your abilities because we will require so many paintings for our temples. You may paint pictures of Guru Maharaja, me, Bhaktivinode Thakura, Gaura Kisora, Panca-tattva, Sankirtana, etc. We have immense work to be done so you become expert painter. That will engladden me, and it will be a great benefit to all society.
@@ -17,3 +18,4 @@ Thanking you once more for your letter. I hope this will meet you in good health
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tribhuvanatha ======
+====== Tribhuvanatha ======
 
+<card class="letter">
 My dear Tribhuvanatha,
 
 Please accept my blessings. I am in due receipt of your letter dated 10th June, 1972, and with great pleasure I have noted the contents. I was wondering what you are doing, so I am very glad to hear your report of getting the very nice temple in Edinburgh. I think it is Krishna's desire that you have got that place in such perfect location, so now apply yourself very seriously and take advantage of this opportunity for spreading Krishna Consciousness all over that city and in other places in Scotland. The price of 13 Pounds a week for such a large place is not at all bad. Yes, take the place for as many years as they will agree to.
@@ -25,3 +26,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Candanacarya ======
+====== Candanacarya ======
 
+<card class="letter">
 Los Angeles
 
 My dear Candanacarya Das:
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

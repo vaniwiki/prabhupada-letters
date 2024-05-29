@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I am in due receipt of your letter of February 11, 1969, and I was pleased to note the contents therein. I am glad that everyone at your temple is working hard and in full cooperation for keeping the temple nicely and spreading our movement as far as possible. This should be our motto. We have so many things to do for improving our Krishna Consciousness movement, and I am so glad to learn that there is a newspaper report wherein it is said that "Krishna Chants Startle London." Please send me at least one copy of the paper immediately. I want to read it. It sounds very much encouraging.
@@ -21,3 +22,4 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa and Hansadutta ======
+====== Satsvarupa and Hansadutta ======
 
+<card class="letter">
 different branches, as far as possible by Bon Maharaj, Tirtha (Tirta) Maharaj, my humble self and others. Similarly in the Western world, Krishna has sent me some good souls like you, and I hope, even in my absence, (absense) that the spirit of K. C. will be spread.
 
 You will be glad to learn that Kirtanananda is now Tridandi Swami Kirtanananda. I have made him a sannyasi yesterday on the birthday of Lord Krishna, and it was unexpectedly a very successful ceremony. The moment he was being offered sannyasa there was some ceremony of Janmastami (Janamasthmi) in the temple, and hundreds of men and women congratulated the young sannyasi. Somebody remarked that he looked like Lord Chaitanya. He will be going back to the States very soon; in the meantime I shall try to utilize this "white sannyasi" for recruiting some members in India, and then he will go back. His field of work is certainly there; but if he can be used here also, I will try for it.
@@ -35,3 +36,4 @@ A.C. Bhaktivedanta Swami
 Prabhus:
 
 Thank you for your letters. I am indeed enjoying my stay here in Vrindaban, and fully appreciate the great opportunity and responsibility that has been placed on me. My love to all. Kirtanananda
+</card>

@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. Now I understand that I may return with my visitors visa which can be altered once I am in USA. If MacMillan is silent then immediately send me the correspondence which Dvarakadhisa had with the Japanese printers. Most probably I shall stop in Tokyo & hand over the printing to them. Hope you are well.
 
 ACB
+</card>

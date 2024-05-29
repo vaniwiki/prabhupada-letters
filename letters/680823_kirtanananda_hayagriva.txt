@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda, Hayagriva ======
+====== Kirtanananda, Hayagriva ======
 
+<card class="letter">
 Jaya Om Visnupada Paramahamsa Parivrajakacarya Astottara Sata\\
 (108) Srimad Bhaktisiddhanta Sarasvati Goswami Prabhupada Ki Jaya\\
 Namah Om Visnupadaya Krsnapresthaya Bhutale\\
@@ -45,3 +46,4 @@ A.C. Bhaktivedanta Swami
 P.S. The goat can be named __Revachhagai,__ and the cow can be named as __Surabhigai.__ Also you will be pleased to note that I've asked Gaurasundara to make a layout of the whole land and I shall place 7 different temples in different situation, as prototype of Vrindaban. There will be seven principle temples, namely, Govinda, Gopinatha, Madana Mohana, Syamasundara, Radha Ramana, Radha Damodara, and Gokulananda. Of course in Vrindaban, there are about more or less, big and small, about 5,000 temples; that is a far distant scheme. But immediately, we shall take up constructing at least 7 temples in different situations, meadows and buildings. So I am trying to make a plan out of the description of the plot of our leased land. And the hilly portions may be name as Govardhana. Govardhana-side, the pasturing grounds for the cows may be allotted.
 
 N.B. Hansadutta is performing kirtana in the park, and yesterday he collected 24 dollars. There is some picture in the paper and I am sending one herewith.
+</card>

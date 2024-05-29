@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I thank you for your nice letters of Jan. 11, and 13. I thank you for your kind appreciation for the tapes received there. Also, thank you that you are trying to organize all the artists, and doing so nicely. No, there is no color picture of Lord Caitanya's birthplace and temple at Mayapur. You can color with your choice. Yes, try at your convenience to paint pictures from the Bhagavat statement, in terms of the purport and explanation.
@@ -21,3 +22,4 @@ Please continue your excellent service and I will always be so pleased with your
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

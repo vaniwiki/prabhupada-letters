@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Locanananda ======
+====== Locanananda ======
 
+<card class="letter">
 My dear Locanananda,
 
 Please accept my blessings. I am in receipt of your letter dated December 2, 1973. From the Vedic point of view a man can have more than one wife provided he can maintain each of them very nicely. The practical example is our Lord Krsna. He had 16,108 wives but for each wife he maintained a palace with servants and everything. We do not encourage more than one wife, but provided the man is highly responsible and conscientious and the woman agrees then we have no objection.
@@ -26,3 +27,4 @@ Sriman Locanananda das\\
 Iskcon\\
 4 rue Le Sueur\\
 Paris, France 75016
+</card>

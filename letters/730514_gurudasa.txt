@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I am in due receipt of your letter dated 6/5/73. I have noted the contents carefully.
@@ -24,3 +25,4 @@ I am advised by my Calcutta physician that I should go back to India. So I am re
 So far as Mr. Sarkar, our engineer, is concerned, if he becomes too much of a disturbance then you may dismiss him.
 
 Hoping this meets you in good health.
+</card>

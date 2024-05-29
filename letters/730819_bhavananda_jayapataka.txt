@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhavananda, Jayapataka ======
+====== Bhavananda, Jayapataka ======
 
+<card class="letter">
 Mayapur
 
 My dear Bhavananda and Jayapataka,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Please send me regular reports fortnightly. You have not written anything about Sanitary & electricity accomplishment. I guess everything is stopped for want of cement.\\
 ACBS:hda
+</card>

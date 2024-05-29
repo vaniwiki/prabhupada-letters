@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am pleased to inform you that our journey from New York to Hamburg was very comfortable, and we safely arrived at the scheduled time. The boys were present to receive us, and the apartment they have selected is very nice. I am sending herewith a letter addressed to Hayagriva. The second part of the Ginsberg conversation article should not be published, and our policy should be to only publish our Krishna Consciousness articles in various forms. We are not concerned with any other movement save and except Krishna Consciousness in its pure form. In India it is said that a little bit of a pure thing is much better than huge volumes of impure, adulterated things. So please try to follow this policy and publish in __BTG__ only pure Krishna Conscious articles.
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I have got now connection with a firm dealing in musical instruments in Delhi. I think they are better than Dwarkin and Sons\\
 P.S. Hand over to Hayagriva the enclosed letter. I didn't know where else to send it to him.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acarya Prabhakar Mishra ======
+====== Acarya Prabhakar Mishra ======
 
+<card class="letter">
 New Delhi
 
 My dear Acarya Prabhaker,
@@ -37,3 +38,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

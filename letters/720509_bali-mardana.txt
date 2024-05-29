@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali-mardana ======
+====== Bali-mardana ======
 
+<card class="letter">
 My dear Bali-mardana,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 1, 1972, and I have noted the contents carefully. I have written one letter to Rupanuga that he should take your help how to organize the weekly inventory and payment for books distributed, so you may see that letter from him and do the needful. I am very much pleased that you are producing so much nice literatures! You have done something since becoming manager of ISKCON Press, that is your credit. But one thing, you say that portions of Bhagavatam are missing. Pradyumna Prabhu says that he has sent the synonyms for chapters 15-33 in Canto 3 from Australia some time ago, but that the situation for receiving mail there in New York temple is not very good and that often letters are neglected or lost. Why these things are going on? I have appointed this GBC to maintain the standards. I don't do these things. I am always careful about the mail and the money. This is very serious business, if we go to so much effort to make these books available to the human society, and then no one takes care and portions are lost, and no money is paid by the temples to Book Fund, then what is the use? We must have a very efficient office at each temple, with facilities for prompt distribution of mail to the proper persons, not that the mail is simply left in a corner for everyone to pick through and find out for themselves. No, it should be delivered to the proper persons. And strict accounts must be kept. Atreya Rsi is there and he is always wanting some such engagement, why you do not engage him in being temple treasurer, keeping the accounts and records, answering the telephone? We must be very careful not to slide back into whimsically doing everything. You are GBC, and I see by the results of your being there that you are able to do these things, why you do not help Rupanuga and do them?
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 cc: Rupanuga
+</card>

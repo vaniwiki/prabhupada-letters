@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I am very glad to receive your letter dated February 28, and noted the contents with great pleasure. The transcendental experience which you had during kirtana performance at the Loyala University is very nice. Relishing the transcendental sweetness of Krishna Kirtana is only possible when one is actually advanced, towards perfection. Srila Rupa Goswami used to say, wishing if he had possessed millions of ears, and billions of tongues then he could chant the Hare Krishna mantra a little bit relishably. In the conditioned stage, we chant Hare Krishna mantra officially without any attachment and try to finish the rounds as soon as possible. Sometimes we also forget to chant the prescribed number of rounds. But Haridasa Thakura even at the last stage of his life, he was chanting 300,000 beads although Lord Caitanya personally asked him to not labor so hard. But Haridasa Thakura said that he would continue the practice till the end of his life. So that is the position of transcendental taste. Please therefore chant very sincerely with your present aptitude of mind and Krishna will bless you more and more in understanding this secret of transcendental vibration. Of course, sometimes the public may misunderstand such tears of bliss, so we may better have to check it from the vision of ordinary persons.
@@ -20,3 +21,4 @@ So far as painting on the body the Names of the Lord, this is all right. But the
 Please ask Janardana what is the difficulty in editing BTG in French language. Of course, I received his letters that he was so much busy in so many ways, but still, this is also one of his responsibilities. In the absence of BTG printing, the machine is being used for some other purposes. Of course, when I was in Montreal, I think I gave permission to print some outside work, to get some money, but that does not mean that we should stop our own work, and print something in our press which is against our principles. Please try to convey this news to both Janardana and Dayala Nitai and they may please give attention.
 
 [PAGE MISSING]
+</card>

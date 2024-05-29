@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 25, 1969, and I have noted the contents carefully. I have already sent Pradyumna the schedule of my touring in this part of the country. I did not know that there was so many important engagements in Columbus because formerly I was informed only that on the 12th there was an important meeting. So as I am going on the 9th, I shall be staying there for six days, till the 14th. On the 15th I will be going to North Carolina. So if you think that in Columbus there are many other engagements, then I may come back again to Columbus and stay there for as long as you like, and then I shall go on to New Vrindaban. Best thing will be if you talk with Bhurijana in North Carolina and arrange things mutually. I don't think he will be able to change the present arrangements because he has sent me one press cutting in which it is advised that I shall speak there on the 16th. Therefore, the best thing may be to come back. So you may not make any program for me on the 15th, 16th and 17th. Then on the 18th we can make more programs at Columbus.
@@ -17,3 +18,4 @@ I am enclosing one letter to be handed over to the girl, Cynthia Daily, who is t
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

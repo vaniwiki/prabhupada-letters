@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lokanatha ======
+====== Lokanatha ======
 
+<card class="letter">
 Kanpur
 
 My dear Lokanatha,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I am in due receipt of your letter of April 28, 1967, and thank you for returning the check. For the balance eight books you can send me your check conveniently, there is no hurry.
@@ -17,3 +18,4 @@ It is so pleasing to me that you are giving service to Krishna by your intellige
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta, Swami
+</card>

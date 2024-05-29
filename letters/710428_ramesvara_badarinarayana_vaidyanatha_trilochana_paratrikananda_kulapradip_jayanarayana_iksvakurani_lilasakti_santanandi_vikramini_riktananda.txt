@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Los Angeles devotees ======
+====== Los Angeles devotees ======
 
+<card class="letter">
 Los Angeles
 
 My dear Sons and Daughters,
@@ -40,3 +41,4 @@ Please accept my blessings. By Sriman Karandhara Prabhu's recommendation, I am v
 12. (Richard Arthur) = __Riktananda.__ Riktananda means one who takes pleasure living alone.
 
 Now it is your duty that you always must keep yourselves fit in Krishna's service. The formula is very simple and if you will follow undeviatingly then your rapid advancement in Krishna Consciousness is certain. All of you must chant at least 16 rounds of beads daily and without fail. That is first and foremost. And follow all the rules and regulations of devotional life rigidly. Read all our books, attend classes and aratis, go on street Sankirtana, and always be thinking of Krishna. That is the point. Somehow or other always be thinking of Krishna. Then you will be happy and your going back to home, back to Godhead will be certain.
+</card>

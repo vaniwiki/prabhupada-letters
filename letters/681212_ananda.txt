@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ananda ======
+====== Ananda ======
 
+<card class="letter">
 Vancouver
 
 My dear Ananda Das,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Are you getting BTG from New York? We have now __Bhagavad-gita As It Is__ published by MacMillan Company. Copies can be had from New York.
+</card>

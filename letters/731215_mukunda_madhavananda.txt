@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda, Madhavananda ======
+====== Mukunda, Madhavananda ======
 
+<card class="letter">
 London
 
 My dear Mukunda and Madhavananda,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:Kda\\
 c.c. Jaya Laksmana das
+</card>

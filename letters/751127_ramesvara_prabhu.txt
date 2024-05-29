@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara Prabhu ======
+====== Ramesvara Prabhu ======
 
+<card class="letter">
 My dear Ramesvara Prabhu,
 
 Please accept my blessings. I am in receipt of your letters dated November 18th and 20th 1975. I have noted the contents carefully.
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I am in due receipt of your letters of January 23, 1969, and I have carefully read the contents. For the present I think you cannot leave Montreal for doing work on your draft status. Your service is much too valuable there. Even if this means that in the future you cannot leave for the United States, what is the harm in this? Everywhere you are it is the same because Krishna is there, and you can perform devotional service anywhere you are. There is no need to be attached to any particular land on account of some mayic relationship. All places belong to Krishna, and wherever we get the chance for serving Him, that land is our God-gifted land. Anyway, you may write to your draft board and explain to them that you are studying to be a minister of Krishna Consciousness but you are at present unable to leave Montreal. When your duties are not so much needed in Montreal you will come to the United States to resume your attempts. Write to them in this way, and let us see what is their response.
@@ -20,3 +21,4 @@ So far as reading scriptures out loud, this depends upon the circumstances. If y
 Regarding the teaching at Sir George Williams University, if you like you may take charge, I have no objections. But if there is somm one who may speak better at present, you should give him a chance. In either case, you should please try to introduce into every college and university our Bhagavad-gita As It Is. That will surely be a great service. The Bhagavad-gita is well read everywhere, and you need only to convince them that this is the best edition.
 
 [PAGE MISSING]
+</card>

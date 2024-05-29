@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Santosh Kumar ======
+====== Dr. Santosh Kumar ======
 
+<card class="letter">
 Dr. Santosh Kumar\\
 Dept. of Medicine\\
 McMaster University\\
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/psk
+</card>

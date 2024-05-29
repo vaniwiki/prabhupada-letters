@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraj Prabhu ======
+====== Giriraj Prabhu ======
 
+<card class="letter">
 Dear Giriraj Prabhu:
 
 Please accept my humble obeisances. Ramesvar has written that Dollars 78,531.75 has been transferred from L.A. to Bombay American Express account. Please have this money transferred by Telegraphic Transfer to Punjab National Bank, Vrindaban Branch a/c No. 6685, ISKCON Savings Fund.
@@ -28,3 +29,4 @@ Brahmananda Swami
 Personal Secretary
 
 Approved A.C.B.S
+</card>

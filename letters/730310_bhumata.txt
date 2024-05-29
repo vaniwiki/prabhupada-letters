@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhumata ======
+====== Bhumata ======
 
+<card class="letter">
 My dear Bhumata dasi:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 2, 1973. I have examined the contents carefully and I think you are doing nice.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
+</card>

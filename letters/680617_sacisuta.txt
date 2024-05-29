@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sacisuta ======
+====== Sacisuta ======
 
+<card class="letter">
 My dear Sacisuta,
 
 Please accept my blessings. I am very much thankful to you for your letter dated June 12, 1968. The science of Krishna Consciousness is transcendental science which is never understood by materialistic persons. Therefore, the Vedas order is that one must approach a spiritual master to understand that transcendental science. And the qualification of a spiritual master is that he has to have received the knowledge similarly from a bona fide spiritual master, and the result is that a spiritual master is completely convinced of the existence of the Supreme Personality of Godhead, and he is fixed. That is the qualification of the spiritual master. In other words, this science is appreciated by service attitude only. It is never understood by any challenging spirit. One who is submissive and ready to give aural reception of the transcendental message, to him only the transcendence becomes revealed. So the more you become in service attitude for Krishna, Krishna will reveal Himself to you. Krishna is within you and He is awaiting your surrender and service, and as soon as He sees that you are seriously in serving mood, you will understand everything about Krishna---His qualities, His form, His pastimes, His entourage, and His abode. I am very glad to know that you are gradually stepping upwards by your service attitude and I would request you to prolong this attitude eternally, and Krishna will reveal Himself unto you continually. In other words, Krishna is unlimited, but the more we advance in service attitude, we appreciate Him in newer and newer features. There is a verse spoken by Yamuna Acarya. He says, since I have begun to realize the newer and newer features of Krishna, I have forgotten more and more about material enjoyment. And the summit of material enjoyment is sex. And Yamuna Acarya says that whenever I think of sex, I spit on it. This is the state of Krishna Consciousness. The more you forget about nonsense material enjoyment, you must know you are advancing in Krishna Consciousness. You haven't got to ask anybody how you are making progress, you will realize yourself by this test. Just like a person taking lunch, he will feel satisfied of hunger and strength, himself. Similarly, the more you serve Krishna, you will forget material hankerings and get spiritual strength. This is the test.
@@ -27,3 +28,4 @@ I am very glad to learn that you are at Los Angeles temple. Please try to improv
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

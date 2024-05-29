@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinatarini ======
+====== Dinatarini ======
 
+<card class="letter">
 My dear Dinatarini,
 
 Please accept my blessings. I am in due receipt of your letter dated March 29, 1973 and I have noted the contents. I have received also the photograph of Radha-Kalachandji and they are looking transcendentally beautiful. Always keep to this high standard of Deity worship, never become neglectful. Everything must be done very timely, and the temple must be immaculately cleansed daily. These things, cleanliness and promptness, are the most important points for Deity worship, so be very vigilant in this way.
@@ -26,3 +27,4 @@ Srimati Dinatarini Devi Dasi
 ISKCON Gurukula
 
 ACBS/nkd
+</card>

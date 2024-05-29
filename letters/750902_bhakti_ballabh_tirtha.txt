@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhakti Ballabh Tirtha ======
+====== Bhakti Ballabh Tirtha ======
 
+<card class="letter">
 Sri Bhakti Ballabh Tirtha, Secretary\\
 Sri Caitanya Gaudiya Math\\
 35, Satish Mukherjee Road,\\
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. I am enclosing herewith a copy of the latest "Hare Krishna Explosion" which is published from our Hyderabad branch for your perusal.\\
 ACBS/bs
+</card>

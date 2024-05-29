@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balabhadra, Ratnaranjini ======
+====== Balabhadra, Ratnaranjini ======
 
+<card class="letter">
 Edinburgh, Scotland
 
 My dear Balbhadra das and Ratnaranjini,
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
+</card>

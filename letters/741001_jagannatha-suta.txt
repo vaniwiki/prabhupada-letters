@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagannatha-suta ======
+====== Jagannatha-suta ======
 
+<card class="letter">
 Brooklyn
 
 My dear Jagannatha Suta dasa:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

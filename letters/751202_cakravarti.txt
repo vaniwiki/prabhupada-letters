@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cakravarti ======
+====== Cakravarti ======
 
+<card class="letter">
 My dear Cakravarti Prabhu,
 
 Please accept my blessings. I have accepted the following list of Boy and Girls as my duly initiated disciples. So you are the president there at Schloss Rettershof, it is your duty to see that the standards of Krishna Consciousness are always maintained, especially chanting 16 rounds daily, observing the four regulative principles, no meat, fish, eggs, no intoxication, no gambling, and no illicit sex life. The students must all attend morning and evening arati and classes. If we follow this simple program along with regular sankirtana, distributing the books and preaching, then there will be no fall down. Just like if one keeps himself clean and properly nourished by eating regularly, he will not infect disease, but if there is neglect, then there is room for infection, he becomes weak and fall prey to disease. So Krishna consciousness is the medicine for the material disease, and chanting Hare Krishna mantra sincerely is the basic ingredient of that medicine.
@@ -31,3 +32,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

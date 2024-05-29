@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 25 January, 1970, along with two enclosures; namely the agenda for West coast presidential meeting and list of preparations offered to the Deities on the Disappearance Day of my Guru Maharaja.
@@ -32,3 +33,4 @@ Please offer my blessings to all the boys and girls and devotees there. I hope t
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

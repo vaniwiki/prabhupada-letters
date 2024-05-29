@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna, Visnujana ======
+====== Tamala Krsna, Visnujana ======
 
+<card class="letter">
 My dear Tamala Krishna and Visnujana,
 
 Please accept my blessings. I am in due receipt of your long letter dated February 10, 1969, along with Purusottama's letter of the same date, and I shall reply conveniently. In the meantime, I am enclosing herewith the certificates and letters duly signed by me, and as you need them urgently I am dispatching them first.
@@ -19,3 +20,4 @@ Hope this meets you all in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

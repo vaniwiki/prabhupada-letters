@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Abhirama ======
+====== Abhirama ======
 
+<card class="letter">
 My dear Abhirama:
 
 Please accept my blessings and I beg to acknowledge receipt of your unsigned report dated the 18th of February. I have just arrived here a few days ago and by the 15th I shall go to Mayapur on the festival celebration of Lord Caitanya's Appearance Day. We are expecting many thousands to visit there and our nice building is almost completed.
@@ -22,3 +23,4 @@ Yes, you are feeling increase in strength with increase in service, and I am not
 I hope this meets you in good health and I beg to remain
 
 [PAGE MISSING]
+</card>

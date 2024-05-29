@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Swarupa Damodar ======
+====== Swarupa Damodar ======
 
+<card class="letter">
 Sriman Swarupa Damodar das Brahmachary\\
 c/o ISKCON/ Hare Krishna Land\\
 Juhu Beach, Bombay 400 054
@@ -29,3 +30,4 @@ It is good that you got your immigration status in the U.S. They only allow qual
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

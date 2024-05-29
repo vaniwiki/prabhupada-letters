@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saurabha ======
+====== Saurabha ======
 
+<card class="letter">
 Vrindaban
 
 My dear Saurabha das:
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: Bombay
+</card>

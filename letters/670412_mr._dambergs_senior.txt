@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Dambergs (senior) ======
+====== Mr. Dambergs (senior) ======
 
+<card class="letter">
 Dear Mr. Senior Dambergs,
 
 Kindly accept my greetings. I am unknown to you but I have heard about you from your very good grandson Sriman Janardana (Janis). I have heard that you have been ailing since a long time but I have heard also that you are a great devotee of Lord Jesus Christ. It is very good. I am also an insignificant servant of Lord Jesus Christ because I am preaching the same message as Lord Jesus did. I'm preaching God consciousness or Krishna consciousness. Fools thought that Lord Jesus Christ was dead by crucifixion but He resurrected. All living entities are parts and parcel of the Supreme Lord and therefore they are also eternal. All our ailments are due to the external body. Although we have to suffer some time from bodily inconveniences specially in the old age, still if we are God conscious, we shall not feel the pangs. The best thing is therefore to Chant the holy Name of the Lord Constantly. I would you request you to chant always God's holy Name. We are chanting God's holy name always and instructing our students to do so. If you have any holy name for God do chant Him always and it will do you the greatest benefit. And by chanting so when you will be remembering Him always then you transfer to the Kingdom of God is guaranteed. When you return to the Kingdom of God there is no necessity to come back again to the rotten world full of miseries. We are chanting God's Name as
@@ -22,3 +23,4 @@ Hope you will understand me right. May Krishna give you all peace of mind. You a
 
 Yours very sincerely\\
 A.C. Bhaktivedanta Swami
+</card>

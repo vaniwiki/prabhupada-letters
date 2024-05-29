@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mulchand Deomal ======
+====== Mulchand Deomal ======
 
+<card class="letter">
 Sriman Mulchand Deomal\\
 Dadi Bathena Bldg,\\
 Palia St. Nanpura\\
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. You will be glad to know that I have been invited by some Russian University to deliver lecture. Most probably I shall be going there very soon. ACB\\
 ACBS/adb
+</card>

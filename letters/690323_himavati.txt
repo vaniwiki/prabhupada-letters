@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Himavati ======
+====== Himavati ======
 
+<card class="letter">
 My dear Himavati,
 
 Please accept my blessings. I am in due receipt of your nice long letter of March 17, 1969, and I thank you very much for it. Your feelings of appreciation are too much kind, and I can see you are making good advancement with your humble attitude of service to the Lord and His devotees. This is very nice. Yes that is the way---Krishna wants to be approached through His devotee. Just like the prayers we sing---yasya prasadat bhagavata prasada.
@@ -31,3 +32,4 @@ I hope this meets you in very good health, and I shall be anxiously awaiting our
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

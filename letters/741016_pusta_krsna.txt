@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pusta Krsna ======
+====== Pusta Krsna ======
 
+<card class="letter">
 Durban, South Africa
 
 My dear Pusta Krishna Swami:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

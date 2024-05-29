@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda dasi,
 
 Please accept my blessings and offer the same to Gaurasundara. I am in due receipt of your letter dated October 5th, 1970. Now I am in India, extensively touring all over the land. From Calcutta I have come to Bombay, then from Bombay to Amritsar, then again down from Amritsar to Bombay, for the last two months. I am trying to establish a center in Bombay along with some influential friends.
@@ -21,3 +22,4 @@ I am always thinking of returning to Hawaii again and staying there conveniently
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

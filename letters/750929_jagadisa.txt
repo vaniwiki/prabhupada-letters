@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagadisa ======
+====== Jagadisa ======
 
+<card class="letter">
 Dallas
 
 My dear Jagadisa das:
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. What will you do with the old building?\\
 ACBS/bs
+</card>

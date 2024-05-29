@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vrndavana Candra ======
+====== Vrndavana Candra ======
 
+<card class="letter">
 My dear Vrndavana Candra,
 
 Please accept my blessings. I beg to acknowledge receipt of your encouraging letter dated 24th May, 1970.
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

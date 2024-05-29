@@ -7,8 +7,10 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. To day I have sent you the first installment of "Narada Bhakti Sutras". Please let me know how do you like it or if there is any difficulty to understand it. On hearing from you I shall take up the next installment. Here there is no typewriter nor any typist. Neal has not come here. I do not know where he is. Therefore you have to type the tapes there is no other alternative. Howard does not wish to work on the tapes. Today I have got a letter from him (Neal) from somewhere in California but there is no address.
+</card>

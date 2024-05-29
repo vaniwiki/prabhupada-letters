@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brsni Prabhu ======
+====== Brsni Prabhu ======
 
+<card class="letter">
 My dear Brsni Das Prabhu,
 
 Please accept my blessings. I am in receipt of your letter dated September 9, 1975, I have noted the contents carefully.
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

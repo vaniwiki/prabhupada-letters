@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. In your last letter you asked how to celebrate Krishna's and Radha's birthday. As last year, on K's with fasting up to midnight, and R's fasting up to noon. Then feasting. Certainly those who take Krishna's advent as that of an ordinary man are great fools, but if one can simply understand the transcendental nature of this event as well as His disappearance, he becomes immediately liberated.
@@ -19,3 +20,4 @@ I am a little disturbed to learn about your financial position as serious. I thi
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

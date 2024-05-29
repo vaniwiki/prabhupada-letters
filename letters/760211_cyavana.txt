@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cyavana ======
+====== Cyavana ======
 
+<card class="letter">
 My dear Cyavana Swami,
 
 Please accept my blessings. I have received your letter dated 6 February, 1976 and have noted the contents. I was informed about your coming to Calcutta, and I understood that you were coming to see me. Then I heard that you left. Now I am pleased that you are in Vrndavana and engaged in the Deity worship. But I think it will be good if you live with me and assist me in so many ways. Here there are other GBC and sannyasis like Jayapataka Maharaja, Bhavananda Maharaja, Tamala Krsna Gosvami, etc. It will be nice if you stay with experienced men. I hope you will be benefited in this way.
@@ -17,3 +18,4 @@ Hoping this finds you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

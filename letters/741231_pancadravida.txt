@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pancadravida ======
+====== Pancadravida ======
 
+<card class="letter">
 Bangkok
 
 My dear Pancadravida Svami,
@@ -24,4 +25,4 @@ I hope this meets you in good health.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
-ACBS/ps
+ACBS/ps</card>

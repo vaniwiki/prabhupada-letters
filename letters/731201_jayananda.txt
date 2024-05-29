@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayananda ======
+====== Jayananda ======
 
+<card class="letter">
 My dear Jayananda,
 
 Please accept my blessings. I am in receipt of your letter dated November 13, 1973. I was very happy to hear from you. I am always thinking of you and praying to Krsna for your advancement in Krishna Consciousness.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/Kda
+</card>

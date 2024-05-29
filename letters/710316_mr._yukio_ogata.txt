@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Yukio Ogata ======
+====== Mr. Yukio Ogata ======
 
+<card class="letter">
 Mr. Yukio Ogata\\
 c/o Ushigome Post Office\\
 Tokyo, Japan
@@ -23,3 +24,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

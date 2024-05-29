@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 Sri Sri Guru Gauranga Jaya
 
 A.C. Bhaktivedanta Swami\\
@@ -33,3 +34,4 @@ Soon after you receive my letter let me know what arrangement you have made. I h
 
 Affectionately yours,\\
 A.C. Bhaktivedanta Swami
+</card>

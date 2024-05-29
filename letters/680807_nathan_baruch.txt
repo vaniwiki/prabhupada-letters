@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nathan Baruch ======
+====== Nathan Baruch ======
 
+<card class="letter">
 My dear Nathan Baruch,
 
 Please accept my blessings. I am so glad to receive your letter, without date. (In future, while corresponding, please try to put the date of writing.) I received your letter a couple of days ago, but could not reply you due to the mail strike. It is expected that the mail strike will end by tomorrow, as it is announced about their settlement, but still I am not certain. I am therefore replying your letter by posting at Boston. Hope you will receive it duly.
@@ -21,3 +22,4 @@ Hope you are well and I shall be glad to hear from you by return of post. Please
 
 Your ever will-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

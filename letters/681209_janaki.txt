@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janaki ======
+====== Janaki ======
 
+<card class="letter">
 My dear Janaki,
 
 Please accept my blessings. With the greatest satisfaction I have just now read over your nicely composed and hand-written letter of December 12, 1968 and I thank you so much for the kind sentiments you have expressed therein. I had also been thinking of you because you were thinking of me, but as your letter has arrived first it is for me to answer it. Actually, I always think of you as my naughty daughter and from the start of this movement, you and your very good husband have always shown to be very sincere and important members of our society. So I know that both of your services are most sincere and I will always appreciate this.
@@ -21,3 +22,4 @@ I have noted that you describe yourself as being just a "lump of ignorance". Act
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

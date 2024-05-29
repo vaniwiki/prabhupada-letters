@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: ISKCON Temple Presidents ======
+====== ISKCON Temple Presidents ======
 
+<card class="letter">
 3764 WATSEKA AVENUE - LOS ANGELES,\\
 CALIFORNIA 90034
 
@@ -53,3 +54,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS: db
+</card>

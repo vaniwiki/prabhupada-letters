@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mangalniloy ======
+====== Mangalniloy ======
 
+<card class="letter">
 Sri Mangalniloy Brahmacari\\
 Sri Caitanya Gaudiya Math\\
 35 Sri Satish Mukhergee Road\\
@@ -33,3 +34,4 @@ Kalighat Calcutta - 26, INDIA\\
 \\
 P.S. I sent one letter to Spd. Madhab Maharaj recently but I have received\\
 No reply from him.
+</card>

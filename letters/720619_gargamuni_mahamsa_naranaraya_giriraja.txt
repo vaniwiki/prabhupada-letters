@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni, Mahamsa, Naranaraya, Giriraja ======
+====== Gargamuni, Mahamsa, Naranaraya, Giriraja ======
 
+<card class="letter">
 My dear Gargamuni, Mahamsa, Naranarayana, and Giriraja,
 
 My dear boys, kindly accept my blessings, and I hope by Krishna's Grace you are doing all well. This morning I received one telephone message that there is some misunderstanding between yourselves, and Giriraja, who is in charge of Bombay center. I may inform you in this connection that what I am doing to push on this great movement in the world is all with your cooperation. It is not possible for me alone to execute this great responsibility. Kindly, therefore, abide by the direction of the man in charge of the center. If there is lack of obedience then there cannot be discipline, and without discipline we cannot manage a huge world organization. I shall be returning by September next. Kindly therefore do not make any fracture during this period at least, and when I return if you all don't like the man in charge surely I shall replace him out of you. But for the time being, please do not make any rupture, and please obey by the direction of Giriraja Brahmacari.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

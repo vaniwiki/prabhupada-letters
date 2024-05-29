@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 Tokyo, Japan
 
 My dear Sudama,
@@ -35,3 +36,4 @@ P.S. I have just received your letter dated 15th January, 1971. You may send pas
 
 Bruce has had a change of heart and the day after tomorrow, January 25th, he will take initiation. So first of all let the two go there and then after we finish our Indian business, we shall think of going to Tokyo. For the present, though, both Kartikeya Maharaja and Bruce Prabhu should be a great help to you there.\\
 ACBS
+</card>

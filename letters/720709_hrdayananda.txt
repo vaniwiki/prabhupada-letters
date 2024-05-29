@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Hrdayananda ======
+====== Hrdayananda ======
 
+<card class="letter">
 [To Hrdayananda]
 
 Now you must all three, along with the other sannyasis, GBC members, and other leaders become very serious to actually give the human kind the greatest welfare, namely, this Krishna Consciousness movement. Your task ahead is very huge, but it will be quite simple and easy if you simply do as I am doing. You must become conversant in every feature wherever it is needed throughout the society. Out first business is to preach to the devotees and to maintain the highest standard of Vaisnava education. Management must be there as well, just as I am preaching daily from S. Bhagavatam, B.G., but I am also going to the bank, making investments, seeing the trial balance making letters, seeing how things are going on, like that. So you must become expert in all these matters, just as I am giving you example . . . Syamasundara has passed on your telephone message that you wish to open a Vedic college or school of higher Krishna Consciousness education there at Houston. That is not very much desirable. Actually, every center should be a college, and this is our training, singing dancing, working, temple worship, like that . . .
 
 Try to understand the subject matter from different varieties or approaches. For example, we know from Bhagavad-gita that Krishna says He is the taste in water. Now try to understand just __how__ Krishna is that taste in water, that is the high-class education.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Bombay
 
 Dear Tamala Krsna Maharaja:
@@ -38,3 +39,4 @@ A.C. Bhaktivedanta Swami
 
 Enclosure: news clippings\\
 ACBS/sdg
+</card>

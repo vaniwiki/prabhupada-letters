@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uttamasloka ======
+====== Uttamasloka ======
 
+<card class="letter">
 Dear Uttama Sloka,
 
 Please accept my blessings. I have accepted for first initiation the devotees recommended by you, and their spiritual names are as follows:
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

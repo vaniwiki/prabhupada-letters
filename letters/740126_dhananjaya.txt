@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dhananjaya ======
+====== Dhananjaya ======
 
+<card class="letter">
 Rome
 
 Dear Dhananjaya,
@@ -20,3 +21,4 @@ A.C. Bhaktivedanta Swami
 
 I hope you are going to Mayapur also.\\
 ACBS/sdg
+</card>

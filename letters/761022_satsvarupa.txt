@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your report dated October 4, 1976.
@@ -29,3 +30,4 @@ A.C. Bhaktivedanta Swami
 N.B. Please find enclosed some questions and answers I have given for Bhavans Cultural and Religious Journal in Bombay. This may give you some help in writing your book.
 
 ACBS/jda
+</card>

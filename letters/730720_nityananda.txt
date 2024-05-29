@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nityananda ======
+====== Nityananda ======
 
+<card class="letter">
 New Orleans
 
 Dear Nityananda,
@@ -34,3 +35,4 @@ A.C. Bhaktivedanta Swami
 
 NB: Thank you very much for your two checks; I am placing them in my appropriate accounts.\\
 ACBS/sdg
+</card>

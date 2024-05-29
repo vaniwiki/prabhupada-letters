@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna ======
+====== Yamuna ======
 
+<card class="letter">
 My dear Yamuna,
 
 Please accept my blessings. I beg to thank you for your letters dated July 16th, 22nd and 27th, and I have noted all of the contents carefully. I have also received some photographs of your Rathayatra Day ceremony, sent to me by Sri Govinda. It appears to be very, very nice, and I am having these photographs reprinted together on one page so I may show the others how nicely you have done it. I have already told Gurudasa something of the glorious affair that was arranged here, and enclosed please find reprinted news articles from the San Francisco papers.
@@ -19,3 +20,4 @@ In the photographs sent by Sri Govinda I have seen the nice brahmacaris of our L
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

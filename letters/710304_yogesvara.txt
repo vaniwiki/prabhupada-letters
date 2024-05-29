@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yogesvara ======
+====== Yogesvara ======
 
+<card class="letter">
 Hamburg
 
 My dear Yogesvara,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

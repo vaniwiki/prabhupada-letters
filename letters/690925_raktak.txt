@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Raktak ======
+====== Raktak ======
 
+<card class="letter">
 My dear Raktak,
 
 Please accept my blessings. I beg to [indistinct] receipt of your letter dated September [indistinct]. I have noted the contents. Regarding [indistinct] have mentioned in your letter, if [indistinct] and good for protection, there is no [indistinct] my part. The idea is that dress has to be accepted according to the taste of others and foodstuffs are to be accepted according to the eater's taste. So if you think this kind of dress will attract more people, you can dress yourself in that manner. But our real dress is the tilaka and sikha. [indistinct] always present there. So consult with [indistinct] and decide what is to be done in this [indistinct].
@@ -17,3 +18,4 @@ Please offer my blessings to the others [indistinct] this will meet you in good 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 2nd September, 1971 and have noted the contents carefully.
@@ -29,3 +30,4 @@ P.S. Brahmananda has ordered 50 sets of books. Why they have not been sent? Imme
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

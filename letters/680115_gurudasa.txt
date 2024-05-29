@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 My dear Guru das,
 
 Please accept my blessings. Acyutananda and Ramanuja Brahmacaris are now at the following address. c/o N. Banerjee, 114 Elliot Road, Kanpur 4, India. They are contemplating to open a preaching center at Kanpur, and you can open correspondence with them before starting for India.
@@ -17,3 +18,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

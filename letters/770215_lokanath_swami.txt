@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lokanath Swami ======
+====== Lokanath Swami ======
 
+<card class="letter">
 His Holiness Lokanath Swami\\
 Birudiha Dist Burdwan, W. Bengal
 
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 A.C.B.S./sdg
+</card>

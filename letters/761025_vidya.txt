@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vidya ======
+====== Vidya ======
 
+<card class="letter">
 My dear Vidya dasi,
 
 Please accept my blessings. I am in due receipt of your letter dated September 27, 1976.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

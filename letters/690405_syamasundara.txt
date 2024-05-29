@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I have received one letter from your devoted wife, Malati, dated April 2, 1969, and there is a new return address written on the envelope. I wish that you inform me as to the position of this new address. I also understand from Malati's letter that you have been feeling some disturbance. Perhaps this is because there is difficulty there in finding a temple that you feel that you are not doing nicely, but this is not a fact. Your efforts there are especially nice and pleasing to me. Actually, Sankirtana Party is our main business, and even you do not find a temple there for some time it is not cause for any disturbance. Continue to propagate Krishna Consciousness through Sankirtana Party, and surely you will come out fully successful. I understand that Mataji Syama Devi is back there in London, so she will also help in your efforts. I hope you will contact me soon by post to inform me of the position of the new address and how you are. I hope you are well.
@@ -17,3 +18,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 NB: Enclosed is one letter for Mataji Syama Devi.
+</card>

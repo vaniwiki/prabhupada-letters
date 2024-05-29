@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cyavana ======
+====== Cyavana ======
 
+<card class="letter">
 My dear Cyavana,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 1, 1972, along with plans. The plans are very nice. I have sent already one photo to Giriraja of our skyscraper in Los Angeles, so I want that this square building, whether as one bigger building or two square towers as you have proposed, that this type of square building be added to Govindaji's temple. Then it will be perfect. Otherwise, the round towers are too fanciful, and not so much practical because square building gives us more space to utilize. One other thing is that there should be a facade on top of the temple across the front like an ornamental arch, as below:
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

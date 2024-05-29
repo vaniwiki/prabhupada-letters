@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Patti Birnack ======
+====== Patti Birnack ======
 
+<card class="letter">
 My dear Patti Birnack,
 
 Please accept my blessings. I beg to thank you very much for your letter, and I have noted your situation as you have described it therein. I am very pleased to learn that you are coming to our Krishna Consciousness temple in Ohio and you are nicely appreciating this movement. I can understand that you are a sincere soul, and I am sure that Krishna will help you to solve all of your present difficulties. So far as the questions and doubts raised by your father, you may rest assured that to every question your father may raise regarding the existence of God and even to much higher questions regarding the nature and activities of God, the Vedic literature which we are following has the perfect and authoritative answer. But to understand about God one must be purified. In contaminated state one cannot expect to understand about the Absolute Truth. Our Krishna Consciousness movement is for bringing the devotee to the purified consciousness where he understands Krishna and serves Him in unalloyed devotional service.
 
 Regarding the inquiry, “If there is God, how can there be suffering and disease,” the similar question may be asked, “In the presence of an affectionate father, why should a child suffer from diseases?” God is the Supreme Father and He gives us the process for being relieved of our sufferings. But if one refuses to accept this gift of God, then he must suffer from the results of his activities. Anyone who is suffering or enjoying in this material world is doing so as a result of his own activities. Krishna says that if we surrender unto Him, He will relieve us of all sufferings, so if someone rejects this offer of Krishna and then says that there is no God because he is experiencing some suffering, that is not a very intelligent position. Krishna wants everyone to go back to Home, back to Godhead, and enjoy eternal life and blissful knowledge there. If your father agrees to this process, he also can be taken back to Home, back to Godhead, with my other disciples. There will be no difficulty for me. You can tell your father that. But if he does not agree, what responsibility is God’s? Everyone has got his independence.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Dear Karandhara,
 
 Please accept my blessings. I have received your letter of 1/24/73 concerning polygamy and feel that this policy must be strictly prohibited within our society. If it is not it shall only cause chaos, as what was possible under the system of pure Vedic Culture is impossible at the present time.
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bmdg\\
 I have had Bali Mardan Maharaja send you one telegram approving your scheme to purchase the apartment building for the M-V Trust.
+</card>

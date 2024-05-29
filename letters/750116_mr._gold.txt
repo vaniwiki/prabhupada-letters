@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Gold ======
+====== Mr. Gold ======
 
+<card class="letter">
 Brooklyn
 
 My dear Mr. Gold,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

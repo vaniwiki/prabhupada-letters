@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Professor J. F. Staal ======
+====== Professor J. F. Staal ======
 
+<card class="letter">
 J.F. Staal\\
 Professor of Philosophy\\
 and of South Asian Languages\\
@@ -55,3 +56,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:nd
+</card>

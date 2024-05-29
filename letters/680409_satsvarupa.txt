@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I thank you very much for your letter dated 4/6/68, and have noted the contents. So far your being given work, there is no need for you to feel concern; you are already helping on __Srimad-Bhagavatam,__ and permanently you can do so. So you are certainly included as worker and editor for __Srimad-Bhagavatam__ already.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 "au" can sometimes go as "ou." The rest of the transliteration is standard.
+</card>

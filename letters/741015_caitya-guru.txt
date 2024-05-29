@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Caitya-guru ======
+====== Caitya-guru ======
 
+<card class="letter">
 Chandigarh, India
 
 My dear Caityaguru das:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

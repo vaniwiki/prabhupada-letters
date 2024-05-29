@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Spiritual Sons and Daughters ======
+====== Spiritual Sons and Daughters ======
 
+<card class="letter">
 New devotees,\\
 Evanston
 
@@ -26,3 +27,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

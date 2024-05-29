@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acyutananda ======
+====== Acyutananda ======
 
+<card class="letter">
 Bombay
 
 My dear Acyutananda Swami:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

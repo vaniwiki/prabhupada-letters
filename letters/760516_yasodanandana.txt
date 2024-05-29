@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasodanandana ======
+====== Yasodanandana ======
 
+<card class="letter">
 My dear Yasodanandana Maharaja,
 
 Please accept my blessings. I am in due receipt of your letter dated May 4, 1976, and I have noted the contents with care.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

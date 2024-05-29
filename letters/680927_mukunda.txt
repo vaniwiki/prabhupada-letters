@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter of Sept. 20, 1968, and it is very encouraging to note all the informations. I think Krishna will help you in all respects. And the credit of opening our London branch will go to the San Francisco boys, headed by you. Of course, the girls also share the credit undoubtedly. And I am always ready for going there as soon as you shall call me.
@@ -17,3 +18,4 @@ Regarding the bank affair: You write to say "We are expecting a letter from the 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

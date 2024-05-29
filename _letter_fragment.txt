@@ -7,7 +7,9 @@
 
 ====== Letter fragment ======
 
+<card class="letter">
 When I return to Delhi I shall enquire of the Gita Press there, as you requested. If you have not done so, please send the monthly $10%%__%%? Also send a few copies of the "Kirtan inthe Park circulars.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

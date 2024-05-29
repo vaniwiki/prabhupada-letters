@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Unknown ======
+====== Unknown ======
 
+<card class="letter">
 ...show you all these things and try to follow as far as possible.
 
 Acyutananda. His address is as follows: 35 Satish Mukherjee Road, Calcutta-26, WB, India.
@@ -17,3 +18,4 @@ We are not arranging to print the __Krsna__ Book in our own press. It will conta
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

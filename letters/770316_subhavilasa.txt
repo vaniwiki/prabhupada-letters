@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subhavilasa ======
+====== Subhavilasa ======
 
+<card class="letter">
 Toronto
 
 My dear SubhaVilasa,
@@ -29,3 +30,4 @@ I hope this meets you and all your family well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

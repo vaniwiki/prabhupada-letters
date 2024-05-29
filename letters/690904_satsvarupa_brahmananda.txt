@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa, Brahmananda ======
+====== Satsvarupa, Brahmananda ======
 
+<card class="letter">
 My dear Satsvarupa and Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letters dated August 31st, 1969, as well as the telegram dated September 4th. By the telegram, I understand that by Krishna's Grace it appears to be settled up, and you can continue your proceeding, chanting always Hare Krishna. He will always give us protection. I am very anxious to know about Uddhava's condition of health. May Krishna protect you all.
@@ -17,3 +18,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Police must give us special protection on account of threatening.
+</card>

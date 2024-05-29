@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Niranjana ======
+====== Niranjana ======
 
+<card class="letter">
 Saugor, India
 
 My dear Niranjana,
@@ -23,3 +24,4 @@ I hope this meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 My dear Tamala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 14, 1969 and I am so glad to learn that everyone in L.A. is working very hard. And Krishna Consciousness is so nice that you are aspiring for still more work. That is the sign of spiritual life. In the material world we want to minimize our activities and take rest more but in the spiritual world, there is no rest and there is no limit of activities. Krishna is unlimited, His service is unlimited, and the energy of His servants is unlimited. Although we are in the midst of ignorance, still if we keep ourselves alert there is no place of ignorance. I am glad that you have deposited $100 in the Bank of America for your consignment of goods. A similar consignment is being followed by Honolulu, and it is good that you are saving money for paying me $750.00 for 5000 BTGs coming out sometime in the month of June. Yes, the money if it is paid by the first of June it is all right. As you always desire to help me in my missionary ambition, so also I am praying always to Krishna that the boys and girls who have stretched their helping hand in this country in this connection may always be in good health and continue to assist me in my missionary activities. I am so glad to learn that you are prepared to work even harder, as a forward soldier, to fight the Maya. May Krishna give you more and more strength.
@@ -17,3 +18,4 @@ Hope your are well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

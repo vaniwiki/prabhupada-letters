@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Acyutananda, Ramanuja ======
+====== Acyutananda, Ramanuja ======
 
+<card class="letter">
 My dear Acyutananda and Ramanuja,
 
 Please accept my greetings. I have become too much anxious about you. Please accept my blessings and let me know the news of Delhi affairs. I have sent you a letter to Vrndavana address but have received no reply. Here I am well and delivering lectures with evenings meetings. Yesterday I met Mr. B. K. Nelson and he's arranging for my permanent visa. Yesterday I have also signed the agreement with MFS MacMillan Company for publication of __Gita.__ Please reply to this letter immediately and let me know all the reports. Hope you are doing well by the grace of Lord Krishna. Awaiting your early reply.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

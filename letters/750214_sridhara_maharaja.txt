@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sridhara Maharaja ======
+====== Sridhara Maharaja ======
 
+<card class="letter">
 Navadvipa\\
 __Personal__
 
@@ -23,3 +24,4 @@ Thanking you once again for your kind letter and more when we meet.
 Yours affectionately,\\
 A.C. Bhaktivedanta Svami\\
 ACBS/ps
+</card>

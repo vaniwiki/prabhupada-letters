@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sons and Daughters ======
+====== Sons and Daughters ======
 
+<card class="letter">
 My dear Sons and Daughters;
 
 Please accept my blessings. I am in due receipt of your letter dated August 9, 1976 and the enclosed daksina and pictures of the murtis in New Dvaraka which I am having framed and put on my wall here in Bombay.
@@ -31,3 +32,4 @@ ISKCON\\
 3764 Watseka Ave.\\
 Los Angeles, California\\
 USA
+</card>

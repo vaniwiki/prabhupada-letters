@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: A. K. Shivdasani ======
+====== A. K. Shivdasani ======
 
+<card class="letter">
 15E (2, self help co-operative\\
 housing society Ltd.,\\
 St. Francis Road,\\
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/vdd
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I have duly received back the tapes from San Francisco. Herewith please find another tape. I have received back the edited papers on Srimad-Bhagavatam.
@@ -23,3 +24,4 @@ Hope you are well,
 
 Your ever well wisher\\
 A.C. Bhaktivedanta Swami
+</card>

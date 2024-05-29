@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Abhirama ======
+====== Abhirama ======
 
+<card class="letter">
 Baltimore
 
 My dear Abhirama,
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 *wherefrom you propose to purchase this boat?\\
 P.S. The boat should be purchased new rather than used.\\
 ACBS/adb
+</card>

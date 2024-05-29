@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aksoja ======
+====== Aksoja ======
 
+<card class="letter">
 My dear Aksoja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 13 May 1972 and I have noted the contents. I have very much appreciated the enclosed photos of the Amsterdam activities. I am surely thinking to come to London for this year Rathayatra festival and if you like perhaps I can come to Amsterdam also if there is sufficient engagement there. At that time we can see about installing Lord Jagannatha in your temple. I was one time before in Amsterdam and I like that country very much. There are very many cows in that country and this especially is pleasing to me so if you can arrange some big engagement there then I shall gladly come.
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 Aksoja das Brahmachary c/o ISKCON Amsterdam\\
 ACB/sda
 
+</card>

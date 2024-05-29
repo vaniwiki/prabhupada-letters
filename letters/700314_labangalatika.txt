@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Labangalatika ======
+====== Labangalatika ======
 
+<card class="letter">
 Montreal
 
 My dear Labangalatika,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

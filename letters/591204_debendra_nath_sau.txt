@@ -5,8 +5,9 @@
 }
 ---
 
-====== Post card to: Debendra Nath Sau ======
+====== Debendra Nath Sau ======
 
+<card class="letter">
 Shri Debendra Nath Sau\\
 (L & L.R. Department)\\
 8, Lyon’s Range\\
@@ -18,3 +19,4 @@ My last letter was addressed to you about 10 days before but I have received no 
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

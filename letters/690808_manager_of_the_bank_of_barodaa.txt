@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of The Bank of Baroda ======
+====== Manager of The Bank of Baroda ======
 
+<card class="letter">
 Manager\\
 The Bank of Baroda Ltd.\\
 Post Box No. 1801\\
@@ -25,3 +26,4 @@ Kindly close this account, and whatever amount is there in credit balance please
 Sincerely,
 
 A.C. Bhaktivedanta Swami
+</card>

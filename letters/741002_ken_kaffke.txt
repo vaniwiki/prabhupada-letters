@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ken Kaffke ======
+====== Ken Kaffke ======
 
+<card class="letter">
 Ken Kaffe\\
 c/o Russel Grisham\\
 P.O. Box 571\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

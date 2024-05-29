@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syama ======
+====== Syama ======
 
+<card class="letter">
 My dear Syama dasi,
 
 Please accept my blessings. I an in due receipt of your nice letter, and I thank you very much for your kind sentiments. You are very nice girl, and just suitable for working together with Hayagriva on the Srimad-Bhagavatam. This very much encourages me. I want such Grhastha couples in this movement to set examples for others to follow.
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I shall see you at New Vrindaban by 10th May, 1969
 
+</card>

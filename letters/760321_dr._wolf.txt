@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Wolf ======
+====== Dr. Wolf ======
 
+<card class="letter">
 My dear Dr. Wolf,
 
 Please accept my blessings. I received your kind letter dated March 7, 1976 which was hand-delivered to me. Very soon I shall be able to see you and talk. Kindly chant Hare Krishna, and follow the regulative principles, see the Deity in the temple, and take Krishna prasadam.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

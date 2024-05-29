@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara ======
+====== Ramesvara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Ramesvara das:
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Please let me know why Purusottama Das was supplied books (S.B.) for corrections.\\
 ACBS/bs
+</card>

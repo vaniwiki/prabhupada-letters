@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I thank you very much for sending me the transcribed copies of two tapes #17 and #18, and I see it is well done. Although there are some minor mistakes in spelling of the proper names, that is not a problem. In my next letter I will point them out and give the correct spelling.
@@ -27,3 +28,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

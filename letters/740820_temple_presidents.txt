@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Temple Presidents ======
+====== Temple Presidents ======
 
+<card class="letter">
 To: Presidents,\\
 New York, Dallas
 
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: ISKCON New York & Dallas
+</card>

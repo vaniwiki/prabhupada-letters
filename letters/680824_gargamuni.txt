@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I am just in receipt of our letter dated 21st August 1968, and I have noted the contents. I hope yesterday Gaurasundara talked with you, in telephone, and whatever I had to say, you have been informed. But today, I may let you know that the idea of opening centers in large cities in USA, is quite welcome, and we have got opportunities to do that. But at the same time, as you two have gone to Vancouver, I think you should not come back defeated. That will not be good. You try to open even a small center there, and as you say, there is no other yoga society and Mr. Renovich is little sympathetic, so don't be disappointed. I think you should try to open a center as far as possible.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. One thing, that, there is no necessity of my going there immediately, unless you find it quite suitable, but if required, you may call one or two other devotees also, and to join in Kirtana and it will be successful, if you chant in the park and in your compartment, people will gradually come. That is my opinion. Hansadutta is doing the same thing here, and he got the other day, 24 dollars. Similarly, in Boston Satsvarupa is also doing that, and what to speak of San Francisco. I think this Kirtana process will be all right.
+</card>

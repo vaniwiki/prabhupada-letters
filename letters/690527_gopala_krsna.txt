@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 My dear Gopala Krishna Das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter, sent along with your japa beads, and I have duly chanted upon them and initiated you as my disciple. So you should go on with your chanting as you have been doing, and as your name is already Gopala Krishna, there is no need of changing your name. So now you will be known as Gopala Krishna Das. Try to follow the regulative principles and avoid the ten kinds of offenses. Next you shall be initiated by the offering of the sacred thread, so in the meantime you can convince your parents to give up their objections. But if you are personally determined, there is no question of any objections. No one can check another's spiritual advancement on the plea of any material relationship. There are many instances of someone accepting the spiritual line, despising all family relationships, and the best example is Lord Caitanya Himself. I do not know why your parents are so upset, so you should convince them there is no need for this. And why you should inform them of all the details of your activities? Of course as honest son you have done the right thing. But if they object and if you have to obey by their orders, I don't know how things can be adjusted. I am enclosing the letter I received from your parents, along with my reply to them, so you may do the needful.
@@ -17,3 +18,4 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vrinda ======
+====== Vrinda ======
 
+<card class="letter">
 Hamburg
 
 My dear Vrinda devi,
@@ -26,3 +27,4 @@ P.S. Regarding children, when you are married you will have children undoubtedly
 cc: Sivananda; c/o ISKCON Berlin\\
 W. Germany\\
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Indian Airlines Airport Manager ======
+====== Indian Airlines Airport Manager ======
 
+<card class="letter">
 Indian Airlines\\
 Airport Manager\\
 Palam
@@ -31,3 +32,4 @@ A.C. Bhaktivedanta Swami
 
 CC: Sri Balavanta das Adhikari\\
 ACBS/bs
+</card>

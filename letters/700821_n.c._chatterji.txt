@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: N.C. Chatterji ======
+====== N.C. Chatterji ======
 
+<card class="letter">
 Sri N.C. Chatterji\\
 Member of Parliament\\
 New Delhi
@@ -36,3 +37,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

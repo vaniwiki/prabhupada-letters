@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bansidhari ======
+====== Bansidhari ======
 
+<card class="letter">
 My dear Bansidhari,
 
 Please accept my blessings. I beg to thank you for your nice report from Santa Barbara dated October 22nd, 1970. I am always so glad to know that you are keeping to the standard practices as I have instructed you to do and all the devotees are feeling the sublime result of their work in Krsna's loving service. Your program for extending Sankirtana Party activities to the nearby towns and cities and universities is very welcome. I have received similar good report of such extended Sankirtana Party tours or trips from many other centers in Europe as well as America. Lord Caitanya's desire was that this chanting of the Holy Names be spread to every town and village on the face of the globe, and now His desire is being fulfilled. That is to your credit as sincere servants of the Lord.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

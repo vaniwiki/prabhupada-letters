@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Adi Kesava Swami ======
+====== Adi Kesava Swami ======
 
+<card class="letter">
 His Holiness Adi Kesava Swami\\
 c/o ISKCON New York
 
@@ -33,3 +34,4 @@ ACBS/tkg\\
 His Holiness Adi Kesava Swami\\
 c/o ISKCON New York\\
 ACBS/tkg
+</card>

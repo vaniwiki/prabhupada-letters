@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Radhavallabha ======
+====== Radhavallabha ======
 
+<card class="letter">
 My dear Radhavallabha das Prabhu,
 
 Please accept my humble obeisances. Srila Prabhupada has requested me that you should please publish one new book of Lord Kapiladeva's teachings. The book should consist of Prabhupada's purports to Chapter 25 of S.B. #4 as well as all the lectures he has given on these verses here in the last month and a half. The title of the book should be: Kapila's (the son of Devahuti) Sankhya Philosophy.
@@ -23,3 +24,4 @@ Brahmananda Swami
 Personal Secretary
 
 Approved: ACBS
+</card>

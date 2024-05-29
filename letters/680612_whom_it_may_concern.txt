@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: whom it may concern ======
+====== whom it may concern ======
 
+<card class="letter">
 To whom it may concern:
 
 This is to certify that my disciples, Sriman Acyutananda Brahmacari, Sriman Jaya Govinda Brahmacari, and Sriman Harivilasa Brahmacari, are sent to India under my instruction to study Sanskrit, Hindi, and Bengali. Our institution is duly incorporated in the state of New York as a religious society and is recognized by the United Nations, being listed in the N.G.O. section. Our mission is to spread the gospel of Lord Sri Caitanya Mahaprabhu, love of God, throughout the whole world; and by the Grace of the Lord, we have established many centers in America and Canada for spreading this unique gospel of Lord Caitanya Mahaprabhu, though __Bhagavad-gita__ and __Srimad-Bhagavatam__ specifically. In each center we have got hundreds of disciples and followers, and our initiated disciples are strictly following the restrictions as principle, as follows: (1) no illicit sex life, (2) no intoxication, including coffee, tea, and cigarettes, (3) no gambling, (4) no meat eating. We have got both Brahmacaris and Householders as disciples, and all of them are following the above mentioned principles. The students and disciples are initiated according to authorized Pancaratriki regulations. According to __Srimad-Bhagavatam__ and __Bhagavad-gita,__ anyone, including so-called low born men, who may take shelter unto the Lotus Feet of Lord Krishna or His devotees, is sanctified by initiation process.
@@ -22,3 +23,4 @@ This is to certify that my disciples, Sriman Acyutananda Brahmacari, Sriman Jaya
 How such thing can be possible is explained in the __Srimad-Bhagavatam__ that by special all-pervading power of Visnu this is possible. So, my above students have been sent to India specifically to study in the Bengali, Sanskrit, and Hindi languages, because we have to present to the world so many English translated authentic literatures on Vaisnavism. Some of my books are being printed in Japan and some of them have been accepted to be published by Messrs. MacMillan and Company of New York. So we require some American assistance specifically for this translating work. And for this purpose, we wish to send a batch of intelligent students in India and gradually establish a center there for English translation publication of all Vaisnava literatures. We have got many friends in India, like Seth Jaydayal Dalmia and others, who are always very kind to us in spreading this movement all over the world. And I hope if some of my students living in India, say 3 to 5 years, that there will be no difficulty for them. Further, I wish that my students who are initiated and have changed their former name into Vaisnava, servitorship name, they are bonafide Vaishnaves. So, as such, they should be allowed to enter into the Temples in India generally visited by Vaishnave devotees. They are completely pure in their habit, and they are strictly following the regulative principles under my direction.
 
 A.C. Bhaktivedanta Swami
+</card>

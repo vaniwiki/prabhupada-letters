@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtiraja ======
+====== Kirtiraja ======
 
+<card class="letter">
 Los Angeles
 
 My dear Kirtiraja,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
+</card>

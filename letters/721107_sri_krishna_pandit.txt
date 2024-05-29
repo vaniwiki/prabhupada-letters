@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Krishna Pandit ======
+====== Sri Krishna Pandit ======
 
+<card class="letter">
 Sriman Haribhaktanu das Sri Krishna Pandit,\\
 4092 Kucha Dilvali Singh,\\
 Ajmeri Gate, __Delhi-6.__
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 *If I visit Delhi in the meantime, I will inform you. ACB
+</card>

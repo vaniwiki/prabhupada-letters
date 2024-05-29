@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 New Vrindaban
 
 My dear Kirtanananda Maharaja:
@@ -37,3 +38,4 @@ A.C. Bhaktivedanta Swami
 ACBS/bs\\
 cc: Tamala Krsna Goswami, New York\\
 Rupanuga Prabhu, Miami
+</card>

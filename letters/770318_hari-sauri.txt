@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hari-sauri ======
+====== Hari-sauri ======
 
+<card class="letter">
 My dear Hari Sauri,
 
 Please accept my blessings. I beg to thank you for your letter dated March 13rd, 1977. Your letter is very nice. You have expressed transcendental sentiments.
@@ -23,3 +24,4 @@ I hope this finds you very well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhakta dasa ======
+====== Bhakta dasa ======
 
+<card class="letter">
 My dear Bhakta das,
 
 Please accept my blessings. I am in due receipt of your letter of October 24, 1971, and have noted the contents carefully. Due to our always moving about I have not had opportunity to answer until now. Please forgive me.
@@ -20,3 +21,4 @@ It is very nice that you are holding festivals in San Diego center. We are findi
 I am very pleased that your literature sales are increasing. I want this especially, that my books be sold everywhere, as many as possible. Kindly do this and I shall be very pleased.
 
 As per your recommendations, I am sending under separate parcel the initiation beads for Lynne Stowers, duly chanted on. Her name shall be Srila Dasi. I am pleased that she has become my disciple, now let her very seriously take up this process and she can know it for certain that there will be no more coming back to this place of miseries.
+</card>

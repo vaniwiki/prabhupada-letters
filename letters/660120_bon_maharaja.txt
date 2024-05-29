@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bon Maharaja ======
+====== Bon Maharaja ======
 
+<card class="letter">
 My dear Sripada Bon Maharaja,
 
 Please accept my humble dandabats. I beg to thank you for your kind letter of the 14th instant. I am very glad to learn that your first part of Bhakti Rasamrita Sindhu is now out and shall be glad if you send me one copy so that I can show to persons who are interested in my Srimad-Bhagavatam. I am also glad to learn that you are now thinking of New York on receipt of my letter and it may be that you have to come here again if there is the Radha Krishna Temple as contemplated. The money is there, the Deities are there, the house is there, the men are there but the sanction is not there. Your residence was somewhere near the Columbia University I think.
@@ -23,3 +24,4 @@ Thanking you in anticipation and awaiting your early reply.
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami.
+</card>

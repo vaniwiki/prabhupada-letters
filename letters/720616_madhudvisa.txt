@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I am in receipt of your letter dated June 9, 1972, from Melbourne, and I don't think you have yet got my last letter to you at Sydney. I am very pleased to hear that you are utilizing your good experience for introducing the Ratha Yatra Festival in Australia, I shall be very pleased to see the photos how it is going. I fully approve of your program for traveling, now you combine the sannyasi requirement for traveling extensively, and at the same time as GBC man you shall be my personal secretary for maintaining the highest level of Krishna Consciousness amongst the devotees in your zone. I am very much concerned that the devotees should be given all good instruction and knowledge of Krishna Consciousness, that is the duty of the GBC man. (?) better to utilize time and train the devotees, especially the responsible officers, and they can go out for preaching to non-devotees and making new devotees. But if they do not have any knowledge, how can they go out and preach? So you GBC men are my selected few for insuring that what I am doing will be carried on very nicely for the pleasure of Lord Caitanya Mahaprabhu. So now you must all my senior disciples and leaders become very, very much aware of your grave responsibility to the human society for delivering them from the clutches of catastrophe, and be always cool-headed and utilize every moment in the best manner possible. I am successful only because I am following strictly the orders of my Guru Maharaja, and I do not deviate. Therefore people respect what I am saying and they listen because I do not say one thing and do another. So now you are doing my work and you shall be like me and be yourselves the worthy representatives of our disciplic succession.
@@ -21,3 +22,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

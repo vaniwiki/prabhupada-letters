@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kuladri ======
+====== Kuladri ======
 
+<card class="letter">
 My dear Kuladri,
 
 Please accept my blessings. I am in due receipt of your letter dated October 7, 1976 along with a check for $1,111. Thank you very much.
@@ -35,3 +36,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

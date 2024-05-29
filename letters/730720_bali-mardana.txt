@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali-mardana ======
+====== Bali-mardana ======
 
+<card class="letter">
 New York
 
 Dear Bali-mardana Maharaja,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 NB: As to when I shall be able to go to Japan, I am going to L.A. by the end of August. In September I will stay in L.A. Then whenever you call me at Japan I shall be able to go. Thirty lakhs rupees will solve the problem of India.
+</card>

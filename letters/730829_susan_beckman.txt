@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Susan Beckman ======
+====== Susan Beckman ======
 
+<card class="letter">
 My dear Susan Beckman,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 24, 1973. I have noted the contents carefully.
@@ -41,3 +42,4 @@ ISKCON Spiritual Sky
 Culver City, California
 
 U.S.A. 90230
+</card>

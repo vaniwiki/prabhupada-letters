@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vamanadeva ======
+====== Vamanadeva ======
 
+<card class="letter">
 St. Louis
 
 My dear Vamanadeva,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

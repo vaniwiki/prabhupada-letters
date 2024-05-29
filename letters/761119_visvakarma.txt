@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visvakarma ======
+====== Visvakarma ======
 
+<card class="letter">
 Toronto
 
 My dear Visvakarma,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

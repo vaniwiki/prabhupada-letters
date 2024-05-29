@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I am in due receipt of your statement. It appears that you have $5,823.04 in the treasury. You can therefore deposit $5,700.00 to my account by transfer advice. Since Neal is not available here, I am sending the recorded tapes to New York for typing as you have the Dictaphone there. I am also returning the letter of authority to the shipping company duly signed by me. There is some defect in microphone also of the dictaphone. What is to be done. The dictaphone seller does not appear to be very honest. When I inquired they told that it should be taken to some local dealers and when it is repaired they say that they are not going to pay for the labor. So if there is any defect, has it to be sent to New York at their expense?
 
 You can send the sets of Bhagavatam keeping there two sets only. And the sets which you have already sold, proceeds may be deposited in my account. Mr. Altman has not got to be paid this month because as soon as I hear from you that you have transferred the amount to my account I shall send $200.00 to India for purchase of harmonium.
+</card>

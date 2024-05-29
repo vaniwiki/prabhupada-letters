@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagadisa ======
+====== Jagadisa ======
 
+<card class="letter">
 ALL GLORIES TO SRI GURU AND GAURANGA!
 
 My dear Jagadisa,
@@ -36,3 +37,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/Kda
+</card>

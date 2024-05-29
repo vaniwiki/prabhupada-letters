@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I am very glad to receive your letter dated April 4, 1969, and I eulogize your attempt for improving the Columbus center. Do it very nicely, and when I go there I shall see that you have done so much for Krishna Consciousness. I shall also give you one very nice brahmacari from Los Angeles, Jaya Gopala. He is trained in Sankirtana Party and in cooking, so you can leave him for taking care of the temple affairs when you go to work. Besides that, if you have learned Sanskrit, I can give you one brahmacari, 12 years old, named Birbhadra, whom I want you should teach Sanskrit from the very beginning. We want a few students who know Sanskrit and Bengali, or at least Sanskrit. Most probably the boy will go with me there, and if you think you can take charge, he can also remain there.
@@ -17,3 +18,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

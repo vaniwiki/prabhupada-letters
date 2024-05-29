@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -34,3 +35,4 @@ n.b. Initiation letter under separate post.\\
 n.b. The idea is that all the devotees must attend arati, prasada, and other temple services. If they miss they will be deviated. So if they are living far away, like in Laurel Canyon, then another temple should be started. Unless there is arrangement for another temple, it will be not a nice proposal. Temple worship and prasada must be partaken, otherwise it will be ordinary residential quarters like karmis.\\
 A.C. B.S.\\
 ACBS/sda
+</card>

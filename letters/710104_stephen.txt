@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Stephen ======
+====== Stephen ======
 
+<card class="letter">
 My dear Stephen,
 
 Please accept my blessings. I beg to thank you for your letter dated November 30th, 1970, and noted the contents. I am very glad that you have joined with His Holiness Visnujana Swami for increasing our great movement through the Southwestern states of your country.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

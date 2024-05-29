@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trivikrama ======
+====== Trivikrama ======
 
+<card class="letter">
 My dear Trivikrama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 2 March, 1970. Now I think because Himavati is there, she will be first-class caretaker of the Deities, and you can be relieved. So I have no objection if you come back to the States if there is no other urgent necessity for you there.
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

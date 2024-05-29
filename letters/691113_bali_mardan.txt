@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali Mardan ======
+====== Bali Mardan ======
 
+<card class="letter">
 My dear Bali Mardan,
 
 Please accept my blessings. I am so pleased to receive your letter dated November 7, 1969 and have noted the contents carefully. You are a sincere devotee from the very beginning, coming from a very respectable family, intelligent, and your humbleness is a proof of your high parentage. Thank you very much for this Vaishnava quality. Chaitanya Mahaprabhu has advised a Vaishnava to be humbler than the straw and more tolerant than the tree. Then he can become a perfect teacher. So Krishna is giving you intelligence from within how to become preacher in distant countries to fulfill the mission of Lord Caitanya Mahaprabhu. By this attempt only we can become within the perspective of the Lord’s attention. Our endeavor should be not to see the Lord, but that the Lord may see us. He will see us when we become in His confidence by rendering service unto Him. The best service we can render is the preaching of His glories, by which the hearer is glorified and the Lord is certainly glorified.
@@ -19,3 +20,4 @@ Please offer my blessings to Sudama and Chintamoni. I hope this will meet you in
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

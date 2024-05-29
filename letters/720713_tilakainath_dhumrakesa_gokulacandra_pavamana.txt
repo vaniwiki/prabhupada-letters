@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tilakainath (Tom), Dhumrakesa (Doug), Gokulacandra (George), Pavamana (Paul) ======
+====== Tilakainath (Tom), Dhumrakesa (Doug), Gokulacandra (George), Pavamana (Paul) ======
 
+<card class="letter">
 Bombay
 
 My dear Sons,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letters, Nov. 7 & 8, 1967. The incident of Kirtanananda and Hayagriva chapter may now be closed. We shall always pray to Krishna for their recovery and we should not seriously take their counter propaganda. I am sure they will flap for some time without any effect on our Krishna Consciousness, service. Let us go ahead with our work and everything will be all right. Most important thing at present is to deal with MacMillan Co. Regarding editing of my books it was rightly entrusted to you from the very beginning but Kirtanananda wanted that the editing should be done by Hayagriva. But I understand from your version that in some places of Gita Upanisad he has followed Swami Nikilananda who is quite unaware of Krishna Consciousness. By their present behavior it appears that Hayagriva belongs to the same feather and Krishna has saved His Gita Upanisad by transferring the whole thing into your hands. Now please do your best and hand it over to MacMillan Co. for necessary action. We have tried our best in the Gita Upanisad that Krishna the Supreme Personality of Godhead is the Supreme Person and His energies acting impersonally. The devotees are primarily concerned with the Supreme Personality of Godhead, Krishna and His impersonal expansion of energy is of secondary importance to the devotees. Less intelligent asuras are attracted by the impersonal manifestation because they have no chance to meet Krishna face to face. In the last paragraph of your letter of the 7th, you have mentioned very nobly that you can work with me on the project of Srimad-Bhagavatam and it will be a great success of my mission if we jointly finish up complete Bhagavatam published by MacMillan Co. The chance is there, let us carefully handle up the situation and as soon as I return to the States, we shall take up Srimad-Bhagavatam in the same Spirit as I have published First Canto. The MSS of Canto two & three is ready and if we jointly work on the other 9 cantos I shall feel very much obliged to you. If I can leave behind me the Srimad-Bhagavatam, Gita Upanisad, and Lord Caitanya's Teachings, & if you continue to work in the spirit of pure Krishna Consciousness, surely we shall be able to do some tangible service to Humanity at large. Hope you are well
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta, Swami
+</card>

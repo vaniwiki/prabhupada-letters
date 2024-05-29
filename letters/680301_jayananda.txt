@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayananda ======
+====== Jayananda ======
 
+<card class="letter">
 My dear Jayananda,
 
 Please accept my blessings. I am so glad to receive your letter dated Feb. 23, 1968. The description of the house which you propose to purchase is very much attractive. And I think it is Krishna's arrangement by His inconceivable energy in exchange of your sincere service to the Lord. I have gone through the whole letter and it is all encouraging, and therefore I have full sympathy with the transaction, and I approve of your good attempts to purchase this house according to the right estimation; it appears to me all round good. The arrangement of payment is also very nice. I know that you haven't got to pay the house tax, as it is owned by ISKCON, which is tax free organization all round.
@@ -19,3 +20,4 @@ We are starting for S.F. on the 8th, flight no. 977 at 10:10 a.m.; this informat
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: B. K. Nehru ======
+====== B. K. Nehru ======
 
+<card class="letter">
 Dear Shri Nehru:
 
 Please accept my greetings. After my arrival in India I advised my disciple Sriman Brahmananda Brahmachary (Mr. Bruce Scharf) to present my books to you personally. I hope by this time you have received my edition of Srimad Bhagwatam and hope that you will enjoy them.
@@ -26,3 +27,4 @@ Ambassador of India\\
 Indian Embassy Consulate\\
 Washington, D. C.\\
 U.S.A.
+</card>

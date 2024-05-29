@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhakta Lance ======
+====== Bhakta Lance ======
 
+<card class="letter">
 Coconut Grove
 
 My dear Bhakta Lance,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayatirtha ======
+====== Jayatirtha ======
 
+<card class="letter">
 My dear jayatirtha das,
 
 Please accept my blessings. I am in due receipt of the September BBt Trustees report with enclosed report of Mayapur-Vrindaban Fund, Bank of America account number 6004-07143, for the months of July, August, and September 1975.
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 P.S.\\
 Jayatirtha as per your request Mohanananda's address\\
 Michael Walker, Chandler, 352 W. 15th, New York 10011.
+</card>

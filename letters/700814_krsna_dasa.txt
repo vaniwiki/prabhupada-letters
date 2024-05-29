@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna dasa ======
+====== Krsna dasa ======
 
+<card class="letter">
 My dear Krsna dasa,
 
 Please accept my blessings. Now that I have formed this Governing Board Commission, the twelve members should each act as my zonal secretaries. So kindly keep me informed of your zone's activities at least once a week or once fortnightly. In this way I will be encouraged and can give you direction and inspiration.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

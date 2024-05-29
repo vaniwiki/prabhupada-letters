@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I have not heard anything from you since you left from Montreal. I think everything is all right with you, and shall be glad to hear from you how far the Dai Nippon Printing work is going on. In the meantime, as I have already informed you, a boy, Ranjit Mullick, is prepared to export goods from India, on the following terms:
@@ -47,3 +48,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. Please send a supply of ISKCON stationery as soon as possible, and envelopes.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hit Sharanji ======
+====== Hit Sharanji ======
 
+<card class="letter">
 My dear Hit Sharanji,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter No. DJT/, dated 21 February, 1970. In the meantime, I have sent you one reminder dated 24 February, 1970, in this connection. So as advised previously, I may again repeat the same that if Scindia Steam Navigation Co. has not as yet replied my letter or your letter, then the Murtis should be dispatched without delay by other freighters through the shipping agents Messrs. Cox and Kings. I shall arrange for clearing the goods at the destination.
@@ -38,3 +39,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. We have sent our representative to Australia, one Brahmacari and one householder, for preaching work, and the first installment of newspaper cutting is sent herewith. Please present it to Sethji. A.C. B.
+</card>

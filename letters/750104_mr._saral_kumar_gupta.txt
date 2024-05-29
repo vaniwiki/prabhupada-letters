@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Saral Kumar Gupta ======
+====== Mr. Saral Kumar Gupta ======
 
+<card class="letter">
 Mr. Saral Kumar Das Gupta\\
 B/381 Tribeni Tissues Ltd.\\
 PLO. Tribeni, Dist. Hooghly\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

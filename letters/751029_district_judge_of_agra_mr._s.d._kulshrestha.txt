@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: District Judge of Agra, Mr. S.D. Kulshrestha ======
+====== District Judge of Agra, Mr. S.D. Kulshrestha ======
 
+<card class="letter">
 District Judge of Agra\\
 Through his Personal Assistant\\
 Mr. S.D. Kulshrestha\\
@@ -29,3 +30,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

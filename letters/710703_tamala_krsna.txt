@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Calcutta
 
 My dear Tamala Krishna,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/adb
 
+</card>

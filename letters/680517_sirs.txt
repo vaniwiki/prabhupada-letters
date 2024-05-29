@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sirs ======
+====== Sirs ======
 
+<card class="letter">
 Dear Sirs,
 
 With reference to our conversation of the 27th November, 1971, I beg to inform you that when I visited India in 1967, our account was settled up until the month of August, 1967. Since then I have paid you as follows;
@@ -31,3 +32,4 @@ I do not wish to disturb the position of the sevaits of Radha Damodara Temple, b
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami.
+</card>

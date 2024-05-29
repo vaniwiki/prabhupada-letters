@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ksirodakasayi ======
+====== Ksirodakasayi ======
 
+<card class="letter">
 London
 
 Dear Ksirodakasayi,
@@ -20,3 +21,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 PS. I am coming to Paris by the 9th of June 1974.
+</card>

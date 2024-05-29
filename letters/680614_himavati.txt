@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Himavati ======
+====== Himavati ======
 
+<card class="letter">
 My dear Himavati,
 
 Please accept my blessings. And offer the same to your good husband. I was so glad to receive the two caps which are very nicely made fitting to my skull, and I am enjoying it everyday in the morning, and when I walk on the street they all look at me due to your cap. Not only your cap but also I am enjoying the shirt made by you. And Lord Jagannatha is also enjoying similarly with cap and __ghagara.__ So Krishna has given you a very good talent and you are sewing expert.
@@ -27,3 +28,4 @@ Hoping you are both well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

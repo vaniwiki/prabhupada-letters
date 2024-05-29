@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Indrani ======
+====== Indrani ======
 
+<card class="letter">
 My dear Daughter Indrani,
 
 Please accept my blessings. I am so glad to receive your letter dated Berlin, 13rd July, 1970, and I am so glad also to learn that you have nicely appreciated our Sankirtana movement and now you are married to one of our devotees, Krsna das.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

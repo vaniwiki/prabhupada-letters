@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Guptaji ======
+====== Guptaji ======
 
+<card class="letter">
 Calcutta
 
 My dear Guptaji:
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

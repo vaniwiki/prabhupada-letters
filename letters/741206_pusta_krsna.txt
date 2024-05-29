@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pusta Krsna ======
+====== Pusta Krsna ======
 
+<card class="letter">
 Johannesburg
 
 My dear Pusta Krishna Swami:
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 N.B. We were not able to get the S.A. endorsement in Bombay in time, so we shall try for it in Australia.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Citsukhananda ======
+====== Citsukhananda ======
 
+<card class="letter">
 Dear Citsukhananda,
 
 Please accept my blessing. On your recommendation I am accepting the following devotees as my initiated disciples and there Spiritual names are as follows:
@@ -43,3 +44,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:SDG
+</card>

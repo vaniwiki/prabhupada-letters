@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visnujana ======
+====== Visnujana ======
 
+<card class="letter">
 My dear Visnujana Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 26th July, 1971 and have noted the contents carefully. I never suggested to the GBC members that you should go to South America. If you are doing so nicely in Austin and neighbouring places, then go on with that program. And go on preaching on the college campuses, as you are planning to do in San Antonio. These colleges are our great future hope.
@@ -21,3 +22,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I hope you have received my previous notes sent to you in different letters. I have not as yet received the copy of Narada Bhaktisutra which you want me to write commentaries. I hope you are duly editing the tapes of Teachings of Lord Caitanya. While typing the records after your editing make it in duplicate and send me one copy to see how you are doing it.
@@ -25,3 +26,4 @@ Hope you are all well and shall be glad to hear from you by return post. Please 
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

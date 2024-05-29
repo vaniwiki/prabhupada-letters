@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna, Jayapataka ======
+====== Tamala Krsna, Jayapataka ======
 
+<card class="letter">
 Calcutta
 
 My dear Tamala Krishna and Jayapataka,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

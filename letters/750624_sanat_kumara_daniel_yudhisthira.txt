@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sanat Kumara, Daniel, Yudhisthira ======
+====== Sanat Kumara, Daniel, Yudhisthira ======
 
+<card class="letter">
 Nairobi
 
 My dear Sanat Kumar, Daniel, and Yudhisthira:
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

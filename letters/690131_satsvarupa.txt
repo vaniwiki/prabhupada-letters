@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I have received your letter dated January 28, 1969 regarding Jadurani's sick health. She requires complete rest. All of her work should be suspended, and she should be given liquid foods, just like barley water mixed with milk. Purchase pearl barley from the market, and the recipe is 1 cup of barley and four cups of water to be boiled for at least 1/2 hour. That liquid preparation may be mixed with milk and sugar, and she may take. Jadurani must not exert herself in any way. She should take complete rest and chant Hare Krishna. When she next wants to begin work, she must take my permission. For the time being, all work must be suspended.
@@ -21,3 +22,4 @@ Regarding the two missing verses of the third canto, I shall get them done conve
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

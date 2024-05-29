@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Atreya Rsi ======
+====== Atreya Rsi ======
 
+<card class="letter">
 My dear Atreya Rsi,
 
 Please accept my blessings.
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 Copy to all GBC.\\
 ACBS/tkg
+</card>

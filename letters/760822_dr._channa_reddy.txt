@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Channa Reddy ======
+====== Dr. Channa Reddy ======
 
+<card class="letter">
 Governor Uttar Pradesh\\
 Raj Bhavan\\
 Lucknow, UP
@@ -44,3 +45,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

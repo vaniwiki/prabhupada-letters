@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 New York
 
 My dear Brahmananda,
@@ -29,3 +30,4 @@ You have written nothing about MacMillan. Please let me know about this. Please 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

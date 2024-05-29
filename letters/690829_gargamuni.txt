@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I thank you very much for your letter dated August 23rd, 1969 with enclosures. I am sending herewith the copy of the letter addressed to Indo Crafter, giving them a trial order. You can immediately transfer 400 dollars to my savings bank account, The Bank of Baroda, Chandni Chowk, Delhi-6, and upon hearing from you I shall send necessary instructions to the bank.
@@ -19,3 +20,4 @@ I have heard nothing about the activities of Los Angeles temple. Also, I am anxi
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

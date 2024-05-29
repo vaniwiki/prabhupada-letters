@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sacimata ======
+====== Sacimata ======
 
+<card class="letter">
 My dear Sacimata Prabhu,
 
 Please accept my blessings. I am in receipt of your letter dated 3rd October 1976 and I have noted the contents carefully.
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hds
+</card>

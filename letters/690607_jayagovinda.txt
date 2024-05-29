@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayagovinda ======
+====== Jayagovinda ======
 
+<card class="letter">
 My dear Jaya Govinda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 27, 1969 and your letter dated May 20, 1969. I have immediately sent to Acyutananda a copy of the goods delivered to United Shipping Corporation. It appears that this company is very slow and not businesslike. So probably I will have to change to some other shipping agents, and I have already advised Acyutananda to do the needful. The second batch of Deities which you sent to Los Angeles has been received by them. I am very glad to learn that you are feeling enthusiastically in the German center, and it is clear that Krishna wanted you there. Please work there with your full energy in cooperation with your other godbrothers. Krishna Das, yourself, Sivananda and Uttama Sloka all are good souls and sincere devotees of Lord Krishna. So as you faithfully continue to work under my direction, your further advancement is sure. I have received a letter from Mandali Bhadra that they are reaching there on the 27th June, and when they arrive, do everything very nicely in a cooperative spirit.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 The reproduction of the newspaper cuttings which you have printed was done very well, and I would like about ten more copies of this page to show to other centers.
+</card>

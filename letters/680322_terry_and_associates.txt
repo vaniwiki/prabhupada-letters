@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Terry and associates ======
+====== Terry and associates ======
 
+<card class="letter">
 My dear Terry, and associates,
 
 Please accept my blessings. I am in due receipt of your letter dated March 16th, and I thank you very much for it. I am so much pleased to hear the wonderful news of your Sankirtana meetings in N.J. It is very good. This sort of enterprise is the most valuable spiritual attempt. And I thank you from the core of my heart for doing such a nice thing. Krishna will be pleased upon you, and bestow His Benediction. Similarly, we want to open hundreds of centers, so that people may take up K.C.---that is our mission. It is an easy process, and appealing, and the highest spiritual realization simultaneously. Please continue your excellent work in Krishna's service, and when I come to NY, I shall come there to see how nicely things are being carried on.
@@ -21,3 +22,4 @@ Hoping you are well.
 
 Your ever well-wisher,\\
 ACB
+</card>

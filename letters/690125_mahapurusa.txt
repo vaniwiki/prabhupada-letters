@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mahapurusa ======
+====== Mahapurusa ======
 
+<card class="letter">
 My dear Mahapurusa,
 
 Please accept my blessings. I am in due receipt of your letter dated January 18, 1969, and I have noted the contents carefully. I am very pleased to note that the newspaper article which you had helped arrange has resulted in much interest in our movement in Hawaii. It is also very encouraging to note that you are going out into the streets to chant and preach to the people there. This is a very good policy, and as far as possible you should continue to go out and let the local inhabitants of Hawaii become very familiar with the sound of Hare Krishna Mantra. This will insure the success of our center there, and it is also very pleasing to Krishna to see His devotee taking courage in this way. So by no means should you give up this very nice activity.
@@ -19,3 +20,4 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trista Hubbarth ======
+====== Trista Hubbarth ======
 
+<card class="letter">
 Gaylord, Michigan
 
 Dear Trista Hubbarth,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

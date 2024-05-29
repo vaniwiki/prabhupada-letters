@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sally ======
+====== Sally ======
 
+<card class="letter">
 My dear daughter Sally,
 
 I am so glad to receive your very affectionate letter of the 3rd instant and have noted the contents carefully. Yes I have got this nice typewriter by the Grace of the Lord and I am very much satisfied with it working. Before receiving your letter under reply I have sent two letters both to you and Gopala. I understand that you have received them. In one of them I have requested Gopala to dispatch 25 sets of books to Paragon Book Gallery and I am anxious to know if the books are already dispatched.
@@ -25,3 +26,4 @@ Hope you are all well and awaiting your early reply,
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami.
+</card>

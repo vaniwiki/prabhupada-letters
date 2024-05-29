@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna ======
+====== Yamuna ======
 
+<card class="letter">
 My dear Yamuna,
 
 Please accept my blessings. I thank you very much for your nice letter of Oct. 21, 1968. I received your letter in Montreal but I have come here just day before yesterday. I am going to Hollywood from here and my return post address is given over leaf.
@@ -19,3 +20,4 @@ __Acarya (ordained Minister of Religion)__ you will be glad to know that I have 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

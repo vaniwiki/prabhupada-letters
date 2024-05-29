@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraj Prabhu ======
+====== Giriraj Prabhu ======
 
+<card class="letter">
 Dear Giriraj Prabhu:
 
 Please accept my humble obeisances. Regarding your letter dated September 27, 1974 Srila Prabhupad requests the following to be included in the article for "Holymen of India." It should be very nicely written that so far cultural contribution/is world concerned, Srila Prabhupad stands first above all other Indian holymen. Many have gone to the west an abroad, but on one has done what Srila Prabhupad has done. He has completely brought the Vedic culture to the West, and they are following completely. He has transplanted it. This simile of transplanting should be elaborated. As we transplant a tulsi seedling and then it becomes a full grown plant, so Prabhupad has made the Vedic culture flourish all over the world, without harming or changing anything. When transplanting you have to be very careful of the seedling. If you harm it even slightly it will not grow again. Similarily Prabhupad has not superficially transplanted the Vedic culture.
@@ -22,3 +23,4 @@ Brahmananda Swami
 Personal Secretary
 
 approved: ACBS
+</card>

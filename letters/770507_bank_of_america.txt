@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bank of America ======
+====== Bank of America ======
 
+<card class="letter">
 Bank of America\\
 Culver City Branch\\
 Los Angeles, California
@@ -26,3 +27,4 @@ c.c. Ramesvara Swami (Robert Grant)\\
 Bhaktivedanta Book Trust\\
 3764 Watseka Ave.\\
 Los Angeles, Calif. 90034
+</card>

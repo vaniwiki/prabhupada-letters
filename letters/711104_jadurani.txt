@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I am in due receipt of your letter dated 24th October, 1971 and have noted the contents carefully. So far whether to print posters, of course paintings are always nicer, but if posters can be printed I have no objection. If good printing is done, as you have described, then where from the money will come? So whether such investment is possible; you should consult with Rupanuga in this connection.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

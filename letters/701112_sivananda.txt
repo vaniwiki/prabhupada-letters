@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 13rd Sept. and letter dated Oct. 18. Due to travelling and so much work, I was not able to answer you sooner.
@@ -23,3 +24,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

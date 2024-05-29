@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aniruddha ======
+====== Aniruddha ======
 
+<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I am in due receipt of your letter of 12/10/71, and I am very much pleased that you are enthusiastic to instruct our KC children at ISAVASYA SCHOOL. I have heard from Satsvarupa that we have not got that big building we were trying for. Never mind, the important thing is that we continue our work nicely for educating children, and Krishna will give us all facility.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

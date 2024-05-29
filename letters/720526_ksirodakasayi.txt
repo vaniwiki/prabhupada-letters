@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ksirodakasayi ======
+====== Ksirodakasayi ======
 
+<card class="letter">
 Dear Ksirodakasayi,
 
 Please accept my blessings. I beg to acknowledge receipt your letter dated May 18th, 1972 and I have noted the contents very carefully. There is no difficulty to send all of the vouchers and receipts for materials to Bombay, so I want that you shall send all of them, never mind their amount.
@@ -23,3 +24,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

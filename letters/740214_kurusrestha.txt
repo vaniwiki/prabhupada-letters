@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kurusrestha ======
+====== Kurusrestha ======
 
+<card class="letter">
 Denver
 
 Dear Kurusrestha das,
@@ -36,3 +37,4 @@ Your well-wisher,
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

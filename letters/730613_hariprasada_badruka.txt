@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hariprasada Badruka ======
+====== Hariprasada Badruka ======
 
+<card class="letter">
 Sriman Hariprasada Badruka\\
 Mahaboobgunj\\
 Hyderabad, A.P.
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/jda\\
 cc-Tamala Krsna Goswami
+</card>

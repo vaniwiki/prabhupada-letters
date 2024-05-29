@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 New Vrindaban
 
 My dear Kirtanananda Maharaja,
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 ACBS/pks
 
 Handwriting: I have recived your check for 1111.00
+</card>

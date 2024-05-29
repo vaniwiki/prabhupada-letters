@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I thank you very much for your letter dated June 23, 1969. I have reached Los Angeles yesterday afternoon, and I am very comfortable here. The house is very nice, calm and quiet. Yes, for the present my program is to stay here for one month, but if I do not go to London, then I shall stay longer. Surely I shall go to San Francisco to take part in the Rathayatra Festival if I do not go to London. But I also want to see you, if possible, before the Rathayatra Festival. So far as your duty is concerned, you are doing your best. That is your spiritual qualification. The best qualification for a Vaisnava is to act sincerely, and to his best capacity, for the service of Krishna. Otherwise, Krishna is so great, and we are so small, there is no question of our giving any service to Krishna. But Krishna is so great, and He is so greatly merciful, that any small service we offer to Him in devotion and sincerity He will accept. Krishna does not require anyone's help or service, but if we serve Him, even in a very small capacity, He will accept it. So that is our only hope. One who can show the whole cosmic manifestation within the hole of His mouth, what service can we render unto Him? So the best thing is to employ all of our talents and energies in His service. That will help us to progress. So now Seattle is in your charge for introducing Krishna Consciousness, and you are doing your best. Krishna will surely bless you.
@@ -19,3 +20,4 @@ I hope to see you again when you come here, or else in San Francisco. The pictur
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: All ISKCON Temple Presidents ======
+====== All ISKCON Temple Presidents ======
 
+<card class="letter">
 __MEMO TO ALL ISKCON TEMPLE PRESIDENTS:__
 
 On April 6, 1972, the following message was dispatched by cable, one copy each to Karandhara, Rupanuga, and Hansadutta:
@@ -34,3 +35,4 @@ KARANDHARA.
 cc. All Temple Presidents.\\
 ACBS/sda\\
 APPROVED: A.C. Bhaktivedanta Swami, Founder-Acarya, ISKCON
+</card>

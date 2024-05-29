@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vamanadeva, Indira ======
+====== Vamanadeva, Indira ======
 
+<card class="letter">
 Oklahoma City
 
 My dear Vamanadeva and Indira dasi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

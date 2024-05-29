@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bala Krsna ======
+====== Bala Krsna ======
 
+<card class="letter">
 ISKCON\\
 400 18th Avenue East,\\
 Seattle, 98102 Washington
@@ -41,3 +42,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

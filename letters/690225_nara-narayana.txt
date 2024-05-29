@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nara-narayana ======
+====== Nara-narayana ======
 
+<card class="letter">
 My dear Nara Narayana,
 
 Please accept my blessings. I am in due receipt of your letter dated February 14, 1969, and I am just now having the opportunity of replying to your inquiries. So far as the Deities are concerned, this has been discussed many times, so just do it nicely using your best judgment to make Them like the Deities which are there in N.Y. with you as far as possible. Your idea of placing conchshell in the eyes is nice and you may do it. You have the perfect example of the Deities in New York, so if you can similarly make some Deities for our other centers it will be very nice accomplishment.
@@ -19,3 +20,4 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

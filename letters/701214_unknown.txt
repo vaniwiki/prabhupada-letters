@@ -7,8 +7,10 @@
 }
 ---
 
-====== Letter to: Unknown ======
+====== Unknown ======
 
+<card class="letter">
 Wanted qualified Brahmins to preach Bhagavad-gita all over the world. Educated candidates accepted without any discrimination of Caste and Creed.\\
 Apply ISKCON\\
 Life Member can send any member of his family for being trained up as qualified Brahmin who can preach Bhagavad-gita as it is all over the world
+</card>

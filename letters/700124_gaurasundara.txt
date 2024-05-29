@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaurasundara ======
+====== Gaurasundara ======
 
+<card class="letter">
 My dear Gaurasundara,
 
 Please accept my blessings. I beg to thank you for your letter dated 22 January, 1970 along with check for $30 on my maintenance account.
@@ -23,3 +24,4 @@ I have received the overcoat-cloak sent by Govinda dasi who is so much kind and 
 
 As you are always thinking of me, I am also thinking of you; and the best thing will be I shall go there by the next mango season because last time when I was there I could not get any mango. I think in the compound on the new house you have purchased, you can grow some fast growing vegetables. One of them should be the squash creeper which I found in the compound of our last Temple. Sudama and Govinda dasi were collecting those creepers daily and both the leaves and flowers are so nice.\\
 [PAGE MISSING]
+</card>

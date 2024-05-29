@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara, Tamala Krsna ======
+====== Syamasundara, Tamala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Syamasundara and Tamala,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 London
 
 My dear Syamasundara,
@@ -53,3 +54,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. London center must also pay my monthly maintenance as others are paying. ACBS:db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tusta Krsna ======
+====== Tusta Krsna ======
 
+<card class="letter">
 Auckland, New Zealand
 
 My dear Tusta Krsna Maharaja,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 n.b.---the Nrsimhadeva Deity should have Hiranyakasipu and Prahlada and should be simple, not very complex.\\
 ACBS/hs
+</card>

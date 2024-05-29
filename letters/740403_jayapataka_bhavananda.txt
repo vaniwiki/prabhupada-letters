@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka , Bhavananda ======
+====== Jayapataka , Bhavananda ======
 
+<card class="letter">
 Mayapur
 
 Dear Jayapataka and Bhavananda Maharajas,
@@ -35,3 +36,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

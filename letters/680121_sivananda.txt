@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 I have received your letter. You are anxious to get my instructions of your activities. I think there is no need of getting a degree. If you can spare some time, you try to learn Bengali, from Sriman Prabhansu. It will be a great asset for our Mission; and as you have decided to work to get money, I quite approve. Be under the guidance of your elder brothers Janardana and you will progress nicely. Let Pradyumna live there in Boston; I have given him some tasks and he will do them.
@@ -17,3 +18,4 @@ Yes you can send the plant. I shall suggest your vibrator to Gaurasundara; and h
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

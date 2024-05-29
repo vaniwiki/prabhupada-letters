@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Surati Morarji ======
+====== Surati Morarji ======
 
+<card class="letter">
 Bombay
 
 My dear Madam Surati Morarji:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

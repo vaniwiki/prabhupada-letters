@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pavanadeva ======
+====== Pavanadeva ======
 
+<card class="letter">
 Sriman Pavanadeva\\
 c/o P.S. Rosen\\
 146 Academy Ave.\\
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

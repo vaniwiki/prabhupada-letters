@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ajitananda (Anthony), Purvacitti (Patty) ======
+====== Ajitananda (Anthony), Purvacitti (Patty) ======
 
+<card class="letter">
 My dear Spiritual Son and Daughter:
 
 Please accept my blessings. On the recommendation of Gunagrahi Das I am pleased to accept you as my initiated disciples. I am giving you spiritual names as follows: Anthony is Ajita-ananda and Patty is Purvacitti, wife of Maharaja Agnidra.
@@ -19,3 +20,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

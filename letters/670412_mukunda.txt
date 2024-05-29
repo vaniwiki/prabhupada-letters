@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my greetings and hearty blessings. I hope in the meantime you have received my previous letter informing my safe arrival in New York.
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 Enclosure: Copy of the certificate.\\
 N.B. I have not heard anything about the printing affair of Bhagavad-gita.
+</card>

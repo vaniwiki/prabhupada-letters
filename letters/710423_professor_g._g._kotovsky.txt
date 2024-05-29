@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Professor G. G. Kotovsky ======
+====== Professor G. G. Kotovsky ======
 
+<card class="letter">
 Professor G. G. Kotovsky\\
 Head, Department of Indian and South Asian Studies\\
 Institute of Oriental Studies\\
@@ -30,3 +31,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

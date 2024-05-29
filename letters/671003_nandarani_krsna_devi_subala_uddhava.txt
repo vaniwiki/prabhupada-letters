@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandarani, Krsna Devi, Subala, Uddhava ======
+====== Nandarani, Krsna Devi, Subala, Uddhava ======
 
+<card class="letter">
 My dear Nandarani, Krishna devi, Subala das, and Uddhava,
 
 Please accept my blessings. I am very glad to know that you are now in Los Angeles & organizing the most important temple. I had great desire to have our center in L.A. & by grace of Krishna you have fulfilled my desire. I had another great desire to open a temple in London and hoped also that Kirtanananda after accepting sannyasa would do this job. For this purpose he was given and introductory letter to a London lady along with expenses. However out of his whim he did not go to London but went directly to New York. This is a terrible example and it has shocked me. Your service attitude encourages me because Krishna can never be an order supplier. We should always remember that Krishna is the only order giver. His order is received through the agency of the spiritual master. The bona fide spiritual master is the manifest representative of Krishna. The spiritual master is described in the scriptures as good as Krishna because he is the most confidential servitor of Krishna. To please the spiritual master is to please Krishna. On this principle we must advance our Krishna Consciousness and there is no danger.
@@ -21,3 +22,4 @@ As to my returning to U.S., I wish to get a permanent visa this time so that I m
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

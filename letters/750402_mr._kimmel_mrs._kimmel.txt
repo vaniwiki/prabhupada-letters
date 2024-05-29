@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Kimmel, Mrs. Kimmel ======
+====== Mr. Kimmel, Mrs. Kimmel ======
 
+<card class="letter">
 Mr. and Mrs. Kimmel\\
 20321 Enadia Way\\
 Canoga Park, California 91306
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

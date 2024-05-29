@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Duryodhanaguru ======
+====== Duryodhanaguru ======
 
+<card class="letter">
 Toronto
 
 My dear Duryodhanaguru das,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

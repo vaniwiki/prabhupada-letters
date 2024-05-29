@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 International Society for Krsna Consciousness, Inc.\\
 Twenty-Six Second Avenue, New York, N.Y. 10003 \\
 Telephone: 674-7428
@@ -47,3 +48,4 @@ I have sent $ 100, that is Rs. 750, to Trivikram Maharaj for purchasing khole an
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

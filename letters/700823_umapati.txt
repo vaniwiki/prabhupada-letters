@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Umapati ======
+====== Umapati ======
 
+<card class="letter">
 Hamburg
 
 My dear Umapati,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

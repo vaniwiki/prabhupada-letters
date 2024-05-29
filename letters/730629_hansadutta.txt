@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Heidelberg, West Germany
 
 My dear Hansadutta,
@@ -65,3 +66,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

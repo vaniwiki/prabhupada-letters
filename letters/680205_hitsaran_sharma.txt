@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Hitsaran Sharma ======
+====== Hitsaran Sharma ======
 
+<card class="letter">
 A. C. BHAKTIVEDANTA SWAMI\\
 Camp: I.S.K.C.O.N. Radha Krishna Temple\\
 5364 W. Pico Blvd., Los Angeles, Cal. 90019\\
@@ -28,3 +29,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB
+</card>

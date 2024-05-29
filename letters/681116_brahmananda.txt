@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Nov. 11, 1968, and I have noted the contents. Later on I heard from Tamala Krishna that Purusottama has decided to come here and I also heard that Gargamuni has got a nice apartment by his father. So I am little relieved that Gargamuni has now a good apartment. But about him I have already written to you in my letter dated Nov. 12, 1968, and you should inform him about my opinion when he comes to New York. If he feels too much inconvenience at the care of his father, he may come back to you and help you there in New York.
@@ -29,3 +30,4 @@ Hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

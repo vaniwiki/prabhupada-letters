@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Umapati ======
+====== Umapati ======
 
+<card class="letter">
 Los Angeles
 
 My dear Umapati,
@@ -21,3 +22,4 @@ Thanking you.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

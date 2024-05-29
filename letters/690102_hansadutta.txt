@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 [__Based on the 1st paragraph, we believe that the original letter was incorrectly dated. Our estimate is that this is the correct date.__---Bhaktivedanta Archives]
 
 My dear Hansadutta,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Offer my blessings for Smt. Himavati my beloved daughter.
+</card>

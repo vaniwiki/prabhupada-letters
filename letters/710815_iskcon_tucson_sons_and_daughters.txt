@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: ISKCON Tucson, Sons and Daughters ======
+====== ISKCON Tucson, Sons and Daughters ======
 
+<card class="letter">
 TO ISKCON TUCSON:
 
 My dear Sons and Daughters,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

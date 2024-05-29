@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trai ======
+====== Trai ======
 
+<card class="letter">
 Dear Trai Das,
 
 Please accept my blessings. I beg to acknowledge receipt of your special delivery letter of July 17, 1973 and I have carefully examined the contents.
@@ -21,3 +22,4 @@ I am enclosing one brahmana thread chanted on by me for Mathuresh das. You may p
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

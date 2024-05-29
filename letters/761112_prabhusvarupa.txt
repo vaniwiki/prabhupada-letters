@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prabhusvarupa ======
+====== Prabhusvarupa ======
 
+<card class="letter">
 Haridasapur
 
 My dear Prabhusvarupa,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

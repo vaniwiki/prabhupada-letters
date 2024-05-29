@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vegavan ======
+====== Vegavan ======
 
+<card class="letter">
 Dear Vegavan,
 
 Please accept my blessings. I have received your letter of 19 January and examined the contents.
@@ -25,3 +26,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

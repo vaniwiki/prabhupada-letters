@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder) ======
+====== Krsnakatha (Kris Carlson), Anala (Anna Carlson) Riddha (Roger May), Maharddhi (Morley Walkowski), Rohita (Randy Hyndeman), Kala (Carl Mulder) ======
 
+<card class="letter">
 Vancouver
 
 My dear Sons and Daughters,
@@ -37,3 +38,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Hayagriva and Upendra ======
+====== Hayagriva and Upendra ======
 
+<card class="letter">
 My dear Hayagriva,
 
 With reference to our conversation on the phone, I may inform you that the printer Howard is not interested in hot type printing, because, when I met him last, I asked him whether he can print in sharp linotype. So, if he agrees, he must sign the letter which I have handed over to you and then the manuscript;one chapter after another;should be handed over to him for composing. The composition should be solid; only translation portion should be composed in 12-point type. The headings (Purport, translation, etc.) should be black, and on the top the left hand page shall contain “Geetopanishad,” and the right-hand page “Bhagavad Gita As It Is.” This will continue, and the page number and verse number should be printed in the corner of each page. If he agrees, then you can begin the printing work immediately. Or, if he has to say anything more, he or you can write to me.
@@ -21,3 +22,4 @@ I have received your very nice letter and dhup. I thank you very much. You are a
 I am\\
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

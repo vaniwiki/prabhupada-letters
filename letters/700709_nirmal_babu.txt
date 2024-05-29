@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nirmal Babu ======
+====== Nirmal Babu ======
 
+<card class="letter">
 Member of Parliament\\
 New Delhi
 
@@ -40,3 +41,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

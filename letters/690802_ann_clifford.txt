@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ann Clifford ======
+====== Ann Clifford ======
 
+<card class="letter">
 My dear Ann Clifford,
 
 Please accept my blessings. I am in due receipt of your letter dated July 25, 1969, and I have noted the contents carefully. I am pleased to learn that you have become interested in Krishna Consciousness through living at the Krishna House in Montreal and associating with the devotees there. Your return address is not at this Krishna House, and I hope that you are attending the Kirtanas which are held at the temple on Monday, Wednesday and Friday evenings. The chanting of Hare Krishna Mantra will clear away all of the difficulties that you have mentioned. Actually, as pure spirit soul, there is no difficulty; the cause of all problems is that we are forgetful of the fact that we are part and parcel of Krishna, and we are trying to enjoy the material nature through these material bodies. But the laws of material nature are so stringent that in spite of all attempts for enjoyment, the living entity in the material world must always come to the platform of suffering. This chanting of the Hare Krishna Mantra is especially recommended for chanting in this age of Kali yuga so that any sincere soul who takes to it will very soon regain his memory of being the transcendental loving servitor of the Lord, or Krishna. So if you will come to our temple on Park Avenue and chant and speak with the devotees as far as possible, you will find that all lesser attachments and lesser enjoyments will fall very short of your attachment for and attraction for service of the Lord in Krishna Consciousness. That is a fact, and my special request to you is that you seriously read our literature, especially __Bhagavad-gita As It Is,__ chant Hare Krishna always; then you will find your life becoming sublime.
@@ -16,3 +17,4 @@ Please accept my blessings. I am in due receipt of your letter dated July 25, 19
 Regarding your question about why we do not eat meat and yet we eat plant life, the answer is that we do everything as Krishna recommends. Everything we eat is first offered to Lord Krishna, and because Krishna does not eat meat, therefore we also do not eat meat. The fruits, grains, and vegetables which we offer to the Lord are not caused any suffering by our offering them to Krishna. Rather they are greatly benefited because to be offered for the pleasure of the Lord will grant for the living entity within the plant body certain liberation in the near future. Everything that we do in Krishna Consciousness is ultimately beneficial to all living creatures because we are working under the recommendations of the Lord Himself who is the well-wisher of all His part and parcel children. I hope this will sufficiently clear up this matter for you.
 
 I hope this will meet you in good health.
+</card>

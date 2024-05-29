@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 Sriman Hayagriva Das Adhikary\\
 c/o New Vrindaban
 
@@ -34,3 +35,4 @@ ACBS/adb
 cc: Rupanuga (N.Y.)
 
 P.S. If Shyama Dasi is competent to manage she should be made President, Ranadhir as Treasurer & Satyabhama or her husband as secretary.  ACB
+</card>

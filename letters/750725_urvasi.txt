@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Urvasi ======
+====== Urvasi ======
 
+<card class="letter">
 Mombassa, Kenya
 
 Dear Urvasi dasi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:bs
+</card>

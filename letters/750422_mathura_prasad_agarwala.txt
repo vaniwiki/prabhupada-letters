@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mathura Prasad Agarwala ======
+====== Mathura Prasad Agarwala ======
 
+<card class="letter">
 Proprietor\\
 Mathura Prasad Agarwala\\
 Agarwala Iron Works and\\
@@ -26,3 +27,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yadhavacarya ======
+====== Yadhavacarya ======
 
+<card class="letter">
 San Pedro, California
 
 My dear Yadhavacarya das,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

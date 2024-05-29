@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dayananda ======
+====== Dayananda ======
 
+<card class="letter">
 My dear Dayananda,
 
 Please accept my blessings. Just yesterday morning I was thinking of you that I did not hear from Dayananda for so many days, and immediately I got your nice letter dated April 25, 1969. You are such a nice soul that you are always thinking of Krishna and becoming more and more purified in Krishna Consciousness. As stated in the __Srimad-Bhagavatam,__ First Canto, Second Chapter, Twenty-Seventh Verse, Krishna is sitting in everyone's heart and He is purifying one who is Krishna Conscious. The symptoms of advancement in Krishna Consciousness is gradually feeling detached to materialistic way of life. Although you are young man, you have got your nice young wife and child, and by Krishna's Grace, everything is all right so far as your family is concerned, still you are feeling detached. That is very nice. But when your wife and child all are cooperating in your Krishna Consciousness, there is no hampering in your progress. So keep yourself always in Krishna Consciousness with your family members, raise your children to that standard, and employ your energy for serving Krishna. Then, even though you are in family life, you are as good as sannyasi.
@@ -23,3 +24,4 @@ I shall be glad to receive your letters at least once in a week. I hope this wil
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

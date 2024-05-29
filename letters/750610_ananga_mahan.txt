@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ananga Mahan ======
+====== Ananga Mahan ======
 
+<card class="letter">
 Sri Caitanya Gaudiya Math\\
 Puri
 
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

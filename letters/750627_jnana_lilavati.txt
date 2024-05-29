@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jnana, Lilavati ======
+====== Jnana, Lilavati ======
 
+<card class="letter">
 Nairobi
 
 My dear Jnana das and Lilavati dasi:
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

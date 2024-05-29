@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinesh ======
+====== Dinesh ======
 
+<card class="letter">
 My dear Dinesh,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 17th, 1970. Regarding the letter from Mr. Gangulee, it is very nice that he has agreed to write it and the copies should be attached to each and every visa of the devotees as you have mentioned---that is very good proposal. But regarding taking the visas, they are already coming, Hansadutta and Himavati are already here and I have received telegram that the others are leaving London and expect to be here on the 3rd of October. Anyway, you are managing the affair nicely so far, so please see whatever remains to be done is finished up properly. This is an important matter and up to now it is going on well. So whatever you do in this connection, I am sure of its being alright.
@@ -21,3 +22,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

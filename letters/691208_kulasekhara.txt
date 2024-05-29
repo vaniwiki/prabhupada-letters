@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kulasekhara ======
+====== Kulasekhara ======
 
+<card class="letter">
 My dear Kulasekhara,
 
 Please accept my blessings. I beg to thank you for your letter dated December 2nd, 1969. I am pleased to learn that things are going nicely there. Please follow the routine work as you are doing now and everything will be pleasing and smooth. That is sure and certain. Whenever there is doubt or question, just discuss this amongst yourselves, and if there is no satisfactory solution, you refer to me. But live in Krishna Consciousness. That will make you happy.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *In special cases you can simply wash your hands and feet and change your dress washed. That will purify you.
+</card>

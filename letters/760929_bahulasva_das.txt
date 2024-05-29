@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bahulasva das ======
+====== Bahulasva das ======
 
+<card class="letter">
 Sriman Bahulasva das,\\
 9712 Charnock Ave.\\
 Los Angeles,\\
@@ -33,3 +34,4 @@ Los Angeles,\\
 California 90034, U.S.A.
 
 ACBS/as
+</card>

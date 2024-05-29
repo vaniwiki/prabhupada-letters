@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sahadeva ======
+====== Sahadeva ======
 
+<card class="letter">
 Houston
 
 My dear Sahadeva das adhikari,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

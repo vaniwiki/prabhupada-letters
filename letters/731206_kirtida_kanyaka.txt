@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtida Kanyaka ======
+====== Kirtida Kanyaka ======
 
+<card class="letter">
 My dear Kirtida Kanyaka,
 
 Please accept my blessings. Thank you very much for the Tulasi leaves offered to Lord Caitanya's lotus feet. If one is fortunate enough to receive such holy prasadam then all sinful reactions are immediately purified within the heart and pure devotional service is very easily obtained.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
+</card>

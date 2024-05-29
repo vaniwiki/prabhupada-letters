@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 Dear Kirtanananda Maharaja,
 
 Please accept my blessings. I beg to acknowledge your requests for initiations of devotees at New Vrindaban, contained in your letter of December 30, 1973.
@@ -33,3 +34,4 @@ Go on developing New Vrindaban: next month I am coming there. Is my apartment co
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

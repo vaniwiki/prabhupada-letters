@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of Equitable Savings and Loan Association ======
+====== Manager of Equitable Savings and Loan Association ======
 
+<card class="letter">
 Manager\\
 Equitable Savings and Loan Association\\
 Fairfax-Beverly Branch\\
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 
 ACB;bm\\
 cc: Mr. Michael Wright
+</card>

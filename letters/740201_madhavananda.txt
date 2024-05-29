@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhavananda ======
+====== Madhavananda ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 Dear Madhavananda,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinesh Candra Sarkar ======
+====== Dinesh Candra Sarkar ======
 
+<card class="letter">
 Dist. Hooghly\\
 West Bengal
 
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

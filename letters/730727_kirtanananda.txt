@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 My dear Kirtanananda Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 21st July, 1973. I have noted the contents with great pleasure.
@@ -24,3 +25,4 @@ Regarding Janmastami. Why not continue your festival up to the end of the month 
 Why do you say "little sannyasi", you are Maharaja---Great King. Like Yudhisthira Maharaja and Pariksit Maharaja---Emperor. Actually you are doing something very, very big---so you are Maharaja. Krishna will bless you. Therefore you are Kirtanananda, one who take pleasure in Kirtana.
 
 I hope you are well.
+</card>

@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter dated Nov. 5, including the air waybill but before this, I had cleared the record player paying a duty of 120.oo Rs. So there is no more any chance of getting back this money. But your timely dispatching the machine is very much appreciated by Krishna and I thank you very much for this prompt service. Regarding your telegram; I may inform you that I am starting sometime next week. I shall inform you as soon as I book my ticket of my time of arrival (ETA). Regarding your business, I have seen many merchants who will supply us incense, frankincense, saris, musical instruments, dancing ghungru (jingle bells for feet) etc. Hope you are well
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

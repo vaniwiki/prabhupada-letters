@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 29th January, 1971 and have noted the contents carefully. I am so glad to hear that you have just returned from a successful touring of the temples in Southern U.S.A. and had an occasion to meet and speak with our sannyasis also. The sannyasis are trying their best. So let them go on as they have been doing and let them do in their own way. There is no trouble.
@@ -20,3 +21,4 @@ So far as securing $50.00 for each initiation into Hare Krishna Mantra, that is 
 I have given further instruction to Gargamuni Maharaja concerning the Pakistan affair today. A copy of that letter is enclosed herein. So far as your being replaced as President of Boston temple, I have no objection. For better management of the whole institution, the governing body commission is responsible. So I shall be simply pleased to see that things are going on very nicely.
 
 [PAGE MISSING]
+</card>

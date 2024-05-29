@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I am in due receipt of your letter dated by the post office on July 2, 1969, and I have noted the contents carefully. I have received one letter from Krishna Das dated July 2nd, wherein he states "I have sent to you the ticket to Europe on the 23rd of June. Have you received it yet?" As of today I have still not received this ticket, so I hope you have cancelled it already from the German airline office. I do not know what is the position with this ticket, it may be lost in the mail, but if you have cancelled it already, there is no difficulty. Please inform me immediately what is the situation with this lost ticket.
@@ -21,3 +22,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

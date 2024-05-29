@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: John Milner ======
+====== John Milner ======
 
+<card class="letter">
 Tallahassee, Florida
 
 My dear John Milner,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

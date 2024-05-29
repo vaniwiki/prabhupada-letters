@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 __CONFIDENTIAL__
 
 My dear Brahmananda,
@@ -36,3 +37,4 @@ Awaiting your early reply.
 Your ever wellwisher,\\
 A.C. Bhaktivedanta Swami,\\
 Enclosure :1
+</card>

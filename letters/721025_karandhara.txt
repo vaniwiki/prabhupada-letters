@@ -7,9 +7,11 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 Bombay\\
 [To Karandhara]
 
 ---IF TITLE CLEAR SETTLEMENT ACCEPTED LETTER FOLLOWS---BHAKTIVEDANTA SWAMI
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I am in due receipt of your letter without any date. Purusottama says that this is a particular specialty of your letters that you write without any date. I think that you are right, because you are eternal. There is no beginning and no end and your enthusiasm is also eternal. You never get tired of serving Krishna, so I hope you shall eternally be engaged in serving Krishna because there is no end of such service.
@@ -31,3 +32,4 @@ Please convey my blessings to the other devotees there in Boston. I hope this fi
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

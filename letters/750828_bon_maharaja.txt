@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bon Maharaja ======
+====== Bon Maharaja ======
 
+<card class="letter">
 His Holiness Swami B.H. Bon Maharaja\\
 Bhajan Kutir, Madan Mohan\\
 Vrindaban
@@ -29,3 +30,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

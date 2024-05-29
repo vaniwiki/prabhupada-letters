@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Arundhati ======
+====== Arundhati ======
 
+<card class="letter">
 My dear Arundhati,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 24, 1969. Regarding your working hours, if you can work more, of course that is very good. Caitanya Mahaprabhu says that we should be engaged in Krishna's service always, without any gap. So we should mold our life in such a way that not a minute will be blank without Krishna's service. Regarding your first question, the proof of Krishna Consciousness is that the __Bhagavad-gita__ it is oldest transcendental literature about God-consciousness in the history of the world. It is estimated from authoritative sources of Vedic literature that __Bhagavad-gita__ is eternal truth and was first revealed within our knowledge at least 120 millions of years ago. So what other literature can be compared with __Bhagavad-gita__ throughout the whole world or universe? The second proof is that Krishna is accepted as the Supreme Personality, not only in the modern age, namely within two thousand years, by great acaryas like Sankaracarya, Ramanujacarya, Madhvacarya, Lord Caitanya, etc., but before this in all Vedic literatures given by Vyasadeva, Krishna is accepted as the Supreme Personality of Godhead. So whatever is spoken by the Supreme Lord Himself is certainly the most authoritative. So far as we are concerned, we do not make any alterations in the statements of Krishna. Therefore we are also authority. Just like 2 plus 2 equals four is mathematical truth. Anyone who accepts this axiomatic truth and works on this principle is also authority. To become authority is simply to follow the authority. If someone makes 2 plus 2 equal to 3 or 5, he is a rascal. That means he does not follow the authority and thus he fails to become himself an authority.
@@ -17,3 +18,4 @@ Regarding crying, when someone cries during kirtana, this crying is crying of th
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

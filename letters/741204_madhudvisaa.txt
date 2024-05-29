@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 MADHUDVISA SWAMI
 
 RECEIVED YOUR LETTER IT WILL BE NICE I COME FOR YOUR TEMPLE OPENING IN JANUARY ARRANGE FOR IT
 
 AC BHAKTIVEDANTA SWAMI
+</card>

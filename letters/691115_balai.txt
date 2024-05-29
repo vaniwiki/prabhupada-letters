@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balai ======
+====== Balai ======
 
+<card class="letter">
 My dear Balai,
 
 Please accept my blessings. After a long time I have received your letter and I thank you very much. I always think of you how nice, Krishna Conscious, beautiful girl you are. So Krishna has given you a nice daughter to take care of. Here, the daughter of Malati, Sarasvati, is giving us much pleasure in her Krishna Consciousness activities. She is so nice that as soon as there is chanting sound of kirtana immediately she begins to dance and clap. Even the audience becomes astonished and they follow her activities. It is very nice. I think your daughter may now be walking, so she may also be trained for dancing and clapping.
@@ -19,3 +20,4 @@ Please offer my blessings to your daughter, Nandini. I hope this will meet you i
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

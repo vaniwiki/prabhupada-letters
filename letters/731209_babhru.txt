@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Babhru ======
+====== Babhru ======
 
+<card class="letter">
 My dear Babhru,
 
 Please accept my blessings. I am in receipt of your letter dated December 8th along with the $20.00 Guru daksina.
@@ -25,3 +26,4 @@ I hope this meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

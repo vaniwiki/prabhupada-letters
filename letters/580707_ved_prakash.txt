@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ved Prakash ======
+====== Ved Prakash ======
 
+<card class="letter">
 My dear Sri Ved Prakash,
 
 I am in due receipt of your letter No VP 1159/58 D/2/7/58 with thanks and have noted the contents carefully.
@@ -26,3 +27,4 @@ So my idea of preaching in the foreign countries means that they are rather fed 
 Hope, now you may have returned from Calcutta.
 
 Yours etc.
+</card>

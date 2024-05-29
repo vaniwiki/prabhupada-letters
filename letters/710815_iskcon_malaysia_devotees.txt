@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: ISKCON Malaysia, Hanuman, Noo, others ======
+====== ISKCON Malaysia, Hanuman, Noo, others ======
 
+<card class="letter">
 TO ISKCON MALAYSIA:
 
 My dear Hanuman, Noo, etc.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

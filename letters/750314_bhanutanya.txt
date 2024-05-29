@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhanutanya ======
+====== Bhanutanya ======
 
+<card class="letter">
 Brooklyn
 
 My dear Bhanutanya dasi,
@@ -21,3 +22,4 @@ Your ever well-wisher,
 
 A.C. Bhaktivedanta Svami\\
 ACBS/ps
+</card>

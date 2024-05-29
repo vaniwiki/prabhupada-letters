@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 New Delhi
 
 My dear Tejiyas,
@@ -25,3 +26,4 @@ Hoping this meets you in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

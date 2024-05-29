@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: People of Bangkok ======
+====== People of Bangkok ======
 
+<card class="letter">
 Bangkok
 
 To the People of Bangkok, Thailand
@@ -28,3 +29,4 @@ Faithfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

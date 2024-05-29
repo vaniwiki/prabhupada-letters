@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 London
 
 My dear Syamasundara,
@@ -69,3 +70,4 @@ A.C. Bhaktivedanta Swami
 
 *I have received one letter from Yamuna and she requires the list.\\
 ACBS:db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 My dear Karandhara,
 
 Please accept my blessings. I have received your special delivery letter of 15 October, 1970, and have noted the contents with great pleasure. You are one of my most determined students and for this reason I think that Krsna is giving you all facilities for serving Him. It is most encouraging to me to see that you are spreading this movement so nicely and I thank you for this. Lord Caitanya Mahaprabhu has forecast that this Hare Krsna Mantra will be heard in every nook and cranny of the globe. He is God, so it will happen, that is a fact. So if we take advantage then we may take the credit, but if we do not someone else will.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:sda
+</card>

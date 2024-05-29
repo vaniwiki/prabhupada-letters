@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Revatinandana ======
+====== Revatinandana ======
 
+<card class="letter">
 Los Angeles
 
 My dear Revatinandana Swami
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 N.B. Why not also consult with Satsvarupa Maharaja and take standing orders for my books like he is doing. We are getting very good reception for my books from the learned circles. This is very encouraging. Work like this within the schools and colleges.
+</card>

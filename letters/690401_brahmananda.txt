@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated March 26, 1969, and I have noted the contents carefully. Regarding the letter to the draft board, I would like that you boys may decide among yourselves what is to be done. When you have decided amongst yourselves, send it to me and I shall sign. I understand that Tamala Krishna has contacted a lawyer in Los Angeles, so you may contact Tamala Krishna to see what he has learned.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 NB: If Purusottama's ticket is to be student fare, then please send him one student card and identification.
+</card>

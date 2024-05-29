@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Mohan Singh ======
+====== Dr. Mohan Singh ======
 
+<card class="letter">
 Chandigarh
 
 My dear Dr. Mohan Singh,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hds
+</card>

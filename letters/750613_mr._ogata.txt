@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Ogata ======
+====== Mr. Ogata ======
 
+<card class="letter">
 Mr. Ogata\\
 Int. Sales Manager\\
 Dai Nippon\\
@@ -24,3 +25,4 @@ Yours very sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

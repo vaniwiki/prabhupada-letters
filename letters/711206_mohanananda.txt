@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mohanananda ======
+====== Mohanananda ======
 
+<card class="letter">
 My dear Mohanananda,
 
 Please accept my blessings. I beg to acknowledge your letter of November 16, 1971, and I am very pleased to note that all activities of the Dallas, Texas, center are going on nicely under your supervision. You are a very nice boy, so I think Krishna has given you His special favor to serve Him as a responsible officer in His Movement. Now you shall have to become very serious and convinced yourself in order to manage others, and this will force you to become Krishna Conscious.
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

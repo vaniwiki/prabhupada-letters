@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 Bombay
 
 My dear Gopala Krishna das,
@@ -37,3 +38,4 @@ A.C. Bhaktivedanta Swami
 ACBS/pks\\
 n.b. Which devotee is giving the Hindi lecture in the Vrindaban temple?\\
 *There are so many flats available in the vicinity. Why do they not take? Why they should create inconvenience to our workers? This is not at all good.
+</card>

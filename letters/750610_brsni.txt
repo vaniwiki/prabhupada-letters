@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brsni ======
+====== Brsni ======
 
+<card class="letter">
 Kealakekua, Hawaii
 
 My dear Brsni dasa,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

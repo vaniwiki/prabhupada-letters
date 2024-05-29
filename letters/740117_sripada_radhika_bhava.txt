@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripada Radhika Bhava ======
+====== Sripada Radhika Bhava ======
 
+<card class="letter">
 Sripada Radhika Bhava\\
 c/o Imli Tala, Vrindaban
 
@@ -17,3 +18,4 @@ With humble obeisances at the lotus feet of the devotee, Sripada Radhika Bhava, 
 Yours,
 
 Sri Bhaktivedanta Swami
+</card>

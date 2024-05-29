@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Karsan ======
+====== Mr. Karsan ======
 
+<card class="letter">
 Dear Mr. Karsan,
 
 Please accept my blessings.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

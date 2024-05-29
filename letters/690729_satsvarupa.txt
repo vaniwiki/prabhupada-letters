@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. While I was in San Francisco I received your letter dated July 25, 1969. The most important point is whether you shall give up your present job, which is bringing at least $125 per week. You cannot give up your job on Murari's request. You have to think yourself. You are more sober than Murari. Simply for whipping into shape some new young boys I do not find any substantial reason to give up your job. You can give instruction to Murari so that he being experienced amongst the group can conduct the job in your absence. You say that in the severe cold there will be no possibility of going out. If others can work at that time, why should you give up your work at this time? My only point is that if you can manage all the affairs through the assistance of Murari and others, you may not give up your job. But if your presence improves the situation, I have no objection for your quitting your present job. Nothing should be done impelled by any sentiment. Everything should be judged frm the practical point of view. My decisive advice is that if you can manage without giving up your present job, that is very nice.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. The Rathayatra festival was very successful in S.F. I am awaiting report of your festival in Boston. ACB The London advertisement is enclosed herewith.
+</card>

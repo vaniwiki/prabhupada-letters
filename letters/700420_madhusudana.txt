@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhusudana ======
+====== Madhusudana ======
 
+<card class="letter">
 Washington, D.C.
 
 My dear Madhusudana,
@@ -18,3 +19,4 @@ Please accept my blessings. I beg to thank you for your letter dated 14th April,
 I am very glad that you are appreciating the transcendental benefit out of Krishna Consciousness Movement. Actually this is the prime benediction for human society. My Guru Maharaja used to say that there is no scarcity of anything within this world, the only scarcity is people are not aware of Krishna Consciousness. The whole world is suffering for want of this great benediction. Therefore by the grace of Lord Caitanya if we have understood the value of this movement it will mean a great lot as it is stated in the Bhagavad-gita that even a little performance of Krishna Consciousness activity will save the human society from the greatest danger of life.
 
 I am very glad to know that you are trying to understand this philosophy, now combinedly, husband and wife, preach it all over the world, at least in your great country.
+</card>

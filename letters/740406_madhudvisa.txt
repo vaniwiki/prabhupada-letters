@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 San Francisco
 
 Dear Madhudvisa Maharaja,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 c.c. to ISKCON MELBOURNE
+</card>

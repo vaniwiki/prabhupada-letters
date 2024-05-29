@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I am in due receipt of your nice letter dated March 12, 1968. I thank you very much for it, and I am so glad to hear that everything is going well there, and that Yadunandana and John are there helping in so many ways.
@@ -25,3 +26,4 @@ Please keep me informed of the progress of your fine arts department; I am alway
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

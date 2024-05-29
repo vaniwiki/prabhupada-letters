@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda Maharaja,
 
 Please accept my blessings. I beg to acknowledge the receipt of your letter, dated 15/1/74. I have noted the contents carefully.
@@ -23,3 +24,4 @@ It is a great task. Let us be cognizant of our responsibility. I hope this will 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

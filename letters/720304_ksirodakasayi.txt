@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ksirodakasayi ======
+====== Ksirodakasayi ======
 
+<card class="letter">
 Delhi
 
 My dear Ksirodakasayi,
@@ -21,3 +22,4 @@ Hoping this will meet you in good heath.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

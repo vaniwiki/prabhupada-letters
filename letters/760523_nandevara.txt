@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandevara ======
+====== Nandevara ======
 
+<card class="letter">
 Montreal
 
 My dear Nandevara das,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

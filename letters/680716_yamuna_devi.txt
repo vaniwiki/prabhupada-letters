@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yamuna devi ======
+====== Yamuna devi ======
 
+<card class="letter">
 My dear Yamuna devi,
 
 Please accept my blessings. I thank you very much for your letter dated July 9, 1968, giving a vivid description of the Rathayatra festival. I understand that Mukunda and Janaki are now living with you, but I have not received any letter from them. Anyway, I understand that Mukunda is leading now a nice Kirtan party in the streets, and there is good response. The time is fast approaching when we will have to perform such public Kirtan in all the important cities of the world. Here also, in the Expo, they have performed Kirtan for two days, and it is wonderfully successful.
@@ -22,3 +23,4 @@ We are all keeping well here, and I hope the same is with you also, along with y
 Your ever well-wisher,
 
 A.C. Bhaktivedanta Swami
+</card>

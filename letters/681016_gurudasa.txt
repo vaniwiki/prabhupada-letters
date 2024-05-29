@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I am in due receipt of your nice letter dated Oct. 11, 1968, and by reading the contents it was so much encouraging, for me. Previous to this I received one letter from Mukunda and that was also very encouraging, so I am sure combined together you will have a great success in starting the ISKCON temple in London. I have also received one letter from Ginsberg, that Mr. Tom Driberg is an intimate friend of Ginsberg and he has already written to him promising all help to us. So by Grace of Krishna there you are meeting nice gentlemen, interested gentlemen, and I hope it will come very grand success. And so far I am concerned, I may be going back again to Montreal, because there is an interview with the Consulate General in Montreal on the 25th Oct., and from there I may be going to Santa Fe, and from there I may be going to Los Angeles, so my program is going on here. Here also in Seattle there is work going on. And similarly I am receiving report from New Vrindaban and Columbus that our Hayagriva Brahmacari, Professor Howard Wheeler, he is also doing there preaching amongst the students. So by the Grace of Krishna this mission is going on nicely, and I shall be glad to hear from you further good news. Please offer my blessings to your good wife, Yamuna, as well as all other devotees, Mukunda, Syamasundara, Malati, Janaki, and Sarasvati devi. I hope this will find you in good health. Thanking you once more for writing me.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

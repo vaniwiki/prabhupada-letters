@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Phyllis Zakheim ======
+====== Phyllis Zakheim ======
 
+<card class="letter">
 My dear Phyllis Zakheim:
 
 Please accept my greetings. I am in due receipt of your letter dated 16th June, 1971 and have noted the contents. Please know it that "Nara Narayana" is a spirit soul, and not the physical body. That physical body was given by you, so it is very good that you take care of the physical side. So far I am concerned, I am giving him spiritual enlightenment, and I am taking care of that. So if you will take care of the physical side, that will compromise the situation.
@@ -19,3 +20,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Labangalatika ======
+====== Labangalatika ======
 
+<card class="letter">
 New York
 
 My dear Labangalatika dasi,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Send through Hansadutta
+</card>

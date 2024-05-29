@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Goursundar ======
+====== Goursundar ======
 
+<card class="letter">
 Box 211\\
 Paau Hau, Hawaii 96775, USA
 
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

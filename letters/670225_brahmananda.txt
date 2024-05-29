@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 I have sent you three four letter consecutively but I have received no reply.
@@ -31,3 +32,4 @@ Hope you are all well and with my blessings
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

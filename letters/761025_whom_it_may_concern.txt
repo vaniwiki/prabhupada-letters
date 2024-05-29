@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Whom it may concern ======
+====== Whom it may concern ======
 
+<card class="letter">
 To whom it may concern:
 
 It is a great pleasure for me that Dr. S.R. Chakravarti has sung some important verses from Srimad-Bhagavatam, now made into a record album. I have heard these songs and am confident that anyone who will listen to these nice songs will be inclined to read my complete translation of the Srimad-Bhagavatam, now available in English (60 volumes), which has been published by the Bhaktivedanta Book Trust in Los Angeles, U.S.A.
@@ -18,3 +19,4 @@ Faithfully,
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

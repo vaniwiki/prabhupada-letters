@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinesh ======
+====== Dinesh ======
 
+<card class="letter">
 My dear Dinesh,
 
 Please accept my blessings. I am in due receipt of your letter dated April 22, 1969, and I have carefully noted the contents. I have already acknowledged receipt of your nicely taped kirtana recording. I think that the mrdanga sound should be a little more increase, and the tampura sound should be decreased. When the chorus is chanting in response to the leader, the mrdanga is not very distinctly heard. Therefore, it should be increased. As for when this record will be pressed, I think this should be done as soon as possible, because everyone is already wanting this record. If you cannot get it pressed immediately, then I have asked Brahmananda to arrange for the pressing. I have heard that Dai Nippon Company can give such pressing at a competitive price. The jacket design you have described sounds nice, so you may develop it in this way.
@@ -17,3 +18,4 @@ I hope this will find you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

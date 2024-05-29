@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 Delhi
 
 My dear Tejyas das,
@@ -28,3 +29,4 @@ Hansadutta Swami\\
 GBC Secretary for India\\
 n.b. The mentioned how the programs are being well attended at the new centre in New Delhi, so when I stay in Vrindaban, we can arrange meetings with important government officials at our new centre and I can come for the weekend and return to Vrindaban. New Delhi is the most important place for preaching to the leaders of India.\\
 ACBS/pks
+</card>

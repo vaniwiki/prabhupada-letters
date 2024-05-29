@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 New York
 
 My dear Rupanuga,
@@ -28,3 +29,4 @@ Hoping this will meet you in good health.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS/sda
+</card>

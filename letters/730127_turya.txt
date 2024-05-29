@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Turya ======
+====== Turya ======
 
+<card class="letter">
 Mexico City
 
 My dear Turya dasa,
@@ -21,3 +22,4 @@ Hoping this meets you all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

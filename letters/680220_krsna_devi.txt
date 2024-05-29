@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Krsna Devi ======
+====== Krsna Devi ======
 
+<card class="letter">
 My dear Krishna devi,
 
 I am very glad to receive your letter of 2/15/68. Please accept my blessings. I am expecting you every moment. Krishna is very kind. He does not let go anyone who might have done a little bit of service. So how can He allow you to forget Krishna. You may be dragged by Maya for the time being but by Krishna's Grace that will have only temporary reaction; I am very glad that you are doing so much for decorating Krishna's temple. I thank Danny also because he is helping you in the service of Krishna. So I am also with you and I shall do my best to help you in advancing your Krishna Consciousness. Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

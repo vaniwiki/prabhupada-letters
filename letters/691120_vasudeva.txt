@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vasudeva ======
+====== Vasudeva ======
 
+<card class="letter">
 My dear Vasudeva,
 
 Please accept my blessings. I thank you very much for your nice letter and the beautiful picture of Radha-Krishna which you have sent to me. Immediately upon receipt of this picture, I have hung it on the wall directly above my Deities, and it is appearing very nice there. Thank you very much. I always remember you that you are such a sincere and good boy, and I am sure that Lord Krishna will help you more and more to advance in Krishna Consciousness. Krishna is very merciful to His sincere devotees, but also we have to remember that Maya is very strong. Therefore, we have to always be engaged in serving Krishna. At every moment we should be doing this or that service for Krishna's transcendental pleasure. If we do not remember this, then Maya is right there to grab us. It all depends upon our leaning towards Krishna or towards Maya. If you lean towards Krishna, you will be in Krishna Consciousness; and if you lean towards Maya, then you will be captivated by material nature. Krishna and Maya are just like light and shadow which are directly next to one another. If you move a little this way, you are in light and there is no question of shadow. But if you move a little the other way, you are in darkness. So if we remember to always be engaged in Krishna's service, then there will be no Maya and everything will be all right. Please always remember this great secret of advancement in Krishna Consciousness. So as you are showing promise to be a nice artist, I think you may next paint some pictures of the Spiritual Masters in the line of disciplic succession. Also, continue to fix up the new temple nicely and promote the Sankirtana Movement as far as possible. These, along with promoting our literatures will give you sufficient engagement to fill your time. Also, continue to chant all of your rounds daily, and read our magazines and books as much as possible. In this way your future will be very bright, and surely you will be able to do great service to this movement within your lifetime.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhavabhuti ======
+====== Bhavabhuti ======
 
+<card class="letter">
 Madras
 
 My dear Bhavabhuti das,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

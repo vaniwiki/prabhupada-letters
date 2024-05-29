@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of your encouraging letter dated Sept. 19th, 1970. I am so glad to know that things are progressing nicely with your center. That should be our constant care---to maintain what we have already established and continue to improve the standard as far as possible in the loving service of Lord Krsna.
@@ -23,3 +24,4 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

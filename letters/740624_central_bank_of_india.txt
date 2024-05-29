@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Central Bank of India ======
+====== Central Bank of India ======
 
+<card class="letter">
 Central Bank of India
 
 Gowalia Tank Road Branch,\\
@@ -36,3 +37,4 @@ Very truly yours,
 A.C. Bhaktivedanta Swami
 
 Settlor
+</card>

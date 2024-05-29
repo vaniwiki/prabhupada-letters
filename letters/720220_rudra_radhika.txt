@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rudra, Radhika ======
+====== Rudra, Radhika ======
 
+<card class="letter">
 My dear Rudra das and Radhika devi dasi,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters of January 7, 1972, and I am very much pleased that you have opened a very nice center in Madison, Wisconsin. Thank you very much. Now develop it very nicely, and especially make certain that the daily routine program is held nicely and to the regular highest ISKCON standard, that is, you should see that our rising early, holding mangala arati, chanting 16 rounds, reading books, having classes, street sankirtana, etc., go on just to the highest standard and are never for any reason neglected. In this way your success is assured, but if we neglect even for a moment our routine, work, if we allow the regular program to become slack then everything else we may try will fail. I think you have understood these things and you are doing things very nicely, and because your "number one concern" is distributing my books and preaching, I think Krishna will give you all facility to increase more and more and make advancement in Krishna Consciousness.
@@ -20,3 +21,4 @@ You have described how you once fell down because you saw discrepancies in our p
 Also, I have no objection if you purchase cars for serving Krishna, as they appear to be required for distributing books and incense, so why not have them? And when you are more developed, you may install deities and worship them very opulently. My only point is that simultaneously we must increase our literature production and build Mayapur Temple, But it is not that we have to stop everything else for one thing. The art of managing is to do all things at once in a nice manner, and the guiding principle is to do whatever is practical for preaching KC and at the same time maintaining our high standards of routine KC practices for making ourselves progress on the Spiritual path. Regarding the teacher Miss Wilson, you may engage her in translating, if she can read Bengali type. She can try Jiva Goswamis "Sandarbhas"---that will be a great contribution. So far Radhika's work, I am very pleased you are continuing translating into Russian language my books and essays. This book business is the most important of all, so kindly continue giving it your full attention. Work in Russia is going on slowly, and we have got a plan to send French devotee girl there to marry our Russian boy devotee in Moscow, and then the work will go much faster. I shall inform you when we are ready for BTG in Russian language, meanwhile go on with the work. Krishna das is in Europe, you may write him c/o Hamburg center. If you have honey, why not use instead of sugar but I think it is too expensive to be practical.
 
 [PAGE MISSING]
+</card>

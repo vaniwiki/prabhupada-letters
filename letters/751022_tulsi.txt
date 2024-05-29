@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tulsi ======
+====== Tulsi ======
 
+<card class="letter">
 Los Angeles
 
 My dear Tulsi das,
@@ -43,3 +44,4 @@ Jim---(Ksamabhudi das)
 2nd Initiation: Gajapati das, Pundarika Vidyanidhi, and Raksana.\\
 Enclosed you will find 3 brahmana threads, and you may hold a fire-yajna emphasizing the importance of strictly following the 4 regulative principles, and chanting daily minimum of 16 rounds japa.\\
 ACBS/pks
+</card>

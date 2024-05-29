@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: West Coast Temple Presidents ======
+====== West Coast Temple Presidents ======
 
+<card class="letter">
 West Coast Presidents
 
 My dear Devotee Presidents:
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

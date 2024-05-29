@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Sarkar ======
+====== Mr. Sarkar ======
 
+<card class="letter">
 Dear Mr. Sarkar,
 
 Regarding your proposed Hare Nama Sankirtana, please accept my well wishes for your sincere endeavor.
@@ -17,3 +18,4 @@ Hoping this meets you in good health.
 
 Yours Sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

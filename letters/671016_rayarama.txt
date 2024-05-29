@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter (Oct. 12). I've received copy of #14 BTG & it is very nice. I do not wish to disturb you in your responsibilities with BTG & you can go to London at your convenience. I am glad that you have started correspondence with Mrs. D.C. Bowtell, & that will settle matters more directly. One of our girl devotees, Srimati Annapurna devi, who is in San Francisco has also facilities to visit London because she belongs to that place. So you can open correspondence with her also.
@@ -17,3 +18,4 @@ I have already requested Brahmananda to stop Kirtanananda's speaking at any of o
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

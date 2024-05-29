@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others ======
+====== ISKCON New Orleans, Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, others ======
 
+<card class="letter">
 TO ISKCON NEW ORLEANS:
 
 My dear Nityananda, Joseph, Debra, Kanya Kumari, Aubrey, Michael, Susan, etc.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

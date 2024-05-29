@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhava Sharnaji ======
+====== Madhava Sharnaji ======
 
+<card class="letter">
 Gorakhpur
 
 My dear Madhava Sharnaji,
@@ -21,3 +22,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

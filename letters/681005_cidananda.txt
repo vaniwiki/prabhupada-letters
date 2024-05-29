@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Cidananda ======
+====== Cidananda ======
 
+<card class="letter">
 My dear Cidananda,
 
 Please accept my blessings. I have received acknowledgement of my letter dated 26th Sept., 1968, from Mr. S.S. Sethi, whom you saw. So I am replying him and the copy of the letter is enclosed, herewith. You can immediately go and see him and deliver the wrong passport, and take receipt signature on the copy of the letter. And keep the copy of the letter with the receipt signature, carefully.
@@ -19,3 +20,4 @@ I have not heard anything about the negotiation of the new temple house, and I s
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

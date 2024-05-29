@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Caruhasa ======
+====== Caruhasa ======
 
+<card class="letter">
 Los Angeles
 
 My dear Caruhasa das;
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS:bs\\
 *About trying to have karmis make a movie on Krsna Book.
+</card>

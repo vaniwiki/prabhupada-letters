@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kalacanda ======
+====== Kalacanda ======
 
+<card class="letter">
 Los Angeles
 
 My dear Kalacanda dasa,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Continue doing nice plays for the public. This can be very attractive if it is done very nicely.\\
 ACBS/ps
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. Today I have booked my seat for San Francisco. Please inform this news to all the devotees, My spiritual sons and daughters. I have sent you one cablegram reading as follows;
@@ -19,3 +20,4 @@ More when we meet. Hope you are well
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

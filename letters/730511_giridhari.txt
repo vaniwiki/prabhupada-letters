@@ -6,8 +6,9 @@
 }
 ---
 
-====== Letter to: Giridhari ======
+====== Giridhari ======
 
+<card class="letter">
 Houston
 
 My dear Giridhari,
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

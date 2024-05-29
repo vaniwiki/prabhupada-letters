@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: William Odell ======
+====== William Odell ======
 
+<card class="letter">
 My dear William Odell,
 
 Please accept my blessings. I thank you very much for your nice letter, and for your inquisitiveness. You are Krishna's part and parcel. As you love your hands and legs, as you feel when your hand is in trouble, similarly Krishna feels for you when you are in trouble. The hand has value when it is attached to the body. Similarly, we have values when we are Krishna Conscious. The hand has no value detached from the whole body. Krishna is the Whole and we are His parts and parcel. Try to understand this philosophy of simultaneously one and different.
@@ -19,3 +20,4 @@ I hope your questions are fully answered; if at any time you have got some quest
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

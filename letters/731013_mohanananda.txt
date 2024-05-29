@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mohanananda ======
+====== Mohanananda ======
 
+<card class="letter">
 Dallas
 
 My dear Mohanananda Das:
@@ -20,3 +21,4 @@ It is not possible for me to tax my brain on every detail. The GBC should meet i
 But, on the whole the Gurukula standard should be free education, boarding, and lodging. People shall voluntarily contribute as far as possible. That should be introduced. We cannot enforce that if you do not pay, then take back your child. Rather the opposite. We must give free education to our children. We have to if need be provide money from the incense business or Book Trust, like that if sufficient income is not there.
 
 [PAGE MISSING]
+</card>

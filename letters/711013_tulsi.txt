@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tulsi ======
+====== Tulsi ======
 
+<card class="letter">
 Denver
 
 My dear Tulsi das,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

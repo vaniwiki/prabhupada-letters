@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dhananjaya ======
+====== Dhananjaya ======
 
+<card class="letter">
 Rome
 
 My dear Dhananjaya,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
+</card>

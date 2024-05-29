@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hrsikesananda ======
+====== Hrsikesananda ======
 
+<card class="letter">
 Kathmandu
 
 My dear Hrsikesananda,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

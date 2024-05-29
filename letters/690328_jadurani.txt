@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. Govinda dasi has already written you letter to come here as soon as possible. I hope you come before I leave this place on the 31st March 1969. This tape may be returned to L.A. address.
 
 ACB
+</card>

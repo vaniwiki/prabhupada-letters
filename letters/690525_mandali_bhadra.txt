@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mandali Bhadra ======
+====== Mandali Bhadra ======
 
+<card class="letter">
 My dear Mandali Bhadra,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 14, 1969, and I have noted the contents carefully. Now I am staying in New Vrindaban and it is a very nice spot for developing our community project. There is sufficient land for building great temples and houses for devotees. There is pasturing land, and sufficient grass and vegetables for the grazing of cows. I am glad to learn that you have already translated the foreword of __Bhagavad-gita,__ and you have already sent it to Hamburg. The boys there are working very hard, and recently they have sent me some newspaper cuttings describing about their Sankirtana activities. They are expecting your arrival there at any moment. Jaya Govinda has got some experience of layout work, and when you go there you should do it jointly. Until then there is no need of corresponding with him about layout, and thus delay matters. I have already informed them that when you are there you will be the chief editor, and your name should be mentioned as editor of the paper. The boys there are very submissive, and I am sure when you go there everything will be done in nice cooperation.
@@ -19,3 +20,4 @@ I thank you once more for your letter, and I hope this will find you in good hea
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

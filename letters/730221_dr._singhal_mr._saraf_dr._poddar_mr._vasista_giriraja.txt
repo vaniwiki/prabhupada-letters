@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Singhal, Mr. Saraf, Dr. Poddar, Mr. Vasista, Giriraja ======
+====== Dr. Singhal, Mr. Saraf, Dr. Poddar, Mr. Vasista, Giriraja ======
 
+<card class="letter">
 My dear Dr. Singhal, Mr. Saraf, Dr. Poddar, Mr. Vasista and Sriman Giriraja,
 
 Please accept my blessings. This morning Srukirti received telephonic message from Bali Mardan. It is understood that Mr. Nair is dead. So it is good news that Nrsimhadeva has killed a demon like him. Prahlada Maharaja said that even a saintly person becomes pleased when a scorpion or a snake is killed. So if it is a fact that Nair is dead it is a matter of great pleasure for all devotees.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ms
+</card>

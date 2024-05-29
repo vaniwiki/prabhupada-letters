@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rsabhadeva ======
+====== Rsabhadeva ======
 
+<card class="letter">
 My dear Rsabhadeva:
 
 Please accept my blessings and I beg to acknowledge receipt of your letter dated the 7th of March. Yes, your Temple is always gathering nice devotees and I accept Brian, Leslie and Caroline as my duly initiated disciples and you can send the beads for chanting to Kirtanananda Swami, along with a copy of this letter.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
+</card>

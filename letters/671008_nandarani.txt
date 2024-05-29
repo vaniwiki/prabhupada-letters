@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandarani ======
+====== Nandarani ======
 
+<card class="letter">
 My dear Nandarani,
 
 Please accept my blessings. I am in due receipt of your letter Oct 2 & I am so glad to have it. You and your husband's service in respect of opening the L.A. center will be recorded in the history of our Krishna Consciousness movement. Most probably I shall be in your country by the end of October or early in Nov. I am thinking of going by pacific route so when I am in your country I shall either be first in San Francisco or L. A. My mind is always with you. Practically your country is my home now. India is foreign country for me. The reason is that my spiritual family is there & my material relationships are in India; therefore factually where my spiritual family exists, there is my home.
@@ -17,3 +18,4 @@ Regarding your personal question in the matter of relationship with your husband
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ananda ======
+====== Ananda ======
 
+<card class="letter">
 My dear Ananda,
 
 Please accept my blessings. I am very glad to receive you letter (undated), and I have noted your new address. I am pleased to note that you have already paid for the place for one month's rent. I thank you very much that you are struggling there alone and silently, and Krishna will surely bless you for this. I suggested in my previous letter that you join the Toronto party if you are feeling alone. But if not, you go on with your present program, and I have got all support for that. In all the centers everyone is trying his best to improve his own center, and gradually there is becoming factual evidence of very nice progress.
@@ -19,3 +20,4 @@ I thank you again for your letter. I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

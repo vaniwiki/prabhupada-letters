@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhurijana das ======
+====== Bhurijana das ======
 
+<card class="letter">
 Sriman Bhurijana das,\\
 R.D. No.1,\\
 Port Royal,\\
@@ -38,3 +39,4 @@ Acbs/as
 Deposited 28/9/76 approx.\\
 Find out rate - then enter ledger\\
 Entered Hari Sauri Das
+</card>

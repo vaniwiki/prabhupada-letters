@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 Calcutta
 
 My dear Jayapataka Maharaja,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. I wrote two letters to Acyutananda at Mayapur address, but I have received no reply. ACB\\
 ACBS/adb
+</card>

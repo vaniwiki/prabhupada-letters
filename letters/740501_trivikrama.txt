@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trivikrama ======
+====== Trivikrama ======
 
+<card class="letter">
 Taipei, Taiwan
 
 My dear Trivikrama Maharaja,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

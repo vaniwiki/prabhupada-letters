@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 My dear Hansadutta dasa,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 Where is Himavati?\\
 ACBS/ps
+</card>

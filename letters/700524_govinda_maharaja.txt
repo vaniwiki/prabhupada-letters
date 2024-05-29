@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda Maharaja ======
+====== Govinda Maharaja ======
 
+<card class="letter">
 Sri Caitanya Research Institute\\
 Calcutta
 
@@ -32,3 +33,4 @@ Yours very affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

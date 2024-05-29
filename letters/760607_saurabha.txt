@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saurabha ======
+====== Saurabha ======
 
+<card class="letter">
 Bombay
 
 My dear Saurabha,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

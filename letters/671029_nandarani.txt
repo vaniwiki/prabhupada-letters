@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandarani ======
+====== Nandarani ======
 
+<card class="letter">
 My dear Nandarani,
 
 Please accept my blessings. I was very pleased to receive your letter. I have come to Navadvipa since I've received your letter, the birthplace of Lord Caitanya. We came here last Tuesday & probably I shall return to Calcutta early next week.
@@ -19,3 +20,4 @@ I have already arranged for going back to your country & I have secured a visito
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

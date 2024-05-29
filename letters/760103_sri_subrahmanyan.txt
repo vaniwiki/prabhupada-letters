@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Subrahmanyan ======
+====== Sri Subrahmanyan ======
 
+<card class="letter">
 55 North Car Street\\
 Thiruvanai Koil\\
 Trichi Tamilnad, India 620005
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkg
+</card>

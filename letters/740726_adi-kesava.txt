@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ādi-kesava ======
+====== Ādi-kesava ======
 
+<card class="letter">
 Boston
 
 My dear Ādi Kesava das:
@@ -31,3 +32,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

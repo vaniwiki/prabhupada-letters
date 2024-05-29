@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visala ======
+====== Visala ======
 
+<card class="letter">
 My dear Visala,
 
 Thank you very much for your always presenting me with your hard-earned money. I can very much appreciate your sacrifices for me. Now my best advice to you is that you remain like Narada Muni, the perfect brahmacari, loitering all over the universe and chanting the Lord's name. I have understood that you are our top first class book distributer, and you can rest assured that this has not gone unnoticed by Krsna. Krsna appreciates very much when His devotee works very hard to serve Him. So you are doing the greatest service, do not be disturbed by anything temporary disturbance, simply focus your energy in always serving Krsna in this way of distributing His books widely, and you may travel if you like, and always under every circumstance remember to chant the Lord's name and remember His lotus feet, and that will protect you under every condition, without any doubt.
@@ -17,3 +18,4 @@ Hoping this meets you in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

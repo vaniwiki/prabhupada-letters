@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Citsukhananda ======
+====== Citsukhananda ======
 
+<card class="letter">
 San Jose
 
 My dear Citsukhananda,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

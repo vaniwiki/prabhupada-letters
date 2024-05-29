@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Eugene L. Baum ======
+====== Eugene L. Baum ======
 
+<card class="letter">
 St. Louis
 
 My dear Eugene L. Baum,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

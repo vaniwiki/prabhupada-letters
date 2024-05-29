@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dasanudasa ======
+====== Dasanudasa ======
 
+<card class="letter">
 New Talavan, Mississippi
 
 My dear Dasanudasa,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Advaitacarya ======
+====== Advaitacarya ======
 
+<card class="letter">
 My dear Advaitacarya,
 
 Please accept my blessings. I have received your letter undated.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

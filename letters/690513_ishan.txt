@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ishan ======
+====== Ishan ======
 
+<card class="letter">
 318 East 20th Avenue \\
 Columbus, Ohio 43201\\
 May 13th, 1969
@@ -23,3 +24,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

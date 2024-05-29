@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Guru-gauranga, Paris Devotees ======
+====== Guru-gauranga, Paris Devotees ======
 
+<card class="letter">
 My dear Guru Gauranga and all other Paris devotees,
 
 Please accept my blessings. I beg to acknowledge receipt of your nice letters dated August 18 and 19th 1973. I was very much pleased to come there and visit. Paris is developing nicely step by step. When I was at the Hotel de Ville I thought that this is better than London. So Paris is a most important city of the world. Work with great enthusiasm and make Krishna more prominent than Napoleon and Eiffel tower.
@@ -17,3 +18,4 @@ I hope this letter meets you all in good health and jolly mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

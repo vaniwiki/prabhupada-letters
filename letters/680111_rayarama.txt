@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I thank you very much for your letter of January 3, 1968, on ISKCON PRESS stationery. It is so nice and attractive and all the credit goes to you and your assistants. Please convey my sincere thanks to your two assistants, Jaya Govinda and Purusottama, for their sincere service in the cause of Krishna Consciousness. Please take it for granted that I have sanctioned for all your schemes. Because you are sincere worker Krishna is dictating from within yourself as He has promised in the Bhagavad-gita, and things are coming so nicely. May Krishna grace you more and more and in your advance service of Krishna Consciousness. You have very nicely stated that I am your life. This means you are my body and so neither life nor body can be separated because on the spiritual platform there is no such distinction. On material platform sometimes life is separated from body, but in the Absolute platform there is no such distinction. Dr. Radhakrishnan foolishly makes such distinction on the Body of Krishna, and therefore when Krishna says that one should become His devotee, he commends that it is not to the Person Krishna, but to the Light within Krishna. He does not know that in the spiritual platform, there is no such distinction of life and body.
@@ -21,3 +22,4 @@ You will be glad that two parts of Srimad-Bhagavatam is already in the press in 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

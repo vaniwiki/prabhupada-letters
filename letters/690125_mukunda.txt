@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of January 22, 1969, and I have noted the contents with great pleasure. You have written to say that Londoners there are all so very anxious to meet me, so I am also very much anxious to meet you and the Londoners. Therefore it is the best thing that the five-story house which you have described in the letter under reply may be immediately occupied.* You can offer the best reasonable rent, and you can take the risk depending upon Krishna. If the Beatles come forward, you can take the risk. I hope that Mr. Parikh, who is a veteran educationist, can help you very much in this connection. I am very much pleased that he is also on the board of managers committee.
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 NB: There is a Mr. Ivan Levine in the Montreal temple who is, I understand an expert trumpeteer. He may be interested in joining you in London with his wife, after their initiation probably, to join you in your musical activities in London. I have advised him to write to you about this.\\
 * If the opening ceremony is made on the 7th of February 1969 the appearance day of my Spiritual Master, then it will be a grand success.
+</card>

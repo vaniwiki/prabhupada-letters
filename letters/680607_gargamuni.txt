@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 San Francisco
 
 My dear Gargamuni,
@@ -23,3 +24,4 @@ Thanking you once more for your kind contribution. Hope this will find you in go
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Paramesvari ======
+====== Paramesvari ======
 
+<card class="letter">
 Nairobi
 
 My dear Paramesvari,
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

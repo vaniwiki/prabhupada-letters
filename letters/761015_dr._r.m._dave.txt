@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. R.M. Dave ======
+====== Dr. R.M. Dave ======
 
+<card class="letter">
 Dr. R. A. Dave,\\
 Gokula 6,\\
 Prabhu Park Co.\\
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hds
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtiraja ======
+====== Kirtiraja ======
 
+<card class="letter">
 My dear Kirtiraja das,
 
 Please accept my blessings. I am in due receipt of you letter of November 14, 1971, and I have noted the contents carefully. I am very pleased that you have taken over responsibility for our ISKCON books mail-order department. I consider it one of the most important posts in our Society, so you must be very diligent to perform very nicely this immense work. I especially want that my books and literatures should be distributed profusely, but so far I understand this is not being done very perfectly. So I want that you all my students shall very vigorously try for this book distribution. Do not hesitate to use your American and European brains to increase, that is Krishna's special gift to you, now use it. Any activity which will please Krishna should be accepted favorably, this is our guiding principle. Now apply it in this way, by doing everything and anything for spreading this Krishna Conscious literature, and this is really pleasing to Krishna, know it for certain. Especially you must always be eager to supply all our branches all over the world with whatever literature they require, not that they must pay and then get books like ordinary mundane business. It is not that they shall not pay for books, but that payment must come gradually and in regular installments. We have to be prompt and gracious in this business of mail-order books, and I am very encouraged that you are enthusiastic to do everything required for increasing in this way.
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

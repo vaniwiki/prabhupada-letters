@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: S. K. Roy ======
+====== S. K. Roy ======
 
+<card class="letter">
 Govt of India\\
 Overseas Communication Service\\
 Poddar Court Ravindra Sarani\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

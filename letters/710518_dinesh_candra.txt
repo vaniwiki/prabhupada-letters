@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinesh Candra ======
+====== Dinesh Candra ======
 
+<card class="letter">
 Brooklyn
 
 My dear Dinesh Candra,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

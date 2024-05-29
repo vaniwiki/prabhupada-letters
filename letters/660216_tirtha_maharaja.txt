@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tirtha Maharaja ======
+====== Tirtha Maharaja ======
 
+<card class="letter">
 His Holiness\\
 Sripada B.V. Tirtha Maharaja\\
 Sri Caitanya Research Institute\\
@@ -27,3 +28,4 @@ Hope you are all well and thanking you in anticipation for your reply per return
 
 Yours obediently,\\
 A.C. Bhaktivedanta Swami.
+</card>

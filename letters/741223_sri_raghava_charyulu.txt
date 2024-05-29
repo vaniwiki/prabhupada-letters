@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Raghava Charyulu ======
+====== Sri Raghava Charyulu ======
 
+<card class="letter">
 Government of India\\
 Nuclear Physics Division\\
 Bombay
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

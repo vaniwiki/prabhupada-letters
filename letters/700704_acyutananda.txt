@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acyutananda ======
+====== Acyutananda ======
 
+<card class="letter">
 Calcutta
 
 My dear Acyutananda,
@@ -32,3 +33,4 @@ P.S. What about my place at Radha Damodara Temple. My money is already advanced 
 
 Reply this letter to L.A. address 3764 Watseka Avenue L.A.\\
 ACBS:db
+</card>

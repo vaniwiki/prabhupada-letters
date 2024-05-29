@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Anandavardhana (Axel Anderson), Jogindra Vandana (John Berg) ======
+====== Anandavardhana (Axel Anderson), Jogindra Vandana (John Berg) ======
 
+<card class="letter">
 New Orleans
 
 My dear sons,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
+</card>

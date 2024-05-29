@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manidhara, Rohinisuta ======
+====== Manidhara, Rohinisuta ======
 
+<card class="letter">
 My dear Manidhara and Rohini Suta,
 
 Please accept my blessings. I have received a Letter from Jayatirtha saying that you have distributed in one week 522 and 521 big books respectively. This is very wonderful. I thank you so much. __Ye yatha mam prapadyante tams tathaiva bhajamy aham__ [[books:bg:4:11|(Bg. 4.11)]]. Krsna becomes more and more pleased by seeing the increment of book distribution. Devotional service is absolute but Krsna is especially pleased to see someone preaching His glories.
@@ -17,3 +18,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
+</card>

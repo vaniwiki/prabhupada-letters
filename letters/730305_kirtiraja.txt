@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtiraja ======
+====== Kirtiraja ======
 
+<card class="letter">
 My dear Kirtiraja:
 
 Please accept my blessings. I beg to acknowledge receipt of letter and plans for the new building dated the 14th of February. After some delays, I have just arrived here the day before yesterday.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
+</card>

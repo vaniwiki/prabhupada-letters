@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivananda ======
+====== Sivananda ======
 
+<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I was in due receipt of your nice letter dated Sept. 29, 1968, and I was so glad to read as you write to say, "I opened the temple on Thursday and am in the process of fixing it up." It is so much pleasing to me and what can I give you?! I can simply pray to Krishna for your long life and prosperous service to Krishna. Please do it nicely and if you think that I shall go there, I am prepared. I do not mind for the severe cold there, but if you think that my service will be helpful to you, you can call me, I shall go. But I am very much anxious to know about your further progress, and whether the boys, namely Krishna das, and Uttama Sloka, have already arrived there. I am expecting your letter containing all these informations any moment, but till now I have not got any letter. Please therefore write all details by return mail. If you require help from Syamasundara for carving Jagannatha Deity, you can ask him and he may go there for a few days. He knows German language very well. So do everything nicely. So the boys and girls from San Francisco who are in London, they are doing their best but till now they have not been able to find out a house on rent. I am surprised that in Germany you could find out a place without any difficulty, and why there are so many difficulties in London? So that, in spite of there being a strong group of 6 persons, headed by Mukunda and Syamasundara, they could not find out a house in London, whereas you alone have already opened ISKCON RADHA KRISHNA TEMPLE in Berlin. Anyway, please do it nicely with help of other two boys, and let me know how you are making progress.
@@ -23,3 +24,4 @@ Hope this finds you in good health, and in full Krishna Consciousness. May Krish
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

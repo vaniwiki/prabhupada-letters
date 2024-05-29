@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Attorney General’s Department ======
+====== Attorney General’s Department ======
 
+<card class="letter">
 The Secretary\\
 Attorney General's Department\\
 Canberra, A.C.T. 2600\\
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 Founder-Acarya\\
 ACBS/rds
+</card>

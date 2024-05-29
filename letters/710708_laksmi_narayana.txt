@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Laksmi Narayana ======
+====== Laksmi Narayana ======
 
+<card class="letter">
 Detroit
 
 My dear Laksmi Narayana,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. This letter for cleanliness may be explained to other Brahmanas\\
 ACBS/adb
+</card>

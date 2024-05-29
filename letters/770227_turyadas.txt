@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Turyadas  ======
+====== Turyadas  ======
 
+<card class="letter">
 My dear Turyadas Prabhu,
 
 Please accept my blessings. I beg to acknowledge receipt your letter dated Feb.16, 1977.
@@ -22,3 +23,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

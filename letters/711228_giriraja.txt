@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Madras
 
 My dear Giriraja,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *We cannot agree to give books unless they pay outright in cash. One thing, if they return unsold books we may replace them with new books, but we cannot give credit.
+</card>

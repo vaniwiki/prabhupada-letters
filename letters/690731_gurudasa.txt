@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I am in due receipt of your letter of July 28, 1969, and I could not understand from your half-finished letter whether Rathayatra Ceremony was performed according to a subdued program. But I could understand that you are immersed in great confusion on account of the wheels giving way just after starting. I have received one letter from Syamasundara dated July 25th in which it is stated that the magnitude of the Ratha was double than the one you had in San Francisco. So such a heavy structure was not properly attended as to its weight and the wheels which could carry such huge weight. I think it was a mistake of engineering calculation. The load was heavier than the wheels could carry. So there is no question of being disappointed. I have not received any detailed information either from you or from the others, but even if the Festival was not properly performed, you should not be discouraged. As in the material world sometimes failure is considered as a pillar of success, similarly in the spiritual order also the same principle can be applied. So don't be disappointed. Maybe Krishna's desire is something higher in this connection. If the Rathayatra has not been performed, you can postpone it to be performed on the Janmastami Festival. There is no harm if you postpone the function to a later date, and the public will appreciate it. You consult amongst yourselves without being discouraged and patiently work for its being performed one month later. There is no harm.
@@ -19,3 +20,4 @@ So far as San Francisco Rathayatra Festival, it was very pompously and successfu
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

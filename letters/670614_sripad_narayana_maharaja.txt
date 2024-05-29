@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripad Narayana Maharaja ======
+====== Sripad Narayana Maharaja ======
 
+<card class="letter">
 International Society for Krsna Consciousness, Inc.\\
 Twenty-Six Second Avenue, New York, N.Y. 10003 \\
 Telephone: 674-7428
@@ -52,3 +53,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. Sri Krishna Pandit and Chandra Sekhar & Vinoda Kumara will help you in doing things nicely. Please make the R/R Freight Paid and send me [Unreadable] R/R along with the duplicate list of books.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mahapurusa ======
+====== Mahapurusa ======
 
+<card class="letter">
 Montreal
 
 My dear Mahapurusa,
@@ -33,3 +34,4 @@ Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

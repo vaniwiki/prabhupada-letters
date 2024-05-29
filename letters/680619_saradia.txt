@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saradia ======
+====== Saradia ======
 
+<card class="letter">
 San Francisco
 
 My dear Saradia,
@@ -23,3 +24,4 @@ Hoping you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

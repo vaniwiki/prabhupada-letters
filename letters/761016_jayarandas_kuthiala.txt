@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayarandas Kuthiala ======
+====== Jayarandas Kuthiala ======
 
+<card class="letter">
 Chandigarh
 
 My dear Jayarandas Kuthiala,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hds
+</card>

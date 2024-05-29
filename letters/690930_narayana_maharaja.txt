@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Narayana Maharaja ======
+====== Narayana Maharaja ======
 
+<card class="letter">
 My dear Sripada Narayana Maharaja,
 
 Please accept my humble obeisances. I beg to acknowledge receipt of your letter dated September 14th, 1969 and I have noted the contents. I am very much perturbed to learn about your sick health. I hope by the Grace of Lord Krishna you will soon recover. Please offer my obeisances to Muni Maharaja. Regarding sponsoring Mrs. N.K. Achamma, I beg to inform you that to sponsor a person from India means to send him immediately a return ticket by air, which means Rs 12,000. I do not know who will be agreeing to invest this money for an unknown person. Although she has got money, she cannot spend it for coming to foreign countries. Therefore, sponsoring means the money should go from the foreign country and then she can come. Anyway, at the present moment I am living in London, a few miles off, at the above garden house. When I return to the States, I shall try to find out if somebody can help her. I am enclosing herewith two newspaper cuttings which were published on my arrival in London. You can publish this news in your __Bhagavat__ paper.
@@ -20,3 +21,4 @@ Thanking you once more for your letter.
 Sincerely yours,
 
 A.C. Bhaktivedanta Swami
+</card>

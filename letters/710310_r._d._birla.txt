@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: R. D. Birla ======
+====== R. D. Birla ======
 
+<card class="letter">
 Sri R.D. Birla\\
 Industry House\\
 159, Churchage Reclamation\\
@@ -32,3 +33,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ideal Advertising Agency ======
+====== Ideal Advertising Agency ======
 
+<card class="letter">
 Ideal Advertising Agency\\
 Calcutta
 
@@ -24,3 +25,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

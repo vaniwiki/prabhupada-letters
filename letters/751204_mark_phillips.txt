@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mark Phillips ======
+====== Mark Phillips ======
 
+<card class="letter">
 Parkwood, Via thora\\
 N.S.W. 2492\\
 Australia
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

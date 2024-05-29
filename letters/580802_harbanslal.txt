@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Harbanslal ======
+====== Harbanslal ======
 
+<card class="letter">
 My dear Harbanslal Ji,
 
 I am very glad to learn that you have now gone to foreign countries for tour on business as well as cultural mission and I hope that you are enjoying there both your good health as well as the trouting experience. We had a German friend Indian domiciled for the last 20 years who is a great scholar in several languages. He used to say that in Germany specially, wherever an Indian goes specially the student, the Germans receive him well in the proportion of his Indian cultural knowledge. Scholars and thinkers in Europe specially in Germany and Russia know it well that for learning about cultural knowledge, no body can surpass the Indians who have a back ground of centuries engaged in spiritual investigation.
@@ -20,3 +21,4 @@ You know that I am attached with one cultural mission of the name of the League 
 By the by by I may inform you that, as you know I am passing my days in Bombay in great inconvenience for want of a suitable residential place. I may remind you in this connection that your goodness promised me some place in your flats as soon as one of them is vacant. I understand that some are going to be vacated soon and I shall request you to help me by giving me a flat and thus mitigate my difficulties. A flat with minimal
 
 [PAGE MISSING]
+</card>

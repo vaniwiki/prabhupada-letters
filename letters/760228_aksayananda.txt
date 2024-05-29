@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Aksayananda ======
+====== Aksayananda ======
 
+<card class="letter">
 Vrindaban
 
 My dear Aksayananda Swami,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

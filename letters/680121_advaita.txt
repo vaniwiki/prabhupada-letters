@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Advaita ======
+====== Advaita ======
 
+<card class="letter">
 New York
 
 My dear Advaita,
@@ -21,3 +22,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Members ======
+====== Members ======
 
+<card class="letter">
 THE LEAGUE OF DEVOTEES INC.\\
 Under Societies Act No. XXI 1860\\
 Editor: "Back to Godhead"\\
@@ -60,3 +61,4 @@ Goswami Abhay Charan Bhaktivedanta
 Editor: Back to Godhead and Founder Secretary The league of Devotees\\
 Enclosure: - 1.
 
+</card>

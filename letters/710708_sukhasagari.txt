@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sukhasagari (Candice Kellepoury) ======
+====== Sukhasagari (Candice Kellepoury) ======
 
+<card class="letter">
 Detroit
 
 My dear Sukhasagari Devi Dasi (Candice Kellepoury),
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

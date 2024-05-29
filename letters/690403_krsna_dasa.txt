@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna dasa ======
+====== Krsna dasa ======
 
+<card class="letter">
 Dear Krishna das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 27, 1969, and I have carefully noted the contents. In the first portion of the letter you have expressed your desire how to learn surrender. This surrendering process is unconditional. Surrendering does not mean that one should surrenderly only in favorable circumstances. That is not surrender. Surrender means in any condition the surrendering process must continue. In the latter portion of your letter it appears that you have been disturbed on some trivial matters, and you wish to leave the place and go to London. That is not at all good. You must work conjointly. That is my desire, and if you fight amongst yourselves for some individual interests, that is not surrender. Whatever the other two boys may do, that I shall see, but unto you my request is that you must remain in Hamburg until I order you to leave the place.
@@ -23,3 +24,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

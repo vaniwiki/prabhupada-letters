@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gaura Gopala (Govinda?) ======
+====== Gaura Gopala (Govinda?) ======
 
+<card class="letter">
 Bhuvaneśvara
 
 My dear Gaura Gopala (Govinda?) Maharaja,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

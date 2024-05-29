@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Acyutananda ======
+====== Acyutananda ======
 
+<card class="letter">
 My dear Acyutananda,
 
 Please accept my blessings. I am in due receipt of your letter dated June 16, 1972, along with two tapes and one book. The book contains some derogatory remarks about my Guru Maharaja, therefore we shall having nothing to do with printing it. In fact, since Lalita Prasad Thakura has not fulfilled his promise to give us that Birnagar land for our ISKCON center, so we shall not have any more to do with printing any books by Bhaktivinode Thakura or anyone. Try to induce him to fulfill his promise, otherwise we want nothing more to do with the whole business.
@@ -17,3 +18,4 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

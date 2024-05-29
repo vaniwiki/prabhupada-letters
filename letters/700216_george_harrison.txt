@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: George Harrison ======
+====== George Harrison ======
 
+<card class="letter">
 Sriman George Harrison\\
 c/o Apple Record Co.\\
 London\\
@@ -45,3 +46,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

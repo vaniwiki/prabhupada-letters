@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sripati ======
+====== Sripati ======
 
+<card class="letter">
 My dear Sripati Das,
 
 Please accept my blessings. I thank you very much for your letter dated May 18, 1969, sent along with your prayer beads, and I have duly chanted upon them and initiated you as my disciple. Your spiritual name, Sripati Das*, means the servant of Lord Narayana, or Krishna. If you will simply continue to develop your Krishna Consciousness as you have been doing, then surely you will be an expert servant of Lord Krishna. Our process is to faithfully follow the rules of no illicit sex life, no nonvegetarian diet, no intoxication, and no gambling activities. Also, we must chant at least 16 rounds each day, trying to avoid the ten kinds of offenses. You have very nice association with your nice godbrothers in Montreal temple, and you should help them to propagate Krishna Consciousness in that area. So please consult with Hansadutta, and there will be ample engagement for you in this connection. If any questions or difficulties arise, you may consult with the older devotees there, or if you like, I am always at your service to help you in any way that I can. So now you have great opportunity to make perfection of your life, and please always be serious about this. Then Krishna will surely give you all facilities for nice advancement.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *Sripati = the husband of the Goddess of Fortune
+</card>

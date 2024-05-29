@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jadurani ======
+====== Jadurani ======
 
+<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I was happy to read your recent letter (undated) and to see how you are working hard and now you are sending your finished paintings to our various centers to be appreciated. You will be pleased to know that our London center has managed to have one local newspaper devote a two-page spread to a comic book feature of the story of Prahlada Maharaja as depicted by Gaurasundara and Govinda Dasi. This is very nice propaganda so as much as possible we should try for overflooding publications with similar of our stories. We have so many artists now in Boston and also New York so if someone can work on this idea it will be very nice.
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 P.S. Inform your husband that I am seriously compiling one book "Nectar of Devotion" about 400 pages. Therefore I am little slack in sending tapes of S.B.
 
 ACB
+</card>

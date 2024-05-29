@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Mohan Majundar ======
+====== Mr. Mohan Majundar ======
 
+<card class="letter">
 Mr. Mohan Majundar\\
 402/1/A Netaji Subhas Candra Bose Road\\
 Calcutta 47
@@ -23,3 +24,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
+</card>

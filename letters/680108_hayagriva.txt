@@ -6,11 +6,12 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I hope by this time you might have received my letter posted from San Francisco. On Saturday last I have come to Los Angeles and the climate is very suitable for me. I may stay here for a few days. Last night I delivered this speech in the Radio Station (Lureal (?) ) for broadcasting in Los Angeles and San Francisco. As I accept you as a learned thoughtful boy I send you a copy of my speech as compared with popular yoga system. Please read it and let me know your opinion. Hope you are well.
 
 Your ever well-wisher,\\
-A.C. Bhaktivedanta Swami
+A.C. Bhaktivedanta Swami</card>

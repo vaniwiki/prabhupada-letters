@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: United Shipping Corporation ======
+====== United Shipping Corporation ======
 
+<card class="letter">
 United Shipping Corporation\\
 14/2, Old China Bazar Street\\
 Room No. 18, Calcutta 1.
@@ -25,3 +26,4 @@ Kindly send the statement of account as soon as possible. Thanking you in antici
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami
+</card>

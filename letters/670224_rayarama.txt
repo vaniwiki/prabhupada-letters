@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rayarama ======
+====== Rayarama ======
 
+<card class="letter">
 My dear Rayarama,
 
 I am in due receipt of your letter. According to our agreement Mr. Ypslantin cannot ask any more. It was understood that further money will be required when the bill is actually in the congress session for consideration. We have already paid him three hundred dollars which was full for dealings in the preliminary stage.
@@ -18,3 +19,4 @@ Any way I have a call from Naturalization office to see them on 2nd March. And I
 Your well wisher.
 
 A.C. Bhaktivedanta Swami
+</card>

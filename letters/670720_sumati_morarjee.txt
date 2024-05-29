@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sumati Morarjee ======
+====== Sumati Morarjee ======
 
+<card class="letter">
 Madam Sumati Morarji Baishaheba,
 
 Please accept my greetings and all blessings of Lord Krishna. I am in due receipt of your letter of July 12, 1967. I have advised my disciples to Publish your advertisement in the __Back to Godhead__ free of charges.
@@ -43,3 +44,4 @@ Thanking you once again.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

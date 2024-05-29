@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Puri Maharaj ======
+====== Puri Maharaj ======
 
+<card class="letter">
 7, Bury Place,
 
 London, W. C. 1,
@@ -40,3 +41,4 @@ ACBS/sda
 Enclosure: (1) reply – end of July 72
 
 Replied on 21-9-72 
+</card>

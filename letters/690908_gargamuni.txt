@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated August 27th and 29th, 1969 and September 3rd 1969. Regarding Brahmananda's letter, I have asked him not to open Spiritual Sky business on the Eastern Coast, and a copy of the letter is enclosed herewith for your reference. I thank you very much for the contribution you have made of 300 dollars to my book fund, and the Sankirtana table is also very encouraging. Regarding the order of 12 mrdangas that you have suggested I discontinue, I have already done this, and the letter to Indo Crafter is enclosed herewith in carbon copy along with a copy of the invoice. Regarding United Shipping Corporation's shipment of __Srimad-Bhagavatam,__ I have advised the bank in Vrindaban, and it will be all right. So far as one half of this shipment going to Los Angeles, I will speak to Brahmananda about this. But one thing is you must stop this fighting between brothers. Otherwise the whole program will be spoiled. Yourself, Tamala Krishna, Brahmananda, Satsvarupa---you should do everything combinedly. That is my request. Gradually, by Krishna's Grace, we are expanding. So if amongst ourselves there is friction, it will be very dangerous. So after my return to the States I shall make it more firm so there may not be any dissension. But you should be careful also. Regarding the Rs. 1,862.40 being equal to 250 dollars instead of 400 dollars, your money is safe. Don't worry. The balance will be used for importing goods here. It will not remain in India.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am going to London on the 11th September
+</card>

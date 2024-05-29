@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. Thank you very much for your letter from Tanzania dated August 24, 1972, and with great satisfaction I have noted the contents. Yes, the preaching work is giving you new life. My Guru Maharaja Bhaktisiddhanta Sarasvati used to say __pran acche var sehetu pracar,__ "one can preach who has got life." So one who is preaching this Krishna Consciousness Movement means he has got real life.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

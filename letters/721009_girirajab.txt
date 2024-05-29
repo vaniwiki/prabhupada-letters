@@ -7,10 +7,12 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay\\
 [To Giriraja]
 
 ---DO NOT PAY NAIR A FARTHING UNTIL CONVEYANCE EXECUTED SENDING KARANDHARA TO TAKE CARE\\
 ---A.C. BHAKTIVEDANTA SWAMI
+</card>

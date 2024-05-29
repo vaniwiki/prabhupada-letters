@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. S. B. Chatterjee ======
+====== Dr. S. B. Chatterjee ======
 
+<card class="letter">
 Dr. S. B. Chatterjee\\
 Ex-Professor and Head Dept. of Geography\\
 N. Bengal U. Calcutta\\
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

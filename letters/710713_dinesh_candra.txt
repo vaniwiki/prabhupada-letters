@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dinesh Candra ======
+====== Dinesh Candra ======
 
+<card class="letter">
 My dear Dinesh Candra,
 
 Please accept my blessings and offer the same to your wife Krishna Devi, daughter Visnu Arati and Kulasekhara Prabhu. I am in due receipt of your very encouraging letter dated 30th June, 1971 and have noted the contents carefully. Your endeavor is very much appreciated. Thank you very much. You have my all good wishes. Success or no success, it doesn't matter; you have come to Israel with your family and that is my pleasure. All blessings upon you.
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 P.S. In answer to Krishna Devi's questions: I have not received your cook book as of yet; mustard seed, etc.---these are exciting spices and should be avoided; Vegetable ghee is all right if real ghee is not available or easily acquired.
 
 So far my coming to Israel, I will be glad to come but I do not know yet if it is possible. But when my program is fixed up I will let you know, probably by the first week in August.
+</card>

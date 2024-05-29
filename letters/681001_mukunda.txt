@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda ======
+====== Mukunda ======
 
+<card class="letter">
 London
 
 My dear Mukunda,
@@ -17,3 +18,4 @@ Please accept my blessings. I am glad to receive your letter dated Sept. 26, 196
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta
+</card>

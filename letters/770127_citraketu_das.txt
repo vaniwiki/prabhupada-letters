@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Citraketu das ======
+====== Citraketu das ======
 
+<card class="letter">
 ISKCON London\\
 7 Bury Place, Bloomsbury\\
 London W.C. 1, England
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

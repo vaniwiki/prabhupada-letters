@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ramesvara ======
+====== Ramesvara ======
 
+<card class="letter">
 My dear Ramesvara,
 
 Please accept my blessings. I am in due receipt of your telegram as follows: Christmas week book distribution in Los Angeles despite closed airport better than ever by your grace 112000 BTGS 8000 Gitas sold stop on invitation of governor Brown of California 50 devotees visited State mental institutions to help improve conditions and morale by giving religious message publicity very good Hare Krishna. Thank you very much. This is very good.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

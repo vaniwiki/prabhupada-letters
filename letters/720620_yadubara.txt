@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yadubara ======
+====== Yadubara ======
 
+<card class="letter">
 Bombay
 
 My dear Yadubara,
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 N.B. I have just now got one letter from Acyutananda Maharaja from Mayapur, and his plan is to photograph all of the original manuscripts of Bhaktivinode Thakura which are held by his son, Lalita Prasad Thakura, in Birnagar. This is a very, very important work, so I think you are just the right man for going there with Acyutananda to make photos of each and every page of the old manuscripts as they are in very bad condition. After taking the photos, we %%___%% shall be going to London on %%___%% 2, 1972, so send reply accordingly.
+</card>

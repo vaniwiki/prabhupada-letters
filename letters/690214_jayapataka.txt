@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I am in due receipt of your letter of February 7, 1969, and I have carefully noted the contents. I have also seen the leaflets done by this boy, Mark, and they are very nicely done. Regarding your question about the 10 senses, such questions should be taken up at your Istagosthi meetings. I have already answered most of the questions you have asked in this connection in a previous letter, so you may refer to it.
@@ -21,3 +22,4 @@ Thanking you again for your letter. I hope this will meet you in very good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

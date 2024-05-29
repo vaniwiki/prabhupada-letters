@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Saurabha ======
+====== Saurabha ======
 
+<card class="letter">
 Vrindaban
 
 My dear Saurabha,
@@ -22,3 +23,4 @@ ACBS/sdg\\
 copy to Tejyas in Delhi for immediate report also.
 
 N.B. The murti of Srila Prabhupada should be following as close as possible the enclosed photograph taken from the second cover of BTG 61, as stated in my telegram to Gurudas.
+</card>

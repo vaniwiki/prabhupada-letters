@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Krishan Pandit ======
+====== Sri Krishan Pandit ======
 
+<card class="letter">
 My dear Sri Krishan Pandit,
 
 Kindly accept my greetings. I am very much thankful to you for your letter dated June 15, 1967. Your prayers to Lord Krishna are heard by the Lord, and by His Grace I'm getting improved in health day by day. Your suggestion to return to India is welcome. As soon as I get a little strength I must return to India. I also thank your son-in-law, Yog Raj Sharma, for his suggestion.
@@ -21,3 +22,4 @@ Hope you are well, and thanking you once again.
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
+</card>

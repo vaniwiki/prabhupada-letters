@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Bailey ======
+====== Mr. Bailey ======
 
+<card class="letter">
 [True copy of the letter published in the A.B. Patrika on 7/7/53 at Allahabad under the heading "Hindu Missionaries"]
 
 Sir---With reference to the letter of Sri Satish Asthana published in your columns of the 2nd instant, I have the honour to inform all concerned through your esteemed paper, that an association for missionary activities under the name and style "The League of Devotees" has already been established recently with the same aims and objects as suggested by Sri Asthana and Sri Sitaram.
@@ -46,3 +47,4 @@ I wish that your people may try to understand Bhagavad-gita in terms of its dire
 I shall try to present an analytical study of Bhagavad-gita through the pages of your American Reporter in order to help the American people to understand Bhagavad-gita as it is. If your people can grasp the direct meaning of Bhagavad-gita it will be possible for us all to know the basic principle of cosmic harmony. When that is done we shall know that all maladjustment of our existence is not only peaceful but an eternal bliss distinguished from the ephemeral temporary sensual satisfaction. We shall then only know that here is a world where there is no struggle for existence and every living entity, never mind what it is either a man or a beast is fit to exist. The enclosed peace of article & the %%_____%% is the first of a series of articles on the above subject to understand Bhagavad-gita by its direct meaning.
 
 [PAGE MISSING]
+</card>

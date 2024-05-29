@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Michael Jon King ======
+====== Michael Jon King ======
 
+<card class="letter">
 Michael Jon King\\
 3415 Maunaloa Ave.\\
 Honolulu, Hawaii 96816
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

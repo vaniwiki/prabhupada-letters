@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Taber ======
+====== Mr. Taber ======
 
+<card class="letter">
 My dear Mr. Taber,
 
 I thank you very much for your letter and I have noted the contents carefully. You will be glad to know that I am improving my health gradually and today I took a shower bath by myself here at the seashore in N.J. Probably I will have regained my strength sufficiently by the 25th of this month to come to San Francisco, but if I do not go at that time, then I shall advise you to come to New York.
@@ -24,3 +25,4 @@ Your sincerely,
 A.C. Bhaktivedanta Swami
 
 ACB:kdb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept blessings and offer the same to all your Godbrothers and sisters. With reference to your telephonic conversation last night and your letter of the 10th February, I beg to inform you that the Branch at San Francisco will act as a separate identity and the New York establishment has nothing to take risk for this centre.
@@ -27,3 +28,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: 1
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Jiri Svoboda ======
+====== Mr. Jiri Svoboda ======
 
+<card class="letter">
 Mr. Jiri Svoboda\\
 494 Huron St.\\
 Toronto 5, Ontario\\
@@ -24,3 +25,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I am sending Biharilal Prabhu to Calcutta for the purpose of collecting four first-class koles, ten karatalas and a few thousand magazines for taking with him for our Madras program. We distributed 12,000 magazines here in Delhi, so I think 12,000 magazines should be sent to Madras. For payment for the other things Tamala Krishna will pay. You may please assist our Madras party by arranging these items for Biharilal to bring.
@@ -23,3 +24,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

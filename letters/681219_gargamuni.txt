@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 5, 1968 and I have noted the contents. I have also heard from Purusottama who has spoken to Brahmananda on the telephone yesterday that your father has made it clear that he will not confide in you or trust you to make advancement very easily in his business. Also I have heard that you have decided to leave back to the New York temple. This idea is alright under the circumstances and I think that your father will one day come to regret that he has not cooperated with your plans.
@@ -21,3 +22,4 @@ I have also received one nice letter %%__%% from you several weeks ago and just 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

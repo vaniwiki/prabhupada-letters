@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sumati Morarjee ======
+====== Sumati Morarjee ======
 
+<card class="letter">
 Madam Sumati Morarji Baisaheba,
 
 Please accept my greetings. I am very glad to acknowledge receipt of your letter dated the 9th instant and have noted the contents. Since I have landed in U.S.A. I have improved in my health and I am very glad to see that in America practically everything is available for our Indian vegetarian dishes. By the grace of Lord Krishna the American are prosperous in every respect and they are not poverty stricken like the Indians. The people in general are satisfied so far their material needs are concerned and they are spiritually inclines. When I was in Butler, Pennsylvania about 500 miles from the New York city, I saw there many churches and they were attending regularly. This shows that they are spiritually inclines. I was also invited by some churches church governed schools and colleges and I spoke there and they appreciated and presented me some token rewards. When I was speaking to the students they were very much eagerly hearing me about the principles of Srimad-Bhagavatam rather the clergymen were cautious to allow the students to hear me so patiently. They thought that the students may not be converted into Hindu ideas as it is quite natural for any religious sect. But they do not know that the devotional service of the Lord (Sri Krishna) is the common religion for every one including the aborigines and the cannibals in the jungles.
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami.
 
 N.B. I am very glad to note the last line of your letter under reply in which you write to say "I feel that if you should stay there till you fully recover from your illness and return only after you have completed your mission."\\
 Yes I wish to stay here for all the days till I have finished the mission of life to preach Bhagavata Cult very rightly and for this very reason only I have suggested the above means and ways. If you kindly cooperate informing a society for this purpose with your great influence surely all Indians will combine and thus we can fulfill the mission very nicely declaring the glories of India. Please do it for the Lord's sake.
+</card>

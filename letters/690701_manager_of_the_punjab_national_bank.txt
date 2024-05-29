@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of The Punjab National Bank ======
+====== Manager of The Punjab National Bank ======
 
+<card class="letter">
 Manager\\
 The Punjab National Bank\\
 P.O. Vrindaban U.P.\\
@@ -23,3 +24,4 @@ On June 18th, 1969, we sent you one check for $112.65, but I have not yet heard 
 Sincerely,
 
 A.C. Bhaktivedanta Swami
+</card>

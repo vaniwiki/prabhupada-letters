@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 My dear Madhudvisa Swami
 
 Please accept my blessings. I am writing to find out what has happened with the Fiji affair. What has happened to the registration of the society in Fiji. When I left it was settled up that you would remain there until the completion, but I have not heard from you and I am anxious to know what is the situation there. Please inform me.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hkdb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Professor Stillson Judah ======
+====== Professor Stillson Judah ======
 
+<card class="letter">
 Professor Stillson Judah\\
 Graduate Theological Union Library\\
 2451 Ridge Rd., Berkeley, CA. 94709
@@ -21,3 +22,4 @@ Yours very sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. I was very glad to receive your letter dated Oct. 13. I congratulate you for your successful dealing with your good brother, Sriman Brahmananda, against His falling back a prey to Kirtanananda's recent propaganda. To save a man from impersonal calamity is the greatest service to humanity. I also thank Rupanuga & Rayarama for helping you in your very laudable action. Brahmananda is very pure at heart. He might have been misled by Kirtanananda for the time being but Krishna did not allow him to fall back. According to Caitanya Mahaprabhu, the Lord is full in six opulences & the rascal impersonalists says that the Lord has no form & the most dangerous accusation for the Lord that He assumes a material form when he descends. The Impersonalist is of the opinion that the absolute has no form & He appears in a particular type of form according to the whim of nonsense; The impersonalist presents any form nonsensical by his imagination & worships it as God. This accusation of the Lord is the greatest offense of the nonsense impersonalist. Such offender can never realize the transcendental form of the Lord & the Lord puts such nonsense into more & more darkness so that the dangerous impersonalist can never know the Supreme Personality of Godhead. I do not believe that Kirtanananda has gone to such an extent of ailing situation but if he does not rectify himself immediately his future is very dark. If he is sincere in his concept of impersonal Absolute he should enter into correspondence with me & I shall refute all his arguments; but I understand that he could not answer you even when you hit him with some questions. I shall request that you save this poor creature from impersonal calamity.
@@ -17,3 +18,4 @@ You will be glad to know that I've already secured my visitors visa for going to
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta, Swami
+</card>

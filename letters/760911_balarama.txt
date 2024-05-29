@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balarama ======
+====== Balarama ======
 
+<card class="letter">
 Melbourne
 
 My dear Balarama das,
@@ -21,3 +22,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

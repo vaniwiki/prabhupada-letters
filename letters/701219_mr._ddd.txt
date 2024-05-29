@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. DDD ======
+====== Mr. DDD ======
 
+<card class="letter">
 My dear Mr. D.D.D.
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated as well as the enclosed booklet, and I thank you very much for these.
@@ -19,3 +20,4 @@ Please take nice care of the cows there for me and make sure that everyone is ch
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

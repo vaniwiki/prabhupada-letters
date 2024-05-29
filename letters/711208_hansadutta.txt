@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge your letters dated October 13, 1971, duly forwarded from Africa and Calcutta, and November 29, 1971, and I have noted the contents. I am pleased that you want to improve your speaking of German language for preaching and for translating books. That is very good proposal. Actually, we have no need to study very hard to learn any language, but if you simply begin to preach with what you know, gradually you will improve more and more. That is how I improved in English language, by translating __Srimad-Bhagavatam__ and preaching in USA. If Mandali Bhadra is having difficulty, try to arrange things in such a way that he and his wife will be satisfied and let him translate books full-time. If it is necessary or helpful for him to go to New York I have no objection, but this you must discuss with GBC men and Press.
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 n.b. One boy from Berlin Temple, Bidhan Candra das, has written me on 12th Oct., 1971, requesting if he can go to Amsterdam center for translating from English to Dutch. He is also wanting to live outside the temple. I have no objection, but it is up to you to advise him on these points. Kindly do so.\\
 ACBS/sda
+</card>

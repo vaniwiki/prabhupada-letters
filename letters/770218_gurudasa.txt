@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 To Gurudasa,
 
 I have received your letter dated Feb. 12, and examined the contents. Please accept my blessings. Locks on the door, ask Gaurachand to help. I have just arranged to send him Rs. 50 per month for his lifetime and he will cooperate with us.
@@ -18,3 +19,4 @@ N.B. You say you are on good terms with Madan Mohan Goswami. Under the circumsta
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 14, 1969 and your check for $105. Also I have duly received your $15 maintenance check. I am pleased that you are trying to obtain a very nice house in the city. Washington is a very important city, so if you can develop a nice center, it will be a great achievement for our society. If Mr. Dhyani can arrange to collect $20 from each of his friends it will be very much appreciated by us. Now Satsvarupa has given us a very good example in purchasing a house on the strength of BTG sales. So either by selling BTG, our books, or by public contributions if we can have our own house, that will be very nice.
@@ -21,3 +22,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

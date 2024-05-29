@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bank of America ======
+====== Bank of America ======
 
+<card class="letter">
 Manager,
 
 Bank of America,
@@ -30,3 +31,4 @@ Yours sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prof. O.P. Goel ======
+====== Prof. O.P. Goel ======
 
+<card class="letter">
 Prof. O.P. Goel\\
 7, Krishna Kunj\\
 Plot 143, Tulsipipe Road\\
@@ -32,3 +33,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

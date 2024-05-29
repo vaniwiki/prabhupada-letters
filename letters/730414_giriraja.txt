@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 My dear Giriraja Das:
 
 Please accept my blessings. Regarding the purchasing of the apartment, if it is difficulty, then I request you to deposit the Rs. 30,000/- in the bank, Book Trust a/c.. It must be deposited as a fixed deposit. (at least for six months)
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 ACBS/bs\\
 P.S. I have kept nine lacs of rupees reserved for cash payment to Mrs. Nair. I do not know what is the judgement in the matter of Chhanganlal case. If he is taking the land then we must have full payment of our investment, damages, interest, etc. Please let me know what is the actual position. I am very much anxious to know. I do not receive any letter either from you or from Tamala.\\
 ACBS
+</card>

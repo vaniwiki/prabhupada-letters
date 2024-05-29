@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva, 
 
 Please accept my blessings. I beg to acknowledge receipt of your letters of December 8 and 16, 1971, and I am very pleased that you are making advancement in Krishna Consciousness, and especially that you are observing faithfully the regulative principles of chanting 16 rounds, observing arotik, etc. I have not heard from you for some time, so I had become worried what is your position. As GBC man you should become very responsible to see that the highest standards of Krishna Consciousness should be maintained all over the Society, and therefore it is essential to always be corresponding with the others and cooperating with you all wonderful godbrothers and godsisters to carry out this great mission of Lord Chaitanya. I think that your zone of GBC is South America and at present there is no activity there. But you may begin organizing things to that we may start something there. But your real work is editing work, so you should never forget it. I shall always give you sufficient matter. Under separate cover Shyamsundar is sending you transcriptions of my current translations from Srimad Bhagwatam, 4th Canto, as he types them daily. I am sending one copy also to Pradyumna to edit the Sanskrit, and you can send the finished copies to Jaiadwaita in New York.
@@ -27,3 +28,4 @@ I hope this meets you in good health and cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

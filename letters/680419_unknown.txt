@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Unknown ======
+====== Unknown ======
 
+<card class="letter">
 [TEXT MISSING]
 
 dated April 17, 1968, and I thank you very much for it. I am so much pleased to hear that you are not afraid to stand alone, and to maintain the temple there nicely; krishna is always there with you, and He will see to your success. Do not feel that you have offended me. You have served Krishna very nicely and are continuing to do so very nicely. There is no question of your falling from my grace: you have always my blessings upon you, and I am always thinking of you, and praying Krishna to help you and give you more and more advancement in Krishna Consciousness. So please do not be disturbed in that way. Just continue with what you are doing there, and Krishna will give you all facilities and all protection.
@@ -19,3 +20,4 @@ Please keep me informed of your activities: I am so much happy to hear you are c
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

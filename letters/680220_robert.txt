@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Robert ======
+====== Robert ======
 
+<card class="letter">
 My dear Robert,
 
 Please accept my blessings. I am in due receipt of your letter dated Feb. 15, 1968, and you have done very good by staying in N.Y. under the guidance of Sriman Brahmananda. In your last letter you proposed to come here, but Krishna has given you good counsel that instead of coming here, you have stopped at N.Y. and expended the passage money for temple expenditures. It is very good. It is as good to see Brahmananda because he is my representative, and he can inform you everything which I could have done by meeting you. Anyway, please act under the guidance of Brahmananda, so long I am not able to see you, and probably it will be possible to see you in the month of April next, when I am going to N.Y. I thank you once more for your service spirit to Lord Krishna, and I am sure He will bestow upon you more and more service spirit.
@@ -19,3 +20,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

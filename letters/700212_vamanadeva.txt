@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vamanadeva ======
+====== Vamanadeva ======
 
+<card class="letter">
 My dear Vamanadeva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 2, 1970, along with the letter from Sriman April Grover, your St. Louis newsletter, and one handbill.
@@ -23,3 +24,4 @@ Please offer my blessings also to your wife, Indira dasi, and to the other boys 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

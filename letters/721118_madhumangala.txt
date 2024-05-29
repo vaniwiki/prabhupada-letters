@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhumangala ======
+====== Madhumangala ======
 
+<card class="letter">
 Amsterdam
 
 My dear Madhumangala,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

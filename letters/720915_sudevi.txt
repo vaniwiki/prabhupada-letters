@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudevi ======
+====== Sudevi ======
 
+<card class="letter">
 Buffalo
 
 My dear Sudevi Dasi,
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *But every one can become a pure devotee if he has no other desire than to serve Krsna and the Spiritual Master.
+</card>

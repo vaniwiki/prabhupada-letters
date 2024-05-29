@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Swami Sri Radhey Baba ======
+====== Swami Sri Radhey Baba ======
 
+<card class="letter">
 Swami Sri Radhey Baba\\
 Siddha Baba-Ka-Asthan\\
 Kachchi Sarak, Mathura U.P.
@@ -25,3 +26,4 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
+</card>

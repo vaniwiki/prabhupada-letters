@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Balai ======
+====== Balai ======
 
+<card class="letter">
 My dear Balai dasi,
 
 Please accept my blessings. Thank you for your letter of Jan. 8, 1968, and I have noted the contents carefully. Regarding your questions: Yes, leave Krishna's plate for 15-20 minutes or more, not more than half an hour. After offering the plate, the balance in the pots should be distributed immediately. The plate can remain on the altar while the rest is being distributed.
@@ -23,3 +24,4 @@ I hope you will understand these explanations, and distribute them to your other
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

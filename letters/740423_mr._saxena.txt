@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Saxena ======
+====== Mr. Saxena ======
 
+<card class="letter">
 Jaipur, Rajasthan
 
 Dear Mr. Saxena,
@@ -32,3 +33,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

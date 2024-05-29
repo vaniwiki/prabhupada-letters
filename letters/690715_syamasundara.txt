@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 6, 1969, and it is very encouraging. The best thing is that you have now a first-class building for a temple at 7 Bury Place. It doesn't matter if things are going a little slow; but make everything slow but sure. That is a good principle. To do things hastily and incorrectly is not good. There is a proverb in Bengali __sabure mawaphale.__ This means that all valuable nuts like almonds, macadamias, walnuts, coconuts, etc. all take a long time to fructify. Anything valuable takes a little time to come into existence. Therefore there is no harm in waiting for the best thing. But everything is well that ends well: That should be the principle.
@@ -23,3 +24,4 @@ Please convey my blessings to your good wife, Malati, and your daughter, Sarasva
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

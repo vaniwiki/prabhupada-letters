@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Shyama Dasi ======
+====== Shyama Dasi ======
 
+<card class="letter">
 Srimati Shyamadevi Dasi\\
 ISKCON Temple\\
 318 East 20th Avenue\\
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS: db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Kapoor ======
+====== Mr. Kapoor ======
 
+<card class="letter">
 Vrindaban
 
 Dear Mr. Kapoor,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/vdd
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated October 8th and 10th, 1969 and I have noted the contents carefully. I understand from your letter of October 8th that there is a struggle with the Kazi. This obstacle by the Kazi is not new to our Krishna Consciousness Movement. It was there even during the time of Lord Caitanya, but we must steadily go on with our activities without caring for these so-called custodians of law. We are the most lawful citizens in the world, but if some demon Kazi gives stumbling to our execution of duties, we cannot abide by such order. I am very glad to learn that some of the Catholic priests are sympathetic with our movement. The government says "In God we trust", and we are preaching the message of love of God, pleading with the people to become servants of God. So where is the cause of breaking the public peace? I am enclosing herewith a declaration of our Krishna Consciousness Movement which you may present in court if necessary. You depend on Krishna, try to face the charges by your best abilities and surely Krishna will help you. A similar charge was brought against our men in Philadelphia and the learned judge found that we are not culprit.
@@ -21,3 +22,4 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

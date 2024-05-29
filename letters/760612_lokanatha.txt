@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lokanatha ======
+====== Lokanatha ======
 
+<card class="letter">
 Vrindaban
 
 My dear Lokanatha Swami,
@@ -31,3 +32,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

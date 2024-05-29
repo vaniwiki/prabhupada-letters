@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Krishna C. Batra ======
+====== Sri Krishna C. Batra ======
 
+<card class="letter">
 Sri Krishna C. Batra\\
 Sri Aurobindo Ashram,\\
 Pondicherry---605002
@@ -40,3 +41,4 @@ Respectfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara, Tamala Krsna, Bhavananda, Giriraja ======
+====== Karandhara, Tamala Krsna, Bhavananda, Giriraja ======
 
+<card class="letter">
 My dear Karandhara, Tamala Krishna, Bhavananda and Giriraja,
 
 Please accept my blessings. Further to my letter of yesterday, I have thought the matter over thoroughly, and without any doubt our position in the matter is very strong. Nair is bluffing. One of my godbrothers who is expert in these things has advised me, and I also know it from experience, that once the agreement of sale is signed that is final, and it will not be very easy, in fact, it will be impossible for Nair to defeat us in the courts if it comes to that.
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

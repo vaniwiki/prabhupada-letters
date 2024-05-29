@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Prakash Shah ======
+====== Mr. Prakash Shah ======
 
+<card class="letter">
 Mr. Prakash Shah\\
 Second Secretary\\
 Embassy of India\\
@@ -26,3 +27,4 @@ Kindly reply this letter per return of post so that I may do the needful. Also n
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
+</card>

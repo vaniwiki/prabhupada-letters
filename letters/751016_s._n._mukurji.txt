@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: S. N. Mukurji ======
+====== S. N. Mukurji ======
 
+<card class="letter">
 S.N. Mukurji\\
 Senior Divisional Engineer\\
 Damodara Valley Corporation\\
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri K. Raghupati Rao ======
+====== Sri K. Raghupati Rao ======
 
+<card class="letter">
 Sri K. Raghupati Rao\\
 5 Raja Annamali Road,\\
 Madras 600084
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

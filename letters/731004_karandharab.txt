@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Karandhara ======
+====== Karandhara ======
 
+<card class="letter">
 My dear Karandhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 15th, 1973 requesting initiation for seven devotees and second initiation for three devotees. Upon your recommendation I accept them as my disciples. Their spiritual names are as follows:
@@ -36,3 +37,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkg
+</card>

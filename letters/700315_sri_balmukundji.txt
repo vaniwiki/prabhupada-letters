@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Balmukundji ======
+====== Sri Balmukundji ======
 
+<card class="letter">
 London
 
 Dear Sri Balmukundji,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

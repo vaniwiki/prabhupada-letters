@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 London
 
 My dear Syamasundara,
@@ -26,3 +27,4 @@ P.S. If you have serious engagement with Mr. George Harrison then don't move fro
 P.S. Have you any copies of Bhagavad-gita? If not then order from Brahmananda and present one hardbound copy to Mr. George Harrison with my compliments. He will be pleased to read it.
 
 ACB
+</card>

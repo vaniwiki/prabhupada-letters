@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Andrea Temple ======
+====== Andrea Temple ======
 
+<card class="letter">
 Andrea Temple\\
 c/o General Delivery\\
 Freeport, Grand Bahama Island,\\
@@ -26,3 +27,4 @@ Please continue your good work there, and I am awaiting your reply. I have got p
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

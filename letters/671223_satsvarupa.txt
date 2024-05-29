@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. Your letter dated 17, Dec. duly in hand. I am preparing the text in dictaphone for sending you as usual, but you must have a dictaphone there, otherwise how you can hear the tapes? So arrange for this, either one to hire or on purchase system. And as soon as you let me know that you have one dictaphone there, I will send you the tapes regularly.
@@ -25,3 +26,4 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

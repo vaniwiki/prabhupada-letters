@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rocana ======
+====== Rocana ======
 
+<card class="letter">
 Winnipeg
 
 My dear Rocana Das,
@@ -26,3 +27,4 @@ N.B. You can hold a fire sacrifice for the initiated disciples. The beads may be
 
 ACBS\\
 ACBS/BS/vdd
+</card>

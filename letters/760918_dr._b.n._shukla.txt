@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. B. N. Shukla ======
+====== Dr. B. N. Shukla ======
 
+<card class="letter">
 Dr. B. N. Shukla\\
 2, Drivatsa, Bhwati Nagar\\
 1 Morris Rd\\
@@ -26,3 +27,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
+</card>

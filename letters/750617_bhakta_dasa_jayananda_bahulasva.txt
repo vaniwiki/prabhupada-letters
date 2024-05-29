@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhakta dasa, Jayananda, Bahulasva ======
+====== Bhakta dasa, Jayananda, Bahulasva ======
 
+<card class="letter">
 San Francisco
 
 My dear Bhakta, Jayananda, and Bahulasva,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Why did you publish this college program book independently and unauthorized? Any literature that is to be published on behalf of the movement, must be authorized by the BBT Trustees. You have not even mentioned my name in this book. This is not at all good. Why have you done this?\\
 ACBS/ps
+</card>

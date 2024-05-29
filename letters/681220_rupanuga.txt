@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rupanuga ======
+====== Rupanuga ======
 
+<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I have received your letter of December 15, 1968 and have noted the contents with much satisfaction and encouragement. This accredited course which you have attained at the University of Buffalo is a very nice breakthrough for Lord Caitanya's movement in the West. Please do this very carefully and seriously and I am sure that Lord Caitanya will give you the intelligence from within to successfully execute this new, important project. I think that under your expert guidance many of the students in your class will eventually understand something of the great importance of what you are teaching. By Krishna's Grace perhaps the more intelligent will also decide to join you and help you. I am handing over the course proposal which you have sent me to Hayagriva who is here in Los Angeles with me. He is planning to attempt a similar course in the University of Ohio. So if we can teach to the college students in this way surely it will be a great boon to our society. You have laid ground work for this project and for this I give to you my hearty thanks.
@@ -19,3 +20,4 @@ I have sent to Jagadisa his beads duly initiated upon by me and I hope that he h
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Raktaka ======
+====== Raktaka ======
 
+<card class="letter">
 My dear Raktaka,
 
 Please accept my blessings. I am in due receipt of your letter of September 1st, 1969, and I have noted the contents. For the time being there is no need of going to India. The first thing is that you do not know the Indian language. If you want to be really helpful to the society, at least for the time being you should remain in a place to take training to assist our society's work. I do not know what is the disadvantage for you in Montreal. If you feel some disadvantage, then come to Boston or Los Angeles for some time. In the meantime I am corresponding with Acyutananda in India. If he actually requires some assistance, I shall advise you later on. If you have got money, keep it carefully as it may be required later.
@@ -19,3 +20,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

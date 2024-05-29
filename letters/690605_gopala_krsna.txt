@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gopala Krsna ======
+====== Gopala Krsna ======
 
+<card class="letter">
 Dear Gopala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 29, 1969. I have already sent your beads duly chanted upon, and I hope you will be happy in Krishna Consciousness always. As you are a very nice, good soul, Krishna will certainly bless you with all benedictions. It doesn't matter whether or not you remain in this part of the world or in India. Wherever you remain you chant Hare Krishna regularly, and your example may be followed by others. The world needs this benefit, and when you return to India there are so many ways you can convince your parents that to take to Krishna Consciousness does not mean one has to give up his worldly affairs. I know in India there are many foolish persons who think that by reading __Bhagavad-gita__ one is apt to renounce this world. This is completely foolishness. Arjuna was a family man, a soldier, and he was directly taught the principles of __Bhagavad-gita,__ but he never renounced the world nor the battlefield. I do not know why there are certain crazy men who think like that, that if a man becomes devotee, he will have no more interest in worldly affairs. We are not Mayavadi; we do not state that the world is false. We say that if Krishna is truth, the world is also truth because the world is a manifestation of Krishna's energy. So if Krishna is true, how His energy can be false? The Mayavadis preach so-called monism, but they always distinguish brahma and maya. They say brahma is true, maya is false. We say maya is true, and because it is Krishna's energy, she must be employed in Krishna's service. That is our philosophy.
@@ -21,3 +22,4 @@ You are welcome to write to me as often as possible, and it is my duty to give y
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

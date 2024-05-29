@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhakta Wayne ======
+====== Bhakta Wayne ======
 
+<card class="letter">
 Denver
 
 My dear Bhakta Wayne,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

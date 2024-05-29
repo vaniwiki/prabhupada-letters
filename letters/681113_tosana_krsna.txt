@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tosana Krsna ======
+====== Tosana Krsna ======
 
+<card class="letter">
 My dear Tosana Krishna,
 
 Please accept my blessings. I am in due receipt of your letter (undated) and thank you very much for it. Your sentiments are very kind, and I very much appreciate them. Regarding your question about what determines our fortune, generally when we are in the material world, we try to be prosperous by material opulence. Just like a common man tries to have a good house, a good wife, a good property, good social prestige, and this way, go on increasing the bodily concept of life, and possess more and more in relationship to the body. This is unfortunate. All living entities beginning from Brahma down to an ant, everyone is trying to increase such materialistic way of happy life without knowing that any amount of material comforts of life cannot make the spiritual living entities happy. Therefore, when a living entity becomes very serious to become really happy and gets into touch with Krishna Consciousness by the Grace of Krishna and the Spiritual Master, that is the beginning of his fortunate life. And the more one becomes advanced in that fortunate way of life, the more he becomes happier and happier. This is the difference between fortunate and unfortunate. The beginning of contact with Krishna Consciousness is the beginning of good fortune. That some people may come and others may not, this is also due to association. Suppose a man accidentally comes in contact with our society and gives some service willingly or unwillingly, that is the beginning of his fortunate life. We go from door to door canvassing people to join Krishna Consciousness movement means that we are trying to make them fortunate. Anyone who gives some service to this Krishna Consciousness movement is fortunate proportionately. At least the seed of his fortunate life is sown there. Whether he gives service of some sort, willingly or even unwillingly, the seed is sown, and the fortune will come proportionately. Even if somebody looks shabby and unclean, if he simply says this Krishna Consciousness is very nice thing, even he is not able to take full advantage of it at the time, still he is far more fortunate than any Rockefeller.
@@ -21,3 +22,4 @@ Hope you are well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

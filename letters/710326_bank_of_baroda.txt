@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bank of Baroda ======
+====== Bank of Baroda ======
 
+<card class="letter">
 Bank of Baroda\\
 Bombay
 
@@ -31,3 +32,4 @@ Your faithfully,
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

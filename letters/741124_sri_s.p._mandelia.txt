@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri S.P. Mandelia ======
+====== Sri S.P. Mandelia ======
 
+<card class="letter">
 Industry House\\
 Bombay
 
@@ -22,3 +23,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

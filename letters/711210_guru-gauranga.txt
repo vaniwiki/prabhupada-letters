@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Guru-gauranga ======
+====== Guru-gauranga ======
 
+<card class="letter">
 My dear Son,
 
 Please accept my blessings. Upon the recommendation of Locanananda I have gladly consented to accept you as my duly initiated disciple. your beads have been duly chanted by me and they are sent under separate post. I have given you the spiritual name: GURUGAURANGA DAS.
@@ -19,3 +20,4 @@ I hope this will meet you in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

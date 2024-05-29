@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I am in due receipt of your letter dated 8/9/67, and I have noted the contents carefully, and I can see that you are a little disturbed in mind. Don't be. Everything will be all right, by Krishna's Grace; we are Krishna's property, but now we are seated in these bodies of maya, so it is sure that from time to time there will be disturbances---just like I am experiencing now. So don't worry about it, just go on chanting Hare Krishna and engage your energy for Krishna in the best way open to you.
@@ -18,3 +19,4 @@ I am also very happy to learn that Himavati is going to have a baby. A child is 
 Now as to what you should do: there are a number of courses of action open to you. First of all, you are a family man, and usually at this point a man must think about providing for his wife and child. So if you like you can take a job in N.Y. or elsewhere and settle as an ordinary householder, like Rupanuga and others; or, if you prefer, you can continue to work within the Temple, either at Montreal or wherever there is sufficient space to accommodate you. But you must think of your health. I had already noticed a deterioration when I was in N.Y., and now you say it has gotten worse. That is not good, and you must correct it. So do the needful. Above all don't be worried. Krishna will help you. If it is necessary to go to work in order to maintain you wife and family nicely, Krishna will give you all support necessary.
 
 At any rate, I shall be back by the end of October, and then everything will be all right.
+</card>

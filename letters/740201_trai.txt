@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Trai ======
+====== Trai ======
 
+<card class="letter">
 Dear Trai das,
 
 Please accept my blessings. In his last GBC report, Rupanuga Maharaja wrote that you are delinquent in sending him regular reports. The system of temple presidents sending twice monthly reports to the GBC was devised by me to facilitate my receiving news of all the centers through the GBC. You are free to write me directly when the occasion arises, but do not neglect to send regular reports to Rupanuga Maharaja.
@@ -17,3 +18,4 @@ I hope everything is going well in the Boston temple, and I will be glad to see 
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
+</card>

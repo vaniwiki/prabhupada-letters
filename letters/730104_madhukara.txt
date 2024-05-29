@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhukara ======
+====== Madhukara ======
 
+<card class="letter">
 St. Louis
 
 My dear Madhukara,
@@ -23,3 +24,4 @@ Hoping this meets you in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings to yourself and to your good wife Yamuna Devi. With the greatest satisfaction I have read your letter of November 25th and just yesterday I received our published pictures of Prahlada Maharaja. I thank you very much for your sincere endeavors and I am sure that Krishna will bestow upon you all blessings for your notable service attitude. This is the key to progressing in Krishna Consciousness that one learns to serve Krishna and the Spiritual Master in humble attitude and this attitude in you shall certainly bring you further and further in perfecting your life. In humble submission the devotee finds such sweet transcendental pleasure that no more he is interested in the nonsense material world and no more he is affected by the influence of the inferior energy, the maya.
@@ -21,3 +22,4 @@ Once again I thank you for your nice labors and hope that you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

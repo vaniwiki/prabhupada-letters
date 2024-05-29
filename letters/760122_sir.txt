@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sir ======
+====== Sir ======
 
+<card class="letter">
 West Bengal
 
 Dear Sir,
@@ -19,3 +20,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
+</card>

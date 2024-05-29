@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bali-mardana ======
+====== Bali-mardana ======
 
+<card class="letter">
 Penang
 
 My dear Bali-mardana,
@@ -29,3 +30,4 @@ A.C. Bhaktivedanta Swami
 P.S. Of the two copies of documents, the original should be
 
 registered and returned to us.
+</card>

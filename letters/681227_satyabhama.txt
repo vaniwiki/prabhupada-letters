@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satyabhama ======
+====== Satyabhama ======
 
+<card class="letter">
 My dear Satyabhama,
 
 Please accept my blessings. I beg to acknowledge receipt of your very nice and encouraging letter dated December 20, 1968, and I have noted the contents with great pleasure.
@@ -28,3 +29,4 @@ Actually, I have no desire to start the school in any city. City life, especiall
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

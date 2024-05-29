@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Himavati ======
+====== Himavati ======
 
+<card class="letter">
 San Francisco
 
 My dear Himavati,
@@ -28,3 +29,4 @@ Do not be worried by lying down. Chant Hare Krsna mantra and Krsna will help you
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

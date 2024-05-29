@@ -9,6 +9,7 @@
 
 ====== Resolution ======
 
+<card class="letter">
 __RESOLUTION:__
 
 At a meeting of the Bureau of the International Society for Krishna Consciousness held at A-11 Sea Face Park, 50, B. Desai Road, __Bombay-26,__ on the 20th December, 1972, the following was resolved:
@@ -23,3 +24,4 @@ Bureau Members present were:\\
 A.C. Bhaktivedanta Swami\\
 Syamasundara das Adhikari\\
 Tamala Krishna Goswami
+</card>

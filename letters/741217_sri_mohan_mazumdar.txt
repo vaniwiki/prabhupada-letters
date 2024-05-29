@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Mohan Mazumdar ======
+====== Sri Mohan Mazumdar ======
 
+<card class="letter">
 Calcutta
 
 Dear Sri Mohan Mazumdar,
@@ -21,3 +22,4 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

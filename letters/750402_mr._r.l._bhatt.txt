@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. R.L. Bhatt ======
+====== Mr. R.L. Bhatt ======
 
+<card class="letter">
 R.L. Bhatt\\
 Gokul Nivas, Ahmedabad %%_%%,\\
 Baroda
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

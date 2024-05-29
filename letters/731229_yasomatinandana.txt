@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasomatinandana ======
+====== Yasomatinandana ======
 
+<card class="letter">
 My dear Yasomatinandana,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 27, 1973. I am very glad to hear you are now about to leave New York for working at the great task of spreading Krsna Consciousness in India. Lord Caitanya has said those born in India have the special responsibility to spread Krsna Consciousness all over the world. So almost all Indians have ignored this injunction by Caitanya Mahaprabhu. But now by the grace of my Guru Maharaj I have brought this message to the West and now you and your god brothers and sisters are helping me in bringing it back to the people of India and all over the world. It is a fact that all humanity's suffering is due only to lack of Krsna Consciousness.
@@ -28,3 +29,4 @@ Iskcon
 Brooklyn, N.Y. 11231
 
 (handwritten) N.B. Please tell Bali Mardan that (unreadable).
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Purusottama ======
+====== Purusottama ======
 
+<card class="letter">
 My dear Purusottama,
 
 Please accept my blessings. I am glad to inform you that we have reached Hawaii in due time on Monday afternoon and immediately we met the devotees who came to receive us and I have come directly to Govinda dasi's residence. This place is very nice. It is just on the seashore and from the room on the second floor we can always see the seaview, so it is both scenic and healthy atmosphere. But it is a very distant place from our temple. It takes almost two hours to come and go by car. Therefore I am giving you the following address for mailing of my letters and redirecting our mails.
@@ -27,3 +28,4 @@ Please offer my blessings to all and I shall be glad to hear from you how the th
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

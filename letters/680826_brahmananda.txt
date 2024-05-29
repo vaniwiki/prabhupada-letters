@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated August 22, 1968, and so far Dwarkin is concerned, I got one copy of the letter, dated 4th April, 1968, in which for two different invoices they submitted total value, Rs. 2554, showing a balance in their favor, Rs. 688.33., out of which if the value of one Dulcetina is deducted---So, $50.00 means Rs. 375 approximately. So they want 87.71, and the amount due to them may be 433.33. So approximately it comes to the same amount, namely, 87.71. Anyway, I haven't got all the papers with me. You have all these papers, so you can see what is the actual position and do the needful.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please send some sets of Srimad-Bhagavatam (2nd & 3rd) to Montreal with bill. The former books sent to Janardana is paid to me here. ACB
+</card>

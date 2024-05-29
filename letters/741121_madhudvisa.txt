@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhudvisa ======
+====== Madhudvisa ======
 
+<card class="letter">
 Melbourne
 
 My dear Madhudvisa Maharaja,
@@ -38,3 +39,4 @@ A.C. Bhaktivedanta Swami
 
 Now hold a fire sacrifice. The devotees can hear the gayatri mantra through the right ear from my recorded tape. You are authorized to chant on the beads.\\
 ACBS/BS/vdd
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Dharwarkar ======
+====== Mr. Dharwarkar ======
 
+<card class="letter">
 Messrs. Universal Book House\\
 Sita Sadan Top Floor\\
 Tulsi Pipe Road, Dadar\\
@@ -36,3 +37,4 @@ Thanking you in anticipation.
 
 Yours truly,\\
 A.C. Bhaktivedanta swami.
+</card>

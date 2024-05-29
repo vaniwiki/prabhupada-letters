@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jitadusana ======
+====== Jitadusana ======
 
+<card class="letter">
 Los Angeles
 
 My dear Jitadusana,
@@ -33,3 +34,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

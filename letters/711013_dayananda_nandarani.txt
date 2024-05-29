@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dayananda, Nandarani ======
+====== Dayananda, Nandarani ======
 
+<card class="letter">
 My dear Dayananda and Nandarani,
 
 Please accept my blessings and offer the same to your children Candramukhi and Vilasani. I am in due receipt of your letters dated 7th October, and I am so glad to receive them. I am so pleased to see that you both have taken very seriously to improve the conditions of our London temple. Our London center is very important and it is already known all over Europe and what to speak of England. So try to develop this center to the best of your capacity. I am sure that now London temple is in the right hands. Both of you, husband and wife, attempted to improve the L.A. temple and Dayananda took so much risk to maintain it. I remember all these things. Now our L.A. temple has come to a very prominent position. So far I know Karandhara is managing it nicely and you have got sufficient experience as president of L.A. temple. Now you are president of London Temple, so please just try to raise it to the L.A. standard.
@@ -22,3 +23,4 @@ So you try to find out a nice church, preferably the Paddington one, and I think
 So far the accounts are concerned, it is a very important item. I am so glad to learn that you are taking assistance from a chartered accountant. We are a registered limited establishment. Accounts must be submitted yearly to the companies registrar. Then there will be no
 
 [PAGE MISSING]
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rsabhadeva ======
+====== Rsabhadeva ======
 
+<card class="letter">
 Laguna Beach
 
 My dear Rsabhadeva,
@@ -25,3 +26,4 @@ Hoping this will meet you in good health and cheerful mood,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

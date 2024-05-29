@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 Los Angeles
 
 My dear Satsvarupa Maharaja,
@@ -32,3 +33,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd\\
 N.B. I am glad that you are appreciating the new __Caitanya-Caritamrta'__s. It is all the mercy of Sri Caitanya Mahaprabhu.
+</card>

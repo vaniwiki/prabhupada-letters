@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Daughters ======
+====== Daughters ======
 
+<card class="letter">
 CAMP: c/o B. Pankaj;\\
 P.O. Box no. 81265;\\
 Mombasa, Kenya;\\
@@ -32,3 +33,4 @@ ACBS/ADB
 Jijnasi Devi Dasi\\
 Vidya Badhu Devi Dasi\\
 c/o ISKCON London
+</card>

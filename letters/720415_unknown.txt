@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Unknown ======
+====== Unknown ======
 
+<card class="letter">
 [PARTIAL LETTER:]
 
 Regarding GBC for this Australia zone, that I shall decide in due course, after I have thoroughly seen how things are going.
@@ -17,3 +18,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

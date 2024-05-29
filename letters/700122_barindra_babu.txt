@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Barindra Babu ======
+====== Barindra Babu ======
 
+<card class="letter">
 Advocate, Supreme Court of India\\
 57/2 Ekdalia Road\\
 Calcutta-19\\
@@ -38,3 +39,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

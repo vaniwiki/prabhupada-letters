@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subrata Lahiri ======
+====== Subrata Lahiri ======
 
+<card class="letter">
 My dear Subrata Lahiri,
 
 Please accept my greetings and blessings. I have received your letter and I very much appreciate your kind sentiments. It appears that you are an intelligent man because you approach submissively and not to argue. In your letter you mention Bhagavad-gita. Actually the whole purpose of Bhagavad-gita is to revive our sanatana-dharma, which is the eternal occupation of the living entity. Sanatana-dharma does not refer to any sectarian process or religion. It is the eternal function of the eternal living entities in relationship with the eternal Supreme Lord. The English word "religion" is a little different from sanatana-dharma. Religion conveys the idea of faith, and faith may change. One may have faith in a particular process, and he may change this faith and adopt another, but sanatana-dharma refers to that activity which cannot be changed. Man professes to be a Hindu, Muslim, Christian, Buddhist or any other sect. Such designations are not sanatana-dharma. A Hindu may change his faith to become a Muslim, or a Muslim may change his faith to become a Hindu, or a Christian may change his faith and so on. But in all circumstances the change of religious faith does not effect the eternal occupation of rendering service to others. Thus, to profess a particular type of sect is not to profess one's sanatana-dharma. The rendering of service is sanatana-dharma.
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayatirtha ======
+====== Jayatirtha ======
 
+<card class="letter">
 Los Angeles
 
 My dear Jayatirtha das:
@@ -26,3 +27,4 @@ N.B. From your description of the Hawaii estate, it sounds very attractive. The 
 
 ACBS\\
 ACBS/bs
+</card>

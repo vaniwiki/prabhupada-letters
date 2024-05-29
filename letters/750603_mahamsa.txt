@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mahamsa ======
+====== Mahamsa ======
 
+<card class="letter">
 Hyderabad
 
 My dear Mahamsa Swami,
@@ -25,3 +26,4 @@ N.B. We're not going to be controlled by the endowment dept. That is not good. T
 [TEXT UNCLEAR]
 
 ACBS/ps
+</card>

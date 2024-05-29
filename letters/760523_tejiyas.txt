@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 New Delhi
 
 My dear Tejyas das,
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 *What is the size of the lecture hall and my quarters?
+</card>

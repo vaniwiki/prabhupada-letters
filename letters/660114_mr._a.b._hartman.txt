@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. A. B. Hartman ======
+====== Mr. A. B. Hartman ======
 
+<card class="letter">
 Mr. A. B. Hartman\\
 New York City
 
@@ -29,3 +30,4 @@ If I can start the institution immediately certainly I shall be able to get symp
 Yours very sincerely,\\
 A.C. Bhaktivedanta Swami.\\
 Enclosures: 4
+</card>

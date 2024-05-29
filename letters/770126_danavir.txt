@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Danavir ======
+====== Danavir ======
 
+<card class="letter">
 Bhaktivedanta Manor
 
 Dear Danavir,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:rds
+</card>

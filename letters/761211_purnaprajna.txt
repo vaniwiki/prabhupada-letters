@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Purnaprajna ======
+====== Purnaprajna ======
 
+<card class="letter">
 Calcutta
 
 My dear Purnaprajna,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
+</card>

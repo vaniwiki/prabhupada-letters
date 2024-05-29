@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. You will be pleased to know that I am arriving in San Francisco on Nov. 24 at 12:45 PM by Pan Am. flight no. 846. I've sent this news to Mukunda. I am enclosing a separate letter authorizing you to sign the contract in my behalf. I've already written a letter to D.S. Agarwal and when he goes there Acyutananda will see him personally to settle up the matter. The books from Swami Bon are already with the shipping agent and will be sent with all my books mrdangams and karatalas on the 7th of December.
@@ -16,3 +17,4 @@ Please accept my blessings. You will be pleased to know that I am arriving in Sa
 Hope you are well,
 
 A.C. Bhaktivedanta Swami
+</card>

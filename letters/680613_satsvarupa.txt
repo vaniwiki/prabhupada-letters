@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I thank you for your letter dated June 8, 1968, as well as for the booklet you have sent describing my activities in Boston. Your endeavor to utilize energy 24 hours for Krishna Consciousness is a great qualification. I am very glad to know that you are risking $350.00 a month for taking a nicer accommodation for our temple. I quite appreciate this attempt. And Krishna will surely help you. I have sent one letter to Miss Rose, and try to keep friendship with her. She will gradually become more and more interested in our temple affairs. Everyone has dormant love for Krishna and we have to give one possible chance to awake it. Miss Rose was taking gradual increased interest in our temple and I think if you flatter her a little more, she will come to Krishna Consciousness platform, and may be a great help to the center. I am so pleased to learn that the new temple location will be very near business district. In business circle there is a popular English saying that you can earn more by sitting in one place than by travelling in many places provided you can sit down in a place with due consideration. Similarly, if actually you have selected a nice place, that place itself will act as advertisement for popularizing our Krishna Consciousness.
@@ -19,3 +20,4 @@ Hoping you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

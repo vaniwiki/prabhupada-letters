@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph ======
+====== Bhima, Krsna dasa, Sanat Kumara, Nityananda, Samba, Joseph ======
 
+<card class="letter">
 Nairobi
 
 My dear Bhima dasa, Krsna Das, Sanat Kumara, Nityananda, Samba and Joseph,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

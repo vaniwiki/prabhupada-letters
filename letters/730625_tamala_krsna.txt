@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tamala Krsna ======
+====== Tamala Krsna ======
 
+<card class="letter">
 Dear Tamala Krsna Maharaja,
 
 Please accept my blessings. Recently Mr. Brijmohan Mohata, along with his wife, niece and other family members, came to see me at Mayapur. He is very much pleased with our movement. He has given me one idea to educate our men in Hindi, Marathi and Gujarati for preaching work in the interior part of Bombay. I think it a good suggestion. If you are really serious in this matter you can immediately engage some of our men to learn these different languages. He has already given us a place to stay and for this proposal he will continue his patronage. So try to execute this part of our propaganda immediately.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

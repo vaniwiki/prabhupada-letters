@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Prabhuswarupa ======
+====== Prabhuswarupa ======
 
+<card class="letter">
 Prabhuswarupa das, \\
 Sebait, Sripat Bari\\
 (Thakur Haridas Sevashram)\\
@@ -36,3 +37,4 @@ Yours faithfully, \\
 A. C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

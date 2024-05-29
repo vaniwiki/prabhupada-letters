@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Kirtanananda ======
+====== Kirtanananda ======
 
+<card class="letter">
 His Holiness Kirtanananda Swami \\
 c/o Dr. R.P. Rao\\
 Reader Chemistry Department\\
@@ -34,3 +35,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
+</card>

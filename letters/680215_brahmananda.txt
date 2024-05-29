@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 New York
 
 My dear Brahmananda,
@@ -26,3 +27,4 @@ In my opinion, if we could get 5000 copies of Teachings of Lord Caitanya at $500
 Hope you are well.
 
 Your ever well-wisher,
+</card>

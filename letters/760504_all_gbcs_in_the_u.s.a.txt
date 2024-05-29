@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: All GBC’s in the U.S.A ======
+====== All GBC’s in the U.S.A ======
 
+<card class="letter">
 To All GBC's in the U.S.A.
 
 My dear GBC disciples,
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 n.b. Tamala Krishna Goswami will also be assuming his responsibilities as a Bhaktivedanta Book Trustee for America. ACBS
+</card>

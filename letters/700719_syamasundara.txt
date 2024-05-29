@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syamasundara ======
+====== Syamasundara ======
 
+<card class="letter">
 London
 
 My dear Syamasundara,
@@ -38,3 +39,4 @@ A.C. Bhaktivedanta Swami
 
 *If you want I can dispatch four Sannyasis for this preaching work.\\
 ACBS:db
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva, 
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated, handed over to me by Kirtanananda in New York on July 3, 1972. I am very much pleased to learn that you are more settled in mind and peaceful, and that you are now editing my books nicely. That is what I always wanted, that you shall simply edit books. So I have requested Karandhar to send Shama dasi her $50 allowance for the month of July, and she may have got it by now. Now you go on in this spirit independently of any other responsibilities and produce books more and more, profusely.
@@ -19,3 +20,4 @@ Hoping this meets you in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gargamuni ======
+====== Gargamuni ======
 
+<card class="letter">
 Kathmandu
 
 My dear Gargamuni Maharaja,
@@ -22,3 +23,4 @@ A.C. Bhaktivedanta Swami
 
 P.S. Brahmananda Maharaja's address is as follows: c/o ISKCON (c/o B. Pankaj) P.O. Box no. 81265 Mombassa, Kenya East Africa\\
 ACBS/adb
+</card>

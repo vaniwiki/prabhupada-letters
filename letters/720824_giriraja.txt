@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Giriraja ======
+====== Giriraja ======
 
+<card class="letter">
 Bombay\\
 [To Giriraja]
 
 TAKE BANK MORTGAGE PAY OFF NAIR NARANARAYANA IMMEDIATELY RETURN TO USA MUST OBSERVE FAST JANMASTAMI TILL 12 AM
 
 BHAKTIVEDANTA SWAMI
+</card>

@@ -7,11 +7,13 @@
 }
 ---
 
-====== Letter to: Krsna Devi ======
+====== Krsna Devi ======
 
+<card class="letter">
 My dear Krishna devi,
 
 Please accept my blessings. I am very pleased to have your note along with your husband's letter. The poetry composed by the old lady Joan Hightower. This poetry indicates that there are many people in your country who really appreciate India's original spiritual culture. I am rather proud to say that the movement of Krishna Consciousness which I have started in your country will fulfill the desires of many sincere citizens of your country who are actually anxious to have a bon-a-fide spiritual guidance from India. There are man other swamis & yogis in your country & I am very sorry that they can simply exploit the sentiment but they can not deliver the real thing on account of their ignorance of presenting things in the modern situation. Please try to help the cause of this movement & I am sure you shall be able to satisfy many sincere souls.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

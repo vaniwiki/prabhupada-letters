@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your letter dated July 22, 1969, and I have noted the contents carefully. The money matters dealings are somewhat an embarrassment to me. I do not know what they have paid and what you have received. The best thing is as you suggested that the girls who are there may come back to Los Angeles. I have asked Tamala also to write them. If Tamala is not sending their money, he should look after their comfort, and the best thing would be that you ask them to come back to Los Angeles, without any hardships and burdens on you. You take care of Girish and Birbhadra nicely, and I shall ask Silavati to send the money directly. Yes, Kirtanananda Maharaja is not very much in favor of Nara Narayana, so for the time being I am not asking him to return to New Vrindaban. He has done very nicely here in the Rathayatra Festival, and it was very successful in San Francisco. I shall send you later on the reprint pictures published in the local newspapers, and you will be glad to learn that about 10,000 people participated in this function. The procession was taken along about an 8 mile distance, and the people followed all through, simply chanting the Hare Krishna Mantra. This was a unique scene in this part of the world. Some of the Christian-minded people became almost envious, and I have received some anonymous letters. Maybe as our movement increases in volume the orthodox section of Christianity may be envious of our successful march. I think you should collect some information from the Bible that Sankirtana, chanting of the Holy Names of God, is recommended there also. There is a book called __Aquarian Gospel__ in which it is stated that Lord Jesus Christ lived in the temple of Jagannatha. Without being His devotee, how could he live there and how the authorities could allow a nondevotee to live there? From that book it appears that Lord Jesus Christ lived in intimate relations with the priest order. So as far as possible, you should prepare yourself for future writings that our movement is not against the philosophy of Jesus Christ, but it is in complete collaboration with his line of religiosity. Actually, we don't decry any religious way of the world, but we are simply advocating that people should learn to love God by following their religious principles. If one is not fortunate to be learning how to love God, then his religious principles are simply fanaticism, without any value. We are presenting the same thing practically by which one can learn very quickly how to love God, and then his life becomes sublime. So our process is a system, following which any man from any religious sect may come and join and learn how to love God. Now you should think over this matter and try to convince people by writing different types of articles in Back To Godhead.
@@ -17,3 +18,4 @@ Please convey my blessing to Shama Dasi and the others. I hope this will meet yo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

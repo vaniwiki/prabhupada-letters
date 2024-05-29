@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Gurudasa ======
+====== Gurudasa ======
 
+<card class="letter">
 My dear Guru Das:
 
 Please accept my blessings. Since leaving India I have not received any report. So I would like to hear from you, how many men are there in Vrindaban and how the project is progressing there. Now we have got good respect there in India, so you boys manage everything intelligently and responsibly. You have all got good intelligence, now use it to full capacity for Krishna's service and cooperate together. That will please me very much.
@@ -19,3 +20,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

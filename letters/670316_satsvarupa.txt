@@ -7,8 +7,10 @@
 }
 ---
 
-====== Letter to: Satsvarupa ======
+====== Satsvarupa ======
 
+<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I have seen the typed copies of Narada Bhakti Sutra as well as Teachings of Lord Caitanya. Both of them are nicely made. I think let us finish first Teachings of Lord Caitanya and then we take again Narada Bhakti Sutra. The subject matter discussed with Narada Bhakti Sutras is already there in the Teachings of Lord Caitanya. I have sent you matter for the Second part of the Teachings and please go on sending me one copy of your typewritten matter. I shall be glad to hear from you.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated 10th and 11th September, 1969. Regarding the letter to the Punjab National Bank, that is already written, and the copy is enclosed herewith for your reference. Regarding the court case in Boston, a certified copy of the judgment should be taken. This will help us in many ways. If there is any copy of the statement of Nanda Kisora available, that should also be taken. There is a Mantra that says __mukam karoti vacalam pangum langhayate girim.__ This means that by Krishna's Grace a dumb can speak like Demosthenes, and a lame can cross over the mountain. Krishna's Grace is so glorious. So if we remain faithful in Krishna's service, there will be no difficulty in speaking when ever it is necessary. There are many instances in the history of devotees of this, and even five year old boys like Dhruva and Prahlada were able to speak so nicely. I have seen the pictures of your kirtana sent by Sacisuta, and they are all marvelous. Please print them in BTG. All Sankirtana photographs should be collected, and one after another they should be printed in BTG. So far as printing part of the Krishna book in BTG, that is also very nice. Regarding my account with First National City Bank, I have already sent you the Pass Book, so if it is convenient to move to the branch where the society has got account, that is all right. There is no difficulty in changing the branch, but I wish to keep the account with the First National City Bank. When I receive the forms from you, I shall sign it.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. There is no books here for sale. You can send some books immediately at my wish.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Siddhesvara, Krsnakanti ======
+====== Siddhesvara, Krsnakanti ======
 
+<card class="letter">
 My dear Sidheshvar and Krsnakanti,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters of January 24 and 25 respectively, and I am so much pleased by this Krishna Show! If you are able to arrange everything so that I can simply sit in my room and be seen by the world and speak to the world, then I shall never leave Los Angeles. That will be the perfection of your L.A. Temple. I am very, very encouraged by your proposal to flood the medias of your country with our Krishna Consciousness program, and see that it is practically taking shape under your hands, so I am all the more pleased. Especially it is nice that because they hear our Krishna Show the people are ordering Krishna Book. This is a very good way to induce the public for accepting our philosophy, because they are prone to believe and accept whatever they hear on the radios and televisions. Now go on in this way increasing more and more, and always stick tight to the point of our philosophy. We should not compromise in any way just to accommodate the public idea, but we can so tastefully present the real thing that we will change the people to accommodate us. Thank you very much for assisting Lord Caitanya so nicely in spreading this Sankirtana Movement.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

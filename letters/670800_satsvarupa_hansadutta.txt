@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satsvarupa, Hansadutta ======
+====== Satsvarupa, Hansadutta ======
 
+<card class="letter">
 To: Sriman Satsvarupa Brahmacari\\
 Sriman Hansadutta Adhikari\\
 Boston, Mass.
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 Prabhus:
 
 Thank you for your letters. I am indeed enjoying my stay here in Vrindaban, and fully appreciate the great opportunity and responsibility that has been placed on me. My love to all. Kirtanananda
+</card>

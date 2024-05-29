@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri D. C. Cakravarti ======
+====== Sri D. C. Cakravarti ======
 
+<card class="letter">
 Sri D.C. Cakravarti\\
 Calcutta
 
@@ -24,3 +25,4 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
+</card>

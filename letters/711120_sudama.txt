@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sudama ======
+====== Sudama ======
 
+<card class="letter">
 My dear Sudama,
 
 Please accept my blessings. I am in due receipt of your letter of November 4, 1971, and I am very pleased to hear that you have got some more devotees to assist you. Now you plot out a program with them how best to spread Krishna Consciousness in Japan. Our process is to infiltrate. We should not bother very much for their red tape, just rely on Krishna and by our determination everything will happen nicely according to His plan. These governments exist only for saying no, so I am not very optimistic that any government will ever help us.
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

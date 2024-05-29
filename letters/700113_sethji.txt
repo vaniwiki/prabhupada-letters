@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sethji ======
+====== Sethji ======
 
+<card class="letter">
 My dear Sethji,
 
 Please accept my greetings. I beg to thank you for your New Year's greeting card which I have received here in L.A. after returning from London via Boston. I am so glad to see your quotation from Srimad-Bhagavatam about the socialistic view of Sri Narada Muni. It is very nice and I have also mentioned it in the preface of my first volume of Srimad-Bhagavatam. Krishna Consciousness Movement is so nice that it can adjust the disagreement between socialism and capitalism. At the present moment, neither of these isms is perfect from the philosophical point of view, but if both parties take this common formula of Krishna Consciousness each one will supplement the other. I think, therefore, that this Krishna Consciousness Movement should be pushed thoroughly all over the world and I am seeing practically that it has got powerful effect.
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. The following books are being sent to you by separate post: Sri Isopanisad, Two Essays and Back to Godhead published by our own ISKCON Press in Boston.\\
 ACBS:db
+</card>

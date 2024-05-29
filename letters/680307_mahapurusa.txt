@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mahapurusa ======
+====== Mahapurusa ======
 
+<card class="letter">
 My dear Mahapurusa,
 
 Please accept my blessings. I thank you very much for your letter dated March 6, 1968, and I have noted the contents carefully. Regarding the observance of Lord Caitanya's Advent Day: No, there is no need for any other devotional songs or chants; simply chant Hare Krishna, with Kirtana or beads, and sing the prayer "Sri Krishna Caitanya Prabhu Nityananda, Sri Advaita Gadadhara, SriVasadi, Gaura Bhaktavrinda." You can also chant the prayer you asked about. This was spoken by Lord Nityananda while He was preaching in the town. He was addressing the people: "My dear brothers, you simply worship Lord Caitanya; talk of Lord Caitanya; speak Lord Caitanya's Name, so anyone who does so, he is my life and soul." Thus spoke Lord Nityananda. So far the reading is concerned, you may read any one of the books you have mentioned---Introduction to __Srimad-Bhagavatam,__ Professor Sanyal's book, Srila Bhaktivinode's book __Sri Caitanya Mahaprabhu Life and Precepts,__ or English translation of __Sri Sri Caitanya Caritamrta.__ Best thing is to take any one of the above mentioned books and finish it, from beginning to end. You can do that with Srila Bhaktivinode's book, that would be very nice.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am leaving for San Francisco tomorrow. So you can write me there until I go to New York in April.
+</card>

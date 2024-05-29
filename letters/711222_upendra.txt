@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Upendra ======
+====== Upendra ======
 
+<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 12, 1971, and I am pleased to hear from you. I have received yesterday one phone call from Mohanananda in Sydney, inviting me to come there when I leave from here in March. I shall be very glad to come there, via Hong Kong. You should make arrangements for two tickets from Hong Kong to Australia and then to Tokyo.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

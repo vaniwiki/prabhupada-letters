@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings for yourself and your good wife, Mrganetridevi Dasi. I am in due receipt of your letter dated 13rd July, 197-0, and I am so glad to know that you are now happily married by Subala at a nice ceremony in Philadelphia.
@@ -19,3 +20,4 @@ Hope this will meet you in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

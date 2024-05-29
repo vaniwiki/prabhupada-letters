@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sivarama ======
+====== Sivarama ======
 
+<card class="letter">
 Winnepeg
 
 My dear Sivarama Prabhu,
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

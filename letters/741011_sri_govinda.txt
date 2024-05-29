@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Govinda ======
+====== Sri Govinda ======
 
+<card class="letter">
 Evanston, Illinois
 
 My dear Sri Govinda das:
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. Your telegram to Brahmananda Swami to cancel the initiations of Barb and Lee Sutton has been received.\\
 ACBS/bs
+</card>

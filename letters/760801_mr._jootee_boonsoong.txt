@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mr. Jootee Boonsoong ======
+====== Mr. Jootee Boonsoong ======
 
+<card class="letter">
 Mr. Jootee Boonsoong\\
 2nd floor Sarasin Building\\
 14 Surasak Road\\
@@ -26,3 +27,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/yd
+</card>

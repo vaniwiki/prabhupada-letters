@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager of The Punjab National Bank ======
+====== Manager of The Punjab National Bank ======
 
+<card class="letter">
 Manager\\
 The Punjab National Bank Ltd.\\
 Brabourne Road Branch\\
@@ -23,3 +24,4 @@ Kindly send me your necessary information in this connection by return of post s
 Sincerely,
 
 A.C. Bhaktivedanta Swami
+</card>

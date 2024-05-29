@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: V. G. K. Dipple ======
+====== V. G. K. Dipple ======
 
+<card class="letter">
 V.G.K. Dipple,\\
 9 Kensington-Garden-Square,\\
 London W-24Bh,\\
@@ -36,3 +37,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

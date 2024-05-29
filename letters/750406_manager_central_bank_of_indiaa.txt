@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Manager, Central Bank of India ======
+====== Manager, Central Bank of India ======
 
+<card class="letter">
 Manager \\
 Central Bank of India\\
 Camac St. Branch, Calcutta
@@ -28,3 +29,4 @@ A.C. Bhaktivedanta Swami
 ACBS/ps
 
 (handwritten) Received Rs. 3,200.00 in cash and u.s. money order for $150.00 for credit in H.S. a/c 831
+</card>

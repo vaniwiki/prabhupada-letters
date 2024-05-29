@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tusta Krsna ======
+====== Tusta Krsna ======
 
+<card class="letter">
 My dear Tusta Krishna Swami,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 21 November, 1975. Every student is expected to become Acarya. Acarya means one who knows the scriptural injunctions and follows them practically in life, and teaches them to his disciples. I have given you sannyasa with the great hope that in my absence you will preach the cult thruout the world and thus become recognized by Krishna as the most sincere servant of the Lord. So I'm very pleased that you have not deviated from the principles I have taught, and thus with power of attorney go on preaching Krishna consciousness, that will make me very happy as it is confirmed in the Guru vastakam yasya prasadat bhagavata prasadah just by satisfying your Spiritual Master who is accepted as the bona fide representative of the Lord you satisfy Krishna immediately without any doubt.
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
+</card>

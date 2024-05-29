@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Rajendra Sahai ======
+====== Rajendra Sahai ======
 
+<card class="letter">
 Shri Rajendra Sahai\\
 D.G.C. (R.)\\
 Fatehpur, U.P.
@@ -24,3 +25,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

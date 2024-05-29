@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta, Bhagavan ======
+====== Hansadutta, Bhagavan ======
 
+<card class="letter">
 London and Paris
 
 My dear Hansadutta and Bhagavan das:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

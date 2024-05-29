@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Yasomatinandana ======
+====== Yasomatinandana ======
 
+<card class="letter">
 Hyderabad
 
 My dear Yasomatinandana das:
@@ -24,3 +25,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs
 
+</card>

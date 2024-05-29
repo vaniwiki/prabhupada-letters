@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Satyabhama, Paramananda ======
+====== Satyabhama, Paramananda ======
 
+<card class="letter">
 New Vrindaban
 
 My dear Satyabhama and Paramananda:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

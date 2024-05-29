@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hit Sharanji ======
+====== Hit Sharanji ======
 
+<card class="letter">
 My dear Hit Sharanji,
 
 Please accept my blessings. I am in due receipt of your letter dated 5th December, 1969, and my instructions for the points of your letter have already been explained in my letter to you dated 5th December, 1969. In case this letter has not safely arrived there, I am sending herewith a copy. Also, please find enclosed two invitation cards for the opening of our London temple: one is for you and one is for Sri. J. Dalmia. Please hand it over to him conveniently. I shall be hoping to hear from you soon.
@@ -17,3 +18,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. The brass deities must be packed securely in wooden box while shipping.
+</card>

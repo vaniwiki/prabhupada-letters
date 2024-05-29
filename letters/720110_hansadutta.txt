@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 Hamburg
 
 My dear Hansadutta,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 *Please know it always that I think of you and your wife as very sincere devotees and whenever you think, you can ask me everything about your difficulties.\\
 ACBS/sda
+</card>

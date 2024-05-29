@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Dr. Yogi Raj Dev Svarupa ======
+====== Dr. Yogi Raj Dev Svarupa ======
 
+<card class="letter">
 Dr. Yogi Raj Dev. Svarupa,\\
 c/o Prof. K. Sellin\\
 Active University\\
@@ -25,3 +26,4 @@ I hope this letter finds you well.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Muralidhara ======
+====== Muralidhara ======
 
+<card class="letter">
 Dear Muralidhara,
 
 Please accept my blessings. I have received your letter sent to Mayapur with a list of questions regarding your painting pictures for my books. The answers are as follows.
@@ -53,3 +54,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
+</card>

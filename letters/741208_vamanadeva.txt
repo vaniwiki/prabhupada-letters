@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vamanadeva ======
+====== Vamanadeva ======
 
+<card class="letter">
 Breckenridge Hills, Missouri
 
 My dear Vamanadeva das:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Madhavi Lata ======
+====== Madhavi Lata ======
 
+<card class="letter">
 My dear Madhavi Lata,
 
 Please accept my blessings. I am in due receipt of your recent letter (undated) and I have noted the contents.
@@ -29,3 +30,4 @@ So when I return to New York, probably sometimes in April, I will be pleased to 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

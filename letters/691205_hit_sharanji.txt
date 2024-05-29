@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hit Sharanji ======
+====== Hit Sharanji ======
 
+<card class="letter">
 My dear Hit Sharanji,
 
 Please accept my blessings. I thank you very much for your letter dated November 24, 1969. You need not send the Murtis by air cargo to London because some devotee here has contributed a Radha-Krishna Murti pair imported from Jaipur. It is 42" high and very nice. So Krishna has saved us in this point because we are going to have our opening ceremony on the 14th December through the 21st of December. But if one pair is ready, you can immediately dispatch by ship to Boston as previously advised. From here I shall go to Boston, and if the Deities reach there timely, then I shall install them there also. I think in my previous letter the instruction was to dispatch one pair to Boston, so you can send the Deities to some shipping agent in Bombay and they will forward to Boston.
@@ -17,3 +18,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lalita Kumar, Jambavati ======
+====== Lalita Kumar, Jambavati ======
 
+<card class="letter">
 My dear Lalita Kumar and Jambavati dasi,
 
 Please accept my blessings. I am in due receipt of your letter undated, and I have noted the contents carefully. You may name your daughter Mitra dasi, I have no objection. You may call your children as you like, but you should always inform my secretary to make sure the name is entered on our list to avoid repetition. Later, the children may be given another name upon initiation, as it is seen fit. You ask if children may be taken to ordinary medical doctors. Why not? Of course we do not always trust that these doctors maybe doing the right thing, but what can be done? The governing principle for our activity should be to do what is favorable for pleasing Krishna. So if your child requires medical attention to be fit for serving Krishna, then it is only practical she should get it. Same thing---if the government is giving you money, why not use it for Krishna? Only thing we must avoid cheating them or falsely claiming something to get money. Then we are risking our very high reputation as pious people. But if they are willing to give us money and food, then of course we should accept.
@@ -21,3 +22,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Vrndavanesvari ======
+====== Vrndavanesvari ======
 
+<card class="letter">
 My dear Vrndavanesvari,
 
 Please accept my blessings. I thank you very much for your letter dated July 18, 1969, and I have carefully noted the contents. I was very much anxious to hear from you and Mandali Bhadra since you left Vancouver, and I am very glad to learn that things are going nicely. By Krishna's Will you are all a good combination. So continue to execute Krishna Consciousness very seriously and sincerely and take care of your child, Moyuradwaja. I have a great hope for Moyuradwaja. He is very intelligent with signs of a great devotee. My special request to you is that you take care of this child very nicely, and he will be a great son to glorify his parents. I have noticed that he has all the instincts of devotional life, and it is up to the guardians to take care of him. I am pleased to note that you and Jaya Govinda are learning to speak German language. Please help all of the boys to become a little conversant with with this language. That will facilitate your business there. I think that for American boys it will not be difficult to learn to speak German quickly.
@@ -19,3 +20,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

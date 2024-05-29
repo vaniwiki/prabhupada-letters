@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sukadeva ======
+====== Sukadeva ======
 
+<card class="letter">
 From: A. C. Bhaktivedanta Swami\\
 Center: Hotel Ilikai\\
 P. O. Box 2668\\
@@ -30,3 +31,4 @@ A.C. Bhaktivedanta Swami
 ACBS/sdg\\
 400 18th Avenue East 98112\\
 Seattle, Washington
+</card>

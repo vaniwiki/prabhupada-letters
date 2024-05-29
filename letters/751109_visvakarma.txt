@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Visvakarma ======
+====== Visvakarma ======
 
+<card class="letter">
 Toronto
 
 My dear Visvakarma das,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. What about that devotee from England who was to come to India? When I was in Toronto you agreed to send him. Now he is immediately required here in Bombay for construction supervision. I received your cable that you have purchased that church. Congratulations. What are the details? My blessings to Mr. Batra. ACBS\\
 ACBS/BS/mdd
+</card>

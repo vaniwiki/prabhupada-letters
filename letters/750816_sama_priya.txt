@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sama Priya ======
+====== Sama Priya ======
 
+<card class="letter">
 Boulder Creek, Ca.
 
 My dear Sama Priya devi dasi:
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

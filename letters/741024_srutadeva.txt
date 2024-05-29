@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Srutadeva ======
+====== Srutadeva ======
 
+<card class="letter">
 Washington, D.C.
 
 My dear Srutadeva das:
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

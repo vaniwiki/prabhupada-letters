@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: The Statesman ======
+====== The Statesman ======
 
+<card class="letter">
 "The Statesman,"\\
 Calcutta---1, India\\
 Attn: Advertising Dept.
@@ -25,3 +26,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
+</card>

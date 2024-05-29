@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Subala ======
+====== Subala ======
 
+<card class="letter">
 My dear Subala das,
 
 Please accept my blessings. I am so glad to receive your letter dated 8/15, and pleased to read the contents. By Krishna's Grace you have gotten a nice old castle, and converted into a K.C. temple. I am also pleased to learn that people are taking an interest in the temple, and that you are getting some publicity started. K.C. is so that it will bring more and more, If you but go on chanting with heart and soul. It is Lord Caitanya's desire that you have opened this branch in such a distant place, and surely it will be a successful attempt. I have nothing to instruct you newly, but the same: simply chant in the beginning for 30-45 minutes then read something from the Gita or S. Bhagavatam, and then chant again in the usual way.
@@ -21,3 +22,4 @@ So far my health is concerned, I am improving slowly, and I expect to return to 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

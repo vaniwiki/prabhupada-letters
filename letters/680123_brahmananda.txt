@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Brahmananda ======
+====== Brahmananda ======
 
+<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I thank you for your nice long letter of 1/19/68, and of 1/17/68, and have noted contents carefully. We will phone Ravi Sankara and make some arrangements with him as is possible. Regarding Hanuman Prasad Poddar, he is not so formidable rascal, but you can read his literature. He is a sincere worker in Krishna Consciousness. His defect is that he is Impersonalist, but he can not remain long an Impersonalist because he is devoted to Radha and Krishna. Recently he has sent me one letter of appreciation for my activities here. There is no objection to reading his books. Regarding the other books; keep them very nicely, and I shall see when I go there to New York. You might have received another book perhaps, by Bhaktisaranga Goswami. This book by mistake was sent, perhaps: it has to be returned.
@@ -18,3 +19,4 @@ The proper form of address to Bhaktivinode Thakura is Om Visnupad Srila Bhaktivi
 Regarding Krishna devi: You have been misinformed by Krishna devi. I have never given permission for a new husband. Rather, I asked her to come back immediately and join her husband, Subala. Subala might have informed her that if she loves Krishna at all, then she may live peacefully with her new husband, but let her conduct the Santa Fe center, and that will be proof of her love for Krishna. I have directly asked her to come join her husband. If she doesn't come, Subala has decided not to accept any other wife, but to remain in Krishna Consciousness alone for the rest of his life. Krishna devi is in the strong clutches of Maya, and she wants to have a new husband under any price. I have never allowed her in that way. But if she served Krishna's cause, I will not disallow her, because that is our main business. My point is that she must conduct that center, not that I have encouraged her to accept this boy. If she wants to keep this new friend, and keep up the S.F. center, I welcome it, but not that I am encouraging her to have a new husband.
 
 Regarding Buffalo center: Purusottama may be sent, but the planning of Rupanuga to go to Washington D.C. may not be changed.
+</card>

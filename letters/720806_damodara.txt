@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Damodara ======
+====== Damodara ======
 
+<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 30, 1972 and I have noted the contents carefully. Regarding your debt to the book fun and __Back to Godhead__ fund and incense from 'Spiritual Sky', these debts must be paid, that is important business. Along with our preaching and propaganda work, we must also give attention to financial matters, otherwise the whole thing will collapse and it will be a farce. If there is good financial standing it is understood that Laksmi is favorable because her husband Narayana is being served nicely. If Laksmi is unfavorable, then we must increase our preaching efforts, and strive for pleasing the Supreme Personality of Godhead.
@@ -21,3 +22,4 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Natalie Orloff ======
+====== Natalie Orloff ======
 
+<card class="letter">
 Montreal
 
 Dear Natalie Orloff;
@@ -21,3 +22,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ndb
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uttamasloka ======
+====== Uttamasloka ======
 
+<card class="letter">
 Toronto
 
 My dear Uttamasloka das,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 Enc: 1 mantra sheet.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nandikesvara ======
+====== Nandikesvara ======
 
+<card class="letter">
 Winnipeg, Canada
 
 My dear Nandikesvara das:
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

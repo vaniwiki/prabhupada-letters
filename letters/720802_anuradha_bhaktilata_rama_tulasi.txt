@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Anuradha (Jan), Bhaktilata (Becky), Rama Tulasi (Tina) ======
+====== Anuradha (Jan), Bhaktilata (Becky), Rama Tulasi (Tina) ======
 
+<card class="letter">
 Denver
 
 My dear daughters,
@@ -30,3 +31,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
+</card>

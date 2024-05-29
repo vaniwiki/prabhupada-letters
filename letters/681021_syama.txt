@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Syama ======
+====== Syama ======
 
+<card class="letter">
 My dear Syama dasi,
 
 Please accept my blessings. I am in due receipt of your letter undated, but I am sorry I am late in replying it due to so many letters I have to reply every day, so please excuse me my delay.
@@ -25,3 +26,4 @@ Thanking you once more,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

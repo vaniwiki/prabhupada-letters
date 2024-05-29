@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tejiyas ======
+====== Tejiyas ======
 
+<card class="letter">
 New Delhi
 
 Dear Tejyas,
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 ACBS/sdg\\
 c.c. Gurudasa\\
 N.B. Henceforward all collections for Vrindaban Temple Construction should be deposited in this newly opened fund account, number 230, Punjab National Bank, Moti Bagh, New Delhi
+</card>

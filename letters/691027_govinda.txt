@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda Dasi,
 
 Please accept my blessings. I thank you so much for your letter dated October 13, 1969 and I am anxious to know about the result of the church negotiations. If by the Grace of Krishna it comes out successful, it will be a great achievement for your activities in Honolulu. When you get the church I must go there. Regarding the French girl, she is so kind to join with us. I have advised Janardana, who is here in London for a few days, to write you how this girl can help us. Janardana liked her translation and good spelling, so she will be very much useful for transcribing or typing our French literatures. I do not know whether she will be prepared to go to her own country and assist the other devotees in Paris. That would be a very nice proposal. I am very encouraged to hear about your nice engagements there. I am enclosing herewith one note for Sai. You can hand it over to him. I have duly received the bananas you sent, and you can send me these dried bananas tons and tons. It is very useful and can be nicely used for our Ekadasi foodstuffs. After drying the bananas you can make powder, just like flour, and out of this you can prepare puris, halava, pakoras and other fruit products.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 enclosure: one letter for Sai
+</card>

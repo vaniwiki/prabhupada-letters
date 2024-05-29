@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 1975 So. La Cienega Boulevard\\
 Los Angeles, California 90034
 
@@ -24,3 +25,4 @@ Please convey my blessings to the others. I hope this will meet you in good heal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

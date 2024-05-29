@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hrsikesa ======
+====== Hrsikesa ======
 
+<card class="letter">
 (to Hrsikesa)
 
 [TEXT MISSING]
@@ -18,3 +19,4 @@ letter of January 9, 1969, I suspect that you have interest in taking instructio
 When I was in India, Acyutananda, Ramanuga, and myself, with others, lived with Sridhara Maharaja, so Acyutananda knows him very well. He spared a big house for us and if both of you go there now, it will be very good for your spiritual benefit. Then I will feel that you are safe. Besides that, if you wish to live in India, you can make arrangements for this house so that other of your god-brothers may go there in the future. Just on the other side of the Ganges there is Mayapur, and you can occasionally or every week go there and learn Bengali and Sanskrit if it is your desire. All facilities are there. Sridhara Maharaja is a very good English scholar and he can talk with you very nicely in English. The room in Vrindaban where you are residing may also be kept so that it may be utilized when necessary. But so far as I am concerned, I am becoming older and older, and my life may be finished at any moment. As I have got my permanent residence in America, it is indication of Krishna that I shall live here to organize this movement to the best possible extent. If I sometimes go out of this country, I will go to Europe only and again come back. So, practically I have decided not to go to India anymore. In case I suddenly meet my death, then I shall make my will how to deal with my body later on.
 
 So don't be carried away by whims. It is my duty to save you. Leave Vrindaban, live peacefully with Sridhara Maharaja, if you do not wish to go to Germany, and thereby you will be spiritually enlightened. Please inform me immediately regarding what you have decided.
+</card>

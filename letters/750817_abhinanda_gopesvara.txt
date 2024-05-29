@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Abhinanda, Gopesvara ======
+====== Abhinanda, Gopesvara ======
 
+<card class="letter">
 Hyderabad
 
 My dear Abhinanda das and Gopesvara das:
@@ -23,3 +24,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

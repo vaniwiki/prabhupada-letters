@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jayapataka ======
+====== Jayapataka ======
 
+<card class="letter">
 Mayapur
 
 My dear Jayapataka,
@@ -27,3 +28,4 @@ A.C. Bhaktivedanta Swami
 ACBS/sda\\
 *As we are not in need of Sridhara Maharaja's land why should we take it? Better wait until my arrival.\\
 *Our Ahmedabad programme was highly successful.
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Linda ======
+====== Linda ======
 
+<card class="letter">
 Detroit
 
 My dear Linda,
@@ -29,3 +30,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
+</card>

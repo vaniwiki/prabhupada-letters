@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Janardana ======
+====== Janardana ======
 
+<card class="letter">
 My dear Janardana,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter, undated. It is a very long letter and, as you have written it in two months, perhaps I'll also require similar time to reply to this letter. On Monday I am going to Hawaii at least for a month, and there I shall try to read your letter very peacefully, and maybe I'll be able to reply in great detail.
@@ -35,3 +36,4 @@ You try to understand this philosophy more seriously, and as you are able try to
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

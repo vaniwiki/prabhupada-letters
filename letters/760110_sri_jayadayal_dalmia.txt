@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Jayadayal Dalmia ======
+====== Sri Jayadayal Dalmia ======
 
+<card class="letter">
 Sri Jayadayal Dalmia\\
 4 Scindia House\\
 New Delhi-1
@@ -25,3 +26,4 @@ A.C. Bhaktivedanta Swami
 Copy forwarded to:\\
 Sri Vishambhar Dayala, Nitai Niwas, Raman Reti, Vrindaban.\\
 ACBS/tkg
+</card>

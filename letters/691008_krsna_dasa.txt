@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Krsna dasa ======
+====== Krsna dasa ======
 
+<card class="letter">
 My dear Krishna das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 2, 1969, and I have noted the contents with pleasure. I have seen the plan of the new temple that you have enclosed. It appears to be a nice, suitable place. It is Krishna's Grace that the walls for the advertisements may be properly utilized so the passengers in the trains can see it. You write if possible the following words: "We request you to chant HARE KRISHNA HARE KRISHNA, KRISHNA KRISHNA HARE HARE, HARE RAMA HARE RAMA, RAMA RAMA HARE HARE, and your life will be sublime." The mantra may be written in big letters, and the other words in smaller letters. Another slogan may be "Join the Krishna Consciousness Movement. It is peaceful, and it will bring peace and prosperity to everyone." Regarding your idea for a jewelry shop, it is nice. You become an expert jeweler and you must open a jewelry shop to earn millions of dollars for spending in Krishna Consciousness. Your father is a kind gentleman. I have all good wishes for him, and Krishna will also be very much pleased upon him because he has such a nice devotee son. So your father will also be pleased if you open a jewelry shop. It is a good opportunity both ways: to keep good relations with your father and to make money and serve Krishna with the money profusely. Your plan for supplying the temples with nice ornaments for their Deities is also very good. We should decorate our temple Deities with first class ornaments and nice flowers. In this temple you make a throne situated in a big closet. Just like I kept my Deities in a place where they were locked up at certain times, similarly you do the same. In this way the valuables of the Deities will be protected.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *Please inquire in the post office why such things are happening about mail deliveries.
+</card>

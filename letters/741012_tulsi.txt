@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tulsi ======
+====== Tulsi ======
 
+<card class="letter">
 Honolulu
 
 My dear Tulsi devi dasi:
@@ -25,3 +26,4 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
+</card>

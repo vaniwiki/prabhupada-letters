@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Srutadeva ======
+====== Srutadeva ======
 
+<card class="letter">
 Catonsville, Maryland
 
 My dear Srutadeva dasa,
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

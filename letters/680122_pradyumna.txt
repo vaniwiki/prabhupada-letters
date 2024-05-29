@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Pradyumna ======
+====== Pradyumna ======
 
+<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I have received your letter dated January 20, 1968. Los Angeles is very pleasant with clear sky and plenty of sunshine.
@@ -26,3 +27,4 @@ Please clear any doubts you may have about what is to be done. You may begin wor
 Your Ever Well wisher
 
 A.C. Bhaktivedanta Swami
+</card>

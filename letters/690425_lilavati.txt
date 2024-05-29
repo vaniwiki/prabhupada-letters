@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Lilavati ======
+====== Lilavati ======
 
+<card class="letter">
 My dear Lilavati,
 
 Please accept my blessings to yourself as well as to your good husband and nice daughter, Subhadra. I beg to thank you for your letter dated April 18, 1969, and I have noted the contents carefully. Regarding your question about the relationship between the living entities and Krishna, the answer is that qualitatively we are one with Krishna: There is no qualitative difference, although the living entity has a different function than Krishna. Prakrti means nature. Just like fire; its nature is heat, and the heat is not a different quality although the function is different. In one sense, fire and heat are nondifferent. Therefore, Lord Caitanya's philosophy of inconceivably simultaneously one and different is the perfect philosophy of our relationship with the Absolute Truth. Everything is manifestation of the prakrti of the Lord, exactly like the heat and light of the fire. Heat and light are not different from the fire, but at the same time, heat and light are not the fire. In this way we have to understand the purusa and prakrti. The Lord is the purusa, or Enjoyer, and prakrti is the enjoyed.
@@ -19,3 +20,4 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

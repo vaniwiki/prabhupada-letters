@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Mukunda, Janaki ======
+====== Mukunda, Janaki ======
 
+<card class="letter">
 San Francisco
 
 Dear Mukunda and Janaki,
@@ -23,3 +24,4 @@ A.C. Bhaktivedanta Swami
 P.S. Please hand over the enclosed letter to Uddhava & Cidananda.
 
 ACB
+</card>

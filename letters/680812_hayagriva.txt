@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hayagriva ======
+====== Hayagriva ======
 
+<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings, and offer the same to Kirtanananda Swami. I hope you are both well and your program for constructing New Vrindaban is going nicely. I am always very much anxious to hear how you are progressing in this connection and please therefore keep me informed.
@@ -21,3 +22,4 @@ Hoping you are both well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>

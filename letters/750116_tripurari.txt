@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Tripurari ======
+====== Tripurari ======
 
+<card class="letter">
 Atlanta
 
 My dear Tripurari das,
@@ -25,3 +26,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
+</card>

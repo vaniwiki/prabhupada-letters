@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Ved Prakash ======
+====== Ved Prakash ======
 
+<card class="letter">
 My dear Sri Ved Prakash Ji,
 
 With reference to my interview with you yesterday, I beg to inform you that the cause of our difference of opinion is based on the fact that you have got you own opinion in the matter of preaching our spiritual culture in the foreign countries but so far I am concerned I am conducted by the order of a superior authority and liberated person. My spiritual master Om Visnupada Sri Sri Bhaktisiddhanta Sarasvati Goswami Maharaja wanted it and just trying to serve Him without any personal whim.
@@ -18,3 +19,4 @@ If you would have co-operated with me you could do so for the satisfaction of sp
 Thanks.
 
 Yours faithfully,
+</card>

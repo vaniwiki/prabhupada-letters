@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Jagadisa ======
+====== Jagadisa ======
 
+<card class="letter">
 Toronto
 
 My dear Jagadisa,
@@ -26,3 +27,4 @@ A.C. Bhaktivedanta Swami
 
 N.B. I beg to acknowledge receipt of your check for $100.00 with thanks\\
 ACB/sda
+</card>

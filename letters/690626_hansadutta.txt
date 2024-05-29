@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Hansadutta ======
+====== Hansadutta ======
 
+<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated June 22, 1969, and I have noted the contents. As you know that in the beginning of the Sankirtana Party, first I suggested to you, and you formed a small party in New York and began to perform Sankirtana in the parks. To some extent this was successful. Then gradually this idea was taken by others, and I am getting good reports from everywhere. So Sankirtana is our life and soul, and you have got a natural tendency for these Sankirtana performances. I have seen this personally, and you can do it very nicely. So for you the best thing will be to form a Sankirtana Party for yourself and travel all over the country. The talks which you had with Subala for a touring program, I do not know what happened to it. Subala also is not here; he has gone to Philadelphia with a view to open a center there, but I have not heard from him yet. The most successful Sankirtana affairs are going on here in Los Angeles. It is actually wonderful in comparison to others. They are also thinking of opening a branch in Laguna Beach, and I have encouraged this idea. Personally, I also still maintain the idea of a world Sankirtana Party, but such things at the present moment are a dream only. But one day maybe it may come out successful. So as you ask my permission to come here, I have no objection. I think if you come here and stay for a few days to study how they are doing things nicely, it will be a great benefit. Besides that, in San Francisco they are arranging for a nice Rathayatra Festival. So after getting all these ideas, if you make a program for touring all over the country with Sankirtana Party, that is cent per cent supported by me.
@@ -19,3 +20,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 NB: Mail may be sent to me at 737 Formosa Avenue, Los Angeles, Calif.
+</card>

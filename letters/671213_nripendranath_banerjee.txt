@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Nripendranath Banerjee ======
+====== Nripendranath Banerjee ======
 
+<card class="letter">
 Sri Nripendranath Banerjee\\
 114, Elliot Road, Mirpur,\\
 Kanpur - 4, U.P.
@@ -28,3 +29,4 @@ A.C.Bhaktivedanta Swami\\
 C/o ISKCON\\
 518 Frederick St. San Francisco\\
 California - 94117
+</card>

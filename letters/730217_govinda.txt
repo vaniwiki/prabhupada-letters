@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Govinda ======
+====== Govinda ======
 
+<card class="letter">
 My dear Govinda dasi,
 
 Please accept my blessings. I am in due receipt of your letter dated January 31st. and I have noted the contents carefully. I thank you very much for sending me the nice monogrammed shirts and I am wearing them daily. I am thinking of you and your husband and of the nice devotional service you are performing and I pray that Krishna will give you more and more intelligence to continue in this way.
@@ -23,3 +24,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ms
+</card>

@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Sri Govinda ======
+====== Sri Govinda ======
 
+<card class="letter">
 Cleveland
 
 My dear Sri Govinda,
@@ -27,3 +28,4 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
+</card>

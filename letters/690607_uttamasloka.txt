@@ -7,8 +7,9 @@
 }
 ---
 
-====== Letter to: Uttamasloka ======
+====== Uttamasloka ======
 
+<card class="letter">
 My dear Uttama Sloka,
 
 Please accept my blessings. I am very glad to receive your letter (undated), and I have noted the contents that you had left the temple but now you have returned again. This is most encouraging, because it means that Krishna is very kind upon you. Although you left Him, He did not allow you to go away. It is His special favor upon you. As individuals there may be disagreement sometimes, but that is quite natural. Even in ordinary family affairs there is sometimes disagreement, but that does not mean immediately the disagreeing members shall leave the family. Similarly our Krishna Consciousness Movement means we are all gathering together in families of Krishna. Actually we are eternal family members of the Lord, but due to our misuse of independence we have now forgotten our eternal relationship with Krishna, exactly like a man who is mad forgets his family relationship and loiters in the street. But when he is again in his normal mental condition, he remembers his family members and goes back to them. Similarly this Krishna Consciousness Movement is a treatment for reviving the memory that we all belong to Krishna's family. So we are trying to establish a replica of Krishna's family in this material world wherein there is no material activities. To avoid the material activities means to follow the four regulative principles and to engage ourselves constantly in Krishna Consciousness activities and to have the association of pure devotees. We should not give indulgence to our senses more than what is required just to keep body and soul together. We should not engage ourselves in very difficult tasks, and we should not talk anything more than what is necessary for spreading Krishna Consciousness. We should follow the regulative principles, regard being had to situation, circumstances and objectives. We should not be greedy and we should not mix with persons not interested in Krishna. In this way, we can make steady progress and maintain our membership in Krishna's family. Thus, at the end of this life we will enter actually into the spiritual world. So your main business should be to spread Sankirtana, becoming tolerant as the tree and becoming humbler than the grass. If you have anytime any difficulty, please try to settle up in the above way, but do not leave the company of devotees. That will not help you, even though there may seem to be some difficulties.
@@ -17,3 +18,4 @@ I am so pleased to read in your letter that you have unflinching faith in Krishn
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
+</card>
