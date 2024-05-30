@@ -9,7 +9,6 @@
 
 ====== Puri Maharaj ======
 
-<card class="letter">
 Ramsharanam; \\
 18th Road; Chembur, \\
 Bombay-71
@@ -32,4 +31,3 @@ A.C. Bhaktivedanta Swami
 ACBS:ds 
 
 P.T.O.
-</card>

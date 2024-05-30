@@ -9,7 +9,6 @@
 
 ====== Deputy Commissioner of Police ======
 
-<card class="letter">
 To:\\
 Deputy Commissioner of Police\\
 Special Branch II, C.I.D.\\
@@ -32,4 +31,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

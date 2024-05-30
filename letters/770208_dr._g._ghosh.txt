@@ -9,7 +9,6 @@
 
 ====== Dr. G. Ghosh ======
 
-<card class="letter">
 22 Minto, Allahabad 1, U.P.
 
 P.O. Sree Dham Mayapur\\
@@ -29,4 +28,3 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

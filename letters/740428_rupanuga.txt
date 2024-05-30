@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 Washington D.C.
 
 My dear Rupanuga Maharaja,
@@ -36,4 +35,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

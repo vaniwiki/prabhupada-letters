@@ -9,7 +9,6 @@
 
 ====== Navayogendra ======
 
-<card class="letter">
 Nairobi
 
 My dear Navayogendra das:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

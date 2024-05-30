@@ -9,7 +9,6 @@
 
 ====== Dhrstadyumna ======
 
-<card class="letter">
 Sri Sri Radha Damodara TSKP\\
 Tempe, Arizona
 
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

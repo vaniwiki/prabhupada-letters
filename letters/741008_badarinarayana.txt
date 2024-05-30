@@ -9,7 +9,6 @@
 
 ====== Badarinarayana ======
 
-<card class="letter">
 Ann Arbor, Michigan
 
 My dear Badarinarayan das:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Binoy Krishna Mitra ======
 
-<card class="letter">
 Binoy Krishna Mitra\\
 Calcutta
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dd
-</card>

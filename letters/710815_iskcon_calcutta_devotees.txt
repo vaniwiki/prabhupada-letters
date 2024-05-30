@@ -9,7 +9,6 @@
 
 ====== ISKCON Calcutta devotees ======
 
-<card class="letter">
 TO ISKCON CALCUTTA:
 
 My dear Subaladas Swami, Madhudvisa Swami, Jayapataka Swami, Devananda Swami, Acyutananda Swami, Gargamuni Swami, Bali Mardan, Tamala Krishna, Madri devi, Gurudasa, Yamuna, Elliot, Lala Ram, Dravida, John Griesser, Yasodanandana, Pusta Krishna, Bhanu, Amrtananda, Dinanath, John, Citralekha, Giriraja, etc.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

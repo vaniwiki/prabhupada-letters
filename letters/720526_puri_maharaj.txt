@@ -9,7 +9,6 @@
 
 ====== Puri Maharaj ======
 
-<card class="letter">
 Sri B.V. Puri Maharaj
 
 President, Sri Krishna Chaitanya Mission
@@ -36,4 +35,3 @@ Sri Krsna Chaitanya Mission
 Aryapuram, Rajahmundry-1, F.G. District
 
 INDIA 
-</card>

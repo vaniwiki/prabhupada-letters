@@ -9,7 +9,6 @@
 
 ====== Abhirama ======
 
-<card class="letter">
 Miami, Florida
 
 Dear Abhirama das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

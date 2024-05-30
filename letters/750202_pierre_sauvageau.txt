@@ -9,7 +9,6 @@
 
 ====== Pierre Sauvageau ======
 
-<card class="letter">
 Pierre Sauvageau\\
 a/s Centre d'information Hare Krishna\\
 728 Laurier, Trois-Rivieres\\
@@ -28,4 +27,3 @@ A.C. Bhaktivedanta Swami
 
 *That is the verdict of S.B. "__Idam hi pumsa srntasya saktasya ca budhadata yo avicyuta'tha kavi bhih nirupitah yaduttamasloka gunanuvarnanam__"\\
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 Singapore
 
 My dear Bali-mardana,
@@ -22,4 +21,3 @@ Please keep me regularly informed of your activities. Hope this will meet you in
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 19 Feb. 1968, and am so glad to learn that you have delivered the manuscript of Bhagavad-gita to MacMillan & Co. on the date of my Guru Maharaja's birthday ceremony. The questionnaires which you have sent me I am answering them on separate typed paper and both the questions and answers are enclosed herewith. Please find and do the needful. I have also received the letters from Mario Windisch. This gentleman appears to be a disciple of my German god-brother Sadananda Swami. He appears to be very much interested in our movement and very shortly he is visiting Montreal. Perhaps I may meet him in June when I shall go there and there is every possibility of opening two centers. One in Sweden and another in Austria. Regarding glossy photo, I am writing to Guru das but I think Rayarama has got many specimens of my photograph. If you so desire, you can select one of them. I am also writing to Gurudasa in this connection. I understand that you have ordered some books from Gaudiya Math and Mr. Kalman is cooperating.
@@ -18,4 +17,3 @@ Regarding printing in India, I have already sent you a specimen copy of printing
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

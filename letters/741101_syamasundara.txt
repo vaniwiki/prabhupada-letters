@@ -9,7 +9,6 @@
 
 ====== Syamasundara ======
 
-<card class="letter">
 Sri Purusottama Math\\
 Chatak Parvat\\
 Puri
@@ -27,4 +26,3 @@ Faithfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

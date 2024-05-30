@@ -9,7 +9,6 @@
 
 ====== Sadajeewatlalji ======
 
-<card class="letter">
 Sheth Sri Punjabi Chandu\\
 Halwi Karachiwala\\
 185, Wallkeshwar Road, Teenbatti\\
@@ -31,4 +30,3 @@ Your ever sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:bs wanted by you, enclosed is my photo.
-</card>

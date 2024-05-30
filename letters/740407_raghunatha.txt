@@ -9,7 +9,6 @@
 
 ====== Raghunatha ======
 
-<card class="letter">
 St. Kilda, Australia
 
 Dear Raghunath,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

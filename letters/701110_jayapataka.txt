@@ -9,7 +9,6 @@
 
 ====== Jayapataka ======
 
-<card class="letter">
 Calcutta
 
 My dear Jayapataka Maharaja,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ds
-</card>

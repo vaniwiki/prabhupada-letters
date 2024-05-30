@@ -9,7 +9,6 @@
 
 ====== To Whom It May Concern ======
 
-<card class="letter">
 Shri Radha Damodar\\
 Temple, Sebakunja,\\
 Vrindaban
@@ -28,4 +27,3 @@ Witnessed and assisted by:\\
 His Holiness B.S. Yachak
 
 [ATTN: illegible hand writing here]
-</card>

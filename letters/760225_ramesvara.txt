@@ -9,7 +9,6 @@
 
 ====== Ramesvara ======
 
-<card class="letter">
 Dear Ramesvara,
 
 Please accept my blessings. I beg to acknowledge receipt of BBT trustee's report dated February 13, 1976.
@@ -30,4 +29,3 @@ Please advise Mailorder to send one or two copies of their new catalogs to me.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bahulasva ======
 
-<card class="letter">
 Berkeley
 
 My dear Bahulasva,
@@ -35,4 +34,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. By the by, I understand from Hansadutta's letter that he has advised from Germany to dispatch $1,500 from Berkeley for credit of my account here. If it is not yet done, please do it.\\
 ACBS:db
-</card>

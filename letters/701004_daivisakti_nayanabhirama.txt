@@ -9,7 +9,6 @@
 
 ====== Daivisakti, Nayanabhirama ======
 
-<card class="letter">
 Philadelphia
 
 My dear Daivisaktidevi and Nayana Bhirama,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

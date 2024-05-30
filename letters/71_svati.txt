@@ -9,7 +9,6 @@
 
 ====== Svati ======
 
-<card class="letter">
 My dear Svati devi,
 
 Please accept my blessings. I have duly received your letter dated January and I may inform you that I wrote you c/o your husband's parents in Berlin.
@@ -26,4 +25,3 @@ And to answer your last question, where will I go at the time of death if I am t
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

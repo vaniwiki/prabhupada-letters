@@ -9,7 +9,6 @@
 
 ====== Pradyumna ======
 
-<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I am in due receipt of your letter dated July 22, 1969 with enclosures, and I have noted the contents. So far as __devanagari__ character is concerned, you can correspond with Remington Typewriter Company. In India, in most of the government offices __devanagari__ type is used for correspondence, and Remington Typewriter Company has got contract with the government to supply the typewriters. So I am sure they can supply you with a __devanagari__ typewriter. I am expecting this printing of our literature, especially __Srimad-Bhagavatam,__ with __devanagari__ type and diacritic transliteration will be completely entrusted to you. So you cannot type everything from the IBM. That is not possible. In the IBM machine you shall do the English work and the diacritic transliteration work. So far as the __devanagari__ type is concerned, you have to do it with the help of another machine, and either you will have to paste on the lines or adopt some other device so that they can be joined. That shall be the process. But if we publish our __Srimad-Bhagavatam__ exactly in the way I have already begun it, it will be a unique contribution. The scholars only require diacritic marks. Then it is all right. That should be very correct and standard. If there is __devanagari__ character it is still better. Otherwise, correct transliterations will do. So you think over this matter seriously and train your wife for composing, and help her to the best possible way.
@@ -22,4 +21,3 @@ Please offer my blessings to Arundhati. I hope this will meet you in good health
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

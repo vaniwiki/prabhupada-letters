@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 San Francisco
 
 My dear Gurudasa,
@@ -20,4 +19,3 @@ Our London program is gradually becoming a tangible fact. And I am receiving let
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

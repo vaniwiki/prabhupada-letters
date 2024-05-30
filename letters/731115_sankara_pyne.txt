@@ -9,7 +9,6 @@
 
 ====== Sankara Pyne ======
 
-<card class="letter">
 My dear Sankara Pyne:
 
 Please accept my blessings. I beg to acknowledge receipt of your Bengali letter date 4/11/73. I am glad to learn that my books are being read in the Calcutta University and the National Library and others. Go on in this way distributing as far as possible.
@@ -23,4 +22,3 @@ I hope this meets you in good health.
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami.
 
-</card>

@@ -9,7 +9,6 @@
 
 ====== Dr. Aggarwal ======
 
-<card class="letter">
 My dear Dr. Aggarwal,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Feb. 25, and I have examined the contents carefully. Thanks very much for the poem.
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Manager of Punjab National Bank ======
 
-<card class="letter">
 Manager\\
 Punjab National Bank\\
 Moti Bagh Branch
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 c c. Tejyas das Adhikari
-</card>

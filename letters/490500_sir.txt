@@ -9,7 +9,6 @@
 
 ====== Sir ======
 
-<card class="letter">
 Dear Sir,
 
 On the conclusion of the All Religious Conference held at Bombay very recently, I may submit that nothing practical has come out of it for uniting the different faiths of the world. The practical solution is lying in the transcendental message of Sri Krishna the Personality of Godhead as given by Him lately in the Bhagavad-gita.
@@ -27,4 +26,3 @@ As stated above the asura, as soon as he surrenders to Godhead makes the whole p
 I have, according to the instruction of my spiritual master, chalked out a programme of work according to Bhagavad-gita and I wish to discuss it personally with your good self to give the plan a practical shape. Will it be convenient for you to see me for this purpose? I am prepared to go to you at my cost at wait upon you if so desired by you. Awaiting your early reply and thanking you in anticipation.
 
 Yours faithfully,
-</card>

@@ -9,7 +9,6 @@
 
 ====== Edith ======
 
-<card class="letter">
 My dear Edith,
 
 Please accept my blessings, presently I am touring India and so have just now received your letter dated 3d August, 1970 and am replying it herewith.
@@ -29,4 +28,3 @@ ACBS/adb
 Edith Greene\\
 1833 N. Orehard St.\\
 Chicago, Ill. 60614
-</card>

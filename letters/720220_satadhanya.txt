@@ -9,7 +9,6 @@
 
 ====== Satadhanya ======
 
-<card class="letter">
 Tokyo
 
 My dear Satadhanya,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
-</card>

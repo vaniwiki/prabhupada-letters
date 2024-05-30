@@ -9,7 +9,6 @@
 
 ====== Babhru ======
 
-<card class="letter">
 439 HENRY STREET, BROOKLYN, N.Y. 11231 – Tel.: 596-9658
 
 My dear Babhru (William),
@@ -26,4 +25,3 @@ A.C. Bhaktivedanta Swami
 ACBS/adb
 
 William Reed; c/o New Nabadwip
-</card>

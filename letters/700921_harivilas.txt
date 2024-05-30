@@ -9,7 +9,6 @@
 
 ====== Harivilas ======
 
-<card class="letter">
 My dear Harivilas,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 15th, 1970, the contents of which have given me great satisfaction. Sriman Hanuman has already arrived here in Calcutta and from the pictures he has shown me of your temple and devotees I can understand that everything is going on very nicely there.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds  p.t.o.
-</card>

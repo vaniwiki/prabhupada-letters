@@ -9,7 +9,6 @@
 
 ====== Yamuna, Dinatarine ======
 
-<card class="letter">
 Murphy, Oregon
 
 My dear Yamuna and Dinatarine,
@@ -26,4 +25,3 @@ I hope this meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

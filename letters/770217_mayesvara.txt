@@ -9,7 +9,6 @@
 
 ====== Mayesvara ======
 
-<card class="letter">
 Mayesvara das Brahmachari\\
 ISKCON\\
 340 West 55th Street,\\
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

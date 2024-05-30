@@ -9,7 +9,6 @@
 
 ====== Kay Johnson ======
 
-<card class="letter">
 Kay Johnson\\
 2616 Ashby Avenue\\
 Berkeley, California 94705
@@ -30,4 +29,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

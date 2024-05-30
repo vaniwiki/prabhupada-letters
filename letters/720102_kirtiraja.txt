@@ -9,7 +9,6 @@
 
 ====== Kirtiraja ======
 
-<card class="letter">
 Brooklyn
 
 My dear Kirtiraja dasa,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
-</card>

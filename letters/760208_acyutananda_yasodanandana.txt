@@ -9,7 +9,6 @@
 
 ====== Acyutananda, Yasodanandana ======
 
-<card class="letter">
 Guntur, A.P., India
 
 My dear Acyutananda and Yasodanandana Maharaja,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

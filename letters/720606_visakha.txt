@@ -9,7 +9,6 @@
 
 ====== Visakha ======
 
-<card class="letter">
 Bombay
 
 My dear Visakha,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

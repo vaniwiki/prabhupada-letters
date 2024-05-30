@@ -9,7 +9,6 @@
 
 ====== Sharon Suzuki ======
 
-<card class="letter">
 Sharon Suzuki\\
 P.O. Box 742\\
 Keaau, Hawaii
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/hdb
-</card>

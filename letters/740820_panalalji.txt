@@ -9,7 +9,6 @@
 
 ====== Panalalji ======
 
-<card class="letter">
 My dear Panalalji:
 
 Please accept my blessings. I would like to thank you for the Rs. 15,000/- that you have pledged towards the construction of the Hyderabad temple. I am also pleased to hear from Mahamsa Swami that the construction has started and the columns have come to beam level.
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

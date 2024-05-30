@@ -9,7 +9,6 @@
 
 ====== Sridhara Maharaja ======
 
-<card class="letter">
 Navadvipa
 
 My dear Sripada Sridhara Maharaja,
@@ -27,4 +26,3 @@ I hope this meets you in good health and thanking you in anticipation for an ear
 Yours obediently,\\
 A.C. Bhaktivedanta Svami\\
 ACBS/ps
-</card>

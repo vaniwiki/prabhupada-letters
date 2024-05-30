@@ -9,7 +9,6 @@
 
 ====== Sons and Daughters, ISKCON CHICAGO ======
 
-<card class="letter">
 My dear Sons and Daughters,
 
 Please accept my blessings. I beg to thank you very much for your kind feelings of appreciation of my humble service unto you. You are all helping me in pushing forward this mission of Lord Chaitanya Mahaprabhu coming down by disciplic succession to my guru Maharaj. So whatever you have spoken, it is simply due to them. I am simply the via media to receive them on behalf of my Guru Maharaj, His Divine Grace Bhaktisiddhanta Saraswati Goswami Maharaj Prabhupada.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ADB
-</card>

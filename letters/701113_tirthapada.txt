@@ -9,7 +9,6 @@
 
 ====== Tirthapada ======
 
-<card class="letter">
 Sydney
 
 My dear Tirthapada,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. I have seen the news-cutting and I am very glad that Upananda and Anne are now married happily in Krsna Consciousness Please offer them my full blessings to work together in mutual cooperation for advancing Krsna consciousness. However, in future, if you kindly take sanction for such marriages beforehand, that will be in proper way.\\
 ACBS:ds
-</card>

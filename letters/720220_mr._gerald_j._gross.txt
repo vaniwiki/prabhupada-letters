@@ -9,7 +9,6 @@
 
 ====== Mr. Gerald J. Gross ======
 
-<card class="letter">
 Mr. Gerald J. Gross,\\
 Sr. Vice President,\\
 MacMillan Co.,\\
@@ -29,4 +28,3 @@ Kindly treat this matter as urgent and do the needful.
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

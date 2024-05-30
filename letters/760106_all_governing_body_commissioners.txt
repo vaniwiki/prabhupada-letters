@@ -9,7 +9,6 @@
 
 ====== All Governing Body Commissioners ======
 
-<card class="letter">
 To\\
 All Governing Body Commissioners
 
@@ -38,4 +37,3 @@ Hoping this meets you in the best of health and Krsna Consciousness.
 Approved:    Your servant,\\
 A.C. Bhaktivedanta Swami    Tamala Krsna Goswami\\
 Personal Secretary
-</card>

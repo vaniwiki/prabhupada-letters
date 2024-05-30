@@ -9,7 +9,6 @@
 
 ====== Ādi-kesava ======
 
-<card class="letter">
 My dear Ādi Kesava,
 
 Please accept my blessings. I am in due receipt of your letter dated November 8, 1976.
@@ -20,4 +19,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

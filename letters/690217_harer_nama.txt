@@ -9,7 +9,6 @@
 
 ====== Harer Nama ======
 
-<card class="letter">
 My dear Harer Nama,
 
 Please accept my blessings. I am in due receipt of your letter dated February 13, 1969, and I have carefully noted the contents. I am so glad to hear that you are having nice response now and soon you hope to hold some feasts. If by the summer you feel that the center has urgent necessity of some other brahmacaris, then we shall arrange for this. At present I think that Tosana may go to North Carolina immediately and help Bhurijana with the center there. In the meantime, you try to keep the temple maintained somehow or other, so when the summer arrives some helper may go to give you assistance.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. In case of urgent work somebody may go to help you from here. ACB.
-</card>

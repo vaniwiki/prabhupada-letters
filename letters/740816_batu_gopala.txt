@@ -9,7 +9,6 @@
 
 ====== Batu Gopala ======
 
-<card class="letter">
 Cleveland
 
 My dear Batu Gopala Das: I have received your letter dated 3/8/74.
@@ -41,4 +40,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

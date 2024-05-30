@@ -9,7 +9,6 @@
 
 ====== Prapujaka, Avinasa Candra ======
 
-<card class="letter">
 Frankfurt
 
 Dear Prapujaka dasa and Avinasa Candra dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rds
-</card>

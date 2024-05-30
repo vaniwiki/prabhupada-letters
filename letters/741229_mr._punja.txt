@@ -9,7 +9,6 @@
 
 ====== Mr. Punja ======
 
-<card class="letter">
 Lautoka
 
 My dear Mr. Punja,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 n.b. Please continue the distribution of my books and magazines as much as possible. This is very much pleasing to me. Thank you.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 Toronto
 
 My dear Jagadisa,
@@ -18,4 +17,3 @@ Please accept my blessings. I beg to acknowledge receipt of your letters dated A
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 My dear Bhagavan das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 22, 1971, along with beads and letters from several devotees at Detroit temple. I am very glad to accept these students as my duly initiated disciples and their names shall be as follows;
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

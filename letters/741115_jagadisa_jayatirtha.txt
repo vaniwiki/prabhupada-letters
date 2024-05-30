@@ -9,7 +9,6 @@
 
 ====== Jagadisa, Jayatirtha ======
 
-<card class="letter">
 Dallas
 
 My Dear Jagadisa, Jayatirtha, and
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

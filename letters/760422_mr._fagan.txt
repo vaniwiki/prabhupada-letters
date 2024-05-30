@@ -9,7 +9,6 @@
 
 ====== Mr. Fagan ======
 
-<card class="letter">
 The United States Consulate, Visa Section\\
 24 Albert Road,\\
 Melbourne, Australia,\\
@@ -25,4 +24,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mr. T.P. Murli ======
 
-<card class="letter">
 T.P. Murli\\
 7 Shilloo House\\
 1st Floor, 20th Road,\\
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

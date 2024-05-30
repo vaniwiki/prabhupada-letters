@@ -9,7 +9,6 @@
 
 ====== Upendra ======
 
-<card class="letter">
 5516 Roosevelt Way\\
 N.E. Seattle, Wash. 98105\\
 My dear Upendra,
@@ -21,4 +20,3 @@ In Seattle, also you try to move in Samkirtan party as Tamal Krishna was doing, 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
-</card>

@@ -9,7 +9,6 @@
 
 ====== Revatinandana ======
 
-<card class="letter">
 Santa Barbara
 
 My dear Revatinandana,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

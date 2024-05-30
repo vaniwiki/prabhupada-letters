@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 P.O. Box 65\\
 Murphy, Oregon
 
@@ -27,4 +26,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

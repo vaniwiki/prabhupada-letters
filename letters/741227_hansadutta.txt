@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 Los Angeles
 
 My dear Hansadutta,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

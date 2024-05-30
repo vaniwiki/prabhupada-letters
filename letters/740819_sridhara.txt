@@ -9,7 +9,6 @@
 
 ====== Sridhara ======
 
-<card class="letter">
 Bombay
 
 My dear Sridhara das,
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
-</card>

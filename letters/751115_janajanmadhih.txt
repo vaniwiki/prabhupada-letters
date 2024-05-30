@@ -9,7 +9,6 @@
 
 ====== Janajanmadhih ======
 
-<card class="letter">
 Memphis
 
 My dear Janajanmadhih das,
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

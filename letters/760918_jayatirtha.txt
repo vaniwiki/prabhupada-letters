@@ -9,7 +9,6 @@
 
 ====== Jayatirtha ======
 
-<card class="letter">
 My dear Jayatirtha das,
 
 Please accept my blessings. I am in due receipt of your letter dated 13rd September 1976 and also the BBT Trustees report and have noted the contents with care.
@@ -22,4 +21,3 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

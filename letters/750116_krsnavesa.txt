@@ -9,7 +9,6 @@
 
 ====== Krsnavesa ======
 
-<card class="letter">
 London
 
 My dear Krsnavesa dasi,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

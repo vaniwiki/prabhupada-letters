@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 Sriman Bhagavan das Adhikary\\
 ISKCON\\
 4, Rue Le Sueur\\
@@ -30,4 +29,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs
 
-</card>

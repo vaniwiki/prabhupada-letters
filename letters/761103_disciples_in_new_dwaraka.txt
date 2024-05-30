@@ -9,7 +9,6 @@
 
 ====== Disciples in New Dwaraka ======
 
-<card class="letter">
 3764 Watseka Ave.\\
 Los Angeles, California\\
 90034 USA
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

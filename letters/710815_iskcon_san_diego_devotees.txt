@@ -9,7 +9,6 @@
 
 ====== ISKCON San Diego, Bhakta dasa, Surya, Rajiblocan, Aniruddha, Paratrikananda, Norah, Annapurna, Marney, Nrsimha Caitanya, Marybelle, others ======
 
-<card class="letter">
 TO ISKCON SAN DIEGO,
 
 My dear Bhakta das, Surya, Rajiblocan, Aniruddha, Paratrikananda, Norah, Annapurna, Marney, Nrsimha Caitanya, Marybelle, etc.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

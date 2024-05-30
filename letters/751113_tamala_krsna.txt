@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 Tampa
 
 My dear Tamala Krsna das Gosvami,
@@ -34,4 +33,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

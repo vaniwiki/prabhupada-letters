@@ -9,7 +9,6 @@
 
 ====== Cyavana ======
 
-<card class="letter">
 Evanston, Illinois
 
 My dear Cyavana Maharaja,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

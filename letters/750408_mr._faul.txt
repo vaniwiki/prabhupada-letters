@@ -9,7 +9,6 @@
 
 ====== Mr. Faul ======
 
-<card class="letter">
 Culver City
 
 My dear Mr. Faul,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

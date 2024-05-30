@@ -9,7 +9,6 @@
 
 ====== Jaya Gopala, Suniti ======
 
-<card class="letter">
 Los Angeles
 
 My dear Jaya Gopala and Suniti,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
-</card>

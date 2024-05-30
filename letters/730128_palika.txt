@@ -9,7 +9,6 @@
 
 ====== Palika ======
 
-<card class="letter">
 My dear Palika Devi,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 1/17/73 and have noted the contents with great care. You may be pleased to know that your husband has now taken sannyasa order of life for preaching the message of Lord Caitanya. Similarly you have gone alone to Hyderabad for pushing on the preaching work and I am very glad to hear that you have arrived safely.
@@ -19,4 +18,3 @@ Hoping this finds you well and in happy mood,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

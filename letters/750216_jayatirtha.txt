@@ -9,7 +9,6 @@
 
 ====== Jayatirtha ======
 
-<card class="letter">
 Los Angeles
 
 My dear Jayatirtha Das,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 Enc: 3 threads, mantra sheet.\\
 ACBS/ps
-</card>

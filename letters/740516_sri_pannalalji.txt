@@ -9,7 +9,6 @@
 
 ====== Sri Pannalalji ======
 
-<card class="letter">
 Hyderabad
 
 Dear Sri Pannalalji,
@@ -37,4 +36,3 @@ ACBS/sdg
 > Na vai vidur rsaya napi devah
 > Na siddhya mukhyah asura manusyah
 > kutanu vidyadhana caranadayah
-</card>

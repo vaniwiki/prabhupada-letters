@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Vancouver
 
 My dear Gurudasa Maharaja,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

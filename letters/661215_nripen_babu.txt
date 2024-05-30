@@ -9,7 +9,6 @@
 
 ====== Nripen Babu ======
 
-<card class="letter">
 Sri Nripendra Natha Banerji\\
 Late Principal of Kanyakubja College\\
 Elliot Road. Birpur.
@@ -37,4 +36,3 @@ A.C. Bhaktivedanta Swami
 ACBS/sdn\\
 cc: Nripendra Natha Banerjee\\
 Mathuram Goswami
-</card>

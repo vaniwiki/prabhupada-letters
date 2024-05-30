@@ -9,7 +9,6 @@
 
 ====== Jitaprana ======
 
-<card class="letter">
 Dallas
 
 My dear Jitaprana,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

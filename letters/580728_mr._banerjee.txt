@@ -9,7 +9,6 @@
 
 ====== Mr. Banerjee ======
 
-<card class="letter">
 Dear Mr. Banerjee,
 
 Please accept my Namaskara. As advised by you the other day I went to see Mr. Mangumal at Kalvadevi but he did not entertain the idea of missionary work. I talked with him and found him perfect gentleman but he has spiritual realization of the lowest rank. According to Bhagavata a person who is attracted by the Arcana Marga without any knowledge of the science of Vaisnavism is called the __Kanistha__ adhikari Vaisnava. He has of course honoured me with Rs. 11/- and a glass of milk for which I have thanked him very much but mission is not fulfilled.
@@ -23,4 +22,3 @@ Respectable gentlemen specially the Bengali community may come forward first so 
 I wish to talk with you in detail and shall be glad to know if you can spare some convenient time for this. Also I shall be more glad to speak on the teachings of Lord Caitanya amongst your selected friends if such a meeting is organized at your or any other suitable place. Thanking you in anticipation and awaiting your reply.
 
 Yours sincerely,
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mr. N. N. Bagai ======
 
-<card class="letter">
 N. N. Bagai\\
 1185 Sector 18-G\\
 Chandigarh
@@ -26,4 +25,3 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Svami
-</card>

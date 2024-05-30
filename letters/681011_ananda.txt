@@ -9,7 +9,6 @@
 
 ====== Ananda ======
 
-<card class="letter">
 My dear Ananda,
 
 Please accept my blessings. I may inform you that I may go to Vancouver sometimes in the next week or so. When exactly I shall go there, I shall inform you in my next letter.
@@ -20,4 +19,3 @@ And please reply this letter immediately. Hoping you are well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Hrsikesa ======
 
-<card class="letter">
 My dear Hrsikesa,
 
 Please accept my blessings. I thank you very much for you very nice note enclosed with Hayagriva's letter. I am so glad to learn that you are reading my Bhagavad-gita As It Is with great interest, and I hope if you kindly read my books carefully that all your spiritual desires will be fulfilled. And you are in the right place for doing this, in New Vrindaban, and I shall be happy to meet with you again when I arrive there in May.
@@ -18,4 +17,3 @@ Thanking you once more for your nice letter, and hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

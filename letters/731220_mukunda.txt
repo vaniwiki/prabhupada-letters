@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Mukunda,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
-</card>

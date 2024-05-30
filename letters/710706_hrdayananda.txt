@@ -9,7 +9,6 @@
 
 ====== Hrdayananda ======
 
-<card class="letter">
 Gainesville
 
 My dear Hrdayananda,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

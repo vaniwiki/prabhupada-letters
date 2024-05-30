@@ -9,7 +9,6 @@
 
 ====== Riddha ======
 
-<card class="letter">
 Durban, South Africa
 
 My dear Riddha das,
@@ -41,4 +40,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

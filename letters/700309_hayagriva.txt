@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 Columbus, Ohio
 
 My dear Hayagriva,
@@ -38,4 +37,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 Sriman Hayagriva Das Adhikary\\
 c/o New Vrindaban\\
 R.D. 3, Moundsville, W. Va. 26041
@@ -38,4 +37,3 @@ A.C. Bhaktivedanta Swami
 ACBS/adb
 
 ENCL: 1
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gerald Sawas ======
 
-<card class="letter">
 3384 Mallin Ave.\\
 Long Beach, Calif. 90808
 
@@ -19,4 +18,3 @@ Please accept my blessings. I beg to thank you very much for your kindly remembe
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

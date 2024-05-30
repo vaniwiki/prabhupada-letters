@@ -9,7 +9,6 @@
 
 ====== Mr. S. S. Sethi (Vice Consul of India) ======
 
-<card class="letter">
 Sri S. S. Sethi, Vice Consul\\
 Consulate General of India\\
 215 Market Street\\
@@ -23,4 +22,3 @@ I do not know what to do with this wrong passport. The copy of the letter which 
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

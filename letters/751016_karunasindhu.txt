@@ -9,7 +9,6 @@
 
 ====== Karunasindhu ======
 
-<card class="letter">
 Los Angeles
 
 My dear Karunasindhu das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

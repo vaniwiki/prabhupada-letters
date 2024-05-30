@@ -9,7 +9,6 @@
 
 ====== Sudhindra Kisora Roy ======
 
-<card class="letter">
 Sudhindra Kisora Roy\\
 Govt. of India Overseas\\
 Communications Service\\
@@ -27,4 +26,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

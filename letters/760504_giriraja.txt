@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 Bombay
 
 My dear Giriraja das,
@@ -35,4 +34,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 n.b. enclosed you will find another letter addressed to the BBT in Bombay. Please see that it reaches Gopala Krishna and any other people involved in this matter.
-</card>

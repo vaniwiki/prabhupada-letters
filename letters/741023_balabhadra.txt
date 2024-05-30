@@ -9,7 +9,6 @@
 
 ====== Balabhadra ======
 
-<card class="letter">
 Edinburgh, Scotland
 
 My dear Balabhadra das:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

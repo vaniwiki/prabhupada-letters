@@ -9,7 +9,6 @@
 
 ====== R. N. Aggarwal M.A ======
 
-<card class="letter">
 Sri R.N. Aggarwal MA.\\
 President D.M. Committee.\\
 Town Hall, Delhi.
@@ -30,4 +29,3 @@ I hope you will kindly accept it and let me know your decision, so that further 
 
 Yours faithfully,\\
 A.C. Bhaktivedanta.
-</card>

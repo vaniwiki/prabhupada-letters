@@ -9,7 +9,6 @@
 
 ====== Acyutananda ======
 
-<card class="letter">
 My dear Acyutananda Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 29th, 1970, and noted the contents. Regarding taking introduction from some persons to their friends for making life members, don't depend on others' introduction---do your own work.
@@ -36,4 +35,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

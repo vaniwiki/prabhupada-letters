@@ -9,7 +9,6 @@
 
 ====== Indian Embassy in America ======
 
-<card class="letter">
 Secretary\\
 Indian Embassy in America\\
 Washington D.C.
@@ -24,4 +23,3 @@ Please acknowledge receipt hereof and thanking you in anticipation,
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami.
-</card>

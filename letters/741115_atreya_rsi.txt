@@ -9,7 +9,6 @@
 
 ====== Atreya Rsi ======
 
-<card class="letter">
 Bombay
 
 F. Attar\\
@@ -34,4 +33,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sahadeva ======
 
-<card class="letter">
 Houston, Texas
 
 Dear Sahadeva,
@@ -29,4 +28,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

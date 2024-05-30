@@ -9,7 +9,6 @@
 
 ====== Srilekha ======
 
-<card class="letter">
 Toronto
 
 My dear Daughter Srilekha,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

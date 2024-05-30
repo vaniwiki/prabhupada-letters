@@ -9,7 +9,6 @@
 
 ====== Mr. Robert Bedoian ======
 
-<card class="letter">
 Robert Bedoian\\
 16102 Orange Ave.\\
 Paramount, Ca. 90723
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

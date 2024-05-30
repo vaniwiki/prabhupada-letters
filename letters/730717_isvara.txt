@@ -9,7 +9,6 @@
 
 ====== Isvara ======
 
-<card class="letter">
 Dear Isvara,
 
 Please accept my blessings. I beg acknowledge receipt of your undated letter and I have carefully considered the contents.
@@ -20,4 +19,3 @@ For the present go on with your decision to live as householders apart, but conc
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

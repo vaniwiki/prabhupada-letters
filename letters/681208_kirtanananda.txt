@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. I have received today your letter dated 4, December 1968 and have carefully read the contents.
@@ -24,4 +23,3 @@ Please convey my blessings to Hrsikesa and I hope this letter finds you in good 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

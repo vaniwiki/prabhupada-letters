@@ -9,7 +9,6 @@
 
 ====== Suresvara ======
 
-<card class="letter">
 New Vrindaban
 
 Dear Suresvara das;
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 MS:jdb
-</card>

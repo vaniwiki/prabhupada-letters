@@ -9,7 +9,6 @@
 
 ====== Vaikunthanatha, Bahulasva ======
 
-<card class="letter">
 San Francisco
 
 My dear Vaikunthanatha and Bahulasva,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

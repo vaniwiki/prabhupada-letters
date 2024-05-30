@@ -9,7 +9,6 @@
 
 ====== Candravali ======
 
-<card class="letter">
 Mexico City
 
 My dear Candrabali,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

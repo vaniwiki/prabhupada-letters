@@ -9,7 +9,6 @@
 
 ====== Bhargava ======
 
-<card class="letter">
 New Delhi
 
 My dear Bhargava das,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

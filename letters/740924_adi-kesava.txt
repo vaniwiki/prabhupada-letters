@@ -9,7 +9,6 @@
 
 ====== Ādi-kesava ======
 
-<card class="letter">
 Boston
 
 My dear Ādi Kesava Das:
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

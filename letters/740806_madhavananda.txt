@@ -9,7 +9,6 @@
 
 ====== Madhavananda ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Madhavananda Das:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

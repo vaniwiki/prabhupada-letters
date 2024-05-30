@@ -9,7 +9,6 @@
 
 ====== Upendra ======
 
-<card class="letter">
 Sydney
 
 My dear Upendra,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

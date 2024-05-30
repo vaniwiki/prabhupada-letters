@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 Madras
 
 My dear Giriraja,
@@ -28,4 +27,3 @@ A.C. Bhaktivedanta Swami
 N.B. It may be that the Governor of Madras will invite me as his guest. If this happens I will come to Madras. So far the time being you may remain in Madras making members, and by my next letter I shall let you know definitely whether I am coming. If I come you can arrange lectures in all the prominent halls and all over the city you can advertise "A.C. Bhaktivedanta Swami Prabhupada speaks."
 
 A.C. Bhaktivedanta Swami
-</card>

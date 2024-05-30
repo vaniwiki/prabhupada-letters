@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter Feb. 17, 1968, and have noted the contents. The sentence in question is, as you stated, Swayam Bhuva Manu and his wife, Satarupa (not Satsvarupa).
@@ -32,4 +31,3 @@ Radha Press\\
 Gandhi Nagar\\
 Delhi-31,\\
 INDIA
-</card>

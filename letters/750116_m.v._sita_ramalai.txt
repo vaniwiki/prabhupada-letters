@@ -9,7 +9,6 @@
 
 ====== M. V. Sita Ramalai ======
 
-<card class="letter">
 Sri M.V. Sita Ramalai, Advocate\\
 46-17-26 Danavayipeta\\
 Rajahmundry 533103 East Godavari A.P.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

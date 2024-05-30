@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 New York
 
 My dear Bali-mardana Maharaja:
@@ -30,4 +29,3 @@ Thank you very much for the mostly favorable newspaper article and I hope this m
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

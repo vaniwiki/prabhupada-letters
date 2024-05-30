@@ -9,7 +9,6 @@
 
 ====== Sandini ======
 
-<card class="letter">
 Columbus, Columbus
 
 My dear Daughter Sandini Dasi,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

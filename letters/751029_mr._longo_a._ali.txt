@@ -9,7 +9,6 @@
 
 ====== Mr. Longo A. Ali ======
 
-<card class="letter">
 Mr. Longo A. Ali\\
 Kilifi Garage\\
 Box 21\\
@@ -26,4 +25,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. Regarding becoming my disciple is concerned, first you have to follow our rules. Besides chanting on the beads 16 rounds daily minimum, you should take only prasadam of vegetarian foodstuffs offered to Guru Gauranga. Jnana das can instruct you in this.\\
 ACBS/bs
-</card>

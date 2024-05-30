@@ -9,7 +9,6 @@
 
 ====== Krsna dasa ======
 
-<card class="letter">
 Hamburg
 
 My dear Krsna das,
@@ -34,4 +33,3 @@ Hope this will meet you in good health. Please offer my blessings to all the boy
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gupta, Additional Chief Engineer ======
 
-<card class="letter">
 Additional Chief Engineer\\
 Central Indian Railways\\
 Victoria Terminus, Bombay 400001
@@ -27,4 +26,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

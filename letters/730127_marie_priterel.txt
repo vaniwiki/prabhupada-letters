@@ -9,7 +9,6 @@
 
 ====== Marie Priterel ======
 
-<card class="letter">
 Calle San Luis Potosi 189\\
 Mexico 7; D-F.
 
@@ -27,4 +26,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

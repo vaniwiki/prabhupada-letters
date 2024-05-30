@@ -9,7 +9,6 @@
 
 ====== Ramakrishnaji ======
 
-<card class="letter">
 Bombay
 
 My dear Sriman Ramakrishnaji,
@@ -24,4 +23,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

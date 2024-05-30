@@ -9,7 +9,6 @@
 
 ====== Kashinath Mullick ======
 
-<card class="letter">
 Calcutta
 
 My dear Sriman Kashinath Mullick,
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

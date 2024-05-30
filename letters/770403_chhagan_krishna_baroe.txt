@@ -9,7 +9,6 @@
 
 ====== Chhagan Krishna Baroe ======
 
-<card class="letter">
 7 Hari Bhuwan, SevaramLalwani Road,\\
 Mulund, West, Bombay 400 080
 
@@ -25,4 +24,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

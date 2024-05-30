@@ -9,7 +9,6 @@
 
 ====== Krsnadasa ======
 
-<card class="letter">
 My dear Krsnadasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 30, 1972, and I have noted the contents. It appears that you are again constantly disturbed by the same nonsense doubts. These things are not very important, we may not waste our time with these insignificant questions. If we are seeking to find out some fault, maya will give us all facility to find any small thing and make it very big, that is maya. But such questions as yours: why there is so-called discrepancy between the views of Bhagavat and modern scientists regarding the moon and other planets, and whether Hitler is good or bad man, these are most insignificant matters, and for anyone who is sincerely convinced that Krishna is the Supreme Personality of Godhead, for him these questions do not arise. Our information comes from Vedas, and if we believe Krishna, that
@@ -43,4 +42,3 @@ Regarding Hitler, so Hitler may be good man or bad man, so what does he help to 
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

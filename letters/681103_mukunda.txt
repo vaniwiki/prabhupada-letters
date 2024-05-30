@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 London
 
 My dear Mukunda,
@@ -20,4 +19,3 @@ Hope you are all well there, and I shall be expecting to hear from you by return
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

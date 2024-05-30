@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 Alexandria, Australia
 
 My dear Madhudvisa Svami,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

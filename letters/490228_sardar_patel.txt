@@ -9,7 +9,6 @@
 
 ====== Sardar Patel ======
 
-<card class="letter">
 Hon. Sardar Dr. Vallavbhaiji Patel\\
 Deputy Prime Minister,\\
 Government of India,\\
@@ -41,4 +40,3 @@ Hoping to be excused for intruding upon your valuable time and awaiting your ear
 
 Yours faithfully,\\
 Abhay Charan De
-</card>

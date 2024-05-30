@@ -9,7 +9,6 @@
 
 ====== Sri Birlaji ======
 
-<card class="letter">
 Birla House\\
 Bombay
 
@@ -25,4 +24,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkda
-</card>

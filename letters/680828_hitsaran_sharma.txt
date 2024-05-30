@@ -9,7 +9,6 @@
 
 ====== Hitsaran Sharma ======
 
-<card class="letter">
 Sriman Hitsaran Sharma\\
 c/o Dalmia Enterprises\\
 Number 4, Scindia House\\
@@ -25,4 +24,3 @@ By the by, also let me know whether you have received 5 gramophone records, whic
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

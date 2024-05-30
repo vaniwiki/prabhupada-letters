@@ -9,7 +9,6 @@
 
 ====== Tejiyas ======
 
-<card class="letter">
 New Delhi
 
 Dear Tejyas,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 Enclosure: 1 check for Rs 19005/-
-</card>

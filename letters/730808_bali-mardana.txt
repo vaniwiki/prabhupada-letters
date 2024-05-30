@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 New York
 
 My dear Bali-mardana,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Has Mukunda done any business? If not then this business has no ready buyer and thus it has no prospect, that is my opinion. I understand that you are coming during the Janmastami Festival here at this place. ACBS
-</card>

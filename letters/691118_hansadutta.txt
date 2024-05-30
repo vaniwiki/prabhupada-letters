@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated November 7, 1969. Whenever there is difficulty in understanding you are at liberty to question me, and it is my duty to give you the right reply as far as possible. There is no cause of anxiety for this method. Questions and answers is the relationship for the Spiritual Master and disciple. The only thing is that questions should be put, as it is advised in the __Bhagavad-gita,__ preceded and followed by submission and service. With this, all questions are bona fide. Regarding the application for the school, I don't think it is very lucrative job. If you want your Spiritual Master to be engaged in some outside job, you must see that He is getting suitable remuneration. I am therefore returning this form as there is no use of it.
@@ -20,4 +19,3 @@ Please offer my blessings to Himavati and the others. I hope this will meet you 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

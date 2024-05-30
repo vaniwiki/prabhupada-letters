@@ -9,7 +9,6 @@
 
 ====== Naveen Khurana, Margaret Khurana ======
 
-<card class="letter">
 Naveen and Margaret Khurana\\
 2FY Lake Village Dr.\\
 Walled Lake, Michigan 48088
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

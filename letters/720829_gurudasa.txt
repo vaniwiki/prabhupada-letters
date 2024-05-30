@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Vrindaban
 
 My dear Gurudasa,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. Your telegram re: Bharatapur temple on Kesi Ghat I don't exactly know the details. Then how can I offer price? Send me all details as well as what is their expectation? inc. site plan.\\
 ACBS/sda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Tusta Krsna ======
 
-<card class="letter">
 Melbourne
 
 My dear Tusta Krishna Maharaja:
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

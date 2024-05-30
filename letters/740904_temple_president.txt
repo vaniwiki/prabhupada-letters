@@ -9,7 +9,6 @@
 
 ====== Temple President ======
 
-<card class="letter">
 Vancouver
 
 Dear Mr. President:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

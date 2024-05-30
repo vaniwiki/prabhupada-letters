@@ -9,7 +9,6 @@
 
 ====== Dayananda ======
 
-<card class="letter">
 Dear Dayananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 30, 1974, and I have carefully examined the contents.
@@ -32,4 +31,3 @@ I am always thinking of and appreciating the important work you are all doing th
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

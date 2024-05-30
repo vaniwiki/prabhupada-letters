@@ -9,7 +9,6 @@
 
 ====== The Management of Tirupati-Tirumala-Devasthanam ======
 
-<card class="letter">
 The Management\\
 Tirupati-Tirumala-Devasthanam\\
 Tirumala, Andra Pradesh
@@ -24,4 +23,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

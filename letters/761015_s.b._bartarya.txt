@@ -9,7 +9,6 @@
 
 ====== S. B. Bartarya ======
 
-<card class="letter">
 S. B. Bartarya\\
 M.A. L.L.B.\\
 Geeta Margh, Srinigar\\
@@ -26,4 +25,3 @@ Respectfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/hds
-</card>

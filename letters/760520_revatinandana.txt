@@ -9,7 +9,6 @@
 
 ====== Revatinandana ======
 
-<card class="letter">
 Laguna Beach
 
 My dear Revatinandana Swami,
@@ -36,4 +35,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

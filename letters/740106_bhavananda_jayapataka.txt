@@ -9,7 +9,6 @@
 
 ====== Bhavananda, Jayapataka ======
 
-<card class="letter">
 Mayapur
 
 Dear Bhavananda and Jayapataka Maharajas,
@@ -31,4 +30,3 @@ N.B. If you want to send me a telegram before February 1st, you may send it to o
 ISKCON Hawaii, 1578 Ala Aoloa Loop,\\
 Honolulu, Hawaii 968.\\
 After that date, you may telegram my c/o our New Delhi center.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sucandra ======
 
-<card class="letter">
 Munich
 
 My dear Sucandra,
@@ -23,4 +22,3 @@ Hoping this meets you in good health and happy mood.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS/nkd
-</card>

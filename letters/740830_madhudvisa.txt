@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 Melbourne
 
 My dear Madhudvisa Swami:
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 Take help from Rev. Powell %%___%% that and the Bishops of Melbourne. The proposal is %%___%% and they can rectify it.\\
 ACBS/bs
-</card>

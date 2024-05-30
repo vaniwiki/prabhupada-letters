@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 Heidelberg, Germany
 
 My dear Hansadutta Das:
@@ -36,4 +35,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Candravali ======
 
-<card class="letter">
 My dear Candrabali,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of Oct. 16, 1968, and I thank you very much for your questions. You are always at liberty to inquiry from me about all such questions in the Srimad-Bhagavatam, Bhagavad-gita, and I am so glad that you are reading all these books so carefully. That is our business---we shall chant Hare Krishna or read Srimad-Bhagavatam or or associate with devotees in the temple, so that program shall go on continually for constantly remembering Krishna, and we shall not forget Him, even for a moment.
@@ -20,4 +19,3 @@ Hope this will satisfy you, and I hope this meet you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

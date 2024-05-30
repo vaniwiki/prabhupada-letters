@@ -9,7 +9,6 @@
 
 ====== Vaikunthanatha ======
 
-<card class="letter">
 My dear Vaikunthanatha,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of January 11, 1969, and I thank you so much for it. It was very encouraging. On the very moment I received your letter there was another letter from Jaya Govinda, and I had been very much shocked by this letter. But at the same time, when I read your letter it counter-acted this shock. So I thank you again for this letter. Please try to materialize this idea into practical shape, and I know that Krishna will help you for your sincere endeavors.
@@ -18,4 +17,3 @@ I hope this finds you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

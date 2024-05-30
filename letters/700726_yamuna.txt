@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 London
 
 My dear Yamuna,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:dm
-</card>

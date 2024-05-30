@@ -9,7 +9,6 @@
 
 ====== Indira ======
 
-<card class="letter">
 St. Louis
 
 My dear Indira,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

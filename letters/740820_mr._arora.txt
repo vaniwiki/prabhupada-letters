@@ -9,7 +9,6 @@
 
 ====== Mr. Arora ======
 
-<card class="letter">
 Toronto
 
 My dear Mr. Arora,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
-</card>

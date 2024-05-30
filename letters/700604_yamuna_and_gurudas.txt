@@ -9,7 +9,6 @@
 
 ====== Yamuna, and Gurudas ======
 
-<card class="letter">
 London
 
 My dear Yamuna devi,
@@ -41,4 +40,3 @@ ISKCON Temple\\
 7 Bury Place\\
 London, W.C. 1\\
 England
-</card>

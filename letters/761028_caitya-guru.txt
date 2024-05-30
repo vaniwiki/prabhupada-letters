@@ -9,7 +9,6 @@
 
 ====== Caitya-guru ======
 
-<card class="letter">
 Chandigarh
 
 My dear Caityaguru dasa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

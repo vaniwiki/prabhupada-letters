@@ -9,7 +9,6 @@
 
 ====== Manager of Central Bank of India ======
 
-<card class="letter">
 Manager, Central Bank of India\\
 Bombay-26
 
@@ -24,4 +23,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

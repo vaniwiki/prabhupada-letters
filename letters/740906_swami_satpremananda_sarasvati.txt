@@ -9,7 +9,6 @@
 
 ====== Swami Satpremananda Sarasvati ======
 
-<card class="letter">
 Sweden
 
 Dear Swami Satpremananda Sarasvati:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

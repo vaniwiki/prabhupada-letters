@@ -9,7 +9,6 @@
 
 ====== Hrdayananda ======
 
-<card class="letter">
 My dear Hrdayananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 4, 1973. I am very much pleased by the contents.
@@ -26,4 +25,3 @@ Hoping this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

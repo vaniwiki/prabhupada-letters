@@ -9,7 +9,6 @@
 
 ====== Rupa Vilasa ======
 
-<card class="letter">
 Dallas
 
 My dear Rupa Vilas,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

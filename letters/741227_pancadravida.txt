@@ -9,7 +9,6 @@
 
 ====== Pancadravida ======
 
-<card class="letter">
 Bangkok
 
 My dear Panca Dravida Maharaja,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

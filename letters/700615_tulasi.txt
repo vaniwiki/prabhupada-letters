@@ -9,7 +9,6 @@
 
 ====== Tulasi ======
 
-<card class="letter">
 San Diego
 
 My dear Tulasi dasa,
@@ -26,4 +25,3 @@ Hope this will meet you all in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

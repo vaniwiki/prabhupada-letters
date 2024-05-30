@@ -9,7 +9,6 @@
 
 ====== Acyutananda ======
 
-<card class="letter">
 Hyderabad
 
 My dear Acyutananda Maharaja,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami,
 
 ACB/sdg
-</card>

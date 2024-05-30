@@ -9,7 +9,6 @@
 
 ====== Madhukantha ======
 
-<card class="letter">
 San Jose
 
 My dear Madhukantha,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

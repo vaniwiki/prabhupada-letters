@@ -9,7 +9,6 @@
 
 ====== Syamasundara ======
 
-<card class="letter">
 New York
 
 My dear Syamasundara,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

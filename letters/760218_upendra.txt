@@ -9,7 +9,6 @@
 
 ====== Upendra ======
 
-<card class="letter">
 Honolulu
 
 My dear Upendra,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

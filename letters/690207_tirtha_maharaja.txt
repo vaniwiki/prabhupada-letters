@@ -9,7 +9,6 @@
 
 ====== Tirtha Maharaja ======
 
-<card class="letter">
 His Holiness Tridandi Swami\\
 Sri Srimad B.V. Tirtha Goswami Maharaja\\
 Sri Caitanya Research Institute\\
@@ -123,4 +122,3 @@ Affectionately yours,\\
 A.C. Bhaktivedanta Swami
 
 cc: Y. Jagannatham, etc.
-</card>

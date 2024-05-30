@@ -9,7 +9,6 @@
 
 ====== Vrindaban Candra ======
 
-<card class="letter">
 Baltimore
 
 My dear Vrindaban Candra,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

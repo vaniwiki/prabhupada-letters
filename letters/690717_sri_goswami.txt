@@ -9,7 +9,6 @@
 
 ====== Sri Goswami ======
 
-<card class="letter">
 Dear Sri Goswami,
 
 I beg to acknowledge receipt of your letter of July 5, 1969, and I have noted the contents carefully. Regarding the plot of land you have mentioned, I do not think it will be big enough for our purposes because we want at least 10 bighas and not 10 kottas. If you have got any land around this larger size, then please write to us. Another possibility is, as you say there are many Vaisnava temples in Serampore, if any big temple is in difficulty financially, we can take charge of this temple and improve it and maintain it nicely. So if you know of any prospective temples where this could be arranged, please inform us.
@@ -23,4 +22,3 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/pdb
-</card>

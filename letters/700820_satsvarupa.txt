@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 13rd, 1970. Since I have left L.A. I have received many letters from many centers, but I have not received any letter from New York nor a letter from Brahmananda Swami nor Gargamuni Swami. I have already sent a circular letter requesting the Zonal Secretary Governing Body Commissioners to send me at least twice in a month the reports of the activities in the respective zones. So I shall be glad to know how the new building in New York is being worked out.
@@ -30,4 +29,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

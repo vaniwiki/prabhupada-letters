@@ -9,7 +9,6 @@
 
 ====== Hanuman Prasad Poddar ======
 
-<card class="letter">
 Gita Press\\
 Gorakhpur
 
@@ -116,4 +115,3 @@ Thanking you in anticipation.
 Yours in the service of the Lord,\\
 A.C. B. S.\\
 ACBS:db
-</card>

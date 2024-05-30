@@ -9,7 +9,6 @@
 
 ====== Sri Kuwar Candra Prakash ======
 
-<card class="letter">
 Sri Kuwar Candra Prakash\\
 Simha M.A.D.L.A.\\
 Brahma Nagar\\
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Satadhanya (Stan Federoff) ======
 
-<card class="letter">
 Pittsburgh
 
 My dear Satadhanya Das (Stan Federoff)
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. The enclosed beads may be re-strung with knots between the beads. They should also be soaked in oil, which will make them strong.\\
 ACBS:ds
-</card>

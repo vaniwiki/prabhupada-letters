@@ -9,7 +9,6 @@
 
 ====== Bhavananda ======
 
-<card class="letter">
 Mayapur
 
 My dear Bhavananda Goswami Maharaja,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jdd
-</card>

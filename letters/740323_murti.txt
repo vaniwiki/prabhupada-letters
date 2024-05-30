@@ -9,7 +9,6 @@
 
 ====== Murti ======
 
-<card class="letter">
 Los Angeles
 
 Dear Murti das,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

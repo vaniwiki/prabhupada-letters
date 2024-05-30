@@ -9,7 +9,6 @@
 
 ====== Tusta Krsna ======
 
-<card class="letter">
 Auckland, New Zealand
 
 My dear Tusta Krishna Maharaja,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

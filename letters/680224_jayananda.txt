@@ -9,7 +9,6 @@
 
 ====== Jayananda ======
 
-<card class="letter">
 San Francisco
 
 My dear Jayananda,
@@ -18,4 +17,3 @@ Please accept my blessings. I beg to acknowledge receipt of your latest letter, 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

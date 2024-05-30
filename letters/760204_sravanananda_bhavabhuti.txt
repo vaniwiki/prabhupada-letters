@@ -9,7 +9,6 @@
 
 ====== Sravanananda, Bhavabhuti ======
 
-<card class="letter">
 Madras
 
 My dear Sravanananda and Bhava Bhuti,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bali Mardan ======
 
-<card class="letter">
 My dear Bali Mardan:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 8, 1973 and have noted the contents. After a great struggle for existence it appears that I have won over Mrs. Nair. The negotiation started on my arrival and the mediators suggested 20 lakhs. Then it went down to 17 lakhs, but by Krsna's grace I have settled with her for 14 lakhs 50 thousand and about 1 lakh for compensation to the other claimants. In this way we have to spend about 16 lakhs for the property, out of which 2 lakhs had been paid before. So now we have to pay 14 lakhs 50 thousand.
@@ -37,4 +36,3 @@ Your ever well wisher,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== M. N. Chaudhuri ======
 
-<card class="letter">
 Sriman M.N. Chaudhuri,\\
 Dept. of Development and Planning,\\
 Government of West Bengal,\\
@@ -29,4 +28,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

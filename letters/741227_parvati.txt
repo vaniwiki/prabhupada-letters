@@ -9,7 +9,6 @@
 
 ====== Parvati ======
 
-<card class="letter">
 Nairobi
 
 My dear Parvati,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

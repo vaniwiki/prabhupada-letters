@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 New Vrindaban
 
 My dear Kirtanananda Swami:
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 N.B. The names for the newly initiated devotees you have recommended will follow in my next letter.
-</card>

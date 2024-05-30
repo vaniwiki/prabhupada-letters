@@ -9,7 +9,6 @@
 
 ====== Jadurani ======
 
-<card class="letter">
 My dear Jadurani dasi,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 15th, 1971.
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I have received all letters from the devotees in N.Y. through Sriman Gopala Krishna who is now here in Bombay---ACB
-</card>

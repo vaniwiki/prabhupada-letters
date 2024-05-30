@@ -9,7 +9,6 @@
 
 ====== Hrdayananda ======
 
-<card class="letter">
 Sao Paulo, Brazil
 
 My dear Hrdayananda Maharaja,
@@ -32,4 +31,3 @@ A.C. Bhaktivedanta Swami
 
 *Sri Caitanya Mahaprabhu presented Himself as "__Patitam kimkarana mam visamey charambudhva". Kimkaram__ means __servant.__\\
 ACBS/hda
-</card>

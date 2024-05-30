@@ -9,7 +9,6 @@
 
 ====== Sri A.C. Misra ======
 
-<card class="letter">
 Sri A.C. Misra\\
 Attache\\
 High Commission of India\\
@@ -24,4 +23,3 @@ Please therefore find out immediately where is my passport and send it directly 
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami
-</card>

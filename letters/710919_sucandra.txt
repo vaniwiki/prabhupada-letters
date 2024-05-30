@@ -9,7 +9,6 @@
 
 ====== Sucandra ======
 
-<card class="letter">
 Hamburg
 
 My dear Sucandra,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

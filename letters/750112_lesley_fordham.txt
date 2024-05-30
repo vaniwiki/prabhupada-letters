@@ -9,7 +9,6 @@
 
 ====== Lesley Fordham ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Bhaktin Lesley Fordham,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

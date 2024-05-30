@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Vrindaban
 
 My dear Guru Das,
@@ -30,4 +29,3 @@ A.C. Bhaktivedanta Swami
 P.S. I have just received your letter of the 28th July, but I have not yet received the photos under separate cover.\\
 ACBS/hda
 
-</card>

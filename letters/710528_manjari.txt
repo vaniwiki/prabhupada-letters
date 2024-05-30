@@ -9,7 +9,6 @@
 
 ====== Manjari ======
 
-<card class="letter">
 Srimati Manjari Devi Dasi (Maile) \\
 c/o New Nabadwip\\
 2016 McKinley St.\\
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

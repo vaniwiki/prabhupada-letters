@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 Calcutta
 
 My dear Tamala Krsna,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

@@ -9,7 +9,6 @@
 
 ====== Manager of Punjab National Bank ======
 
-<card class="letter">
 The Manager\\
 Punjab National Bank\\
 Brabourne Road\\
@@ -26,4 +25,3 @@ Thanking you,
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

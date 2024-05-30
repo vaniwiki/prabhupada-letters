@@ -8,7 +8,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 Dallas
 
 My dear Satsvarupa,
@@ -22,4 +21,4 @@ As you have rightly judged, there is nothing to worry about because I am complet
 Thank you very much. Hoping this meets you in good health.
 
 Your ever well-wisher,\\
-A.C. Bhaktivedanta Swami</card>
+A.C. Bhaktivedanta Swami

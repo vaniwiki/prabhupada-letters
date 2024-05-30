@@ -9,7 +9,6 @@
 
 ====== Yadunandana ======
 
-<card class="letter">
 Allston, MA
 
 My dear Yadunandana,
@@ -24,4 +23,3 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

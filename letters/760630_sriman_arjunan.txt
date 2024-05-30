@@ -9,7 +9,6 @@
 
 ====== Sriman Arjunan ======
 
-<card class="letter">
 Bombay
 
 My dear Sriman Arjunan,
@@ -22,4 +21,3 @@ I hope that this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

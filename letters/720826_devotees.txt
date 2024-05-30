@@ -9,7 +9,6 @@
 
 ====== Devotees ======
 
-<card class="letter">
 __VYASAPUJA REPLY:__
 
 My dear beloved Children,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

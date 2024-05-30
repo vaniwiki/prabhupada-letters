@@ -9,7 +9,6 @@
 
 ====== Bhaktijana ======
 
-<card class="letter">
 New York
 
 My dear Bhakti Jan,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Please try to assist Brahmananda till my arrival in New York in April 1968. When I shall meet you I shall give you a specific duty and I hope you will be happy to discharge it. ACB
-</card>

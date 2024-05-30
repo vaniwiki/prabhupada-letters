@@ -9,7 +9,6 @@
 
 ====== Dr. Ghosh ======
 
-<card class="letter">
 Dear Dr. Ghosh;
 
 Please accept my greetings. I am in due receipt of your letter of 10 March 1974 and I have noted the contents carefully. I am very much pleased to learn you are so much advanced spiritually. I have seen your book, __Pancamrta,__ and found it very interesting. I can understand you are following the impersonal aspect of the Absolute Truth, but I am glad to see you have chanted the Holy Name of Lord Krsna. This is the only process:
@@ -44,4 +43,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

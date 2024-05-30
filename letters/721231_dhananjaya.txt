@@ -9,7 +9,6 @@
 
 ====== Dhananjaya ======
 
-<card class="letter">
 London
 
 My dear Dhananjaya,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

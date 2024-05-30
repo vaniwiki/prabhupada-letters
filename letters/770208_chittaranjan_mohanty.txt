@@ -9,7 +9,6 @@
 
 ====== Chittaranjan Mohanty ======
 
-<card class="letter">
 Ekamra Chhaya Chhabi\\
 Bhubaneswar, Orissa
 
@@ -24,4 +23,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

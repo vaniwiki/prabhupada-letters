@@ -9,7 +9,6 @@
 
 ====== Revatinandana ======
 
-<card class="letter">
 London
 
 My dear Revatinandana Swami,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. Regarding taking snuff, I myself take it sometimes at night because I am working at night on my books, and sometimes I become dizzy. But it is not for you to take. You should not imitate this, neither you work like me at night.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 My dear Jagadisa:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 1, 1973 and I have carefully examined the contents.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
-</card>

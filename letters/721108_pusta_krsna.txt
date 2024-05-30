@@ -9,7 +9,6 @@
 
 ====== Pusta Krsna ======
 
-<card class="letter">
 Paris
 
 My dear Pusta Krishna,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sudama ======
 
-<card class="letter">
 Tokyo
 
 My dear Sudama,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS:db\\
 P.S. Try to introduce Japanese BTG as soon as possible.
-</card>

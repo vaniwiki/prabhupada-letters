@@ -9,7 +9,6 @@
 
 ====== Ranadhira ======
 
-<card class="letter">
 Pittsburgh
 
 My dear Ranadhira,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
-</card>

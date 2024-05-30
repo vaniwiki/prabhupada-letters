@@ -9,7 +9,6 @@
 
 ====== Tusta Krsna ======
 
-<card class="letter">
 Albany, New Zealand
 
 My dear Tusta Krsna Swami,
@@ -32,4 +31,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sri Gunendunath Chaudhury ======
 
-<card class="letter">
 Sri Gunendunath Chaudhury\\
 Calcutta
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

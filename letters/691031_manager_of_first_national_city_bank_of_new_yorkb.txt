@@ -9,7 +9,6 @@
 
 ====== Manager of First National City Bank of New York ======
 
-<card class="letter">
 Manager\\
 FIRST NATIONAL CITY BANK OF NEW YORK\\
 (Great Jones Street Branch)\\
@@ -24,4 +23,3 @@ I beg to enclose herewith a copy of a letter sent to your Bowery and Grand Stree
 Sincerely,
 
 A.C. Bhaktivedanta Swami
-</card>

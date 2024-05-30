@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 Bombay
 
 My dear Gargamuni,
@@ -30,4 +29,3 @@ A.C. Bhaktivedanta Swami
 ACBS/sda\\
 n.b. There is one request for 2nd initiation from Yadavacarya das, but I have not received any recommendation from the temple president or a sannyasi.\\
 *under separate cover
-</card>

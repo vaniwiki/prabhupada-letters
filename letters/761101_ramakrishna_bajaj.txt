@@ -9,7 +9,6 @@
 
 ====== Ramakrishna Bajaj ======
 
-<card class="letter">
 Bombay
 
 My dear Ramakrishna Bajaj,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

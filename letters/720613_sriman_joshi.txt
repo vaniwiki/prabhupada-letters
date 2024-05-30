@@ -9,7 +9,6 @@
 
 ====== Sriman Joshi ======
 
-<card class="letter">
 El Cerrito
 
 My dear Sriman Joshi,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 n.b. by the next autumn I shall be in India (Sept 1972) at that time if you invite me in Punjab, I shall be glad to visit all places there.
-</card>

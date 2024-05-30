@@ -9,7 +9,6 @@
 
 ====== Bhakta dasa ======
 
-<card class="letter">
 San Diego
 
 My dear Bhakta das,
@@ -24,4 +23,3 @@ I hope this will meet you in good health and cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

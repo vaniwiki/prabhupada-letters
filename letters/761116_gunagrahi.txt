@@ -9,7 +9,6 @@
 
 ====== Gunagrahi ======
 
-<card class="letter">
 Los Angeles
 
 My dear Gunagrahi,
@@ -37,4 +36,3 @@ A.C. Bhaktivedanta Swami
 
 note: the second initiates names are: Ramanya dasa, Parasakti dasi\\
 ACBS/jda
-</card>

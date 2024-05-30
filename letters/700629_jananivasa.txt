@@ -9,7 +9,6 @@
 
 ====== Jananivasa ======
 
-<card class="letter">
 My dear Jananivasa,
 
 Please accept my blessings. I hope everything is going on well in your center.
@@ -24,4 +23,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

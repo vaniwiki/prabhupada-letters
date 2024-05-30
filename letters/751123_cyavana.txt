@@ -9,7 +9,6 @@
 
 ====== Cyavana ======
 
-<card class="letter">
 Addis Ababa, Ethiopia
 
 My dear Cyavana Swami,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

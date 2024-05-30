@@ -9,7 +9,6 @@
 
 ====== Radha Madhava Sharan ======
 
-<card class="letter">
 Sri Radha Madhava Sharan\\
 Vrndavana
 
@@ -33,4 +32,3 @@ Yours very sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

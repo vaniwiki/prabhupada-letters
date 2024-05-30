@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 Los Angeles
 
 My dear Mukunda,
@@ -36,4 +35,3 @@ Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

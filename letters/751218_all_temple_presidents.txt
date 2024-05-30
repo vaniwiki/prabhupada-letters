@@ -9,7 +9,6 @@
 
 ====== All Temple Presidents ======
 
-<card class="letter">
 My dear Temple President,
 
 Please accept my blessings. I have received one letter from a Mr. Morris Yanoff with a news paper clipping explaining the disappearance of his Grandson David Yanoff age 12 years. Mr. Yanoff is very anxious about the whereabouts of his grandson and he has asked me to help locate him. If this boy is in your temple please contact the following address. Mr. Morris Yanoff, 6159 North Wolcott Ave. Chicago Ill. 60626, U.S.A.
@@ -21,4 +20,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/hda\\
 cc: All temples
-</card>

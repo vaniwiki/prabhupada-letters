@@ -9,7 +9,6 @@
 
 ====== Embar Sampath Kumarachar ======
 
-<card class="letter">
 Mysore State
 
 My dear Embar Sampath Kumarachar:
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

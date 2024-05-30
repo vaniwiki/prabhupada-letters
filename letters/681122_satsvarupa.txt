@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter of Nov. 20, 68 along with the 1st tape of this term. The 2nd tape is already sent to you and the 3rd tape is enclosed herewith please find. When typing, please mention the tape No. I hope to send you new tapes regularly & I hope you will do the needful.
@@ -22,4 +21,3 @@ Thanking you once more,
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

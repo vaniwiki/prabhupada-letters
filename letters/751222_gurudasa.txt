@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Los Angeles
 
 My dear Guru das Maharaja,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

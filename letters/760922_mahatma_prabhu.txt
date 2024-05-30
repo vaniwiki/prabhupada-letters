@@ -9,7 +9,6 @@
 
 ====== Mahatma Prabhu ======
 
-<card class="letter">
 Seattle
 
 My dear Mahatma Prabhu,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

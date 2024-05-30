@@ -9,7 +9,6 @@
 
 ====== Mr. R. Van den Tak ======
 
-<card class="letter">
 Mr. R. Van den Tak\\
 60 Liverpool St.\\
 Paddington, 2021\\
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

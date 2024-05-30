@@ -9,7 +9,6 @@
 
 ====== Sudama Vipra ======
 
-<card class="letter">
 Hong Kong
 
 My dear Sudama Vipra Maharaja:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

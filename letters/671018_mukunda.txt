@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your telegram reading as follows;
@@ -20,4 +19,3 @@ Today I have been to the American Consular office & upon presentation of the inv
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta, Swami
-</card>

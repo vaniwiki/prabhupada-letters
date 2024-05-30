@@ -9,7 +9,6 @@
 
 ====== All G.B.C., All Temple Presidents ======
 
-<card class="letter">
 To All G.B.C., and Temple Presidents
 
 Dear Maharajas and Prabhus,
@@ -37,4 +36,3 @@ Your servant,\\
 Tamala Krsna Gosvami\\
 Secretary to Srila Prabhupada\\
 Approved: A.C. Bhaktivedanta Swami
-</card>

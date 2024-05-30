@@ -9,7 +9,6 @@
 
 ====== Jagannatham Prabhu ======
 
-<card class="letter">
 Poona, India
 
 My dear Jagannatham Prabhu,
@@ -53,4 +52,3 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

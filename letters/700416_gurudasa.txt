@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 London
 
 My dear Gurudasa,
@@ -38,4 +37,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

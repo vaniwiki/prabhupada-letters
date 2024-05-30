@@ -9,7 +9,6 @@
 
 ====== ISKCON N.Y. devotees ======
 
-<card class="letter">
 TO ISKCON N.Y.
 
 My dear Bhavananda, Palika, Carol, Regis, Kapindra, Rupanuga, Kalindi, Bhaktijan, Kushakratha, Kanka, Kansa, Harsharani, Kunjabehari, Kousika, Kasturika, Chandanacharya, Ekayani, Gopal Krishna, Yogamaya, Mahendra, Jamadagni, Harikesa, Rohini Kumar, Bhutavhavan, Virendra, Rukmini, Koumadaki, Bhadra, Richard, Vishnugada, Paul, Romapada, John, Vaijayanti, Payahsvini, Brahmavitta, Ekendra, Dana, Chaya, Subhananda, Sasimukhi, Bob III, Mandalesvara, Pahapurusha, Chediraj, Mark, Arundhati, Aniruddha, Paramananda, Balai, Nandini, Naradevi, Prayaga, Mamata, Radhabavani, Mallika, Nimai Sundar, Gandharvika, Pratichi, Vilasini, Madhupuri, Uruvasi, Rosemary, Varanasi, Charlotte, Narayan, Geremy, etc.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

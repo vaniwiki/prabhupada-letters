@@ -9,7 +9,6 @@
 
 ====== Suresh Candra ======
 
-<card class="letter">
 Sriman Suresh Candra\\
 District Administrations Officer,\\
 Guyana
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda/yda
-</card>

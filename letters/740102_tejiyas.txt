@@ -9,7 +9,6 @@
 
 ====== Tejiyas ======
 
-<card class="letter">
 New Delhi
 
 My dear Tejiyas,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS:SDG\\
 *240 model
-</card>

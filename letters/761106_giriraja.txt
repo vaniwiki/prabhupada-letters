@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 My dear Giriraja,
 
 Please accept my blessings. I am in receipt of your letter dated 5/11/76.
@@ -28,4 +27,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

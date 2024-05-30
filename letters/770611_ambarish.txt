@@ -9,7 +9,6 @@
 
 ====== Ambarish ======
 
-<card class="letter">
 c/o ISKCON Detroit
 
 Krsna-Balarama Mandir,\\
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

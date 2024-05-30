@@ -9,7 +9,6 @@
 
 ====== Manager of Lloyds Bank ======
 
-<card class="letter">
 Manager\\
 LLOYDS BANK LTD\\
 (Long Acre Branch)\\
@@ -25,4 +24,3 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/pdb
-</card>

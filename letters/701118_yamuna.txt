@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 My dear Yamuna devi,
 
 Please accept my blessings. I beg to thank you for your nice letter of report from Delhi dated November, 1970, and have noted the contents.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

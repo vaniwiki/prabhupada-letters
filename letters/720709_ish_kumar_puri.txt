@@ -9,7 +9,6 @@
 
 ====== Ish Kumar Puri ======
 
-<card class="letter">
 Atmaram and Sons\\
 Book Sellers and Publishers\\
 Delhi-7, India\\
@@ -29,4 +28,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

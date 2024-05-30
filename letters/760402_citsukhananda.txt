@@ -9,7 +9,6 @@
 
 ====== Citsukhananda ======
 
-<card class="letter">
 Vrindaban\\
 My dear Citsukhananda das,
 
@@ -21,4 +20,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

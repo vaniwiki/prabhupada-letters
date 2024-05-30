@@ -9,7 +9,6 @@
 
 ====== Central Bank of India ======
 
-<card class="letter">
 Central Bank of India\\
 Bombay
 
@@ -22,4 +21,3 @@ Thanking you,
 A.C. Bhaktivedanta Swami
 
 ACB/rdb
-</card>

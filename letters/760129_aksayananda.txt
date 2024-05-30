@@ -9,7 +9,6 @@
 
 ====== Aksayananda ======
 
-<card class="letter">
 Vrindaban
 
 My dear Aksayananda,
@@ -31,4 +30,3 @@ A.C. Bhaktivedanta Swami
 
 *being invited by some leading men of the city.\\
 ACBS/tkg
-</card>

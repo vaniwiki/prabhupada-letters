@@ -9,7 +9,6 @@
 
 ====== Manager, American Express International ======
 
-<card class="letter">
 The Manager,\\
 American Express International\\
 Banking Corporation,\\
@@ -29,4 +28,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

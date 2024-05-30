@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 Bombay
 
 My dear Tamala Krishna,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 n.b. Unless the conveyance is made, don't make any settlement with Rathaneparke. If there are any incidents, the men responsible should be taken to the police.
-</card>

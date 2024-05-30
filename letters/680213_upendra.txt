@@ -9,7 +9,6 @@
 
 ====== Upendra ======
 
-<card class="letter">
 San Francisco
 
 My dear Upendra,
@@ -34,4 +33,3 @@ My dear Upendra,
 Please distribute other devotees letter enclosed herewith.
 
 ACB
-</card>

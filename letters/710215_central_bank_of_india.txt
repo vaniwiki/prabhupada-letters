@@ -9,7 +9,6 @@
 
 ====== Central Bank of India ======
 
-<card class="letter">
 Central Bank of India\\
 Bombay-26
 
@@ -29,4 +28,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

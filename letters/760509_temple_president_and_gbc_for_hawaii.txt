@@ -9,7 +9,6 @@
 
 ====== Temple President and GBC for Hawaii ======
 
-<card class="letter">
 Temple President and GBC for Hawaii
 
 My dear disciples,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

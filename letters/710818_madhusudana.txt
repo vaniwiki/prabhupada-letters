@@ -9,7 +9,6 @@
 
 ====== Madhusudana ======
 
-<card class="letter">
 My dear Madhusudana,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 13rd August, 1971 and have noted the contents carefully. So far your choice of artwork for BTG, I do not know the artistic sense. I am a layman and do not know the techniques. But the picture you have enclosed appeals to me, so it may be used. I have no objection.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

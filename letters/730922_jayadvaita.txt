@@ -9,7 +9,6 @@
 
 ====== Jayadvaita ======
 
-<card class="letter">
 Brooklyn
 
 My dear Jayadvaita:
@@ -20,4 +19,3 @@ I hope this meets you in best health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

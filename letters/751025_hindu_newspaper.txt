@@ -9,7 +9,6 @@
 
 ====== Hindu Newspaper ======
 
-<card class="letter">
 "Hindu" Newspaper\\
 Madras, India\\
 Attn: Advertising Dept.
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

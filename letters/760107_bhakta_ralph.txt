@@ -9,7 +9,6 @@
 
 ====== Bhakta Ralph ======
 
-<card class="letter">
 Auckland, New Zealand
 
 My dear Bhakta Ralph
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

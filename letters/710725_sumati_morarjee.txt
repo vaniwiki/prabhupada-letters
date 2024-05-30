@@ -9,7 +9,6 @@
 
 ====== Sumati Morarjee ======
 
-<card class="letter">
 Madame Srimati Sumati Morarji Baisaheba,
 
 Please accept my greetings. You will be glad to know that this time while coming to U.S.A. from Bombay I went to Moscow also, and arrangement is being made to start a center there very soon with the help of some young Muscovites.
@@ -25,4 +24,3 @@ Thanking in anticipation, I beg to remain
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I have received one letter from Mr. and Mrs. Levine who I suppose are living in the same building where you are living. It is understood from their letters that they are eager to be initiated. If they are prepared to follow the rules and regulations I think that they can be initiated by mail. So if you recommend you can ask them to send their beads and I shall initiate them.
@@ -18,4 +17,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I have replied their letter
-</card>

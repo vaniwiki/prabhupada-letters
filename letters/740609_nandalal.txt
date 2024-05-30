@@ -9,7 +9,6 @@
 
 ====== Nandalal ======
 
-<card class="letter">
 Honolulu
 
 My dear Nandalal,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Nrsimha Caitanya ======
 
-<card class="letter">
 San Diego
 
 My dear Nrsimha Caitanya,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

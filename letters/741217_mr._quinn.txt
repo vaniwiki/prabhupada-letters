@@ -9,7 +9,6 @@
 
 ====== Mr. Quinn ======
 
-<card class="letter">
 Cobourg, Canada
 
 Dear Mr. Quinn,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

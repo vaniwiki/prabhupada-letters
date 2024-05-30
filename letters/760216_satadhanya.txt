@@ -9,7 +9,6 @@
 
 ====== Satadhanya ======
 
-<card class="letter">
 Mikajima Ohaza, Japan
 
 My dear Satadhanya das,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

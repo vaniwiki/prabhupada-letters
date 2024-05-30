@@ -9,7 +9,6 @@
 
 ====== Mr. Morris Lapidus ======
 
-<card class="letter">
 Mr. Morris Lapidus\\
 Brooklyn
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

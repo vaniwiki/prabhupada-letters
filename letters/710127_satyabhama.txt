@@ -9,7 +9,6 @@
 
 ====== Satyabhama ======
 
-<card class="letter">
 My dear Satyabhama Devi Dasi,
 
 Please accept my blessings and offer the same to your fine Vaisnava son Premananda. I am in due receipt of your very kind letter dated 28th December.
@@ -22,4 +21,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

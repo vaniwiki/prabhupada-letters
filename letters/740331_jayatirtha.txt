@@ -9,7 +9,6 @@
 
 ====== Jayatirtha ======
 
-<card class="letter">
 My dear Jaya tirtha,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated March 20, 1974. I have noted the contents and duly received receipts for money deposited in the Union Bank.
@@ -22,4 +21,3 @@ In reference to your proposal that you switch banks in order to get higher rates
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sri Arjuna ======
 
-<card class="letter">
 Arjuna Das\\
 Lecturer in Commerce\\
 St. John's College\\
@@ -34,4 +33,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 Na byavicarati tabeksa yaya hi byavihito __bhagavato dharma.__ sthiracarasatvakadambesu aprthak dhiyo yam upasate tvarya. (Bhag 1/16/43)
-</card>

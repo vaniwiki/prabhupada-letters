@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I am in due receipt of your letter of Nov. 14, 1968, and have noted the contents carefully. And I thank you very much for your good reports from London yatra. It is all very much encouraging to me. Yes, I have received a letter from Mr. Dindayal, and I have replied it as follows:
@@ -24,4 +23,3 @@ I sent this letter on Nov. 6, but still I have not got any reply from him, so yo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

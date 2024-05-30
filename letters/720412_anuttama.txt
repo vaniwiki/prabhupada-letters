@@ -9,7 +9,6 @@
 
 ====== Anuttama ======
 
-<card class="letter">
 My dear Anuttama,
 
 Please accept my blessing. I beg to acknowledge receipt of your letter dated March 10, 1972, and I have noted the contents. I am very pleased to know that you are feeling happy in your execution of devotional service. Service of Krishna's devotees is the highest stage of spiritual perfection, so your desire to render service to the other devotees is very nice. You keep this humble attitude always, and your example will be a source of spiritual inspiration for everyone.
@@ -20,4 +19,3 @@ Hoping this will meet you in good health and a happy mood.
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
-</card>

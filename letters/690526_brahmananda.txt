@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 16, 1969, and I have noted the contents carefully. Regarding the Gaudiya Mission letter of Dr. Syama Sundar Brahmacari, I have replied asking them the terms of cooperation which he has mentioned. Let us see their terms, although it is a hopeless business. Still, as you know, I never become hopeless in any case. So I am negotiating with them to see how we can cooperate.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. When you come please bring my Indian Lota made of brass.
-</card>

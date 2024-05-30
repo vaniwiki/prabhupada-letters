@@ -9,7 +9,6 @@
 
 ====== Gurudasa, Yamuna ======
 
-<card class="letter">
 Vrindaban
 
 My dear Gurudasa and Yamuna,
@@ -26,4 +25,3 @@ Hoping this will meet you both in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

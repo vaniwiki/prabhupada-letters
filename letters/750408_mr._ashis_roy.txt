@@ -9,7 +9,6 @@
 
 ====== Mr. Ashis Roy ======
 
-<card class="letter">
 Ashis Roy, B.A.\\
 c/o Artists Academy\\
 85, Vasant Nagar, Nagpur-10
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

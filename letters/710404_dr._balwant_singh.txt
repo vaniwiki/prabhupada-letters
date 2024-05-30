@@ -9,7 +9,6 @@
 
 ====== Dr. Balwant Singh ======
 
-<card class="letter">
 Dr. Balwant Singh\\
 General Secretary, Mahatma Gandhi Organization\\
 P.O. Box 784\\
@@ -28,4 +27,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/db
-</card>

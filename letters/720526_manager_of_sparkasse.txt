@@ -9,7 +9,6 @@
 
 ====== Manager of Sparkasse ======
 
-<card class="letter">
 To the Manager\\
 Sparkasse\\
 2 Hamburg 19, Eimsbuttleler Ch. 57\\
@@ -27,4 +26,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
-</card>

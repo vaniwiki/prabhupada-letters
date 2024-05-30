@@ -9,7 +9,6 @@
 
 ====== Acyutananda ======
 
-<card class="letter">
 Calcutta
 
 My dear Acyutananda,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 N.B. I am not hearing about Mayapur. Please send me reports regularly what is happening there. Where is Tamala K. Goswami. I have not heard from him since longtime. Has he gone to Bangladesh yet? ACB
-</card>

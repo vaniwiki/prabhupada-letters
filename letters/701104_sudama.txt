@@ -9,7 +9,6 @@
 
 ====== Sudama ======
 
-<card class="letter">
 Tokyo
 
 My dear Sudama,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:adb
-</card>

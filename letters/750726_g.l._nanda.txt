@@ -9,7 +9,6 @@
 
 ====== G.L. Nanda ======
 
-<card class="letter">
 Sriman Gulzari Lal Nanda\\
 5, Tughlak Road\\
 New Delhi - 11, INDIA
@@ -31,4 +30,3 @@ A.C. Bhaktivedanta Swami
 ACBS/bs
 
 Encs: 1
-</card>

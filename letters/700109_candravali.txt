@@ -9,7 +9,6 @@
 
 ====== Candravali ======
 
-<card class="letter">
 Berkeley
 
 My dear Candrabali,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/db
-</card>

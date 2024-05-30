@@ -9,7 +9,6 @@
 
 ====== Supriya ======
 
-<card class="letter">
 Detroit
 
 My dear Supriya,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 Gainesville, Florida
 
 My dear Gargamuni Maharaja,
@@ -33,4 +32,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. When you go and decide your departure after correspondence with the above gentleman, I will give you further instructions on this. ACB\\
 ACBS:ds
-</card>

@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 Toronto
 
 Dear Jagadisa,
@@ -33,4 +32,3 @@ N.B. I am also enclosing sacred thread and gayatri initiation for the following 
 At this time I am also sending you two accepted initiates from the Regina, Canada center as follows:\\
 Norman Allard---Nandikesvara dasa,\\
 Linda Allard---Mandari devi dasi.
-</card>

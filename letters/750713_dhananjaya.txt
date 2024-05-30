@@ -9,7 +9,6 @@
 
 ====== Dhananjaya ======
 
-<card class="letter">
 Vrindaban
 
 My dear Dhananjaya das:
@@ -33,4 +32,3 @@ Sri Mahabir Prasad Jaipuria
 
 New Delhi---110011.\\
 ACBS/bs
-</card>

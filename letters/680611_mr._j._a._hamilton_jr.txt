@@ -9,7 +9,6 @@
 
 ====== Mr. J. A. Hamilton Jr ======
 
-<card class="letter">
 Mr. J. A. Hamilton Jr.\\
 District Director\\
 United States Department of Justice\\
@@ -38,4 +37,3 @@ A.C. Bhaktivedanta Swami
 P. S. on the 11th of June 1968, I have sent one letter under Regd. Post to Mr. J. H. Hamilton Jr. District Director United States Department of Justice Immigration and Naturalization Service J. F. Kennedy Federal Building Government centre Boston, Mass. 02203 %%-----%% but they have not replied the letter till now. If possible please inquire why they have not replied thus. I wish to proceed further on this matter on receipt of their written reply. ACB\\
 \\
 Also please let me know who is the Official Head Executive man of the Department. ACB
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sanatana ======
 
-<card class="letter">
 Alexandria, Australia
 
 My dear Sanatana dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

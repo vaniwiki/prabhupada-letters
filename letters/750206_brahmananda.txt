@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 Frankfurt, Germany
 
 My dear Brahmananda Svami,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

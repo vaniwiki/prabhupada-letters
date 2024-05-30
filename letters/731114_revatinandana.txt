@@ -9,7 +9,6 @@
 
 ====== Revatinandana ======
 
-<card class="letter">
 Edinburgh, Scotland
 
 My dear Revatinandana Swami,
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

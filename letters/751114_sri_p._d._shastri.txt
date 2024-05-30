@@ -9,7 +9,6 @@
 
 ====== Sri P. D. Shastri ======
 
-<card class="letter">
 Sri P.D. Shastri\\
 Advocate\\
 Dairy House\\
@@ -28,4 +27,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

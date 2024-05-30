@@ -9,7 +9,6 @@
 
 ====== Sacisuta ======
 
-<card class="letter">
 Boston
 
 My dear Sacisuta,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

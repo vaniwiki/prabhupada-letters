@@ -9,7 +9,6 @@
 
 ====== Krsna dasa ======
 
-<card class="letter">
 My dear Krishna das,
 
 Please accept my blessings. I beg to thank you for your letter dated November 4, 1969 and have noted the contents carefully. Regarding my going there, the first thing is that if I speak, one has to translate into German. That does not make any good speech; it hampers the natural flow of the speech and makes it not very much impressive. If you think the major portion of the audience can understand directly English, then it is much better. I am not very much enthusiastic to speak in a place where English is not directly understood. Besides that, I am expecting to be engaged in important business here, which will be ascertained on Monday next, November 10th. At that time I shall decide whether I shall go. If there is no very important engagement, then I shall go to Hamburg, and the decision will be informed to you by telegram on the 10th instant. You will have enough time for advertising because the meeting will be held sometime on the 23rd. So you will get confirmation at least 10 days in advance.
@@ -22,4 +21,3 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

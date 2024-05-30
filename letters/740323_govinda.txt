@@ -9,7 +9,6 @@
 
 ====== Govinda ======
 
-<card class="letter">
 Chicago
 
 Dear Govinda das,
@@ -29,4 +28,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

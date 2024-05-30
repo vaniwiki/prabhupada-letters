@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 Buffalo
 
 My dear Rupanuga,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. I have received your London letter at Allahabad.\\
 ACBS:ds
-</card>

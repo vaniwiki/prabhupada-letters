@@ -9,7 +9,6 @@
 
 ====== Ksirodakasayi ======
 
-<card class="letter">
 My dear Ksirodakasayi,
 
 Please accept my blessings.
@@ -20,4 +19,3 @@ From Delhi, Vrndavana is not far. From Vrndavana you can easily go to Delhi, eve
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

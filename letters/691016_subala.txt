@@ -9,7 +9,6 @@
 
 ====== Subala ======
 
-<card class="letter">
 My dear Subala,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated September 26, 1969, October 3, and October 12, 1969, and have noted the contents carefully. I thank you very much for your contribution of $500 to the starting of our press in Boston as well as your $15 contribution to the maintenance fund. I am always encouraged to hear of your nice activities in Philadelphia, and gradually I expect that our Philadelphia temple will play more and more an important role in the propagation of the Krishna Consciousness Movement. The people of the world are looking for some way of being happy and making solution to their problems, and we are presenting the best and easiest method of making final solution of all the discrepancies of life and achieving the highest bliss, which is eternal. So if we are persistent in our propaganda methods, then surely many, many persons will have the good sense to take advantage of our movement, and thereby attain the highest goal of life, unalloyed devotional service to the Supreme Lord Krishna.
@@ -20,4 +19,3 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

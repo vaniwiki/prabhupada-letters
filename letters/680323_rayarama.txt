@@ -9,7 +9,6 @@
 
 ====== Rayarama ======
 
-<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I am in due receipt of your letter dated March 20, 1968, and I thank you for it very much. I am happy to hear you have finished Teachings of Lord Caitanya, and it is all turning out very encouraging. Brahmananda has done nicely both the Gita and TLC, now he has to make sales organization and that credit is awaiting him.
@@ -22,4 +21,3 @@ Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Visvambhara ======
 
-<card class="letter">
 Montreal
 
 My dear Visvambhara,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

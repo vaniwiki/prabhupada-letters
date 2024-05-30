@@ -9,7 +9,6 @@
 
 ====== Suridas ======
 
-<card class="letter">
 My dear Suridas,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 15 March 1970, and noted the contents with great satisfaction. In the meantime, I have also received one copy of your first Parisian BTG. So while we are waiting for regular edition of French BTG, you may try to improve this small publication and sell it as far as possible. That is very nice. I have also received one similar letter from London, and I have sent the reply to Gurudasa, and the copy is enclosed herewith so that all of you may follow the same instructions and open hundreds of Temples in Europe combinedly.
@@ -24,4 +23,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

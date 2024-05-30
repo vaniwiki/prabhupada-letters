@@ -9,7 +9,6 @@
 
 ====== Sri Jogeswar Chowdhury ======
 
-<card class="letter">
 Sri Jogeswar Chowdhury\\
 Chittagong, Bangladesh
 
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

@@ -9,7 +9,6 @@
 
 ====== All Governing Board Commissioners ======
 
-<card class="letter">
 All Governing Board Commissioners
 
 My dear GBC disciples,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

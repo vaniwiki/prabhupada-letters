@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 12th April, 1970, and the information is very encouraging. The more you worship the Deity very nicely, all of you will feel very nice and peaceful spiritually. Therefore this point should be very much carefully attended.
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

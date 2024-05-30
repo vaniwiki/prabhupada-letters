@@ -9,7 +9,6 @@
 
 ====== Sri Singh ======
 
-<card class="letter">
 Manipur Gita Mandal\\
 Paona Bazar\\
 Imphal, Manipur 795001\\
@@ -28,4 +27,3 @@ A.C. Bhaktivedanta Swami
 ACBS/BS/mdd\\
 c.c. Svarupa Damodara das,\\
 Atlanta, Georgia, U.S.A.
-</card>

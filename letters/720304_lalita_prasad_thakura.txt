@@ -9,7 +9,6 @@
 
 ====== Lalita Prasad Thakura ======
 
-<card class="letter">
 His Divine Grace Lalita Prasad Thakura\\
 Bhaktivinode Institute\\
 Ulla-Birnagar, Nadia dist., W. Bengal
@@ -28,4 +27,3 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

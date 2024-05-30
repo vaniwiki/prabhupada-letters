@@ -9,7 +9,6 @@
 
 ====== Pranada ======
 
-<card class="letter">
 St. Louis
 
 My dear Pranada das,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

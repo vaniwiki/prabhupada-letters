@@ -9,7 +9,6 @@
 
 ====== Manager of Liberty Bank ======
 
-<card class="letter">
 The Manager\\
 Liberty Bank\\
 Main Office\\
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 N.B. The passbook may be kept with you until I collect it from your office.
-</card>

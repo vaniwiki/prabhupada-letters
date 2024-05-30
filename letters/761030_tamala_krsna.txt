@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 New York
 
 My dear Tamala Krsna,
@@ -30,4 +29,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

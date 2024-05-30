@@ -9,7 +9,6 @@
 
 ====== Alanatha ======
 
-<card class="letter">
 Stockholm
 
 My dear Alanatha das,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd\\
 Encs.
-</card>

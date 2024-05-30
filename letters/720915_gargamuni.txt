@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 Calcutta
 
 My dear Gargamuni,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 N.B. It may be that on my way to India, I may drop at South Africa where Rsi Kumar Goswami is working. If I go there, I may call you in South Africa which is reported to be very very prospective.
-</card>

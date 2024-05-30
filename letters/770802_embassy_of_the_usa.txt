@@ -9,7 +9,6 @@
 
 ====== Embassy of the USA ======
 
-<card class="letter">
 The Embassy of the United States of America,\\
 Dept. of Immigration and Visa,\\
 New Delhi\\
@@ -25,4 +24,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

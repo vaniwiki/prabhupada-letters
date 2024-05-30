@@ -9,7 +9,6 @@
 
 ====== Vibhavati ======
 
-<card class="letter">
 My dear Vibhavati,
 
 Please accept my blessings. I beg to thank you for your letter dated April 23, 1969 sent along with the Panca-tattva painting, and I am so glad to learn that you are also a good painter. Your first attempt has been almost successful, so I request you to continue to practice so that excellent paintings may be drawn by you. We require so many pictures for our temples which are already present and which will be opened in the future. Immediately upon receipt of your picture, I had it hung right above my Deity room. Wherever I go I convert one closet into my Deity room, so I shall always be seeing your picture there.
@@ -18,4 +17,3 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

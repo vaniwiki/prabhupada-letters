@@ -9,7 +9,6 @@
 
 ====== Haripuja ======
 
-<card class="letter">
 Pittsburgh
 
 My dear Daughter,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Krsna Devi ======
 
-<card class="letter">
 My dear Krishna devi,
 
 Please accept my blessings. I beg to acknowledge receipt of your long letter dated Oct. 13, 1968. I am so glad to read it that you are writing your letter from hospital, and I thank you very much that you are so much enthusiastic that even in hospital bed, you are thinking of serving Krishna in different ways.
@@ -22,4 +21,3 @@ Hope this will find you in good health, and pray to Krishna for your quick recov
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

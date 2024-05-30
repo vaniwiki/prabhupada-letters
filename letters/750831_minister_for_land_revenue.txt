@@ -9,7 +9,6 @@
 
 ====== Minister for Land & Revenue ======
 
-<card class="letter">
 Minister for Land & Revenue\\
 Government of Uttar Pradesh\\
 Civil Secretariat\\
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

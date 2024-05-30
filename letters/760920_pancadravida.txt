@@ -9,7 +9,6 @@
 
 ====== Pancadravida ======
 
-<card class="letter">
 Buenos Aires
 
 My dear Panca Dravida Maharaja,
@@ -46,4 +45,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

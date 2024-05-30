@@ -9,7 +9,6 @@
 
 ====== Cidananda ======
 
-<card class="letter">
 San Francisco
 
 My dear Cidananda,
@@ -18,4 +17,3 @@ Please accept my blessings. I am so glad to receive your letter dated Feb. 20, a
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

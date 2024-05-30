@@ -9,7 +9,6 @@
 
 ====== Shaktimati ======
 
-<card class="letter">
 Nairobi
 
 My dear Shaktimati dasi,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

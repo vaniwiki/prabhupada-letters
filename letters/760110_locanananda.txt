@@ -9,7 +9,6 @@
 
 ====== Locanananda ======
 
-<card class="letter">
 Amsterdam
 
 My dear Locanananda dasa,
@@ -36,4 +35,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mohini Mohana ======
 
-<card class="letter">
 My dear Mohini Mohan,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 16, 1969, and I am glad that you are so willing to be engaged in Krishna Consciousness. I am very much obliged to you for your appreciation of my humble services by bringing to your country this movement. But actually it all depends upon your cooperation. Because some of the intelligent boys and girls have taken this philosophy seriously, therefore I am able to push it on and on. But it is a genuine principle of life on which everyone is struggling, generally without proper direction. In the __Bhagavad-gita__ you will find Lord Krishna says that every man is trying to follow His path, but they are proportionately understanding the goal of life to the extent that they are making progress towards perfection. It is also stated in __Bhagavad-gita__ that when a man comes to the understanding of surrendering unto Krishna, he has come to his perfect destination.
@@ -20,4 +19,3 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

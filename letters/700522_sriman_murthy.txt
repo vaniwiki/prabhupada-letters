@@ -9,7 +9,6 @@
 
 ====== Sriman Murthy ======
 
-<card class="letter">
 Toronto
 
 My dear Sriman Murthy,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

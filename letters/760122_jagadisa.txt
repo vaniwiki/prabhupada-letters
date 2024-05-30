@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 Dallas
 
 My dear Jagadisa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

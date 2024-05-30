@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 Nairobi
 
 My dear Brahmananda,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/as
-</card>

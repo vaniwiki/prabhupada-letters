@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 Toronto
 
 My dear Jagadisa,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. Instead of returning the taped mantra directly to me, send it on to Bhagavan das as soon as the ceremony for Sriman Dharmaraj is performed. I have advised Bhagavan das of this, so please do it as soon as possible.\\
 ACBS:db
-</card>

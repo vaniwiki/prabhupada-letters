@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 5, 1969, and I have noted the contents carefully. I shall reach Boston Iskcon on the 23rd of April, and you can make arrangements accordingly. I have read your transcriptions of the __Krishna__ tapes, and you are doing it very nicely. I am very much pleased with your efforts.
@@ -20,4 +19,3 @@ I hope this will meet you in good health and cheerful mood. I will be looking fo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

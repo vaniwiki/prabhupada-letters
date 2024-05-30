@@ -9,7 +9,6 @@
 
 ====== Kuladri ======
 
-<card class="letter">
 Sriman Kuladri das Adhikary\\
 New Vrindaban Community\\
 R.D. 1 Box 620 McCreary's Ridge,\\
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

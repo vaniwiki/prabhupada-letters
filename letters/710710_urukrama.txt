@@ -9,7 +9,6 @@
 
 ====== Urukrama (Jefferey) ======
 
-<card class="letter">
 Chicago
 
 My dear Urukrama (Jefferey),
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

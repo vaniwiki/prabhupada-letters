@@ -9,7 +9,6 @@
 
 ====== Janardana ======
 
-<card class="letter">
 My dear Janardana,
 
 Please accept my blessings. I thank you for your letter of April 27,1967 and have noted the contents carefully. My first instruction to you is that you must pass your M.A. Examination before any other consideration. Your degree will be a great asset for the society in the near future. So this is your first consideration. Regarding returning the money you do not bother much. Your good wife gave in loan to the society $300.00 and she must have the money returned. So do not bother about it. The society will return the money to N.Y. conveniently. There is no immediate necessity.
@@ -18,4 +17,3 @@ Regarding my Canadian Visa, I shall go to Montreal when you are confident of get
 
 Yours ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

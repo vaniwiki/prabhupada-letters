@@ -9,7 +9,6 @@
 
 ====== Pranava ======
 
-<card class="letter">
 New Delhi
 
 My dear Pranava das:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

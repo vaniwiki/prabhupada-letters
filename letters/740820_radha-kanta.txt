@@ -9,7 +9,6 @@
 
 ====== Radha-Kanta ======
 
-<card class="letter">
 New Vrndavana
 
 Dear Radha Kanta,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
-</card>

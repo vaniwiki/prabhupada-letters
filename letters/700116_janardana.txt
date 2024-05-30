@@ -9,7 +9,6 @@
 
 ====== Janardana ======
 
-<card class="letter">
 Paris
 
 My dear Janardana,
@@ -46,4 +45,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 London
 
 My dear Mukunda,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

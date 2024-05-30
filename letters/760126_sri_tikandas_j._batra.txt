@@ -9,7 +9,6 @@
 
 ====== Sri Tikandas J. Batra ======
 
-<card class="letter">
 Sri Tikandas J. Batra\\
 Bombay
 
@@ -33,4 +32,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

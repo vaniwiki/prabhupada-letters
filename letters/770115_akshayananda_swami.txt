@@ -9,7 +9,6 @@
 
 ====== Akshayananda Swami ======
 
-<card class="letter">
 Krsna Balarama Mandir\\
 Raman Reti,\\
 Vrindavana, Mathura, U.P.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 A.C.B.S./hsd
-</card>

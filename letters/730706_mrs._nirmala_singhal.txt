@@ -9,7 +9,6 @@
 
 ====== Mrs. Nirmala Singhal ======
 
-<card class="letter">
 Mrs. Nirmala Sanghal\\
 113 Dst.\\
 Vileparle\\
@@ -27,4 +26,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg.
-</card>

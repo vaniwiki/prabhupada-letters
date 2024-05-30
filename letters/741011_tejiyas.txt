@@ -9,7 +9,6 @@
 
 ====== Tejiyas ======
 
-<card class="letter">
 New Delhi
 
 My dear Tejiyas das:
@@ -27,4 +26,3 @@ N.B. Your letter to Brahmananda Swami dated Oct. 6, 1974 has just been received 
 
 ACBS\\
 ACBS/bs
-</card>

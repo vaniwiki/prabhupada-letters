@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 My dear Karandhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 1st March, 1971 and have noted the contents carefully. I understand that you have become a debtor to Dai Nippon for $52,000. This is not good. We must keep our credit. They have given us all facilities, and if you don't keep our credit with them, that is not good. So consider it a heavy debt. I have just sent them a check for $20,000. The forwarding copy of the letter is enclosed herein, which will speak for itself.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure-1 (see next letter to Mr. Yukio Ogata)
-</card>

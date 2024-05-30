@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 My dear Tamala Krsna,
 
 Please accept my blessings. I am in due receipt of your letter dated 6-1-73, and have noted the contents carefully.
@@ -26,4 +25,3 @@ My health is improving slowly. Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

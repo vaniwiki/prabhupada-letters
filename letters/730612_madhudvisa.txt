@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I am in due receipt of your letter dated May 29, 1973 and have noted the contents carefully.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure: The bank slip.
-</card>

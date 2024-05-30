@@ -9,7 +9,6 @@
 
 ====== Tirtha Maharaja ======
 
-<card class="letter">
 Pujaniya Sripada Tirtha Maharaja,
 
 May it please your holiness. I am in due receipt of your letter of the 17th instant and although it is not very encouraging still as I am not a man to be disappointed, I take courage from your letter as you write to say that there is possibility to raise the fund but it will take some time.
@@ -23,4 +22,3 @@ __A widely respected Scholar and religious leader in India Swami Bhaktivedanta i
 
 I am your obediently,\\
 A.C. Bhaktivedanta Swami.
-</card>

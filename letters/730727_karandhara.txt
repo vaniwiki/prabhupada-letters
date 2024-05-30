@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. This evening I had talk with Sir Alister Hardy M.A. D.Sc. of Oxford. He is a nice gentleman.\\
 ACB;hda.
-</card>

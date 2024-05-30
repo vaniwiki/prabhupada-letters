@@ -9,7 +9,6 @@
 
 ====== Ravji Ganatra ======
 
-<card class="letter">
 Adipur, India
 
 Dear Ravji Ganatra,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

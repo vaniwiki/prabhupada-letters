@@ -9,7 +9,6 @@
 
 ====== Dhrstaketu ======
 
-<card class="letter">
 Dear Dhrstaketu,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated February 28, 1974 and I have examined the contents.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

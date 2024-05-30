@@ -9,7 +9,6 @@
 
 ====== Svarupa Damodara ======
 
-<card class="letter">
 Tustin, California
 
 My dear Svarupa Damodara Das:
@@ -30,4 +29,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

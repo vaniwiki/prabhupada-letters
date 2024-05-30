@@ -9,7 +9,6 @@
 
 ====== Dr. Premayogi ======
 
-<card class="letter">
 c/o Krishna Balaram Mandir\\
 Chattikara Road\\
 Vrindaban, Mathura dist.\\
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

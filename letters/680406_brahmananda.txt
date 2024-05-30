@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated 29th of March, and I have noted the contents carefully. Your kind sentiments are very much appreciated by me, and I thank you very much for them.
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. Mrdangas we can directly order from Dwarkin. Please let me know how many mrdangas we may require. We are going to N.Y. on the 17th by American (?) Flight-9.A.M.
-</card>

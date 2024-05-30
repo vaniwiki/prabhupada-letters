@@ -9,7 +9,6 @@
 
 ====== Kirtiraja ======
 
-<card class="letter">
 Taunus, West Germany
 
 My dear Kirtiraja,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

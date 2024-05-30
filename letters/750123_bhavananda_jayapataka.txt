@@ -9,7 +9,6 @@
 
 ====== Bhavananda, Jayapataka ======
 
-<card class="letter">
 Mayapur
 
 My dear Bhavananda Svami and Jayapataka Svami,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== German Disciples ======
 
-<card class="letter">
 My dear beloved disciples,
 
 Please accept my blessings. I know that over the past years you have suffered so many tribulations to push forward Krsna consciousness in Germany. But this has not stopped you from your determination to serve the cause of Lord Caitanya Mahaprabhu. A devotee is pleased when there is difficulty, for in these difficulties he is forced to remember Krsna. We cannot expect that the people of Kali-yuga will welcome our attempt to spread Krsna consciousness. It is just like a lunatic asylum: The patients are running around madly and when the doctor tries to give them treatment, they insist that they are not crazy. Sometimes the patient even strikes the doctor. So our task is like that. We cannot stand to see people suffering due to ignorance. What is that ignorance? They do not know that they are not their body. This Krsna consciousness movement is meant to deliver people to the proper understanding that they are not their body, that they are pure spirit soul. We may or may not be appreciated, that is not our concern. We must execute the order of Sri Caitanya Mahaprabhu which is:
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Resolution ======
 
-<card class="letter">
 RESOLUTION
 
 At the meeting of the members of the Bureau of the International Society for Krishna Consciousness, held at the Hare Krishna Land, Gandhi Gram Road, Juhu, Bombay 400 054, on First April, 1974, the following was resolved:
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 Gurudasa Adhikari\\
 Dated this First Day of April, 1974\\
 -/bs
-</card>

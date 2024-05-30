@@ -9,7 +9,6 @@
 
 ====== Ramesvara ======
 
-<card class="letter">
 Los Angeles
 
 My dear Ramesvara,
@@ -30,4 +29,3 @@ A.C. Bhaktivedanta Swami
 N.B. They have also given us trouble in getting visas for the Gurukula boys to come to India on account of complaints to the U.S. embassy by Mr. Yanoff.\\
 cc: Bhagavan das\\
 c/o Paris temple
-</card>

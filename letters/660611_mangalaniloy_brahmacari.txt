@@ -9,7 +9,6 @@
 
 ====== Mangalaniloy Brahmacari ======
 
-<card class="letter">
 Sriman Brahmacari Mangalaniloy\\
 c/o messrs. Bhajanlal Srinivasa\\
 P.O. Shillong, Assam\\
@@ -37,4 +36,3 @@ Please let me know the price of two
 [TEXT MISSING]
 
 and shall send you cheque on Calcutta bank. ACB
-</card>

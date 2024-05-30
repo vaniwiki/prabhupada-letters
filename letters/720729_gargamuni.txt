@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 [ The condition of this letter is very poor. ]
 
 My dear Gargamuni,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

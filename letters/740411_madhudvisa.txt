@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 San Francisco
 
 Dear Madhudvisa Maharaja,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 Calcutta
 
 Dear Gargamuni Maharaja,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 P.S. I want to organize a women kirtana party singing the Gita Gan. Can you help me?
-</card>

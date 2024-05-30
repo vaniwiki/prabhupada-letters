@@ -9,7 +9,6 @@
 
 ====== Upendra ======
 
-<card class="letter">
 San Francisco
 
 My dear Upendra,
@@ -26,4 +25,3 @@ Please keep me with information so far the church is concerned, and try for it. 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

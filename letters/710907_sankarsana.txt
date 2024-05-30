@@ -9,7 +9,6 @@
 
 ====== Sankarsana ======
 
-<card class="letter">
 Austin
 
 My dear Sankarasan,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

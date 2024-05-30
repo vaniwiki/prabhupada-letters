@@ -9,7 +9,6 @@
 
 ====== Sravanananda ======
 
-<card class="letter">
 Sriman Sravanananda das\\
 P.O. Sree Dham Mayapur\\
 Dist Nadia W. Bengal
@@ -33,4 +32,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

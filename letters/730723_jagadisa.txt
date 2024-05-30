@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 Dear Jagadisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 17, 1973 and I have considered the contents carefully.
@@ -24,4 +23,3 @@ I think Ottawa is an important place in Canada, so when Krsna sends you more men
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

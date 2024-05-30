@@ -9,7 +9,6 @@
 
 ====== Murtidas ======
 
-<card class="letter">
 Sriman Murtidas Adhikary\\
 188 Chetty St.,\\
 Colombo, Sri Lanka
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

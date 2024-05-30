@@ -9,7 +9,6 @@
 
 ====== Manager of First National City Bank of New York ======
 
-<card class="letter">
 Manager\\
 First National City Bank of New York\\
 Grand Street and Bowery\\
@@ -25,4 +24,3 @@ Yours truly,\\
 A.C. Bhaktivedanta Swami
 
 Copy forwarded to Brahmananda for necessary action. ACB
-</card>

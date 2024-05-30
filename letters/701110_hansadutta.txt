@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 Calcutta
 
 My dear Hansadutta,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

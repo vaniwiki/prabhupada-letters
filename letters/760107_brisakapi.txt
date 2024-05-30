@@ -9,7 +9,6 @@
 
 ====== Brisakapi ======
 
-<card class="letter">
 My dear Brisakapi,
 
 Please accept my blessings. I beg to thank you for your letter dated December 12th, 1976. I am very pleased that we have now got such a wonderful property in the nation's capitol, Washington, D.C. The photos show that there is good opportunity to develop it into a very important center, and since you say that it is in a most aristocratic location, it is certainly Krishna's mercy. If you can make arrangements for me to meet with the President, I shall surely go.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

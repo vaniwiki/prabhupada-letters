@@ -9,7 +9,6 @@
 
 ====== Krsna Devi ======
 
-<card class="letter">
 Washington, D.C.
 
 My dear Krsnadevi,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

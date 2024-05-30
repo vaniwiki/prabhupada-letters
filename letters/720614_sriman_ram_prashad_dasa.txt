@@ -9,7 +9,6 @@
 
 ====== Sriman Ram Prashad Dasa ======
 
-<card class="letter">
 Sriman Ram Prashad Dasa\\
 2582 Sector 22-C\\
 Chandigarh, INDIA
@@ -20,4 +19,3 @@ Please accept my blessings. I am in due receipt of your letter dated May 1, 1972
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

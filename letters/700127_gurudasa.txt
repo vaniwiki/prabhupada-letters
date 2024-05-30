@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 19 January, 1970.
@@ -42,4 +41,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *Yes thanks we have received the check Brahmananda phoned.
-</card>

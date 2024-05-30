@@ -9,7 +9,6 @@
 
 ====== Paul Diglio ======
 
-<card class="letter">
 Mr. Paul Diglio\\
 87 Fairmont Avenue\\
 New Haven, Connecticut 06513\\
@@ -25,4 +24,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

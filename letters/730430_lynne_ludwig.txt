@@ -9,7 +9,6 @@
 
 ====== Lynne Ludwig ======
 
-<card class="letter">
 Lynne Ludwig\\
 15163, Sylmar, California 93142
 
@@ -62,4 +61,3 @@ So these are the descriptions of the more advanced stages of Krishna Consciousne
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

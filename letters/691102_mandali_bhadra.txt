@@ -9,7 +9,6 @@
 
 ====== Mandali Bhadra ======
 
-<card class="letter">
 My dear Mandali Bhadra,
 
 Please accept my blessings. I beg to thank you for your letter dated October 24, 1969 and have noted the contents carefully. Krishna Consciousness is not limited within any circle. Brahmacari, grhastha or sannyasi: everyone is eligible for cultivating Krishna Consciousness. There are these stages for gradual development of control of the strong senses in the material environment. But any order of life suitable for a particular person in which he can most favorably execute his Krishna Consciousness is the best position to take up. Generally, if one can remain a brahmacari, it is very convenient, and from brahmacari one can take sannyasa. But in this age of kali Bhaktivinode Thakura recommends that is is better to cultivate Krishna Consciousness as a householder.
@@ -18,4 +17,3 @@ The London devotees are planning to go to Hamburg for four days this month, so i
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

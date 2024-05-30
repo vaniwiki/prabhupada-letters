@@ -9,7 +9,6 @@
 
 ====== Visnujana ======
 
-<card class="letter">
 Houston
 
 My dear Visnujana Maharaja,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

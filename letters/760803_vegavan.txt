@@ -9,7 +9,6 @@
 
 ====== Vegavan ======
 
-<card class="letter">
 My dear Vegavan das;
 
 Please accept my blessings. I am in due receipt of your letter dated August 1, 1976 and have noted the contents with care.
@@ -42,4 +41,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

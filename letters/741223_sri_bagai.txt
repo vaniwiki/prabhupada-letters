@@ -9,7 +9,6 @@
 
 ====== Sri Bagai ======
 
-<card class="letter">
 Chandigarh
 
 Dear Sri Bagai:
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/GdB
-</card>

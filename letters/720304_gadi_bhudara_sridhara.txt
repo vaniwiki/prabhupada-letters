@@ -9,7 +9,6 @@
 
 ====== Gadi (Joseph Magyar), Bhudara (Marc Malcomb), Sridhara (Richard Whitenhurst) ======
 
-<card class="letter">
 Gainesville, Florida
 
 My dear Sons,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

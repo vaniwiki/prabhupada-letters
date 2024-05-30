@@ -9,7 +9,6 @@
 
 ====== Jennifer Wayne Woodward ======
 
-<card class="letter">
 Jennifer Wayne Woodward\\
 3081 16th St. #201\\
 San Francisco, CA. 94103
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

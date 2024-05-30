@@ -9,7 +9,6 @@
 
 ====== Krsna Devi ======
 
-<card class="letter">
 Boston
 
 My dear Krsna Devi,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

@@ -9,7 +9,6 @@
 
 ====== Trai ======
 
-<card class="letter">
 My dear Trai das:
 
 Please accept my blessings. I beg to acknowledge receipt of your nice report dated the 20th of february and I have carefully examined the contents. Your plans for increasing book distribution are very good. If so many books are being sold then very soon we will be finished the second edition. Distribution of all these books is making a firm basis for our movement.
@@ -27,4 +26,3 @@ Hoping this letter meets you in good health.
 
 Your ever well-wisher.\\
 A.C. Bhaktivedanta Swami
-</card>

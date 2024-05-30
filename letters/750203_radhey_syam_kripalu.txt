@@ -9,7 +9,6 @@
 
 ====== Radhey Syam Kripalu ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Radhey Syam Kripalu
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. I do not remember your name very well. Could you tell me where and when you were initiated? If you would tell me this information, I could put it in our files. Thank you.\\
 ACBS/ps
-</card>

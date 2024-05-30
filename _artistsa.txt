@@ -9,7 +9,6 @@
 
 ====== Artists ======
 
-<card class="letter">
 [PAGE 1 MISSING]
 
 Page 2
@@ -36,4 +35,3 @@ Hoping this will meet you all in the best of health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

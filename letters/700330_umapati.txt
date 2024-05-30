@@ -9,7 +9,6 @@
 
 ====== Umapati ======
 
-<card class="letter">
 Paris
 
 My dear Umapati,
@@ -38,4 +37,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mr. Richard Cohen ======
 
-<card class="letter">
 Richard Cohen\\
 P.O. Box 1615\\
 Sausalito, Calif.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

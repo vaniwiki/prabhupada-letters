@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 Melbourne
 
 My dear Madhudvisa Swami,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 N.B. I am awaiting your report.
-</card>

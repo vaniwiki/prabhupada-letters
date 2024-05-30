@@ -9,7 +9,6 @@
 
 ====== RamaKrishnaji ======
 
-<card class="letter">
 My dear Sriman RamKrishnaji,
 
 Please accept my greetings. I thank you very much for your invitation letter dated April 28, 1976, addressed to my Bombay headquarters, forwarded to me here in Honolulu. When you came to see me in Bombay I had already accepted to become the member of the Co-ordinating Committee of the Gita Prachar Conference.
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 n.b. The teachings of the Bhagavad-gita are so potential that if it is practiced seriously, it can bring in a new life and civilization. Now you have established a Gita Pratisthan, so do it very seriously.\\
 ACBS/pks
-</card>

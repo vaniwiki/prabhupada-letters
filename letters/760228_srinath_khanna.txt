@@ -9,7 +9,6 @@
 
 ====== Srinath Khanna ======
 
-<card class="letter">
 Sahitra Ratra\\
 Azamgarh, U.P., India
 
@@ -27,4 +26,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

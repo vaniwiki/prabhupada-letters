@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -38,4 +37,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

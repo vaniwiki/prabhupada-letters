@@ -9,7 +9,6 @@
 
 ====== Revatinandana ======
 
-<card class="letter">
 London
 
 My dear Revatinandana,
@@ -24,4 +23,3 @@ Hoping this will meet you in good health and happy spirits.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

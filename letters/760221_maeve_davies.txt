@@ -9,7 +9,6 @@
 
 ====== Maeve Davies ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Maeve Davies,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

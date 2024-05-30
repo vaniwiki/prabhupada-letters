@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I am in due receipt of your letter dated Nov. 24th with enclosures and checks and have gone over them carefully. In the meantime, if there is no very important business in Delhi, you may accept the invitation from Indore and go there. Most probably I shall also go there.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. It appears that the collection is about Rs 6000.00. But you have not sent all the money. ACB
-</card>

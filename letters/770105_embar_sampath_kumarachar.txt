@@ -9,7 +9,6 @@
 
 ====== Embar Sampath Kumarachar ======
 
-<card class="letter">
 Karantaka
 
 My dear Embar Sampath Kumarchar,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Arundhati ======
 
-<card class="letter">
 My dear Arundhati,
 
 Please accept my blessings. I beg to thank you for your most recent letter (undated), and I have noted the contents. I hope by this time your health has improved, and as you are doing such important work for Krishna, you must be careful to take proper care of your health. You are an intelligent girl, so conjointly with your husband, Pradyumna, you can determine what are the best measures to be taken in this connection. I understand that you have quickly learned how to operate the Composer machine, and I am anxious to learn how things are progressing in this connection. Have you begun yet to compose __Nectar of Devotion__? Several days ago more pages of this book were sent to you, up to page 233, and as you finish work on these pages, I shall be sending you more.
@@ -20,4 +19,3 @@ Please offer my blessings to the others. I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Alan Ginsberg ======
 
-<card class="letter">
 Mr. Alan Ginsberg\\
 R.D. 2 Cherry Valley\\
 New York
@@ -20,4 +19,3 @@ Please accept my blessings. HARE KRISHNA! Mukunda has sent me a copy of the lett
 
 Yours ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Dinnath N. Misra ======
 
-<card class="letter">
 D.N. Mishra\\
 179 Balram De Ste\\
 Calcutta---6
@@ -27,4 +26,3 @@ I hope this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Delhi
 
 My dear Gurudasa,
@@ -36,4 +35,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. You might have received by this time a letter from Tamala. So you must go immediately to see the Chief Controller of Imports and Exports and make the necessary arrangements for getting the clearance permission for our shipment of books. ACB\\
 ACBS:ds
-</card>

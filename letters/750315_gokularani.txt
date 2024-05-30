@@ -9,7 +9,6 @@
 
 ====== Gokularani ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Gokularani dasi,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

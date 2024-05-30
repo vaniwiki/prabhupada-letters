@@ -9,7 +9,6 @@
 
 ====== Ādi-kesava ======
 
-<card class="letter">
 Boston
 
 My dear Ādi Kesava das,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 Enc: 3 threads and mantra sheet.
-</card>

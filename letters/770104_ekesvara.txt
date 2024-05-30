@@ -9,7 +9,6 @@
 
 ====== Ekesvara ======
 
-<card class="letter">
 Potomac, Maryland
 
 My dear Ekesvara,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

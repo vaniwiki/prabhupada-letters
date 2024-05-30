@@ -9,7 +9,6 @@
 
 ====== Nirmala ======
 
-<card class="letter">
 Bombay
 
 My dear daughter Nirmala,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 My regards for your good mother-in-law
-</card>

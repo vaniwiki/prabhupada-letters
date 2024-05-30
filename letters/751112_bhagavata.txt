@@ -9,7 +9,6 @@
 
 ====== Bhagavata ======
 
-<card class="letter">
 Calcutta
 
 My dear Bhagavata das,
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

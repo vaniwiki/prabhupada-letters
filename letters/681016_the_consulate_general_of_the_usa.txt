@@ -9,7 +9,6 @@
 
 ====== The Consulate General of The USA ======
 
-<card class="letter">
 Visa Section Rooms 100-101\\
 800 Place Victoria\\
 Montreal 3, Quebec Canada
@@ -28,4 +27,3 @@ With further reference to your letter No. MTL-V-14 (CAN)10’C dated October 4, 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

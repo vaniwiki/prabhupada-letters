@@ -9,7 +9,6 @@
 
 ====== Mr. S.T. Asnani ======
 
-<card class="letter">
 S.T. Asnani, MA\\
 Advocate High Court\\
 "Meher House"\\
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

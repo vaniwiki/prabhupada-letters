@@ -9,7 +9,6 @@
 
 ====== Dr. Wolf ======
 
-<card class="letter">
 Los Angeles
 
 My dear Dr. Wolf,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

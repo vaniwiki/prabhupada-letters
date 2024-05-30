@@ -9,7 +9,6 @@
 
 ====== Uddhava ======
 
-<card class="letter">
 My dear Uddhava
 
 Please accept my blessings. I am in due receipt of your letter dated Dec. 17, 1968, and I have noted the contents carefully.
@@ -27,4 +26,3 @@ NB: Please convey my thanks to Patita Uddharana for his nice letter. I will be l
 P.S. I have asked Hayagriva to invest some money in purchasing press and he has almost agreed. Apart from labor and other cost you can give me an estimate of price of the materials required.
 
 ACB
-</card>

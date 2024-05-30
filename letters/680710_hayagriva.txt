@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 New Vrindaban
 
 My dear Hayagriva,
@@ -24,4 +23,3 @@ Hope you are well, and awaiting your early reply.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

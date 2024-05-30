@@ -9,7 +9,6 @@
 
 ====== Dr. Channa Reddy ======
 
-<card class="letter">
 Governor of Uttar Pradesh\\
 Raj Bhavan, Lucknow, Uttar Pradesh\\
 INDIA.
@@ -39,4 +38,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

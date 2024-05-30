@@ -9,7 +9,6 @@
 
 ====== Nataka-Candrika, Jusania, Rama Tulasi, Tripti ======
 
-<card class="letter">
 Nataka-Candrika\\
 Jusania\\
 Rama Tulasi\\
@@ -25,4 +24,3 @@ I hope that this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

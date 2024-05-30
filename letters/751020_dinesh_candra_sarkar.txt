@@ -9,7 +9,6 @@
 
 ====== Dinesh Candra Sarkar ======
 
-<card class="letter">
 Dinesh Candra Sarkar,\\
 5, Bidyasagar Road,\\
 P.O Nabagram,\\
@@ -35,4 +34,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

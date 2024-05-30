@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. After leaving your place I went to Chicago and then San Francisco and in both the places the Rathayatra ceremony was very successfully performed.
@@ -22,4 +21,3 @@ Hoping this meets you in good health, and everything is going well there.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Department of Visa and Foreign Registration (Immigration) ======
 
-<card class="letter">
 Officer\\
 Department of Visa and Foreign Registration (Immigration)\\
 Suva, Fiji
@@ -22,4 +21,3 @@ Sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ds
-</card>

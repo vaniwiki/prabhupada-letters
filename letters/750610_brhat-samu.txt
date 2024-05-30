@@ -9,7 +9,6 @@
 
 ====== Brhat-samu ======
 
-<card class="letter">
 San Francisco
 
 My dear Brhat-samu dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

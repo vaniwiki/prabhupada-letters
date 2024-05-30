@@ -9,7 +9,6 @@
 
 ====== Vinode Patel ======
 
-<card class="letter">
 San Francisco
 
 Dear Sriman Vinode Patel,
@@ -20,4 +19,3 @@ Please convey my blessings to Gargamuni and all the boys and girls in San Franci
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

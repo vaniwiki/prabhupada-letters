@@ -9,7 +9,6 @@
 
 ====== Govinda Maharaja ======
 
-<card class="letter">
 My dear Govinda Maharaja,
 
 Please accept my prostrated obeisances. Your letter dated 22nd August, 1970, addressed to me at Los Angeles is now redirected here in Calcutta. Perhaps you have heard that I have come back to Calcutta for distributing some of our books and literature and I am staying at the above address temporarily.
@@ -24,4 +23,3 @@ Hope this will meet you in good health. Thanking you once more for your kind let
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
-</card>

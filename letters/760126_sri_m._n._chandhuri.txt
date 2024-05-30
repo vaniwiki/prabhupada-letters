@@ -9,7 +9,6 @@
 
 ====== Sri M. N. Chandhuri ======
 
-<card class="letter">
 Sri M. N. Chandhuri\\
 Calcutta
 
@@ -23,4 +22,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gopala Krsna, Tejiyas ======
 
-<card class="letter">
 Bombay
 
 My dear Gopala Krishna and Tejyas das,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 Take import order immediately
-</card>

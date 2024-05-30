@@ -9,7 +9,6 @@
 
 ====== Malati ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 Dear Malati,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

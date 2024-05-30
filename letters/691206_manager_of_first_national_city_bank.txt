@@ -9,7 +9,6 @@
 
 ====== Manager of First National City Bank ======
 
-<card class="letter">
 Manager\\
 FIRST NATIONAL CITY BANK\\
 686 Broadway (near Great Jones Street)\\
@@ -26,4 +25,3 @@ Yours truly,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:pdb
-</card>

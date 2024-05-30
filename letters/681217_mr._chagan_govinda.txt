@@ -9,7 +9,6 @@
 
 ====== Mr. Chagan Govinda ======
 
-<card class="letter">
 Chagan Govinda\\
 74 Arodene Road\\
 London S.W.2.
@@ -26,4 +25,3 @@ I was very pleased to read how these students were very well received by your or
 
 Yours very sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

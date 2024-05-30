@@ -9,7 +9,6 @@
 
 ====== David B. Richeter Hughes ======
 
-<card class="letter">
 World Christ COR\\
 David B. Richeter Hughes, Founder\\
 c/o F.A. Kranert\\
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

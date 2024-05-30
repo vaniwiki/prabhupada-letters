@@ -9,7 +9,6 @@
 
 ====== Jnanagamya ======
 
-<card class="letter">
 My dear Jnanagamya,
 
 Please accept my blessings. I beg to thank you for your letter dated December 26th, 1975.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

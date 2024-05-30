@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 My dear Karandhara,
 
 Please accept my blessings. I am in receipt of your letter dated Sept. 13, 1970, and I congratulate you on the good news of opening the Portland center so successfully, and I am very pleased that things are going on nicely. I received your telegram, and also receipts for three deposits to the BBT at Dai Nippon; and I received your other letters, but on account of Devananda's disposition, I have not been able to reply them. Today I am taking the help of Kirtanananda. Please go on sending the reports.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ks
-</card>

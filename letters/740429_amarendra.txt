@@ -9,7 +9,6 @@
 
 ====== Amarendra ======
 
-<card class="letter">
 Gainesville, Florida
 
 Dear Amarendra,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

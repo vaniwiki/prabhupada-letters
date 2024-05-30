@@ -9,7 +9,6 @@
 
 ====== Tirthanga ======
 
-<card class="letter">
 Berlin
 
 My dear Tirthanga dasa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

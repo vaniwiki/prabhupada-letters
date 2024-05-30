@@ -9,7 +9,6 @@
 
 ====== Cyavana ======
 
-<card class="letter">
 Calcutta
 
 My dear Cyavana,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda/yda
-</card>

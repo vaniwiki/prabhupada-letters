@@ -9,7 +9,6 @@
 
 ====== Kirtiraja ======
 
-<card class="letter">
 Los Angeles
 
 My dear Kirtiraja das,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

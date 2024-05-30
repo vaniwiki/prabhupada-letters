@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Vrindaban
 
 My dear Gurudasa,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 With my blessings for Yamuna and others.
-</card>

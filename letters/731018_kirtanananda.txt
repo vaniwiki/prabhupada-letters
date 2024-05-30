@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 Delhi
 
 My dear Kirtanananda Maharaja:
@@ -36,4 +35,3 @@ A.C. Bhaktivedanta Swami
 ACBS/bs\\
 cc: Karandhara Das, ISKCON, Los Angeles\\
 Mohanananda Das, Gurukula, Dallas
-</card>

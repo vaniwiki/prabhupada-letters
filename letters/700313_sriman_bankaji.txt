@@ -9,7 +9,6 @@
 
 ====== Sriman Bankaji ======
 
-<card class="letter">
 Gita Press\\
 Gorakhpur, India
 
@@ -45,4 +44,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

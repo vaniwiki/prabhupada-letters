@@ -9,7 +9,6 @@
 
 ====== Amogha ======
 
-<card class="letter">
 Djakarta
 
 My dear Amogha,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *by the 10th October 72
-</card>

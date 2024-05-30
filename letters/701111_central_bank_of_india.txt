@@ -9,7 +9,6 @@
 
 ====== Central Bank of India ======
 
-<card class="letter">
 Central Bank of India\\
 Amritsar
 
@@ -34,4 +33,3 @@ Central Bank of India
 
 Bombay-26\\
 ACBS:ds
-</card>

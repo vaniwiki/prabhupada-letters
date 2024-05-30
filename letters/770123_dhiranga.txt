@@ -9,7 +9,6 @@
 
 ====== Dhiranga ======
 
-<card class="letter">
 ISKCON\\
 P.O. Box 212, Cato Ridge\\
 Natal 3680, South Africa
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS
-</card>

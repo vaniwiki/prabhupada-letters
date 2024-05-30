@@ -9,7 +9,6 @@
 
 ====== Tribhangananda ======
 
-<card class="letter">
 My dear Tribhangananda,
 
 Please accept my blessings. I am in receipt of your letter dated 3/10/76.
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. please be sure that everyone there is following strictly the four regulative principles and chanting a minimum 16 rounds daily.\\
 ACBS/jda
-</card>

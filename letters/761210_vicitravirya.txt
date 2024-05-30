@@ -9,7 +9,6 @@
 
 ====== Vicitravirya ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Vicitravirya,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

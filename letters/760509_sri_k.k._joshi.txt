@@ -9,7 +9,6 @@
 
 ====== Sri K. K. Joshi ======
 
-<card class="letter">
 Sri K.K. Joshi, Secretary\\
 Indian Humanist Union\\
 Kotwara House, Kaisarbagh\\
@@ -35,4 +34,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

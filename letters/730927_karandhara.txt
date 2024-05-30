@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 Los Angeles
 
 My dear Karandhara Das:
@@ -37,4 +36,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 Enc: 2
-</card>

@@ -9,7 +9,6 @@
 
 ====== Syamasundara ======
 
-<card class="letter">
 c/o George Harrison\\
 Oxfordshire, England
 
@@ -44,4 +43,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

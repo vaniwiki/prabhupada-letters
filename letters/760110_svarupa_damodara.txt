@@ -9,7 +9,6 @@
 
 ====== Svarupa Damodara ======
 
-<card class="letter">
 My dear Svarupa Damodara,
 
 Please accept my blessings. I beg to thank you for your letter dated December 26th, 1975, and I have noted the contents carefully.
@@ -27,4 +26,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

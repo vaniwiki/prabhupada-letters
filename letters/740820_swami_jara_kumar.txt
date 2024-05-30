@@ -9,7 +9,6 @@
 
 ====== Swami Jara Kumar ======
 
-<card class="letter">
 Munchi
 
 Dear Swami Jara Kumar,
@@ -26,4 +25,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

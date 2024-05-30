@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 My dear Giriraja,
 
 Please accept my blessings. We have reached Zurich yesterday morning and have come to the health resort of St. Morritz. The apartment is very nice but it is so cold that we cannot go outside. Probably we shall go to L.A. via N.Y. on the 5th of April.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bmdg
-</card>

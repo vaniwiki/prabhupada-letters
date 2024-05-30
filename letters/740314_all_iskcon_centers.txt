@@ -9,7 +9,6 @@
 
 ====== All ISKCON Centers ======
 
-<card class="letter">
 Memorandum to All ISKCON Centers
 
 My dear disciples,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

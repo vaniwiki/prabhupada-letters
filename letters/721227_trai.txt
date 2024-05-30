@@ -9,7 +9,6 @@
 
 ====== Trai ======
 
-<card class="letter">
 Iskcon Boston
 
 My dear Trai das,
@@ -26,4 +25,3 @@ Hoping this meets you in good health
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
-</card>

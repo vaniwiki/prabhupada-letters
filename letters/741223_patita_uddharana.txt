@@ -9,7 +9,6 @@
 
 ====== Patita Uddharana ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Patita Uddharana,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 N.B. Received your hand-delivered letter with copy of the surrender and plan. Thank you.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 My dear Bali Mardan,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 28th, 1971. I think I have received all of your letters as all of the mail is always forwarded to me. Sometimes there is a delay when the mail is redirected due to the slowness of Indian postal system, so if you are awaiting reply to any of your previous letters, when they reach me I shall reply all the important points.
@@ -32,4 +31,3 @@ ACBS:tkd
 P.S. You have asked for the translation to the Text 63, chapter 1, Fourth Canto:
 
 "Agnisvatta, Barhisadah, Saumyah, and Ajyapah are pitaras; all of them include Sagnik and niragnik. Of all these pitaras the wife is Svadha who is the daughter of King Daksa."
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mandakini ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Mandakini,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

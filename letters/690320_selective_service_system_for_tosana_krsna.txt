@@ -9,7 +9,6 @@
 
 ====== Selective Service System (for Tosana Krsna) ======
 
-<card class="letter">
 Local Board No. 40\\
 Selective Service System\\
 100 McAllister Street\\
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 CHIEF MINISTER OF THE
 
 INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS
-</card>

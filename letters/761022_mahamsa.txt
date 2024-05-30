@@ -9,7 +9,6 @@
 
 ====== Mahamsa ======
 
-<card class="letter">
 My dear Mahamsa Swami,
 
 Please accept my blessings. I am in due receipt of your letter dated 13/10/76.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

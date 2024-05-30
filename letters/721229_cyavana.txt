@@ -9,7 +9,6 @@
 
 ====== Cyavana ======
 
-<card class="letter">
 Nairobi
 
 My dear Cyavana,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 N.B. Mr. G.N. Shah is always writing me for money. What to do with him? ACB
-</card>

@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 Tokyo
 
 My dear Brahmananda,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS:db\\
 P.S. Can you send some negatives of some very nice color and black and white photographs of our Tokyo center---Sankirtana on the plaza, etc. for propaganda purposes?
-</card>

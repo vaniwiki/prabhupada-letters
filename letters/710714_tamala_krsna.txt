@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 Calcutta
 
 My dear Tamala Krsna,
@@ -27,4 +26,3 @@ P.S. (1) By the 20th July I will be in N.Y. at least for a week.\\
 (2) By the 1st August I will be in London.\\
 (3) (?) please find one letter from Mr. Mukherji(?) & do the needful.\\
 (4) If Bombay(?) management is going well, then Gurudasa may go there (?). Send me one letter weekly.
-</card>

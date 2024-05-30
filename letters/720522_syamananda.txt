@@ -9,7 +9,6 @@
 
 ====== Syamananda ======
 
-<card class="letter">
 Sydney
 
 My dear Syamananda,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACb/sda
-</card>

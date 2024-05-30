@@ -9,7 +9,6 @@
 
 ====== Manager of The Bank of Baroda ======
 
-<card class="letter">
 Manager\\
 THE BANK OF BARODA LTD\\
 856, Chandni Chowk\\
@@ -24,4 +23,3 @@ Regarding Indian exporters, I beg to request you to send me some addresses of mu
 Sincerely,
 
 A.C. Bhaktivedanta Swami
-</card>

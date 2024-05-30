@@ -9,7 +9,6 @@
 
 ====== Bank of Baroda ======
 
-<card class="letter">
 Bank of Baroda\\
 Delhi
 
@@ -24,4 +23,3 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

@@ -9,7 +9,6 @@
 
 ====== Jananivasa ======
 
-<card class="letter">
 Columbus, Ohio
 
 My dear Jananivasa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

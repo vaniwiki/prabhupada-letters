@@ -9,7 +9,6 @@
 
 ====== G.L. Nanda ======
 
-<card class="letter">
 Sriman Gulzari Lal Nanda\\
 5, Tughlak Road, \\
 New Delhi-11, INDIA
@@ -72,4 +71,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

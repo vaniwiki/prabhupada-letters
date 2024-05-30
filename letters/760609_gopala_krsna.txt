@@ -9,7 +9,6 @@
 
 ====== Gopala Krsna ======
 
-<card class="letter">
 Vrindaban
 
 My dear Gopala Krsna das,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

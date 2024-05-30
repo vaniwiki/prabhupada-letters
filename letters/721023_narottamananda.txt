@@ -9,7 +9,6 @@
 
 ====== Narottamananda ======
 
-<card class="letter">
 Bloomington, Indiana
 
 My dear Narottamananda,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

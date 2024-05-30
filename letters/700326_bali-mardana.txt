@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 Australia
 
 My dear Bali-mardana,
@@ -32,4 +31,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

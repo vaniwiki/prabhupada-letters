@@ -9,7 +9,6 @@
 
 ====== Mr. Gupta ======
 
-<card class="letter">
 Chandigarh
 
 Dear Mr. Das Gupta;
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

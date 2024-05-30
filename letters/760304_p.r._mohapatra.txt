@@ -9,7 +9,6 @@
 
 ====== P. R. Mohapatra ======
 
-<card class="letter">
 P.R. Mohapatra, M.A.\\
 Senior Deputy Manager (P.O.)\\
 Food Corporation of India,\\
@@ -36,4 +35,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

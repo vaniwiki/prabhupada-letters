@@ -9,7 +9,6 @@
 
 ====== Caruhasa ======
 
-<card class="letter">
 Los Angeles
 
 My dear Caruhasa das,
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== ISKCON L.A., Nagapatni, Tradhis, Janmastami, Vikramini, Babhrubahan, Sacidevi, Karandhara, Santanandi, Romaharsana, Suchitra, Gajendra, Purnima, Sarala, Karunasindhu, Ananga, Krsnakanti, Herapancami, Jayatirtha, Ujjala, Gopala Bhattadas, Vrindaban Candra, Vidarba Kanya, Kanupriya, Caitanya, Baba, Govinda, Poulastini, Brin, Dru, Becky, Nandalal, Freda, Tungabhadra, Cintamani, Carol, Silavati, Tulsidevi, Prsni, Joanne, Suniti, Cidananda, Madhukanta, Siddhesvara, Ramesvara, Phillip, Paramesvari, Bhutanatha, Trilochana, Jangarama, Pierre, Upadaliya, Pipali, Larry, Premarnava, Srivasa, Sarvabhauma, Riktananda, others ======
 
-<card class="letter">
 TO ISKCON L.A.
 
 My dear Nagapatni, Tradhis, Janmastami, Vikramini, Babrubahan, Sacidevi, Karandhara, Santanandi, Romaharsan, Suchitra, Gajendra, Purnima, Sarala, Karunasindhu, Ananga, Krsnakanti, Herapancami, Jayatirtha, Ujjala, Gopala Bhattadas, Vrindaban-Candra, Vidarba Kanya, Kanupriya, Caitanyadevi, Dasi, Baba, Govinda Das, Poulastini, Brin, Dru, Becky, Nandalal, Freda, Tungabhadra, Cintamani, Carol, Silavati, Tulsidevi, Prsni, Joanne, Suniti, Cidananda, Madhukanta, Siddhesvara, Ramesvara, Phillip, Paramesvari, Bhutanath, Trilochana, Jangarama, Pierre, Upadaliya, Pipali, Larry, Premarnava, Srivas, Sarvabhauma, Riktananda, etc.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

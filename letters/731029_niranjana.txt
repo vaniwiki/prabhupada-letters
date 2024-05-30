@@ -9,7 +9,6 @@
 
 ====== Niranjana ======
 
-<card class="letter">
 Saugor, India
 
 My dear Niranjana Das:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Asita ======
 
-<card class="letter">
 Sri Caitanya Gaudiya Math\\
 Gaura Bat Sahta Road\\
 Swargadwar, Puri Orissa 1752001
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

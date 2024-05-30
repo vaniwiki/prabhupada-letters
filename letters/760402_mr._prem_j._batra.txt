@@ -9,7 +9,6 @@
 
 ====== Mr. Prem J. Batra ======
 
-<card class="letter">
 Prem J. Batra,\\
 97, Amatragar, Chakala\\
 Kurla Road\\
@@ -29,4 +28,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

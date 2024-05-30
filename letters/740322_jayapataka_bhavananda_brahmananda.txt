@@ -9,7 +9,6 @@
 
 ====== Jayapataka , Bhavananda , Brahmananda ======
 
-<card class="letter">
 Mayapur
 
 My dear Jayapataka Bhavananda, and Brahmananda Maharajas,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

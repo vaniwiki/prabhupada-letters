@@ -9,7 +9,6 @@
 
 ====== Svarupa Damodara ======
 
-<card class="letter">
 Atlanta
 
 My dear Svarupa Damodara das:
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: Dr. W.H. Wolf-Rottkay, California
-</card>

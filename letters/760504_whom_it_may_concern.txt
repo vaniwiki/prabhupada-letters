@@ -9,7 +9,6 @@
 
 ====== Whom it may concern ======
 
-<card class="letter">
 Bombay
 
 To whom it may concern,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

@@ -9,7 +9,6 @@
 
 ====== Visnuprasada N. Decai ======
 
-<card class="letter">
 Visnuprasada N. Decai\\
 Chairman, Managing Comt.\\
 Fourteen Co-op Housing Society\\
@@ -27,4 +26,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

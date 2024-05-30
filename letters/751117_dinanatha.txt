@@ -9,7 +9,6 @@
 
 ====== Dinanatha ======
 
-<card class="letter">
 Calcutta
 
 My dear Dinanath,
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

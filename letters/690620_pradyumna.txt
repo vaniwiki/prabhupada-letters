@@ -9,7 +9,6 @@
 
 ====== Pradyumna ======
 
-<card class="letter">
 My dear Pradyumna,
 
 Please accept my blessings. I am in due receipt of your letter of June 17, 1969, and I have noted the contents. It is all right to have the changes made on the two type fonts because it will be suitable for our purposes. I have already written you a letter that you have to maintain the machine. That means the monthly installments shall be arranged by you, and the cash down shall be paid by me. I have already advised Brahmananda in this connection so you can do the needful.
@@ -18,4 +17,3 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

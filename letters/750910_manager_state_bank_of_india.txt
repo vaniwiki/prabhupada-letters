@@ -9,7 +9,6 @@
 
 ====== Manager, State Bank of India ======
 
-<card class="letter">
 State Bank of India\\
 Vrindaban Branch\\
 Att: The Manager
@@ -36,4 +35,3 @@ RECEIVED ON BEHALF OF STATE BANK F INDIA,\\
 \\
 Signature:\\
 Dated: September 10, 1975
-</card>

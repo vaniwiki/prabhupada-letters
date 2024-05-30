@@ -9,7 +9,6 @@
 
 ====== Pujyapada Kesava Maharaja ======
 
-<card class="letter">
 [It is an extract from a 1949 letter of Srila Prabhupada. The original letter was in Bengali, and was reprinted, along with this translation, in the summer 2001 edition of Rays of the Harmonist, a magazine published by followers of HH Narayana Maharaja. ---Bhakti Vikās Swami]
 
 __Śrī Gauḍīya Patrikā__\\
@@ -43,4 +42,3 @@ Calcutta\\
 *Narahari Dā is the affectionate address for Śrīla Narahari Sevāvigraha Prabhu. In Bengali, __Dā__ means “elder brother.”
 
 Edited from the translation reprinted in the summer 2001 edition of Rays of the Harmonist, a magazine published by followers of HH Narayana Maharaja
-</card>

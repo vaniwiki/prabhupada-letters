@@ -9,7 +9,6 @@
 
 ====== Vidyabadhu ======
 
-<card class="letter">
 Los Angeles
 
 My dear Vidyabadhu devi dasi,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

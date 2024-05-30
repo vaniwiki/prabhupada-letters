@@ -9,7 +9,6 @@
 
 ====== Bhavananda ======
 
-<card class="letter">
 My dear Bhavananda:
 
 Please accept my blessings. Since leaving India more than one month I have not received any report of the Mayapur project, how it is going on. So I may request you to write me in this regard. I want that the building must be completely finished before my next return. So please tell me what is the position there.
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. Please be kind enough to send me a report at least fortnightly\\
 ACBS/bs
-</card>

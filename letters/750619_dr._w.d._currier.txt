@@ -9,7 +9,6 @@
 
 ====== Dr. W.D. Currier ======
 
-<card class="letter">
 W.D. Currier, M.D., INC.\\
 960 East Green St., Suite 209\\
 Pasadena, California 91106
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

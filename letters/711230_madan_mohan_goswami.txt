@@ -9,7 +9,6 @@
 
 ====== Madan Mohan Goswami ======
 
-<card class="letter">
 Sri Madan Mohan Goswami,\\
 C/O Panchanan Goswami,\\
 Sri Govinda Deo Ji's Temple,\\
@@ -27,4 +26,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS;tkd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Surendra Kumar ======
 
-<card class="letter">
 Sri Surendra Kumar,\\
 'Saket,' Morris Road,\\
 Aligarh, U.P.
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mr. Lourenco ======
 
-<card class="letter">
 Sintra, Portugal
 
 Dear Mr. Lourenco,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
-</card>

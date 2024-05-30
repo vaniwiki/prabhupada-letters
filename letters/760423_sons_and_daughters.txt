@@ -9,7 +9,6 @@
 
 ====== Sons and Daughters ======
 
-<card class="letter">
 The Assembled Devotees\\
 Australian Yatra
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gadi ======
 
-<card class="letter">
 Charlotte, N.C.
 
 My dear Gadi dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

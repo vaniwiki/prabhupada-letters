@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 Bombay
 
 My dear Tamala Krsna Goswami,
@@ -31,4 +30,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS:Kda\\
 N.B. I am only anxious for the municipality sanction and Mrs. Nair's income tax certificate. Please %%__%% this immediately. Gargamuni has written a long letter so many %%__%%. When you go to Calcutta see what is the matter. Let me know what you have done.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bali-mardana, Pusta Krsna ======
 
-<card class="letter">
 New York
 
 My dear Bali Mardan, Pusta Krishna
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

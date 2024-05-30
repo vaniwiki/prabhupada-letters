@@ -9,7 +9,6 @@
 
 ====== Krsna dasa ======
 
-<card class="letter">
 My dear Krishna Das,
 
 Please accept my blessings. I am in due receipt of your letter dated January 8, 1969, and I have noted the contents carefully.
@@ -26,4 +25,3 @@ I hope this finds you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

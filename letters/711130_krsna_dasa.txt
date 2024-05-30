@@ -9,7 +9,6 @@
 
 ====== Krsna dasa ======
 
-<card class="letter">
 My dear Krishna das,
 
 Please accept my blessings. I am in due receipt of your letter undated, wherein you inform me that you will be arriving soon in Hamburg. I am very pleased that you are determined to rectify whatever may have been done in the past, in order to push on in Krishna Consciousness to a very bright future. Never mind the past. Now you appear very enthusiastic to work in Europe, and that spirit of working in this way is very encouraging. So now you organize everything with Hansadutta and your godbrothers there so that this Movement may be spread very effectively in Europe. For a long time our centers in Europe have been suffering for want of literature and so many things. But now I see that in England things are going very nicely, and Hansadutta writes me that everything is improving in Germany, and I hear that new centers are being opened. This is all very good news to me, because I consider that these western countries are the most important field for our work. So now do this work in a gradually progressive manner, and do not be concerned too much even there may be some temporary setbacks. Because we are in this material world we are not perfect, and so these setbacks are natural occurrences and we should not be too much disturbed by them.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

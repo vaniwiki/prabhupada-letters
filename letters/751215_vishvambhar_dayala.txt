@@ -9,7 +9,6 @@
 
 ====== Vishvambhar Dayala ======
 
-<card class="letter">
 Sri Vishvambhar Dayala\\
 c/o Krishna Balarama Temple,\\
 Raman Reti, Vrindaban, (U.P.)
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

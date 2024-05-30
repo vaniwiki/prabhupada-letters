@@ -9,7 +9,6 @@
 
 ====== Gosainji ======
 
-<card class="letter">
 Vrindaban
 
 My dear Gosainji:
@@ -24,4 +23,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

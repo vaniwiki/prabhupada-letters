@@ -9,7 +9,6 @@
 
 ====== Hrsikesa ======
 
-<card class="letter">
 My dear Hrsikesa,
 
 Please accept my blessings. I was very much pleased to receive your letter of 3 February, 1969, and I have carefully noted all of the contents. Regarding the insurance money, if you are able to use it immediately, without waiting for two years, it will be a great boon. The best use of this money is for the constructing of so many living quarters in New Vrindaban. There are so many schemes pending in New Vrindaban, such as press, school, etc., and as soon as there is adequate accommodation facilities, we can at once begin work very fruitfully. So if you can immediately engage this $2600 in these plans it will be very much helpful. I have received one letter from Nara Narayana, and he has already drawn up the plans for the various buildings which are required to be constructed in New Vrindaban. Now as soon as the proper manpower and finances can be arranged, we can immediately start on this important task.
@@ -24,4 +23,3 @@ So I thank you again for your nice letter. Please convey my blessings to the oth
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

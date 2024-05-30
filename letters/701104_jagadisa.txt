@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 My dear Jagadisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 11 October, 1970, with enclosed news clippings, and I have noted them with great satisfaction.
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. I have not received the monthly $15 maintenance from any Canadian centers. Please see that this is sent in readily negotiable American Express checks, as personal checks take one to two months to clear.\\
 ACBS:sda
-</card>

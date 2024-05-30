@@ -8,7 +8,6 @@
 
 ====== Bhaja Hari ======
 
-<card class="letter">
 My dear Bhaja Hari,
 
 Please accept my blessings. I beg to acknowledge receipt of your encouraging report and I thank you very much for it.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
-</card>

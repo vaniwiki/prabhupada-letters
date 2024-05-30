@@ -9,7 +9,6 @@
 
 ====== Aksayananda ======
 
-<card class="letter">
 Vrindaban
 
 My dear Aksayananda,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
-</card>

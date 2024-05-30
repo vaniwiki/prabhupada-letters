@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Delhi
 
 My dear Gurudasa,
@@ -37,4 +36,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS:adb\\
 P.S. My dear Yamuna, please accept my blessings. Practically you are the leader of the party. Please let me know how things are going. Hope you are all well. ACB
-</card>

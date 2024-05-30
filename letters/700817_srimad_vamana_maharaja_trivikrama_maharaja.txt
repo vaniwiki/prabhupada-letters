@@ -9,7 +9,6 @@
 
 ====== Srimad Vamana Maharaja, Trivikrama Maharaja ======
 
-<card class="letter">
 Debananda Gaudiya Math\\
 Navadvipa
 
@@ -29,4 +28,3 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

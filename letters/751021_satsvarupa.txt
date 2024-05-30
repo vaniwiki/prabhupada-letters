@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 Los Angeles
 
 My dear Satsvarupa das Maharaja,
@@ -38,4 +37,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

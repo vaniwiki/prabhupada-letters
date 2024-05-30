@@ -9,7 +9,6 @@
 
 ====== George ======
 
-<card class="letter">
 London
 
 My dear George,
@@ -63,4 +62,3 @@ n.b. Regarding that house in London, I have not heard from my disciples for some
 
 ACBS\\
 ACBS/sda
-</card>

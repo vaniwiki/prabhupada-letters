@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 Taunus, West Germany
 
 My dear Hansadutta dasa,
@@ -26,4 +25,3 @@ A.C. Bhaktivedanta Swami
 cc: Atreya Rsi, Jayatirtha, Bhagavan.\\
 P.S. concerning the castle which you mentioned; if you can afford it then you can buy it.\\
 ACBS/pks
-</card>

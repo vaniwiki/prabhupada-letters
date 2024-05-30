@@ -9,7 +9,6 @@
 
 ====== Sridama ======
 
-<card class="letter">
 Miami
 
 My dear Sridama,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

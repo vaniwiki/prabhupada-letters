@@ -9,7 +9,6 @@
 
 ====== Gurukrpa ======
 
-<card class="letter">
 My dear Gurukrpa,
 
 Please accept my blessings. I beg to thank you for your letter dated 30 March, 1977.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
-</card>

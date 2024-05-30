@@ -9,7 +9,6 @@
 
 ====== Randas Agrawal ======
 
-<card class="letter">
 Sriman Randas Agrawal\\
 Dewas Kothi\\
 Sanyogitaganj\\
@@ -25,4 +24,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

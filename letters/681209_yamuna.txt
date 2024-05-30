@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 My dear Yamuna,
 
 Please accept my blessings. I thank you so much for letter of November 30, 1968 and the glorious sentiments you have expressed therein. I am so glad to read that you are doing very well and keeping always engaged. This is the key to elevating in Krishna Consciousness that we always keep our thoughts, our words and our actions centered around our life and soul, this being Krishna. If we remember to practice this process then automatically all distresses and botherations will become nil. So I am very encouraged that all of you are progressing in learning this technique.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I have received the newspaper cuttings for Prahlada %%__%%
-</card>

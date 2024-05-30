@@ -9,7 +9,6 @@
 
 ====== ISKCON Amsterdam ======
 
-<card class="letter">
 TO ISKCON AMSTERDAM:
 
 My dear Bala Gopala, Robert, Douglas, David, Jan, Jean, Vivienne, Thop, Madhavi Lata, Robert, Vivienne Dich, Robert Taylor, May, Dhananjaya, Geraldine, etc.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

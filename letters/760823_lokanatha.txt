@@ -9,7 +9,6 @@
 
 ====== Lokanatha ======
 
-<card class="letter">
 Vrindaban
 
 My dear Lokanatha Maharaja,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 nb.---the initiations may be done when I reach Vrndavana.\\
 ACBS/hs
-</card>

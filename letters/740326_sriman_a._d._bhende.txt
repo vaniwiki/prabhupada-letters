@@ -9,7 +9,6 @@
 
 ====== Sriman A. D. Bhende ======
 
-<card class="letter">
 Bombay
 
 Dear Sriman A.D. Bhende;
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mangalanand Goutam ======
 
-<card class="letter">
 Sri Mangalanand Goutam\\
 Jama Musjid Dispensary\\
 Delhi-6
@@ -22,4 +21,3 @@ Kindly return back the order book & the receipt book for bearer & oblige.
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

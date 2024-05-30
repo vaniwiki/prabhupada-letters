@@ -9,7 +9,6 @@
 
 ====== Svarupa Damodara ======
 
-<card class="letter">
 Atlanta
 
 My dear Svarupa Damodara Das,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

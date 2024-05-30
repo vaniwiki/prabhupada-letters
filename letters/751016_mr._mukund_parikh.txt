@@ -9,7 +9,6 @@
 
 ====== Mr. Mukund Parikh ======
 
-<card class="letter">
 Mukund Parikh,\\
 838, Mohinoor Court,\\
 Gaithersburg, Maryland 20760
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

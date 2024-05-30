@@ -9,7 +9,6 @@
 
 ====== Jayatirtha ======
 
-<card class="letter">
 My dear Jayatirtha;
 
 Please accept my blessings. Regarding the ISKCON Gurukula presently situated in Dallas---The Gurukula must be based on the principle of renunciation; vairagya vidya nija bhakti yogam [[books:cc:madhya:6:254|(Cc. Madhya 6.254)]]. Bhakti is based on the principle of the renunciation of material desires beginning from the earliest age; __kaumaram acaret prajna dharman bhagavatan iha__ [[books:sb:7:6:1|(SB 7.6.1)]]. From the very beginning, a boy must be trained to perform devotional service to the Supreme Personality of Godhead, and not to be attached as the fruitive workers, the karmis, to the so-called fallible soldiers; __dehapatya kalatradisu atma-sainyesu asatsv api tesam prammato nidhanam pasyanapi na pasyati__ [[books:sb:2:1:4|(SB 2.1.4)]]. The karmis are attached too much to their bodies, children and wives, who are like fallible fighting soldiers who must ultimately be destroyed. Although they are sufficiently experienced, they still cannot see this.
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hd
-</card>

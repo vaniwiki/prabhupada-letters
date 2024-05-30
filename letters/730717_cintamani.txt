@@ -9,7 +9,6 @@
 
 ====== Cintamani ======
 
-<card class="letter">
 New Vrindaban
 
 Dear Cintamani dasi,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

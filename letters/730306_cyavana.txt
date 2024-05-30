@@ -9,7 +9,6 @@
 
 ====== Cyavana ======
 
-<card class="letter">
 My dear Cyavana:
 
 Please accept my blessings and I beg to acknowledge receipt of your letter dated the 10th of February. There has been some delay in replying because of my travels. I have just arrived here a few days ago and by the 15th I shall be going to Mayapur.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
-</card>

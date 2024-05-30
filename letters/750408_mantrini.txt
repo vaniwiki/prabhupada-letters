@@ -9,7 +9,6 @@
 
 ====== Mantrini ======
 
-<card class="letter">
 London
 
 My dear Mantrini dasi,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

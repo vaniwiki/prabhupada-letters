@@ -9,7 +9,6 @@
 
 ====== Madhava Maharaja ======
 
-<card class="letter">
 Puri
 
 My dear Sripada Madhava Maharaja,
@@ -29,4 +28,3 @@ I hope this meets you in good health, and thanking you in anticipation for an ea
 Yours obediently,\\
 A.C. Bhaktivedanta Svami\\
 ACBS/ps
-</card>

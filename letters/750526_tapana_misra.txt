@@ -9,7 +9,6 @@
 
 ====== Tapana Misra ======
 
-<card class="letter">
 Natural Sky\\
 Alameda, California
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

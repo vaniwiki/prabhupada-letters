@@ -9,7 +9,6 @@
 
 ====== Vrndavana Candra ======
 
-<card class="letter">
 Los Angeles
 
 My dear Vrndavana Candra,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 *Some instructive stories from Bhagavatam may be played before the general public.\\
 ACBS/adb
-</card>

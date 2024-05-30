@@ -9,7 +9,6 @@
 
 ====== Hrdayananda ======
 
-<card class="letter">
 Sao Paulo, Brazil
 
 My dear Hrdayananda Swami:
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

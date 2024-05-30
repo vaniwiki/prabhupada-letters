@@ -9,7 +9,6 @@
 
 ====== Taittiriya ======
 
-<card class="letter">
 Brooklyn
 
 My dear Taittiriya,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

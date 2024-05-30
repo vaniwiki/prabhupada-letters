@@ -9,7 +9,6 @@
 
 ====== Prosanta Mukherjee ======
 
-<card class="letter">
 Sri Prosanta Mukherjee\\
 Imlitala, Mahaprabhu's Gadi\\
 Seva Kunj, Vrindaban\\
@@ -22,4 +21,3 @@ Please accept my greetings and blessings of Lord Krishna. This is to inform you 
 Sincerely yours,
 
 A.C. Bhaktivedanta Swami
-</card>

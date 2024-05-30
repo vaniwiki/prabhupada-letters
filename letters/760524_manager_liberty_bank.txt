@@ -9,7 +9,6 @@
 
 ====== Manager, Liberty Bank ======
 
-<card class="letter">
 The Manager,\\
 Liberty Bank,\\
 Main Branch,\\
@@ -44,4 +43,3 @@ cc: Mr. Dutta.
 ACB/PKS
 
 triplicate
-</card>

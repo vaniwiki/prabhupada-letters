@@ -9,7 +9,6 @@
 
 ====== Jayadharma ======
 
-<card class="letter">
 439 Henry Street\\
 Brooklyn New York
 
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/mda
-</card>

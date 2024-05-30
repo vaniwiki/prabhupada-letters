@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 Dear Mukunda,
 
 With reference to our telephone conversation, I beg to enclose herewith three photo-offset copies of certificates.
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACB:kdb\\
 Enclosures 6
-</card>

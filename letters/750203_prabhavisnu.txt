@@ -9,7 +9,6 @@
 
 ====== Prabhavisnu ======
 
-<card class="letter">
 London
 
 My dear Prabha Visnu das,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. I have just received your letter (signed by several persons) dated Jan. 27, 1975 and have noted the contents. Hansadutta will be coming there shortly. We shall decide about the permanent management arrangement when I come there in March.\\
 ACBS/ps
-</card>

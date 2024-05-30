@@ -9,7 +9,6 @@
 
 ====== Jayapataka ======
 
-<card class="letter">
 Mayapur
 
 My dear Jayapataka,
@@ -31,4 +30,3 @@ A.C. Bhaktivedanta Swami
 
 *enclosed herewith\\
 ACBS/as
-</card>

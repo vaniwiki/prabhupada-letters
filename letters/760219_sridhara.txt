@@ -9,7 +9,6 @@
 
 ====== Sridhara ======
 
-<card class="letter">
 Calcutta
 
 My dear Sridhara Maharaja,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

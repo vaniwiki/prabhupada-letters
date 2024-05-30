@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna, Syamasundara ======
 
-<card class="letter">
 Bombay
 
 My dear Tamala Krishna and Syamasundara,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

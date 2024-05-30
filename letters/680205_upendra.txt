@@ -9,7 +9,6 @@
 
 ====== Upendra ======
 
-<card class="letter">
 San Bruno, California
 
 My dear Upendra,
@@ -24,4 +23,3 @@ Hope you are feeling well. And I hope you are receiving proper food there also.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sivananda ======
 
-<card class="letter">
 My dear Sivananda Prabhu,
 
 Please accept my greetings. I am very glad to receive your Bengali letter, and I hope; you will excuse me that I am replying you in English, because it saves much of my time. I have already advised the editor of __Back To Godhead__ to send you copies of the paper regularly. The subscription fee is $5.00 per 12 issues, and you can send the exchange to the following address: ISKCON PRESS, 504 East 6th Avenue, New York, NY 10003. Please include your distinct name and address, so you will get the paper regularly.
@@ -22,4 +21,3 @@ I will be happy to hear from you again soon. Hope this will find you in good hea
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
-</card>

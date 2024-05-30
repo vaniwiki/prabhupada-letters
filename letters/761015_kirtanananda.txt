@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 My dear Kirtanananda Maharaja,
 
 Please accept my blessings. I am in due receipt of your letter dated October 1, 1976 and have noted the contents carefully.
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Jabier Rodriguez has been accepted by me as a duly initiated disciple, his name is Jaya Caitanya. Enclosed please find one Brahmin thread for the second initiate, and a mantra sheet, other may make copy.
-</card>

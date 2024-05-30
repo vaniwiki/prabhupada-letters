@@ -9,7 +9,6 @@
 
 ====== Radhavallabha ======
 
-<card class="letter">
 My dear Radhavallabha,
 
 Please accept my blessings.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
-</card>

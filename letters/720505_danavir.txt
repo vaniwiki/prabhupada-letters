@@ -9,7 +9,6 @@
 
 ====== Danavir ======
 
-<card class="letter">
 Portland
 
 My dear Danavir,
@@ -21,4 +20,3 @@ Hoping this will meet you in good health and happy mood.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS/nkd
-</card>

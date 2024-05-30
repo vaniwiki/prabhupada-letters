@@ -9,7 +9,6 @@
 
 ====== Girish ======
 
-<card class="letter">
 My dear Girish,
 
 Please accept my blessings. I have received your letter of November 30, 1968 and have noted the contents with pleasure.
@@ -22,4 +21,3 @@ Thank you again for your nice letter and I hope that you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

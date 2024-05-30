@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 Paris
 
 My dear Bhagavan Prabhu,
@@ -65,4 +64,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

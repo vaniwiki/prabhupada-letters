@@ -9,7 +9,6 @@
 
 ====== Manasvi ======
 
-<card class="letter">
 Honolulu
 
 My dear Manasvi dasa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

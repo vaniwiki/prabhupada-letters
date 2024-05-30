@@ -9,7 +9,6 @@
 
 ====== Stephen Graham ======
 
-<card class="letter">
 Dunblane Stirlingshire, Scotland
 
 Dear Stephen Graham:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

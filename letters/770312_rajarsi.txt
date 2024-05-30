@@ -9,7 +9,6 @@
 
 ====== Rajarsi ======
 
-<card class="letter">
 Escondido, California
 
 My dear Rajarsi,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

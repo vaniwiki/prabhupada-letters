@@ -9,7 +9,6 @@
 
 ====== Svarupa Damodara ======
 
-<card class="letter">
 Manipur
 
 My dear Svarupa Damodara dasa:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

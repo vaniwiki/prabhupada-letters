@@ -9,7 +9,6 @@
 
 ====== Purusottama ======
 
-<card class="letter">
 New York
 
 My dear Purusottama,
@@ -24,4 +23,3 @@ I have no overwork; I am not working materially. Thanking you once more for your
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

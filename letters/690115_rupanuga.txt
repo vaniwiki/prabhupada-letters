@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I was very much anxious to receive your letter since I did not hear from you for a long period. But I always know that you are doing your duty nicely. Recently, Hayagriva came from Columbus, and he remained with me for more than a fortnight. He was assisting me in editing __Srimad-Bhagavatam.__ Now he is married with Syama Dasi and has returned to New Vrindaban with his many responsibilities.
@@ -24,4 +23,3 @@ Please convey my blessings to all others in Buffalo temple. I hope this finds yo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Seth Mangumal Amarsingh ======
 
-<card class="letter">
 Seth Mangumal Amarsingh\\
 345, Kalvadevi Road, 4th Floor,\\
 Bombay.
@@ -27,4 +26,3 @@ The League of Devotees is registered to make this movement in an organized way a
 Awaiting an early reply and thanking you in anticipation.
 
 Yours faithfully,
-</card>

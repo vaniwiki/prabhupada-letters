@@ -9,7 +9,6 @@
 
 ====== Mr. Raja Sajid Husain ======
 
-<card class="letter">
 Raja Sajid Husain,\\
 Chairman, Indian Humanist Union,\\
 Kotwara House, Kaisarbagh,\\
@@ -37,4 +36,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

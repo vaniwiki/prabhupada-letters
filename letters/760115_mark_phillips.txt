@@ -9,7 +9,6 @@
 
 ====== Mark Phillips ======
 
-<card class="letter">
 Mark Phillips\\
 Darkwood, Australia
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

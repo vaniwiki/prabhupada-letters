@@ -9,7 +9,6 @@
 
 ====== Dhruba Charan Pattanaik ======
 
-<card class="letter">
 Shri Dhruba Charan Pattanaik,\\
 Vill: Tamandoo,\\
 P.O. Tamandoo, via Janla,\\
@@ -34,4 +33,3 @@ cc Sriman Bhagawat das Brahmachari,\\
 President, ISKCON Bhubaneswar
 
 ACBS/tkg
-</card>

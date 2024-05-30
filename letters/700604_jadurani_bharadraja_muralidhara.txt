@@ -9,7 +9,6 @@
 
 ====== Jadurani, Bharadraja, Muralidhara ======
 
-<card class="letter">
 Boston
 
 My dear Jadurani, Bharadraja, and Muralidhara,
@@ -30,4 +29,3 @@ Hope this will meet you all in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

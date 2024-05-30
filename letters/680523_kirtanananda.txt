@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 Moundsville
 
 My dear Kirtanananda Swami,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Sriman Umapati's doing very well in L.A.
-</card>

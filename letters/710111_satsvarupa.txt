@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your several letters and ISKCON Press Newsletters dated 13, 16 and 27th December, 1970, and noted the contents. I have been travelling considerably and the preaching work is taking up all of our time; so our tour in India is very much welcomed by the people, but I have not the opportunity to write my correspondence very often.
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. What action you have taken on the Mayavadi Sannyasi?
-</card>

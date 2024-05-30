@@ -9,7 +9,6 @@
 
 ====== Nalinikanta ======
 
-<card class="letter">
 My dear Nalini Kanta,
 
 Please accept my blessings. I beg to thank you for your letter dated April 12th, 1977. Thank you very much for the donation of 50 dollars.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
-</card>

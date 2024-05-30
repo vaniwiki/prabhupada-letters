@@ -9,7 +9,6 @@
 
 ====== Bank of Baroda ======
 
-<card class="letter">
 Bank of Baroda\\
 P.O. Box No. 313\\
 India Exchange\\
@@ -36,4 +35,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sushil Kumar Arora ======
 
-<card class="letter">
 Mr. Sushil Kumar Arora\\
 Golden Lotus Limited\\
 P.O. Box 761 Station A\\
@@ -31,4 +30,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/tkg
-</card>

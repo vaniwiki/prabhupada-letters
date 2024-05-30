@@ -9,7 +9,6 @@
 
 ====== Hit Sharanji ======
 
-<card class="letter">
 Scindia House\\
 New Delhi, India
 
@@ -27,4 +26,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mr. Punja ======
 
-<card class="letter">
 Lautoka, Fiji
 
 My dear Mr. Punja:
@@ -23,4 +22,3 @@ Sincerely yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

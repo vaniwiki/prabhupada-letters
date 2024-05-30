@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -33,4 +32,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. In regards to your letter dated 18th January, 1971, I remember that Tamala Krishna and I made some joint savings account some time ago. Tamala is in Calcutta and I am here in Bombay, but if you will let me know the number of the account, then we can jointly sign to transfer the money from that account. ACB\\
 ACBS:ds
-</card>

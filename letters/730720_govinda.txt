@@ -9,7 +9,6 @@
 
 ====== Govinda ======
 
-<card class="letter">
 Hawaii
 
 Dear Govinda dasi,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

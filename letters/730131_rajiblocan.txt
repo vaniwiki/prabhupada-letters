@@ -9,7 +9,6 @@
 
 ====== Rajiblocan ======
 
-<card class="letter">
 Miami
 
 My dear Rajiblocan das,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bmdg
-</card>

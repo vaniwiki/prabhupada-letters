@@ -9,7 +9,6 @@
 
 ====== Govinda Maharaja ======
 
-<card class="letter">
 His Holiness Sripada Bhakti Sundar Govinda Maharaja\\
 Sri Caitanya Saraswat Math\\
 Kolergunj\\
@@ -30,4 +29,3 @@ Hope you are well. Vrindaban wanted to live with me and so he has come here from
 
 Yours affectionately,\\
 A.C. Bhaktivedanta
-</card>

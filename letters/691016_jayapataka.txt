@@ -9,7 +9,6 @@
 
 ====== Jayapataka ======
 
-<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I beg to inform you that I have received a letter from the Gaudiya Mission, Calcutta, in which they write to say as follows:
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 enc: 2 pictures
-</card>

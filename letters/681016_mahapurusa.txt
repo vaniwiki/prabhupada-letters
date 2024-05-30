@@ -9,7 +9,6 @@
 
 ====== Mahapurusa ======
 
-<card class="letter">
 Honolulu
 
 My dear Mahapurusa,
@@ -18,4 +17,3 @@ Please accept my blessings. I thank you very much for your letter dated 11th Oct
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Prahladananda ======
 
-<card class="letter">
 Austin, Texas
 
 My dear Prahladananda,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

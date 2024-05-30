@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter dated December 23rd, 1970, Along with a press letter. I am very glad that Advaita has come back to his position, but I am very much concerned that there is a Mayavadi Sannyasi among yourselves. According to Caitanya Mahaprabhu, anything spoken by the Mayavadis is very, very dangerous. If the Sannyasi who has come to our shelter becomes clean shaved and keeps a sikha with beads on his neck and chants Hare Krsna Mantra 16 rounds at least and changes his dress, then he can be allowed to stay with us. Until six months pass he cannot lecture in the meetings. On these conditions, he can render us service in the matter of Sanskrit composition, otherwise there is no need of him. Please take immediate steps in this connection and let me know what you have done in this matter.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

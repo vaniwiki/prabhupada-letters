@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 5, 1972, and I have noted the contents carefully. There seem to be vast discrepancies between your figures and those of Karandhara. For instance, he reports that since first of January, 1972, New York has remitted only $1243 to BTG Fund and $1538.20 to Book Fund, leaving balances due to BTG and Book Funds of $4571.05 and $5235.90 respectively. But you say your BTG debt is only $1,620 and BKF debt is only $3,897. If you are selling daily average of 2,000 literatures, why so little money is being paid by you on these debts? 60,000 pieces of literature per month means you should send the entire amount collected until this debt is completely eliminated. It is not good if such big temples who are setting the example for the whole Society do not pay their bills. This is most irregular. I am trying to retire from the administrative affairs, but if the presidents and GBC men make such disturbances then how I can be peaceful? Things should be maintained automatically, then it will be peaceful for me.
@@ -22,4 +21,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

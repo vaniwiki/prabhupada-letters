@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I have not heard from you in a long time. I hope you are well and things are going on nicely there at our Dallas center. How are the property transactions going on?
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS/adb\\
 c/o ISKCON Dallas
-</card>

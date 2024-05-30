@@ -9,7 +9,6 @@
 
 ====== Vrnda ======
 
-<card class="letter">
 Winnipeg, Canada
 
 Dear Vrnda devi dasi,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

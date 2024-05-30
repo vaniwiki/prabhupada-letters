@@ -9,7 +9,6 @@
 
 ====== Dr. Ghosh ======
 
-<card class="letter">
 Allahabad
 
 My dear Dr. Ghosh;
@@ -52,4 +51,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

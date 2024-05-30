@@ -9,7 +9,6 @@
 
 ====== Sri Govinda ======
 
-<card class="letter">
 Chicago
 
 My dear Sri Govinda,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

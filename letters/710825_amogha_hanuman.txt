@@ -9,7 +9,6 @@
 
 ====== Amogha, Hanuman ======
 
-<card class="letter">
 Malaysia
 
 My dear Amogha and Hanuman,
@@ -30,4 +29,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

@@ -9,7 +9,6 @@
 
 ====== Harikesa ======
 
-<card class="letter">
 Frankfurt
 
 Dear Harikesa Swami,
@@ -26,4 +25,3 @@ If you are getting people to chant and take prasadam in Eastern European countri
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mahatma Gandhi ======
 
-<card class="letter">
 
 
 Mahatma Gandhijee\\
@@ -48,4 +47,3 @@ Yours sincerely,\\
 Abhay Charan De.
 
 Enclosure---one leaf from Back to Godhead
-</card>

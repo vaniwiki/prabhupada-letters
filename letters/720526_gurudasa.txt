@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Vrndavana
 
 My dear Guru das,
@@ -29,4 +28,3 @@ Hoping this will meet you in good health.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami,\\
 ACB/sda
-</card>

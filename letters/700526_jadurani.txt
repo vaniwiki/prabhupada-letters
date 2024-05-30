@@ -9,7 +9,6 @@
 
 ====== Jadurani ======
 
-<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated "nil" regarding paintings for the KRSNA book.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

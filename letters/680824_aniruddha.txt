@@ -9,7 +9,6 @@
 
 ====== Aniruddha ======
 
-<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I am in due receipt of your three letters, dated August 19, August 13, and July 25. I beg to thank you very much for them. After the postal strike is over, there are so many letters congested and therefore, I am sorry that I am late to reply your letter. But I have carefully seen the contents of the three letters and I understand that you are moving near Hollywood vicinity, and some of the devotees from San Francisco are going to your place to join Sankirtana and I am sure this will be a great successful attempt. I also understand that Sankarsana is coming to the temple, but Baladeva. has ceased to come on account of influence of his wife. But if you let me know his address, I can write to him personally.
@@ -26,4 +25,3 @@ Hope this will meet you in good health, and I shall be glad to hear more from yo
 
 Yours ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mr. Asnani ======
 
-<card class="letter">
 Bombay
 
 My dear Mr. Asnani:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

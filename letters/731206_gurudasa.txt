@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 My dear Guru das,
 
 Please accept my blessings. I have just received a note from the Punjab National Bank, a copy of which is enclosed. The thing is I sent Rs. 676 to my account in Vrindaban at the Punjab National Bank. They have acknowledged receipt but they say my account is closed. Now, last year when I was in India I closed one account and opened another with a deposit of Rs. 2,000. So why do they say my account is closed? My account book is not with me so I cannot give you the details but you kindly inquire there what is the position.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
-</card>

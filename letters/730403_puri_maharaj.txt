@@ -9,7 +9,6 @@
 
 ====== Puri Maharaj ======
 
-<card class="letter">
 ISKCON Los Angeles
 
 3764 Watseka Ave.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bmdg 
-</card>

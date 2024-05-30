@@ -9,7 +9,6 @@
 
 ====== Vishvambar Dayala ======
 
-<card class="letter">
 Sri Vishvambar Dayala,\\
 Raman Reti,\\
 Vrindaban, Mathura (U.P.)
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 *received with thanks Rs. 53,000-00 in cash.\\
 ACBS/AKS
-</card>

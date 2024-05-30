@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 My dear Jagadisa,
 
 Please accept my blessings. I am in due receipt of your letters dated 10th, 20th, 25th and 29th December, 1970, and have noted the contents carefully. Also I have received the conchshell necklace made by Laksmimoni. It is very nice. Please thank her.
@@ -32,4 +31,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

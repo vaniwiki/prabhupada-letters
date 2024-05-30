@@ -9,7 +9,6 @@
 
 ====== Puranjana ======
 
-<card class="letter">
 Amsterdam
 
 My dear Puranjana,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

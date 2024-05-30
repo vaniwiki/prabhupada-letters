@@ -9,7 +9,6 @@
 
 ====== Sumati Morarjee ======
 
-<card class="letter">
 Madam Sumati Morarji Baisaheba,
 
 Please accept my greetings. Hope everything is well with you. Kindly refer to your letter of 22nd November 1966 in which you ask me two copies of my Srimad-Bhagavatam. I had some books in Bombay c/o the Universal Book House, Dadar and I advised them to deliver you the books. It is understood that they have delivered all the books to your office. I would therefore request you to take as many books as you may require and the balance out of 126 books may be booked to New York by any one of your ships.
@@ -22,4 +21,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 Enclosures:3
-</card>

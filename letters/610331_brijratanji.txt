@@ -9,7 +9,6 @@
 
 ====== Brijratanji ======
 
-<card class="letter">
 Bombay
 
 My dear Brijratanji,
@@ -54,4 +53,3 @@ Fort Bombay-1.
 N.B. If you want take my assistance in any matter to be executed at Japan, I shall consider it my duty to do without any obligation on your part,
 
 Yours etc.
-</card>

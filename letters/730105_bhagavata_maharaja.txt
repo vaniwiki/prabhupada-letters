@@ -9,7 +9,6 @@
 
 ====== Bhagavata Maharaja ======
 
-<card class="letter">
 The in-Charge,\\
 Sri Bhagavata Maharaja,\\
 The Gaudiya Mission,\\
@@ -31,4 +30,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

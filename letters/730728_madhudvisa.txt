@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa Swami,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated July 13.73. and have noted the contents carefully.
@@ -28,4 +27,3 @@ I hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

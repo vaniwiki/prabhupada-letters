@@ -9,7 +9,6 @@
 
 ====== Jayadharma ======
 
-<card class="letter">
 Atlanta
 
 My dear Jayadharma,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:sda
-</card>

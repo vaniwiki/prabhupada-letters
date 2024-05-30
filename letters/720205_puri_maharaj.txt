@@ -9,7 +9,6 @@
 
 ====== Puri Maharaj ======
 
-<card class="letter">
 (handwritten:) replied on 11/2/72
 
 Camp:“Akash Ganga,” 7th floor,
@@ -40,4 +39,3 @@ Aryapuram-Rajahmundry-1,
 E. Godavari (A.P.)
 
 ACBS/sda
-</card>

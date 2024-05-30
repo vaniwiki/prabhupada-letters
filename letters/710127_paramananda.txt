@@ -9,7 +9,6 @@
 
 ====== Paramananda ======
 
-<card class="letter">
 New Vrindaban
 
 My dear Paramananda,
@@ -22,4 +21,3 @@ Please offer my blessings to the others there. Hoping this will meet you in good
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

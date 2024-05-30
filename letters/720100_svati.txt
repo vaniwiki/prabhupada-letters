@@ -9,7 +9,6 @@
 
 ====== Svati ======
 
-<card class="letter">
 My dear Svati dasi,
 
 Please accept my blessings. I have duly received your letter undated and have noted the contents carefully.
@@ -24,4 +23,3 @@ Hoping this meets you in good health and happy mood,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

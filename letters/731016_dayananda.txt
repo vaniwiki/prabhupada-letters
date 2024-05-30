@@ -9,7 +9,6 @@
 
 ====== Dayananda ======
 
-<card class="letter">
 Dallas
 
 My dear Dayananda Das:
@@ -30,4 +29,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

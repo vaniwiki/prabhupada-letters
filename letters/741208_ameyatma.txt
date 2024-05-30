@@ -9,7 +9,6 @@
 
 ====== Ameyatma ======
 
-<card class="letter">
 Los Angeles
 
 My dear Ameyatma dasa:
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

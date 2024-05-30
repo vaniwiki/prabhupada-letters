@@ -9,7 +9,6 @@
 
 ====== Shyama Dasi ======
 
-<card class="letter">
 Srimati Shama Devi Dasi\\
 c/o New Vrindaban\\
 R.D. 3, Moundsville, W. Va. 26041
@@ -29,4 +28,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

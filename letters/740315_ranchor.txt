@@ -9,7 +9,6 @@
 
 ====== Ranchor ======
 
-<card class="letter">
 Manchester, England
 
 Dear Ranchor,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

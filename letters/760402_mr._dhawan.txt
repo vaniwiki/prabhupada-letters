@@ -9,7 +9,6 @@
 
 ====== Mr. Dhawan ======
 
-<card class="letter">
 Mr. Dhawan\\
 Sunenri Dham\\
 Mohalla Dehra,\\
@@ -47,4 +46,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

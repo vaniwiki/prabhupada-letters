@@ -9,7 +9,6 @@
 
 ====== Dr. Bhatt ======
 
-<card class="letter">
 Boston University
 
 Dear Dr. Bhatt,
@@ -22,4 +21,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Cyavana ======
 
-<card class="letter">
 Nairobi
 
 My dear Cyavana,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

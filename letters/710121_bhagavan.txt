@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 My dear Bhagavan das,
 
 Please accept my blessings. I am in due receipt of your letter dated 4th January, 1971 and have noted the contents carefully. I am so glad to hear how things are going on so nicely in all the temples under your supervision as GBC member. I am also pleased to note that Bahulasva has taken charge of our Chicago center. He is certainly qualified and should be encouraged in every way.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

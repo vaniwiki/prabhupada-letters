@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 New York
 
 My dear Brahmananda,
@@ -20,4 +19,3 @@ So far Teachings of Lord Caitanya is concerned, everything has been very encoura
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I thank you very much for sending me a record player by air freight, but since you have not mentioned that it is an unsolicited gift, customs has raised objections & they want to levy duty to the extent of 100 Rs. Please immediately send a letter addressed to Calcutta Customs stating that the record player was sent to me as an unsolicited gift. Send the letter to:
@@ -18,4 +17,3 @@ S.K. Dutta, 76 Durga Charan Doctor Rd., Calcutta, 14. Also please let me know if
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
-</card>

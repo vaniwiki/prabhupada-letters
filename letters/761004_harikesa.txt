@@ -9,7 +9,6 @@
 
 ====== Harikesa ======
 
-<card class="letter">
 Germany
 
 My dear Harikesa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/as
-</card>

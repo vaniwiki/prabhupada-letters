@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 Vrndavana
 
 My dear Tamala Krishna,
@@ -28,4 +27,3 @@ A.C. Bhaktivedanta Swami
 ACBS/sda\\
 n.b. Enclosed please find the copy of my letter to that Swami in Haridwar, who has invited our party in April. Kindly contact him and make all arrangements. His address is Sri Swami Mahesawardev Shastri Gopala Dham, Jessa Ram Road, Haridwar (U.P.), phone 114.\\
 A.C. B.S.
-</card>

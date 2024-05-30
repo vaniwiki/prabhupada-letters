@@ -9,7 +9,6 @@
 
 ====== Dr. W.H. Wolf-Rottkay ======
 
-<card class="letter">
 Dr. W.H. Wolf-Rottkey\\
 12915 Venice Blvd., Apt. 37\\
 Los Angeles (Marvista), California 90066
@@ -30,4 +29,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

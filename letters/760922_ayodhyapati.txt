@@ -9,7 +9,6 @@
 
 ====== Ayodhyapati ======
 
-<card class="letter">
 Toronto
 
 My dear Ayodhyapati das,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 My dear Bhagavan dasa,
 
 Please accept my blessings. I am in due receipt of your letter dated 11/5/73, and I have carefully noted the contents.
@@ -22,4 +21,3 @@ Hoping this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

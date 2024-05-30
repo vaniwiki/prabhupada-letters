@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 Boston
 
 My dear Gargamuni Maharaja,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

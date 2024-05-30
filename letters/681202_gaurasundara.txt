@@ -9,7 +9,6 @@
 
 ====== Gaurasundara ======
 
-<card class="letter">
 My dear Gaurasundara,
 
 Please accept my blessings. I have just today received your most recent letter of November 30th, 1968 and have noted the contents with pleasure. We have registered the Hawaii address given by you.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Your drawings on Prahlada Maharaja are being published in London papers regularly. It has %%____%% nice. I hope you have received the copy. ACB
-</card>

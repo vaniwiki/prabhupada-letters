@@ -9,7 +9,6 @@
 
 ====== Mr. Aubrey L. Duke ======
 
-<card class="letter">
 Mr. Aubrey L. Duke\\
 Chief of Police\\
 City of Cypress\\
@@ -24,4 +23,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

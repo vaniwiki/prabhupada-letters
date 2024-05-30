@@ -9,7 +9,6 @@
 
 ====== Krsna dasa ======
 
-<card class="letter">
 My dear Krsna das,
 
 Please accept my blessings. I beg to thank you for your letter dated October 27th, 1970, and noted the contents with interest. I am very glad that by Krsna's grace you have secured a very nice place in Berlin for our Temple there and with Sivananda in charge I am sure things will go on well there. I am so glad to hear that in Hamburg your program is going on smoothly. Always work cooperatively, in Krsna Consciousness, without any self-motivation, and your progress towards the perfectional stage of Krsna Conscious life is ascertained.
@@ -22,4 +21,3 @@ Please offer my blessings to your good wife and all the other devotees there. Ho
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

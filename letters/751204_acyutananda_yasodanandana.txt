@@ -9,7 +9,6 @@
 
 ====== Acyutananda, Yasodanandana ======
 
-<card class="letter">
 Hyderabad
 
 My dear Acyutananda and Yasodanandana Swami,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

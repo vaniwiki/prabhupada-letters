@@ -9,7 +9,6 @@
 
 ====== M. L. Chand ======
 
-<card class="letter">
 Sri M. L. Chand\\
 Dalmia Cement (B) Ltd.\\
 4-D, Dalhousie Sq. East\\
@@ -31,4 +30,3 @@ A.C. Bhaktivedanta Swami
 ACBS:ds\\
 c.c. To J. Dalmia, 4, Scindia House, New Delhi-1 for necessary action.\\
 ACBS:ds
-</card>

@@ -9,7 +9,6 @@
 
 ====== Central Bank of India ======
 
-<card class="letter">
 The Central Bank of India\\
 Calcutta
 
@@ -34,4 +33,3 @@ A.C. Bhaktivedanta Swami
 Founder-Acarya
 
 ACBS:tkda
-</card>

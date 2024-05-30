@@ -9,7 +9,6 @@
 
 ====== Tulsi ======
 
-<card class="letter">
 Taunus, West Germany
 
 My dear Tulsi Das,
@@ -26,4 +25,3 @@ I hope this letter meets you well.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

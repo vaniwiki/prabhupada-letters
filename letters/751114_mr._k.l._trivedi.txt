@@ -9,7 +9,6 @@
 
 ====== Mr. K.L. Trivedi ======
 
-<card class="letter">
 Mr. K.L. Trivedi\\
 1st Grade Assistant (Retired)\\
 General Administration Dept.\\
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

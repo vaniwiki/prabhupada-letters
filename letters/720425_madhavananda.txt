@@ -9,7 +9,6 @@
 
 ====== Madhavananda ======
 
-<card class="letter">
 My dear Madhavananda
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated April 3, 1972, and I have noted the contents with pleasure. I am very much engladdened to hear that you are arranging nice engagements in Calcutta, especially in the schools. This is a very important program, so do it nicely. So far the report of other things, it is all very good news. Especially you may try for wholesale book distributing through Rupa and Co., and you may inform them that yesterday 1,500 3-volume sets, or 4,500 books, of paperback-size Krishna Books were dispatched to Bombay from here, and that in the near future many more books are to be shipped to India, so there will be always regular supply. All money collected from these books can be used in building there in India, you have not got to pay for them, so try to increase sales in this way and practically you can finance Mayapur in this way.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

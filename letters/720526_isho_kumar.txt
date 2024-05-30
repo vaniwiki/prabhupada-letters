@@ -9,7 +9,6 @@
 
 ====== Isho Kumar ======
 
-<card class="letter">
 Sriman Isho Kumar Puri\\
 c/o Atmaram & Sons, Book Publishers\\
 Kashmiri Gate, Delhi-6, INDIA
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
-</card>

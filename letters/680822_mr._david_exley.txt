@@ -9,7 +9,6 @@
 
 ====== Mr. David Exley ======
 
-<card class="letter">
 Mr. David Exley\\
 Chief, NGO Section\\
 External Relations Division\\
@@ -26,4 +25,3 @@ Sincerely yours,
 A.C. Bhaktivedanta Swami,
 
 Acarya International Society for Krishna Consciousness
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bhurijana ======
 
-<card class="letter">
 Hong Kong
 
 My dear Bhurijana,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

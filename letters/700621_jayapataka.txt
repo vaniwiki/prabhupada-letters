@@ -9,7 +9,6 @@
 
 ====== Jayapataka ======
 
-<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I sent you one letter dated 14th June, 1970, the copy of which is enclosed herewith. So I do not know if you have received this letter.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

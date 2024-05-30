@@ -9,7 +9,6 @@
 
 ====== Prabhanu ======
 
-<card class="letter">
 Seattle
 
 My dear Prabhanu dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sri Birlaji ======
 
-<card class="letter">
 Bombay
 
 My dear Sri Birlaji,
@@ -34,4 +33,3 @@ Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

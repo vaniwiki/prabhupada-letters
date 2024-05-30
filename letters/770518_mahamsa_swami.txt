@@ -9,7 +9,6 @@
 
 ====== Mahamsa Swami ======
 
-<card class="letter">
 His Holiness Mahamsa Swami\\
 c/o ISKCON Hyderbad farm
 
@@ -38,4 +37,3 @@ His Holiness Mahamsa Swami\\
 c/o ISKCON Hyderbad farm
 
 ACBS/tkg
-</card>

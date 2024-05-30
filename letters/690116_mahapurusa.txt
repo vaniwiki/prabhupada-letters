@@ -9,7 +9,6 @@
 
 ====== Mahapurusa ======
 
-<card class="letter">
 My dear Mahapurusa,
 
 Please accept my blessings. I was very glad to receive your letter of January 11, 1969.
@@ -18,4 +17,3 @@ I have received good report that you are selling __Back To Godhead__ very nicely
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

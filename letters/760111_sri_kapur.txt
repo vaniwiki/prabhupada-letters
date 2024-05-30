@@ -9,7 +9,6 @@
 
 ====== Sri Kapur ======
 
-<card class="letter">
 International Foundation of Meditation\\
 44 Kailash Mandar,\\
 Kanpur
@@ -24,4 +23,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

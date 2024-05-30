@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 Kuala Lumpur, Malaysia
 
 My dear Bali-mardana,
@@ -22,4 +21,3 @@ Hoping to hear from you soon.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

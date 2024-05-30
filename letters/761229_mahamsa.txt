@@ -9,7 +9,6 @@
 
 ====== Mahamsa ======
 
-<card class="letter">
 Hyderabad
 
 My dear Mahamsa,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. What is the road like from Madras to Kodai Kanal. Is it a pakka road? Or is it not very good? Is it a winding and twisting road, going up into the mountains?\\
 ACBS/jda
-</card>

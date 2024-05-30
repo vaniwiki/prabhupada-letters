@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I am so glad to receive your letter dated Sept. 9, 1968, and I have noted the contents carefully. Previously I received one letter from Syamasundara as well as from Gurudasa. I have replied Syamasundara's letter already and I am subjoining herewith also the reply to Gurudasa.
@@ -22,4 +21,3 @@ I hope that the money which I sent from Montreal to the Charter Bank in account 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

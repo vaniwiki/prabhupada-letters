@@ -9,7 +9,6 @@
 
 ====== K. K. Birla ======
 
-<card class="letter">
 Sri K. K. Birla\\
 17, Gurusaday Road\\
 Calcutta-19
@@ -28,4 +27,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

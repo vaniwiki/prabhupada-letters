@@ -9,7 +9,6 @@
 
 ====== Balmukundji Parikh ======
 
-<card class="letter">
 London
 
 My dear Balmukundji Parikh,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nb
-</card>

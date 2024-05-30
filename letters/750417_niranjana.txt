@@ -9,7 +9,6 @@
 
 ====== Niranjana ======
 
-<card class="letter">
 P.K. Sjrovastava\\
 Dept. of Metallurgy\\
 Univ. of Strathclyde\\
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

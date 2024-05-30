@@ -9,7 +9,6 @@
 
 ====== Syamasundara Mullick ======
 
-<card class="letter">
 Sri Syamasundara Mullick\\
 155/A Mahatma Gandhi Road\\
 Calcutta-7, India
@@ -22,4 +21,3 @@ So if you send the khole, then this shipping corporation will ship the kholes, f
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
-</card>

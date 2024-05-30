@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 Atlanta
 
 My dear Rupanuga Maharaja:
@@ -31,4 +30,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 [PAGE MISSING]
-</card>

@@ -9,7 +9,6 @@
 
 ====== Prabhavati ======
 
-<card class="letter">
 My dear Prabhavati,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter sent along with your prayer beads. I am enclosing a copy of the list of offenses that should be avoided by a Vaisnava. Please try to observe avoiding these offenses as far as possible. Even if you may have committed some offense in the past, that is all right. Just try to follow the rules and regulations, and whatever offense you may have committee. will be excused by Lord Krishna. But in the future you should be very careful to keep yourself free from such offenses.
@@ -18,4 +17,3 @@ I hope this will find you well and in cheerful mood.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

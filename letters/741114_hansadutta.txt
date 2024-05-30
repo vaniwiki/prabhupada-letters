@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 Taunus, West Germany
 
 My dear Hansadutta dasa:
@@ -32,4 +31,3 @@ I hope this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Brian Marvin ======
 
-<card class="letter">
 Dear Brian Marvin,
 
 Please accept my blessings. I beg to acknowledge receipt of your long letter dated February 14, 1974 and I have examined the contents.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

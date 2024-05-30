@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 My dear Karandhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 9th June, 1971 addressed to Bombay as well as a copy of the letter addressed 3d June, 1971. Still I am here in Bombay and have not yet gone to London. My program is that on the 20th instant I will go to Moscow for five days and from there I will be going to Paris and London. I have inquired, but it doesn't seem that there are any direct flights available from Moscow to Los Angeles, so it may not be possible for me to reach San Francisco in time for Rathayatra festival. Still, if it is at all possible, I shall try my best. Otherwise I shall participate in the festival in London.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

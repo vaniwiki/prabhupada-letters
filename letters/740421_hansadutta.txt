@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 Dear Hansadutta,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 copy to ISKCON Heidelberg
-</card>

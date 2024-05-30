@@ -9,7 +9,6 @@
 
 ====== Jayapataka ======
 
-<card class="letter">
 My dear Jayapataka Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 20th and have noted the contents carefully.
@@ -33,4 +32,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. How is Devananda Maharaja. Does he like to come here. I have arranged for Aravinda's going home after his sickness.\\
 ACBS:tkd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Balavanta ======
 
-<card class="letter">
 My dear Balavanta,
 
 Please accept my blessings. I am in due receipt of your letter dated Dec. 27, 1976 and have noted the contents.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

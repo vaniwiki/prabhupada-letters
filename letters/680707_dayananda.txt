@@ -9,7 +9,6 @@
 
 ====== Dayananda ======
 
-<card class="letter">
 Los Angeles
 
 My dear Dayananda,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. Please deliver the enclosed letter to Aniruddha das.
-</card>

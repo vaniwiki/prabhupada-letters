@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am replying your letter of March 14, 1969. My present program stands as follows: I am starting on the 31st March to S.F. and then on the 7th of (approx.) April I am starting for New York. And from N.Y around about the 23rd of April I am going to Boston. So your fixed program on the 24th, and the 29th of April, and 3rd and 4th of May may be fixed up immediately.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 N.B. For Dr. %%___%% letter you may ask immediately Purushotam at L.A. The letter is %%___ __ __%%. ACB
-</card>

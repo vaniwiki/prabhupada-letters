@@ -9,7 +9,6 @@
 
 ====== G.L. Nanda ======
 
-<card class="letter">
 Sriman G.L. Nanda\\
 5, Tughlak Road\\
 New Delhi-11
@@ -32,4 +31,3 @@ A.C. Bhaktivedanta Swami
 ACBS/bs
 
 Enclosure: 1 Proclamation of Mayor
-</card>

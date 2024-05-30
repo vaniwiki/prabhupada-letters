@@ -9,7 +9,6 @@
 
 ====== Sri Biswambhar Goswami ======
 
-<card class="letter">
 Sri Radha Vinode Ji Mandir\\
 33, Ananda Ghat.\\
 Goswami Abhay Charan Bhaktivedanta\\
@@ -43,4 +42,3 @@ A.C. Bhaktivedanta
 Enclosure - 3.
 
 N.B. Some papers, in connection with the Delhi meeting of The League of Devotees, are enclosed herewith please find. ACB
-</card>

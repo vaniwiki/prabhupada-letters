@@ -9,7 +9,6 @@
 
 ====== Harer Nama ======
 
-<card class="letter">
 My dear Harer Nama,
 
 Please accept my blessings. I thank you very much for your letter dated May 14, 1969, and I congratulate you and your good wife, Prabhavati, for your marriage. Live peacefully, husband and wife, and now you will be happy in the management of the temple. Both of you are initiated, and as it is necessary for you to work, your wife may take care of the temple in your absence. I am glad that you have received some money from your grandmother, and you wish to send it to me for my book fund. In the meantime, there is Rathayatra Festival propogation, and Tamala Krishna wishes that all branches on the Western Coast may conjointly perform this ceremony very pompously. I do not know if you have got any news already, but if you have, please cooperate fully to make the Rathayatra Festival a grand success.
@@ -18,4 +17,3 @@ I hope this will meet you and Prabhavati in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

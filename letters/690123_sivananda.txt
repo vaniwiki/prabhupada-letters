@@ -9,7 +9,6 @@
 
 ====== Sivananda ======
 
-<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I am in due receipt of your letter dated January 14, 1969, and I have noted the contents. I am pleased to note that you enjoy going out into the streets chanting and preaching from __Bhagavad-gita.__ This is a very good attitude and in accordance with the teachings of Lord Caitanya that the process of Sankirtana should be presented to men all over the world. So as you are able you should continue to go into the streets to chant, and I am sure that the others at your temple will appreciate going with you as they are available. Surely this practice will attract many people there to take some interest in this Krishna Consciousness movement.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. His Holiness Swami Sadananda, my German god-brother may come to see you. When he comes offer your respect by bowing down as you do unto me. ACB
-</card>

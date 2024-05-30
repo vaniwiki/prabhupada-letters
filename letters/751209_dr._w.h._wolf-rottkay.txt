@@ -9,7 +9,6 @@
 
 ====== Dr. W.H. Wolf-Rottkay ======
 
-<card class="letter">
 Los Angeles
 
 My dear Dr. W.H. Wolf-Rottkay,
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

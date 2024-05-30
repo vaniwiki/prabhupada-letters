@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 Hamburg
 
 My dear Hansadutta,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. What news of Mandali Bhadra?\\
 ACBS/sda
-</card>

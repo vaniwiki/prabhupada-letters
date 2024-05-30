@@ -9,7 +9,6 @@
 
 ====== Mayapurusasa ======
 
-<card class="letter">
 Montreal
 
 My dear Mayapurusasa das:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

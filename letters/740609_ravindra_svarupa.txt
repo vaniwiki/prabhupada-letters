@@ -9,7 +9,6 @@
 
 ====== Ravindra Svarupa ======
 
-<card class="letter">
 Philadelphia
 
 My dear Ravindra Svarupa,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

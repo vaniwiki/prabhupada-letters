@@ -9,7 +9,6 @@
 
 ====== Bunke Behari ======
 
-<card class="letter">
 Berkeley
 
 My dear Bunke Behari das:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Michael O’Leary ======
 
-<card class="letter">
 New York
 
 My dear Michael O'Leary,
@@ -22,4 +21,3 @@ I shall be looking forward to meeting you when I shall return to N.Y. Hope you a
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

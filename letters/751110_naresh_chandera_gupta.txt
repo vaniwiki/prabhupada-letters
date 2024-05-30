@@ -9,7 +9,6 @@
 
 ====== Naresh Chandera Gupta ======
 
-<card class="letter">
 Sriman Naresh Chandera Gupta\\
 575 D L F Colony\\
 Rohtak\\
@@ -25,4 +24,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 Dear Yamuna,
 
 Please accept my blessings. I have received your letter of January 18, and studied the contents.
@@ -31,4 +30,3 @@ Sri Sri Radha Vanabehari Mandir
 Murphy, Oregon 97533
 
 ACBS/sdg
-</card>

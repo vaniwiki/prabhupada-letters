@@ -9,7 +9,6 @@
 
 ====== Uddhava ======
 
-<card class="letter">
 My dear Uddhava,
 
 Please accept my blessings. I am so glad to receive your letter along with the blueprint of the Almanac for Caitanya Era 484.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

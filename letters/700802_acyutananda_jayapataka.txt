@@ -9,7 +9,6 @@
 
 ====== Acyutananda, Jayapataka ======
 
-<card class="letter">
 Calcutta
 
 My dear Acyutananda and Jayapataka,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa Swami,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 22nd August, 1971 and have noted the contents carefully. There is some contemplation for my going to Africa on my way to India so if that settlement is made then I shall go there for a few days and then come to Bombay. If no settlement is made then I am coming directly to Bombay and I shall let you know the date later on.
@@ -28,4 +27,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

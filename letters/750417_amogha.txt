@@ -9,7 +9,6 @@
 
 ====== Amogha ======
 
-<card class="letter">
 Melbourne, Australia
 
 My dear Amogha dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

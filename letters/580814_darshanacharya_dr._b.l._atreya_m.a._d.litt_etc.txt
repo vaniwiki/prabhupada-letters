@@ -9,7 +9,6 @@
 
 ====== Darshanacharya Dr. B.L. Atreya M.A. D.Litt etc ======
 
-<card class="letter">
 Padmabhushan Knight Commander,\\
 Darshanacharya Dr. B.L. Atreya M.A. D.Litt etc.\\
 Atrey Nivas, P.O. Hindu University,\\
@@ -32,4 +31,3 @@ The League of Devotees is registered to make this movement in an organized way a
 Awaiting your early reply and thanking you in anticipation.
 
 Yours faithfully,
-</card>

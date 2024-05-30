@@ -9,7 +9,6 @@
 
 ====== Vrindaban Chandra De ======
 
-<card class="letter">
 Sriman Vrindaban Chandra De,\\
 Vrinda Book Co.,\\
 30/1B, College Row,\\
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

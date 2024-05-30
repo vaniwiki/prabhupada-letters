@@ -9,7 +9,6 @@
 
 ====== Manager of Equitable Savings Bank ======
 
-<card class="letter">
 Manager\\
 EQUITABLE SAVINGS BANK\\
 Fairfax and Beverly Boulevard\\
@@ -25,4 +24,3 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/pdb
-</card>

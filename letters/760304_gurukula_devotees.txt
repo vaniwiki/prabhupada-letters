@@ -9,7 +9,6 @@
 
 ====== Gurukula Devotees ======
 
-<card class="letter">
 My dear Gurukula devotees,
 
 Please accept my blessings. I have requested that Dayananda go to take complete charge of Gurukula, so you all please cooperate with him. I do not wish that the Gurukula should be closed. Please work combinedly and endeavour with great determination to keep it going on nicely.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dba
-</card>

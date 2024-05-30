@@ -9,7 +9,6 @@
 
 ====== Manager of Bank of Baroda ======
 
-<card class="letter">
 Manager, Bank of Baroda LTD.\\
 Chandni Chowk,\\
 Delhi\\
@@ -27,4 +26,3 @@ Yours truly,\\
 A.C. Bhaktivedanta Swami
 
 Enc. 1 copy of letter
-</card>

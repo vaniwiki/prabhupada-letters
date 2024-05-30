@@ -9,7 +9,6 @@
 
 ====== Gaurasundara ======
 
-<card class="letter">
 Laupahoe hoe, Hawaii
 
 My dear Gaurasundara,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

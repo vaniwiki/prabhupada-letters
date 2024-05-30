@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 Paris, France
 
 Dear Bhagavan,
@@ -42,4 +41,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 *You can chant their beads henceforward. Hope to meet you at Mayapur.
-</card>

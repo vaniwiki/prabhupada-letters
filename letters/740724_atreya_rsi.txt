@@ -9,7 +9,6 @@
 
 ====== Atreya Rsi ======
 
-<card class="letter">
 Tehran
 
 [To Atreya Rsi]
@@ -17,4 +16,3 @@ Tehran
 URGENT IMMEDIATELY NO SUITABLE PLANE GOING DIRECT TO BOMBAY YOU ARE INVITED TO VRINDABAN FESTIVAL
 
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Yamunacarya ======
 
-<card class="letter">
 New Vrndavana
 
 My dear Yamunacarya,
@@ -34,4 +33,3 @@ A.C. Bhaktivedanta Swami
 * Read 'Nectar of Devotion' repeatedly.
 
 ACBS:db
-</card>

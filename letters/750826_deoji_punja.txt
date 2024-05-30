@@ -9,7 +9,6 @@
 
 ====== Deoji Punja ======
 
-<card class="letter">
 Sriman Deoji Punja\\
 Punja & Son's Ltd.\\
 P.O. Box 125\\
@@ -29,4 +28,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

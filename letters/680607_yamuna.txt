@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 My dear Yamuna devi,
 
 Please accept my blessings. I thank you for your letter dated June 3, 1968. The ISKCON RADHA KRISHNA TEMPLE will perpetually continue as such. But in spite of that, San Francisco shall be gradually transformed into New Jagannatha Puri. That is my plan, and try to help in that way. The sign on the temple should read: ISKCON SRI SRI RADHA KRISHNA TEMPLE.
@@ -26,4 +25,3 @@ Hoping you are both well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

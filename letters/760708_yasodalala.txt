@@ -9,7 +9,6 @@
 
 ====== Yasodalala ======
 
-<card class="letter">
 Baltimore
 
 My dear Yasodalala das,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

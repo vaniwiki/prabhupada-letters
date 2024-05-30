@@ -9,7 +9,6 @@
 
 ====== Janis ======
 
-<card class="letter">
 My dear Janis,
 
 I thank you for your letter of 25th instant and I have noted the contents carefully. I have complete agreement with for the arrangement that you desire to make in connection with the Exhibition at Montreal. Yes we shall go in a batch for performing the Kirtana ceremony both in the exhibition pandal as well as in the University Hall and you can arrange in that way.
@@ -26,4 +25,3 @@ I understand that you have done some French rendition of my writings including t
 
 Yours affectionately\\
 A.C. Bhaktivedanta Swami
-</card>

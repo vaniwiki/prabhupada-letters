@@ -9,7 +9,6 @@
 
 ====== Upendra ======
 
-<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I am in receipt of your letter dated August 4, 1970 and have examined the contents. A reply to your last letter was previously sent.
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB:rda
-</card>

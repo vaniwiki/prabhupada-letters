@@ -9,7 +9,6 @@
 
 ====== Ramesvara ======
 
-<card class="letter">
 My dear Ramesvara,
 
 Please accept my blessings. I beg to thank you for your letter dated March 26, 1977. Thank you very much for the Guru Daksina.
@@ -22,4 +21,3 @@ I hope this meets you in best of health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

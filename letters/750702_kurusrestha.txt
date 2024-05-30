@@ -9,7 +9,6 @@
 
 ====== Kurusrestha ======
 
-<card class="letter">
 Denver
 
 Dear Kurusrestha,
@@ -26,4 +25,3 @@ I hope this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

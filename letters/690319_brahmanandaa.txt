@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 The Macmillan Company\\
 A SUBSIDIARY OF CROWELL COLLIER AND MACMILLAN, INC.\\
 866 Third Avenue, New York, N.Y. 10022
@@ -36,4 +35,3 @@ Enc.
 Cc: Mrs. Carlton, Contracts.
 
 (Forwarded to Brahmananda for necessary action. ACB)
-</card>

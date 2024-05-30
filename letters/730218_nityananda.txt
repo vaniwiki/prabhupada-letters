@@ -9,7 +9,6 @@
 
 ====== Nityananda ======
 
-<card class="letter">
 New Orleans
 
 My dear Nityananda,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. You may hold one fire ceremony and Shanti dasi may listen to the Gayatri tape in her right ear. Enclosed please find one Gayatri slip for her.
-</card>

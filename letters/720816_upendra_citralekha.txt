@@ -9,7 +9,6 @@
 
 ====== Upendra, Citralekha ======
 
-<card class="letter">
 Sydney
 
 My dear Upendra and Citralekha,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ldd
-</card>

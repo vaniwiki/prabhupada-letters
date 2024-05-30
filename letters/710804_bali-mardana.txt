@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 Calcutta
 
 My dear Bali-mardana,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. The Madison Park program has failed on account of the documents not being received. Syamasundara is disappointed.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mrs. Bhatt ======
 
-<card class="letter">
 Ontario
 
 My dear Mrs. Bhatt,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

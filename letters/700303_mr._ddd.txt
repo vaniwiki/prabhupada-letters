@@ -9,7 +9,6 @@
 
 ====== Mr. DDD ======
 
-<card class="letter">
 My dear Mr. DDD,
 
 Please accept my blessings. I have just received your nice letter together with pictures drawn by you. Thank you very much. I am so happy to see how you are drawing the activities of Krsna and His devotees the Pandavas and Jagannatha das Babaji. And I am glad to see that your letters are drawn nicely also.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

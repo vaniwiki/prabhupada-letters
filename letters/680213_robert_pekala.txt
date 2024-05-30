@@ -9,7 +9,6 @@
 
 ====== Robert Pekala ======
 
-<card class="letter">
 Robert Pekala\\
 32 Grove Street\\
 Burlington, Vt. 05401
@@ -26,4 +25,3 @@ Hope you are well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Satcitananda ======
 
-<card class="letter">
 Vrindaban
 
 My dear Satchitananda das:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

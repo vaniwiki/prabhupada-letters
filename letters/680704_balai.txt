@@ -9,7 +9,6 @@
 
 ====== Balai ======
 
-<card class="letter">
 My dear Balai,
 
 Please accept my blessings. I thank you very much for your letter of June 20, 1968, and I am so glad to learn that you are living happily as householders. I want to see all my disciples to live such peacefully and execute such Krishna Consciousness. That is the perfection of life. It does not matter whether one is Brahmacari or householder, the real test is how he is executing Krishna Consciousness.
@@ -24,4 +23,3 @@ Hoping you are both well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

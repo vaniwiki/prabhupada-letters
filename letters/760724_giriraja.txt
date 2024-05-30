@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 My dear Giriraja das:
 
 Please accept my blessings. I am in receipt of your letter dated July 17 and have noted the contents with care.
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

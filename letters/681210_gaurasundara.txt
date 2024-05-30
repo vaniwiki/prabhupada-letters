@@ -9,7 +9,6 @@
 
 ====== Gaurasundara ======
 
-<card class="letter">
 My dear Gaurasundara,
 
 Please accept my blessings. I have received your letter of 7, December 1968 and have duly noted the contents.
@@ -20,4 +19,3 @@ So I am pleased that you are all working very hard to help us in this great miss
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Aska Distillery ======
 
-<card class="letter">
 The Proprietor,\\
 Aska Distillery,\\
 Aska.
@@ -28,4 +27,3 @@ Yours faithfully,\\
 For Vimaltone Laboratories Ltd.\\
 Abhay Charan De\\
 Director in chief.
-</card>

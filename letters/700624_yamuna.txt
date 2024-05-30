@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 My dear Yamuna,
 
 Please accept my blessings. I am in due receipt of your letter dated 15th June, 1970, and noted the contents. So it is very good news that the atmosphere of London ISKCON is swelling in preparation of Rathayatra festival.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

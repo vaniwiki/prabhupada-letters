@@ -9,7 +9,6 @@
 
 ====== Mr. Winter ======
 
-<card class="letter">
 Amsterdam
 
 My dear Mr. Winter:
@@ -22,4 +21,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

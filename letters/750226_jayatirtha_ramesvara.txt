@@ -9,7 +9,6 @@
 
 ====== Jayatirtha, Ramesvara ======
 
-<card class="letter">
 My dear Jayatirtha and Ramesvara,
 
 Please accept my blessings. I have today advised the Bank of America, Los Angeles branch to transfer the whole amount of the two fixed deposits to their Bombay branch, account number 16026, in favor of the International Society for Krishna Consciousness (Mayapur Vrndavana Fund).
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 enc: Letter to Bank of America, L.A.
-</card>

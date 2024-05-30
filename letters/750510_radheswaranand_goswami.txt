@@ -9,7 +9,6 @@
 
 ====== Radheswaranand Goswami ======
 
-<card class="letter">
 Goswami Raheswaranand\\
 c/o H.K. Ajudia, B.A.L.L.B.\\
 ADVOCATE\\
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

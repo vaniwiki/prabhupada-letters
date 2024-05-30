@@ -9,7 +9,6 @@
 
 ====== Ravendra Gupta ======
 
-<card class="letter">
 Cambridge, Massachusetts
 
 Dear Ravendra Gupta,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 A.C. Bhaktivedanta Swami/sdg
-</card>

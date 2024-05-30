@@ -9,7 +9,6 @@
 
 ====== Sri B. Kanungo ======
 
-<card class="letter">
 Sri B. Kanungo\\
 General Manager (Sales)\\
 4, Fairlie Place,\\
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

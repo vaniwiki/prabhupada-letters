@@ -9,7 +9,6 @@
 
 ====== Purusottama ======
 
-<card class="letter">
 Lusaka, Zambia
 
 My dear Purusottama Das,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

@@ -9,7 +9,6 @@
 
 ====== Balarama ======
 
-<card class="letter">
 Melbourne
 
 My dear Balarama dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rds
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mrs. Cline ======
 
-<card class="letter">
 My dear Mrs. Cline,
 
 Please accept my blessings. I thank you very much for your kind letter dated February 18, 1969, and I am so glad to go through it. Certainly you are blessed by Krishna, otherwise you could not write such nice things although your connection with our movement is very recent. When you write to say "what was once 'our' home, we recognize now as Krishna's," it appears that from the past you were already advanced in Krishna Consciousness. Somehow or other the path became obstructed, and now again you have come to your consciousness. Please therefore do not miss this opportunity and continue your present state of consciousness in association with Pradyumna. For the time being, Pradyumna is alone there, and your cooperation with him will give him strength, and I shall be very much obliged to you.
@@ -20,4 +19,3 @@ Thanking you once more for your kind letter. More when we meet.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

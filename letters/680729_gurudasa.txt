@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated 21 and 23 of July, and I am very glad to learn that some new devotees, boys and girls, are coming to the temple, and I request you to take care of them carefully. What about that boy, Patel? I do not hear about him.
@@ -22,4 +21,3 @@ I hope both you and your good wife are well, and all is going nicely there.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

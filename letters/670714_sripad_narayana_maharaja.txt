@@ -9,7 +9,6 @@
 
 ====== Sripad Narayana Maharaja ======
 
-<card class="letter">
 "Sri Sri Guru Gauranga Jayatho"
 
 A.C. Bhaktivedanta Swami\\
@@ -33,4 +32,3 @@ I have replied to the United Shipping Corporation accordingly-no worry. I hope y
 Vasamvad\\
 (Gratefully),\\
 Sri Bhaktivedanta Swami
-</card>

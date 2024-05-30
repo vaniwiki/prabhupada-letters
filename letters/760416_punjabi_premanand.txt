@@ -9,7 +9,6 @@
 
 ====== Punjabi Premanand ======
 
-<card class="letter">
 Bombay
 
 My dear Punjabi Premanand,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

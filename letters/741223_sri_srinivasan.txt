@@ -9,7 +9,6 @@
 
 ====== Sri Srinivasan ======
 
-<card class="letter">
 Tiruchy Junction 1, India
 
 Dear Sri Srinivasan,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Vrindaban
 
 My dear Guru das,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS:Kda\\
 N.B. I have written two letters one to Dr. Kapoor and the other Hari Goswami for starting an adult school for learning Hindi & Sanskrit. Please see them in this connection. We want this school in Vrindaban.
-</card>

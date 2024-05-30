@@ -9,7 +9,6 @@
 
 ====== Jagaddhatri, Pasupati, Sailogata, Pamela ======
 
-<card class="letter">
 Srimatis Jagaddhatri, Pasupati,\\
 Sailogata, & Pamela devi dasis\\
 Dallas
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

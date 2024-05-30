@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 My dear Gurudasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated May 8th and 14th, 1970, respectively. Previous to this I received one letter from Yamuna dated 8th May, 1970.
@@ -40,4 +39,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

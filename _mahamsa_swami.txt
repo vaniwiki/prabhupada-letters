@@ -9,7 +9,6 @@
 
 ====== Mahamsa Swami ======
 
-<card class="letter">
 H.H. Mahamsa Swami\\
 Hare Krishna Land Nampally Station road\\
 Hyderbad
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sri Ravelji ======
 
-<card class="letter">
 Sri V.D. Ravel Esqr.\\
 Calcutta
 
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

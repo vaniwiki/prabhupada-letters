@@ -9,7 +9,6 @@
 
 ====== Janardana ======
 
-<card class="letter">
 Montreal
 
 My dear Janardana,
@@ -26,4 +25,3 @@ I am also enclosing a press cutting which will speak for itself. Hope you are we
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
-</card>

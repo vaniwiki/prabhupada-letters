@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 Dela Plane, Virginia
 
 My dear Rupanuga das,
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

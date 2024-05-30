@@ -9,7 +9,6 @@
 
 ====== Brahmananda, Satsvarupa, Rayarama, Gargamuni, other Trustees ======
 
-<card class="letter">
 Sriman Brahmananda Brahmacari,\\
 Sriman Satsvarupa Brahmacari,\\
 Sriman Rayarama Brahmacari,\\
@@ -28,4 +27,3 @@ In my opinion the check should never be drawn in favor of the financier. But it 
 Ever well wisher,
 
 A.C. Bhaktivedanta Swami.
-</card>

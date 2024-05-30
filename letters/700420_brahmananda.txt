@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 Boston
 
 My dear Brahmananda,
@@ -37,4 +36,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. There are some editorial mistakes in the blueprint of The Topmost yoga. I am giving herewith a note Pradyumna. Please send my Bengali small prayer book.\\
 ACBS:db
-</card>

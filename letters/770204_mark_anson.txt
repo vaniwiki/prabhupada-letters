@@ -9,7 +9,6 @@
 
 ====== Mark Anson ======
 
-<card class="letter">
 Mark Anson\\
 30 Inglebar Ave.\\
 Allambie Heights, N.S.W.\\
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

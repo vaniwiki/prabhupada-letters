@@ -9,7 +9,6 @@
 
 ====== Dr. G. Ghosh ======
 
-<card class="letter">
 Gyan Bhavan, \\
 22, Minto Rd., \\
 Allahabad 211002
@@ -31,4 +30,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/tkg\\
 Enc: one true copy
-</card>

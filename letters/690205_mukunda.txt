@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 London
 
 My dear Mukunda,
@@ -18,4 +17,3 @@ Please accept my blessings. At your earliest convenience, please submit to me a 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

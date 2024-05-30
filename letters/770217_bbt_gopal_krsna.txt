@@ -9,7 +9,6 @@
 
 ====== BBT Gopal Krsna - 17 February, 1977 ======
 
-<card class="letter">
 Hare Krishna Land\\
 Juhu Road, Juhu\\
 Bombay
@@ -29,4 +28,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

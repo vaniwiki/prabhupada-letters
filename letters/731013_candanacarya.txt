@@ -9,7 +9,6 @@
 
 ====== Candanacarya ======
 
-<card class="letter">
 Culver City, California
 
 My dear Candanacarya:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

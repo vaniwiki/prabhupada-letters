@@ -9,7 +9,6 @@
 
 ====== R. Chalson ======
 
-<card class="letter">
 My dear R. Chalson,
 
 I beg to thank you very much for your kind letter dated June 8, 1969, addressed to our New York temple and forwarded to me. I am very pleased to read the contents. My Spiritual Master, Om Visnupada Sri Srimad Bhaktisiddhanta Sarasvati Goswami Maharaja Prabhupada, sometimes used to say that if after selling all of my property I can convert one person to Krishna Consciousness factually, then I shall think my mission is successful. Similarly, I am also thinking like that after reading your letter that if I could induce even one person to Krishna Consciousness through my publication, Bhagavad-gita As It Is, then I shall think my labor is successful. So I am very much encouraged to read your letter, and I have received many such letters from others also, so I am very hopeful.
@@ -21,4 +20,3 @@ Thank you again for your kind letter.
 Sincerely yours,
 
 A.C. Bhaktivedanta Swami
-</card>

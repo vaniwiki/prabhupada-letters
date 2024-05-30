@@ -9,7 +9,6 @@
 
 ====== Gurukrpa ======
 
-<card class="letter">
 Tokyo
 
 My dear Gurukrpa Swami:
@@ -24,4 +23,3 @@ A.C. Bhaktivedanta Swami
 ACBS/bs\\
 N.B. After consultation with the Trustees of the Mayapur-Vrindaban Trust, it has been decided to appoint you as a Trustee. Please affirm your acceptance of this appointment.\\
 ACBS
-</card>

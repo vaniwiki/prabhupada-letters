@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. Now it is decided that I shall be starting on the 11th of September, Thursday, by flight 234, Lufthansa Airlines, starting at 12:15 Hamburg time, and reaching London at 13:40. So you can make the necessary arrangements. If you have any further information for me, you can send me a letter immediately or talk with me. Yesterday Vyasa Puja was held in the temple, and your tape of Cintamani was played. It was very nice.
@@ -18,4 +17,3 @@ Please offer my blessings to the others, I hope this will meet you in good healt
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Makhanlal, Tilaka ======
 
-<card class="letter">
 Seattle
 
 My dear Makhanlal and Tilaka Devi,
@@ -31,4 +30,3 @@ A.C. Bhaktivedanta Swami
 
 *Brahmananda Swami has written Mr. Dhawan asking for six round-trip tickets from Kenya for going there to establish a center.\\
 ACBS/adb
-</card>

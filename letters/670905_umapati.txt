@@ -9,7 +9,6 @@
 
 ====== Umapati ======
 
-<card class="letter">
 My dear Umapati,
 
 I am so glad to receive your letter dated 28 August, through Acyutananda. You will be glad to know that he has safely arrived here via Delhi. He is a very intelligent boy, and has safely come without any difficulty.
@@ -25,4 +24,3 @@ I shall be glad to hear from you at your convenience. Hope you are well.
 With all my blessings,
 
 A.C. Bhaktivedanta Swami
-</card>

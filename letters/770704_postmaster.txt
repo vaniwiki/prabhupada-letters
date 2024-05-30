@@ -9,7 +9,6 @@
 
 ====== Postmaster ======
 
-<card class="letter">
 Krsna Balarama Mandir,\\
 Bhaktivedanta Swami Marg,\\
 Ramanareti, Vrndavana, U.P.
@@ -30,4 +29,3 @@ Tamal Krsna Gosvami
 c.c. Tamal Krsna Gosvami
 
 ACBS/tkg
-</card>

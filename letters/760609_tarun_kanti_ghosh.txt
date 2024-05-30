@@ -9,7 +9,6 @@
 
 ====== Tarun Kanti Ghosh ======
 
-<card class="letter">
 Woodland Hills, California
 
 My dear Tarun Kanti dasa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

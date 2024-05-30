@@ -9,7 +9,6 @@
 
 ====== Sir Ramgoolam Reewoosagur Kt ======
 
-<card class="letter">
 Dr. The Rt. Hon.\\
 Sir Ramgoolam Reewoosagur Kt., M L.A. Prime Minister of Mauritius\\
 Government House,\\
@@ -24,4 +23,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

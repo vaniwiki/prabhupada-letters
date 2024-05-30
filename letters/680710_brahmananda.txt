@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 New York
 
 My dear Brahmananda,
@@ -30,4 +29,3 @@ A.C. Bhaktivedanta Swami
 N.B. I would like to know whether or not you have collected the money for that German book you took here from me. You can please send one set of Srimad-Bhagavatams to this address, to Sri Vamana dasa: Walther Eidlitz---Bavergrand 18A/III---Uppsala---Sweden.
 
 ACB
-</card>

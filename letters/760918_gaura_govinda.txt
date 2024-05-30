@@ -9,7 +9,6 @@
 
 ====== Gaura Govinda ======
 
-<card class="letter">
 Bhuvaneśvara
 
 My dear Gaura Govinda Maharaja,
@@ -31,4 +30,3 @@ A.C. Bhaktivedanta Swami
 
 n.b.---I have three questions: I may come there by the middle of October, what is the climate like? I have heard that there is a famous fountain there whose waters are very digestive for people who are sick and it is a good tonic, is this true, do you know of this? Did you register the lands, complete the forms?\\
 ACBS/hs
-</card>

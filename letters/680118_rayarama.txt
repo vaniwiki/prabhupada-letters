@@ -9,7 +9,6 @@
 
 ====== Rayarama ======
 
-<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I thank you for your letter of Jan. 11, 1968, and have noted the contents carefully. I acknowledge receipt of Kirtanananda's sannyasa certificate. I have no objection to the sweatshirts and posters bearing Madhava Visnu. And I am glad to hear that Back to Godhead will soon be ready for selling.
@@ -24,4 +23,3 @@ A.C. Bhaktivedanta Swami
 P.S. Please inform Brahmananda & Jayananda that I have received their letters & it will be duly replied.
 
 ACB
-</card>

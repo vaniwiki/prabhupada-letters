@@ -9,7 +9,6 @@
 
 ====== Sri K. L. Goswami ======
 
-<card class="letter">
 Dear Sri K.L. Goswami,
 
 Replying your letter of July 23rd, 1969, I beg to enclose herewith some newspaper cuttings for your information how we have performed Rathayatra Ceremony in San Francisco, London, Buffalo, Boston and Ohio.
@@ -21,4 +20,3 @@ Thank you very much for your kind letter.
 Sincerely,
 
 A.C. Bhaktivedanta Swami
-</card>

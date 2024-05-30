@@ -9,7 +9,6 @@
 
 ====== Satadhanya ======
 
-<card class="letter">
 My dear Satadhanya:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated the 13rd March.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
-</card>

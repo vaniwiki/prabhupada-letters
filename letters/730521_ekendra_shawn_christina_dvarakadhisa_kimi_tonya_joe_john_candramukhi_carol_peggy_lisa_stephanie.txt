@@ -9,7 +9,6 @@
 
 ====== Ekendra, Shawn, Christina, Dvarakadhisa, Kimi, Tonya, Joe, John, Candramukhi, Carol, Peggy, Lisa, Stephanie ======
 
-<card class="letter">
 My Dear Ekendra, Shawn, Christina,
 
 Dvarakadhisa, Kimi, Tonya, Joe,\\
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

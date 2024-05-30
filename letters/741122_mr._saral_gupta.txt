@@ -9,7 +9,6 @@
 
 ====== Mr. Saral Gupta ======
 
-<card class="letter">
 Mr. Saral Das Gupta,\\
 No. 2532, Sector 35C,\\
 Chandigarh,\\
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/vdd
-</card>

@@ -9,7 +9,6 @@
 
 ====== BTG Friend ======
 
-<card class="letter">
 @to: BTG Friend
 @place: Mathura
 @date: Dated as Postmark
@@ -47,4 +46,3 @@ Enclosures:
 (2) Enrollment form.
 
 (3) Readers' appreciation.
-</card>

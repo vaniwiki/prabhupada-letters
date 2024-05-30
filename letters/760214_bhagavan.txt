@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 Paris
 
 My dear Bhagavan,
@@ -48,4 +47,3 @@ I hope this meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

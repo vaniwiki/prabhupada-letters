@@ -9,7 +9,6 @@
 
 ====== My dear daughters, ======
 
-<card class="letter">
 Toronto
 
 My dear daughters,
@@ -37,4 +36,3 @@ Pasupati dasi\\
 Praharana dasi\\
 Varuni dasi\\
 ISKCON Toronto
-</card>

@@ -9,7 +9,6 @@
 
 ====== Govinda ======
 
-<card class="letter">
 Kona, Hawaii
 
 My dear Govinda dasi,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
-</card>

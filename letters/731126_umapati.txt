@@ -9,7 +9,6 @@
 
 ====== Umapati ======
 
-<card class="letter">
 My dear Umapati,
 
 Please accept my blessings. I am in due receipt of your letter dated October 30, 1973 and I have noted its contents carefully.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/mda
-</card>

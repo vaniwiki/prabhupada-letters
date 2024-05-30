@@ -9,7 +9,6 @@
 
 ====== Certification (for Jayapataka) ======
 
-<card class="letter">
 __CERTIFICATE OF CHARACTER__
 
 In the matter of an application for a certificate of naturalization under the Citizenship Act, 1955, made by my disciple Jayapataka Swami/ Gordon John Erdman I, Sri A.C. Bhaktivedanta Swami aged 79 years by occupation the Founder-Acarya: International Society for Krishna Consciousness son of His Divine Grace Sri Srimad Bhaktisiddhanta Sarasvati Goswami Prabhupada, residing at Vrindaban, U.P., do solemnly and sincerely affirm that I am an Indian citizen otherwise then by naturalization; that I am a property-holder; that I am not a solicitor or agent of Jayapataka Swami/ Gordon John Erdman; that I have personal knowledge of, and intimate acquaintance with, the said Gordon John Erdman of seven years; that the statements contained in his application for naturalization are true to the best of my knowledge and belief.
@@ -17,4 +16,3 @@ In the matter of an application for a certificate of naturalization under the Ci
 I support Sri Jayapataka Swami's/ Mr. Gordon John Erdman's application for naturalization and I can vouch for his good character and loyalty.
 
 A.C. Bhaktivedanta Swami
-</card>

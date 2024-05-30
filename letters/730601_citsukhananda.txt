@@ -9,7 +9,6 @@
 
 ====== Citsukhananda ======
 
-<card class="letter">
 Caracas
 
 My dear Citsukhananda,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

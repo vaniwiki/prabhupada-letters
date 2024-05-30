@@ -9,7 +9,6 @@
 
 ====== Baradraj ======
 
-<card class="letter">
 c/o ISKCON Los Angeles
 
 Hare Krishna Land\\
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

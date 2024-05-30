@@ -9,7 +9,6 @@
 
 ====== Krsna dasa ======
 
-<card class="letter">
 My dear Krishna das,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 13 Oct., 1968, and I have noted the contents carefully. In the beginning you write to say that you have written at least 3 letters to me, but this is the first time I have received any letter from you. I do not know how they are missing. Anyway, I have also received one letter from Sivananda, it is understood that you are trying your best to secure a place in Hamburg, but still you have not been able to find out. In the meantime, before this, Sivananda wrote me a letter that he has already opened a branch in Berlin. And this news was spread by me to others. Now it is understood that you have changed your idea and you want to open our center in Hamburg. It is nice so far I get information that Hamburg is very more important than Berlin, but if you find difficulty in locating a place for our center in Hamburg, it is better go back to Berlin and take whatever place is available.
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Tomorrow I am going to Montreal. From there I will go to Santa Fe on the 27th, stay there for a week and then go to L.A.
-</card>

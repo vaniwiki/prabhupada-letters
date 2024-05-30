@@ -9,7 +9,6 @@
 
 ====== Kanu Gandhi ======
 
-<card class="letter">
 Boston
 
 Dear Kanu Gandhi,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

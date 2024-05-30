@@ -9,7 +9,6 @@
 
 ====== Madhava ======
 
-<card class="letter">
 Coconut Grove, Florida
 
 My dear Madhava dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

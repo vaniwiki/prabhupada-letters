@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 Dear Tamala Krishna Maharaja
 
 Please accept my blessings. I have left India on April 1, 1973 so now it is almost 20 days and I have received no report from India. There are so many questions and answers for India, the Bombay, and Hyderabad, but I am in darkness.
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

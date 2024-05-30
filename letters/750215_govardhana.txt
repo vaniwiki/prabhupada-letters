@@ -9,7 +9,6 @@
 
 ====== Govardhana ======
 
-<card class="letter">
 Detroit
 
 My dear Govardhana dasa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

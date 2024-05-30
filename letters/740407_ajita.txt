@@ -9,7 +9,6 @@
 
 ====== Ajita ======
 
-<card class="letter">
 Stockholm
 
 My dear Ajita,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

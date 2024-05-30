@@ -9,7 +9,6 @@
 
 ====== Drstaketu ======
 
-<card class="letter">
 Los Angeles
 
 My dear Drstaketu das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

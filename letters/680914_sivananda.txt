@@ -9,7 +9,6 @@
 
 ====== Sivananda ======
 
-<card class="letter">
 West Berlin
 
 My dear Sivananda,
@@ -26,4 +25,3 @@ Thanking you once more and I am praying to Krishna to offer you all His strength
 
 Your ever wellwisher,\\
 A.C. Bhaktivedanta Swami
-</card>

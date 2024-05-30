@@ -9,7 +9,6 @@
 
 ====== Mulchand Deomal ======
 
-<card class="letter">
 Sri Mulchand Deomal\\
 Dad Bathena Bldg;\\
 Palia St., Nanpura;\\
@@ -29,4 +28,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

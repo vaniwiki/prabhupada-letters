@@ -9,7 +9,6 @@
 
 ====== Sukadeva ======
 
-<card class="letter">
 Seattle
 
 My dear Sukadeva dasa:
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

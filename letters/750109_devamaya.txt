@@ -9,7 +9,6 @@
 
 ====== Devamaya ======
 
-<card class="letter">
 London
 
 My dear Devamaya devi dasi,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sri Govinda ======
 
-<card class="letter">
 Evanston, Illinois
 
 My dear Sri Govinda das,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bmdg
-</card>

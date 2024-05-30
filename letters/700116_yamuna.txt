@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 My dear Yamuna,
 
 Please accept my blessings. I am in due receipt of your nice letter dated 12 January, 1970 and I have noted the contents.
@@ -30,4 +29,3 @@ Hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Jadurani ======
 
-<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I have received your letter of December 17, 1968 and have carefully noted the contents.
@@ -20,4 +19,3 @@ I hope that you are tending carefully to your health. Please convey my blessings
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

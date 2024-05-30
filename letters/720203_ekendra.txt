@@ -9,7 +9,6 @@
 
 ====== Ekendra ======
 
-<card class="letter">
 Dallas
 
 Dear Ekendra dasa;
@@ -20,4 +19,3 @@ I am very pleased that you are keeping to a very strict schedule and are reading
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

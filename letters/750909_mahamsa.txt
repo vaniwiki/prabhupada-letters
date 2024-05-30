@@ -9,7 +9,6 @@
 
 ====== Mahamsa ======
 
-<card class="letter">
 Hyderabad
 
 My dear Mahamsa Swami:
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. I wish to make an experiment in preaching by bullock cart. One cart can hold 6-8 men sitting and 2 men for sleeping.\\
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gupta ======
 
-<card class="letter">
 Laguna Beach
 
 My dear Gupta Dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

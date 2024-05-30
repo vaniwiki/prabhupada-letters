@@ -9,7 +9,6 @@
 
 ====== Sukadeva ======
 
-<card class="letter">
 Honolulu
 
 My dear Sukadeva das,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. I have received one letter from Trivikrama Maharaja requesting that Sacideva das and his Japanese wife and two children come immediately to Japan. He is required there. So I request you that you should send him there immediately. This is very important. He also has a valid missionary visa for Japan so his presence is required there now. ACBS.\\
 ACBS/BS/mdd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Trivikrama ======
 
-<card class="letter">
 Hong Kong
 
 My dear Trivikrama Swami,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

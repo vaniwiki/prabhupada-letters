@@ -9,7 +9,6 @@
 
 ====== Official (for Madhudvisa) ======
 
-<card class="letter">
 Local Board No. 31\\
 25 Huntington Ave.\\
 Boston, Mass 02116
@@ -25,4 +24,3 @@ Michael E. Morrissey (Madhudvisa Das Brahmacari) attends daily religious classes
 As such, my students are classified under 4-D, Ministerial Status.
 
 A.C. Bhaktivedanta Swami
-</card>

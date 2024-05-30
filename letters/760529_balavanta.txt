@@ -9,7 +9,6 @@
 
 ====== Balavanta ======
 
-<card class="letter">
 Atlanta
 
 My dear Balavanta das,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

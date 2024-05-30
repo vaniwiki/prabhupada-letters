@@ -9,7 +9,6 @@
 
 ====== Boys, Himavati ======
 
-<card class="letter">
 Montreal
 
 My dear boys and Himavati,
@@ -18,4 +17,3 @@ I have duly received your kind letters and it was so pleasing to me that you are
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

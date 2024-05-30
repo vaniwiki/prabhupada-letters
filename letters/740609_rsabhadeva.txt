@@ -9,7 +9,6 @@
 
 ====== Rsabhadeva ======
 
-<card class="letter">
 Laguna Beach
 
 My dear Rsabhadeva,
@@ -38,4 +37,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Don ======
 
-<card class="letter">
 Edmonton
 
 My dear Don prabhu,
@@ -22,4 +21,3 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

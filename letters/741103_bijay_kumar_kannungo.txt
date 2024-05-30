@@ -9,7 +9,6 @@
 
 ====== Bijay Kumar Kannungo ======
 
-<card class="letter">
 Bijay Kumar Kannungo\\
 c/o Bharata Coal & Coking Ltd.\\
 No. 4 Fairlie Place\\
@@ -25,4 +24,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

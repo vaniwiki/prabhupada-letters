@@ -9,7 +9,6 @@
 
 ====== Jitendriya ======
 
-<card class="letter">
 ISKCON; Akash-Gnaga Bldg, floor 7;\\
 89 Bhulebhei Desai Rd.\\
 Bombay-26, INDIA
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBD/adb
-</card>

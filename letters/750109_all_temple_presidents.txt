@@ -9,7 +9,6 @@
 
 ====== All Temple Presidents ======
 
-<card class="letter">
 Temple Presidents\\
 All ISKCON Centers
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

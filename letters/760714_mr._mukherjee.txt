@@ -9,7 +9,6 @@
 
 ====== Mr. Mukherjee ======
 
-<card class="letter">
 Bombay
 
 Dear Mr. Mukherjee,
@@ -24,4 +23,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

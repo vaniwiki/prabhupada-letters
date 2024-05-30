@@ -9,7 +9,6 @@
 
 ====== Giridharilal ======
 
-<card class="letter">
 Delhi
 
 My dear Giridharilal,
@@ -20,4 +19,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

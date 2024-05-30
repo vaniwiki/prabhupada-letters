@@ -9,7 +9,6 @@
 
 ====== Dinesh Candra ======
 
-<card class="letter">
 Boston
 
 My dear Dinesh Candra,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

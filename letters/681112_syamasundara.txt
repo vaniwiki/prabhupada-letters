@@ -9,7 +9,6 @@
 
 ====== Syamasundara ======
 
-<card class="letter">
 London
 
 My dear Syamasundara,
@@ -22,4 +21,3 @@ I hope this meets you all in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Rayarama ======
 
-<card class="letter">
 New York
 
 My dear Rayarama,
@@ -24,4 +23,3 @@ Hoping you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

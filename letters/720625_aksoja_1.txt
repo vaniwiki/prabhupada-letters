@@ -9,7 +9,6 @@
 
 ====== Aksoja 1 ======
 
-<card class="letter">
 My dear Aksoja,
 
 Please accept my blessings. I am in due receipt of your letter from Amsterdam dated June 21, 1972, and I look forward with pleasure to attending some of your meetings there in Holland near end of July. Yes, the two engagements for July 28 and July 29 sound all right, and as you have kindly invited me, if you make all nice arrangements, then I shall be very glad to attend them. One thing, you have mentioned a "band" for playing in the park.* If we hold public meetings, we can only hold kirtan, with our usual program of preaching being the main feature of attention. We shall stick only to the Vaisnava standard set for us by the great acaryas and saintly persons, namely, the Hare Krishna Mantra and other mantras which I have taught to you, but we shall not produce something artificial by writing and playing our own songs as we like.
@@ -26,4 +25,3 @@ c/o ISKCON Amsterdam\\
 ACBS/sda
 
 * it can be performed besides kirtan.
-</card>

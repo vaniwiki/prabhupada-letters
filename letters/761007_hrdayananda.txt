@@ -9,7 +9,6 @@
 
 ====== Hrdayananda ======
 
-<card class="letter">
 Los Angeles
 
 My dear Hrdayananda,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/as
-</card>

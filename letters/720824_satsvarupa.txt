@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated August 20 and August 22, 1972 and I have noted the contents carefully. Regarding my coming there, yes, I shall be very glad to attend the Dallas Gurukula immediately departing Pittsburgh I can go there for about 3 days on my way to Los Angeles. So you should be prepared to provide for airline tickets from Pittsburgh to Dallas for myself and my three secretaries. Then we shall see how the things are going on there, and I am very much looking forward to that day. The tickets may be sent here to Los Angeles address as soon as possible.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

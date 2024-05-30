@@ -9,7 +9,6 @@
 
 ====== Jai Prakash Narayan ======
 
-<card class="letter">
 Sri Jai Prakash Narayan\\
 P.O. Patna, Bihar, India
 
@@ -36,4 +35,3 @@ cc: Srimati Indira Gandhi\\
 New Delhi
 
 ACBS/bs
-</card>

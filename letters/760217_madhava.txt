@@ -9,7 +9,6 @@
 
 ====== Madhava ======
 
-<card class="letter">
 Boston
 
 My dear Madhava das,
@@ -36,4 +35,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

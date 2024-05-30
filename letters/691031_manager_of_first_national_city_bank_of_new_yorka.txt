@@ -9,7 +9,6 @@
 
 ====== Manager of First National City Bank of New York ======
 
-<card class="letter">
 Manager\\
 FIRST NATIONAL CITY BANK OF NEW YORK\\
 (Bowery and Grand Street Branch)\\
@@ -27,4 +26,3 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/pdb
-</card>

@@ -9,7 +9,6 @@
 
 ====== Dina Bandhu ======
 
-<card class="letter">
 Portland
 
 My dear Dina Bandhu dasa Adhikari:
@@ -30,4 +29,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

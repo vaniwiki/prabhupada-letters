@@ -9,7 +9,6 @@
 
 ====== Bibhavati ======
 
-<card class="letter">
 A.C. BHAKTIVEDANTA SWAMI\\
 318 East 20th Avenue\\
 Columbus, Ohio 43201
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 p.s. Offer my blessings to all there.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Manmohini ======
 
-<card class="letter">
 My dear Daughter Manmohini,
 
 Please accept my blessings. I am in due receipt of your nice letter dated 18 February, 1970, along with your beads for chanting and a pair of lovely flower garlands. Thank you very much.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

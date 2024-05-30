@@ -9,7 +9,6 @@
 
 ====== Manager of The Punjab National Bank ======
 
-<card class="letter">
 Manager\\
 The Punjab National Bank\\
 P.O. Vrindaban U.P.\\
@@ -24,4 +23,3 @@ Thanking you for your immediate reply.
 Sincerely,
 
 A.C. Bhaktivedanta Swami
-</card>

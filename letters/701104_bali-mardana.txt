@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 My dear Bali Mardan,
 
 Please accept my blessings. I am in due receipt of your air letter from Japan dated 18 October, 1970, and I have noted the contents with great encouragement.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:sda
-</card>

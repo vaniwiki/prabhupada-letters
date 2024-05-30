@@ -9,7 +9,6 @@
 
 ====== Dr. Rajendra Prasad, President of Indian Union ======
 
-<card class="letter">
 To: His Excellency Dr. Rajendra Prasad\\
 President Indian Union,\\ 
 Rashtrapati Bhawan, New Delhi
@@ -50,4 +49,3 @@ Thanking you in anticipation for an early reply, I am,
 
 Yours in the service of the Lord,\\
 A.C. Bhaktivedanta
-</card>

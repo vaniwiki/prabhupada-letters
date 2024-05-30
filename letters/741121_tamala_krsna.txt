@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 Brooklyn
 
 My dear Tamala Krishna Goswami:
@@ -33,4 +32,3 @@ A.C. Bhaktivedanta Swami
 
 * N.B. The report is received in hand today.\\
 ACBS/bs
-</card>

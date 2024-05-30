@@ -9,7 +9,6 @@
 
 ====== Aniruddha ======
 
-<card class="letter">
 Los Angeles
 
 My dear Aniruddha,
@@ -24,4 +23,3 @@ Hoping you are well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

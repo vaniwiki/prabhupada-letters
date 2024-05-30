@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 My dear Giriraja,
 
 Please accept my blessings. We have arrived in New York on the fifth bypassing London for now because the new place is not yet ready. I will be staying here until about the 17th, then go to New Vrndavana for a few days and then to Los Angeles.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

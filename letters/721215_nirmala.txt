@@ -9,7 +9,6 @@
 
 ====== Nirmala ======
 
-<card class="letter">
 Bombay
 
 My dear Nirmala,
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pda
-</card>

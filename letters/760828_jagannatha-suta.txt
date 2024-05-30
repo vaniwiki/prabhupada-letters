@@ -9,7 +9,6 @@
 
 ====== Jagannatha-suta ======
 
-<card class="letter">
 Los Angeles
 
 My dear Jagannatha Suta das,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

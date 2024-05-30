@@ -9,7 +9,6 @@
 
 ====== Gopala Krsna ======
 
-<card class="letter">
 Bombay
 
 My dear Gopala Krishna dasa,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 enclosures: 3, letter to Gov. Reddy and the letter to Nitai (copy) were sent only to New Delhi.\\
 ACBS/pks
-</card>

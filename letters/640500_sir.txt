@@ -9,7 +9,6 @@
 
 ====== Sir ======
 
-<card class="letter">
 FOREIGN FORWARDING LETTERS.
 
 Dear Sir,
@@ -36,4 +35,3 @@ Thanking you in anticipation and awaiting your early reply.
 
 Yours faithfully,\\
 A.C. Bhaktivedanta
-</card>

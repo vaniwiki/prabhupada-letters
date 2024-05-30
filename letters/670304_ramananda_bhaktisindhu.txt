@@ -9,7 +9,6 @@
 
 ====== Ramananda Bhaktisindhu ======
 
-<card class="letter">
 His Grace Sripada Ramananda Bhaktisindhu\\
 Gaudiya Sangha (Regd)\\
 23 Doctor Lane, Calcutta-14\\
@@ -27,4 +26,3 @@ I hope you will treat this as urgent and oblige. Hope you are well.
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Acarya Prabhakar Mishra ======
 
-<card class="letter">
 Acarya Prabhakar Mishra\\
 E-91, Kirti Nagar,\\
 New Delhi-15\\
@@ -27,4 +26,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Candra lila devi dasi ======
 
-<card class="letter">
 ISKCON New Delhi
 
 Sree Mayapur Dham\\
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

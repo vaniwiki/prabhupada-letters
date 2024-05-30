@@ -9,7 +9,6 @@
 
 ====== Ksirodakasayi ======
 
-<card class="letter">
 London
 
 My dear Ksirodakasayi das;
@@ -20,4 +19,3 @@ Your ever well wisher\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/hb
-</card>

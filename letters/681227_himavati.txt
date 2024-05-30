@@ -9,7 +9,6 @@
 
 ====== Himavati ======
 
-<card class="letter">
 My dear Himavati,
 
 Please accept my blessings. I thank you very much for your sending me the cap and dresses for Radha-Govinda, which are so nice and beautiful. When I put on the hat sent by you on my head, everyone says that it is brilliant, and because one has to dress according to the taste of friends this hat has become an important factor of my dressing. Thank you very much.
@@ -20,4 +19,3 @@ I know you are always eager to help me in all respects, and what can I do for yo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

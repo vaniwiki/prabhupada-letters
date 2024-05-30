@@ -9,7 +9,6 @@
 
 ====== Janaki ======
 
-<card class="letter">
 My dear Janaki,
 
 Please accept my blessings. I was thinking of you since about a week why you are silent, and all of a sudden I got your letter with a golden ring enclosed. It was so much ecstatic. I thank you very much for your kind presentation which you have given, even sacrificing your husband's interest. I think, though, that your husband, Mukunda, is also pleased with this action. Anyway, immediately upon receipt of this ring I pushed it on my finger, and it is very nice.
@@ -24,4 +23,3 @@ So please consider carefully the above mentioned points, and also keep me inform
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

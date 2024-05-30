@@ -9,7 +9,6 @@
 
 ====== Mahamsa ======
 
-<card class="letter">
 Hyderabad
 
 My dear Mahamsa Swami,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

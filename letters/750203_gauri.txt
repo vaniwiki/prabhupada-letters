@@ -9,7 +9,6 @@
 
 ====== Gauri ======
 
-<card class="letter">
 Los Angeles
 
 My dear Gauri dasi,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

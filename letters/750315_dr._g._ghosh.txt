@@ -9,7 +9,6 @@
 
 ====== Dr. G. Ghosh ======
 
-<card class="letter">
 Dr. G. Ghosh\\
 Gyan Bhavan\\
 22, Minto Rd.\\
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 NB: Mayapur festival will be held from March 23rd-27th. Vrndavana festival will be held on April 20th.\\
 ACBS/ps
-</card>

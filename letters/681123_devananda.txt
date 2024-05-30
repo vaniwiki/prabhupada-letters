@@ -9,7 +9,6 @@
 
 ====== Devananda ======
 
-<card class="letter">
 My dear Devananda,
 
 Please accept my blessings. I am in due receipt of your letter of Nov. 18, and I have noted the contents with great satisfaction. It is very much encouraging to me.
@@ -22,4 +21,3 @@ Hope you are all well there, and offer my blessings to Satsvarupa and Jadurani, 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

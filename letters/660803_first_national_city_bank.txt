@@ -9,7 +9,6 @@
 
 ====== First National City Bank ======
 
-<card class="letter">
 Manager\\
 First National City Bank\\
 Grand Street Branch\\
@@ -24,4 +23,3 @@ Please let me know how many dollars I have to withdraw for the exchange and your
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

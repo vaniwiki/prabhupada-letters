@@ -9,7 +9,6 @@
 
 ====== Mrs. Nirmala Singhal ======
 
-<card class="letter">
 Mrs. Nirmala Devi Singhal\\
 113 D.J. Road,\\
 Vile Parle (W) Bombay---56.
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

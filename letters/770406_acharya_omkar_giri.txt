@@ -9,7 +9,6 @@
 
 ====== Acharya Omkar Giri ======
 
-<card class="letter">
 Mahant, Beni Madhav,\\
 Temple Lect. Dhana,\\
 Sagar, M.P.
@@ -34,4 +33,3 @@ cc: Dr. G. Ghosh\\
 Gyan Bhavan\\
 22 Minto Rd.\\
 Allahabad 211002
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bali-mardana, Upendra ======
 
-<card class="letter">
 Sydney
 
 My dear Bali Mardan and Upendra,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

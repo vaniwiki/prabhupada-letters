@@ -9,7 +9,6 @@
 
 ====== Dulal Candra ======
 
-<card class="letter">
 Pittsburgh
 
 My dear Dulal Candra dasa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

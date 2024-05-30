@@ -9,7 +9,6 @@
 
 ====== Morris Lapidus ======
 
-<card class="letter">
 My dear Morris Lapidus,
 
 Please accept my blessings. I am in due receipt of your letter dated January 29, 1976.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

@@ -9,7 +9,6 @@
 
 ====== S. N. Sharma ======
 
-<card class="letter">
 Dehradan, India
 
 My dear S.N. Sharma,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

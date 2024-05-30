@@ -9,7 +9,6 @@
 
 ====== Govinda ======
 
-<card class="letter">
 Ookala, Hawaii
 
 My dear Govinda devi dasi:
@@ -39,4 +38,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

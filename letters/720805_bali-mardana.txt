@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 New York
 
 My dear Bali-mardana,
@@ -28,4 +27,3 @@ A.C. Bhaktivedanta Swami
 Bali M. = r.e. your letter to me of 28th instant, I can't say what Prabhupada's schedule will be for NY, it looks like we'll be going to L.A. in a few days due to poor health. Will let you know -Jaya!
 
 Enclosed find one article for BTG written by Acyutananda Swami = recommended for publishing by Prabhupada - S.D.A.
-</card>

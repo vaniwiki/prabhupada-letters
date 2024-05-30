@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 San Antonio
 
 Dear Satsvarupa Das;
@@ -46,4 +45,3 @@ S. Shomaker---__Birmala__
 B. Jacobs---__Bir Krishna__
 
 D. Nauyokas---__Bir Laksmana__
-</card>

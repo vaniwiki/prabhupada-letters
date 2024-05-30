@@ -9,7 +9,6 @@
 
 ====== Madhusudana Bhakti Vilas, Ms Chaterjee ======
 
-<card class="letter">
 Sriman Madhusudana Das Bhakti Vilas\\
 (Ms Chaterjee)\\
 Vandana, 3rd Floor\\
@@ -27,4 +26,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

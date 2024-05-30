@@ -9,7 +9,6 @@
 
 ====== Jayapataka ======
 
-<card class="letter">
 My dear Jaya Pataka,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 21st April, 1970.
@@ -30,4 +29,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

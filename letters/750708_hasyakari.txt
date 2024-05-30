@@ -9,7 +9,6 @@
 
 ====== Hasyakari ======
 
-<card class="letter">
 Washington D.C.
 
 My dear Hasyakari das:
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

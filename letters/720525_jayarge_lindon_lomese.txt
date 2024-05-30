@@ -9,7 +9,6 @@
 
 ====== Jayarge, Lindon Lomese ======
 
-<card class="letter">
 Seattle
 
 My dear Jayarge and Lindon Lomese,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
-</card>

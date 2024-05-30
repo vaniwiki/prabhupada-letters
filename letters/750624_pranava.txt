@@ -9,7 +9,6 @@
 
 ====== Pranava ======
 
-<card class="letter">
 Vrindaban
 
 My dear Pranava das:
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

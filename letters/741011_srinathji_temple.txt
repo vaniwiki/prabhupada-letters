@@ -9,7 +9,6 @@
 
 ====== Srinathji Temple ======
 
-<card class="letter">
 Srinathji Temple\\
 Nathadwara, Rajasthan
 
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: Murtidas, ISKCON Delhi
-</card>

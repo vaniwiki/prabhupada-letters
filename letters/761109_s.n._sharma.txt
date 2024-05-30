@@ -9,7 +9,6 @@
 
 ====== S. N. Sharma ======
 
-<card class="letter">
 My dear S.N. Sharma,
 
 I am in receipt of your letter dated 6/11/76 and have noted the contents carefully.
@@ -21,4 +20,3 @@ We have no business with Tagore's Gitanjali. We are simply interested in spreadi
 Faithfully yours,
 
 A.C. Bhaktivedanta Swami
-</card>

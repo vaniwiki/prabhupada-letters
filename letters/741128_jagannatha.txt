@@ -9,7 +9,6 @@
 
 ====== Jagannatha ======
 
-<card class="letter">
 New Vrindaban
 
 My dear Jagannatha dasa:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

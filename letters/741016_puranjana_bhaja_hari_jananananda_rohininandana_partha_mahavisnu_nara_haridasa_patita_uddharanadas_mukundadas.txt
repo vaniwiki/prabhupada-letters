@@ -9,7 +9,6 @@
 
 ====== Puranjana, Bhaja Hari, Jananananda, Rohininandana, Partha, Mahavisnu, Nara Haridasa, Patita Uddharanadas, Mukundadas ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My Dear Puranjana, Bhaja Hari,
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Brhatbanu (Brian Peverill), Jagadadija (Jean Luc Norroy) ======
 
-<card class="letter">
 Amsterdam
 
 My dear Sons,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

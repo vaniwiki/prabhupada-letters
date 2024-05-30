@@ -9,7 +9,6 @@
 
 ====== Hitsaranji ======
 
-<card class="letter">
 Dear Hitsaranji,
 
 Please accept my blessings. With further reference to my letter dated November 1, 1969, I beg to inform you that immediately I want one pair of Radha-Krishna Deities in London. If you will kindly send me out of the five pairs contributed by the Dalmia Trust and Birla Trust at least one pair to London by the quickest transport, maybe by air cargo, then it will be very kind of you. Kindly treat this as urgent. I hope this will find you in good health. I am awaiting your early reply.
@@ -17,4 +16,3 @@ Please accept my blessings. With further reference to my letter dated November 1
 Affectionately yours,
 
 A.C. Bhaktivedanta Swami
-</card>

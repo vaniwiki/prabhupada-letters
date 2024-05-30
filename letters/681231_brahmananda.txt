@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of December 27, 1968 and I have noted the contents carefully.
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 NB: I have just received your letter of December 28, 1968. As you have nicely suggested, I am sending one copy of __Bhagavad-gita As It Is__ to Srimati Morarji, but I do not think we require to send one to Dr. Radhakrishnan. In the future it is all right if we open a letter of credit with the United Shipping Company. Regarding this order sent on December 12, 1968, please send me a price breakdown of the various items so we may see how it totals to $250. ACB\\
 P.S. I have not heard anything from Gargamuni since a long time neither any check %%__%%. I am simply thinking of $7000.00 always as it is withdrawn from my savings. It must be filled up as soon as possible. ACB
-</card>

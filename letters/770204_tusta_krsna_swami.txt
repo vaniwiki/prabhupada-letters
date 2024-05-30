@@ -9,7 +9,6 @@
 
 ====== Tusta Krsna Swami ======
 
-<card class="letter">
 His Holiness Tusta Krsna Swami\\
 PO Box 82, Mairangi Bay, Auckland\\
 New Zealand
@@ -27,4 +26,3 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

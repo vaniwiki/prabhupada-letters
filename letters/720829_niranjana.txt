@@ -9,7 +9,6 @@
 
 ====== Niranjana ======
 
-<card class="letter">
 Varanasi
 
 Dear Niranjana,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

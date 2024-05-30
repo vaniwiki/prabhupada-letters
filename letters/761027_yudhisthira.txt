@@ -9,7 +9,6 @@
 
 ====== Yudhisthira ======
 
-<card class="letter">
 Friendship, New York
 
 My dear Yudhisthira,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

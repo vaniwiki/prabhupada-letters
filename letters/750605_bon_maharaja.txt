@@ -9,7 +9,6 @@
 
 ====== Bon Maharaja ======
 
-<card class="letter">
 His Holiness, Sri Srimad\\
 B.H. Bon Maharaja\\
 c/o Joseph T. O'Connell\\
@@ -29,4 +28,3 @@ Your obedient servant,
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

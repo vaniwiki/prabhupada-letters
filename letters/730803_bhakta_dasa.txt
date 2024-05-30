@@ -9,7 +9,6 @@
 
 ====== Bhakta dasa ======
 
-<card class="letter">
 My dear Bhakta Dasa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 29 July, 1973 and I have noted the contents very carefully.
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. Money may be sent to the following Account: Central Bank of India, Head office Bombay, ISKCON---Building Fund Account No. 9-381\\
 ACBS/hda
-</card>

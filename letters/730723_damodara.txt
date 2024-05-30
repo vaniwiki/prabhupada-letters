@@ -9,7 +9,6 @@
 
 ====== Damodara ======
 
-<card class="letter">
 Dear Damodara,
 
 Please accept my blessings. I beg to acknowledge receipt of you letter dated July 19, 1973 and I have carefully considered the contents.
@@ -20,4 +19,3 @@ On your recommendation, I have chanted on the threads enclosed for second initia
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

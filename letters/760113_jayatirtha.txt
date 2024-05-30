@@ -9,7 +9,6 @@
 
 ====== Jayatirtha ======
 
-<card class="letter">
 Berkeley
 
 My dear Jayatirtha,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

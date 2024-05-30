@@ -9,7 +9,6 @@
 
 ====== Sri S. R. Acarya ======
 
-<card class="letter">
 Sri S.R. Acarya,\\
 Sripally Palta\\
 P.O. Bengal Enamel,\\
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

@@ -9,7 +9,6 @@
 
 ====== Ambassador of the of United States of America ======
 
-<card class="letter">
 The Ambassador of the\\
 United States of America,\\
 Canakya Puri,\\
@@ -27,4 +26,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

@@ -9,7 +9,6 @@
 
 ====== Yamal, Arjuna ======
 
-<card class="letter">
 Los Angeles
 
 My dear Yamal and Arjuna Das:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

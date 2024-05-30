@@ -9,7 +9,6 @@
 
 ====== Yashma Sarna ======
 
-<card class="letter">
 Srimati Yashma Sarna,\\
 Muhuroni close, Ngara Rd.\\
 P.O. Box 28946,\\
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

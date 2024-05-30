@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 My dear Tamala Krishna,
 
 Please accept my blessings. I beg to thank you for your letter dated September 13rd, 1969, and I am so glad to learn that two new branches are now opened; one in Laguna Beach, another in Tokyo. With great interest I read the letter of Sudama, and I have also sent him a letter of congratulations. You have proposed to go to Japan next year, and I am very much pleased on this point. I wish to go with a big Sankirtana Party from Los Angeles. So if we can overflood Japan with this Sankirtana Movement, it will be a great great achievement in the Eastern countries, and if we move little further more into China and Russia, then we shall build up a strong belt all around the world of the International Society for Krishna Consciousness.
@@ -24,4 +23,3 @@ Please convey my blessings to the others. I hope this will meet you in good heal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sri Ramchandra Chabriaji ======
 
-<card class="letter">
 Sri Ramchandra Chabriaji\\
 Soa Palaco Road\\
 26, Strand Road\\
@@ -29,4 +28,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

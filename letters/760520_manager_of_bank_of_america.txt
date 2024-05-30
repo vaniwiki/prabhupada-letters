@@ -9,7 +9,6 @@
 
 ====== Manager of Bank of America ======
 
-<card class="letter">
 The Manager, Bank of America,\\
 Bombay Branch, Express Towers,\\
 Nariman Point, P.O. Box 10080,\\
@@ -40,4 +39,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 copy: Giriraja
-</card>

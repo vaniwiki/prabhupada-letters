@@ -9,7 +9,6 @@
 
 ====== Mahavir Prasad Jaipuriaji ======
 
-<card class="letter">
 New Delhi
 
 My dear Mahavir Prasad Jaipuriaji:
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

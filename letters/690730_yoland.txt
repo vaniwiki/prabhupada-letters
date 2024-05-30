@@ -9,7 +9,6 @@
 
 ====== Yoland ======
 
-<card class="letter">
 My dear Yoland,
 
 Please accept my blessings. I am in due receipt of your letter dated 26 July, 1969 and your nice poems, and I have read everything carefully. The poems will be submitted to Hayagriva, the editor of __Back To Godhead,__ for his consideration for publication. I am very pleased to learn that you are now living at the Montreal temple, and this association with devotees of Lord Krishna will help you to advance further in Krishna Consciousness. You have asked me, "Could you accept me as your student until eternity?" My reply is that you may discuss this matter with Jayapataka, who is in charge there, and if he agrees, then you may submit your beads to me through the mail. Also, there is some possibility that I will be going to Germany sometime in August, and in that case I will be stopping in New York. So if you are able to meet me in New York, then the ceremony could be performed there.
@@ -20,4 +19,3 @@ I am very pleased to note that you are chanting 25 rounds daily. Please continue
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

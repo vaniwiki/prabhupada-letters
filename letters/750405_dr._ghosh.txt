@@ -9,7 +9,6 @@
 
 ====== Dr. Ghosh ======
 
-<card class="letter">
 Dr. G. Ghosh\\
 Gyan Bhawan\\
 22 %%_%% Road\\
@@ -27,4 +26,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

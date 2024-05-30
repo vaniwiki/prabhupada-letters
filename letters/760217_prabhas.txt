@@ -9,7 +9,6 @@
 
 ====== Prabhas ======
 
-<card class="letter">
 Poona
 
 My dear Prabhas das,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Suchitra ======
 
-<card class="letter">
 New Vrindaban
 
 My dear Suchitra devi dasi:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

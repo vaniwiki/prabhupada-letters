@@ -9,7 +9,6 @@
 
 ====== Kunj Bihari Shastri ======
 
-<card class="letter">
 Mathura, U.P., India
 
 My dear Kunj Bihari Shastri,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

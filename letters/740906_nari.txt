@@ -9,7 +9,6 @@
 
 ====== Nari ======
 
-<card class="letter">
 Buffalo
 
 My dear Nari devi dasi:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

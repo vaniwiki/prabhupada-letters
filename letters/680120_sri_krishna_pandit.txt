@@ -9,7 +9,6 @@
 
 ====== Sri Krishna Pandit ======
 
-<card class="letter">
 Hari Bhaktanudas Sri Krishna Pandit\\
 4092 Kuncha Dilwali Singh\\
 Ajmary Gate, Delhi 6\\
@@ -31,4 +30,3 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

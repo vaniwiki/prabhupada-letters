@@ -9,7 +9,6 @@
 
 ====== Tejiyas ======
 
-<card class="letter">
 Buffalo
 
 My dear Tejas Das,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

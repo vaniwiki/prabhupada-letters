@@ -9,7 +9,6 @@
 
 ====== President of United States ======
 
-<card class="letter">
 The President\\
 The White House\\
 Washington, D.C. 20025
@@ -28,4 +27,3 @@ I hope this meets you in best of health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

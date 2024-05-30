@@ -9,7 +9,6 @@
 
 ====== Richard ======
 
-<card class="letter">
 Mathura
 
 My dear Richard,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
-</card>

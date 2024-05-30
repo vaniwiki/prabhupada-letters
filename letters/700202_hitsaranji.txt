@@ -9,7 +9,6 @@
 
 ====== Hitsaranji ======
 
-<card class="letter">
 New Delhi
 
 My dear Hitsaranji,
@@ -66,4 +65,3 @@ Meguru-ku
 Tokyo, Japan\\
 So we require many pairs of Deities. Already 24 centers are there, and the next attempt will be in Berlin, Copenhagen, Amsterdam, etc.\\
 ACBS:db
-</card>

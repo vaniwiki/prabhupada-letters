@@ -9,7 +9,6 @@
 
 ====== Mr. Kugimoto ======
 
-<card class="letter">
 Mr. Maru Kugimoto\\
 Overseas Division\\
 Messrs. Dai Nippon Printing Co., Ltd.\\
@@ -34,4 +33,3 @@ A. C. Bhaktivedanta Swami
 ACBS:db
 
 cc---Mr. William Berke
-</card>

@@ -9,7 +9,6 @@
 
 ====== Manager, State Bank of India ======
 
-<card class="letter">
 Regd. Post\\
 State Bank of India,\\
 Vrindaban Branch\\
@@ -54,4 +53,3 @@ Encs:
 RECEIVED ON BEHALF OF STATE BANK OF INDIA, VRINDABAN BRANCH:
 
 Signature%%________________________%%
-</card>

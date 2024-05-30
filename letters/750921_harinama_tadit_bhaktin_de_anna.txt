@@ -9,7 +9,6 @@
 
 ====== Harinama, Tadit, Bhaktin De Anna ======
 
-<card class="letter">
 Srimati Harinama-devi dasi\\
 Srimati Tadit-devi dasi\\
 Bhaktin De Anna\\
@@ -25,4 +24,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

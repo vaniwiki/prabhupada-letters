@@ -9,7 +9,6 @@
 
 ====== Swami Sachchidanand Bharati ======
 
-<card class="letter">
 Swami Sachchidanand Bharati\\
 c/o Mohan Chand Agrawal\\
 Dropadi Bhavan, Baldeo Ganj\\
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gopala Krsna ======
 
-<card class="letter">
 My dear Gopala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 21, 1969. I am very glad to send you the beads for your initiation, but I think you wanted permission from your father, and I have received the following telegram from him: "Gopala Khanna at Montreal our only son pray his initiation to brahmanahood will doom and driven future of this small humble family. Pray abandon programme and earn our gratitude, cable. Accepting our prayers Lord bless every one and give us our joy back.---Mr. and Mrs. A. S. Khanna Aban Villa Santacruz East."
@@ -18,4 +17,3 @@ I do not know why you had wanted permission from your father. In the material wo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

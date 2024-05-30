@@ -9,7 +9,6 @@
 
 ====== Kacoriaji ======
 
-<card class="letter">
 New York
 
 My dear Kacoriaji,
@@ -25,4 +24,3 @@ Your well-wisher,
 A.C. Bhaktivedanta Swami
 
 ACBS/as
-</card>

@@ -9,7 +9,6 @@
 
 ====== Dr. Chaudhuri ======
 
-<card class="letter">
 Dear Dr. Chaudhuri,
 
 Please accept my greetings and blessings of Lord Krishna, and offer the same to Srimati Bina Chaudhuri and your sons and daughters. I am so glad to have received your letter dated January 27, 1969, and I have appreciated your comment about my book that it is "without doubt the best presentation so far to the western public of the teachings of Lord Krishna". Actually that was my purpose to write another commentary on the __Bhagavad-gita.__ I think I have explained this matter in my introduction.
@@ -28,4 +27,3 @@ Thanking you once more for your kind letter. I hope this will meet you in very g
 
 Yours affectionately,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Manager of Trade Bank & Trust Co ======
 
-<card class="letter">
 Manager, Trade Bank & Trust Co.\\
 2nd Avenue at 4th Street\\
 New York, N.Y. 10003
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 By registered post with A.D.\\
 Enclosure-Passbook
-</card>

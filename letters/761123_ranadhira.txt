@@ -9,7 +9,6 @@
 
 ====== Ranadhira ======
 
-<card class="letter">
 Los Angeles
 
 My dear Ranadhira,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

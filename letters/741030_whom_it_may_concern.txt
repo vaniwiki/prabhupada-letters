@@ -9,7 +9,6 @@
 
 ====== Whom it may concern ======
 
-<card class="letter">
 To Whom It May Concern:
 
 As the Founder-Acarya of the International Society for Krishna Consciousness, I authorize that the Society may incorporate under the Religious Societies Act of 1860 separately in West Bengal as the International Society for Krishna Consciousness (Calcutta) with myself as Founder-Acarya.
@@ -23,4 +22,3 @@ Signed:
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

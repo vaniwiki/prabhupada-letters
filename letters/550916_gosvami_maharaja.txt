@@ -9,7 +9,6 @@
 
 ====== Gosvami Maharaja ======
 
-<card class="letter">
 My dear Sripada Gosvami Maharaja,
 
 Please accept my respectful obeisances. I am in due receipt of your kind letter dated the 14th instant and I have noted the contents very carefully. I am glad that you have come back to Calcutta from the inundated area of Orissa and am more glad to learn that your holiness is trying to return to Delhi for creating a peaceful atmosphere here.
@@ -32,4 +31,3 @@ Regarding Typewriter machine I understand that Sripada Ramananda Prabhu is unwil
 
 Yours affectionately,\\
 A.C. Bhaktivedanta
-</card>

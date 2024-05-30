@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 My dear Jagadisa,
 
 Please accept my blessings. I am so very much encouraged to see your fine letter dated Sept. 21st, 1970, and your movement is being recognized by the sensible persons. Naturally there will be increase of new members everywhere.
@@ -26,4 +25,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

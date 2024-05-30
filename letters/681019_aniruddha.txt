@@ -9,7 +9,6 @@
 
 ====== Aniruddha ======
 
-<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I am duly in receipt of your letter of Oct. 16, 1968, from San Francisco. You have asked my permission whether you can stay in San Francisco, but I think your service will be required in Los Angeles. The Sankirtana party is going to Los Angeles very soon, and I shall decide about you when I go there. In the meantime, you stay in San Francisco, and help Cidananda as secretary.
@@ -20,4 +19,3 @@ Hope this meets you in good health, and more when we meet.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

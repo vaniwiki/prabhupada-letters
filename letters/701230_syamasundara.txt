@@ -9,7 +9,6 @@
 
 ====== Syamasundara ======
 
-<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 26th December, 1970.
@@ -30,4 +29,3 @@ P.S. Enclosed herewith, please find one letter to be signed by you and sent to t
 
 This letter is very important and you may personally hand over the same to the Editor so that it may be published immediately. We invite all kinds of men to discuss on this high philosophy of life. ACB.\\
 ACBS:ds
-</card>

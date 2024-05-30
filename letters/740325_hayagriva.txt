@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 New Vrindaban
 
 Dear Hayagriva,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

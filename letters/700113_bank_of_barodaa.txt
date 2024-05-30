@@ -9,7 +9,6 @@
 
 ====== Bank of Baroda ======
 
-<card class="letter">
 Bank of Baroda\\
 Mohan Mansion\\
 Chandi Chowk\\
@@ -33,4 +32,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

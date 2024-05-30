@@ -9,7 +9,6 @@
 
 ====== Sukadeva ======
 
-<card class="letter">
 Honolulu
 
 My dear Sukadeva das,
@@ -40,4 +39,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

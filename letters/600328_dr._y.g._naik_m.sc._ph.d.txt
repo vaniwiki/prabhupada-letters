@@ -9,7 +9,6 @@
 
 ====== Dr. Y. G. Naik M.Sc., Ph.D ======
 
-<card class="letter">
 Dr. Y. G. Naik M.Sc., Ph.D.,\\
 Principal Gujarat College,\\
 Dean, Faculty of Science,\\
@@ -37,4 +36,3 @@ I shall be very glad if you join my mission (The League of Devotees) and on rece
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

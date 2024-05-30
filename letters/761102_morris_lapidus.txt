@@ -9,7 +9,6 @@
 
 ====== Morris Lapidus ======
 
-<card class="letter">
 Brooklyn
 
 My dear Morris Lapidus,
@@ -22,4 +21,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

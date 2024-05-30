@@ -9,7 +9,6 @@
 
 ====== Rayarama, Satsvarupa ======
 
-<card class="letter">
 My Dear Rayarama
 
 My dear Satsvarupa,
@@ -47,4 +46,3 @@ Hope you are well. Further Gargamuni suggested that there is some chance of open
 
 Yours ever well wisher\\
 A.C. Bhaktivedanta Swami
-</card>

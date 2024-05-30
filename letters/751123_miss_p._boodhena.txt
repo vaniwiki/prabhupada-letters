@@ -9,7 +9,6 @@
 
 ====== Miss P. Boodhena ======
 
-<card class="letter">
 Miss P. Boodhena\\
 Clairfonds Road\\
 Vacoas, Mauritius\\
@@ -27,4 +26,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mr. Genxo Abe ======
 
-<card class="letter">
 Mr. Genzo Abe\\
 Mayor of Fukuoka City\\
 Fukuoka City\\
@@ -52,4 +51,3 @@ N.B. A similar letter by air is also sent to\\
 Mr. Teruta Kunito\\
 Mayor of Takamatsu City\\
 Takamatsu City, Shikoku Island, Japan
-</card>

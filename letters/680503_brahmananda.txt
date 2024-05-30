@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your letter dated May 1, 1968, along with enclosure of Acyutananda's letter. On the day of our departure I was expecting you in the airport, but I think as you are young man, you were tired on the last night, on the 30th April, on account of late arriving from the Long Island meeting, and you could not get up earlier from your bed. In that sense, I am more active than you because on that night also I got up from my bed at 4:00 a.m. instead of 2:00 a.m. as usually, and I worked on my usual duties. So you young men should not simply eulogize my hard working capacity, but I wish that you should also follow my example.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Enclosure---2
-</card>

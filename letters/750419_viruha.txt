@@ -9,7 +9,6 @@
 
 ====== Viruha ======
 
-<card class="letter">
 Paris
 
 My dear Viruha dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

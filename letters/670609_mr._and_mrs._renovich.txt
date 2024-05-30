@@ -9,7 +9,6 @@
 
 ====== Mr. and Mrs. Renovich ======
 
-<card class="letter">
 S. B. & K. Renovich\\
 4909 Norfolk St.\\
 Burnaby 2, B.C.\\
@@ -24,4 +23,3 @@ In our three branches, (New York, San Francisco, and Montreal), this new line of
 I wish to open a similar branch in Vancouver with your cooperation. If you are serious about it, then you arrange for our reception, and I may go there with some of my disciples. The Indians in Montreal are taking a great interest in our temple, and similarly we may expect that when there is a temple in Vancouver all the Indians will take an interest. One of my chief disciples, Sriman Kirtanananda, has very nicely organized the Montreal center, and on hearing from you either myself or Kirtanananda may go to your place. This Sankirtana movement is so natural and nice; we had a very good experience at Stanford University where all the students joined with us and danced with us. I am enclosing one press report and hope you enjoy it.
 
 Yours sincerely,
-</card>

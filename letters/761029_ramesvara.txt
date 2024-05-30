@@ -9,7 +9,6 @@
 
 ====== Ramesvara ======
 
-<card class="letter">
 Los Angeles
 
 My dear Ramesvara,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

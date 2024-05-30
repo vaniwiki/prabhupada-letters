@@ -9,7 +9,6 @@
 
 ====== Gurudasa, Yamuna ======
 
-<card class="letter">
 Vrndavana
 
 My dear Gurudasa and Yamuna,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

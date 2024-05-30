@@ -9,7 +9,6 @@
 
 ====== Indra-pramada ======
 
-<card class="letter">
 Brooklyn
 
 My dear Indra pramada das,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

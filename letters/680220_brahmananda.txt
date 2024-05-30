@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 New York
 
 My dear Brahmananda,
@@ -36,4 +35,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 * I have done it just this afternoon. His opinion is there is nothing wrong in my general health. He will test my sugar blood tomorrow.
-</card>

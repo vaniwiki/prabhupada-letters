@@ -9,7 +9,6 @@
 
 ====== Hasyapriya ======
 
-<card class="letter">
 Los Angeles
 
 My dear Hasyapriya das,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 cc: Srutakirti
-</card>

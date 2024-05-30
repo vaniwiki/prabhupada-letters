@@ -9,7 +9,6 @@
 
 ====== Raktaka ======
 
-<card class="letter">
 Montreal
 
 My dear Raktaka,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/db
-</card>

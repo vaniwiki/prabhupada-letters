@@ -9,7 +9,6 @@
 
 ====== Govardhan 3 ======
 
-<card class="letter">
 8311 E. Jefferson\\
 Detroit, Mich 48214
 
@@ -23,4 +22,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 Encl: 1 sacred thread
-</card>

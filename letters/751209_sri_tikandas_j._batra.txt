@@ -9,7 +9,6 @@
 
 ====== Sri Tikandas J. Batra ======
 
-<card class="letter">
 Sri Tikandas J. Batra\\
 Kurla Rd., Andheri,\\
 Bombay---400-093
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

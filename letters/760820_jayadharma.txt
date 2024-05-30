@@ -9,7 +9,6 @@
 
 ====== Jayadharma ======
 
-<card class="letter">
 Sydney
 
 My dear Jayadharma das,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

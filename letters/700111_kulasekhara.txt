@@ -9,7 +9,6 @@
 
 ====== Kulasekhara ======
 
-<card class="letter">
 My dear Kulasekhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated December 3, 1969, and I am pleased to learn that your wife, Visakha, has gone to London to learn more about Deity worship from Yamuna devi. And also I am pleased to know that you have taken charge of the Deities at present. This is very nice.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB:db
-</card>

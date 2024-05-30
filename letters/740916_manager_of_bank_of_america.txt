@@ -9,7 +9,6 @@
 
 ====== Manager of Bank of America ======
 
-<card class="letter">
 The Manager\\
 Bank of America\\
 Branch #600, Main Office\\
@@ -29,4 +28,3 @@ ACBS/bs\\
 N.B. It is understood from the State Bank of India that they are also your correspondent. I would like to know whether it is possible for you to transfer our money directly to the State Bank of India, Mathura Branch. Kindly inform me if you are having correspondence with their Mathura Branch.
 
 A.C. B.S.
-</card>

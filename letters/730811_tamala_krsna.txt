@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 Bombay
 
 My dear Tamala Krishna,
@@ -24,4 +23,3 @@ I hope this letter meets you in good health.
 
 Your ever well wisher\\
 A.C. Bhaktivedanta Swami
-</card>

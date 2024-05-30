@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I am in due receipt of your letter dated May 7, 1973 and have noted the contents.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. That Lalitananda Vana, who was formerly Hrsikesa Brahmacary my disciple, wants to join us again. Can you give me some information about him as you met him several times in Bombay.
-</card>

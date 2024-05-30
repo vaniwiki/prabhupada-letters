@@ -9,7 +9,6 @@
 
 ====== Sri N. Tombi Singh ======
 
-<card class="letter">
 Sri N. Tombi Singh, M.P.\\
 (Lok Saba)\\
 108 South Avenue\\
@@ -31,4 +30,3 @@ Secretary, Manipur Gita Mandal
 
 Dr. T. H. Damodar Singh\\
 Atlanta, Georgia, U.S.A.
-</card>

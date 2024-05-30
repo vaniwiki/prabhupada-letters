@@ -9,7 +9,6 @@
 
 ====== Ramesvar ======
 
-<card class="letter">
 @to: Ramesvar
 @place: Bombay
 @date: November 17
@@ -31,4 +30,3 @@ Brahmananda Swami
 Personal Secretary
 
 Approved: ACBS
-</card>

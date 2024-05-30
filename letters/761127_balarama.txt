@@ -9,7 +9,6 @@
 
 ====== Balarama ======
 
-<card class="letter">
 Vrindaban
 
 My dear Balarama,
@@ -31,4 +30,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

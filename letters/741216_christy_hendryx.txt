@@ -9,7 +9,6 @@
 
 ====== Christy Hendryx ======
 
-<card class="letter">
 Seattle
 
 My dear Christy Hendryx,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

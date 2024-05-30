@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 San Francisco
 
 My dear Gargamuni,
@@ -30,4 +29,3 @@ Thanking you once more,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

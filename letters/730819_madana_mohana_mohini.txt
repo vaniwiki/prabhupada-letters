@@ -9,7 +9,6 @@
 
 ====== Madana Mohana Mohini ======
 
-<card class="letter">
 Berlin, West Germany
 
 My dear Modan Mohan Mohini,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:hda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Manager of Lloyds Bank ======
 
-<card class="letter">
 Manager\\
 Lloyds Bank Limited\\
 Long Acre Brand\\
@@ -23,4 +22,3 @@ Replying your letter of 24th November, 1964, I am returning herewith the bill of
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami\\
 ACBS:pdb
-</card>

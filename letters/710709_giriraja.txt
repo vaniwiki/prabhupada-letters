@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 My dear Giriraja,
 
 Please accept my greetings and blessings for all of you. I am very anxious to know about Mayapur. Since I have come here I have not heard from you. I have sent one telegram to Tamala but there is no reply. So will you kindly send me a detailed report of your activities regarding Mayapur affairs? Please send me a report every week & oblige. I have requested Acyutananda Swami also to send me weekly reports. But I have not heard from him also. Please treat this letter as urgent and reply immediately.
@@ -18,4 +17,3 @@ Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

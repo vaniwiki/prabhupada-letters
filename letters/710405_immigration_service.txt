@@ -9,7 +9,6 @@
 
 ====== Immigration Service ======
 
-<card class="letter">
 Manager, Indian Visa Department,\\
 Immigration Service,\\
 Suva, Fiji Island
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

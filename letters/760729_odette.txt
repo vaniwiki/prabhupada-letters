@@ -9,7 +9,6 @@
 
 ====== Odette ======
 
-<card class="letter">
 My dear Odette:
 
 Please accept my blessings. I am in due receipt of your poem offering and I want to thank you very much for it. I have appreciated the sentiments expressed within and I hope that you will continue to advance more and more in your Krsna consciousness.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

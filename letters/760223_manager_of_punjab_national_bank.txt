@@ -9,7 +9,6 @@
 
 ====== Manager of Punjab National Bank ======
 
-<card class="letter">
 The Manager\\
 Punjab National Bank\\
 Vrndaban
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

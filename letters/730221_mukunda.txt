@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter dated 13 February 1973 and have noted its contents carefully. Your program for working with the TV personalities seems to be very nice. Even though the results are not coming so quickly, please do not be discouraged.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ms
-</card>

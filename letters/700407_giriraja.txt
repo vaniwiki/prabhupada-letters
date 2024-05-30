@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 Boston
 
 My dear Giriraja,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

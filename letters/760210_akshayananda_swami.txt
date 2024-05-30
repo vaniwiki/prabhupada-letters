@@ -9,7 +9,6 @@
 
 ====== Akshayananda Swami ======
 
-<card class="letter">
 Mayapur Candrodaya Mandir\\
 P.O. Sridham Mayapur\\
 Dist. Nadia, West Bengal
@@ -32,4 +31,3 @@ His Holiness Akshayananda Swami
 Krishna Balaram Mandir\\
 Vrndavana\\
 ACBS/dda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Siddha Svarupananda ======
 
-<card class="letter">
 San Francisco
 
 My dear Siddha Svarupananada Maharaja:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

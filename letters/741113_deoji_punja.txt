@@ -9,7 +9,6 @@
 
 ====== Deoji Punja ======
 
-<card class="letter">
 Punja & Sons Ltd.\\
 P.O. box 125\\
 Lautoka, Fiji
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

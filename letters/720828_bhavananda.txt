@@ -9,7 +9,6 @@
 
 ====== Bhavananda ======
 
-<card class="letter">
 Center : Los Angeles ISKCON
 
 My dear Bhavananda, 
@@ -38,4 +37,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sumati Morarjee ======
 
-<card class="letter">
 Madam Sumati Morarjee Baisaheba,
 
 Please accept my greetings. I hope you are doing well. Since a long time I have not heard from you. I hope this letter will find you in good health and devotional service of Lord Krishna. I hope you are getting my "Back to Godhead" paper regularly, and you will be glad to know that the paper has increased in circulation by this time and we are printing 50,000 copies per month.
@@ -24,4 +23,3 @@ Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

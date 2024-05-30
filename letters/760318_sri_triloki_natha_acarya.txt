@@ -9,7 +9,6 @@
 
 ====== Sri Triloki Natha Acarya ======
 
-<card class="letter">
 Sri Triloki Natha Acarya,\\
 Jnana, Gudadi (Gudri)\\
 Vrindaban, (Mathura District)\\
@@ -29,4 +28,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

@@ -9,7 +9,6 @@
 
 ====== Krsna dasa ======
 
-<card class="letter">
 My dear Krishna das,
 
 Please accept my blessings. I thank you very much for your letter of 18th August, 1969, and today I have arranged to go to your place as follows: We shall arrive in Hamburg this Monday, August 25th, at 6:10. We are taking Lufthansa Airlines, flight 409. We are starting from Los Angeles at 8:00 AM on 23rd August, and reaching New York sometimes in the afternoon about 4:00 o'clock New York Time. I shall take rest there for 24 hours, and then start for Hamburg on Sunday, the 24th, and then reach Hamburg on Monday, the 25th at 6:10 AM. So kindly arrange to receive me. We are both starting together, Purusottama and myself. To inform you earlier I sent you one telegram this morning reading as follows: ARRIVING HAMBURG FLIGHT 409 LUFTHANSA AUGUST 25TH AT 6:10 AM.
@@ -20,4 +19,3 @@ I hope you will receive this letter, sent by Special Delivery, at least by Sunda
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

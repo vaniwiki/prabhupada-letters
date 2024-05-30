@@ -9,7 +9,6 @@
 
 ====== Jayapataka ======
 
-<card class="letter">
 Mayapur
 
 My dear Jayapataka Maharaja:
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 N.B. Regarding land purchase give me your scheme and I shall consult Bali Mardan and Karandhara, or we can consider when they come to Mayapur next. ACBS
-</card>

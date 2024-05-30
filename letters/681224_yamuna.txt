@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 London
 
 My dear Yamuna,
@@ -22,4 +21,3 @@ So please convey my blessings to your husband, and I hope that you are both well
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

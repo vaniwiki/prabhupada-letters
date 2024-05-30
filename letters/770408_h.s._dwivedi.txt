@@ -9,7 +9,6 @@
 
 ====== H.S. Dwivedi ======
 
-<card class="letter">
 Secretary, Adarsh Seva Sangha,\\
 Pohri Dist. Shivpuri MP.
 
@@ -137,4 +136,3 @@ Yours affectionately,
 sd/
 
 (M. Channa Reddy)
-</card>

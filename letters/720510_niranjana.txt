@@ -9,7 +9,6 @@
 
 ====== Niranjana ======
 
-<card class="letter">
 Varanasi
 
 My dear Niranjana,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 *3764 Watseka Avenue\\
 Los Angeles, Calif. 90034.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Karandhara, Tamala Krsna, Bhavananda, Giriraja ======
 
-<card class="letter">
 Bombay
 
 My dear Karandhara, Tamala Krishna, Bhavananda and Giriraja,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

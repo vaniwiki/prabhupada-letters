@@ -9,7 +9,6 @@
 
 ====== Visvambhara Dayala Agarwal ======
 
-<card class="letter">
 Sriman Visvambhara Dayala Agarwal,\\
 Vrndavana
 
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

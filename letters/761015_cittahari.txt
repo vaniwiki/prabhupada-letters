@@ -9,7 +9,6 @@
 
 ====== Cittahari ======
 
-<card class="letter">
 My dear Cittahari Prabhu,
 
 Please accept my blessings. I am in due receipt of your letter dated 28th September 1976.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hds
-</card>

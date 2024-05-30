@@ -9,7 +9,6 @@
 
 ====== Hiranyagarbha ======
 
-<card class="letter">
 New Vrndavana
 
 My dear Hiranyagarbha das,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
-</card>

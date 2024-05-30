@@ -9,7 +9,6 @@
 
 ====== Beharilal ======
 
-<card class="letter">
 My dear Beharilal,
 
 Please accept my blessings. I am in receipt of your letter dated November 8, 1973 just now received by me as it was redirected from India.
@@ -19,4 +18,3 @@ I hope this meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

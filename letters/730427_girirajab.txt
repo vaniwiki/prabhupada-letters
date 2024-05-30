@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 Bombay
 
 GIRIRAJA
@@ -17,4 +16,3 @@ GIRIRAJA
 ANXIOUS TO KNOW REPORT WHY ARE YOU SILENT
 
 BHAKTIVEDANTA SWAMI
-</card>

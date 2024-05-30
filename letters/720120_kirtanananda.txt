@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 Orlando, Florida
 
 My dear Kirtanananda,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 P.S. For the last one week we are having Festival in Jaipur (Rajasthan)
-</card>

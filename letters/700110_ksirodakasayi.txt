@@ -9,7 +9,6 @@
 
 ====== Ksirodakasayi ======
 
-<card class="letter">
 c/o Friendly Store\\
 85 Dudden Hill Lane\\
 London N.W. 10\\
@@ -31,4 +30,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

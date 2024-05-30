@@ -9,7 +9,6 @@
 
 ====== Joanne, Connie ======
 
-<card class="letter">
 Columbus, Ohio
 
 My dear Srimati Joanne and Connie,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

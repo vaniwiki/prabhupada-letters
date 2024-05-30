@@ -9,7 +9,6 @@
 
 ====== Mr. Ram Patel ======
 
-<card class="letter">
 Sri Ram Patel\\
 105 Park Avenue\\
 Southall, Middlesex\\
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

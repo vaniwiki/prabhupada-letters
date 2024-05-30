@@ -9,7 +9,6 @@
 
 ====== Gurudasa, Yamuna ======
 
-<card class="letter">
 Delhi
 
 My dear Gurudasa and Yamuna,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/adb\\
 cc: Mahanta Dhinabandhudas
-</card>

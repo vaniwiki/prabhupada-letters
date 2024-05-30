@@ -9,7 +9,6 @@
 
 ====== Dinadayadri, Nara-narayana ======
 
-<card class="letter">
 Boston
 
 My dear Dinadayadri and Nara Narayana,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 My dear Gargamuni,
 
 Please accept my blessings. Regarding the land in Vrindaban, Mr. Sarif has promised but he has not given, so forget that proposition. Enclosed find the copy of a letter to Gauracandra Goswami. Deliver it to him, and if Gauracandra replies me in writing, then we can consider that possibility. Then we can take the matter seriously.
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 n.b. Regarding land on the Yamuna-side, if there is flood, it will be difficult to be there. They wanted to give %%____%% 4 acres near the Town Hall. Give a copy of your %%____%% to me. Make inquiry why my letter was not received at Vrindaban P.O. I am sending the receipt.\\
 ACBS/sda
-</card>

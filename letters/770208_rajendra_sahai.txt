@@ -9,7 +9,6 @@
 
 ====== Rajendra Sahai ======
 
-<card class="letter">
 Rajendra Sahai \\
 Maswani, Bhakti Bhawan\\
 Fatehpur, U.P.
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gaura Hari ======
 
-<card class="letter">
 My dear Gaura Hari,
 
 Please accept my blessings. I beg to thank you for your nice letter dated 26 Damodara 484 Caitanya Era. It is my great pleasure that so many fine young boys have joined this Krsna Consciousness Movement and they are finding that their lives have been saved by this simple process. I have many times expressed my sympathy with the frustrated and unhappy younger generation of your country and it is our duty to teach them this formula for peace and happiness by chanting the Mahamantra. This is the business of a devotee, he himself finds the secret that by simply loving Krsna one automatically acquires love for all other beings and he takes it as the prime duty of life to spread this sublime knowledge to everyone he meets.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

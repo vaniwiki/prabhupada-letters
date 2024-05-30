@@ -9,7 +9,6 @@
 
 ====== Prabhas Candra Mittra ======
 
-<card class="letter">
 Sri Prabhas Candra Mittra\\
 United Shipping Corporation\\
 14/2, Old China Bazar Street (Block No. 18)\\
@@ -45,4 +44,3 @@ Thanking you in anticipation of your reply.
 
 Yours truly,\\
 A.C. Bhaktivedanta Swami
-</card>

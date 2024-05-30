@@ -9,7 +9,6 @@
 
 ====== K.C. Kapur ======
 
-<card class="letter">
 Sri K.C. Kapur\\
 44 Kailash\\
 P.O. Box no. 31\\
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

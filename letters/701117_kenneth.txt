@@ -9,7 +9,6 @@
 
 ====== Kenneth ======
 
-<card class="letter">
 New Vrndavana
 
 My dear Sriman Kenneth,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mahatma ======
 
-<card class="letter">
 San Diego
 
 My dear Mahatma das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

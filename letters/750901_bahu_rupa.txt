@@ -9,7 +9,6 @@
 
 ====== Bahu Rupa ======
 
-<card class="letter">
 Bahu Rupa Das\\
 P.O. Box 4758\\
 Long Beach, CA. 90804
@@ -27,4 +26,3 @@ I hope that this meets you in good health.
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami\\
 ACBS/bs
-</card>

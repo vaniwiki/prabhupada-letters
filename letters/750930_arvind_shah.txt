@@ -9,7 +9,6 @@
 
 ====== Arvind Shah ======
 
-<card class="letter">
 Arvind Shah (Mathiawala)\\
 166 Parkview Ext.\\
 Athens, Georgia 30601
@@ -24,4 +23,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

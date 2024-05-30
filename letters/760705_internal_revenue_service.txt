@@ -9,7 +9,6 @@
 
 ====== Internal Revenue Service ======
 
-<card class="letter">
 Internal Revenue Service\\
 United States of America
 
@@ -24,4 +23,3 @@ A.C. Bhaktivedanta Swami,
 
 Chairman of the Board of Trustees\\
 ACBS/pks
-</card>

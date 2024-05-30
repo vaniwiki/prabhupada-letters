@@ -9,7 +9,6 @@
 
 ====== Syamasundara ======
 
-<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I am in due receipt of your letter of January 7, 1969, and before this I had also received your letter of January 2, 1969, and have noted the contents with great encouragement. Although nothing is settled as of yet, I can understand that things are progressing well and as you write in your letter under reply, the meeting was very successful, and we shall soon be able to have a nice temple in London.
@@ -22,4 +21,3 @@ Please convey my hearty blessings to the others there with you. I hope this find
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Eldest son of the late Mr. Atulya De ======
 
-<card class="letter">
 The eldest son of the late,\\
 Mr. Atulya De\\
 P.O. Barala, Dist. Mursidabad\\
@@ -26,4 +25,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 N.B.. If possible, you may reply this letter to my Honolulu address: 51 Coelho Way, Honolulu, Hawaii, USA.
-</card>

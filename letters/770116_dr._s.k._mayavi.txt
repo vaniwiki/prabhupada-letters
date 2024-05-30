@@ -9,7 +9,6 @@
 
 ====== Dr. S.K. Mayavi ======
 
-<card class="letter">
 Dr. S.K. Mayavi\\
 Brajesh Films\\
 Mavawala, Gupte Market\\
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:rds
-</card>

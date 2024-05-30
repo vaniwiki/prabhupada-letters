@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -36,4 +35,3 @@ A.C. Bhaktivedanta Swami
 P.S. As this letter was being written, I have received your next letter dated August 19th, 1970, and thank you very much for sending the check for $2600 to Dai Nippon to be placed in the "Bhaktivedanta Book Fund Trust."\\
 ACB\\
 ACBS:ds
-</card>

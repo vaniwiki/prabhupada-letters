@@ -9,7 +9,6 @@
 
 ====== Ishan ======
 
-<card class="letter">
 3764 Watseka Avenue\\
 Los Angeles, Cal. 90034
 
@@ -31,4 +30,3 @@ A.C. Bhaktivedanta Swami
 ACBS:db
 
 p.t.o.
-</card>

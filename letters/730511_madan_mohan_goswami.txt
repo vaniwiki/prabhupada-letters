@@ -9,7 +9,6 @@
 
 ====== Madan Mohan Goswami ======
 
-<card class="letter">
 Madan Mohan Goswami\\
 Shebait, Sri Sri Radha Damodaraji\\
 Seva Kunja, Vrindaban (Mathura)
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 cc: Sriman Guru das Adhikari
-</card>

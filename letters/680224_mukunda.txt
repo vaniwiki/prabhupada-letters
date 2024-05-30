@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter of Feb. 22, 1968 with enclosures. I am writing letter to Sri Hrsikesa Brahmacari giving him instructions. You also write them to work for the Society in cooperation with Acyutananda without wasting time in sight seeing.
@@ -22,4 +21,3 @@ How Janaki is doing. My blessings for her.
 
 Your ever well wisher\\
 A.C. Bhaktivedanta Swami
-</card>

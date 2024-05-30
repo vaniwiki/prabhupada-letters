@@ -9,7 +9,6 @@
 
 ====== Radhavallabha ======
 
-<card class="letter">
 Brooklyn
 
 Dear Radhavallabha,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

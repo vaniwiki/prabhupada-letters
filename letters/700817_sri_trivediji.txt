@@ -9,7 +9,6 @@
 
 ====== Sri Trivediji ======
 
-<card class="letter">
 Scindia Co.\\
 Calcutta
 
@@ -27,4 +26,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

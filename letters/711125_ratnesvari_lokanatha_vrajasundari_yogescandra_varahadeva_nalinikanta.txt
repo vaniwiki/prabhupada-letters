@@ -9,7 +9,6 @@
 
 ====== Ratnesvari (Joan Cerando), Lokanatha (Larry Batcheldor), Vrajasundari ( Barbara Batcheldor), Yogescandra (John Warren), Varahadeva (Beverly Warren), Nalinikanta (Tom Hopke) ======
 
-<card class="letter">
 Berkeley
 
 My dear Sons and Daughters,
@@ -42,4 +41,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pdd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Tracy and Rita ======
 
-<card class="letter">
 Tracy Humphreys\\
 Rita Baker\\
 25 Labouchere Road\\
@@ -25,4 +24,3 @@ Please accept my blessings. I have received your note and thank you for your con
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

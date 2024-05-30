@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 My dear Tamala Krishna,
 
 Please accept my blessings. I have received one letter from United Shipping Corporation, and the copy of the proforma invoice is as follow:
@@ -48,4 +47,3 @@ Hope you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

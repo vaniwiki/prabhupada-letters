@@ -9,7 +9,6 @@
 
 ====== Bhavananda ======
 
-<card class="letter">
 New York
 
 My dear Bhavananda,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

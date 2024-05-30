@@ -9,7 +9,6 @@
 
 ====== Manager, Central Bank of India ======
 
-<card class="letter">
 The Manager,\\
 Central Bank of India,\\
 Camac Street Branch,\\
@@ -30,4 +29,3 @@ A.C. Bhaktivedanta Swami
 
 ACBA/pks\\
 Cc: Vrinda Book Co.
-</card>

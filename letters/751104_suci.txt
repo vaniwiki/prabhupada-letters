@@ -9,7 +9,6 @@
 
 ====== Suci ======
 
-<card class="letter">
 Nairobi
 
 My dear Suci devi dasi:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

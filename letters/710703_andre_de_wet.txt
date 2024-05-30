@@ -8,7 +8,6 @@
 
 ====== Andre de Wet ======
 
-<card class="letter">
 My dear Andre de Wet,
 
 Please accept my greetings. I am due receipt of your very kind letter dated 12th June, 1971 and have noted the contents.
@@ -23,4 +22,4 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 A.C.B.S./adb\\
-Andre de Wet; P.O. Box no. 1143; Cape Town, South Africa</card>
+Andre de Wet; P.O. Box no. 1143; Cape Town, South Africa

@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 London
 
 Dear Yamuna,
@@ -18,4 +17,3 @@ Please accept my blessings. I thank you for your letter of January 22, 1969, and
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

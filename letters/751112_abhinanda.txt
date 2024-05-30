@@ -9,7 +9,6 @@
 
 ====== Abhinanda ======
 
-<card class="letter">
 Seattle
 
 My dear Abhinanda das,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Srimate Lilavati Munshi ======
 
-<card class="letter">
 Bombay
 
 Dear Srimate Lilavati Munshi:
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

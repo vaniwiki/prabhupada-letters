@@ -9,7 +9,6 @@
 
 ====== Upendra ======
 
-<card class="letter">
 My dear Upendra,
 
 Please accept my blessings. I am in due receipt of your letter dated 4 February, 1969, and I have noted all of the contents. I thank you very much for the humble sentiments which you have expressed, and I am sure that Lord Nityananda is seeing your sincerity and will be pleased to bless you. Regarding your coming to see me in Los Angeles, you may do this as soon as possible, because I am expecting to be leaving there by the beginning of March. So I will be expecting to see you very soon.
@@ -20,4 +19,3 @@ Please convey my blessings to the others at your temple. I hope this will meet a
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

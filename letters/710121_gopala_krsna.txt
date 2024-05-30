@@ -9,7 +9,6 @@
 
 ====== Gopala Krsna ======
 
-<card class="letter">
 Montreal
 
 My dear Gopala Krishna,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. When I was at Bombay Airport, your mother, father and sister came to see me. They talked with me for a long time. Your mother is anxious to see you with your wife.\\
 ACBS/adb
-</card>

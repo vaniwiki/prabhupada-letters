@@ -9,7 +9,6 @@
 
 ====== Jadurani ======
 
-<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I beg to acknowledge receipt of your undated letter, and also I have seen the nice pictures which you have completed for the "Krishna" book. I was very gratified to see your expert touch in these paintings, and also convey my thanks for Joy Fulcher for her very nice efforts.
@@ -20,4 +19,3 @@ Please convey my blessings to the others there. I hope this meets you in good he
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

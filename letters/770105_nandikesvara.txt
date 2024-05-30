@@ -9,7 +9,6 @@
 
 ====== Nandikesvara ======
 
-<card class="letter">
 Montreal
 
 My dear Nandikesvara,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. Gururaj's name is Guru-prasada dasa\\
 ACBS/jda
-</card>

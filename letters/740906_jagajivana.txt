@@ -9,7 +9,6 @@
 
 ====== Jagajivana ======
 
-<card class="letter">
 Buenos Aires
 
 My dear Jagajivana Das:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

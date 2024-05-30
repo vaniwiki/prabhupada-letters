@@ -9,7 +9,6 @@
 
 ====== Amarendra ======
 
-<card class="letter">
 Gainesville, Florida
 
 My dear Amarendra,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 n.b. Upon your recommendation I have accepted the three boys as my duly initiated disciples, and I have replied them on back.
-</card>

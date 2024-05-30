@@ -9,7 +9,6 @@
 
 ====== Sri Radha Krishna Dhawan ======
 
-<card class="letter">
 Sri Radha Krishna Dhawan\\
 4 & 5 - L Model Town\\
 Yanumanagar\\
@@ -27,4 +26,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

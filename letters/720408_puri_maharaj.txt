@@ -9,7 +9,6 @@
 
 ====== Puri Maharaj ======
 
-<card class="letter">
 ISKCON Sydney,
 
 83, Hereford Street, Glebe,
@@ -40,4 +39,3 @@ Tridandiswami Sri B. V. Puri Maharaj,
 Sri Krishna Chaitanya Math,Vishakhpatnam.
 
 ACBS/sda 
-</card>

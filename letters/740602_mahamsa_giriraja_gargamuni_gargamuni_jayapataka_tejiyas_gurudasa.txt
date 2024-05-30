@@ -9,7 +9,6 @@
 
 ====== Mahamsa, Giriraja, Gargamuni, Gargamuni, Jayapataka, Tejiyas, Gurudasa ======
 
-<card class="letter">
 His Holiness Mahamsa Swami, Iskcon Hyderabad\\
 Giriraja das Brahmacari, ISKCON BOMBAY\\
 His Holiness Gargamuni Swami, ISKCON Calcutta\\
@@ -27,4 +26,3 @@ Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

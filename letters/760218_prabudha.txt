@@ -9,7 +9,6 @@
 
 ====== Prabudha ======
 
-<card class="letter">
 Miami
 
 My dear Prabudha dasa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

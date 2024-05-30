@@ -9,7 +9,6 @@
 
 ====== Sons and Daughters of Atlanta ======
 
-<card class="letter">
 Atlanta
 
 My dear Sons and Daughters of Atlanta:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

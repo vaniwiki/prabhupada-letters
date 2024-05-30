@@ -9,7 +9,6 @@
 
 ====== Lalita Priya ======
 
-<card class="letter">
 Edinburgh, Scotland
 
 My dear Lalita Priya devi,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

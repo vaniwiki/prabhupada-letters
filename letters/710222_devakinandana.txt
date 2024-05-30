@@ -9,7 +9,6 @@
 
 ====== Devakinandana ======
 
-<card class="letter">
 c/o ISKCON\\
 “New Vrindaban”\\
 RD. 3, MOUNDSVILLE,\\
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

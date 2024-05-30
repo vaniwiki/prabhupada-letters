@@ -9,7 +9,6 @@
 
 ====== Alfred Ford ======
 
-<card class="letter">
 Sriman Alfred Ford\\
 Teton Village\\
 Wyoming 83024 USA
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 cc: Honolulu, Wyoming, c/o G.K. Swami
-</card>

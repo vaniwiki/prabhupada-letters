@@ -9,7 +9,6 @@
 
 ====== Visalini ======
 
-<card class="letter">
 Vrndavana
 
 My dear Visalaini devi,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

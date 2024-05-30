@@ -9,7 +9,6 @@
 
 ====== Jagadisa ======
 
-<card class="letter">
 My dear Jagadisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of September 4th, 1969 and the enclosed check for the Bhakti-sastri examination. As I have already mentioned in my letter of September 7th, I have also duly received the contribution of 150 dollars from Laksmimoni and yourself. I am so pleased to note that Sadanandini is now staying in Detroit, living at the temple, and arrangements are being made for her wedding to Candanacarya. It is very good news. She is a very nice girl, so take care of her until she is handed over to the charge of Candanacarya.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am going to London on the 11th Sept.
-</card>

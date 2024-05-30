@@ -9,7 +9,6 @@
 
 ====== Gopala Krsna ======
 
-<card class="letter">
 My dear Gopala Krishna,
 
 Please accept my blessings. I beg to thank you very much for your letter of 3rd September, 1969 with check for 55 dollars enclosed, and just today I have received your nice gift package of sweater, scarf, socks and incense. They are all very nice and I much appreciate your kind thoughts of me in this connection. On Vyasa Puja Day your article in the Vyasa Puja booklet was read aloud and everyone present thought it is very nice. This Thursday I am proceeding to London temple, and most probably I shall return to the USA by November. Perhaps we shall meet again at that time.
@@ -18,4 +17,3 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

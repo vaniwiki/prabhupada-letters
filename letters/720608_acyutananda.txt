@@ -9,7 +9,6 @@
 
 ====== Acyutananda ======
 
-<card class="letter">
 Calcutta
 
 My dear Acyutananda,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sda\\
 In your song book, poet Jayadeva's high __madhurya__ rasa songs may be avoided because they are meant for highly advanced devotees.
-</card>

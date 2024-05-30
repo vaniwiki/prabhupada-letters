@@ -9,7 +9,6 @@
 
 ====== Dina Bandhu ======
 
-<card class="letter">
 Portland
 
 My dear Dina Bandhu das,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 __ENC: one thread, mantra sheet.__\\
 ACBS/ps
-</card>

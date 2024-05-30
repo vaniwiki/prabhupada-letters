@@ -9,7 +9,6 @@
 
 ====== Maitreya (Mike Stitch), Mahasakti (Mark Jahre), Arijit (Allen Bigil), Mitravinda (Marsha Arslansky), Nandita Gokula (Nancy Bailey) ======
 
-<card class="letter">
 Denver
 
 My dear Sons and Daughters,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
-</card>

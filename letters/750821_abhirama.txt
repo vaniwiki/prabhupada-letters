@@ -9,7 +9,6 @@
 
 ====== Abhirama ======
 
-<card class="letter">
 Miami
 
 My dear Abhirama das:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

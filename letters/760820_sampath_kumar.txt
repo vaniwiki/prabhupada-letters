@@ -9,7 +9,6 @@
 
 ====== Sampath Kumar ======
 
-<card class="letter">
 Hyderabad
 
 Dear Sampath Kumar,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

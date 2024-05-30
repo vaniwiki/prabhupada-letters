@@ -9,7 +9,6 @@
 
 ====== Anangamanjari ======
 
-<card class="letter">
 Washington D.C.
 
 My dear Anangamanjari devi,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

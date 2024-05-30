@@ -9,7 +9,6 @@
 
 ====== Bhakti Pramode Puri Maharaja ======
 
-<card class="letter">
 Tridanda Swami\\
 Sri Bhakti Pramode Puri\\
 Sri Ananta Basudev Sri Mandir\\
@@ -27,4 +26,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

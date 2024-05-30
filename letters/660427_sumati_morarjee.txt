@@ -9,7 +9,6 @@
 
 ====== Sumati Morarjee ======
 
-<card class="letter">
 Madam Sumati Morarji Baisaheba,
 
 Kindly accept my greetings and blessing of Lord Bala-Krsna. I am in due receipt of your letter of the 11th instant and have noted the contents with thanks.
@@ -26,4 +25,3 @@ Hope everything is well with you by the Grace of the Lord and awaiting your earl
 
 Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami.
-</card>

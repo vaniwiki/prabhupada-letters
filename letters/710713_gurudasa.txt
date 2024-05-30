@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Calcutta
 
 My dear Gurudasa,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. Why not try the American Ambassador?\\
 ACBS/adb
-</card>

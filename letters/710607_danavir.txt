@@ -9,7 +9,6 @@
 
 ====== Danavir ======
 
-<card class="letter">
 San Francisco
 
 My dear Danavir,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

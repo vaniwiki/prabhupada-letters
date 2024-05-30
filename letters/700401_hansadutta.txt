@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 27th March, 1970. I have duly received your $300 transferred from Germany and I understand that you are transferring another $1,500 to my account. The mail strike is already over. I am enclosing herewith a letter for Himavati, giving her instruction.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

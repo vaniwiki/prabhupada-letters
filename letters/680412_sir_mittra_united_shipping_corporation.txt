@@ -9,7 +9,6 @@
 
 ====== Sir Mittra, United Shipping Corporation ======
 
-<card class="letter">
 United Shipping Corporation\\
 14/2, Old China Bazar Street\\
 Room No. 18, Calcutta 1.
@@ -20,4 +19,3 @@ I have sent you one letter dated March 23, 1968, the copy of which is enjoined h
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami
-</card>

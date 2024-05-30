@@ -9,7 +9,6 @@
 
 ====== Yamuna ======
 
-<card class="letter">
 My dear Yamuna,
 
 Please accept my blessings. I am in due receipt of your letter dated Sept. 15, 1968, Sept. 21, along with the nice news clipping, and I am so glad to note your feelings of Krishna Consciousness gradually increasing. It is all Krishna's Mercy upon you for your sincere mode of service; please keep this attitude and you will be happy more and more.
@@ -28,4 +27,3 @@ You will be glad to know our disciple Sriman Dinesh is preparing another record,
 
 Yours ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

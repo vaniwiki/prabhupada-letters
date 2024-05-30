@@ -9,7 +9,6 @@
 
 ====== Rupa Manohara (Michael McCloughlin), Vipina Purandara (Paul League), Brajera Pakhala (Richard Roland), Gopavrndapala (Eddie Dougherty), Kadambakanana (David Hardin) ======
 
-<card class="letter">
 Los Angeles
 
 My dear sons,
@@ -44,4 +43,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
-</card>

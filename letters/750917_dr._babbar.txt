@@ -9,7 +9,6 @@
 
 ====== Dr. Babbar ======
 
-<card class="letter">
 Dr. Babbar\\
 Civil Surgeon\\
 District Medical Hospital\\
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

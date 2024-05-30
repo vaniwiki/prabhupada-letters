@@ -9,7 +9,6 @@
 
 ====== Jagadananda ======
 
-<card class="letter">
 Sri Chaudhury Jagannath Prasad Dash,\\
 Sub-Assistant Engineer,\\
 Nuasahi, Nayapalli,\\
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

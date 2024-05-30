@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 Sriman Rupanuga das Adhikary\\
 ISKCON Temple\\
 40 Englewood Avenue\\
@@ -40,4 +39,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

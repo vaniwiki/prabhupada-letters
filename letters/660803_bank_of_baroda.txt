@@ -9,7 +9,6 @@
 
 ====== Bank of Baroda ======
 
-<card class="letter">
 Agent\\
 The Bank of Baroda, Limited\\
 Branch Chandni Chawk\\
@@ -31,4 +30,3 @@ Thanking you in anticipation,
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

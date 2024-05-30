@@ -9,7 +9,6 @@
 
 ====== Sri V. S. Murthy ======
 
-<card class="letter">
 Sri V.S. Murthy\\
 Lecturer in Physics\\
 Maharani Sri Jaya College\\
@@ -33,4 +32,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

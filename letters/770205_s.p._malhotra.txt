@@ -9,7 +9,6 @@
 
 ====== S.P. Malhotra ======
 
-<card class="letter">
 Sri S.P. Malhotra\\
 Malhotra Bhawan\\
 116 Koregaon Park\\
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

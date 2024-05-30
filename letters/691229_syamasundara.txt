@@ -9,7 +9,6 @@
 
 ====== Syamasundara ======
 
-<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I reached Boston as scheduled on December 21st, and there was a good reception by the devotees for Krishna's servant. The newspaper article published remarked on this occasion that "in the Logan Airport there has never been anything like this." It was exactly like the reception you arranged in London on September 11, 1969. I hope everything is going nicely in London temple.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am going to L.A. this morning
-</card>

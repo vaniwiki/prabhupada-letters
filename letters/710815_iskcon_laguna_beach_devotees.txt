@@ -9,7 +9,6 @@
 
 ====== ISKCON Laguna Beach, Rsabhadeva, Sivani, Indumati, Kalyanai, Kapiladev, Richard, Suruci, Tajh, Dru, David, Vaidyanatha, others ======
 
-<card class="letter">
 TO ISKCON LAGUNA BEACH:
 
 My dear Rsabhadeva, Sivani devi, Indumati, Kalyanai, Kapiladev, Richard, Suruchi, Tajh, Dru, David, Vaidyanath, etc.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

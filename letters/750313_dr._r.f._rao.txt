@@ -9,7 +9,6 @@
 
 ====== Dr. R.F. Rao ======
 
-<card class="letter">
 Dr. R. F. Rao\\
 Reader in Chemistry\\
 University of Gorakhpur\\
@@ -24,4 +23,3 @@ I hope this meets you in good health.
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Svami\\
 ACBS/ps
-</card>

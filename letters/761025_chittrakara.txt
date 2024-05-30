@@ -9,7 +9,6 @@
 
 ====== Chittrakara ======
 
-<card class="letter">
 My dear Chittrakara Prabhu,
 
 Please accept my blessings. I am in due receipt of your letter dated 22nd September, 1976, I have noted the contents carefully.
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

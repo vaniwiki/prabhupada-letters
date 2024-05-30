@@ -9,7 +9,6 @@
 
 ====== Cyavana ======
 
-<card class="letter">
 Nairobi
 
 My dear Cyavana,
@@ -34,4 +33,3 @@ N.B. Your letter dated January 4, 1973, is just now received by me. Yes, we shal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

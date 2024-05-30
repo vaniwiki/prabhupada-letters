@@ -9,7 +9,6 @@
 
 ====== Haihaya ======
 
-<card class="letter">
 Rome
 
 My dear Haihaya das:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

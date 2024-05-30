@@ -9,7 +9,6 @@
 
 ====== Janaki ======
 
-<card class="letter">
 My dear Janaki,
 
 Please accept my blessings. I thank you very much for your long letter dated February 20, 1969 after a long interval, and I have noted the contents very carefully. You are so anxious to see me in London and I am also very anxious to see you all. I have not received any letter from Yamuna since a long time. I tried to go to London as I was very much anxious to see you all, but your good husband will not allow me to go there unless you are all fully equipped to see me. That is all right, and I am pleased to note that you six boys and girls are doing more than my expectation. Krishna will certainly be pleased to give you more strength to preach this glorious movement of Krishna Consciousness. So please keep yourselves steadily in the manner you are now keeping yourselves. The more you are working sincerely and steadily the more you will get strength from Krishna.
@@ -24,4 +23,3 @@ Please convey my blessings to the others. I hope this will meet you in good heal
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

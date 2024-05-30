@@ -9,7 +9,6 @@
 
 ====== Mrs. Davis ======
 
-<card class="letter">
 Dear Mrs. Davis,
 
 Please accept my greetings. I thank you very much for your letter of June 11, 1969, and I have carefully gone over the contents. Just yesterday I left New Vrindaban, and your son, Madhu Mangala, is still there, He appears now to be quite peaceful and happy, so I think we should let him continue like that, and if he keeps up in this way, there is no need of any demonic treatment as you have described in your letter. He is doing very nicely now, and as he continues to follow our regulative principles, he will surely improve more and more. Similarly your son, Patita Uddharana is also doing well. Perhaps you have seen that he has very beautifully bound for me copies of my book, __Srimad-Bhagavatam.__ I can understand that both of your sons are very good boys, and you will see them developing more and more as they progress in Krishna Consciousness.
@@ -18,4 +17,3 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

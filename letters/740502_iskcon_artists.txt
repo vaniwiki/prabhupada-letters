@@ -9,7 +9,6 @@
 
 ====== ISKCON Artists ======
 
-<card class="letter">
 Brooklyn
 
 My dear ISKCON artists,
@@ -50,4 +49,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Uthal ======
 
-<card class="letter">
 West Germany
 
 Dear Uthal dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rds
-</card>

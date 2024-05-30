@@ -9,7 +9,6 @@
 
 ====== Bank of Baroda (Delhi) ======
 
-<card class="letter">
 Agent\\
 The Bank of Baroda Limited\\
 Foreign Department\\
@@ -28,4 +27,3 @@ Awaiting your early reply and thanking you in anticipation.
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami
-</card>

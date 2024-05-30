@@ -9,7 +9,6 @@
 
 ====== Harer Nama ======
 
-<card class="letter">
 My dear Harer Nama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 3 March, 1970, and I am very glad to know that you six boys are pushing our Krishna Consciousness Sankirtana movement in the Boulder-Denver area. Please work cooperatively and do it nicely.
@@ -28,4 +27,3 @@ Hope this will meet you in good health. Please offer my blessings to all the boy
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Babhrubahan ======
 
-<card class="letter">
 San Francisco
 
 My dear Babrubahan,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

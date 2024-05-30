@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 Los Angeles
 
 My dear Satsvarupa dasa Gosvami;
@@ -20,4 +19,3 @@ The American people are very intelligent, therefore I concentrate on the America
 
 I hope etc.\\
 ACBS
-</card>

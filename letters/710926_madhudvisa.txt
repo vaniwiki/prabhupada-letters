@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa Maharaja,
 
 Please accept my blessings. I beg to acknowledge receipt of you letter dated 14th September, 1971 as well as the one of Tusta Krishna dated 9th September and have noted the contents.
@@ -28,4 +27,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

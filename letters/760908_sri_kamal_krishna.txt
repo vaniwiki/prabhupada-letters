@@ -9,7 +9,6 @@
 
 ====== Sri Kamal Krishna ======
 
-<card class="letter">
 Mayapur
 
 Dear Sri Kamal Krishna Das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

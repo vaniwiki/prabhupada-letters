@@ -9,7 +9,6 @@
 
 ====== Dr. S.B. Chatterjee ======
 
-<card class="letter">
 162/12/2B, Lake Gardens,\\
 West Block, 2nd floor,\\
 Calcutta 700 045
@@ -34,4 +33,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

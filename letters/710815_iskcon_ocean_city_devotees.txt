@@ -9,7 +9,6 @@
 
 ====== ISKCON Ocean City, Nandakisora, Jahnava, Bobbie, Steve, Jane, others ======
 
-<card class="letter">
 TO ISKCON OCEAN CITY:
 
 My dear Nandakisora, Jahnava, Bobbie, Steve, Jane, etc.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

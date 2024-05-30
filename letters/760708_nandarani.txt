@@ -9,7 +9,6 @@
 
 ====== Nandarani ======
 
-<card class="letter">
 Tehran
 
 My dear Nandarani dasi,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 n.b. I am scheduled to visit Tehran for several days in August.\\
 ACBS/pks
-</card>

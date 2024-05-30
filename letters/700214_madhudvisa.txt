@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated 10 and 12 February, 1970 respectively. I am glad to learn that you are early planning for the upcoming Ratha-yatra festival. In this connection, I have requested the exact date of the festival from India but it has not yet been replied, so you may plan for any suitable date between 20 and 31 July---even if it does not correspond, we have to arrange conveniently, that is allowed.
@@ -40,4 +39,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Omkara Giriji ======
 
-<card class="letter">
 His Holiness Sri Omkara Giriji\\
 Sri Beni Madhava Mandir\\
 Dara Ganga, Allahabad, U.P.
@@ -25,4 +24,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

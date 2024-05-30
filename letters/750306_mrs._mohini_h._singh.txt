@@ -9,7 +9,6 @@
 
 ====== Mrs. Mohini H. Singh ======
 
-<card class="letter">
 Mrs. Mohini H. Singh\\
 Consul (Culture) & Director Indian Cultural Center\\
 215 Market Street\\
@@ -25,4 +24,3 @@ Thanking you once more for your kind invitation.
 Yours sincerely,\\
 A.C. Bhaktivedanta Svami\\
 ACBS/ps
-</card>

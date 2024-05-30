@@ -9,7 +9,6 @@
 
 ====== Dhananjaya ======
 
-<card class="letter">
 Dear Dhananjaya,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter undated.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:SDG
-</card>

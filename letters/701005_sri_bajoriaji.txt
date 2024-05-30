@@ -9,7 +9,6 @@
 
 ====== Sri Bajoriaji ======
 
-<card class="letter">
 Bharata Sadhu Samaj\\
 Bombay
 
@@ -22,4 +21,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS:ds\\
 c.c. Sriman Gurudasa Adhikari, leader of ISKCON Sankirtana Party from London.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sri Kashinath Mullick ======
 
-<card class="letter">
 Sri Kashinath Mullick,\\
 39 Jatindra Mohan Avenue,\\
 Calcutta-5
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

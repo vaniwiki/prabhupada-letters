@@ -9,7 +9,6 @@
 
 ====== Yasomatinandana ======
 
-<card class="letter">
 Ahmedabad
 
 My dear Yasomatinandana,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

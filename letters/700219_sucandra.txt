@@ -9,7 +9,6 @@
 
 ====== Sucandra ======
 
-<card class="letter">
 My dear Sucandra,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 8 February, 1970, and I am glad to learn that you are trying to make your service more perfect, that is most encouraging to me.
@@ -28,4 +27,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

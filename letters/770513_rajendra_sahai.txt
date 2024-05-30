@@ -9,7 +9,6 @@
 
 ====== Rajendra Sahai ======
 
-<card class="letter">
 Sri Rajendra Sahai \\
 Bhakti Bhawan\\
 Fatehpur (U.P.)
@@ -31,4 +30,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

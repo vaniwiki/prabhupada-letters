@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 Boston
 
 My dear Brahmananda,
@@ -37,4 +36,3 @@ P.O. Balurghat, West Dinajpur
 West Bengal
 
 India
-</card>

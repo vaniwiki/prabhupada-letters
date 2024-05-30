@@ -9,7 +9,6 @@
 
 ====== Bhavatarini ======
 
-<card class="letter">
 Honolulu
 
 My dear Bhavatarini,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

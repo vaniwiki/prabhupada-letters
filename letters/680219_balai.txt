@@ -9,7 +9,6 @@
 
 ====== Balai ======
 
-<card class="letter">
 New York
 
 My dear Balai dasi,
@@ -25,4 +24,3 @@ Your ever well-wisher,
 P.S. All press cuttings and important publications from society specially BTG, all should regularly be sent to the following address. He will utilize them for supporting our Indian center. Please do the needful in this connection.
 
 Address where the above materials should be sent by First class mail educational. (Sri Hitsaran Sharma, Radha Press, Gandhi Nagar, Delhi 31. India.)
-</card>

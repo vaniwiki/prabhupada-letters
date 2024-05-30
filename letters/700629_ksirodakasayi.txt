@@ -9,7 +9,6 @@
 
 ====== Ksirodakasayi ======
 
-<card class="letter">
 London
 
 My dear Ksirodakasayi,
@@ -40,4 +39,3 @@ P.S. This letter was written to you but by mistake it was not posted. A copy of 
 I am enclosing herewith two pictures of Rathayatra at S.F. this year.
 
 A.C. Bhaktivedanta Swami
-</card>

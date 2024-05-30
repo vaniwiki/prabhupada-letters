@@ -9,7 +9,6 @@
 
 ====== Deoji Punja ======
 
-<card class="letter">
 Lautoka, Fiji
 
 My dear Deoji Punja:
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

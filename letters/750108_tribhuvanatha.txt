@@ -9,7 +9,6 @@
 
 ====== Tribhuvanatha ======
 
-<card class="letter">
 London
 
 My dear Tribhuvanatha das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

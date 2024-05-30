@@ -9,7 +9,6 @@
 
 ====== Unknown ======
 
-<card class="letter">
 I, the undersigned, A.C. Bhaktivedanta Swami, presently author of the following books: __Krsna; Nectar of Devotion; Easy Journey to Other Planets; Isopanisad; Bhagavad-gita As It Is; Srimad-Bhagavatam; Teachings of Lord Caitanya; Krsna Consciousness: The Topmost Yoga System,__ do hereby appoint Rupanuga das Adhikari, Bhagavan das Adhikari, and Karandhara das Adhikari for the purpose of the publishing of manuscripts and literatures made by me, distribution and collection and all other necessary paraphernalia in this connection. This trust is called the Bhaktivedanta Book Trust. Out of the three trustees, the majority decision will be carried.
 
 At the present moment, the __Krsna__ books are coming from Japan and they should be taken care of immediately. The present procedure is that Sriman Karandhara das Adhikari is looking after the business and collecting the fund. The same procedure should be followed and whenever there is a collection, it should be deposited in my bank account entitled ISKCON, INC. - BHAKTIVEDANTA BOOK TRUST, number %%__%% with the Security Pacific National Bank. And whenever there will be a new printing, on submission of the estimate I shall immediately advise the bank to remit as I am now doing. In the future, things will be done as it is necessary. All withdrawals are to signed by me exclusively.
@@ -19,4 +18,3 @@ The Bhaktivedanta Book Trust account will be used to publish my books and litera
 A.C. Bhaktivedanta Swami\\
 Founder-Acarya\\
 ACB/rda
-</card>

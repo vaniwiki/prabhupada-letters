@@ -9,7 +9,6 @@
 
 ====== Nadia ======
 
-<card class="letter">
 Atlanta, Georgia
 
 Dear Nadia das, Mayapur das and Godrumia das;
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

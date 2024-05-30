@@ -9,7 +9,6 @@
 
 ====== Whom it may concern ======
 
-<card class="letter">
 To Whom It May Concern:
 
 This is to certify that I as the Founder-Acarya of ISKCON, appoint the following persons as the authorized officers of our Nairobi branch, and only they can represent the Society and conduct the affairs in their respective capacities.
@@ -27,4 +26,3 @@ For INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS,
 A.C. Bhaktivedanta Swami, Founder-Acarya
 
 Brahmananda Swami, GBC Zonal Secretary, Africa
-</card>

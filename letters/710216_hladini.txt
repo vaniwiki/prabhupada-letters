@@ -9,7 +9,6 @@
 
 ====== Hladini ======
 
-<card class="letter">
 Chicago
 
 My dear Hladinidevi Dasi,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

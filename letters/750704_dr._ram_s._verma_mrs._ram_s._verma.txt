@@ -9,7 +9,6 @@
 
 ====== Dr. Ram S. Verma, Mrs. Ram S. Verma ======
 
-<card class="letter">
 Dr. & Mrs. Ram S. Verma\\
 1325 Madison St. Apt. 203\\
 Denver, Colorado 80206
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

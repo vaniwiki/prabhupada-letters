@@ -9,7 +9,6 @@
 
 ====== Hanuman Prasad Poddar ======
 
-<card class="letter">
 Gita Press\\
 Gorakhpur, India
 
@@ -33,4 +32,3 @@ Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

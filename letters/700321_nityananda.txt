@@ -9,7 +9,6 @@
 
 ====== Nityananda ======
 
-<card class="letter">
 Buffalo
 
 My dear Nityananda das,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Sivananda ======
 
-<card class="letter">
 Hamburg
 
 My dear Sivananda,
@@ -32,4 +31,3 @@ Please convey my blessings to Uttama Sloka. I hope this will meet you all in ver
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

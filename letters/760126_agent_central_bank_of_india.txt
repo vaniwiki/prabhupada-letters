@@ -9,7 +9,6 @@
 
 ====== Agent, Central Bank of India ======
 
-<card class="letter">
 The Agent,\\
 Central Bank of India,\\
 Camac Street Branch,\\
@@ -29,4 +28,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

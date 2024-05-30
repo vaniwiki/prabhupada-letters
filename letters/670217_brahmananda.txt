@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 My dear Brahmananda,
 
 In continuation of my yesterday's letter and in reply to your very long letter of the 13rd February 1967 I beg to inform you that I have received one letter from Mr. Payne and the copies of the schemes dated 19th January 1967 which did not fructify.
@@ -26,4 +25,3 @@ I have not sent the Pass Book. But the letter of transfer is sufficient and I ho
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

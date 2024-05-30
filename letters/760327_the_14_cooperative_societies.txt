@@ -9,7 +9,6 @@
 
 ====== The 14 Cooperative Societies ======
 
-<card class="letter">
 Chairman,\\
 Managing Committee,\\
 The 14 Cooperative Societies,\\
@@ -29,4 +28,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

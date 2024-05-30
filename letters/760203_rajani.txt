@@ -9,7 +9,6 @@
 
 ====== Rajani ======
 
-<card class="letter">
 Paris
 
 My dear daughter Rajani,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Niranjana ======
 
-<card class="letter">
 Glasgow
 
 My dear Niranjana das,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

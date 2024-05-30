@@ -9,7 +9,6 @@
 
 ====== Pranava ======
 
-<card class="letter">
 Vrndavana
 
 My dear Pranava,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 Why the guest house not yet started? Please let me know about this.\\
 ACBS/ps
-</card>

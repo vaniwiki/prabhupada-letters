@@ -9,7 +9,6 @@
 
 ====== Lilasukha ======
 
-<card class="letter">
 My dear Lilasukha,
 
 Please accept my blessings. With great pleasure I have read your letter of December 9, 1968. I thank you for your kind sentiments expressed and your nice attitude of humbleness and devotion.
@@ -22,4 +21,3 @@ Please convey my blessings to all other of my students in the New York branch an
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

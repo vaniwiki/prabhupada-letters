@@ -9,7 +9,6 @@
 
 ====== Sriballavah (Vin Fiocco), Pranaballavah (Bruce Webster), Kamalavati (Elicia Heller) ======
 
-<card class="letter">
 Denver
 
 My dear Sons and Daughter,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

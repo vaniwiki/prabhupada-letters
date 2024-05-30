@@ -9,7 +9,6 @@
 
 ====== Lilavati ======
 
-<card class="letter">
 Los Angeles
 
 My dear Lilavati,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
-</card>

@@ -9,7 +9,6 @@
 
 ====== Ranadhira ======
 
-<card class="letter">
 Wheeling, West Virginia
 
 My dear Ranadhira,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

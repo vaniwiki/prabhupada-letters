@@ -9,7 +9,6 @@
 
 ====== Candravali ======
 
-<card class="letter">
 Miami
 
 My dear Candravali devi dasi,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== Phatikcandra ======
 
-<card class="letter">
 Vineland, New Jersey
 
 My dear Phatikcandra das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

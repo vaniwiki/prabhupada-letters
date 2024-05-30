@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 17 March, 1970, with enclosure, and it is very satisfying that you have introduced Sankirtana Party procession in the public streets and parks on the occasion of Lord Caitanya's Birthday.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

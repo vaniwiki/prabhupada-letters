@@ -9,7 +9,6 @@
 
 ====== Sons ======
 
-<card class="letter">
 Evanston
 
 My dear Sons,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

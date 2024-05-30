@@ -9,7 +9,6 @@
 
 ====== Mr. S. N. Sharma ======
 
-<card class="letter">
 Mr. S.N. Sharma\\
 Mahila Ashram\\
 Bilwara (Rajasthan)\\
@@ -28,4 +27,3 @@ Faithfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

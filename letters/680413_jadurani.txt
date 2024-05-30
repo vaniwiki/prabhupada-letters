@@ -9,7 +9,6 @@
 
 ====== Jadurani ======
 
-<card class="letter">
 Allston, MA
 
 My dear Jadurani,
@@ -20,4 +19,3 @@ Our institution is mainly for the devotees and as it is the custom in India, dev
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

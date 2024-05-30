@@ -9,7 +9,6 @@
 
 ====== Prabhas Babu ======
 
-<card class="letter">
 United Shipping Corporation\\
 14/2 Old China Bazar Street\\
 Calcutta-1\\
@@ -27,4 +26,3 @@ I think this covers all of your inquiries, and I hope you will do the needful at
 
 Yours truly\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Yadubara ======
 
-<card class="letter">
 Bombay
 
 My dear Yadubara,
@@ -21,4 +20,3 @@ Hoping this meets you in good health.
 A.C. Bhaktivedanta Swami
 
 ACB/sda
-</card>

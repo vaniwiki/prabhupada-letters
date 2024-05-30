@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated October 27, 1972, and I have noted the contents with care. I am very glad to hear all the good news, and I am very much inclined to accept your invitation to come to Australasia zone as per your request. We shall be engaged in Calcutta up to January 20th, so after that date I may fly there from Calcutta, and I may remain in Australia and other places up to March 1st, 1972. Then I shall return to Mayapur for celebrating the Lord Caitanya's festival. So if you are able to supply four round-trip airline tickets from Calcutta for myself and my three secretaries, then I shall be glad to come there. You may correspond with Syamasundara all the details of programme.
@@ -18,4 +17,3 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 Bombay
 
 My dear Giriraja das:
@@ -35,4 +34,3 @@ A.C. Bhaktivedanta Swami
 
 Enclosure check for Rs. 3,75,000/- three lacs and seventy five thousand on Bank of America, Bombay check no. 60276077 a/c 16026\\
 ACBS/bs
-</card>

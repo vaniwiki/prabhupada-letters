@@ -9,7 +9,6 @@
 
 ====== Indupati ======
 
-<card class="letter">
 Indupati Brahmacari\\
 Sri Caitanya Gaudiya Math\\
 Mathura Rd.\\
@@ -23,4 +22,3 @@ Yours respectfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

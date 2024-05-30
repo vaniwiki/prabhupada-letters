@@ -9,7 +9,6 @@
 
 ====== Gauragopala ======
 
-<card class="letter">
 Alexandria
 
 My dear Gauragopala dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

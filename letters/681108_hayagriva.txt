@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated Oct. 31, 1968, and I am so much pleased to read the contents. I understand that you have started to firmly initiate a campus society, called OSU Yoga Society. It would have been better to name it as Bhakti Yoga Society, otherwise the society may be understood as one of the many yoga societies. Anyway, whatever the name may be, it does not matter. If you are successful in capturing the students for chanting in the auditorium, it will be a great success. I think you have already been informed that this time I entered USA on Immigrant visa, that is to say, I have been admitted as permanent resident on the order of ordained religious minister. So this was a great problem, and Krishna has now solved it. I have got also my landed immigrant visa in Canada, but I think I shall surrender it.
@@ -24,4 +23,3 @@ Hoping you are all well,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

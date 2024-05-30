@@ -9,7 +9,6 @@
 
 ====== Swami B. S. Bhagavata Maharaja ======
 
-<card class="letter">
 His Holiness Swami B.S. Bhagavata Maharaja
 
 Revered Sripada Bhagavata Maharaja,
@@ -33,4 +32,3 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 enclosures: copies of news cuttings of our Rathayatra Festival, which we held in San Francisco, London, Boston, Ohio, and Hamburg.
-</card>

@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 My dear Tamala,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 11th May, 1970, and noted the contents.
@@ -36,4 +35,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

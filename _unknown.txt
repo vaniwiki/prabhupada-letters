@@ -9,7 +9,6 @@
 
 ====== Unknown ======
 
-<card class="letter">
 Bio data\\
 Previous name:    Sankara Pyne\\
 Mira Pyne\\
@@ -26,4 +25,3 @@ Relationship with\\
 Srila Prabhupada:    Grand Nephew and Grand Niece\\
 Date of joining Krsna\\
 Consciousness movement:    September 1970 in Calcutta
-</card>

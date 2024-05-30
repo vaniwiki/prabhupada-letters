@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter dated Oct. 22 and I've noted the contents. I am much obliged to you for sending me the record player which is essential but I could save the customs duty of 120 Rs if you could have sent a note stating that it was an unsolicited gift. Anyway the machine was received intact and I am enjoying it. But I have not heard anything definitely whether I shall wait for the final disposal of your visa application or if I may start immediately.
@@ -18,4 +17,3 @@ As you say that my absence is being felt now more deeply than ever, so I also fe
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
-</card>

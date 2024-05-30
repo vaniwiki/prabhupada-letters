@@ -9,7 +9,6 @@
 
 ====== Yasomatinandan ======
 
-<card class="letter">
 Sriman Yasomatinandan das Adhikari\\
 c/o ISKCON Ahmedabad
 
@@ -29,4 +28,3 @@ Hoping this meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

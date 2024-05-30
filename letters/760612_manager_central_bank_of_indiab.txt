@@ -9,7 +9,6 @@
 
 ====== Manager, Central Bank of India ======
 
-<card class="letter">
 The Manager,\\
 Central Bank of India\\
 10 Camac St.,\\
@@ -29,4 +28,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

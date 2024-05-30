@@ -9,7 +9,6 @@
 
 ====== Karunamayi ======
 
-<card class="letter">
 San Francisco
 
 My dear Karunamayi Dasi,
@@ -26,4 +25,3 @@ I have no complaints with my health and I am feeling well. Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

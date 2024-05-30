@@ -9,7 +9,6 @@
 
 ====== Hanuman ======
 
-<card class="letter">
 Mexico City
 
 My dear Hanuman das
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

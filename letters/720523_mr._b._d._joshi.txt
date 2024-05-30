@@ -9,7 +9,6 @@
 
 ====== Mr. B. D. Joshi ======
 
-<card class="letter">
 Mr. B.D. Joshi\\
 608 Hagen Blvd.\\
 El Cerrito, California 94520
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *or any day at 6 p.m.
-</card>

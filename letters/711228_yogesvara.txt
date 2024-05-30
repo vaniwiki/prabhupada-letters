@@ -9,7 +9,6 @@
 
 ====== Yogesvara ======
 
-<card class="letter">
 Brooklyn
 
 My dear Yogesvara,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

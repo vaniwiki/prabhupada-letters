@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 4 January, 1970 along with the newspaper cuttings and I have enjoyed the article with nice pictures. If you go on with your work sincerely, by following the footsteps of our predecessors, certainly our movement will be recognized by the people in general.
@@ -24,4 +23,3 @@ That does not matter because you are not personally tending me in Boston, that i
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

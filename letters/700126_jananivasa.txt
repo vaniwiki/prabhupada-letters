@@ -9,7 +9,6 @@
 
 ====== Jananivasa ======
 
-<card class="letter">
 Columbus
 
 My dear Jananivasa,
@@ -28,4 +27,3 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

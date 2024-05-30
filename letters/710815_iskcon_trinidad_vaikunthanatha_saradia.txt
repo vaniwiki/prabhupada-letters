@@ -9,7 +9,6 @@
 
 ====== ISKCON Trinidad, Vaikunthanatha, Saradia ======
 
-<card class="letter">
 TO ISKCON TRINIDAD
 
 My dear Vaikunthanatha and Saradia,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

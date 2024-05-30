@@ -9,7 +9,6 @@
 
 ====== Jagat guru ======
 
-<card class="letter">
 My dear Jagat guru Maharaja,
 
 Please accept my blessings. I am in receipt of your letter dated September 28, 1976, I have noted the contents carefully.
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/
-</card>

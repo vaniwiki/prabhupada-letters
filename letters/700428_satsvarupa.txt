@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter dated 24th April, 1970.
@@ -53,4 +52,3 @@ I have no devotion, nor I have any knowledge, but still I have been designated a
 The most unfortunate, insignificant beggar, Bhaktivedanta Swami, on board the ship "Jaladuta," Commonwealth Pier, Boston, Massachusetts (U.S.A.), dated 18th September, 1965.
 
 A.C. Bhaktivedanta Swami
-</card>

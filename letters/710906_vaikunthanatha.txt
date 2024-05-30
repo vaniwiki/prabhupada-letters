@@ -9,7 +9,6 @@
 
 ====== Vaikunthanatha ======
 
-<card class="letter">
 Trinidad
 
 My dear Vaikunthanatha,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

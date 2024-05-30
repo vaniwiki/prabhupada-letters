@@ -9,7 +9,6 @@
 
 ====== Branch Manager, Central Bank of India ======
 
-<card class="letter">
 10 Camac Street,\\
 Calcutta-700017
 
@@ -30,4 +29,3 @@ A.C. Bhaktivedanta Swami
 Enc: 1 specimen of signature.
 
 ACBS/pks
-</card>

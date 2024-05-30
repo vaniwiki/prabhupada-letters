@@ -9,7 +9,6 @@
 
 ====== Satyahit ======
 
-<card class="letter">
 Dear Satyahit,
 
 Please accept my blessings. I am pleased to hear you have been preaching among the Gujarat community in Panama City and that they are sympathetic to our movement. We see now at our function in Vrindaban that hundreds of members are attending from all parts of the world. In this way our movement is unique, that not just the people of India are hearing about Krsna, but from all countries they are joining and becoming Vaisnavas by chanting Hare Krsna mantra, and refraining from the pillars of sinful activities. This was Lord Caitanya's desire that the Holy name be heard in every town and village.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 Hamburg
 
 Dear Hansadutta,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 N.B. Mr Erdman's phone is: Telefon Sammel-Nr 08106/8596
-</card>

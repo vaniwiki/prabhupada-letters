@@ -9,7 +9,6 @@
 
 ====== Srivatsa Goswami ======
 
-<card class="letter">
 Srivatsa Goswami\\
 45 Dumrao Bahg Colony,\\
 Assi, Varanasi 221 005,\\
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

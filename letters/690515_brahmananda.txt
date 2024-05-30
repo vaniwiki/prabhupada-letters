@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated May 9, 1969, and I have noted the contents carefully. The first thing is that you must feel well. In whatever condition you should feel well, because if you fall sick, everything will be topsy-turvy. And what you require to be in good health, you know better than anyone else. That is your first business, and your second business is to organize sales in the stores, because the organization of sales in stores will determine our future publications. If we cannot organize these sales, there is no use of printing books and stocking them in our store room. It would be better to hand it over to the MacMillan Company. If they will print our books to the standard of __Teachings of Lord Caitanya,__ we do not mind if they raise the price. That is their business.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. When you come to New Vrindaban, we shall talk in detail about our future preaching programme. That is our first business. Specially you and Rayarama who are advanced disciples must now do the preaching work. We are now increasing centers & they must be maintained now properly. But our publication department must be considered as the most important department for preaching work. ACB
-</card>

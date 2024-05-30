@@ -9,7 +9,6 @@
 
 ====== Nityananda ======
 
-<card class="letter">
 My dear Nityananda,
 
 Please accept my blessings. I beg to thank you for your letter dated February 21st, 1977, and I have noted the contents. The New Talavan Review and the brochure are both very nicely done and I thank you for them.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

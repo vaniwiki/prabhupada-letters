@@ -9,7 +9,6 @@
 
 ====== T. B. Randler ======
 
-<card class="letter">
 Carlton Apts.\\
 Santa Monica
 
@@ -23,4 +22,3 @@ Hoping this meets you well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

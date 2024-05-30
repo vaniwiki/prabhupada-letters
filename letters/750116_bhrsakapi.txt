@@ -9,7 +9,6 @@
 
 ====== Bhrsakapi ======
 
-<card class="letter">
 Washington, D.C.
 
 My dear Bhrsakapi das,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 Enc: 3 threads and mantra sheets.
-</card>

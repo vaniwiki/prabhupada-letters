@@ -9,7 +9,6 @@
 
 ====== Yadubara ======
 
-<card class="letter">
 My dear Yadubara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 10, 1972. Regarding printing BTG Hindi in India your scheme to print them in Bombay is accepted by me. So you do the needful being contact with Ramananda.
@@ -20,4 +19,3 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

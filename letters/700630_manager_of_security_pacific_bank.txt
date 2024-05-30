@@ -9,7 +9,6 @@
 
 ====== Manager of Security Pacific Bank ======
 
-<card class="letter">
 Manager\\
 Security Pacific Bank\\
 Culver City Branch\\
@@ -25,4 +24,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

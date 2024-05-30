@@ -9,7 +9,6 @@
 
 ====== Rayarama ======
 
-<card class="letter">
 My dear Rayarama,
 
 I am in due receipt of your letter of the 26th instant. The service proposal is very nice and I approve of your acceptance this job. Not only your income will be a great help to the society but also it will be a great opportunity for learning how to organize our magazine Back to Godhead. This Back to Godhead will always remain the backbone of the society because more the magazine is popular the more society becomes popular. So your ambition should always be how to improve the quality of the paper so that it may be read by all respectable persons. In future we may have one French edition of this paper. If our Back to Godhead goes on nicely then we can have our all publications without waiting for any other publishers.
@@ -18,4 +17,3 @@ Regarding Srimad Bhagavad-gita I am now arranging to get it published independen
 
 Yours ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

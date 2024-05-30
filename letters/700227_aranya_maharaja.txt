@@ -9,7 +9,6 @@
 
 ====== Aranya Maharaja ======
 
-<card class="letter">
 Sri Gaudiya Math\\
 New Delhi, India
 
@@ -39,4 +38,3 @@ Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

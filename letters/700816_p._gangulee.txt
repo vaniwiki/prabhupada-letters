@@ -9,7 +9,6 @@
 
 ====== P. Gangulee ======
 
-<card class="letter">
 Sri. P. Gangulee\\
 Minister of Education & Culture\\
 Embassy of India\\
@@ -33,4 +32,3 @@ With my best wishes, I am
 
 Your ever well-wisher,\\
 c.c. Sriman Dinesh Candra
-</card>

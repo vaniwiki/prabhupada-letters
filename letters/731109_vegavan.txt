@@ -9,7 +9,6 @@
 
 ====== Vegavan ======
 
-<card class="letter">
 My dear Vegavan Das:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 24/10/73 and have noted the contents. It is very good to hear of your programs in the high schools. Please continue and increase this program there.
@@ -20,4 +19,3 @@ I hope this meets you and your good wife in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

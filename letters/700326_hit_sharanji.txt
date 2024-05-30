@@ -9,7 +9,6 @@
 
 ====== Hit Sharanji ======
 
-<card class="letter">
 Scindia House\\
 New Delhi
 
@@ -30,4 +29,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. I have received one letter from Sethji acknowledging my book, Sri Isopanisad. Please convey my regards for him.\\
 ACBS:db
-</card>

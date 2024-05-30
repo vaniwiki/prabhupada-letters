@@ -9,7 +9,6 @@
 
 ====== V. S. R. Chakravarti ======
 
-<card class="letter">
 V.S.R. Chakravarti\\
 24, Kasturi Ranga Iyengar Road\\
 Madras-18
@@ -29,4 +28,3 @@ Thanking you once again.
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami,\\
 ACBS/bs
-</card>

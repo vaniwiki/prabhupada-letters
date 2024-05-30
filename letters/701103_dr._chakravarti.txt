@@ -9,7 +9,6 @@
 
 ====== Dr. Chakravarti ======
 
-<card class="letter">
 Reader of Philosophy\\
 Bolepur, India
 
@@ -24,4 +23,3 @@ Hoping this finds you in good health.
 A.C. Bhaktivedanta Swami
 
 ACBS:adb
-</card>

@@ -9,7 +9,6 @@
 
 ====== RamRam Maharaja ======
 
-<card class="letter">
 Kulapati\\
 RamRam Maharaja\\
 Sri Brahma Puskara\\
@@ -28,4 +27,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 cc: Gopala Krishna das
-</card>

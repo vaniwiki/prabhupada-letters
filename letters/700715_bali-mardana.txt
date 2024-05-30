@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 My dear Bali Mardan,
 
 Please accept my blessings. I am so glad to receive your letter dated 8th July, and I was expecting to receive it every moment.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

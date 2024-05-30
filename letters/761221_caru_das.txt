@@ -9,7 +9,6 @@
 
 ====== Caru das ======
 
-<card class="letter">
 c/o ISKCON Berkeley\\
 2334 Stuart St. \\
 Berkeley, CA 94705, USA
@@ -38,4 +37,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/gdb\\
 cc: J. R. D. Sharma
-</card>

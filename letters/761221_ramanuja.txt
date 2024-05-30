@@ -9,7 +9,6 @@
 
 ====== Ramanuja ======
 
-<card class="letter">
 Berkeley
 
 My dear Ramanuja das:
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/gdb
-</card>

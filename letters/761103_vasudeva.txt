@@ -9,7 +9,6 @@
 
 ====== Vasudeva ======
 
-<card class="letter">
 Lautoka, Fiji
 
 My dear Vasudeva,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

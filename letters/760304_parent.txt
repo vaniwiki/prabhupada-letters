@@ -9,7 +9,6 @@
 
 ====== Parent ======
 
-<card class="letter">
 My dear parent,
 
 Please accept my blessings. There has been a serious mistake. I do not wish that Gurukula should be closed down in Dallas. So you kindly arrange to send your child back to Gurukula.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

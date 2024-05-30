@@ -9,7 +9,6 @@
 
 ====== P. S. Garg ======
 
-<card class="letter">
 Sri P.S. Garg M.A., M.B.\\
 Advocate High Court\\
 Candralok "A"\\
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 ACBS/ps
 
 N.B. You are cordially invited to come to our Hare Krishna Land. We have a nice evening program starting at 7:00 with kirtana, pravacana, and arati. Please come at your convenience. Hare Krishna.
-</card>

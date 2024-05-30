@@ -9,7 +9,6 @@
 
 ====== Vinode Kumar Chudamani ======
 
-<card class="letter">
 Vinode Kumar Chudamani B.A.L.L.B.\\
 Krishnapuri, Mathura, U.P., INDIA
 
@@ -21,4 +20,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== Audulamidasa ======
 
-<card class="letter">
 Detroit
 
 My dear Audulamidasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

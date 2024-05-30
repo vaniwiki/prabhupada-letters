@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 Madras
 
 My dear Giriraja,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
-</card>

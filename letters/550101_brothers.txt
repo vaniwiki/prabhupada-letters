@@ -9,7 +9,6 @@
 
 ====== Brothers ======
 
-<card class="letter">
 __1st form No-1.\\
 The circular letter addressing as "Dear Brother"\\
 to be sent along with the Prospectus by book Post__\\
@@ -73,4 +72,3 @@ I am very much glad that you are willing to live with us. As already informed we
 (26) If he desires to be a preacher, he will be trained up in that way & will be given the titles of %%___ ___ ______%% according to preaching capacity.
 
 [PAGE MISSING]
-</card>

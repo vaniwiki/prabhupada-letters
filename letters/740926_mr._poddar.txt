@@ -9,7 +9,6 @@
 
 ====== Mr. Poddar ======
 
-<card class="letter">
 Calcutta
 
 Dear Mr. Poddar:
@@ -23,4 +22,3 @@ Faithfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

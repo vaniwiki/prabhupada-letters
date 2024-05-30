@@ -9,7 +9,6 @@
 
 ====== Sudama ======
 
-<card class="letter">
 Honolulu
 
 My dear Sudama Maharaja,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg\\
 Enclosure: one withdrawal form $5000.00.*Please return this amt by $1000.00 per month at least
-</card>

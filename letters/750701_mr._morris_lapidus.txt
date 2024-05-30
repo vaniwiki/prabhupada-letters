@@ -9,7 +9,6 @@
 
 ====== Mr. Morris Lapidus ======
 
-<card class="letter">
 Mr. Morris Lapidus\\
 439 Henry St.\\
 Brooklyn, New York 11231
@@ -28,4 +27,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

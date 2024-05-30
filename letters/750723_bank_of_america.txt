@@ -9,7 +9,6 @@
 
 ====== Bank of America ======
 
-<card class="letter">
 Bank of America\\
 Express Towers, Nariman Point\\
 Bombay, INDIA\\
@@ -26,4 +25,3 @@ Faithfully yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

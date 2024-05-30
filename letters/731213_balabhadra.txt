@@ -9,7 +9,6 @@
 
 ====== Balabhadra ======
 
-<card class="letter">
 Hawaii
 
 My dear Balabhadra Prabhu,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS:Kda\\
 c.c. Sudama Goswami
-</card>

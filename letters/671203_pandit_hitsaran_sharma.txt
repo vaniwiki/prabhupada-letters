@@ -8,7 +8,6 @@
 
 ====== Pandit Hitsaran Sharma ======
 
-<card class="letter">
 Haneda Tokyu Hotel\\
 Tokyo International Airport\\
 Room No. 610
@@ -27,4 +26,3 @@ Hope you are well.
 
 Very sincerely yours,\\
 A.C. Bhaktivedanta Swami
-</card>

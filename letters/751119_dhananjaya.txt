@@ -9,7 +9,6 @@
 
 ====== Dhananjaya ======
 
-<card class="letter">
 Vrindaban
 
 My dear Dhananjaya das:
@@ -26,4 +25,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: J. Dalmia, Mathura and Delhi
-</card>

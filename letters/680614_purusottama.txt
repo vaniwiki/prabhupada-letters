@@ -9,7 +9,6 @@
 
 ====== Purusottama ======
 
-<card class="letter">
 My dear Purusottama,
 
 Please accept my blessings. I am very glad to receive the copy of the letter from United Nations information department and it is very hopeful for our future activities. I have handed over the letter to Janardana for making some copies.
@@ -22,4 +21,3 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

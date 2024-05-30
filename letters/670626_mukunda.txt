@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 My dear Mukunda,
 
 Please accept my blessings. I am in due receipt of your letter dated June 20, 1967. Although I am passing through critical stages of my health, still good reports from San Francisco, Montreal, and New York are giving me life. I understand that the certificate which you were to receive by registered post was dispatched from Calcutta on 2 May by ordinary mail, and it might be missing; so I have asked Tirtha Maharaja to send another to your address. The copy of the letter addressed to Tirtha Maharaja is enclosed. Please look for the mail. I hope the certificates which you have already are sufficient; but still, this certificate from Tirtha Maharaja will be more valuable.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 encl. 1.
-</card>

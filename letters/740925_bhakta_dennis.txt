@@ -9,7 +9,6 @@
 
 ====== Bhakta Dennis ======
 
-<card class="letter">
 Big Bear Lake, California
 
 Dear Bhakta Dennis:
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Brsni ======
 
-<card class="letter">
 Kamuela, Hawaii
 
 My dear Brsni Prabhu,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hda
-</card>

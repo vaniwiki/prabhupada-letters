@@ -9,7 +9,6 @@
 
 ====== Siddhasvarupa ======
 
-<card class="letter">
 Honolulu
 
 My dear Siddhasvarupa Maharaja,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

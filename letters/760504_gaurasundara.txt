@@ -9,7 +9,6 @@
 
 ====== Gaurasundara ======
 
-<card class="letter">
 My dear Gaurasundara das,
 
 Please accept my blessings. I am presently here in Hawaii and I would be very pleased if you could come to meet with me. Hoping that this meets you in good health.
@@ -18,4 +17,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

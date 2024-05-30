@@ -9,7 +9,6 @@
 
 ====== Swami R. S. Bhagavata Maharaja ======
 
-<card class="letter">
 To His Holiness Swami R.S. Bhagavata Maharaja
 
 Revered Sripada Bhagavata Maharaja,
@@ -23,4 +22,3 @@ Thanking you in anticipation.
 Sincerely,
 
 A.C. Bhaktivedanta Swami
-</card>

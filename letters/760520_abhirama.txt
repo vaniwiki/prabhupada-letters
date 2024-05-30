@@ -9,7 +9,6 @@
 
 ====== Abhirama ======
 
-<card class="letter">
 Calcutta
 
 My dear Abhirama das,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/pks\\
 *Whether in the land there is vegetation? If it is only sandy then it is not good.
-</card>

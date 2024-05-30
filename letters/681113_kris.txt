@@ -9,7 +9,6 @@
 
 ====== Kris ======
 
-<card class="letter">
 My dear Kris,
 
 Please accept my blessings. I thank you very much for your nice letter and have noted the contents carefully. Yes, you were very kind to massage when I was there in Santa Fe, and I thank you very much for this.
@@ -26,4 +25,3 @@ Thanking you once more for your letter, and hoping this meets you in good health
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

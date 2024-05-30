@@ -9,7 +9,6 @@
 
 ====== Mrs. Tania Perera ======
 
-<card class="letter">
 My dear Mrs. Tania Perera,
 
 Please accept my blessings. I am in receipt of your letter dated nil. I have noted the contents carefully. Yes! I remember you and the gold chain you gave me I gave to the deities in Melbourne.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hds
-</card>

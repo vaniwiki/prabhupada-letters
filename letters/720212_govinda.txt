@@ -9,7 +9,6 @@
 
 ====== Govinda ======
 
-<card class="letter">
 Honolulu
 
 My dear Govinda dasi,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

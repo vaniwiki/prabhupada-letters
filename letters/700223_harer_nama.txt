@@ -9,7 +9,6 @@
 
 ====== Harer Nama ======
 
-<card class="letter">
 Boulder, Colorado
 
 My dear Harer Nama,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

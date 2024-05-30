@@ -9,7 +9,6 @@
 
 ====== Yasodanandana, Gurukrpa ======
 
-<card class="letter">
 Coimbatore, India
 
 My dear Yasodanandana and Gurukrpa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 Los Angeles
 
 Dear Karandhara,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 Enclosure: 3 Checks ($300.00)\\
 ACBS/sdg
-</card>

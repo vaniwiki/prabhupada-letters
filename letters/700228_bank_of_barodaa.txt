@@ -9,7 +9,6 @@
 
 ====== Bank of Baroda ======
 
-<card class="letter">
 Agent\\
 Bank of Baroda\\
 86 Chandni Chowk Branch\\
@@ -30,4 +29,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

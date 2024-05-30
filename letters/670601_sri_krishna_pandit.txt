@@ -9,7 +9,6 @@
 
 ====== Sri Krishna Pandit ======
 
-<card class="letter">
 Hari Bhakta Nudasa\\
 Sri Krishna Pandit\\
 Kuncha, Dilwali Singh\\
@@ -34,4 +33,3 @@ A.C. Bhaktivedanta Swami
 Stephen Guarino\\
 Secretary, ISKCON\\
 for Swami A.C. Bhaktivedanta
-</card>

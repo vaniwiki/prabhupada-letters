@@ -9,7 +9,6 @@
 
 ====== Dinesh Candra Sarkar ======
 
-<card class="letter">
 Hooghly, India
 
 Dear Dinesh Candra Sarkar:
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

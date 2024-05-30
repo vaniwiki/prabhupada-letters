@@ -9,7 +9,6 @@
 
 ====== Pancaratna ======
 
-<card class="letter">
 Brooklyn
 
 My dear Pancaratna,
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/sdg
 @main:1975
-</card>

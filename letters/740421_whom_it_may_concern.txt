@@ -9,7 +9,6 @@
 
 ====== Whom it may concern ======
 
-<card class="letter">
 To Whom It May Concern;
 
 This is to clarify and confirm the position of the Hawaii branch of the International Society for Krishna Consciousness of which I am the founder and spiritual master. The president of my Hawaii branch is Mr. Brent Selden. He is my authorized representative for any matters of land ownership or sale in the name of the International Society for Krishna Consciousness in Hawaii. I have been informed of unauthorized attempts to sell land there which is legally owned by the International Society for Krishna Consciousness. Unless transactions are authorized by my duly appointed representative, Mr. Brent Selden, they are illegal.
@@ -18,4 +17,3 @@ Yours truly,\\
 A.C. Bhaktivedanta Swami
 
 Founder-Acarya, ISKCON
-</card>

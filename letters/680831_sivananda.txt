@@ -9,7 +9,6 @@
 
 ====== Sivananda ======
 
-<card class="letter">
 West Berlin
 
 My dear Sivananda,
@@ -32,4 +31,3 @@ London. U.K.
 I hope you have also received my former letter addressed to you c/o American Express Berlin.
 
 ACB
-</card>

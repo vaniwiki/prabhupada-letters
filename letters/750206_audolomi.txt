@@ -9,7 +9,6 @@
 
 ====== Audolomi ======
 
-<card class="letter">
 Evanston, Illinois
 
 My dear Audolomi das,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

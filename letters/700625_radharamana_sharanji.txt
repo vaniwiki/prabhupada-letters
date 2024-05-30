@@ -9,7 +9,6 @@
 
 ====== Radharamana Sharanji ======
 
-<card class="letter">
 Radha Raman\\
 Vrndavana
 
@@ -37,4 +36,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

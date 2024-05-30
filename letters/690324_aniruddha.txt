@@ -9,7 +9,6 @@
 
 ====== Aniruddha ======
 
-<card class="letter">
 My dear Aniruddha,
 
 Please accept my blessings. I am in due receipt of your letter of March 19, 1969, and I have noted the contents carefully. Yes, I shall be arriving there in S.F. on the 31st of this month and I shall be happy to see you all there at that time. I have noted carefully the situation with Girish, and we shall best discuss the whole matter when I shall arrive there next week and make program. I am happy to learn that Dindayal and Makhanlal are doing well at Berkeley also.
@@ -20,4 +19,3 @@ I shall be happy to greet you on Monday next, and we shall discuss all things fu
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

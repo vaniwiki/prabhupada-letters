@@ -9,7 +9,6 @@
 
 ====== Deoji Punja ======
 
-<card class="letter">
 Lautoka, Fiji
 
 My dear Deoji Punja:
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. There should also be one pujari room for keeping the Deity paraphernalia nearby the Deity.\\
 ACBS/bs
-</card>

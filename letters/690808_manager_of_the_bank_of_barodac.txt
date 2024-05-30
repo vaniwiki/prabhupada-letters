@@ -9,7 +9,6 @@
 
 ====== Manager of The Bank of Baroda ======
 
-<card class="letter">
 Manager\\
 The Bank of Baroda Ltd.\\
 Post Box No. 1801\\
@@ -26,4 +25,3 @@ Regarding your inquiry of when I left India, I beg to inform you that I left Ind
 Sincerely,
 
 A.C. Bhaktivedanta Swami
-</card>

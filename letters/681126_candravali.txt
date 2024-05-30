@@ -9,7 +9,6 @@
 
 ====== Candravali ======
 
-<card class="letter">
 My dear Candrabali,
 
 Please accept my blessings. I am in due receipt of your letter of November 23 and have noted the contents carefully.
@@ -20,4 +19,3 @@ Regarding your opening a center in Mexico, I think that if some other brahmacari
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

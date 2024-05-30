@@ -9,7 +9,6 @@
 
 ====== Dr. S. Radhakrishnan, President of India ======
 
-<card class="letter">
 His Excellency\\
 Dr. S. Radhakrishnan,\\
 President of India\\
@@ -37,4 +36,3 @@ With reference to your letter dated March 18 %%__%% I am desired to say that the
 
 Yours faithfully\\
 sd/ G.B. Parit etc
-</card>

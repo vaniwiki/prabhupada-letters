@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 Los Angeles
 
 My dear Satsvarupa,
@@ -18,4 +17,3 @@ Please accept my blessings. I am in due receipt of your letter dated nil and I h
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

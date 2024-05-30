@@ -9,7 +9,6 @@
 
 ====== Dayananda ======
 
-<card class="letter">
 Juno Beach, Florida
 
 My dear Dayananda,
@@ -20,4 +19,3 @@ I thank you once more for your progress, in the matter of Krishna Consciousness,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

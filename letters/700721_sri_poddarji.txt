@@ -9,7 +9,6 @@
 
 ====== Sri Poddarji ======
 
-<card class="letter">
 My dear Sri Poddarji,
 
 Please accept my humble obeisances. Your letter dated 7th June, 1970, put me into some anxieties because you wrote in that letter that you are not keeping good health these days. I hope by this time you are feeling well and I shall be glad to hear from you favorably.
@@ -28,4 +27,3 @@ Yours in the service of the Lord,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

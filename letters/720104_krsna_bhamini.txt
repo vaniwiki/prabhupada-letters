@@ -9,7 +9,6 @@
 
 ====== Krsna Bhamini ======
 
-<card class="letter">
 My dear Krsna Bhamini devi dasi,
 
 Please accept my blessings. I beg to thank you for your letter dated December 11th, 1971.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
-</card>

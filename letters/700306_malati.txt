@@ -9,7 +9,6 @@
 
 ====== Malati ======
 
-<card class="letter">
 My dear Malati,
 
 Please accept my blessings. I am in due receipt of your letter dated 17 February, 1970, and have read the contents carefully. I am so glad to hear from you after so long time.
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBSP:db
-</card>

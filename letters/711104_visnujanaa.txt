@@ -9,7 +9,6 @@
 
 ====== Visnujana ======
 
-<card class="letter">
 San Antonio, Texas
 
 Dear Visnujana das Maharaja,
@@ -30,4 +29,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 MS/jdb
-</card>

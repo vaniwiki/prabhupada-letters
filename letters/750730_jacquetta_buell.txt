@@ -9,7 +9,6 @@
 
 ====== Jacquetta Buell ======
 
-<card class="letter">
 Jacquetta Buell\\
 c/o Mrs. Keya Laurence\\
 1477-A 19th Ave.\\
@@ -27,4 +26,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

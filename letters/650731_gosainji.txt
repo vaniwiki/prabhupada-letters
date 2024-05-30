@@ -9,7 +9,6 @@
 
 ====== Gosainji ======
 
-<card class="letter">
 Sri Gorachand Goswami\\
 Sebait Sri Radha Damodar ji\\
 Temple, Sebakunja\\
@@ -31,4 +30,3 @@ Thanking you in anticipation,
 
 Yours sincerely\\
 A.C. Bhaktivedanta Swami.
-</card>

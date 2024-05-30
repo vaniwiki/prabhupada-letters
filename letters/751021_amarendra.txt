@@ -9,7 +9,6 @@
 
 ====== Amarendra ======
 
-<card class="letter">
 Gainesville
 
 My dear Amarendra dasa,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

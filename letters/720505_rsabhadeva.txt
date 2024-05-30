@@ -9,7 +9,6 @@
 
 ====== Rsabhadeva ======
 
-<card class="letter">
 San Francisco
 
 My dear Rsabhadeva,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
-</card>

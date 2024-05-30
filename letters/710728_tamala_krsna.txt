@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 My dear Tamala Krishna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of July 20, 1971, and I have considered the contents carefully.
@@ -35,4 +34,3 @@ A.C. Bhaktivedanta Swami
 
 n.b. Please reply this letter to our London address.\\
 ACBS/adb
-</card>

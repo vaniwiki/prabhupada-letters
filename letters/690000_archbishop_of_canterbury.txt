@@ -9,7 +9,6 @@
 
 ====== Archbishop of Canterbury ======
 
-<card class="letter">
 His Divine Grace the Archbishop of Canterbury\\
 London, England
 
@@ -27,4 +26,3 @@ I do not wish to prolong the body of this note further, but if you think that a 
 
 Yours in the service of the Lord.\\
 A.C. Bhaktivedanta Swami
-</card>

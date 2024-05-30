@@ -9,7 +9,6 @@
 
 ====== Kapoorji ======
 
-<card class="letter">
 Sri Kapoor ji\\
 International Foundation of Meditation\\
 44 Kailash Mandir\\
@@ -27,4 +26,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

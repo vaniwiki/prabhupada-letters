@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 Jai Kirtanananda Maharaj Ki jai!\\
 Jai Kirtanananda Maharaj Ki jai!
 
@@ -21,4 +20,3 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 Gainesville, Florida
 
 My dear Gargamuni Maharaja,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 *Today I have received one encouraging letter from Visnujan Maharaja. He has presented a nice bulletin. ACB\\
 ACBS:ds
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mr. Fulton ======
 
-<card class="letter">
 Mr. Richard Fulton Inc.\\
 200 West 57th Street\\
 New York N.Y. 10019
@@ -30,4 +29,3 @@ Enclosure: Signed Agreement & eight other papers.
 This is to certify that His Holiness Tridandi-Swami Bhaktivedanta Swami Maharaja is a bona fide initiated disciple of His Divine Grace Sri Srimad Bhaktisiddhanta Sarasvati Prabhupada, the Founder-Acarya of the Gaudiya Math Institutions and in November 1959 he took Sannyasam (renounced order of life) from His Holiness Tridandi Swami Bhakti Prajnan Kesava Maharaja, the Founder-President of the Gaudiya Vedanta Society. He is therefore an authorized Preacher and Teacher in the line of disciplic succession from Lord Caitanya Mahaprabhu, who preached Krishna Consciousness all over India about 500 years ago and authorized His all disciplic successors to preach the Philosophy of Bhagavad-gita and Srimad-Bhagavatam in all towns and villages of the world. It is a great pleasure for all members of the Gaudiya Vaisnava Vedantists that Tridandi Swami Bhaktivedanta Swami Maharaja is engaged in preaching the cult in the western world.
 
 Swami B. V. Narayana
-</card>

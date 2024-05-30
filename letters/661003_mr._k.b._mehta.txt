@@ -9,7 +9,6 @@
 
 ====== Mr. K. B. Mehta ======
 
-<card class="letter">
 Mr. K. B. Mehta\\
 Assistant Manager\\
 Scindia Steam Navigation Company\\
@@ -24,4 +23,3 @@ Kindly refer to your letter dated 27th June, 1966. Now, immediately, some foods 
 My best regards, for you all
 
 Swami A.C. Bhaktivedanta
-</card>

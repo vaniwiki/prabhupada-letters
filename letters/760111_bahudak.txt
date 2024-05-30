@@ -9,7 +9,6 @@
 
 ====== Bahudak ======
 
-<card class="letter">
 Vancouver
 
 My dear Bahudak,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

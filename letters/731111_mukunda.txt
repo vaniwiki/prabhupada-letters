@@ -9,7 +9,6 @@
 
 ====== Mukunda ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Mukunda Das:
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/bs\\
 cc: Dhananjaya Das, American Express, Plaza di Spagna 38 Rome, Italy
-</card>

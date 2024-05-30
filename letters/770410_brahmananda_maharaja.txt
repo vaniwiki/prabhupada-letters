@@ -9,7 +9,6 @@
 
 ====== Brahmananda Maharaja ======
 
-<card class="letter">
 c/o ISKCON Africa
 
 Hare Krishna Land\\
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

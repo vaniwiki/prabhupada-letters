@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I am in due reciept of your letter dated March 30, 1972 and the contents have greatly surprised me.
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ktdd\\
 Who called for this meeting? ACB
-</card>

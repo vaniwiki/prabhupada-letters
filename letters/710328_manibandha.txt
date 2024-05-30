@@ -9,7 +9,6 @@
 
 ====== Manibandha ======
 
-<card class="letter">
 Sriman Manibandha Adhikary\\
 455 Valencia Street\\
 San Francisco, California 94103
@@ -31,4 +30,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ adb
-</card>

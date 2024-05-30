@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I beg to acknowledge receipt of your letters dated 14th and 17th June, 1970, respectively.
@@ -40,4 +39,3 @@ Regarding composing our literatures, diacritic marks will carry weight amongst t
 
 Regarding purchasing the composing machine immediately in order to avoid a little rental money is no use. There is a proverb in Bengali---It is no use to purchase a golden earring,\\
 [PAGE MISSING]
-</card>

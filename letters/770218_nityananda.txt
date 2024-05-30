@@ -9,7 +9,6 @@
 
 ====== Nityananda ======
 
-<card class="letter">
 Sriman Nityananda das Adhikary\\
 ISKCON, Route 2 Box 449, Carriere, \\
 Mississippi 39426 USA
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

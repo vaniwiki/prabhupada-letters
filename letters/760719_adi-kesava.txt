@@ -9,7 +9,6 @@
 
 ====== Ādi-kesava ======
 
-<card class="letter">
 Iskcon, New York
 
 My dear Ādi Kesava Maharaj,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

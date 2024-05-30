@@ -9,7 +9,6 @@
 
 ====== Janardana, Pradyumna, Sivananda ======
 
-<card class="letter">
 My dear Janardana, Pradyumna, and Sivananda,
 
 Please accept my blessings. I am very glad to inform you that we have safely reached India on the 25th July at midnight due to a sixteen hour delay in London. But I am glad to inform you that there was no bodily discomfort while traveling. Kirtanananda and I stayed for a few days in Delhi and then came to Vrindaban on the first. I am undergoing the treatment of an ayurvedic physician celebrated to be the best there is in the area, and I think I am feeling a little better. Anyway, as soon as I am a little fit, I shall return to you by the Grace of Krishna.
@@ -18,4 +17,3 @@ Janardana: I had some talks with my god-brother, Swami Bon, head of the Institut
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

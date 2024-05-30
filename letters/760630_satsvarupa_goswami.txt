@@ -9,7 +9,6 @@
 
 ====== Satsvarupa Goswami ======
 
-<card class="letter">
 His Holiness Satsvarupa Goswami\\
 ISKCON\\
 1014 Emerson St.\\
@@ -31,4 +30,3 @@ I hope that this meets you in good health.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

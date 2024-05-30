@@ -9,7 +9,6 @@
 
 ====== Tejiyas ======
 
-<card class="letter">
 Dear Tejyas,
 
 Please accept my blessings. I am in due receipt of your letter of March 27th with check book and statement.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

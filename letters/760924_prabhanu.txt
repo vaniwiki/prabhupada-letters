@@ -9,7 +9,6 @@
 
 ====== Prabhanu ======
 
-<card class="letter">
 Port Louis, Mauritius
 
 My dear Prabhanu,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

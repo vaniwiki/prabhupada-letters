@@ -9,7 +9,6 @@
 
 ====== Sudama ======
 
-<card class="letter">
 Los Angeles
 
 My dear Sudama:
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 Melbourne
 
 My dear Bali Mardan dasa,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. I have sent you a telegram reading as follows\\
 ACBS/rds
-</card>

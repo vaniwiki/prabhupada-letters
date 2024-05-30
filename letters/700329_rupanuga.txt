@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 24th March, 1970, and it is very encouraging.
@@ -28,4 +27,3 @@ Please offer my blessings to your good wife and all the Prabhus there in Buffalo
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

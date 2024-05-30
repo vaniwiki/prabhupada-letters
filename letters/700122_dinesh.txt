@@ -9,7 +9,6 @@
 
 ====== Dinesh ======
 
-<card class="letter">
 My dear Dinesh,
 
 Please accept my blessings. I am in due receipt of your letter dated "nil" and I have also received the package of tapes by separate post. Thank you very much for them.
@@ -26,4 +25,3 @@ If Krishna devi is continuing to feel weakness she may reduce any strenuous acti
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

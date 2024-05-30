@@ -9,7 +9,6 @@
 
 ====== Lilavati ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Lilavati,
@@ -22,4 +21,3 @@ Hoping this finds you and your husband well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

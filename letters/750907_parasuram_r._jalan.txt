@@ -9,7 +9,6 @@
 
 ====== Parasuram R. Jalan ======
 
-<card class="letter">
 Sri P.R. Jalan\\
 Kunjlal Street\\
 Upper Bazzar\\
@@ -27,4 +26,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

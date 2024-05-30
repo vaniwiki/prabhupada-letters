@@ -9,7 +9,6 @@
 
 ====== Pancadravida, Aksayananda ======
 
-<card class="letter">
 Bangalore
 
 My dear Pancadravida and Aksojananda Swamis,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

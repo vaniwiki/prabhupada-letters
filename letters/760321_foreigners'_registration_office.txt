@@ -9,7 +9,6 @@
 
 ====== Foreigners’ Registration Office ======
 
-<card class="letter">
 Foreigners' Registration Office,\\
 Calcutta
 
@@ -22,4 +21,3 @@ Your sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

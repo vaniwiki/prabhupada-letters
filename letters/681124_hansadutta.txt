@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessing to yourself and your good wife, Himavati. I have read with pleasure your letter of November 18th and have noted the contents carefully.
@@ -24,4 +23,3 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

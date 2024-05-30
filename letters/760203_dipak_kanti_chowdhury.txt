@@ -9,7 +9,6 @@
 
 ====== Dipak Kanti Chowdhury ======
 
-<card class="letter">
 Dipak Kanti Chowdhury\\
 New York
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

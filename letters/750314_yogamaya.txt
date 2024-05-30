@@ -9,7 +9,6 @@
 
 ====== Yogamaya ======
 
-<card class="letter">
 Los Angeles
 
 My dear Yogamaya devi das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

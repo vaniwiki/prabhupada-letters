@@ -9,7 +9,6 @@
 
 ====== Sri Ganatra ======
 
-<card class="letter">
 Bombay
 
 My dear Sri Ganatra,
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
-</card>

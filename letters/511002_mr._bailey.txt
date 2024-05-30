@@ -9,7 +9,6 @@
 
 ====== Mr. Bailey ======
 
-<card class="letter">
 Mr. Daniel Bailey\\
 Information Officer American Reporter\\
 54, Queen's Road, New Delhi.
@@ -46,4 +45,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta
 
 All Glory to Sri Guru and Gauranga.
-</card>

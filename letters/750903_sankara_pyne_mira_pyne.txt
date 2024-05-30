@@ -9,7 +9,6 @@
 
 ====== Sankara Pyne, Mira Pyne ======
 
-<card class="letter">
 Sankara and Mira Pyne\\
 c/o Sri Krishna Candra Pyne\\
 P-63, Tollygunge Road\\
@@ -25,4 +24,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

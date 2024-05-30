@@ -9,7 +9,6 @@
 
 ====== Jagannatham Prabhu ======
 
-<card class="letter">
 My dear Jagannatham Prabhu,
 
 Please accept my humble dandabats. I beg to acknowledge receipt of your kind letter dated 1 February 1969. I have received one pamphlet of the Golden Jubilee, organized by Sripada Tirtha Maharaja, and a covering letter dated 29, January 1969. This letter was not even signed by Tirtha Maharaja, but appears to be a general circular letter with his rubber stamp only, without any signature. Besides that, there is not a single line inviting me to attend the ceremony either officially or personally. Aside from this, I have not received any invitation from him, and I do not know if the other Tridandi Sannyasis and disciples of Prabhupada have been specially invited or not. The copy of his letter along with the copy of my letter is enclosed herewith for your purusal. I have also sent to him one copy of my __Bhagavad-gita As It Is.__
@@ -26,4 +25,3 @@ I thank you very much for your kind blessing, and I beg to remain
 
 Yours ever affectionately,\\
 A.C. Bhaktivedanta Swami
-</card>

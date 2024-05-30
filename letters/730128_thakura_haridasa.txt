@@ -9,7 +9,6 @@
 
 ====== Thakura Haridasa ======
 
-<card class="letter">
 Los Angeles
 
 My dear Thakura Haridasa,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bmdg
-</card>

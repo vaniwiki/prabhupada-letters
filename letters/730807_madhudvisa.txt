@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter and enclosed check for daksina. In the meantime, I have also received a package of photographs. Your festival appears to be just like Jagannatha Puri, it is so encouraging to me to see how very enthusiastic you are working there. Yes! I shall certainly come to your Ratha Yatra Festival next year.
@@ -27,4 +26,3 @@ I hope this letter meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

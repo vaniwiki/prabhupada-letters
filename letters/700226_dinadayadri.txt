@@ -9,7 +9,6 @@
 
 ====== Dinadayadri ======
 
-<card class="letter">
 Detroit
 
 My dear Dinadayadri,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

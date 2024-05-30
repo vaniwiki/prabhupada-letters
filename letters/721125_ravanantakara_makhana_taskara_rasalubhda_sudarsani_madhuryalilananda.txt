@@ -9,7 +9,6 @@
 
 ====== Ravanantakara (Rick Knickerbocker), Makhana Taskara (Martin Framson), Rasalubhda (Lynn MacDonald), Sudarsani (Cynthia Greene), Madhuryalilananda (Elizabeth Hanks) ======
 
-<card class="letter">
 Denver
 
 My dear Sons and Daughters,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

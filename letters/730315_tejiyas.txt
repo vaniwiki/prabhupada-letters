@@ -9,7 +9,6 @@
 
 ====== Tejiyas ======
 
-<card class="letter">
 New Delhi
 
 My dear Tejiyas:
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/rdg
-</card>

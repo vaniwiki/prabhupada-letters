@@ -9,7 +9,6 @@
 
 ====== K.C. Kapur ======
 
-<card class="letter">
 K.C. Kapur\\
 c/o IFOM\\
 44, Kailash\\
@@ -31,4 +30,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

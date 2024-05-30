@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 Boston
 
 My dear Satsvarupa,
@@ -35,4 +34,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS:db\\
 P.S. Has Dinesh taken delivery of the song tape recorder?
-</card>

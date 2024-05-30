@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 Paris
 
 My dear Bhagavan das adhikari,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/ps\\
 cc: Germany
-</card>

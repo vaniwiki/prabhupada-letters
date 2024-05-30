@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 New York
 
 My dear Brahmananda,
@@ -30,4 +29,3 @@ Hope you are well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

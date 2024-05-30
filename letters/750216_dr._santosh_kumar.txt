@@ -9,7 +9,6 @@
 
 ====== Dr. Santosh Kumar ======
 
-<card class="letter">
 Dr. Santosh Kumar\\
 McMaster University\\
 Hamilton, Ontario, Canada\\
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

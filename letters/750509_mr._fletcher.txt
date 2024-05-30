@@ -9,7 +9,6 @@
 
 ====== Mr. Fletcher ======
 
-<card class="letter">
 Geoffrey Fletcher\\
 St. Ives, Australia
 
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

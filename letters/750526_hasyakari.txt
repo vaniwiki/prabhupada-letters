@@ -9,7 +9,6 @@
 
 ====== Hasyakari ======
 
-<card class="letter">
 Buffalo
 
 My dear Hasyakari,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

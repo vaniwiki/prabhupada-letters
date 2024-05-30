@@ -9,7 +9,6 @@
 
 ====== Jamuna ======
 
-<card class="letter">
 Hyderabad
 
 My dear Jamuna devi,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

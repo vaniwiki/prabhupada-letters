@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 Boston
 
 My dear Satsvarupa,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/adb\\
 P.S. Enclosed please find poetry for possible publication. I don't think there is need of immediate meeting of all GBC members at N.Y.
-</card>

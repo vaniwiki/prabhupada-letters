@@ -9,7 +9,6 @@
 
 ====== Bank Manager ======
 
-<card class="letter">
 From: FOUNDER-SECRETARY: LEAGUE OF DEVOTEES\\
 1975 So. La Cienega Blvd.\\
 Los Angeles, Cal. 90034 USA
@@ -27,4 +26,3 @@ Kindly close this account, and whatever amount is there in credit balance please
 
 Sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

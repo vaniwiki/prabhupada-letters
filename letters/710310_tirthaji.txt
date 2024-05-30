@@ -9,7 +9,6 @@
 
 ====== Tirthaji ======
 
-<card class="letter">
 Dear Tirthaji,
 
 Your letter dated 6th March, 1971, in hand.
@@ -21,4 +20,3 @@ Anyway, I shall be pleased to know when they shall be vacant. I wish to go there
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

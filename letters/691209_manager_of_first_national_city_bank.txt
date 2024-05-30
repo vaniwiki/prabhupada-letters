@@ -9,7 +9,6 @@
 
 ====== Manager of First National City Bank ======
 
-<card class="letter">
 Manager\\
 FIRST NATIONAL CITY BANK\\
 686 Broadway Branch\\
@@ -25,4 +24,3 @@ Kindly transfer $1,400 to the INTERNATIONAL SOCIETY FOR KRISHNA CONSCIOUSNESS, a
 Truly yours,
 
 A.C. Bhaktivedanta Swami
-</card>

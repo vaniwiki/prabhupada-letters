@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 Sriman Hayagriva Das Adhikary\\
 New Vrndavana\\
 RD 3, Moundsville, WV 26041
@@ -31,4 +30,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS: db
-</card>

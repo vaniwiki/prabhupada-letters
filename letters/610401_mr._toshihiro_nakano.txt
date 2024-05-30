@@ -9,7 +9,6 @@
 
 ====== Mr. Toshihiro Nakano ======
 
-<card class="letter">
 Mr. Toshihiro Nakano\\
 Secretary General\\
 International Foundation for Cultural Harmony.\\
@@ -38,4 +37,3 @@ Thanking you in anticipation for an early reply.
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

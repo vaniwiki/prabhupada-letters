@@ -9,7 +9,6 @@
 
 ====== Whom it may concern ======
 
-<card class="letter">
 To Whom It May Concern:
 
 This is to certify that Sriman Bhagavan das Adhikari is an ordained minister in the International Society for Krishna Consciousness, of the title Bhakti-sastri, and fully qualified to instruct on Krishna Consciousness and Vedic literature in general. He has been studying under me for many years and is one of my foremost disciples.
@@ -18,4 +17,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

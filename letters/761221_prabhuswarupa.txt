@@ -9,7 +9,6 @@
 
 ====== Prabhuswarupa ======
 
-<card class="letter">
 Sriman Prabhuswarup Das\\
 Sripat Bari, (Thakur Haridas Sevashram)\\
 Haridaspur, P.O. Chhayagharia, P. S. Bongoon\\
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/gdb
-</card>

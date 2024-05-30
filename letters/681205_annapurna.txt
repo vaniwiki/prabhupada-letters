@@ -9,7 +9,6 @@
 
 ====== Annapurna ======
 
-<card class="letter">
 London
 
 My dear Annapurna,
@@ -18,4 +17,3 @@ After long time, please accept my blessings. I beg to acknowledge receipt of you
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

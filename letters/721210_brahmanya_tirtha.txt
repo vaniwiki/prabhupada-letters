@@ -9,7 +9,6 @@
 
 ====== Brahmanya Tirtha ======
 
-<card class="letter">
 New Orleans\\
 [To Brahmanya Tirtha]
 
@@ -19,4 +18,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

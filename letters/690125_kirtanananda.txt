@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. I am in due receipt of your letter dated 18, January 1969, and I have carefully noted the contents. I am encouraged to know that you are very enthusiastic about our projects for developing New Vrindaban. So far as the school goes, we have many qualified teachers, and they are all enthusiastic about going there and beginning their teaching work. The only thing is that there is as of yet no place to accommodate these teachers. So as soon as these facilities are constructed we can at once start at full force in setting up our Krishna Consciousness school program.
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 NB: I understand from Hayagriva that you have at New Vrindaban an edited manuscript of __Easy Journey To Other Planets.__ Send this copy to me immediately because in London, Mukunda is attempting to have this published and I would like to read the edited version and send it on to him. So far as your idea of editing the lectures which you started to edit in Montreal, the idea is very nice. ACB\\
 P.S. You will be pleased to know that I have got now my immigration visa card (%%___%% Blue Card) ACB
-</card>

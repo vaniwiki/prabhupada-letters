@@ -9,7 +9,6 @@
 
 ====== Purusottama ======
 
-<card class="letter">
 My dear Purusottama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 16, 1968, and have noted the contents carefully. I thank you very much that you are always thinking of me; similarly, take it from me I also always think of you. I could not have allowed you to go to New York but your service was urgently needed by Brahmananda, so I could not refuse that. Anyway, your service to Krishna, either with me or anywhere else, is the same.
@@ -20,4 +19,3 @@ Today, the London party led by Mukunda and Syamasundara will reach to New York, 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

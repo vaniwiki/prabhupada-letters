@@ -9,7 +9,6 @@
 
 ====== Syamasundara ======
 
-<card class="letter">
 My dear Syamasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 11th April, 1970.
@@ -40,4 +39,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I am enclosing herewith the Preface of Krsna which will %%__%% the whole thing.
-</card>

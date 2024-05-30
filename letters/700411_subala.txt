@@ -9,7 +9,6 @@
 
 ====== Subala ======
 
-<card class="letter">
 Philadelphia
 
 My dear Subala,
@@ -30,4 +29,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

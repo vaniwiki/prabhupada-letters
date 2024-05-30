@@ -9,7 +9,6 @@
 
 ====== Padmanabha ======
 
-<card class="letter">
 Denver
 
 My dear Padmanabha and Mahojjvala dasi:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

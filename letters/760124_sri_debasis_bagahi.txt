@@ -9,7 +9,6 @@
 
 ====== Sri Debasis Bagahi ======
 
-<card class="letter">
 Sri Debasis Bagahi\\
 New Delhi
 
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

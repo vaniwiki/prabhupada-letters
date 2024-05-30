@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 Bombay
 
 My dear Giriraja Das:
@@ -31,4 +30,3 @@ ACBS/bs
 
 N.B. I am returning the draft with corrections and additions as per enclosed. I have just received notice from Hansadutta that he has sent Dollars 4,000 to Central Account for Food Relief. That money may be immediately transferred to Gargamuni Swami Calcutta account for use on construction of the Prasadam Distribution Pavillion.\\
 ACBS
-</card>

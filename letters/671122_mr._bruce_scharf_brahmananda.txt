@@ -9,7 +9,6 @@
 
 ====== Mr. Bruce Scharf, Brahmananda ======
 
-<card class="letter">
 Mr. Bruce Scharf\\
 c/o Iskcon Inc.\\
 26 Second avenue\\
@@ -21,4 +20,3 @@ I hereby authorize you to sign the contract with Messrs. MacMillan and Co. in th
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Krsnakanti ======
 
-<card class="letter">
 Los Angeles
 
 My dear Krsnakanti,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
-</card>

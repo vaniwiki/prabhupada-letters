@@ -9,7 +9,6 @@
 
 ====== Rayarama ======
 
-<card class="letter">
 My dear Rayarama,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 24, 1969, and I have noted the contents with care. Just yesterday I also received __Back To Godhead,__ no. 22, and it is looking very good. This issue is very nice, and I thank you and all of your hard-working press men for their sincere efforts in this connection. I am confident that this magazine will be improving more and more under your direction.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 NB: I do not understand why there is no word from you about the Prahlada Maharaja pictures which are to be printed here. Please inform Purusottama what is the difficulty.
-</card>

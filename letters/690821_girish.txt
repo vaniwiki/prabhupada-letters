@@ -9,7 +9,6 @@
 
 ====== Girish ======
 
-<card class="letter">
 1975 So. La Cienega Blvd.\\
 Los Angeles, Cal. 90034
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. I shall inform your mother about your gift and she will be happy.
-</card>

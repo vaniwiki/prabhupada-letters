@@ -9,7 +9,6 @@
 
 ====== Manager of The Punjab National Bank ======
 
-<card class="letter">
 Manager\\
 The Punjab National Bank\\
 Vrindaban, Mathura U.P.\\
@@ -28,4 +27,3 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/pdb
-</card>

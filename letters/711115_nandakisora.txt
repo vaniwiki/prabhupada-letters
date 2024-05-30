@@ -9,7 +9,6 @@
 
 ====== Nandakisora ======
 
-<card class="letter">
 My dear Nanda Kisora,
 
 Please accept my blessings. I am in due receipt of your letter of (undated), asking me if you could go to Mexico City to learn Spanish language for opening centers in South America.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

@@ -9,7 +9,6 @@
 
 ====== Ranadhir ======
 
-<card class="letter">
 ISKCON CENTER: 3764 Watseka Ave.\\
 Los Angeles, Calif. 90034
 
@@ -29,4 +28,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/db
-</card>

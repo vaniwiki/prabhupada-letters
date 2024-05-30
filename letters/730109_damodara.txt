@@ -9,7 +9,6 @@
 
 ====== Damodara ======
 
-<card class="letter">
 My dear Damodara,
 
 Please accept my blessings. Your letter dated December 28, 1972 is in hand and I have noted the contents carefully. Upon your recommendation I am happy to accept the six applicants as my duly initiated disciples, and their letter is enclosed herewith. You may request them to send their beads to Kirtanananda in New Vrndavana for chanting on them on my behalf. I have given that responsibility as it is too costly to send so many beads such great distance by air mail. Now I am getting so many requests for first initiation, therefore I have given that responsibility to Kirtanananda, and Revatinandana will chant on the beads for the European devotees.
@@ -26,4 +25,3 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

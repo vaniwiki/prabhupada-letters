@@ -9,7 +9,6 @@
 
 ====== Sarvavit ======
 
-<card class="letter">
 Mombassa, Kenya
 
 My dear Sarvavit dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

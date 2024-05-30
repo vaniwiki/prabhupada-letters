@@ -9,7 +9,6 @@
 
 ====== Atreya Rsi ======
 
-<card class="letter">
 My dear Atreya Rsi,
 
 Please accept my blessings. I beg to thank you for your letter dated March 25th, 1977.
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
-</card>

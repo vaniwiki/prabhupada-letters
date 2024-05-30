@@ -9,7 +9,6 @@
 
 ====== The Times of India ======
 
-<card class="letter">
 "The Times of India"\\
 New Delhi, India\\
 Attn: Advertising Dept.
@@ -26,4 +25,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

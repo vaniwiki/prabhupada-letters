@@ -9,7 +9,6 @@
 
 ====== MacMillan Company ======
 
-<card class="letter">
 The MacMillan Company\\
 New York
 
@@ -25,4 +24,3 @@ Please inform me whether MacMillan wants to publish this expanded version of the
 
 Yours sincerely,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Yugalakisora ======
 
-<card class="letter">
 Toronto
 
 My dear Sriman Yugalakisora Das Brahmacari,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

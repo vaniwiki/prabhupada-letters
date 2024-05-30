@@ -9,7 +9,6 @@
 
 ====== Kanya Kumari (Carol Bouchier) ======
 
-<card class="letter">
 New Orleans
 
 My dear Kanya Kumari (Carol Bouchier),
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

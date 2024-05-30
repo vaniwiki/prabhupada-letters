@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I have received your letter of Nov. 28, 1968, and I have noted the contents carefully. I thank you for your kind sentiments for me, it is very nice.
@@ -26,4 +25,3 @@ Hope that you are all well.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

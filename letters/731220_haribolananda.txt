@@ -9,7 +9,6 @@
 
 ====== Haribolananda ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Hari Bol Ananda,
@@ -22,4 +21,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
-</card>

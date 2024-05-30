@@ -9,7 +9,6 @@
 
 ====== Jadurani ======
 
-<card class="letter">
 My dear Jadurani,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter October 31, 1968, and I am so pleased to know that you are now quite able to work. May Krishna bless you with good health and continue your prescribed duties very nicely.
@@ -22,4 +21,3 @@ Hoping you are in good health always,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

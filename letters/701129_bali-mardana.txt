@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 My dear Bali Mardan,
 
 Please accept my blessings. I am in due receipt of your letter dated November 23, 1970, and I am very glad that you have gone on to Singapore for expanding our number of Far Eastern and Pacific branches of ISKCON. It is my ultimate desire that all the cities of the world have such centers for Krsna Consciousness and I am sure this will come about because it is the desire of Lord Caitanya.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

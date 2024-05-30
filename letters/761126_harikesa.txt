@@ -9,7 +9,6 @@
 
 ====== Harikesa ======
 
-<card class="letter">
 Frankfurt
 
 My dear Harikesa Swami,
@@ -25,4 +24,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. I have received the $480 sent with Gurudasa. Thank you very much. I think this clears your loan.\\
 ACBS/jda
-</card>

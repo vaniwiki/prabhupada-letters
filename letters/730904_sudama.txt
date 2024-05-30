@@ -9,7 +9,6 @@
 
 ====== Sudama ======
 
-<card class="letter">
 Brooklyn
 
 My dear Sudama Maharaja,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:hda
-</card>

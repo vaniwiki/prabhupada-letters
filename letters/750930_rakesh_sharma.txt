@@ -9,7 +9,6 @@
 
 ====== Rakesh Sharma ======
 
-<card class="letter">
 Rakesh Sharma\\
 2704 West Terrace Dr.\\
 Augusta, Georgia 30904
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

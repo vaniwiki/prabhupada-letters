@@ -9,7 +9,6 @@
 
 ====== Citsukhananda ======
 
-<card class="letter">
 Mexico City
 
 My dear Citsukhananda,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Received: check for $100.00
-</card>

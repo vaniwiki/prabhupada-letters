@@ -9,7 +9,6 @@
 
 ====== Yasomatisuta ======
 
-<card class="letter">
 Hong Kong
 
 My dear Yasomatisuta das,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

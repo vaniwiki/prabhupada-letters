@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 My dear Karandhara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter post-dated 5th October, 1971 and have noted the contents. I am very glad to learn that Rayarama is going to join us again. He is always welcome. So when he goes to N.Y. he may write to me. Then I shall let him know where to go in India. For the time being, from here I am going to Bombay and then Calcutta and then Delhi. In this way they have got several programs in India. So on hearing from Rayarama at my Bombay address I shall give him direction where to come.
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

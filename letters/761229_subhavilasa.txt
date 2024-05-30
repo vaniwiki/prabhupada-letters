@@ -9,7 +9,6 @@
 
 ====== Subhavilasa ======
 
-<card class="letter">
 Don Mills, Canada
 
 My dear SubhaVilasa,
@@ -22,4 +21,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

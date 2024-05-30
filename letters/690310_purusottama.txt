@@ -9,7 +9,6 @@
 
 ====== Purusottama ======
 
-<card class="letter">
 My dear Purusottam,
 
 Please accept my blessings. I hope you have already received the the tape No. 36, Today I am sending the tape No. 37. You need not send me the typed copies. You can keep them with you.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta
 
 P.S. Please send me a few copies of the photostat "Krishna Chant Startles London".
-</card>

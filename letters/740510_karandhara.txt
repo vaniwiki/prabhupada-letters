@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 Encino, California
 
 My dear Karandhara,
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 New Vrndavana
 
 My dear Hayagriva,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Bharadraja ======
 
-<card class="letter">
 Los Angeles
 
 My dear Bharadraja das,
@@ -36,4 +35,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

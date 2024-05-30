@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 My dear Kirtanananda,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated August 2, 1969, and I have noted the contents carefully. Regarding your recipe for pickling foodstuffs, it is all right, but it will be nicer still if you follow the following procedure: Cut berries, green apples or green tomatoes into pieces. Without adding water, add a mixture of equal quantities of salt, turmeric and red peppers. Then let it be dried in the sunlight as far as possible. When this is done, put it either in mustard oil or in olive oil, and it will then keep for years.
@@ -20,4 +19,3 @@ I hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Palika ======
 
-<card class="letter">
 Los Angeles
 
 My dear Palika devi dasi,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

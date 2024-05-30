@@ -9,7 +9,6 @@
 
 ====== Mrs. Rose Forkash ======
 
-<card class="letter">
 Mrs. Rose Forkash\\
 Sp., 166, 3940 Via Real\\
 Carpenteria, California 93013, U.S.A.
@@ -31,4 +30,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tks
-</card>

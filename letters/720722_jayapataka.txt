@@ -9,7 +9,6 @@
 
 ====== Jayapataka ======
 
-<card class="letter">
 My dear Jayapataka,
 
 Please accept my blessings. I am in due receipt of your letter dated July 10, 1972, and I have noted the contents with great pleasure. I am very glad to hear that the building work is going on with full speed, including both day and night shifts of workers. Do not worry, I am sending you two first-class men from England, both of them have got good experience in engineering and building work. They are named Smarahari das and %%___%%. They shall be arriving very soon in India, and you can train them to help you there full-time. Besides, you may ask Giriraja if Saurabha das can come from Bombay from time to time to assist you there and see how the things are going on. He is experienced man.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

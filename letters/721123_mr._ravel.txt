@@ -9,7 +9,6 @@
 
 ====== Mr. Ravel ======
 
-<card class="letter">
 Mr. V.L. Ravel\\
 Cal-25\\
 22-B School Row
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdb
-</card>

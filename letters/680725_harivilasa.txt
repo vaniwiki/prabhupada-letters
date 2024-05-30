@@ -9,7 +9,6 @@
 
 ====== Harivilasa ======
 
-<card class="letter">
 Delhi
 
 My dear Harivilasa,
@@ -30,4 +29,3 @@ Thanking you once more, and hoping you are keeping in good health,
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

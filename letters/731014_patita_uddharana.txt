@@ -9,7 +9,6 @@
 
 ====== Patita Uddharana ======
 
-<card class="letter">
 Amsterdam
 
 My dear Patita Uddharana Das:
@@ -32,4 +31,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

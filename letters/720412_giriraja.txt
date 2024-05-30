@@ -9,7 +9,6 @@
 
 ====== Giriraja ======
 
-<card class="letter">
 Bombay
 
 My dear Giriraja,
@@ -44,4 +43,3 @@ A.C. Bhaktivedanta Swami
 
 *Please let me know Indira's former address\\
 ACBS/sda
-</card>

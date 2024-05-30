@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 Twenty-Six Second Avenue, \\
 New York, N.Y. 10003\\
 Telephone: 674 7428
@@ -47,4 +46,3 @@ I thank you very much that you are nicely conducting classes, and I am very happ
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

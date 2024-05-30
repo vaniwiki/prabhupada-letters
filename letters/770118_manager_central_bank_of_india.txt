@@ -9,7 +9,6 @@
 
 ====== Manager, Central Bank of India ======
 
-<card class="letter">
 The Manager\\
 The Central Bank of India Limited\\
 Camac Street Branch\\
@@ -43,4 +42,3 @@ Received the above deposit for our safe custody and renewal [indistinct] of at t
 [illegible signature]
 
 5/2/77
-</card>

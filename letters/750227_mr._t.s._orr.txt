@@ -9,7 +9,6 @@
 
 ====== Mr. T. S. Orr ======
 
-<card class="letter">
 Att: Mr. T.S. Orr\\
 Vice President\\
 Bank of America, L.A.
@@ -24,4 +23,3 @@ Thanking you in anticipation.
 
 Faithfully yours,\\
 A.C. Bhaktivedanta Swami
-</card>

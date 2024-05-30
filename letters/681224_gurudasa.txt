@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 London
 
 My dear Gurudasa,
@@ -26,4 +25,3 @@ Our policy of Krishna Consciousness is very nice. We are offering people good fa
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

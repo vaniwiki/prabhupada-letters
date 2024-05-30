@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 West Germany
 
 My dear Hansadutta das:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

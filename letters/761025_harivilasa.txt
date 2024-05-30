@@ -9,7 +9,6 @@
 
 ====== Harivilasa ======
 
-<card class="letter">
 My dear Harivilasa,
 
 Please accept my blessings. I am in receipt of your letter dated 19/10/76.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

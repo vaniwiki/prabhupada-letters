@@ -9,7 +9,6 @@
 
 ====== Sai ======
 
-<card class="letter">
 My dear Sriman Sai,
 
 Please accept my blessings. I beg to thank you for your letter dated 29th December and the nice sentiments expressed therein. I am very glad to inform you that I have seen your photograph and from your features it appears that you have improved very much spiritually.
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

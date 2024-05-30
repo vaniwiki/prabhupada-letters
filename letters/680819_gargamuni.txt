@@ -9,7 +9,6 @@
 
 ====== Gargamuni ======
 
-<card class="letter">
 Vancouver
 
 My dear Gargamuni,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 *Having not received any reply from either of them. I am doubtful whether they have not received my letters. Kindly inquire what is the matter and let we know.
-</card>

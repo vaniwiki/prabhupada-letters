@@ -9,7 +9,6 @@
 
 ====== Nayanabhirama ======
 
-<card class="letter">
 Philadelphia
 
 My dear Nayana Bhirama,
@@ -34,4 +33,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

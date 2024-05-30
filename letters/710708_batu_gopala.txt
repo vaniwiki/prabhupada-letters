@@ -9,7 +9,6 @@
 
 ====== Batu Gopala (Ed Englehart) ======
 
-<card class="letter">
 Detroit
 
 My dear Batua Gopala, (Ed Englehart),
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

@@ -9,7 +9,6 @@
 
 ====== Balmukundji ======
 
-<card class="letter">
 My dear Balmukundji,
 
 Please accept my greetings. I thank you very much for your letter dated 11th April, 1970.
@@ -28,4 +27,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

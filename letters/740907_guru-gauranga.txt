@@ -9,7 +9,6 @@
 
 ====== Guru-gauranga ======
 
-<card class="letter">
 Geneva
 
 My dear Gurugauranga das;
@@ -48,4 +47,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/hdb
-</card>

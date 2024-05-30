@@ -9,7 +9,6 @@
 
 ====== Sukadeva ======
 
-<card class="letter">
 My dear Sukadeva,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter and the enclosed pictures of your Altar. Everything appears very very nice and I am very much pleased, thank you so much.
@@ -43,4 +42,3 @@ Sriman Sukadeva Das Adhikary\\
 400 18th Ave. E.\\
 Seattle, Washington 98112\\
 America
-</card>

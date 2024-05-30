@@ -9,7 +9,6 @@
 
 ====== The Punjab National Bank ======
 
-<card class="letter">
 The Punjab National Bank Ltd.\\
 Vrindaban, Mathura U.P.\\
 INDIA\\
@@ -23,4 +22,3 @@ Sincerely,
 
 A.C. Bhaktivedanta Swami\\
 ACBS/pdb
-</card>

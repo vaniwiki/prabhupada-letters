@@ -9,7 +9,6 @@
 
 ====== Vidyapati ======
 
-<card class="letter">
 Singapore
 
 Dear Vidyapati,
@@ -22,4 +21,3 @@ You lament that you are not qualified to present Krsna Consciousness properly, b
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

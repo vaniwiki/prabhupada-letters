@@ -9,7 +9,6 @@
 
 ====== Jayananda ======
 
-<card class="letter">
 New York
 
 My dear Jayananda dasa,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

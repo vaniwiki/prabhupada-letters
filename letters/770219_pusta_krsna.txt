@@ -9,7 +9,6 @@
 
 ====== Pusta Krsna ======
 
-<card class="letter">
 Pusta Krsna das\\
 (Paul H. Dossick)\\
 1932 Haste St., Apt. 10\\
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

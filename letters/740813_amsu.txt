@@ -9,7 +9,6 @@
 
 ====== Amsu ======
 
-<card class="letter">
 Toronto
 
 My dear Amsu das:
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs/ps
-</card>

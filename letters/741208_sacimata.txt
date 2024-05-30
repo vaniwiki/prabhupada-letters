@@ -9,7 +9,6 @@
 
 ====== Sacimata ======
 
-<card class="letter">
 Calcutta
 
 My dear Saci Mata devi dasi:
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

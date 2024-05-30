@@ -9,7 +9,6 @@
 
 ====== Jadurani ======
 
-<card class="letter">
 Brooklyn
 
 My dear Jadurani devi dasi:
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

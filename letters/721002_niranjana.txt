@@ -9,7 +9,6 @@
 
 ====== Niranjana ======
 
-<card class="letter">
 Varanasi
 
 My dear Niranjana Das,
@@ -20,4 +19,3 @@ Hoping this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

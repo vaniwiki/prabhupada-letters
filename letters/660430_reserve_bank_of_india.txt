@@ -9,7 +9,6 @@
 
 ====== Reserve Bank of India ======
 
-<card class="letter">
 Chief Controller of Exchange\\
 Control Department\\
 Reserve Bank of India\\
@@ -31,4 +30,3 @@ Thanking you in anticipation for an early reply
 
 Yours faithfully,\\
 A.C. Bhaktivedanta Swami.
-</card>

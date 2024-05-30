@@ -9,7 +9,6 @@
 
 ====== Bob ======
 
-<card class="letter">
 Springfield, New Jersey
 
 My dear Bob,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACB/sda
-</card>

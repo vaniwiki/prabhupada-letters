@@ -9,7 +9,6 @@
 
 ====== Akbar Ali Khan ======
 
-<card class="letter">
 Governor of Orissa,\\
 Raj Bhavan, Bhubaneswar, Orissa, INDIA.
 
@@ -50,4 +49,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

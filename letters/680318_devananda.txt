@@ -9,7 +9,6 @@
 
 ====== Devananda ======
 
-<card class="letter">
 New York
 
 My dear Devananda,
@@ -24,4 +23,3 @@ I hope you are well.
 
 Your ever well-wisher,\\
 ACB
-</card>

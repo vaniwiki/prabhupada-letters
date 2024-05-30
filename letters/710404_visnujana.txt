@@ -9,7 +9,6 @@
 
 ====== Visnujana ======
 
-<card class="letter">
 Austin, Texas
 
 My dear Son, Visnujana Maharaja,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 ACBS/adb\\
 P.S. While posting this letter, Sriman Gargamuni Maharaja has just arrived in Calcutta from Pakistan East.
-</card>

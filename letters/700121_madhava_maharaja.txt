@@ -9,7 +9,6 @@
 
 ====== Madhava Maharaja ======
 
-<card class="letter">
 Sri Caitanya Gaudiya Math\\
 35 Satish Mukherjee Road\\
 Calcutta-26\\
@@ -39,4 +38,3 @@ Yours affectionately,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

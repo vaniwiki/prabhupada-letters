@@ -9,7 +9,6 @@
 
 ====== Gunagrahi ======
 
-<card class="letter">
 San Diego
 
 My dear Gunagrahi dasa,
@@ -26,4 +25,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

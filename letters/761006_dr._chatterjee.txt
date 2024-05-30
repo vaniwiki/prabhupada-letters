@@ -9,7 +9,6 @@
 
 ====== Dr. Chatterjee ======
 
-<card class="letter">
 Calcutta
 
 Dear Dr. Chatterjee,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/as
-</card>

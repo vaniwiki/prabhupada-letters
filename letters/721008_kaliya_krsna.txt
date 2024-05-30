@@ -9,7 +9,6 @@
 
 ====== Kaliya Krsna ======
 
-<card class="letter">
 My dear Kaliya Krsna,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 31, 1972, and have noted the contents.
@@ -20,4 +19,3 @@ Hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami.
-</card>

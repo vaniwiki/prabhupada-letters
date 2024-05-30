@@ -9,7 +9,6 @@
 
 ====== Yamuna, Dinatarini ======
 
-<card class="letter">
 Murphy, Oregon\\
 Yamuna devi dasi\\
 Dinatarini devi dasi,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

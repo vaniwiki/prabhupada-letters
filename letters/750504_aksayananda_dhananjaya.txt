@@ -9,7 +9,6 @@
 
 ====== Aksayananda, Dhananjaya ======
 
-<card class="letter">
 Vrndavana
 
 Dear Aksayananda Swami and Dhananjaya,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

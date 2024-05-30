@@ -9,7 +9,6 @@
 
 ====== Madhudvisa ======
 
-<card class="letter">
 My dear Madhudvisa Swami,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated September 28, 1973 and have noted the contents. Regarding the initiations I accept the following devotee as my disciple:
@@ -22,4 +21,3 @@ I hope this finds you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Yamuna, Gurudasa ======
 
-<card class="letter">
 London
 
 My dear Yamuna and Gurudasa,
@@ -36,4 +35,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Jyotiganesvara ======
 
-<card class="letter">
 San Diego
 
 My dear Jyotiganesvara das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

@@ -9,7 +9,6 @@
 
 ====== Hrsikesa ======
 
-<card class="letter">
 My dear Hrsikesa,
 
 Please accept my blessings. I am in due receipt of your letter of March 21, and have noted the contents carefully. No, I think the letter you sent formerly must have been lost, or missing in the mail. So I have sent your draft letter duly, and the copy of which is enclosed here with.
@@ -20,4 +19,3 @@ So I hope you are all well there, and very happily executing Krishna Consciousne
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

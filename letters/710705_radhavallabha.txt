@@ -9,7 +9,6 @@
 
 ====== Radhavallabha ======
 
-<card class="letter">
 Gainesville
 
 My dear Radhaballaba Das ([name redacted]),
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

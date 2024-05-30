@@ -9,7 +9,6 @@
 
 ====== Mr. K. T. Desai ======
 
-<card class="letter">
 Mr. K. T. Desai\\
 Kambli Block\\
 Nehru Road\\
@@ -43,4 +42,3 @@ Yours, sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/BS/mdd
-</card>

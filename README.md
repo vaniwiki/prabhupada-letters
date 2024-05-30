@@ -1,3 +1,3 @@
 # LETTERS
 
-Srila Prabhupada's letters.</card>
+Srila Prabhupada's letters.

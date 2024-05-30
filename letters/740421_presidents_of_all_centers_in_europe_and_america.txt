@@ -9,7 +9,6 @@
 
 ====== Presidents of all centers in Europe and America ======
 
-<card class="letter">
 Calcutta
 
 To The Presidents of all centers in Europe and America:
@@ -20,4 +19,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

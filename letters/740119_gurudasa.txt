@@ -9,7 +9,6 @@
 
 ====== Gurudasa ======
 
-<card class="letter">
 Dear Gurudasa,
 
 Please accept my blessings. Please find enclosed a copy of a letter to the Punjab National Bank, Vrindaban Branch, and a copy of the transfer advice of $100,000 from the Security Pacific National Bank. On receipt of this kindly see the manager of the Punjab National Bank in Vrindaban and see if they have done the needful.
@@ -22,4 +21,3 @@ A.C. Bhaktivedanta Swami
 ACBS/sdg\\
 Enclosures: a) copy of letter to Punjab National Bank, Vrindaban Branch\\
 b) True Copy, money order transfer
-</card>

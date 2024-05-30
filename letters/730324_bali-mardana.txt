@@ -9,7 +9,6 @@
 
 ====== Bali-mardana ======
 
-<card class="letter">
 My dear Bali-mardana:
 
 Please accept my blessings.
@@ -26,4 +25,3 @@ Hoping this finds you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

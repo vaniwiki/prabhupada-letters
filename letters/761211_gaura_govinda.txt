@@ -9,7 +9,6 @@
 
 ====== Gaura Govinda ======
 
-<card class="letter">
 My dear Gaura Govinda,
 
 Please accept my blessings. I am in due receipt of your letter dated 30/11/76.
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 N.B. I have just now received your letter dated 8/12/76. You may come to meet me in Hyderabad before the 17th or come to Bombay by the 22nd December 1976.\\
 ACBS/jda
-</card>

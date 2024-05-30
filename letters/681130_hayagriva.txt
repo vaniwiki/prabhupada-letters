@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 My dear Hayagriva,
 
 Please accept my blessings. I am in due receipt of your letter of Nov. 24, 1968, and I have noted the contents carefully. I am very much pleased to hear of your good reports of OSU Yoga Society---it is very much encouraging to me. I have also appreciated your tape, and I shall return it to you in due time. I have only one.
@@ -24,4 +23,3 @@ Thank you once more for your letter, and I shall be looking forward to your visi
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

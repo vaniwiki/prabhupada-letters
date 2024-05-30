@@ -9,7 +9,6 @@
 
 ====== Harikesa ======
 
-<card class="letter">
 Frankfurt
 
 My dear Harikesa,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/jda
-</card>

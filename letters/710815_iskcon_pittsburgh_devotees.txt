@@ -9,7 +9,6 @@
 
 ====== ISKCON Pittsburgh, Trivikrama, Bibhu, Katyayani, others ======
 
-<card class="letter">
 TO ISKCON PITTSBURGH:
 
 My dear Trivikrama Swami, Bibhu, Katyayani, etc.
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

@@ -9,7 +9,6 @@
 
 ====== Mr. Suresh Candra ======
 
-<card class="letter">
 Mr. Suresh Candra\\
 c/o District Commissioner's office\\
 Vreeden Roop WB Dem.\\
@@ -31,4 +30,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

@@ -9,7 +9,6 @@
 
 ====== Visvakarma ======
 
-<card class="letter">
 Toronto
 
 My dear Viswakarma,
@@ -39,4 +38,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

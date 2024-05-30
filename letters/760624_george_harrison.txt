@@ -9,7 +9,6 @@
 
 ====== George Harrison ======
 
-<card class="letter">
 George Harrison\\
 c/o Bhaktivedanta Manor,
 
@@ -23,4 +22,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

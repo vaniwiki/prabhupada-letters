@@ -9,7 +9,6 @@
 
 ====== Jayapataka ======
 
-<card class="letter">
 Calcutta
 
 My dear Jayapataka Maharaja,
@@ -27,4 +26,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. I hope Nara Narayana has already reached Calcutta for preparing various models. ACB\\
 ACBS/adb
-</card>

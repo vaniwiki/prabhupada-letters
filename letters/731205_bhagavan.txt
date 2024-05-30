@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 My dear Bhagavan Prabhu,
 
 Please accept my blessings. I have arrived safely in Los Angeles by Krsna's Grace and everything here is going nicely.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:Kda
-</card>

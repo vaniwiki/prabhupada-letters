@@ -9,7 +9,6 @@
 
 ====== Manager of Bank of Baroda ======
 
-<card class="letter">
 Manager\\
 Bank of Baroda\\
 Chandni Chowk\\
@@ -24,4 +23,3 @@ Sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS:pdb
-</card>

@@ -9,7 +9,6 @@
 
 ====== Murari ======
 
-<card class="letter">
 London
 
 My dear Murari,
@@ -29,4 +28,4 @@ Kindly offer my blessings to all the others there. Hoping this will meet you in 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
-ACBS/adb</card>
+ACBS/adb

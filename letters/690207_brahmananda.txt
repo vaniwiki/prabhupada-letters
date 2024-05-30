@@ -9,7 +9,6 @@
 
 ====== Brahmananda ======
 
-<card class="letter">
 My dear Brahmananda,
 
 Please accept my blessings. I am in due receipt of your two letters, one of February 2, and one of February 3, 1969. Enclosed is one letter to Nara Narayana which will serve as answer to the letter of February 2nd. I am also enclosing a letter I have sent today to the First National City Bank of New York, and you will please note the contents. Regarding your questions about Dai Nippon, United Shipping, etc. these have already been replied to in my letter to you of February 5, 1969, and I hope you have received this letter by now.
@@ -23,4 +22,3 @@ A.C. Bhaktivedanta Swami
 
 NB: The title cover of __Teachings of Lord Caitanya__ which you have sent to me is very nice. I hope that you have already taken care of the one typographical error on the inside flap, but otherwise, it is completely satisfactory.\\
 *On hearing from you about this I shall write him letter.
-</card>

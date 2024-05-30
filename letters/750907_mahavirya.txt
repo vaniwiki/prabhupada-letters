@@ -9,7 +9,6 @@
 
 ====== Mahavirya ======
 
-<card class="letter">
 Hyderabad
 
 Dear Mahavirya das:
@@ -26,4 +25,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

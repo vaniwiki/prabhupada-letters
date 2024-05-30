@@ -9,7 +9,6 @@
 
 ====== Bhagavan ======
 
-<card class="letter">
 My dear Bhagavan Das:
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 6.9.73 and have noted the contents. It is all very much encouraging to me. You have got a good temple and good number of devotees, so now you just utilize them in Krsna's service, and I will be very much pleased.
@@ -20,4 +19,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

@@ -9,7 +9,6 @@
 
 ====== Pratyaya (Harry Pettee), Duradharsa (Dennis Weatherman), Saranam (Sharon Robinson), Aja (Marnie Watson), Atmavana (Elaine Carnerie), Ahah (Norah Haas) ======
 
-<card class="letter">
 San Diego
 
 My dear Sons and Daughters,
@@ -31,4 +30,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>

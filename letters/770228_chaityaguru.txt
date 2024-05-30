@@ -9,7 +9,6 @@
 
 ====== Chaityaguru ======
 
-<card class="letter">
 c/o ISKCON,\\
 103, Sector 23 A,\\
 Chandigarh 160023
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

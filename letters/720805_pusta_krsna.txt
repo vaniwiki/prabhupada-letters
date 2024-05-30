@@ -9,7 +9,6 @@
 
 ====== Pusta Krsna ======
 
-<card class="letter">
 New Vrindaban
 
 My dear Pusta Krsna,
@@ -20,4 +19,3 @@ Meanwhile, hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

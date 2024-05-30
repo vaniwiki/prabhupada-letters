@@ -9,7 +9,6 @@
 
 ====== Isana, Vibhavati ======
 
-<card class="letter">
 Lachine, Quebec
 
 My dear Isana and Vibhavati,
@@ -32,4 +31,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

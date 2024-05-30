@@ -9,7 +9,6 @@
 
 ====== Hansadutta ======
 
-<card class="letter">
 My dear Hansadutta,
 
 Please accept my blessings. I am in due receipt of your letter dated January 22, 1969, and I have noted the contents carefully. From your letter I can understand that you will no longer be negotiating for purchasing the house, and this is all right because I do not think it is very suitable for a temple.
@@ -20,4 +19,3 @@ Please convey my blessings to your good wife, Himavati. I hope this will meet th
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

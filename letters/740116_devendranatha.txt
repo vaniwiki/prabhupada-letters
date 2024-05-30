@@ -9,7 +9,6 @@
 
 ====== Devendranatha ======
 
-<card class="letter">
 My dear Devendranath,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated January 15, 1974.
@@ -18,4 +17,3 @@ I have considered your proposal to go to California and start a farm if you can 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

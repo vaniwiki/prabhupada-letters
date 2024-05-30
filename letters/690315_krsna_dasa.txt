@@ -9,7 +9,6 @@
 
 ====== Krsna dasa ======
 
-<card class="letter">
 Hamburg
 
 My dear Krishna das,
@@ -28,4 +27,3 @@ I hope you are all feeling happy and well in Krishna Consciousness.
 
 Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

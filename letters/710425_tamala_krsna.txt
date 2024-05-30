@@ -9,7 +9,6 @@
 
 ====== Tamala Krsna ======
 
-<card class="letter">
 My dear Tamala Krishna,
 
 Please accept my blessings. I am in due receipt of your two letters both dated 22nd April, 1971 and have noted the contents carefully. Also I have received your telegram acknowledging receipt of the second check for Rs. 9700/-. So far as the power of attorney requested by you, that I have already sent and you should have received it by now.
@@ -28,4 +27,3 @@ Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

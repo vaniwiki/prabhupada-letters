@@ -9,7 +9,6 @@
 
 ====== Raja Laksmi ======
 
-<card class="letter">
 Auckland
 
 My dear Raja Laksmi dasi,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/dda
-</card>

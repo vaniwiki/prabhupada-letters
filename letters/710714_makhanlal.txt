@@ -9,7 +9,6 @@
 
 ====== Makhanlal ======
 
-<card class="letter">
 Seattle
 
 My dear Makhanlal,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

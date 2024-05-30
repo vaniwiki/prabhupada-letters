@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter dated 1st April, 1970. I am very glad to know that you are busy now in the press assembling the new book __Krishna Consciousness the Topmost Yoga,__ that is very nice. I am sending $2,400 next week as Advaita has requested.
@@ -28,4 +27,3 @@ Hope this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

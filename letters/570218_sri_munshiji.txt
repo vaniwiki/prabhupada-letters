@@ -9,7 +9,6 @@
 
 ====== Sri Munshiji ======
 
-<card class="letter">
 Sri K.M. Munshi\\
 President of the Bharatiya Vidya Bhavan, Bombay\\
 Governor's Camp,\\
@@ -41,4 +40,3 @@ I am,
 
 Yours sincerely,\\
 A.C. Bhaktivedanta
-</card>

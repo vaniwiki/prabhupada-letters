@@ -9,7 +9,6 @@
 
 ====== Bon Maharaja ======
 
-<card class="letter">
 Swami B.H. Bon Maharaja\\
 Rector, Institute of Oriental Philosophy\\
 Bhajan Kutir, Madan Mohan Ghera\\
@@ -37,4 +36,3 @@ Affectionately yours,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

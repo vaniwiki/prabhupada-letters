@@ -9,7 +9,6 @@
 
 ====== Laksmi Narayana ======
 
-<card class="letter">
 Houston
 
 My dear Laksmi Narayana,
@@ -30,4 +29,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

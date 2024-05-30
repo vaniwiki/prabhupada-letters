@@ -9,7 +9,6 @@
 
 ====== Satsvarupa ======
 
-<card class="letter">
 My dear Satsvarupa,
 
 Please accept my blessings. I am in due receipt of your letter dated September 9th, 1969 addressed to the Hamburg center. Now I have come to England. Our temple here is not yet finished, so I am staying in the house of Mr. John Lennon. He is very much kind upon us. Here also there is a nice big hall, exactly suitable for a temple, and the devotees are enjoying the opportunity by chanting there twice, thrice daily. I have also begun to give lectures here on specific days, but there are no outsiders coming. I have arrived here on the 11th September at about 2:30, and the devotees arranged for a very nice reception in the airport. There was chanting, press interviews, and nice press reports have come out with excellent pictures. Some of them are enclosed herewith for your reference. The first meeting organized by the devotees here will be held in the Town Hall tomorrow in the evening. So let us see how we can establish Krishna Consciousness in this part of the world.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 PS: I am in due receipt of Giriraja's letter, sent along with $30 for the maintenance fund. Please thank him for this.
-</card>

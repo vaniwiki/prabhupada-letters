@@ -9,7 +9,6 @@
 
 ====== Pusta Krsna ======
 
-<card class="letter">
 Paris
 
 My dear Pusta Krsna:
@@ -26,4 +25,3 @@ I hope this meets you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

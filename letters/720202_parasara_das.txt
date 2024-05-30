@@ -9,7 +9,6 @@
 
 ====== Parasara das ======
 
-<card class="letter">
 Dear Parasara das,
 
 Please accept my blessings. I am in due receipt of your letter dated Sept. 9th, 1971. Due to my extensive travelling your letter has just reached me. I am in due receipt of your daksine offering. You please direct all your inquiries to Vishnu Jana Maharaj. He is fully qualified to direct you in all matters.
@@ -17,4 +16,3 @@ Please accept my blessings. I am in due receipt of your letter dated Sept. 9th, 
 Your ever well wisher,
 
 A.C. Bhaktivedanta Swami
-</card>

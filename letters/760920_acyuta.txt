@@ -9,7 +9,6 @@
 
 ====== Acyuta ======
 
-<card class="letter">
 Sao Paulo, Brazil
 
 My dear Acyuta das,
@@ -50,4 +49,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

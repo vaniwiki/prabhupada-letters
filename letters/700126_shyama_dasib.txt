@@ -9,7 +9,6 @@
 
 ====== Shyama Dasi ======
 
-<card class="letter">
 1975 So. La Cienega Blvd.\\
 Los Angeles, Cal. 90034
 
@@ -33,4 +32,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS: db
-</card>

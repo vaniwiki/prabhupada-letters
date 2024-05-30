@@ -9,7 +9,6 @@
 
 ====== Advaita ======
 
-<card class="letter">
 Brooklyn
 
 My dear Advaita,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

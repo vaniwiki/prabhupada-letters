@@ -9,7 +9,6 @@
 
 ====== Saurabha ======
 
-<card class="letter">
 Vrindaban
 
 Dear Saurabha,
@@ -28,4 +27,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

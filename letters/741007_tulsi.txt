@@ -9,7 +9,6 @@
 
 ====== Tulsi ======
 
-<card class="letter">
 Los Angeles
 
 My dear Tulsi das:
@@ -38,4 +37,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

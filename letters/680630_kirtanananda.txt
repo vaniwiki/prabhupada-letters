@@ -9,7 +9,6 @@
 
 ====== Kirtanananda ======
 
-<card class="letter">
 Moundsville
 
 My dear Kirtanananda,
@@ -26,4 +25,3 @@ A.C. Bhaktivedanta Swami
 P.S. Hayagriva has not yet replied my letter. Please ask him to write. He has many things to do in the library cases and I want his assistance greatly in this matter. I am planning to go to London in August. Srimati Annapurna's father, Mr. Louis Weble is trying to get a good house for us. I wish to go there with a party of not less than 6 and not more than 12 heads. I wish to establish a center there which is my long cherished ambition.
 
 ACB
-</card>

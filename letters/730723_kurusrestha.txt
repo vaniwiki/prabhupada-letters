@@ -9,7 +9,6 @@
 
 ====== Kurusrestha ======
 
-<card class="letter">
 Denver
 
 Dear Kurusrestha,
@@ -30,4 +29,3 @@ You may hold a fire ceremony for these two, and instruct them conscientiously ab
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

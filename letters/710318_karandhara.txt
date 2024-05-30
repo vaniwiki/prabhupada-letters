@@ -9,7 +9,6 @@
 
 ====== Karandhara ======
 
-<card class="letter">
 Los Angeles
 
 My dear Karandhara,
@@ -33,4 +32,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. I have seen the GBC financial report for January, 1971, but I could not follow what is this "Breakdown" (i.e. BTG a/c $3,717.70; BP a/c $2,798.00; __ total = $6,515.70).\\
 ACBS:ds
-</card>

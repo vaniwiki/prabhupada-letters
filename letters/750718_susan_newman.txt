@@ -9,7 +9,6 @@
 
 ====== Susan Newman ======
 
-<card class="letter">
 Bhaktin Susan Newman\\
 c/o The Catheart's\\
 7411 Countrybrook Drive\\
@@ -27,4 +26,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

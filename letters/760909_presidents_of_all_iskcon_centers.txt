@@ -9,7 +9,6 @@
 
 ====== Presidents of all ISKCON Centers ======
 
-<card class="letter">
 To the Presidents\\
 __all-ISKCON Centers.__
 
@@ -21,4 +20,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/aks
-</card>

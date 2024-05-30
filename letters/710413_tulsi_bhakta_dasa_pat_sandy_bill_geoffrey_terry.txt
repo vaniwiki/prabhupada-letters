@@ -9,7 +9,6 @@
 
 ====== Tulsi, Bhakta dasa, Pat, Sandy, Bill, Geoffrey, Terry ======
 
-<card class="letter">
 San Diego
 
 My dear Tulsi das, Bhakta das, Pat, Sandy, Bill, Geoffrey, and Terry Prabhus,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

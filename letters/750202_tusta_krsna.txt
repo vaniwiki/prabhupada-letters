@@ -9,7 +9,6 @@
 
 ====== Tusta Krsna ======
 
-<card class="letter">
 Auckland, New Zealand
 
 My dear Tusta Krishna Svami,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 Sriman Siddhasvarupa Maharaja is with me here. I met Sudama Vipra %%_%% acarya at Hong Kong
-</card>

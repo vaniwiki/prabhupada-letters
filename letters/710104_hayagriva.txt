@@ -9,7 +9,6 @@
 
 ====== Hayagriva ======
 
-<card class="letter">
 Sriman Hayagriva Das Adhikary\\
 ISKCON Temples\\
 New Vrndavana\\
@@ -37,4 +36,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:ds
-</card>

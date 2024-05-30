@@ -9,7 +9,6 @@
 
 ====== Sri D - - - ji ======
 
-<card class="letter">
 From: ISKCON CAMP,\\
 opposite Hanuman temple,\\
 Magh Mela, Allahabad
@@ -24,4 +23,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

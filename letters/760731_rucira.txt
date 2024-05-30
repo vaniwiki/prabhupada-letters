@@ -9,7 +9,6 @@
 
 ====== Rucira ======
 
-<card class="letter">
 Bhaktivedanta Manor
 
 My dear Rucira dasi:
@@ -24,4 +23,3 @@ Your ever well wisher\\
 A.C. Bhaktivedanta Swami
 
 ACBS/pks
-</card>

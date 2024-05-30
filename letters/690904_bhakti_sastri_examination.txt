@@ -9,7 +9,6 @@
 
 ====== Bhakti Sastri Examination ======
 
-<card class="letter">
 FIRST YEAR BHAKTISASTRI EXAMINATION \\
 September 4th, 1969\\
 time: 9:00 AM to 12:00 Noon\\
@@ -51,4 +50,3 @@ Who created religion first?
 NB:    Answer papers with some contribution to my book fund may be submitted to me. I shall personally examine the papers, and those who will pass will be sent a certificate of Bhaktisastri in due course. The minimum passing mark is 300 out of 1,000.
 
 A.C. Bhaktivedanta Swami
-</card>

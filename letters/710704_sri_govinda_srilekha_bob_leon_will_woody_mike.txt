@@ -9,7 +9,6 @@
 
 ====== Sri Govinda, Srilekha, Bob, Leon, Will, Woody, Mike ======
 
-<card class="letter">
 Cleveland
 
 My dear Sri Govinda, Srilekha, Bob, Leon, Will, Woody and Mike Prabhus.
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

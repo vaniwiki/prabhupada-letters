@@ -9,7 +9,6 @@
 
 ====== MacMillan Company ======
 
-<card class="letter">
 The MacMillan Company\\
 New York
 
@@ -25,4 +24,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:tkd
-</card>

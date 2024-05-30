@@ -9,7 +9,6 @@
 
 ====== Sridhara Maharaja ======
 
-<card class="letter">
 Navadvipa
 
 My dear Revered Sridhara Maharaja:
@@ -29,4 +28,3 @@ I am yours ever sincerely,
 A.C. Bhaktivedanta Swami
 
 ACBS/bs
-</card>

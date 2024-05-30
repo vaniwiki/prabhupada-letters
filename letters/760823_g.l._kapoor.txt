@@ -9,7 +9,6 @@
 
 ====== G. L. Kapoor ======
 
-<card class="letter">
 Delhi
 
 Sri G.L. Kapoor;
@@ -25,4 +24,3 @@ Thanking you,
 A.C. Bhaktivedanta Swami
 
 ACBS/hs
-</card>

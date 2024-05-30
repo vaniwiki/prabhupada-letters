@@ -9,7 +9,6 @@
 
 ====== Yogesvara, Gurudasa, Digvijaya, Lesley, Yvonne, Jyotirmayi, Paul, Prithadevi, Purnananda, Tom, Lena, Dhananjaya, Inga, Mandakini, Tirthapada, Trivikrama, Yamuna, Jaya Hari ======
 
-<card class="letter">
 London
 
 My dear Yogesvara, Gurudasa, Digvijaya, Lesley, Yvonne, Jyotirmayi, Paul, Prithadevi, Purnananda, Tom, Lena, Dhananjaya, Inga, Mandakini, Tirthapada, Trivikrama, Yamuna, and Jaya Hari,
@@ -29,4 +28,3 @@ A.C. Bhaktivedanta Swami
 
 P.S. Where is Mukunda & Janaki please inform.\\
 ACBS:db
-</card>

@@ -9,7 +9,6 @@
 
 ====== Acyutananda ======
 
-<card class="letter">
 Calcutta
 
 My dear Acyutananda,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS:sda
-</card>

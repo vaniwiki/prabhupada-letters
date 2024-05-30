@@ -9,7 +9,6 @@
 
 ====== Bibhu ======
 
-<card class="letter">
 Pittsburgh
 
 My dear Bibhu,
@@ -20,4 +19,3 @@ Please offer my blessings to all the others there. Hoping this will meet you in 
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

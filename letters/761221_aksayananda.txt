@@ -9,7 +9,6 @@
 
 ====== Aksayananda ======
 
-<card class="letter">
 Vrndavana
 
 My dear Aksayananda Maharaja,
@@ -31,4 +30,3 @@ Bhaktivedanta Swami Road\\
 Raman Reti, Vrindavan, Mathura, U.P.\\
 \\
 ACBS/gdb
-</card>

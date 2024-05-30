@@ -9,7 +9,6 @@
 
 ====== Upendra ======
 
-<card class="letter">
 San Francisco
 
 My dear Upendra,
@@ -28,4 +27,3 @@ I shall be glad to hear from you about further details of our successful Rathaya
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Nicholas ======
 
-<card class="letter">
 Wiesbaden, Germany
 
 My dear Nicholas,
@@ -31,4 +30,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/tkg
-</card>

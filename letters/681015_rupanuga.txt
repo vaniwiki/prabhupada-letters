@@ -9,7 +9,6 @@
 
 ====== Rupanuga ======
 
-<card class="letter">
 My dear Rupanuga,
 
 Please accept my blessings. I beg to acknowledge receipt of your two letters dated October 10, and 11, and noted the contents carefully. My first thanks are due to my dear grandson Mr. Eric, who is so kind to pray for my good health. So offer my blessings and thanks to the good child, and I am also praying to Krishna for his long life and prosperity.
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 P.S. Srimati Rupamanjari will certainly be pleased upon you as you are engaged in Krishna's service.
-</card>

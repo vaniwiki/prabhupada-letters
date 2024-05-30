@@ -9,7 +9,6 @@
 
 ====== Mr. Ramanbhai M. Patel ======
 
-<card class="letter">
 Mr. Ramanbhai M. Patel\\
 1255, Fort St., Apt. #201\\
 Montreal H3H 2B8\\
@@ -25,4 +24,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/ps
-</card>

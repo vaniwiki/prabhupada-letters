@@ -9,7 +9,6 @@
 
 ====== Nicholas Prokosch ======
 
-<card class="letter">
 Mr. Nikolas Prokosch\\
 62 Wiesbaden, Westendstr 6\\
 West Germany
@@ -27,4 +26,3 @@ Yours sincerely,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sdg
-</card>

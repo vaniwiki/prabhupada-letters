@@ -9,7 +9,6 @@
 
 ====== Arundhati ======
 
-<card class="letter">
 My dear Arundhati,
 
 Please accept my blessings. I am in due receipt of your letter of dated January 22, 1969, and I am pleased to send herewith your beads duly chanted upon by me. Your spiritual name is Arundhati which means the great star. It is the name of the wife of Vasistha, a great devotee of Krishna.
@@ -20,4 +19,3 @@ I hope this will meet you in very good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

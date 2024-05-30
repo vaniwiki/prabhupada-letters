@@ -9,7 +9,6 @@
 
 ====== Abhirama ======
 
-<card class="letter">
 Columbus, Ohio
 
 My dear Abhirama Das,
@@ -22,4 +21,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/adb
-</card>

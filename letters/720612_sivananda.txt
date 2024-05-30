@@ -9,7 +9,6 @@
 
 ====== Sivananda ======
 
-<card class="letter">
 My dear Sivananda,
 
 Please accept my blessings. I have received your letter dated 1st June, 1972, and upon your recommendation I am glad to accept Peter Brinkmann as my duly initiated disciple. His letter follows. Yes, I shall be glad to meet with you in London during Rathayatra in a few weeks, and at that time I shall be very glad to give you the Sannyas order of life, so you may prepare for that.
@@ -18,4 +17,3 @@ Meanwhile, Hoping this will meet you in good health.
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

@@ -9,7 +9,6 @@
 
 ====== Ramesvara ======
 
-<card class="letter">
 Dear Ramesvara,
 
 Please accept my blessings. I have received a letter from Yasodanandana Maharaja in Japan dated March 31 in which he writes that he has become very disturbed by reports he says you are making that he and Gurukrpa Maharaja are not authorized by me, and so many criticisms he alleges you are making against them.
@@ -18,4 +17,3 @@ This kind of criticism and counter-criticism is not good. Those who are advanced
 
 Your ever well-wisher\\
 A.C. Bhaktivedanta Swami
-</card>

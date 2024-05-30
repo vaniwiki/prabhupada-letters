@@ -9,7 +9,6 @@
 
 ====== Radha-Damodara ======
 
-<card class="letter">
 Edmonton
 
 My dear son,
@@ -24,4 +23,3 @@ Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/nkd
-</card>

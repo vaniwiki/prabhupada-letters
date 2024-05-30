@@ -9,7 +9,6 @@
 
 ====== Parasara ======
 
-<card class="letter">
 Evanston, Illinois
 
 My dear Parasara Das,
@@ -24,4 +23,3 @@ Your ever well wisher,\\
 A.C. Bhaktivedanta Swami
 
 ACBS: hda
-</card>

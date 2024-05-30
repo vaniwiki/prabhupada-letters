@@ -9,7 +9,6 @@
 
 ====== Gaurasundara ======
 
-<card class="letter">
 My dear Gaurasundara,
 
 Please accept my blessings. I beg to acknowledge receipt of your letter of January 19, 1969, and I have noted the contents with care. Regarding the work you have done on __Caitanya Caritamrta,__ when they are finished being edited and typed please send me the copies so I will give you further work to do with this. I have written in Govinda Dasi's letter about this which you will please read.
@@ -20,4 +19,3 @@ Please continue to keep me informed of your activities in Hawaii. I hope this wi
 
 Your ever well-wisher,\\
 A.C. Bhaktivedanta Swami
-</card>

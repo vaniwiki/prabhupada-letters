@@ -9,7 +9,6 @@
 
 ====== Manager of Great Western Savings and Loan Association ======
 
-<card class="letter">
 To the Manager\\
 Great Western Savings and Loan Association\\
 Fairfax Branch\\
@@ -29,4 +28,3 @@ Yours faithfully,\\
 A.C. Bhaktivedanta Swami
 
 ACBS/sda
-</card>
